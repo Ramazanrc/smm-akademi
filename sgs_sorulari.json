@@ -1,205 +1,203 @@
 {
   "Finansal Muhasebe (SGS Çıkmış)": [
-   [
     {
-        "q": "İşletme, bir yıldır kullandığı maliyet bedeli 200.000 ₺ ve birikmiş amortismanı 40.000 ₺ olan bir bilgisayar yazıcısını 15 gün sonra başka bir işletmeye 150.000 ₺'ye satmak üzere anlaşmış ve 01.06.2025 tarihinde 10.000 ₺ avansı nakit olarak almıştır. İşletme 15 gün sonra yazıcıyı teslim etmiş ve kalan bedeli nakden almıştır. Yazıcının teslimi ile ilgili yapılacak muhasebe kaydında aşağıdaki hesaplardan hangisinin kullanımı yanlıştır? (2025/3. Dönem)",
-        "options": [
-            "A) Kasa hesabı borçlu 140.000 ₺",
-            "B) Alınan Sipariş Avansları hesabı borçlu 10.000 ₺",
-            "C) Birikmiş Amortismanlar hesabı borçlu 40.000 ₺",
-            "D) Demirbaşlar hesabı alacaklı 200.000 ₺",
-            "E) Diğer Olağandışı Gider ve Zararlar hesabı borçlu 10.000 ₺"
-        ],
-        "correct": 1
+      "q": "İşletme, bir yıldır kullandığı maliyet bedeli 200.000 ₺ ve birikmiş amortismanı 40.000 ₺ olan bir bilgisayar yazıcısını 15 gün sonra başka bir işletmeye 150.000 ₺'ye satmak üzere anlaşmış ve 01.06.2025 tarihinde 10.000 ₺ avansı nakit olarak almıştır. İşletme 15 gün sonra yazıcıyı teslim etmiş ve kalan bedeli nakden almıştır. Yazıcının teslimi ile ilgili yapılacak muhasebe kaydında aşağıdaki hesaplardan hangisinin kullanımı yanlıştır? (2025/3. Dönem)",
+      "options": [
+        "A) Kasa hesabı borçlu 140.000 ₺",
+        "B) Alınan Sipariş Avansları hesabı borçlu 10.000 ₺",
+        "C) Birikmiş Amortismanlar hesabı borçlu 40.000 ₺",
+        "D) Demirbaşlar hesabı alacaklı 200.000 ₺",
+        "E) Diğer Olağandışı Gider ve Zararlar hesabı borçlu 10.000 ₺"
+      ],
+      "correct": 1
     },
     {
-        "q": "İşletme, işletme binası dışına otopark yapımı için yüklenici firmaya ilk hakediş raporuna dayanarak, banka aracılığıyla 100.000 ₺ ödemiştir. Nihai hakediş raporu henüz düzenlenmemiştir. Bu işleme ilişkin muhasebe kaydında borçlu hesap aşağıdakilerden hangisidir? (2025/3. Dönem)",
-        "options": [
-            "A) Binalar",
-            "B) Demirbaşlar",
-            "C) Yer Altı ve Yer Üstü Düzenleri",
-            "D) Arazi ve Arsalar",
-            "E) Yapılmakta Olan Yatırımlar"
-        ],
-        "correct": 4
+      "q": "İşletme, işletme binası dışına otopark yapımı için yüklenici firmaya ilk hakediş raporuna dayanarak, banka aracılığıyla 100.000 ₺ ödemiştir. Nihai hakediş raporu henüz düzenlenmemiştir. Bu işleme ilişkin muhasebe kaydında borçlu hesap aşağıdakilerden hangisidir? (2025/3. Dönem)",
+      "options": [
+        "A) Binalar",
+        "B) Demirbaşlar",
+        "C) Yer Altı ve Yer Üstü Düzenleri",
+        "D) Arazi ve Arsalar",
+        "E) Yapılmakta Olan Yatırımlar"
+      ],
+      "correct": 4
     },
     {
-        "q": "İşletme, 100.000 ₺'lik sermaye taahhüdünü yerine getirmeyen bir ortağın paylarını iptal ederek yenilerini yeni bir ortağa 150.000 ₺'ye satmıştır. Bu işleme ilişkin muhasebe kaydında aşağıdaki hesapların hangisinin kullanımı doğrudur? (2025/3. Dönem)",
-        "options": [
-            "A) Sermaye hesabı alacaklı 150.000 ₺",
-            "B) Ödenmemiş Sermaye hesabı borçlu 100.000 ₺",
-            "C) Hisse Senedi İhraç Primleri hesabı alacaklı 50.000 ₺",
-            "D) Hisse Senedi İptal Kârları hesabı alacaklı 50.000 ₺",
-            "E) İştirakler hesabı borçlu 150.000 ₺"
-        ],
-        "correct": 3
+      "q": "İşletme, 100.000 ₺'lik sermaye taahhüdünü yerine getirmeyen bir ortağın paylarını iptal ederek yenilerini yeni bir ortağa 150.000 ₺'ye satmıştır. Bu işleme ilişkin muhasebe kaydında aşağıdaki hesapların hangisinin kullanımı doğrudur? (2025/3. Dönem)",
+      "options": [
+        "A) Sermaye hesabı alacaklı 150.000 ₺",
+        "B) Ödenmemiş Sermaye hesabı borçlu 100.000 ₺",
+        "C) Hisse Senedi İhraç Primleri hesabı alacaklı 50.000 ₺",
+        "D) Hisse Senedi İptal Kârları hesabı alacaklı 50.000 ₺",
+        "E) İştirakler hesabı borçlu 150.000 ₺"
+      ],
+      "correct": 3
     },
     {
-        "q": "İşletme 15.10.2024 tarihinde 50.000 ₺'lik kırtasiye malzemesi satın almış ve bir gider hesabında muhasebeleştirmiştir. Dönem sonunda yapılan kontrollerde kırtasiye malzemesinin 10.000 ₺'lik kısmının kullanılmadığı tespit edilmiştir. Bu işleme ilişkin dönem sonunda yapılan muhasebe kaydında borçlandırılacak hesap aşağıdakilerden hangisidir? (2025/3. Dönem)",
-        "options": [
-            "A) Gider Tahakkukları",
-            "B) Genel Yönetim Giderleri",
-            "C) Gelecek Aylara Ait Giderler",
-            "D) Ticari Mallar",
-            "E) Gelir Tahakkukları"
-        ],
-        "correct": 2
+      "q": "İşletme 15.10.2024 tarihinde 50.000 ₺'lik kırtasiye malzemesi satın almış ve bir gider hesabında muhasebeleştirmiştir. Dönem sonunda yapılan kontrollerde kırtasiye malzemesinin 10.000 ₺'lik kısmının kullanılmadığı tespit edilmiştir. Bu işleme ilişkin dönem sonunda yapılan muhasebe kaydında borçlandırılacak hesap aşağıdakilerden hangisidir? (2025/3. Dönem)",
+      "options": [
+        "A) Gider Tahakkukları",
+        "B) Genel Yönetim Giderleri",
+        "C) Gelecek Aylara Ait Giderler",
+        "D) Ticari Mallar",
+        "E) Gelir Tahakkukları"
+      ],
+      "correct": 2
     },
     {
-        "q": "İşletme, yönetim biriminde çalışan personeline üç ayda bir ikramiye vermekte olup 2025 yılı için toplam ödenecek ikramiye tutarının 720.000 ₺ olacağı tahmin edilmektedir. Buna göre, 2025 yılı ikramiye yükünü aylara eşit olarak dağıtmak isteyen işletmenin 31 Ocak 2025'te yapacağı kayıtta aşağıdaki hesaplardan hangisinin kullanımı doğrudur? (2025/3. Dönem)",
-        "options": [
-            "A) Gider Tahakkukları hesabı 60.000 ₺ alacaklı",
-            "B) Karşılık Giderleri hesabı 60.000 ₺ borçlu",
-            "C) Maliyet Giderleri Karşılığı hesabı 60.000 ₺ alacaklı",
-            "D) Gelecek Aylara Ait Giderler hesabı 60.000 ₺ borçlu",
-            "E) Genel Yönetim Giderleri hesabı 60.000 ₺ alacaklı"
-        ],
-        "correct": 2
+      "q": "İşletme, yönetim biriminde çalışan personeline üç ayda bir ikramiye vermekte olup 2025 yılı için toplam ödenecek ikramiye tutarının 720.000 ₺ olacağı tahmin edilmektedir. Buna göre, 2025 yılı ikramiye yükünü aylara eşit olarak dağıtmak isteyen işletmenin 31 Ocak 2025'te yapacağı kayıtta aşağıdaki hesaplardan hangisinin kullanımı doğrudur? (2025/3. Dönem)",
+      "options": [
+        "A) Gider Tahakkukları hesabı 60.000 ₺ alacaklı",
+        "B) Karşılık Giderleri hesabı 60.000 ₺ borçlu",
+        "C) Maliyet Giderleri Karşılığı hesabı 60.000 ₺ alacaklı",
+        "D) Gelecek Aylara Ait Giderler hesabı 60.000 ₺ borçlu",
+        "E) Genel Yönetim Giderleri hesabı 60.000 ₺ alacaklı"
+      ],
+      "correct": 2
     },
     {
-        "q": "İşletme, alıcılarına önceki bir tarihte satışını gerçekleştirdiği mallara ilişkin toplam 50.000 ₺ tutarında iskonto yapmış ve bu tutarı alıcıların cari hesaplarına kaydetmiştir. Buna göre işletmenin yapacağı kayıtta aşağıdaki hesaplardan hangisinin kullanımı doğrudur? (2025/3. Dönem)",
-        "options": [
-            "A) Satış İskontoları hesabı borçlu",
-            "B) Alıcılar hesabı borçlu",
-            "C) Ticari Mallar hesabı alacaklı",
-            "D) Satılan Ticari Mallar Maliyeti hesabı alacaklı",
-            "E) Satıcılar hesabı borçlu"
-        ],
-        "correct": 0
+      "q": "İşletme, alıcılarına önceki bir tarihte satışını gerçekleştirdiği mallara ilişkin toplam 50.000 ₺ tutarında iskonto yapmış ve bu tutarı alıcıların cari hesaplarına kaydetmiştir. Buna göre işletmenin yapacağı kayıtta aşağıdaki hesaplardan hangisinin kullanımı doğrudur? (2025/3. Dönem)",
+      "options": [
+        "A) Satış İskontoları hesabı borçlu",
+        "B) Alıcılar hesabı borçlu",
+        "C) Ticari Mallar hesabı alacaklı",
+        "D) Satılan Ticari Mallar Maliyeti hesabı alacaklı",
+        "E) Satıcılar hesabı borçlu"
+      ],
+      "correct": 0
     },
     {
-        "q": "Aşağıdaki hesaplardan hangisi genel kesin mizanda kalan verebilir? (2025/3. Dönem)",
-        "options": [
-            "A) Pazarlama, Satış ve Dağıtım Giderleri",
-            "B) Yurtiçi Satışlar",
-            "C) Dönem Kârı veya Zararı",
-            "D) Genel Yönetim Giderleri",
-            "E) Dönem Net Kârı"
-        ],
-        "correct": 4
+      "q": "Aşağıdaki hesaplardan hangisi genel kesin mizanda kalan verebilir? (2025/3. Dönem)",
+      "options": [
+        "A) Pazarlama, Satış ve Dağıtım Giderleri",
+        "B) Yurtiçi Satışlar",
+        "C) Dönem Kârı veya Zararı",
+        "D) Genel Yönetim Giderleri",
+        "E) Dönem Net Kârı"
+      ],
+      "correct": 4
     },
     {
-        "q": "Bilgisayar malzemeleri satan bir işletme, bir parti malı müşterisine 26.12.2024 tarihinde sevk irsaliyesi ile birlikte sevk etmiştir. Bu satış işlemine ait fatura 7 günlük süre beklenmeden 31.12.2024 tarihinde düzenlenmiştir. Bu uygulama muhasebenin aşağıdaki hangi temel kavramı ile ilişkilendirilebilir? (2025/3. Dönem)",
-        "options": [
-            "A) Tutarlılık",
-            "B) İhtiyatlılık",
-            "C) Dönemsellik",
-            "D) Özün önceliği",
-            "E) Önemlilik"
-        ],
-        "correct": 2
+      "q": "Bilgisayar malzemeleri satan bir işletme, bir parti malı müşterisine 26.12.2024 tarihinde sevk irsaliyesi ile birlikte sevk etmiştir. Bu satış işlemine ait fatura 7 günlük süre beklenmeden 31.12.2024 tarihinde düzenlenmiştir. Bu uygulama muhasebenin aşağıdaki hangi temel kavramı ile ilişkilendirilebilir? (2025/3. Dönem)",
+      "options": [
+        "A) Tutarlılık",
+        "B) İhtiyatlılık",
+        "C) Dönemsellik",
+        "D) Özün önceliği",
+        "E) Önemlilik"
+      ],
+      "correct": 2
     },
     {
-        "q": "Stoklarını aralıklı envanter (sayım) yöntemiyle izleyen ve fire bulunmayan bir işletmenin dönem sonunda Ticari Mallar hesabının borç toplamı 550.000 ₺, alacak toplamı 50.000 ₺'dir. Yapılan fiili sayım sonucunda ticari mal mevcudunun 200.000 ₺ olduğu ve değer kaybı olmadığı tespit edilmiştir. Bu bilgilere göre işletme tarafından dönem sonunda yapılacak kayıtlarda aşağıdaki hesapların hangisinin kullanımı doğrudur? (2025/3. Dönem)",
-        "options": [
-            "A) Ticari Mallar hesabı 700.000 ₺ alacaklandırılır.",
-            "B) Satılan Ticari Mallar Maliyeti hesabı 300.000 ₺ borçlandırılır.",
-            "C) Ticari Mallar hesabı 150.000 ₺ alacaklandırılır.",
-            "D) Pazarlama, Satış ve Dağıtım Giderleri hesabı 300.000 ₺ borçlandırılır.",
-            "E) Yurtiçi Satışlar hesabı 300.000 ₺ alacaklandırılır."
-        ],
-        "correct": 1
+      "q": "Stoklarını aralıklı envanter (sayım) yöntemiyle izleyen ve fire bulunmayan bir işletmenin dönem sonunda Ticari Mallar hesabının borç toplamı 550.000 ₺, alacak toplamı 50.000 ₺'dir. Yapılan fiili sayım sonucunda ticari mal mevcudunun 200.000 ₺ olduğu ve değer kaybı olmadığı tespit edilmiştir. Bu bilgilere göre işletme tarafından dönem sonunda yapılacak kayıtlarda aşağıdaki hesapların hangisinin kullanımı doğrudur? (2025/3. Dönem)",
+      "options": [
+        "A) Ticari Mallar hesabı 700.000 ₺ alacaklandırılır.",
+        "B) Satılan Ticari Mallar Maliyeti hesabı 300.000 ₺ borçlandırılır.",
+        "C) Ticari Mallar hesabı 150.000 ₺ alacaklandırılır.",
+        "D) Pazarlama, Satış ve Dağıtım Giderleri hesabı 300.000 ₺ borçlandırılır.",
+        "E) Yurtiçi Satışlar hesabı 300.000 ₺ alacaklandırılır."
+      ],
+      "correct": 1
     },
     {
-        "q": "İşletme, devlete ait bir enerji üretim sahasının 49 yıllık işletme hakkını satın almış ve ödemeyi banka aracılığıyla gerçekleştirmiştir. Bu işleme ilişkin muhasebe kaydında aşağıdaki hesaplardan hangisi borçlandırılır? (2025/3. Dönem)",
-        "options": [
-            "A) Kuruluş ve Örgütlenme Giderleri",
-            "B) Özel Maliyetler",
-            "C) Haklar",
-            "D) Verilen Depozito ve Teminatlar",
-            "E) Tesis, Makine ve Cihazlar"
-        ],
-        "correct": 2
+      "q": "İşletme, devlete ait bir enerji üretim sahasının 49 yıllık işletme hakkını satın almış ve ödemeyi banka aracılığıyla gerçekleştirmiştir. Bu işleme ilişkin muhasebe kaydında aşağıdaki hesaplardan hangisi borçlandırılır? (2025/3. Dönem)",
+      "options": [
+        "A) Kuruluş ve Örgütlenme Giderleri",
+        "B) Özel Maliyetler",
+        "C) Haklar",
+        "D) Verilen Depozito ve Teminatlar",
+        "E) Tesis, Makine ve Cihazlar"
+      ],
+      "correct": 2
     },
     {
-        "q": "İşletme, müşterisine özel olarak üreteceği 400.000 ₺ + %1 KDV tutarındaki makine için sipariş anında 54.000 ₺'lik avansı banka havalesiyle almıştır. Makine tesliminde avans mahsup edildikten sonra kalan tutar için müşteri tarafından aynı tutarda çek verilmiştir. Buna göre satışa ilişkin teslim zamanında yapılacak muhasebe kaydıyla ilgili aşağıdakilerden hangisi yanlıştır? (2025/3. Dönem)",
-        "options": [
-            "A) Alınan Çekler hesabı 350.000 ₺ borçlandırılır.",
-            "B) Tesis, Makine ve Cihazlar hesabı 400.000 ₺ alacaklandırılır.",
-            "C) Hesaplanan KDV hesabı 4.000 ₺ alacaklandırılır.",
-            "D) Alınan Sipariş Avansları hesabı 54.000 ₺ borçlandırılır.",
-            "E) Yurtiçi Satışlar hesabı 400.000 ₺ alacaklandırılır."
-        ],
-        "correct": 1
+      "q": "İşletme, müşterisine özel olarak üreteceği 400.000 ₺ + %1 KDV tutarındaki makine için sipariş anında 54.000 ₺'lik avansı banka havalesiyle almıştır. Makine tesliminde avans mahsup edildikten sonra kalan tutar için müşteri tarafından aynı tutarda çek verilmiştir. Buna göre satışa ilişkin teslim zamanında yapılacak muhasebe kaydıyla ilgili aşağıdakilerden hangisi yanlıştır? (2025/3. Dönem)",
+      "options": [
+        "A) Alınan Çekler hesabı 350.000 ₺ borçlandırılır.",
+        "B) Tesis, Makine ve Cihazlar hesabı 400.000 ₺ alacaklandırılır.",
+        "C) Hesaplanan KDV hesabı 4.000 ₺ alacaklandırılır.",
+        "D) Alınan Sipariş Avansları hesabı 54.000 ₺ borçlandırılır.",
+        "E) Yurtiçi Satışlar hesabı 400.000 ₺ alacaklandırılır."
+      ],
+      "correct": 1
     },
     {
-        "q": "İşletme, nominal değeri 150.000 ₺ olan alacak senetlerinin dönem sonundaki tasarruf değerini 120.000 ₺ olarak hesaplamıştır. İşletme alacak senetlerini tasarruf değeriyle değerlemeye karar vermiştir. Buna göre işletmenin dönem sonunda yapacağı muhasebe kaydında aşağıdaki hesaplardan hangisinin kullanımı doğrudur? (2025/3. Dönem)",
-        "options": [
-            "A) Alacak Senetleri hesabı 30.000 ₺ alacaklandırılır.",
-            "B) Alacak Senetleri Reeskontu hesabı 30.000 ₺ alacaklandırılır.",
-            "C) Reeskont Faiz Giderleri hesabı 30.000 ₺ alacaklandırılır.",
-            "D) Reeskont Faiz Gelirleri hesabı 30.000 ₺ borçlandırılır.",
-            "E) Alacak Senetleri Reeskontu hesabı 120.000 ₺ borçlandırılır."
-        ],
-        "correct": 1
+      "q": "İşletme, nominal değeri 150.000 ₺ olan alacak senetlerinin dönem sonundaki tasarruf değerini 120.000 ₺ olarak hesaplamıştır. İşletme alacak senetlerini tasarruf değeriyle değerlemeye karar vermiştir. Buna göre işletmenin dönem sonunda yapacağı muhasebe kaydında aşağıdaki hesaplardan hangisinin kullanımı doğrudur? (2025/3. Dönem)",
+      "options": [
+        "A) Alacak Senetleri hesabı 30.000 ₺ alacaklandırılır.",
+        "B) Alacak Senetleri Reeskontu hesabı 30.000 ₺ alacaklandırılır.",
+        "C) Reeskont Faiz Giderleri hesabı 30.000 ₺ alacaklandırılır.",
+        "D) Reeskont Faiz Gelirleri hesabı 30.000 ₺ borçlandırılır.",
+        "E) Alacak Senetleri Reeskontu hesabı 120.000 ₺ borçlandırılır."
+      ],
+      "correct": 1
     },
     {
-        "q": "İşletme, 01.07.2023 tarihinde 1.200.000 ₺ maliyet bedeliyle ekonomik ömrü beş yıl olan bir binek otomobili aktifine kaydetmiştir. Azalan bakiyeler amortisman yöntemini kullanan işletme, 2023 dönem sonunda ilgili otomobil için kıst (ay bazlı) amortisman ayırmıştır. 2024 yılından itibaren ise normal amortisman (eşit tutarlar) yöntemine geçmiştir. Buna göre işletmenin 31.12.2024 tarihli bilançosunda otomobil ile ilgili birikmiş amortisman tutarı kaç ₺'dir? (2025/3. Dönem)",
-        "options": [
-            "A) 360.000",
-            "B) 390.000",
-            "C) 480.000",
-            "D) 624.000",
-            "E) 660.000"
-        ],
-        "correct": 2
+      "q": "İşletme, 01.07.2023 tarihinde 1.200.000 ₺ maliyet bedeliyle ekonomik ömrü beş yıl olan bir binek otomobili aktifine kaydetmiştir. Azalan bakiyeler amortisman yöntemini kullanan işletme, 2023 dönem sonunda ilgili otomobil için kıst (ay bazlı) amortisman ayırmıştır. 2024 yılından itibaren ise normal amortisman (eşit tutarlar) yöntemine geçmiştir. Buna göre işletmenin 31.12.2024 tarihli bilançosunda otomobil ile ilgili birikmiş amortisman tutarı kaç ₺'dir? (2025/3. Dönem)",
+      "options": [
+        "A) 360.000",
+        "B) 390.000",
+        "C) 480.000",
+        "D) 624.000",
+        "E) 660.000"
+      ],
+      "correct": 2
     },
     {
-        "q": "İşletme önceki dönemde 120.000 ₺'ye satın aldığı 100.000 ₺ nominal değerli hisse senetlerinin dönem sonundaki değerinin 110.000 ₺ olarak belirlenmesi nedeniyle karşılık ayırmış ve izleyen dönemde hisse senetlerini 125.000 ₺'ye, 2.500 ₺ komisyon ödeyerek banka aracılığıyla satmış ve şu kaydı yapmıştır: 102 BANKALAR 122.500 (Borçlu), 653 KOMİSYON GİDERLERİ 2.500 (Borçlu), 119 MENKUL KIYMETLER DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI 10.000 (Borçlu) // 110 HİSSE SENETLERİ 110.000 (Alacaklı), 644 KONUSU KALMAYAN KARŞILIKLAR 10.000 (Alacaklı), 645 MENKUL KIYMET SATIŞ KARLARI 15.000 (Alacaklı). Buna göre yukarıdaki kayıtta hangi hesapların tutarları yanlış yazılmıştır? (2025/3. Dönem)",
-        "options": [
-            "A) 102 Bankalar - 110 Hisse Senetleri",
-            "B) 119 Menkul Kıymetler Değer Düşüklüğü Karşılığı - 645 Menkul Kıymet Satış Kârları",
-            "C) 110 Hisse Senetleri - 644 Konusu Kalmayan Karşılıklar",
-            "D) 102 Bankalar - 645 Menkul Kıymet Satış Kârları",
-            "E) 110 Hisse Senetleri - 645 Menkul Kıymet Satış Kârları"
-        ],
-        "correct": 4
+      "q": "İşletme önceki dönemde 120.000 ₺'ye satın aldığı 100.000 ₺ nominal değerli hisse senetlerinin dönem sonundaki değerinin 110.000 ₺ olarak belirlenmesi nedeniyle karşılık ayırmış ve izleyen dönemde hisse senetlerini 125.000 ₺'ye, 2.500 ₺ komisyon ödeyerek banka aracılığıyla satmış ve şu kaydı yapmıştır: 102 BANKALAR 122.500 (Borçlu), 653 KOMİSYON GİDERLERİ 2.500 (Borçlu), 119 MENKUL KIYMETLER DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI 10.000 (Borçlu) // 110 HİSSE SENETLERİ 110.000 (Alacaklı), 644 KONUSU KALMAYAN KARŞILIKLAR 10.000 (Alacaklı), 645 MENKUL KIYMET SATIŞ KARLARI 15.000 (Alacaklı). Buna göre yukarıdaki kayıtta hangi hesapların tutarları yanlış yazılmıştır? (2025/3. Dönem)",
+      "options": [
+        "A) 102 Bankalar - 110 Hisse Senetleri",
+        "B) 119 Menkul Kıymetler Değer Düşüklüğü Karşılığı - 645 Menkul Kıymet Satış Kârları",
+        "C) 110 Hisse Senetleri - 644 Konusu Kalmayan Karşılıklar",
+        "D) 102 Bankalar - 645 Menkul Kıymet Satış Kârları",
+        "E) 110 Hisse Senetleri - 645 Menkul Kıymet Satış Kârları"
+      ],
+      "correct": 4
     },
     {
-        "q": "İşletme, kasasındaki 300.000 ₺ tutarındaki bir senedi bankaya iskonto ettirmiş ve karşılığında 288.000 ₺ işletmenin hesabına yatmıştır. Bu işleme ilişkin kayıt aşağıdakilerden hangisidir? (2025/3. Dönem)",
-        "options": [
-            "A) 100 KASA 288.000 (Borçlu), 657 REESKONT FAİZ GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
-            "B) 100 KASA 288.000 (Borçlu), 780 FİNANSMAN GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
-            "C) 102 BANKALAR 288.000 (Borçlu), 657 REESKONT FAİZ GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
-            "D) 102 BANKALAR 288.000 (Borçlu), 780 FİNANSMAN GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
-            "E) 102 BANKALAR 288.000 (Borçlu), 689 DİĞER OLAĞANDIŞI GİDER VE ZARARLAR 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)"
-        ],
-        "correct": 3
+      "q": "İşletme, kasasındaki 300.000 ₺ tutarındaki bir senedi bankaya iskonto ettirmiş ve karşılığında 288.000 ₺ işletmenin hesabına yatmıştır. Bu işleme ilişkin kayıt aşağıdakilerden hangisidir? (2025/3. Dönem)",
+      "options": [
+        "A) 100 KASA 288.000 (Borçlu), 657 REESKONT FAİZ GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
+        "B) 100 KASA 288.000 (Borçlu), 780 FİNANSMAN GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
+        "C) 102 BANKALAR 288.000 (Borçlu), 657 REESKONT FAİZ GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
+        "D) 102 BANKALAR 288.000 (Borçlu), 780 FİNANSMAN GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
+        "E) 102 BANKALAR 288.000 (Borçlu), 689 DİĞER OLAĞANDIŞI GİDER VE ZARARLAR 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)"
+      ],
+      "correct": 3
     },
     {
-        "q": "İşletme, üretim faaliyetinde kullandığı bir makineyi yenilemek amacıyla satmış ve bu satıştan 25.000 ₺ kâr etmiştir. Kâr, bir özkaynak hesabına aktarılmıştır. Bir sonraki yılın başında 100.000 ₺'ye 5 yıl ekonomik ömrü olan ve eşit tutarlar (normal amortisman) yöntemine göre amortismana tabi tutulan yeni makineyi almıştır. Verilen bilgilere göre yeni makine için ikinci yılın sonunda ayrılacak amortismanın kaydında aşağıdakilerden hangisi yer alır? (2025/3. Dönem)",
-        "options": [
-            "A) Birikmiş Amortismanlar hesabı 20.000 ₺ borçlu",
-            "B) Özel Fonlar hesabı 5.000 ₺ borçlu",
-            "C) Özel Fonlar hesabı 20.000 ₺ borçlu",
-            "D) Birikmiş Amortismanlar hesabı 5.000 ₺ alacaklı",
-            "E) Genel Üretim Giderleri hesabı 20.000 ₺ alacaklı"
-        ],
-        "correct": 1
+      "q": "İşletme, üretim faaliyetinde kullandığı bir makineyi yenilemek amacıyla satmış ve bu satıştan 25.000 ₺ kâr etmiştir. Kâr, bir özkaynak hesabına aktarılmıştır. Bir sonraki yılın başında 100.000 ₺'ye 5 yıl ekonomik ömrü olan ve eşit tutarlar (normal amortisman) yöntemine göre amortismana tabi tutulan yeni makineyi almıştır. Verilen bilgilere göre yeni makine için ikinci yılın sonunda ayrılacak amortismanın kaydında aşağıdakilerden hangisi yer alır? (2025/3. Dönem)",
+      "options": [
+        "A) Birikmiş Amortismanlar hesabı 20.000 ₺ borçlu",
+        "B) Özel Fonlar hesabı 5.000 ₺ borçlu",
+        "C) Özel Fonlar hesabı 20.000 ₺ borçlu",
+        "D) Birikmiş Amortismanlar hesabı 5.000 ₺ alacaklı",
+        "E) Genel Üretim Giderleri hesabı 20.000 ₺ alacaklı"
+      ],
+      "correct": 1
     },
     {
-        "q": "Aşağıdaki hesaplardan hangisi dönem sonunda 690 Dönem Kârı veya Zararı hesabına devredilmez? (2025/3. Dönem)",
-        "options": [
-            "A) Kambiyo Kârları",
-            "B) Komisyon Gelirleri",
-            "C) Bağlı Ortaklıklardan Temettü Gelirleri",
-            "D) Geçmiş Yıllar Kârları",
-            "E) Menkul Kıymet Satış Kârları"
-        ],
-        "correct": 3
+      "q": "Aşağıdaki hesaplardan hangisi dönem sonunda 690 Dönem Kârı veya Zararı hesabına devredilmez? (2025/3. Dönem)",
+      "options": [
+        "A) Kambiyo Kârları",
+        "B) Komisyon Gelirleri",
+        "C) Bağlı Ortaklıklardan Temettü Gelirleri",
+        "D) Geçmiş Yıllar Kârları",
+        "E) Menkul Kıymet Satış Kârları"
+      ],
+      "correct": 3
     },
     {
-        "q": "Kâr dağıtımı ile ilgili aşağıdakilerden hangisi doğrudur? (2025/3. Dönem)",
-        "options": [
-            "A) Yasal yedek ayıran sermaye şirketleri, kurumlar vergisinden muaftırlar.",
-            "B) Hesaplanan temettüler Ortaklardan Alacaklar hesabına aktarılır.",
-            "C) Şirket ana sözleşmesi gereğince işletmede bırakılması gereken kâr yedekleri, Statü Yedekleri hesabında takip edilir.",
-            "D) Mevzuat gereğince ayrılan yedekler, Olağanüstü Yedekler hesabında takip edilir.",
-            "E) Genel kurulca işletmede bırakılmasına karar verilen yedekler, Yasal Yedekler hesabında takip edilir."
-        ],
-        "correct": 2
+      "q": "Kâr dağıtımı ile ilgili aşağıdakilerden hangisi doğrudur? (2025/3. Dönem)",
+      "options": [
+        "A) Yasal yedek ayıran sermaye şirketleri, kurumlar vergisinden muaftırlar.",
+        "B) Hesaplanan temettüler Ortaklardan Alacaklar hesabına aktarılır.",
+        "C) Şirket ana sözleşmesi gereğince işletmede bırakılması gereken kâr yedekleri, Statü Yedekleri hesabında takip edilir.",
+        "D) Mevzuat gereğince ayrılan yedekler, Olağanüstü Yedekler hesabında takip edilir.",
+        "E) Genel kurulca işletmede bırakılmasına karar verilen yedekler, Yasal Yedekler hesabında takip edilir."
+      ],
+      "correct": 2
     }
-]
   ],
   "Vergi Hukuku (SGS Çıkmış)": [],
   "Maliyet Muhasebesi (SGS Çıkmış)": []
