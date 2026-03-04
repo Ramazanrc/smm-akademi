@@ -160,10 +160,13 @@
         const urlParams = new URLSearchParams(window.location.search);
         const secilenDers = urlParams.get('ders'); 
         let dosyaPath = (secilenDers === 'vergi') ? 'vergi_mevzuati.json' : 
-                        (secilenDers === 'muhasebe') ? 'muhasebe_denetimi.json' : 'ana_soru_bankasi.json';
+                (secilenDers === 'muhasebe') ? 'muhasebe_denetimi.json' : 
+                (secilenDers === 'sgs') ? 'sgs_sorulari.json' : 'ana_soru_bankasi.json';
 
         // İSİMLENDİRME DÜZELTİLDİ: Artık sağdaki butona basınca Muhasebe Denetimi yazacak
-        const anaDersAdi = (secilenDers === 'vergi') ? 'Vergi Hukuku' : 'Muhasebe Denetimi';
+        const anaDersAdi = (secilenDers === 'vergi') ? 'Vergi Hukuku' : 
+                   (secilenDers === 'sgs') ? 'SGS Çıkmış Sorular' : 'Muhasebe Denetimi';
+
         document.getElementById('header-ders-adi').innerText = anaDersAdi;
         document.getElementById('ders-baslik-menusu').innerText = anaDersAdi + " KONULARI";
 
