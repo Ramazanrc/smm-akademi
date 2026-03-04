@@ -1,5 +1,5 @@
 {
-"Test 01: Denetim Raporu Bölümleri": [
+"1- Denetim Raporu Bölümleri": [
     {
       "id": "055252",
       "q": "Aşağıdakilerden hangisi bağımsız denetçi tarafından düzenlenen denetim raporunun temel bölümlerinden biri değildir?",
@@ -235,7 +235,7 @@
       "correct": 1
     }
   ],
-  "Test 02: Görüş Türleri": [
+  "2- Görüş Türleri": [
     {
       "id": "051267",
       "q": "I. Yanlışlıkların tek başına veya toplu olarak önemli olduğu ancak finansal tablolarda yaygın olmadığı sonucuna varılması\nII. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli ve yaygın olabileceği sonucuna varılması\nIII. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği ancak yaygın olmayabileceği sonucuna varılması\nYukarıda yer alan ifadelerden hangileri denetçinin sınırlı olumlu görüş verme nedenlerindendir?",
@@ -375,7 +375,7 @@
       "correct": 4
     }
   ],
-  "Test 03: Müşteri Seçimi ve Sözleşme": [
+  "3- Müşteri Seçimi ve Sözleşme": [
     { "q": "1. Denetim için başvuran müşterinin kabul edilip edilmeyeceği veya var olan bir müşteri ile devam edilip edilmeyeceği aşağıdaki denetim süreçlerinden hangisinin kapsamındadır?", "options": ["A) Sözleşme Öncesi Faaliyetler", "B) Denetim Planının Hazırlanması", "C) Denetim Planının Uygulanması", "D) Raporlama Aşaması", "E) Denetim programının Hazırlanması"], "correct": 0 },
     { "q": "2. 6102 sayılı Türk Ticaret Kanunu'na göre, gerçekleştirilecek bağımsız denetimlerde denetim şirketinin seçimi aşağıdakilerden hangisinin görevidir?", "options": ["A) Şirket genel kurulu", "B) Şirket yönetim kurulu", "C) Şirket merkezinin bulunduğu yerdeki vergi dairesi", "D) Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumu", "E) Sermaye Piyasası Kurulu"], "correct": 0 },
     { "q": "3. Bağımsız Denetim Yönetmeliği'ne göre, denetim sözleşmesi, denetim kuruluşu veya denetimi üstlenen bağımsız denetçinin seçiminden itibaren en geç kaç gün içinde yapılır?", "options": ["A) 30", "B) 60", "C) 90", "D) 120", "E) 150"], "correct": 1 },
@@ -399,7 +399,7 @@
     { "q": "21. 'Denetçi yönetimden sorumlulukları anladığını tekrar teyit etmesini isteyebilir.' Aşağıdakilerden hangisi bu duruma örnek gösterilemez?", "options": ["A) İmzalayan kişilerin artık söz konusu sorumluluklara sahip olmaması", "B) Denetim sözleşmesi şartlarının bir önceki yılda hazırlanmış olması", "C) Yönetimin bu sorumlulukları yanlış anladığı yönünde bir göstergenin bulunması", "D) Denetim planının karşılıklı mutabakatla oluşturulduğunun teyidi", "E) Şartlarda meydana gelen değişikliklerin tekrar teyit alınmasını uygun hâle getirmesi"], "correct": 3 },
     { "q": "22. Denetçinin, finansal raporlama çerçevesinin kabul edilebilir olup olmadığını belirlerken dikkate alacağı faktörler arasında hangisi yer almaz?", "options": ["A) Müşterinin kara para aklama veya suç faaliyetlerinde bulunabileceğine ilişkin göstergeler", "B) İşletmenin niteliği", "C) Mevzuatın geçerli finansal raporlama çerçevesini belirleyip belirlemediği", "D) Finansal tabloların niteliği", "E) Finansal tabloların amacı"], "correct": 0 }
 ],
-"Test 04: Kanıt ve Özellikleri": [
+"4- Kanıt ve Özellikleri": [
     { 
         "q": "1. “Denetçinin, görüşüne dayanak oluşturan sonuçlara ulaşırken kullandığı bilgiler” olarak ifade edilen kavram aşağıdakilerden hangisidir?", 
         "options": [
@@ -654,7 +654,7 @@
         "correct": 4 
     }
 ],
-"Test 05: Önemlilik": [
+"5- Önemlilik": [
     { 
         "q": "1. Denetimin planlanması ve yürütülmesinde “önemlilikle” ilgili aşağıdakilerden hangisi doğrudur?", 
         "options": [
@@ -799,7 +799,7 @@
         "correct": 2 
     }
 ],
-"Test 06: Çalışma Kağıtları": [
+"6- Çalışma Kağıtları": [
     { 
         "id": "058420",
         "q": "1. Aşağıdakilerden hangisi çalışma kâğıtlarının hazırlanma amaçlarından biri değildir?", 
@@ -1041,7 +1041,7 @@
         "correct": 3 
     }
 ],
-"Test 07: Denetim Prosedürleri": [
+"7- Denetim Prosedürleri": [
     { 
         "id": "054297",
         "q": "1. Aşağıdakilerden hangisi denetçinin risk değerlendirme prosedürlerinden biri değildir?", 
@@ -1499,7 +1499,7 @@
         "correct": 3 
     }
 ],
-"Test 08: Hile": [
+"8- Hile": [
     { 
         "id": "051754",
         "q": "1. Hilenin önlenmesi ve tespit edilmesine ilişkin sorumluluk aşağıdakilerden hangisine aittir?", 
@@ -1669,7 +1669,7 @@
         "correct": 2 
     }
 ],
-"Test 09: Örneklem ve Seçim Teknikleri": [
+"9- Örneklem ve Seçim Teknikleri": [
     { 
         "id": "053964",
         "q": "1. İçinden bir örneklemin seçildiği ve denetçinin hakkında sonuçlara varmak istediği veri setinin tamamı şeklinde yapılan tanım aşağıdakilerden hangisine aittir?", 
