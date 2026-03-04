@@ -238,7 +238,7 @@
         function soruYukle() {
             const s = aktifSorular[mevcutSoruIndex];
             document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
-            document.getElementById('soru-metni').innerText = s.q; 
+            document.getElementById('soru-metni').innerHTML = s.q; 
             document.getElementById('next-btn').disabled = true;
 
             const liste = document.getElementById('secenekler-listesi');
