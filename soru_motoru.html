@@ -2,26 +2,44 @@
 <html lang="tr">
    <head>
    <style>
+  /* MOBİL UYGULAMA (APP) GÖRÜNÜMÜ KODLARI */
   @media (max-width: 768px) {
-    /* Ekranı yan yana değil, alt alta diz */
-    body > .d-flex, .row {
-      flex-direction: column !important;
-    }
-    /* Sol Menü (Sidebar) Ayarı: Mobilde %100 genişlik ve kaydırılabilir alan */
-    .sidebar, aside, #sidebar, .bg-dark {
+    /* Varsayılan durumda (site ilk açıldığında) sadece Menü görünsün */
+    body:not(.mobil-soru-acik) .sidebar, body:not(.mobil-soru-acik) .bg-dark {
       width: 100% !important;
       min-width: 100% !important;
-      height: auto !important;
-      max-height: 250px !important; /* Menü çok uzun olmasın, aşağı kaydırılabilsin */
+      height: 100vh !important;
       overflow-y: auto !important;
-      position: relative !important;
+      display: block !important;
     }
-    /* Soru Alanı Ayarı: Tam ekran yap */
-    .content, main, #content, .container-fluid {
+    body:not(.mobil-soru-acik) .content, body:not(.mobil-soru-acik) main {
+      display: none !important; /* Menüdeyken soruları tamamen gizle */
+    }
+
+    /* Bir konuya tıklandığında (sorular açıldığında) Menüyü gizle, Soruları tam ekran yap */
+    body.mobil-soru-acik .sidebar, body.mobil-soru-acik .bg-dark {
+      display: none !important; 
+    }
+    body.mobil-soru-acik .content, body.mobil-soru-acik main {
+      display: block !important;
       width: 100% !important;
       max-width: 100% !important;
       margin-left: 0 !important;
       padding: 15px !important;
+      height: 100vh !important;
+      overflow-y: auto !important;
+    }
+
+    /* Mobilde Geri Dön butonunu göster */
+    #mobil-geri-btn {
+      display: block !important;
+    }
+  }
+
+  /* MASAÜSTÜNDE GERİ BUTONUNU GİZLE (Bilgisayarı bozmamak için) */
+  @media (min-width: 769px) {
+    #mobil-geri-btn {
+      display: none !important;
     }
   }
 </style>
@@ -119,7 +137,9 @@
         </header>
 
         <div class="content-scroll">
-            
+          <button id="mobil-geri-btn" class="btn btn-sm btn-outline-secondary mb-3" onclick="menuyeDon()">
+    <i class="fas fa-arrow-left"></i> Konulara Dön
+</button>  
             <div id="soru-alani" class="question-card">
                 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
                     <span id="soru-sayac" class="badge" style="background: var(--sidebar-bg); color: white; padding: 8px 15px; border-radius: 20px; font-size: 13px;">Soru: 0/0</span>
@@ -261,6 +281,7 @@
 
         // 7. SORU YÜKLEME VE A-B-C ŞIKLARINI TEMİZLEME
         function soruYukle() {
+            document.body.classList.add('mobil-soru-acik');
             const s = aktifSorular[mevcutSoruIndex];
             document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
             document.getElementById('soru-metni').innerHTML = s.q; 
@@ -316,7 +337,12 @@
                 const yuzde = (toplamSoru > 0) ? Math.round((dogruSayisi / toplamSoru) * 100) : 0;
                 document.getElementById('skor-yuzde').innerText = "%" + yuzde;
             }
-        }
-    </script>
+          }
+        function menuyeDon() {
+    // Soru ekranını kapatıp menüye dönmeyi sağlar
+    document.body.classList.remove('mobil-soru-acik');
+}
+</script>
+    
 </body>
 </html>
