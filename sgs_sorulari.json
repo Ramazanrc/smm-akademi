@@ -1,5 +1,39 @@
 {
-  "Finansal Muhasebe (SGS Çıkmış)": [],
+  "Finansal Muhasebe (SGS Çıkmış)": [
+    {
+    "q": "31. İşletme, bir yıldır kullandığı maliyet bedeli 200.000 ₺ ve birikmiş amortismanı 40.000 ₺ olan bir bilgisayar yazıcısını 15 gün sonra başka bir işletmeye 150.000 ₺'ye satmak üzere anlaşmış ve 01.06.2025 tarihinde 10.000 ₺ avansı nakit olarak almıştır. İşletme 15 gün sonra yazıcıyı teslim etmiş ve kalan bedeli nakden almıştır. Yazıcının teslimi ile ilgili yapılacak muhasebe kaydında aşağıdaki hesaplardan hangisinin kullanımı yanlıştır? (2025/3. Dönem)",
+    "options": [
+        "Kasa hesabı borçlu 140.000 ₺",
+        "Alınan Sipariş Avansları hesabı borçlu 10.000 ₺",
+        "Birikmiş Amortismanlar hesabı borçlu 40.000 ₺",
+        "Demirbaşlar hesabı alacaklı 200.000 ₺",
+        "Diğer Olağandışı Gider ve Zararlar hesabı borçlu 10.000 ₺"
+    ],
+    "correct": 0
+},
+{
+    "q": "32. İşletme, işletme binası dışına otopark yapımı için yüklenici firmaya ilk hakediş raporuna dayanarak, banka aracılığıyla 100.000 ₺ ödemiştir. Nihai hakediş raporu henüz düzenlenmemiştir. Bu işleme ilişkin muhasebe kaydında borçlu hesap aşağıdakilerden hangisidir? (2025/3. Dönem)",
+    "options": [
+        "Binalar",
+        "Demirbaşlar",
+        "Yer Altı ve Yer Üstü Düzenleri",
+        "Arazi ve Arsalar",
+        "Yapılmakta Olan Yatırımlar"
+    ],
+    "correct": 4
+},
+{
+    "q": "33. İşletme, 100.000 ₺'lik sermaye taahhüdünü yerine getirmeyen bir ortağın paylarını iptal ederek yenilerini yeni bir ortağa 150.000 ₺'ye satmıştır. Bu işleme ilişkin muhasebe kaydında aşağıdaki hesapların hangisinin kullanımı doğrudur? (2025/3. Dönem)",
+    "options": [
+        "Sermaye hesabı alacaklı 150.000 ₺",
+        "Ödenmemiş Sermaye hesabı borçlu 100.000 ₺",
+        "Hisse Senedi İhraç Primleri hesabı alacaklı 50.000 ₺",
+        "Hisse Senedi İptal Kârları hesabı alacaklı 50.000 ₺",
+        "İştirakler hesabı borçlu 150.000 ₺"
+    ],
+    "correct": 3
+}
+  ],
   "Vergi Hukuku (SGS Çıkmış)": [],
   "Maliyet Muhasebesi (SGS Çıkmış)": []
 }
