@@ -144,7 +144,7 @@
       "correct": 2
     },
     {
-      "q": "İşletme önceki dönemde 120.000 ₺'ye satın aldığı 100.000 ₺ nominal değerli hisse senetlerinin dönem sonundaki değerinin 110.000 ₺ olarak belirlenmesi nedeniyle karşılık ayırmış ve izleyen dönemde hisse senetlerini 125.000 ₺'ye, 2.500 ₺ komisyon ödeyerek banka aracılığıyla satmış ve şu kaydı yapmıştır: 102 BANKALAR 122.500 (Borçlu), 653 KOMİSYON GİDERLERİ 2.500 (Borçlu), 119 MENKUL KIYMETLER DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI 10.000 (Borçlu) // 110 HİSSE SENETLERİ 110.000 (Alacaklı), 644 KONUSU KALMAYAN KARŞILIKLAR 10.000 (Alacaklı), 645 MENKUL KIYMET SATIŞ KARLARI 15.000 (Alacaklı). Buna göre yukarıdaki kayıtta hangi hesapların tutarları yanlış yazılmıştır? (2025/3. Dönem)",
+      "q": "İşletme önceki dönemde 120.000 ₺'ye satın aldığı 100.000 ₺ nominal değerli hisse senetlerinin dönem sonundaki değerinin 110.000 ₺ olarak belirlenmesi nedeniyle karşılık ayırmış ve izleyen dönemde hisse senetlerini 125.000 ₺'ye, 2.500 ₺ komisyon ödeyerek banka aracılığıyla satmış ve şu kaydı yapmıştır:<br><br><table class='table table-bordered table-sm' style='max-width: 600px; margin: 0 auto; text-align: left;'><tr><td>102 BANKALAR<br>653 KOMİSYON GİDERLERİ<br>119 MENKUL KIYMETLER DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI<br>&nbsp;&nbsp;&nbsp;&nbsp;110 HİSSE SENETLERİ<br>&nbsp;&nbsp;&nbsp;&nbsp;644 KONUSU KALMAYAN KARŞILIKLAR<br>&nbsp;&nbsp;&nbsp;&nbsp;645 MENKUL KIYMET SATIŞ KÂRLARI</td><td style='text-align: right; vertical-align: top;'>122.500<br>2.500<br>10.000<br><br><br><br></td><td style='text-align: right; vertical-align: top;'><br><br><br>110.000<br>10.000<br>15.000</td></tr></table><br>Buna göre yukarıdaki kayıtta hangi hesapların tutarları yanlış yazılmıştır? (2025/3. Dönem)",
       "options": [
         "A) 102 Bankalar - 110 Hisse Senetleri",
         "B) 119 Menkul Kıymetler Değer Düşüklüğü Karşılığı - 645 Menkul Kıymet Satış Kârları",
@@ -157,11 +157,11 @@
     {
       "q": "İşletme, kasasındaki 300.000 ₺ tutarındaki bir senedi bankaya iskonto ettirmiş ve karşılığında 288.000 ₺ işletmenin hesabına yatmıştır. Bu işleme ilişkin kayıt aşağıdakilerden hangisidir? (2025/3. Dönem)",
       "options": [
-        "A) 100 KASA 288.000 (Borçlu), 657 REESKONT FAİZ GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
-        "B) 100 KASA 288.000 (Borçlu), 780 FİNANSMAN GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
-        "C) 102 BANKALAR 288.000 (Borçlu), 657 REESKONT FAİZ GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
-        "D) 102 BANKALAR 288.000 (Borçlu), 780 FİNANSMAN GİDERLERİ 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)",
-        "E) 102 BANKALAR 288.000 (Borçlu), 689 DİĞER OLAĞANDIŞI GİDER VE ZARARLAR 12.000 (Borçlu) / 121 ALACAK SENETLERİ 300.000 (Alacaklı)"
+        "A)<br><table class='table table-sm mb-0'><tr><td>100 KASA<br>&nbsp;&nbsp;&nbsp;&nbsp;657 REESKONT FAİZ GİDERLERİ</td><td class='text-end'>288.000<br>12.000</td><td class='text-end'><br>300.000</td></tr></table>",
+        "B)<br><table class='table table-sm mb-0'><tr><td>100 KASA<br>&nbsp;&nbsp;&nbsp;&nbsp;780 FİNANSMAN GİDERLERİ</td><td class='text-end'>288.000<br>12.000</td><td class='text-end'><br>300.000</td></tr></table>",
+        "C)<br><table class='table table-sm mb-0'><tr><td>102 BANKALAR<br>657 REESKONT FAİZ GİDERLERİ<br>&nbsp;&nbsp;&nbsp;&nbsp;121 ALACAK SENETLERİ</td><td class='text-end'>288.000<br>12.000<br></td><td class='text-end'><br><br>300.000</td></tr></table>",
+        "D)<br><table class='table table-sm mb-0'><tr><td>102 BANKALAR<br>780 FİNANSMAN GİDERLERİ<br>&nbsp;&nbsp;&nbsp;&nbsp;121 ALACAK SENETLERİ</td><td class='text-end'>288.000<br>12.000<br></td><td class='text-end'><br><br>300.000</td></tr></table>",
+        "E)<br><table class='table table-sm mb-0'><tr><td>102 BANKALAR<br>689 DİĞER OLAĞANDIŞI GİDER VE ZARARLAR<br>&nbsp;&nbsp;&nbsp;&nbsp;121 ALACAK SENETLERİ</td><td class='text-end'>288.000<br>12.000<br></td><td class='text-end'><br><br>300.000</td></tr></table>"
       ],
       "correct": 3
     },
