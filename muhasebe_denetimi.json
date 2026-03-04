@@ -1,0 +1,1964 @@
+{
+"Test 01: Denetim Raporu Bölümleri": [
+    {
+      "id": "055252",
+      "q": "Aşağıdakilerden hangisi bağımsız denetçi tarafından düzenlenen denetim raporunun temel bölümlerinden biri değildir?",
+      "options": ["A) Görüş bölümü", "B) Finansal tabloların özeti", "C) Denetim kapsamı hakkında açıklama", "D) Görüşün dayanakları", "E) Denetçinin sorumluluğuna ilişkin açıklama"],
+      "correct": 1
+    },
+    {
+      "id": "056628",
+      "q": "BDS 700 Finansal Tablolara İlişkin Görüş Oluşturma ve Raporlama standardına göre aşağıdakilerden hangisi bağımsız denetçi raporunda yer almaz?",
+      "options": ["A) Finansal tabloları denetlenmiş olan işletmenin adı", "B) Finansal tabloları oluşturan her bir finansal tablonun tarihi veya dönemi", "C) Denetçinin; denetim sırasında elde ettiği denetim kanıtlarının, görüşüne dayanak oluşturmak için yeterli ve uygun olup olmadığına ilişkin kanaati", "D) Finansal tabloların hazırlanmasında kullanılan geçerli finansal raporlama çerçevesi", "E) Bağımsız denetim sözleşme tarihi"],
+      "correct": 4
+    },
+    {
+      "id": "059930",
+      "q": "Aşağıdakilerden hangisi bağımsız denetim raporunda yer alabilecek temel bölümlerinden biri değildir?",
+      "options": ["A) Dayanak-Açıklama Paragrafı", "B) Başlık", "C) Önemlilik düzeyi", "D) Kilit Denetim Konuları", "E) Mevzuattan kaynaklanan diğer yükümlülükler"],
+      "correct": 2
+    },
+    {
+      "id": "059720",
+      "q": "BDS 700 standardı kapsamında, BDS'lere Uygun Olarak Yapılan Denetimler için Denetçi Raporlarıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "options": ["A) Bağımsız Denetçi Raporu' başlığı denetçi raporunun başkaları tarafından düzenlenen raporlardan ayırt edilmesini sağlar.", "B) Denetçi raporunun kime hitap etmesi gerektiği denetimin yapıldığı ülkenin mevzuatı veya denetim sözleşmesinin şartları tarafından belirlenir.", "C) Denetimin yapıldığı ülkedeki etik hükümlerin kaynağının belirtilmemesi, denetimde tabi olunan bu hükümlere ilişkin şeffaflığı artırır.", "D) Denetçi görüşü, geçerli finansal raporlama çerçevesi uyarınca belirlenen tam set finansal tabloları kapsar.", "E) Denetçi raporunda, kullanılan standartlara atıfta bulunulması; denetçi raporu kullanıcılarına, denetimin yerleşik standartlara uygun olarak yapıldığını bildirir."],
+      "correct": 2
+    },
+    {
+      "id": "053750",
+      "q": "Bağımsız denetim standartlarına uygun yürütülen bir denetim çalışmasının başlığı aşağıdakilerden hangisidir?",
+      "options": ["A) Denetçi Tasdiknamesi", "B) Bağımsız Denetim Raporu", "C) Denetim Raporu", "D) Denetçi Raporu", "E) Bağımsız Denetçi Raporu"],
+      "correct": 4
+    },
+    {
+      "id": "054024",
+      "q": "Aşağıdakilerden hangisi yanlıştır?",
+      "options": ["A) Yönetimin finansal raporların ilgili çerçeveye uygun şekilde hazırlanmasından ve iç kontrollerden sorumlu olduğu bilgisinin denetçi raporunda verilmesi gerekir.", "B) Denetçi olumlu görüş dışında bir görüş vermesi gerektiği durumda, bu görüşün verilmesine sebep olan konuyu raporunun Kilit Denetim Konuları bölümünde bildirir.", "C) Denetçi kilit denetim konuları olarak belirlediği ve yönetime önemli olarak ilettiği konulara ilişkin olarak ayrı bir denetçi görüşü sunmaz.", "D) Denetçi, bir bütün olarak finansal tabloların önemli yanlışlık içermediği sonucuna varmak için yeterli ve uygun denetim kanıtını elde edemezse olumlu görüş dışında bir görüş verir.", "E) Finansal tablolar bir uygunluk çerçevesine göre hazırlanmışsa, denetçinin gerçeğe uygun sunum sağlanıp sağlanmadığı hakkında bir değerlendirme yapması gerekmez."],
+      "correct": 1
+    },
+    {
+      "id": "051806",
+      "q": "Aşağıdakilerden hangisi denetçi raporunun bölümlerinden biri değildir?",
+      "options": ["A) Görüş", "B) Mevzuattan kaynaklanan diğer yükümlülükler", "C) Uygulanan denetim prosedürleri", "D) Görüşün dayanağı", "E) Kilit denetim konuları"],
+      "correct": 2
+    },
+    {
+      "id": "059438",
+      "q": "Aşağıdakilerden hangisi standart bir bağımsız denetim raporunun içermesi gereken temel unsurlardan biri değildir?",
+      "options": ["A) Bağımsız denetimi yapılan işletmenin finansal tablolarının önemli yanlışlık içerip içermediği hususuna yer verilmesi", "B) Bağımsız denetimi yapılan işletmenin iç kontrol sisteminin etkinliği hakkında görüş içermesi", "C) Bağımsız denetim raporunun sözleşmede belirtilen muhataba hitaben düzenlenmesi", "D) Bağımsız denetimi yapılan işletmenin finansal tablolarının finansal raporlama standartlarına uygun olarak hazırlanması ve dürüst bir şekilde sunumuna ilişkin işletme yönetiminin sorumluluğunun belirtilmesi", "E) Bağımsız denetimi yapılan işletme ile söz konusu işletmenin finansal tablolarının bağımsız denetime tâbî tutulduğu hususunun belirtilmesi"],
+      "correct": 1
+    },
+    {
+      "id": "058109",
+      "q": "Aşağıdakilerden hangisi standart bir bağımsız denetim raporunun içermesi gereken temel unsurlardan biri değildir?",
+      "options": ["A) İşletme yönetiminin uygun muhasebe politikalarının seçimi ve uygulanmasına ilişkin sorumluluğu", "B) Bağımsız denetim raporunun sözleşmede belirtilen muhatabı", "C) İç kontrol sisteminin etkinliği üzerine ulaşılan tespitler", "D) Bağımsız denetim raporunun, bağımsız denetçi veya bağımsız denetim kuruluşu tarafından hazırlandığını gösteren açık bir başlık", "E) Bağımsız denetimin bağımsız denetim standartlarına uygun bir şekilde yapıldığı hususu"],
+      "correct": 2
+    },
+    {
+      "id": "058358",
+      "q": "BDS 700 standardına göre denetim raporunda yer alan 'denetçi görüşü' bölümünde aşağıdakilerden hangisi yer almaz?",
+      "options": ["A) Finansal tabloları denetlenmiş olan işletme", "B) Finansal tabloların denetlenmiş olduğu", "C) Finansal tabloları oluşturan her bir tablonun başlığı", "D) Finansal tabloların geçerli finansal raporlama çerçevesine uygun olarak hazırlanmasından yönetimin sorumlu olduğu", "E) Finansal tabloları oluşturan her bir finansal tablonun tarihi veya dönemi"],
+      "correct": 3
+    },
+    {
+      "id": "058435",
+      "q": "Aşağıdakilerden hangisi denetçi raporunun görüş bölümünde yer almaz?",
+      "options": ["A) Finansal tabloları denetleyen işletmenin adı", "B) Finansal tabloları denetlenmiş olan işletme", "C) Finansal tabloların denetlenmiş olduğu", "D) Önemli muhasebe politikalarının özeti de dâhil olmak üzere, dipnotlara atıf", "E) Finansal tabloları oluşturan her bir finansal tablonun tarihi veya dönemi"],
+      "correct": 0
+    },
+    {
+      "id": "055738",
+      "q": "Denetçi, denetim raporunun hangi kısmında denetim görüşünü beyan eder?",
+      "options": ["A) Görüşün dayanağından hemen sonra", "B) Muhatabın hemen altında ayrı bir başlık açarak", "C) Denetçinin Finansal Tabloların Denetimine İlişkin Sorumluluklarından hemen önce", "D) Kilit denetim konularının içerisinde", "E) Mevzuata ilişkin hükümler kısmının ilk bendinde"],
+      "correct": 1
+    },
+    {
+      "id": "056209",
+      "q": "Denetçi raporunun görüş bölümünde aşağıdakilerden hangisi belirtilmez?",
+      "options": ["A) Finansal tabloları oluşturan her bir finansal tablonun tarihi veya dönemi", "B) Geçerli finansal raporlama çerçevesi", "C) Finansal tabloları oluşturan her bir tablonun başlığı", "D) Önemli muhasebe politikalarının özeti de dâhil olmak üzere, dipnotlara yapılan atıf", "E) Finansal tabloların önceki dönemde denetlenip denetlenmediği"],
+      "correct": 4
+    },
+    {
+      "id": "059768",
+      "q": "Denetçi, denetim raporunun hangi kısmında denetim görüşünü beyan eder?",
+      "options": ["A) Muhatabın hemen altında ayrı bir başlık açarak", "B) Görüşün dayanağından hemen sonra", "C) Denetçinin finansal tabloların denetimine ilişkin sorumluluklarından hemen önce", "D) Kilit denetim konularının içerisinde", "E) Mevzuata ilişkin hükümler kısmının ilk bendinde"],
+      "correct": 0
+    },
+    {
+      "id": "052221",
+      "q": "BDS 700 standardına göre aşağıdakilerden hangisi denetçi raporunun 'Görüş' bölümü ile ilgili olarak yanlıştır?",
+      "options": ["A) Finansal tabloları denetlenmiş olan işletme belirtilir.", "B) Finansal tabloların denetlenmiş olduğu ifade edilir.", "C) Finansal tabloları oluşturan her bir tablonun başlığı belirtilir.", "D) Önemli muhasebe politikalarının özeti de dâhil olmak üzere, dipnotlara atıfta bulunulur.", "E) Denetçinin; denetim sırasında elde ettiği denetim kanıtlarının, görüşüne dayanak oluşturmak için yeterli ve uygun olduğu kanaatine varıp varmadığı belirtilir."],
+      "correct": 4
+    },
+    {
+      "id": "056463",
+      "q": "Aşağıdakilerden hangisi denetçi raporunun görüş paragrafında yer almaz?",
+      "options": ["A) Denetçinin etik hükümler uyarınca, denetimini yaptığı, işletmeden bağımsız olduğu ve etiğe ilişkin diğer sorumluluklarını bu hükümlere uygun olarak yerine getirdiğine ilişkin açıklama", "B) Finansal tablolar setini oluşturan her bir finansal tablonun tarihi veya dönemi", "C) Finansal tabloları denetlenmiş olan işletme adı", "D) Önemli muhasebe politikalarının özeti de dâhil olmak üzere dipnotlara yapılan atıflar", "E) Finansal tabloları oluşturan her bir tablonun başlığı"],
+      "correct": 0
+    },
+    {
+      "id": "052396",
+      "q": "Türkiye Denetim Standartları kapsamındaki 700 nolu Standart çerçevesinde denetim raporu giriş paragrafında aşağıdaki bilgilerden hangisi yer almaz?",
+      "options": ["A) Önemli muhasebe politikaları ve diğer açıklayıcı bilgiler", "B) Denetim sürecinde bağımsız denetçinin sorumluluğuna dair bilgi", "C) Finansal tabloları denetlenmiş olan işletmenin ismi", "D) Her bir finansal tablonun tarihi veya kapsadığı dönem bilgisi", "E) İşletmenin finansal tablolarının denetlenmiş olduğu bilgisi"],
+      "correct": 1
+    },
+    {
+      "id": "054018",
+      "q": "BDS 700 standardına göre denetçi raporundaki 'Görüşün Dayanağı' başlıklı bölümde aşağıdakilerden hangisi yer almaz?",
+      "options": ["A) Denetçinin; denetim sırasında elde ettiği denetim kanıtlarının, görüşüne dayanak oluşturmak için yeterli ve uygun olduğu kanaatine varıp varmadığı belirtilir.", "B) Denetimin Bağımsız Denetim Standartlarına uygun olarak yürütüldüğü belirtilir.", "C) Denetçi raporunda denetçinin Bağımsız Denetim Standartları kapsamındaki sorumluluklarının açıklandığı bölüme atıfta bulunulur.", "D) Denetçinin etik hükümler uyarınca, denetimini yaptığı işletmeden bağımsız olduğu ve etiğe ilişkin diğer sorumluluklarını bu hükümlere uygun olarak yerine getirdiği açıklanır.", "E) Bağımsız Denetim Standartlarına uygun olarak yürütülen bir denetim sonucunda verilen makul güvencenin; yüksek bir güvence seviyesi olduğu ancak, var olan önemli bir yanlışlığın her zaman tespit edileceğini garanti etmediği belirtilir."],
+      "correct": 4
+    },
+    {
+      "id": "059358",
+      "q": "Aşağıdakilerden hangisi BDS 700 Standardına göre denetçi raporunda, 'Görüşün Dayanağı' başlıklı bölümde yer alması gereken unsurlardan biri değildir?",
+      "options": ["A) Yapılmış olan denetimin bağımsız denetim standartlarına uygun olarak yürüttüğü belirtilir.", "B) Denetçi raporunda denetçinin BDS'ler kapsamındaki sorumluluklarının açıklandığı bölüme atıfta bulunulur.", "C) Denetçi etik hükümler uyarınca, denetimini yaptığı işletmeden bağımsız olduğunu ve etiğe ilişkin diğer sorumluluklarını bu hükümlere uygun olarak yerine getirdiğini açıklar.", "D) Önemli muhasebe politikalarının özeti de dâhil olmak üzere, dipnotlara atıfta bulunulur.", "E) Denetçinin; denetim sırasında elde ettiği denetim kanıtlarının, görüşüne dayanak oluşturmak için yeterli ve uygun olduğu kanaatine varıp varmadığı belirtilir."],
+      "correct": 3
+    },
+    {
+      "id": "058303",
+      "q": "Aşağıdakilerden hangisi denetçi raporunun görüşün dayanağı başlıklı bölümünde yer almaz?",
+      "options": ["A) Finansal tabloları oluşturan her bir finansal tablonun tarihi veya dönemi", "B) Denetçinin denetim standartları kapsamındaki sorumlulukları", "C) Denetimin ilgili etik hükümlere uygun olarak yürütüldüğü", "D) Denetim sırasında elde edilen kanıtların, görüşe dayanak oluşturmak için yeterli ve uygun olduğu", "E) Denetimin denetim standartlarına uygun olarak yürütüldüğü"],
+      "correct": 0
+    },
+    {
+      "id": "054496",
+      "q": "BDS 701 Kilit Denetim Konularının Bağımsız Denetçi Raporunda Bildirilmesi'ne göre aşağıdakilerden hangisi bağımsız denetçinin sorumlulukları arasında sayılmamıştır?",
+      "options": ["A) Denetçinin olumlu görüş bildirdiği denetçi raporunda kilit denetim konusu bildirilmesi sorumluluğu yoktur.", "B) BDS 315 uyarınca 'önemli yanlışlık' riski daha yüksek olarak değerlendirilen veya ciddi riskli olarak belirlenen alanlar, denetçi raporunda kilit denetim konusu olarak bildirilir.", "C) Denetçi, belirlediği ciddi riskler hakkında denetçi raporundaki kilit denetim konuları hakkında üst yönetimden sorumlu olanlarla iletişim hâlinde bulunur.", "D) Yönetimin önemli yargılarda bulunduğu alanlar ve önemli olağan dışı işlemler, genellikle ciddi risk olarak belirlenip, denetçi raporunda kilit denetim konusu olarak belirtilir.", "E) Mevzuatın konunun kamuya açıklanmasına izin vermediği durumlarda konunun kilit denetim konusu olarak denetçi tarafından bildirilme sorumluluğu yoktur."],
+      "correct": 0
+    },
+    {
+      "id": "051536",
+      "q": "Bağımsız denetçinin raporuna Kilit Denetim Konuları bölümü ile Diğer Bilgiler bölümünü dâhil etmesine izin verilmeyen görüş türü aşağıdakilerden hangisidir?",
+      "options": ["A) Sınırlı olumlu", "B) Görüş vermekten kaçınma", "C) Olumsuz", "D) Olumlu", "E) Şartlı olumlu"],
+      "correct": 1
+    },
+    {
+      "id": "056432",
+      "q": "BDS 701 Kilit Denetim Konularının Bağımsız Denetçi Raporunda Bildirilmesi standardına göre; mevzuata göre raporlanması zorunlu olmadığı sürece, BDS 705 Bağımsız Denetçi Raporunda Olumlu Görüş Dışında Bir Görüş Verilmesi standardı denetçinin finansal tablolarda hangi görüşü bildirmesi durumunda kilit denetim konularının bildirilmesini yasaklar?",
+      "options": ["A) Sınırlı olumlu", "B) Olumlu", "C) Görüş bildirmekten kaçınma", "D) Şartlı olumlu", "E) Olumsuz"],
+      "correct": 2
+    },
+    {
+      "id": "059267",
+      "q": "Aşağıdakilerden hangisi kilit denetim konularının denetim raporlarında yer almasının temel amaçlarından biridir?",
+      "options": ["A) Denetçinin önemliliği neye göre ve nasıl hesapladığını anlatabileceği bir bölüm sunmak", "B) Yatırımcılara, işletmenin rekabet avantajı ile ilgili bilgiler sunmak", "C) İşletmelerin borç yapısını özetleyen bilgiler sunmak", "D) Yürütülen denetime ilişkin daha fazla şeffaflık sağlayarak denetçi raporunun iletişim değerini artırmak", "E) İşletmelerin performansını teknik analiz yapanlar açısından daha net bir biçimde ortaya koymak"],
+      "correct": 3
+    },
+    {
+      "id": "058488",
+      "q": "Aşağıda verilen denetim raporunun bölümlerinden hangisi görüş bildirmekten kaçınma ile sonuçlanan bir raporda yer alamaz?",
+      "options": ["A) Denetçi görüşü", "B) Denetçinin sorumlulukları", "C) Görüşün dayanağı", "D) Yönetimin sorumlulukları", "E) Kilit denetim konuları"],
+      "correct": 4
+    },
+    {
+      "id": "053988",
+      "q": "BDS 701 Kilit Denetim Konularının Bağımsız Denetçi Raporunda Bildirilmesi standardına göre kilit denetim konularına ilişkin aşağıdaki ifadelerden hangisi doğrudur??",
+      "options": ["A) İşletmenin sürekliliğine ilişkin ciddi şüphe oluşturabilecek şartların olması durumu, denetçi raporunda kilit denetim konularında bildirilir.", "B) Olumsuz görüş bildirilmesi durumunda kilit denetim konuları bildirilmez.", "C) Yüksek derecede tahmin belirsizliği olan ve yönetimin önemli yargısını içeren durumlar, kilit denetim konusu olarak belirlenmez.", "D) Önemli yanlışlık' riski daha yüksek olarak değerlendirilen konular, kilit denetim konusu olarak bildirilir.", "E) Olumlu görüş dışında görüş bildirilmesine neden olan durumlar, kilit denetim konusu olarak bildirilir."],
+      "correct": 3
+    },
+    {
+      "id": "057803",
+      "q": "Kilit denetim konuları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": ["A) İstisnai durumlar haricinde denetçi kilit denetim konusunu denetçi raporunda açıklar.", "B) Kilit denetim konuları denetçinin mesleki yargısına göre, gerçekleştirilen denetimde en çok önem arz eden konulardır.", "C) Denetçi kilit denetim konuları hakkında ayrı bir görüş verir.", "D) Kilit denetim konularının bildirilmesinin amacı, denetimin iletişim değerinin artırılmasıdır.", "E) Kilit denetim konularının belirlenmesi, cari döneme ait finansal tabloların denetimine ilişkindir."],
+      "correct": 2
+    },
+    {
+      "id": "056152",
+      "q": "BDS 706 Bağımsız Denetçi Raporunda Yer Alan Dikkat Çekilen Hususlar ve Diğer Hususlar Paragrafları Standardı’na göre, Dikkat Çekilen Hususlar paragrafına ilişkin aşağıdakilerden hangisi yanlıştır??",
+      "options": ["A) Dikkat Çekilen Hususlar paragrafı denetçinin olumlu görüş dışında bir görüş vermesinin yerini almaz.", "B) Dikkat Çekilen Hususlar paragrafının eklenmesi, denetçi görüşünün bu hususlardan etkilendiğini ifade eder.", "C) Dikkat Çekilen Hususlar paragrafı, finansal tabloların anlaşılmasına temel teşkil edecek bir hususa atıfta bulunur.", "D) Dikkat Çekilen Hususlar paragrafı kilit denetim konularına ilişkin yapılan açıklamanın yerine geçmez.", "E) Dikkat Çekilen Hususlar paragrafının başlığı 'Dikkat Çekilen Hususlar' ifadesini içermelidir."],
+      "correct": 1
+    },
+    {
+      "id": "053288",
+      "q": "Aşağıdakilerden hangisi “Denetçi raporuna eklenen, denetçinin muhakemesine göre, kullanıcıların finansal tabloları anlamaları açısından temel teşkil edecek derecede öneme sahip olan, finansal tablolarda uygun bir şekilde sunulan veya açıklanan bir hususa atıfta bulunan paragraftır.” şeklinde tanımlanmaktadır??",
+      "options": ["A) Görüş Paragrafı", "B) Diğer Hususlar Paragrafı", "C) Dikkat Çekilen Hususlar Paragrafı", "D) Kilit Denetim Konuları Paragrafı", "E) Finansal Tablolara İlişkin Sorumluluklar Paragrafı"],
+      "correct": 2
+    },
+    {
+      "id": "054933",
+      "q": "Aşağıdakilerden hangisi denetçinin raporunda dikkat çekilen hususlar paragrafı olarak belirtilebilecek hususlardan biri değildir?",
+      "options": ["A) Finansal tabloların tarihi ile denetçi raporu tarihi arasında gerçekleşen bilanço tarihinden sonraki önemli bir olay olması durumu", "B) İşletmenin finansal durumunu önemli ölçüde etkilemiş veya etkilemeye devam eden ciddi bir afet durumu", "C) İşletmenin stokları ve ticari alacaklarına ilişkin denetim kanıtı elde edilememesi durumu", "D) Finansal tablolar üzerinde önemli etkisi bulunan yeni bir muhasebe standardının (izin verilmesi hâlinde) erken uygulanması durumu", "E) İstisnai bir davanın gelecekte ortaya çıkacak sonucuna ilişkin bir belirsizliğin bulunması durumu"],
+      "correct": 2
+    },
+    {
+      "id": "050869",
+      "q": "Aşağıdakilerden hangisi denetim raporlarına ilişkin Bağımsız Denetim standartları çerçevesinde yanlıştır?",
+      "options": ["A) Denetçi, çok sayıda kalemi hakkında yeterli ve uygun denetim kanıtı elde edemediği finansal tablolar için görüş vermekten kaçınmalıdır.", "B) İşletmenin sürekliğiyle ilgili önemli bir belirsizlik olmasına rağmen işletme yönetimi, bu durumu finansal tablolarda açıklamamışsa denetçi bu belirsizliği “Dikkat Çekilen Hususlar” paragrafında açıklar.", "C) Denetçi, denetim raporuna, raporun kullanıcılar tarafından daha iyi anlaşılmasını sağlayacağını düşündüğü konular için “Diğer Hususlar” paragrafı ekler.", "D) Denetçinin tespit ettiği yanlışlıkların finansal tablolar üzerindeki etkisi yaygın ve önemliyse denetçi bu tablolar için olumsuz görüş vermelidir.", "E) Denetçi, yeterli ve uygun kanıt elde edemediği için önemli bir tablo kalemiyle ilgili bir kanaate varamamışsa şartlı görüş (sınırlı olumlu görüş) vermelidir."],
+      "correct": 1
+    },
+    {
+      "id": "055793",
+      "q": "Denetçi raporuna eklenen, denetçinin muhakemesine göre, kullanıcıların; denetimi, denetçinin sorumluluklarını veya denetçi raporunu anlamalarıyla ilgili olan, finansal tablolarda sunulan veya açıklananlar dışında bir hususa atıfta bulunan bölüm aşağıdakilerden hangisidir?",
+      "options": ["A) Diğer Hususlar paragrafı", "B) Dikkat Çekilen Hususlar paragrafı", "C) Görüşün Dayanağı paragrafı", "D) Kilit Denetim Konuları", "E) Mevzuattan Kaynaklanan Diğer Yükümlülükler paragrafı"],
+      "correct": 0
+    },
+    {
+      "id": "050627",
+      "q": "Denetçinin yargısına göre raporuna eklediği, kullanıcıların; denetimi, denetçinin sorumluluklarını veya denetçi raporunu anlamalarıyla ilgili olan, finansal tablolarda sunulan veya açıklananlar dışında bir hususa atıfta bulunduğu bölüm aşağıdakilerden hangisidir?",
+      "options": ["A) Görüşün dayanağı", "B) Görüş", "C) Diğer hususlar", "D) Kilit denetim konuları", "E) Dikkat çekilen hususlar"],
+      "correct": 2
+    },
+    {
+      "id": "056634",
+      "q": "Aşağıdaki her bir raporun tek başlarına ayrı belgeler olarak düzenlendiği durumda hangisi BDS 720 Bağımsız Denetçinin Diğer Bilgilere İlişkin Sorumlulukları Standardı kapsamına girer?",
+      "options": ["A) Sürdürülebilirlik raporları", "B) Kurumsal sosyal sorumluluk raporları", "C) Yıllık faaliyet raporları", "D) Çeşitlilik ve fırsat eşitliği raporları", "E) Ürün sorumluluğu raporları"],
+      "correct": 2
+    },
+    {
+      "id": "056216",
+      "q": "Bağımsız denetçilerin raporlama aşamasında yapacakları değerlendirme için aşağıdakilerden hangisi yanlıştır?",
+      "options": ["A) Finansal tablolarda sunulan bilgilerin yüzde yüz hatasız olup olmadığını değerlendirir.", "B) Her bir finansal tablonun başlığı dâhil olmak üzere, finansal tablolarda kullanılan terminolojinin uygun olup olmadığını değerlendirir.", "C) Hedef kullanıcıların önemli işlem ve olayların finansal tablolarda aktarılan bilgiler üzerindeki etkisini anlamalarını sağlamak amacıyla finansal tablolarda yeterli açıklama yapılıp yapılmadığını değerlendirir.", "D) Yönetim tarafından yapılan muhasebe tahminlerinin ve ilgili açıklamaların makul olup olmadığını değerlendirir", "E) Finansal tabloların, tüm önemli yönleriyle geçerli finansal raporlama çerçevesi hükümlerine uygun olarak hazırlanıp hazırlanmadığını değerlendirir."],
+      "correct": 0
+    },
+    {
+      "id": "058759",
+      "q": "BDS 700 Finansal Tablolara İlişkin Görüş Oluşturma ve Raporlama standardına göre bağımsız denetçinin, finansal tabloların tüm önemli yönleriyle geçerli finansal raporlama çerçevesi hükümlerine uygun olarak hazırlanıp hazırlanmadığını değerlendirme sorumluluğu vardır. Aşağıdakilerden hangisi denetçinin, geçerli finansal raporlama çerçevesine uygunluğu belirlerken değerlendirmesi gereken unsurlardan biri değildir?",
+      "options": ["A) Seçilen ve uygulanan önemli muhasebe politikalarının finansal tablolarda uygun bir şekilde açıklanıp açıklanmadığını değerlendirmek", "B) Seçilen ve uygulanan önemli muhasebe politikalarının uygunluğu ile bu politikaların geçerli finansal raporlama çerçevesiyle tutarlı olup olmadığını değerlendirmek", "C) Yönetim tarafından yapılan muhasebe tahminlerinin ve ilgili açıklamaların makul olup olmadığını değerlendirmek", "D) Finansal tablolarda sunulan bilgilerin ihtiyaca uygun, güvenilir, karşılaştırılabilir ve anlaşılabilir olup olmadığını değerlendirmek", "E) Finansal tablolarda sunulan bilgilerin hata veya hile kaynaklı önemli yanlışlık içerip içermediğine ilişkin yeterli ve uygun kanıt elde etmiş olup olmadığını değerlendirmek"],
+      "correct": 4
+    },
+    {
+      "id": "056199",
+      "q": "Bağımsız denetçinin görüş oluşturmasını aşağıdakilerden hangisi etkilemez?",
+      "options": ["A) Finansal tablolarda sunulan bilgilerin anlaşılır olup olmaması", "B) İşletmenin muhasebe politikalarının finansal tablolarda açıklanıp açıklanmaması", "C) İşletmenin faaliyette bulunduğu sektörün önemli olup olmaması", "D) Yönetimin muhasebe tahminlerinin makul olup olmaması", "E) Finansal tablolarda sunulan bilgilerin karşılaştırılabilir olup olmaması"],
+      "correct": 2
+    },
+    {
+      "id": "055253",
+      "q": "Aşağıdakilerden hangisi BDS 700 Finansal Tablolara İlişkin Görüş Oluşturma ve Raporlama standardına göre denetçinin, görüş oluşturma sırasında yapacağı işlerden biri değildir?",
+      "options": ["A) Seçilen ve uygulanan önemli muhasebe politikalarının finansal tablolarda uygun bir şekilde açıklanıp açıklanmadığını değerlendirmek", "B) Yönetim tarafından yapılan muhasebe tahminlerinin ve ilgili açıklamaların makul olup olmadığını değerlendirmek", "C) İç kontrolün etkinliği hakkında görüş vermek amacıyla içinde bulunulan şartlar altında uygun olan denetim prosedürlerinin tasarlanıp tasarlanmadığını değerlendirmek", "D) Hedef kullanıcıların önemli işlem ve olayların finansal tablolara etkisini anlamalarını sağlamak amacıyla yeterli açıklama yapılıp yapılmadığını değerlendirmek", "E) Finansal tablolarda sunulan bilgilerin ihtiyaca uygun, güvenilir, karşılaştırılabilir ve anlaşılabilir olup olmadığını değerlendirmek"],
+      "correct": 2
+    },
+    {
+      "id": "050697",
+      "q": "Aşağıdakilerden hangisi standart bir bağımsız denetim raporunun, geçerli finansal raporlama çerçevesinin hükümleri açısından içermesi gereken hususlardan biri değildir?",
+      "options": ["A) Seçilen ve uygulanan önemli muhasebe politikalarının finansal tablolarda yeterli bir şekilde açıklanıp açıklanmadığı", "B) Hedef kullanıcıların finansal tabloların düzenlenme tarihi sonrası meydana gelen tüm önemli işlem ve olaylar için finansal tablolarda yeterli açıklama yapılıp yapılmadığını", "C) Seçilen ve uygulanan önemli muhasebe politikalarının uygunluğu ile bu politikaların geçerli finansal raporlama çerçevesiyle tutarlı olup olmadığı", "D) Yönetim tarafından yapılan muhasebe tahminlerinin makul olup olmadığı", "E) Finansal tablolarda sunulan bilgilerin ihtiyaca uygun, güvenilir, karşılaştırılabilir ve anlaşılabilir olup olmadığı"],
+      "correct": 1
+    }
+  ],
+  "Test 02: Görüş Türleri": [
+    {
+      "id": "051267",
+      "q": "I. Yanlışlıkların tek başına veya toplu olarak önemli olduğu ancak finansal tablolarda yaygın olmadığı sonucuna varılması\nII. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli ve yaygın olabileceği sonucuna varılması\nIII. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği ancak yaygın olmayabileceği sonucuna varılması\nYukarıda yer alan ifadelerden hangileri denetçinin sınırlı olumlu görüş verme nedenlerindendir?",
+      "options": ["A) Yalnız I", "B) I ve II", "C) I ve III", "D) II ve III", "E) I, II ve III"],
+      "correct": 2
+    },
+    {
+      "id": "051746",
+      "q": "Yeterli ve uygun kanıt elde etmiş olan denetçi, yanlışlıkların tek başına veya toplu olarak önemli olduğu ancak finansal tablolarda yaygın olmadığı sonucuna varırsa veya görüşüne dayanak teşkil edecek yeterli ve uygun denetim kanıtı elde edememekle birlikte ‐varsa‐ tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği ancak yaygın olmayabileceği sonucuna varırsa ne tür görüş bildirir?",
+      "options": ["A) Olumsuz görüş", "B) Sınırlı olumlu görüş", "C) Olumlu görüş", "D) Görüş bildirmekten kaçınma", "E) Riskli görüş"],
+      "correct": 1
+    },
+    {
+      "id": "050017",
+      "q": "Yeterli ve uygun denetim kanıtı elde etmiş olan denetçi, yanlışlıkların tek başına veya toplu olarak önemli olduğu ancak finansal tablolarda yaygın olmadığı sonucuna varırsa aşağıdakilerden hangisini yapar?",
+      "options": ["A) Sınırlı olumlu görüş verir.", "B) Olumsuz görüş verir.", "C) Olumlu görüş verir.", "D) Görüş bildirmekten kaçınır.", "E) Denetimden çekilir."],
+      "correct": 0
+    },
+    {
+      "id": "053775",
+      "q": "Finansal tabloların “önemli yanlışlık” içermesi fakat yanlışlığın yaygın olmaması durumunda denetçinin vermesi gereken görüş aşağıdakilerden hangisidir?",
+      "options": ["A) Sınırlı olumlu görüş", "B) Olumlu görüş", "C) Sınırlı olumsuz görüş", "D) Olumsuz görüş", "E) Görüş vermekten kaçınma"],
+      "correct": 0
+    },
+    {
+      "id": "059381",
+      "q": "Denetçi, finansal tablolarını denetlediği şirketin bir müşterisinin şirket aleyhine tazminat davası açtığını öğrenmiştir. Denetçi elde ettiği kanıtlar doğrultusunda, talep edilen tazminatın finansal tablolar için önemli bir tutar olduğu, ancak denetlediği şirketin davayı kaybetme ihtimalinin %50’den az olduğu sonucuna ulaşmıştır.Denetçi, denetlediği finansal tablolar söz konusu davayla ilgili herhangi bir bilgi içermiyorsa bu tablolar için ne tür bir görüş vermelidir?",
+      "options": ["A) Önemli yanlışlık sebebiyle sınırlı olumlu görüş", "B) Yeterli ve uygun denetim kanıtı elde edememe sebebiyle sınırlı olumlu (şartlı) görüş", "C) Olumsuz görüş", "D) Görüş bildirmekten kaçınma", "E) Olumlu görüş"],
+      "correct": 0
+    },
+    {
+      "id": "053050",
+      "q": "\nI. Yeterli uygunlukta kanıt elde edildikten sonra denetçi önemli yanlışlık olduğuna karar vermiştir. Ancak bu yanlışlık finansal tabloları yaygın olarak etkilememektedir. \nII. Denetçi yeterli uygunlukta kanıt elde etmekte başarısız kalmıştır. Bu bağlamda ortaya çıkartılamayan yanlışlıkların önemli ancak finansal tablolar açısından yaygın etkide olmadığı düşünülmektedir. \nYukarıda verilen durumlarda denetçinin hangi denetim görüşünü bildirmesi gerekir?",
+      "options": ["A) Olumsuz görüş", "B) Şartlı görüş", "C) Görüş bildirmekten kaçınma", "D) Olumlu görüş", "E) Standart görüş"],
+      "correct": 1
+    },
+    {
+      "id": "051856",
+      "q": "B şirketi, A şirketinin özkaynak yöntemiyle ölçülen çok sayıda iştiraklerinden birisidir. A şirketinin denetimi sırasında, önemlilik kriterini sağlayan B iştirakinin finansal bilgilerine, yönetimineve denetçilerine erişime izin verilmemesi sebebiyle; B’nin defter değeri ile A’nın B dönem kârındaki payı hakkında yeterli ve uygun denetim kanıtı elde edilememiştir. Bunun dışındaki kalemlerde önemli bir sorunla karşılaşılmamıştır.Buna göre, A şirketinin finansal tablolarının bağımsız denetçisi aşağıdakilerden hangisini yapmalıdır?",
+      "options": ["A) Olumlu görüş vermelidir.", "B) Olumsuz görüş vermelidir.", "C) Sınırlı olumlu görüş vermelidir.", "D) Görüş bildirmekten kaçınmalıdır.", "E) Denetimden çekilmelidir."],
+      "correct": 2
+    },
+    {
+      "id": "057661",
+      "q": "Denetçi, bazı kalemlerin doğruluğu konusunda tatmin edici bir inceleme imkânı bulamadığı, finansal tabloların bütünü hakkında olumlu görüşe sahipse, raporunda nasıl bir görüş açıklar?",
+      "options": ["A) Olumlu görüş", "B) Olumsuz görüş", "C) Görüş bildirmekten kaçınma", "D) Şartlı görüş", "E) Şartsız görüş"],
+      "correct": 3
+    },
+    {
+      "id": "053365",
+      "q": "\nI. Olumlu Görüş \nII. Olumsuz Görüş \nIII. Görüş Bildirmekten Kaçınma \nIV. Sınırlı Olumlu (Şartlı) Görüş \nBDS 510 İlk Bağımsız Denetimler – Açılış Bakiyeleri standardına göre, açılış bakiyelerinin cari dönem finansal tablolarını önemli derecede etkileyen bir yanlışlık içerdiği ve bu yanlışlığın etkisinin uygun bir şekilde muhasebeleştirilmediği veya yeterli şekilde sunulmadığı ya da açıklanmadığı sonucuna varması durumunda denetçi yukarıdaki görüş türlerinden hangilerini verebilir?",
+      "options": ["A) I ve III", "B) I ve IV", "C) II ve III", "D) II ve IV", "E) III ve IV"],
+      "correct": 3
+    },
+    {
+      "id": "057387",
+      "q": "Yapılan bağımsız denetim çalışmasının sonucunda finansal tablolarda tespit edilen yanlışlıklar önemli ve finansal tablo geneline yaygınsa denetçi görüşü aşağıdakilerden hangisi olur?",
+      "options": ["A) Olumsuz", "B) Görüş vermekten kaçınma", "C) Sınırı olumlu", "D) Önemli yanlışlıkların açıklandığı açıklama paragrafı ile birlikte olumlu", "E) Olumlu"],
+      "correct": 0
+    },
+    {
+      "id": "054026",
+      "q": "Bağımsız denetçi “müşteri işletmenin finansal tablolarının bir bütün olarak önemli yanlışlıklar içerdiğini ve bu yanlışlıkların finansal tablolara etkisinin yaygın olduğunu” tespit etmesi halinde denetim raporunda nasıl görüş bildirmelidir?",
+      "options": ["A) Sınırlı görüş", "B) Görüş bildirmekten kaçınmalı", "C) Olumsuz görüş", "D) Şartlı görüş", "E) Olumlu görüş"],
+      "correct": 2
+    },
+    {
+      "id": "051774",
+      "q": "BDS 705 Bağımsız Denetçi Raporunda Olumlu Görüş Dışın da Bir Görüş Verilmesi standardına göre, tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkileri “önemli ve yaygın” olmakla birlikte denetçi “yeterli ve uygun denetim kanıtı elde edememiş” ise hangi denetim görüşünü verir?",
+      "options": ["A) Sınırlı olumlu görüş", "B) Şartlı görüş", "C) Olumlu görüş", "D) Olumsuz görüş", "E) Görüş bildirmekten kaçınma"],
+      "correct": 4
+    },
+    {
+      "id": "059265",
+      "q": "Yeterli ve uygun denetim kanıtı elde edilmemekle birlikte, tespitlerin Finansal Tablolar Üzerindeki Etkilerinin veya Muhtemel Etkilerinin Yaygınlığına İlişkin denetçinin muhakemesinin önemli ve yaygın olması durumunda, denetçi aşağıdaki görüşlerden hangisini verir?",
+      "options": ["A) Görüş vermekten kaçınma", "B) Şartsız görüş", "C) Olumlu görüş", "D) Olumsuz görüş", "E) Sınırlı olumlu görüş"],
+      "correct": 0
+    },
+    {
+      "id": "051674",
+      "q": "“X A.Ş.’nin idari binasında çıkan bir yangında muhasebe ile ilgili belgelerin önemli bir kısmının yanmış olması nedeniyle, denetim süreci ile ilgili birçok işlem gerçekleştirilememiştir. Ayrıca, sigorta şirketinin bilirkişi raporuna göre söz konusu yangının kasıtlı olarak çıkarıldığı iddia edilmekte ve bu sorun yargı sürecinde bulunmaktadır. Dolayısıyla sigortadan alınması beklenen 75 Milyon TL’lik tazminat ile ilgili önemli bir belirsizlik söz konusudur.”\nBir denetim raporundaki görüşün dayanağı paragrafı yukarıda verildiği gibidir.\nBuna göre, denetim raporunda aşağıdaki görüşlerden hangisi bildirilmiştir?",
+      "options": ["A) Şartlı görüş", "B) Olumlu görüş", "C) Olumsuz görüş", "D) Görüş bildirmekten kaçınma", "E) Denetimden çekilme"],
+      "correct": 3
+    },
+    {
+      "id": "058169",
+      "q": "Denetçi, denetim sözleşmesinin kabulünden sonra, finansal tablolara ilişkin sınırlı olumlu görüş verilmesine veya görüş vermekten kaçınılmasına yol açması muhtemel şekilde, yönetimin, denetimin kapsamını sınırladığının farkına varırsa,öncelikli olarak ne yapar?",
+      "options": ["A) Yönetimden söz konusu sınırlamayı kaldırmasını talep eder.", "B) Olumsuz görüş raporu hazırlar.", "C) Denetimi sonlandırır.", "D) Sınırlı olumlu görüş raporu hazırlar.", "E) Görüş bildirmekten kaçınır."],
+      "correct": 0
+    },
+    {
+      "id": "058407",
+      "q": "Denetçinin görüş bildirmekten kaçınması durumunda aşağıdakilerden hangisi gerçekleşmiş demektir?",
+      "options": ["A) Muhasebe ilkelerinden sapmalar vardır.", "B) Tutarlılık ilkesine uygunsuzluk vardır.", "C) Tam açıklama ilkesine uygunsuzluk vardır.", "D) İç kontrol sisteminde eksikler vardır.", "E) Denetçinin kanıt toplayamayacak kadar sınırlandırılması söz konusudur."],
+      "correct": 4
+    },
+    {
+      "id": "051813",
+      "q": "Aşağıdakilerden hangisi stokların finansal tablolara etkisinin önemli ve yaygın olması durumunda denetçinin gerçekleştirmesi gereken işlemlerden biri değildir?",
+      "options": ["A) Test sayımlarını yapmak", "B) Yönetimin stoklara ilişkin iç kontrolünü değerlendirmek", "C) Yönetimin sayıma ilişkin prosedürlerinin uygulamasını gözlemlemek", "D) Stokları tetkik etmek", "E) Stok sayımına katılımın mümkün olmadığı hâllerde olumsuz görüş vermek"],
+      "correct": 4
+    },
+    {
+      "id": "053804",
+      "q": "Bağımsız denetim çalışmasında aşağıdaki sonuçlardan hangisine ulaşılmışsa denetçi tarafından görüş vermekten kaçınılması gerekir?",
+      "options": ["A) Müşterinin tutarı belirlenebilir miktardaki finansman giderinin finansal raporlama standartlarına aykırı olarak aktifleştirilmiş olması", "B) Müşteri stoklarının değerlemesinde muhasebe standardına aykırı olarak net gerçekleşebilir değerin kullanılmamış olması nedeniyle stok kalemi, satışların maliyeti, net kâr ve öz kaynakta hesaplanabilir bir farkın oluşması", "C) Müşterinin kredi borcu sözleşmesinde yer alan temettü dağıtım kısıtlaması hakkındaki bilginin finansal tablo dipnotlarında sunulmamış olması", "D) Müşterinin aktif toplamının önemli bir bölümünü oluşturan alacaklar için doğrulama alınamaması", "E) Müşteri firmanın aktif toplamına oranı önemlilik sınırının altında olan bir yurtdışı yatırımının bağımsız denetimden geçmiş finansal tablolarının bulunmaması"],
+      "correct": 3
+    },
+    {
+      "id": "054761",
+      "q": "Aşağıdakilerden hangisi, denetçinin “görüş bildirmekten kaçınma” kararı vermesine neden olan durumlardan biri değildir?",
+      "options": ["A) Denetçinin, tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği ancak yaygın olmayabileceği sonucuna varması", "B) Denetçinin, görüşüne dayanak teşkil edecek yeterli ve uygun denetim kanıtı elde edememesi", "C) Denetçinin, tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin yaygın olabileceği sonucuna varması", "D) Denetçinin, şirket hakkında açılmış olan tazminat davalarında zayıf görünmesi ve davanın aleyhte sonuçlanmasının finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği sonucuna varması", "E) Denetçinin, tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği sonucuna varması"],
+      "correct": 0
+    },
+    {
+      "id": "058717",
+      "q": "Aşağıda verilen hangi koşulun gerçekleşmesi hâlinde denetçi görüş bildirmekten kaçınır?",
+      "options": ["A) Denetçinin, denetlenen işletmenin faaliyet gösterdiği sektör hakkında bilgi sahibi olmaması", "B) İç kontrol sisteminin etkililiğinin zayıf olması", "C) Denetçinin, yeterli ve güvenilir kanıt toplayamayacak kadar çalışma alanının kısıtlanmış olması", "D) Denetlenen işletme adına bir davanın açılmış olması", "E) Denetçinin, kasa ve mal sayımında hazır bulunmamış olması"],
+      "correct": 2
+    },
+    {
+      "id": "050634",
+      "q": "BDS 570 İşletmenin Sürekliliği standardına göre, finansal tablolar işletmenin süreklilik varsayımına uygun hazırlanmış olmasına rağmen, denetçi işletmenin borca batık olduğunu tespit ederse aşağıdaki görüşlerden hangisini vermelidir?",
+      "options": ["A) Olumlu Görüş", "B) Olumsuz Görüş", "C) Şartlı Görüş", "D) Görüş Bildirmekten Kaçınma", "E) Denetimden Çekilme"],
+      "correct": 1
+    },
+    {
+      "id": "053700",
+      "q": "Finansal tabloların işletmenin sürekliliği esasına göre hazırlanmış olması ancak yönetimin işletmenin sürekliliği esasını kullanmasının denetçinin yargısına göre uygun olmaması ve yönetimin finansal tabloları hazırlanırken başka bir esası (örneğin,tasfiye esası) kullanmamış olması durumunda denetçinin vereceği görüş aşağıdakilerden hangisidir?",
+      "options": ["A) Olumlu görüş", "B) Sınırlı olumlu görüş", "C) Görüş bildirmekten kaçınma", "D) Şartlı olumlu görüş", "E) Olumsuz görüş"],
+      "correct": 4
+    },
+    {
+      "id": "052137",
+      "q": "\nI. Etki, finansal tabloların belirli unsurları, hesapları veya kalemleriyle sınırlı değildir.\nII. Etki, finansal tabloların önemli bir bölümünü temsil eder veya edebilir.\nIII. Etki, açıklamalara ilişkin olarak, kullanıcıların finansal tabloları anlaması açısından temel teşkil eder.\nYukarıdakilerden hangisi/hangileri denetçinin yargısına göre görüş oluştururken finansal tablolardaki yaygın etki kapsamında değerlendirilir?",
+      "options": ["A) Yalnız I", "B) Yalnız III", "C) I ve II", "D) I ve III", "E) I, II ve III"],
+      "correct": 4
+    }
+  ],
+  "Test 03: Müşteri Seçimi ve Sözleşme": [
+    { "q": "1. Denetim için başvuran müşterinin kabul edilip edilmeyeceği veya var olan bir müşteri ile devam edilip edilmeyeceği aşağıdaki denetim süreçlerinden hangisinin kapsamındadır?", "options": ["A) Sözleşme Öncesi Faaliyetler", "B) Denetim Planının Hazırlanması", "C) Denetim Planının Uygulanması", "D) Raporlama Aşaması", "E) Denetim programının Hazırlanması"], "correct": 0 },
+    { "q": "2. 6102 sayılı Türk Ticaret Kanunu'na göre, gerçekleştirilecek bağımsız denetimlerde denetim şirketinin seçimi aşağıdakilerden hangisinin görevidir?", "options": ["A) Şirket genel kurulu", "B) Şirket yönetim kurulu", "C) Şirket merkezinin bulunduğu yerdeki vergi dairesi", "D) Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumu", "E) Sermaye Piyasası Kurulu"], "correct": 0 },
+    { "q": "3. Bağımsız Denetim Yönetmeliği'ne göre, denetim sözleşmesi, denetim kuruluşu veya denetimi üstlenen bağımsız denetçinin seçiminden itibaren en geç kaç gün içinde yapılır?", "options": ["A) 30", "B) 60", "C) 90", "D) 120", "E) 150"], "correct": 1 },
+    { "q": "4. Aşağıdakilerden hangisi denetim sürecinde müşterinin seçimi ve işin kabulü kapsamında değerlendirilmez?", "options": ["A) Denetim anlaşma mektubunun yazılması", "B) Müşteri kabul politikası ışığında gerekli bilgilerin toplanması", "C) Bir önceki denetçi ile görüşme hususunun karara bağlanması", "D) Müşteri kabul kararı vermeden önce doğrulama mektuplarının gönderilmesi", "E) Denetim sözleşmesinin imzalanması"], "correct": 3 },
+    { "q": "5. Aşağıdakilerden hangisi denetim sürecinde 'bir önceki denetçi ile görüşmenin' gerçekleştiği safhadır?", "options": ["A) Müşterinin seçimi ve işin kabul edilmesi", "B) Denetimin planlanması", "C) Denetim programının yürütülmesi", "D) Denetimin tamamlanması ve bulguların raporlanması", "E) Denetimden çekilme"], "correct": 0 },
+    { "q": "6. Müşteri işletmeyi kabul ve denetim sözleşmesinin imzalanması aşamasında, önceki denetçi ile görüşme izni alan bir denetçi denetim riskini belirlemek için, aşağıdaki konulardan hangisi hakkında eski denetçinin görüşünü almaz?", "options": ["A) İşi bırakma nedenleri", "B) Yöneticiler hakkındaki düşünceleri", "C) Sözleşme ücreti", "D) Denetim çalışmalarında olağandışılıkla karşılaşıp karşılaşmadığı", "E) Denetim çalışmalarını rahat yürütüp yürütmediği"], "correct": 2 },
+    { "q": "7. Aşağıdakilerden hangisi denetim sürecinde denetçinin önceki denetçi ile görüşmesi sırasında elde etmeye çalıştığı bilgilerden biri değildir?", "options": ["A) Verilen raporun içeriği", "B) Denetçi değişikliğinin nedenleri", "C) Yöneticilerin dürüstlüğü hakkındaki düşünceleri", "D) İşletmenin muhasebe sisteminde var olabilecek aksaklıklar hakkındaki düşünceleri", "E) Çalışmaları sırasında engellemelerle karşılaşıp karşılaşmadığı"], "correct": 0 },
+    { "q": "8. Yeni bir müşteri söz konusu olduğunda, denetim şirketi, müşteriyi kabul edip etmeme kararını alırken varsa önceki denetim şirketi ile görüşebilir. Bu durumda önceki denetim şirketi ile görüşme hususunda aşağıdakilerden hangisi yanlıştır?", "options": ["A) Müşteri işletmeden izin alınır.", "B) Yöneticilerin dürüstlüğü hakkında bilgi alınır.", "C) Denetim sürecinde yönetimle uyuşmazlığa düşülüp düşülmediği konularında bilgi alınır.", "D) Denetim şirketi değişikliğinin nedenleri öğrenilir.", "E) Önceki denetim şirketinin sır saklama sorumluğu yoktur."], "correct": 4 },
+    { "q": "9. Aşağıdakilerden hangisi denetçinin bağımsız denetim sözleşmesini kabul etmeden önce yönetimin sorumluluklarına ilişkin denetimin ön şartlarının mevcut olup olmadığı kapsamında mutabık kalması gereken konulardan biri değildir?", "options": ["A) Finansal tabloların geçerli finansal raporlama çerçevesine uygun olarak hazırlanması sorumluluğu", "B) Denetçiye finansal tabloların hazırlanmasıyla ilgili sınırlı bilgilere erişim imkânı sağlama sorumluluğu", "C) Yönetimin önemli yanlışlık içermeyen finansal tablolar hazırlanmasını sağlamak için gerekli gördüğü iç kontrole ilişkin sorumluluğu", "D) Denetçinin işletmedeki kişilerle kısıtlama olmaksızın görüşme imkânı sağlama sorumluluğu", "E) Denetimin amacı doğrultusunda ilave bilgileri sağlama sorumluluğu"], "correct": 1 },
+    { "q": "10. Aşağıdakilerden hangisi BDS 210 Bağımsız Denetim Sözleşmesinin Şartları Üzerinde Anlaşmaya Varılması standardı uyarınca denetçinin, denetimin ön şartlarının mevcut olup olmadığını tespit etmek amacıyla yapacağı işlerden biri değildir?", "options": ["A) Finansal tabloların hazırlanmasında kullanılan finansal raporlama çerçevesinin kabul edilebilir olup olmadığını belirlemek.", "B) Yönetimin, finansal tabloların geçerli finansal raporlama çerçevesine uygun olarak hazırlanması sorumluluğunu anladığına ve üstlendiğine dair mutabakatını almak.", "C) Yönetimin, hata veya hile kaynaklı önemli yanlışlık içermeyen finansal tablolar hazırlanmasını sağlamak için iç kontrole ilişkin sorumluluğunu anladığına ve üstlendiğine dair mutabakatını almak.", "D) Yönetimin denetçiye, denetimin amacı doğrultusunda talep edebileceği ilave bilgileri sağlama sorumluluğunu anladığına ve üstlendiğine dair mutabakatını almak.", "E) Denetçi raporunun teslim tarihine ilişkin sorumlulukların karşılıklı olarak anlaşıldığı ve üstlenildiğine dair yönetimin mutabakatını almak."], "correct": 4 },
+    { "q": "11. Aşağıdakilerden hangisi BDS 210 Bağımsız Denetim Sözleşmesinin Şartları Üzerinde Anlaşmaya Varılması standardına göre yanlıştır?", "options": ["A) Denetim, yönetimin finansal raporlamaya ilişkin sorumlulukları anladığı ve üstlendiği kabulüyle yürütülür.", "B) Yönetim, finansal tabloların hata ve hile kaynaklı önemli yanlışlık içermeyecek şekilde hazırlanması için gerekli iç kontrolleri tesis etmelidir.", "C) Yönetim, denetçiye finansal tabloların hazırlanmasına ilişkin kayıtlar, belgeler ve diğer hususlara erişim imkânı sağlamalıdır.", "D) Yönetim, denetçiye denetimin amaçları doğrultusunda talep edilecek ilave bilgileri sağlamalıdır.", "E) Yönetim, denetimin kapsamını, zamanlamasını ve yönünü belirleyen denetim stratejisinin oluşturulmasında aktif şekilde rol almalıdır."], "correct": 4 },
+    { "q": "12. Denetim sözleşmesinin şartları üzerinde anlaşmaya varılmasıyla ilgili aşağıdakilerden hangisi doğrudur?", "options": ["A) Denetimin, müşterinin faaliyet gösterdiği coğrafi bölgelerden hangilerinde gerçekleştirileceği bilgisi sözleşmede yer almak zorundadır.", "B) Kullanılacak finansal raporlama çerçevesi Türkiye Finansal Raporlama Standartları değilse, denetçi söz konusu denetim işini üstlenmemelidir.", "C) Denetim sözleşmesi yazılı olmak zorunda değildir.", "D) Müşteri yönetimi, gerekli ve ilgili bilgileri denetçiye sağlama sorumluluğunu kabul etmese de denetçinin o denetim işini üstlenmesinde bir sakınca yoktur.", "E) Müşterinin finansal tabloların hazırlanması sorumluluğunu denetçiye verdiği bir denetim işi, denetçi tarafından kabul edilemez."], "correct": 4 },
+    { "q": "13. BDS 210 uyarınca denetçi, denetimin yürütüleceği esaslar üzerinde müşteriyle anlaşmaya varmadan denetim işini kabul edemez. BDS 210'a göre, denetçi açısından müşteriyle anlaşmaya varılmış olabilmesi için hangisinin sağlanması zorunlu değildir?", "options": ["A) Müşterinin geçerli bir finansal raporlama çerçevesi kullanması", "B) Denetimin ön şartlarının sağlandığının tespit edilmesi", "C) Denetçi ile müşteri yönetiminin denetim sözleşmesinin şartlarını aynı şekilde anladıklarının teyit edilmesi", "D) Ön kabul üzerinde müşteri yönetimiyle mutabık olunması", "E) Denetim ücreti üzerinde anlaşılmış olunması"], "correct": 4 },
+    { "q": "14. Aşağıdaki unsurlardan hangisi denetim sürecinin müşteri kabul aşamasında hazırlanan sözleşmede bulunması gereken asgari hususlardan biri değildir?", "options": ["A) Denetimin konusu", "B) Denetim ücreti", "C) Mesleki sorumluluk sigortası yapılacağına ilişkin hüküm", "D) Önemlilik seviyesinin hangi kriterlere göre belirleneceğine ilişkin hüküm", "E) Denetimin başlangıç ve bitiş tarihleri ile raporun teslim tarihi"], "correct": 3 },
+    { "q": "15. Denetim sözleşmesi aşağıdaki hususların hangisini içermez?", "options": ["A) Finansal tabloların denetiminin amacı ve kapsamı", "B) Denetçinin ve yönetimin sorumlulukları", "C) Finansal tabloların hazırlanmasında kullanılacak geçerli finansal raporlama çerçevesini belirten açıklama", "D) Denetçi tarafından düzenlenecek raporların beklenen şekline ve içeriğine atıf", "E) Denetimde görevlendirilecek iç denetçi ve yedekleri"], "correct": 4 },
+    { "q": "16. Aşağıdakilerden hangisi müşteri ile yapılan denetim sözleşmesinde yer almaz?", "options": ["A) Finansal tabloların denetiminin amacı ve kapsamı", "B) Raporların beklenen şekil ve içerikten farklılık gösterebileceğine ilişkin açıklama", "C) Yönetimin sorumlulukları", "D) Denetçi tarafından düzenlenecek raporların beklenen şekline ve içeriğine atıf", "E) Önemlilik seviyesi belirlenirken kullanılacak kıyaslama noktası"], "correct": 4 },
+    { "q": "17. Aşağıdaki unsurlardan hangisinin Türkiye Denetim Standartları kapsamında denetim sözleşmesinde yer alması öngörülmez?", "options": ["A) Denetim testlerinin yapılacağı zaman", "B) Denetim ücretinin hesaplanma esasları", "C) Denetim amacı", "D) Tarafların sorumlulukları", "E) Denetimin kapsamı"], "correct": 0 },
+    { "q": "18. Aşağıdaki maddelerden hangisi BDS 210 Bağımsız Denetim Sözleşmesinin Şartları Üzerinde Anlaşmaya Varılması Standardına göre denetim sözleşmesinin şekil ve içeriğine uygun değildir?", "options": ["A) Denetim planının sözleşmenin içerisinde detaylandırılarak açıklanması", "B) Denetimin sonuçlarına ilişkin olarak yapılacak her türlü bildirimin şekli", "C) Denetçinin kilit denetim konularını denetçi raporunda bildirme yükümlülüğü", "D) Yönetimin, denetim sözleşmesini ve bu sözleşmede yer alan şartları üstlendiğini belirtmesi", "E) Yönetimin yazılı beyanlarda bulunacağı beklentisi"], "correct": 0 },
+    { "q": "19. BDS 210 Bağımsız Denetim Sözleşmesinin Şartları Üzerinde Anlaşmaya Varılması standardı uyarınca denetim sözleşmesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?", "options": ["A) Denetçi, makul bir gerekçe olup olmadığına bakmaksızın sözleşmenin şartlarında değişiklik yapılmasını kabul etmez.", "B) Denetimin şartlarında değişiklik olması ve anlaşılması hâlinde denetçi ve yönetim, yeni şartları yeni bir sözleşme veya ilk sözleşmeye ek yaparak belgelendirir.", "C) Denetim başlamadan önce yazılı bir denetim sözleşmesinin yapılması, yanlış anlamaları önleme bakımından işletme ve denetçinin yararınadır.", "D) Denetim sözleşmesinin şekli ve içeriği her bir işletme için farklılık gösterebilir.", "E) Denetçi, denetim sözleşmesinde yönetimin yazılı beyanlarda bulunacağı beklentisine ilişkin hükme yer verebilir."], "correct": 0 },
+    { "q": "20. Aşağıdaki durumlardan hangisinin gerçekleşmesi hâlinde denetim sözleşmesinin yenilenmesi/güncellenmesi gerekmez?", "options": ["A) Müşterinin, denetimin amacı ve kapsamını yanlış anladığı konusunda herhangi bir imanın bulunması", "B) Müşterinin kasıtlı olarak denetçiye kanıt toplamada güçlük çıkarması", "C) Görevin koşullarının revize edilmesi veya özel şartların eklenmesi", "D) Üst düzey yönetim, idareden sorumlu olanlar veya mülkiyette yakın zamanda yaşanan herhangi bir değişiklik olması", "E) Müşterinin işinin yapısında, niteliğinde veya büyüklüğünde önemli bir değişiklik gerçekleşmesi"], "correct": 1 },
+    { "q": "21. 'Denetçi yönetimden sorumlulukları anladığını tekrar teyit etmesini isteyebilir.' Aşağıdakilerden hangisi bu duruma örnek gösterilemez?", "options": ["A) İmzalayan kişilerin artık söz konusu sorumluluklara sahip olmaması", "B) Denetim sözleşmesi şartlarının bir önceki yılda hazırlanmış olması", "C) Yönetimin bu sorumlulukları yanlış anladığı yönünde bir göstergenin bulunması", "D) Denetim planının karşılıklı mutabakatla oluşturulduğunun teyidi", "E) Şartlarda meydana gelen değişikliklerin tekrar teyit alınmasını uygun hâle getirmesi"], "correct": 3 },
+    { "q": "22. Denetçinin, finansal raporlama çerçevesinin kabul edilebilir olup olmadığını belirlerken dikkate alacağı faktörler arasında hangisi yer almaz?", "options": ["A) Müşterinin kara para aklama veya suç faaliyetlerinde bulunabileceğine ilişkin göstergeler", "B) İşletmenin niteliği", "C) Mevzuatın geçerli finansal raporlama çerçevesini belirleyip belirlemediği", "D) Finansal tabloların niteliği", "E) Finansal tabloların amacı"], "correct": 0 }
+],
+"Test 04: Kanıt ve Özellikleri": [
+    { 
+        "q": "1. “Denetçinin, görüşüne dayanak oluşturan sonuçlara ulaşırken kullandığı bilgiler” olarak ifade edilen kavram aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Denetim Kanıtı", 
+            "B) Mesleki Şüphecilik", 
+            "C) Önemlilik", 
+            "D) Makul Güvence", 
+            "E) Mesleki Yargı"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "q": "2. Denetim Kanıtının BDS 500’e göre tanımı aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Ana kitlede art arda gelen kalemlerden oluşan bloklar arasından seçim yapılmasıdır.", 
+            "B) Olaylara, faaliyetlere ve kişilere etki edebilme gücüne sahip olmaktır.", 
+            "C) İşletmede işlemlerin ve belgelerin işleyişinin sistematik olarak ve sembollerle gösterilmesidir.", 
+            "D) Yığın içinden seçilen birimlerden yığının bazı özellikleri hakkında bilgi edinme tekniğidir.", 
+            "E) Denetçinin, görüşüne dayanak oluşturan sonuca ulaşırken kullandığı bilgilerdir."
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "3. Denetçinin kanıt toplamasındaki amacı aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Çalışma kâğıtlarını düzenleyebilmek", 
+            "B) İşletme iddialarına ilişkin görüşüne dayanak oluşturan makul sonuçlara ulaşmak", 
+            "C) Denetim programının oluşturulmasına yardımcı olmak", 
+            "D) İç kontrolün etkinliğini değerlendirmek", 
+            "E) Finansal tablolardaki tüm hatalı/hileli işlemleri ortaya çıkarmak"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "q": "4. Denetim kanıtlarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?", 
+        "options": [
+            "A) Denetim kanıtları denetçinin görüş ve raporunun desteklenmesi için gereklidir.", 
+            "B) Denetim kanıtları, sözleşme öncesi elde edilen bilgileri de içerebilir.", 
+            "C) İşletmenin muhasebe kayıtları önemli bir denetim kanıtı kaynağıdır.", 
+            "D) Denetim kanıtları sadece bağımsız denetçi tarafından hazırlanmalıdır.", 
+            "E) Bazı denetim alanlarına ilişkin bilginin bulunmaması da denetim kanıtı olarak nitelendirilir."
+        ], 
+        "correct": 3 
+    },
+    { 
+        "q": "5. I. Denetim kanıtı miktarını artırmak\nII. Daha ihtiyaca uygun (ilgili) denetim kanıtı toplamak\nIII. Daha güvenilir denetim kanıtı toplamak\n\nYaptığı değerlendirme sonucu risk düzeyini yüksek olarak belirleyen bir denetçinin, yukarıdakilerden hangisi/hangilerini yapması beklenir?", 
+        "options": [
+            "A) Yalnız I", 
+            "B) Yalnız II", 
+            "C) II ve III", 
+            "D) Yalnız III", 
+            "E) I, II ve III"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "6. Kanıtın yeterliliğine ilişkin denetçi kararını aşağıdaki unsurlardan hangisi etkilemez?", 
+        "options": [
+            "A) Risk", 
+            "B) Ana kütle", 
+            "C) Uygunluk", 
+            "D) Önemlilik", 
+            "E) Dönem"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "7. I. Kanıtın Kaynağı\nII. Önemlilik\nIII. Kanıtın Zamanlılığı\nIV. Risk\nV. Ekonomik Etkenler\n\nYukarıdaki ifadelerden hangileri kanıtın yeterliliğini etkileyen unsurlar arasında yer alır?", 
+        "options": [
+            "A) I, II ve IV", 
+            "B) I, III ve IV", 
+            "C) I, IV ve V", 
+            "D) II, III ve IV", 
+            "E) II, IV ve V"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "8. Aşağıdakilerden hangisi denetim kanıtlarının yeterliliğini etkileyen unsurlardan biri değildir?", 
+        "options": [
+            "A) Denetçinin mesleki muhakemesi", 
+            "B) Kanıtın uygunluğu", 
+            "C) Belirlenen önemlilik seviyesi", 
+            "D) Denetim sözleşmesi", 
+            "E) Önemli yanlışlık riski"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "q": "9. I. Hesabın Önemliliği\nII. Denetim Süresi\nIII. Kanıt Maliyeti\nIV. İncelenen Unsurun Riski\nV. Ana Kütle Büyüklüğü\n\nYukarıdakilerden hangileri genel kabul görmüş denetim standartlarına göre, kanıtların yeterliliğini etkileyen faktörlerdendir?", 
+        "options": [
+            "A) I, II ve IV", 
+            "B) II, III ve V", 
+            "C) III, IV ve V", 
+            "D) I, II, IV ve V", 
+            "E) I, III, IV ve V"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "10. Aşağıdakilerden hangisi denetim kanıtının güvenilirliğini etkileyen unsurlardan biridir?", 
+        "options": [
+            "A) Önemlilik", 
+            "B) Risk", 
+            "C) Kanıt sayısı", 
+            "D) Kanıtın kaynağı ve niteliği", 
+            "E) Ekonomik faktörler"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "q": "11. Aşağıdakilerden hangisi kanıtların güvenilirliğine etki eden faktörler arasında yer almaktadır?", 
+        "options": [
+            "A) Nitelik", 
+            "B) Risk", 
+            "C) Kanıt üzerindeki uzman etkisi", 
+            "D) Ekonomik etkenler", 
+            "E) Ana kütlenin büyüklüğü ve özelliği"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "q": "12. Aşağıdakilerden hangisi kanıtların güvenilirliğini etkileyen etmenlerden “Kanıtın Kaynağı” başlığının alt unsurlarından biri değildir?", 
+        "options": [
+            "A) İç kontrol yapısının varlığı", 
+            "B) Kanıt sağlayıcının bağımsızlığı", 
+            "C) Kanıtın objektifliği", 
+            "D) Denetçinin kanıt üzerindeki etkisi", 
+            "E) Kanıt üzerindeki uzman etkisi"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "q": "13. Aşağıdaki ifadelerden hangisi kanıtın güvenilirliği ile ilgili olarak yanlıştır?", 
+        "options": [
+            "A) Kanıtın güvenilirliği kanıtın uygunluğundan etkilenmektedir.", 
+            "B) Bir kaynaktan elde edilen denetim kanıtının, bir başka kaynaktan elde edilen denetim kanıtıyla tutarsız olması kanıtın güvenilirliğini etkilemektedir.", 
+            "C) Denetim kanıtının güvenilirliği, kanıtın kaynağından etkilenmektedir.", 
+            "D) Denetim kanıtının güvenilirliği, kanıtın niteliğinden etkilenmektedir.", 
+            "E) Denetim kanıtının güvenilirliği, kanıtın elde edildiği şartlara bakılmaksızın aynıdır."
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "14. Aşağıdakilerden hangisi kanıtların güvenilirliğini artıran unsurlardan biri değildir?", 
+        "options": [
+            "A) Denetlenen şirket verisinin sektördeki diğer şirketlerin verisi ile benzer olması", 
+            "B) Kanıtı elde etmek için katlanılan maliyetin yüksek olması", 
+            "C) Kanıtın, denetimi yapılan dönem ile aynı döneme ait olması", 
+            "D) Kanıtın denetlenen şirket dışından elde edilmiş olması", 
+            "E) Kanıtı değerlendiren bir adli muhasebecinin bağımsız denetçi ile aynı yargıya varması"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "q": "15. Aşağıdakilerden hangisi denetim kanıtlarının güvenilirliğini etkileyen unsurlardan biri değildir?", 
+        "options": [
+            "A) Kanıtın maliyeti", 
+            "B) Kanıt sağlayıcının bağımsızlığı", 
+            "C) İç kontrol yapısının varlığı", 
+            "D) Denetçinin kanıt üzerindeki etkisi", 
+            "E) Kanıt üzerindeki uzman etkisi"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "q": "16. Destekleyici kanıtlar içerisinde en güvenilir olan kanıt türü aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Fiziki", 
+            "B) Matematiksel", 
+            "C) Sözlü", 
+            "D) Analitik", 
+            "E) Görsel"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "q": "17. Aşağıdakilerden hangisi denetim kanıtlarının uygunluğuna karşılık gelen bir ifade değildir?", 
+        "options": [
+            "A) Kanıtın görüşe etki edebilme derecesinin ölçüsüdür.", 
+            "B) Kanıtın ihtiyaca uygunluğunun ölçüsüdür.", 
+            "C) Kanıtın kalitesinin ölçüsüdür.", 
+            "D) Kanıtın güvenilirliğinin ölçüsüdür.", 
+            "E) Kanıtın miktarının ölçüsüdür."
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "18. Denetim yaklaşımının planlanması ve tasarlanması aşamasında şayet denetçi “iç kontrollerin etkin olduğunu düşünmüş ve kontrol riskini düşük olarak planlamış” ise bunun denetim kanıtına etkisi ne olur?", 
+        "options": [
+            "A) Toplanacak kanıt miktarı azalır.", 
+            "B) Toplanacak kanıt miktarı artar.", 
+            "C) Toplanacak kanıt miktarı değişmez.", 
+            "D) Toplanacak kanıtın maliyeti artar.", 
+            "E) Toplanacak kanıt güvenirliliği azalır."
+        ], 
+        "correct": 0 
+    },
+    { 
+        "q": "19. Aşağıdakilerden hangisi denetimde işletme içi kanıtlar arasında yer almaz?", 
+        "options": [
+            "A) Toplantı tutanakları", 
+            "B) Muhasebe fişleri", 
+            "C) Banka hesap özeti", 
+            "D) İşletmeye ait defterler", 
+            "E) Sözleşmeler"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "q": "20. Aşağıdakilerden hangisi denetlenen işletme için denetim kanıtı sayılmaz?", 
+        "options": [
+            "A) İşletmenin faaliyet gösterdiği sektörde ortaya çıkmış hile yöntemleri", 
+            "B) İşletmeden alınan doğruluk beyanları", 
+            "C) İşletmenin sunmuş olduğu veri seti", 
+            "D) Denetçinin işletme içerisindeki gözlemleri", 
+            "E) Denetçinin kendi amaçları açısından yeterli olduğunu düşündüğü uzman çalışmaları"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "q": "21. BDS 620 Uzman Çalışmalarının Kullanılması standardı uyarınca denetçinin bir uzmandan faydalanmasına ilişkin aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) Uzmanın, muhasebenin hangi alanında kullanılacağı belirlenir.", 
+            "B) Denetçi ve uzman arasındaki çalışmanın amacı ve kapsamı belirlenir.", 
+            "C) Uzmanın tarafsızlığını etkileyebilecek bir tehdidin olup olmadığı belirlenir.", 
+            "D) Uzmanın kullandığı varsayım ve yöntemlerin ihtiyaca uygunluğu ve makullüğü değerlendirilir.", 
+            "E) Uzmanın kullandığı iç ve dış kaynaklı veri veya bilgilerin niteliği değerlendirilir."
+        ], 
+        "correct": 0 
+    },
+    { 
+        "q": "22. Bağımsız denetçinin görüş oluşturmasını aşağıdakilerden hangisi etkilemez?", 
+        "options": [
+            "A) Finansal tablolarda sunulan bilgilerin anlaşılır olup olmaması", 
+            "B) İşletmenin muhasebe politikalarının finansal tablolarda açıklanıp açıklanmaması", 
+            "C) İşletmenin faaliyette bulunduğu sektörün önemli olup olmaması", 
+            "D) Yönetimin muhasebe tahminlerinin makul olup olmaması", 
+            "E) Finansal tablolarda sunulan bilgilerin karşılaştırılabilir olup olmaması"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "q": "23. BDS 500 Denetim Kanıtları standardına göre aşağıdakilerden hangisi denetim kanıtlarının uygunluğu ve yeterliliği ile ilgili değildir?", 
+        "options": [
+            "A) Denetim kanıtının uygunluğu denetim kanıtının kalitesinin, yeterliliği ise kanıtın miktarının ölçütüdür.", 
+            "B) Denetim kanıtının uygunluğu, denetçi görüşünün dayanağını oluşturan sonuçların desteklenmesi bakımından denetim kanıtının ihtiyaca uygunluğu ve güvenilirliğidir.", 
+            "C) İhtiyaç duyulan denetim kanıt miktarı ilgili denetim kanıtının kalitesinden etkilenir.", 
+            "D) Yeterli ve uygun denetim kanıtının elde edilip edilmediği mesleki muhakeme konusudur.", 
+            "E) Denetim kanıtlarının elde edilme süresi uygunluk ve yeterlilik açısından önemlidir."
+        ], 
+        "correct": 4 
+    }
+],
+"Test 05: Önemlilik": [
+    { 
+        "q": "1. Denetimin planlanması ve yürütülmesinde “önemlilikle” ilgili aşağıdakilerden hangisi doğrudur?", 
+        "options": [
+            "A) Önemlilik düzeyleri her yıl Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumu tarafından sektörler itibarıyla belirlenmektedir.", 
+            "B) Önemlilik düzeyi, denetlenen finansal tablolardaki aktif toplamın belli bir oranı olarak belirlenmelidir.", 
+            "C) Bir denetimde, bir bütün olarak finansal tablolar için belirlenmiş önemlilik düzeyinden başka önemlilik düzeyleri belirlenemez.", 
+            "D) Önemliliğin belirlenmesi denetçinin mesleki muhakemesine bağlıdır.", 
+            "E) Önemlilik, kalemlerin büyüklüklerine değil, yapısına bağlıdır."
+        ], 
+        "correct": 3 
+    },
+    { 
+        "q": "2. Türkiye Denetim Standartları çerçevesinde önemlilikle ilgili aşağıdaki ifadelerden hangisi yanlıştır?", 
+        "options": [
+            "A) Finansal tabloların bütünü için önemlilik seviyesi tablo kullanıcıları açısından belirlenir.", 
+            "B) Denetçi, denetim süresince belirlediği yanlışlıkları, bariz biçimde önemsiz sayılanlar dışında müşteri işletme yönetimine bildirir.", 
+            "C) İşletmeler özellikli yapıları sebebiyle belirli bazı kalemler için özel önemlilik seviyeleri belirleyebilir.", 
+            "D) Önemlilik seviyesi denetimin başlarında belirlenir ve denetim süresi boyunca değiştirilmeden uygulanır.", 
+            "E) Finansal tabloların bütünü için belirlenmiş önemlilik seviyesi, buna yönelik performans önemliliği seviyesinden her zaman yüksektir."
+        ], 
+        "correct": 3 
+    },
+    { 
+        "q": "3. Önemliliğin belirlenmesine ilişkin aşağıdaki yargılardan hangisi yanlıştır?", 
+        "options": [
+            "A) Önemliliğe ilişkin yargılara ulaşılırken içinde bulunulan şartlar dikkate alınmaz.", 
+            "B) Önemliliğe ilişkin yargı, yanlışlığın büyüklüğünden etkilenir.", 
+            "C) Önemliliğe ilişkin yargı, yanlışlığın niteliğinden etkilenir.", 
+            "D) Yanlışlıkların, ihtiyaçları birbirinden oldukça farklı olabilecek belirli bireysel kullanıcılar üzerindeki muhtemel etkisi dikkate alınmaz.", 
+            "E) Önemliliğe ilişkin yargı denetçinin finansal tablo kullanıcılarının finansal bilgiye olan ihtiyaçlarını algılayışından etkilenir."
+        ], 
+        "correct": 0 
+    },
+    { 
+        "q": "4. Aşağıdakilerden hangisi önemlilik kavramı ile ilgili olarak doğru değildir?", 
+        "options": [
+            "A) Önemlilik denetçi tarafından hesaplanır.", 
+            "B) Bağımsız denetim raporunun kilit denetim konuları içerisinde önemlilik tutarı belirtilir.", 
+            "C) Önemlilik işletmeden işletmeye göre değişir.", 
+            "D) Önemlilik denetçinin görüş türünü belirlemede etkilidir.", 
+            "E) Önemlilik seviyesinin aşağı doğru revize edilmesi işletmede riskin yüksek olduğu anlamına gelir."
+        ], 
+        "correct": 1 
+    },
+    { 
+        "q": "5. Aşağıdakilerden hangisi önemlilik düzeyinin kullanıldığı bir nokta değildir?", 
+        "options": [
+            "A) Denetimin planlanması", 
+            "B) İşletmenin gelecek performansının belirlenmesi", 
+            "C) Denetimin yürütülmesi", 
+            "D) Yanlışlıkların denetim üzerindeki etkilerinin değerlendirilmesi", 
+            "E) Denetçi raporundaki görüşün oluşturulması"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "q": "6. Önemlilik kavramı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) Önemlilik, denetim sürecinin üç aşamasında da kullanılır.", 
+            "B) Bir yanlışlık, bir finansal tablo kullanıcısının vereceği kararı olumsuz yönde etkiliyorsa, o yanlışlık önemli, etkilemiyorsa önemsiz kabul edilir.", 
+            "C) Önemlilik düzeyi, finansal tablo kullanıcılarının kararlarını etkilemeyecek en düşük yanlışlık düzeyi olarak kabul edilir.", 
+            "D) Bağımsız Denetçi, finansal tablo kullanıcılarının kararlarını etkileyebilecek hangi yanlışlıkların önemli, hangilerinin önemsiz olduğunu, mesleki yargıları ile belirlemek zorundadır.", 
+            "E) Bağımsız Denetçiden önemsiz yanlışlıkları bulması beklenmez."
+        ], 
+        "correct": 2 
+    },
+    { 
+        "q": "7. Düzeltilmemiş ve tespit edilmemiş yanlışlıklar toplamının, bir bütün olarak finansal tablolar için belirlenen önemliliği aşması ihtimalini uygun bir düşük seviyeye indirmek amacıyla, bir bütün olarak finansal tabloların önemliliğinden düşük olarak denetçi tarafından belirlenen tutar veya tutarları ifade eder.\n\nVerilen tanım aşağıdaki kavramlardan hangisine aittir?", 
+        "options": [
+            "A) Yargısal yaklaşım", 
+            "B) Başlangıç önemliliği", 
+            "C) Hesap kalemleri seviyesinde önemlilik", 
+            "D) Önemli yanlışlık", 
+            "E) Performans önemliliği"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "8. Denetimde önemlilik ile ilgili aşağıdakilerden hangisi doğrudur?", 
+        "options": [
+            "A) Finansal tabloların geneline yönelik bir önemlilik seviyesi belirlenmişse denetçinin, ayrıca bir performans (uygulama) önemliliği belirlemesine gerek yoktur.", 
+            "B) Performans (uygulama) önemliliği, denetimin planlanması ve yürütülmesiyle ilgili olup tabloların geneline yönelik önemlilik seviyesinden düşüktür.", 
+            "C) Denetçinin finansal tabloların tamamı için 1 milyon TL önemlilik seviyesi belirlemişken niteliği sebebiyle ayrı hassasiyet göstermesi gerektiğini düşündüğü bir kalem için 2 milyon TL özel önemlilik seviyesi belirleyebilir.", 
+            "D) Denetçinin belirleyeceği önemlilik seviyesinin, yönetimin belirlediği önemlilik seviyesinden farklı olması gerekir.", 
+            "E) Finansal tablolar için önemlilik seviyesi 1 milyon TL olarak belirlenmişse 700 bin TL’lik bir kalem için denetim prosedürü uygulanmasına gerek yoktur."
+        ], 
+        "correct": 1 
+    },
+    { 
+        "q": "9. Düzeltilmemiş ve tespit edilmemiş yanlışlıkların toplamının, bir bütün olarak finansal tablolar için belirlenen önemliliği aşma olasılığı olarak tanımlanan risk aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Tespit edememe", 
+            "B) Bulgu", 
+            "C) Toplulaştırma", 
+            "D) Önemli yanlışlık", 
+            "E) Denetim"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "q": "10. Denetçinin önemliliği belirlemesi mesleki muhakemesini kullanmasını gerektiren bir konudur ve bu muhakeme denetçinin finansal tablo kullanıcılarının finansal bilgiye olan ihtiyaçlarını algılayışından etkilenir.\n\nBu çerçevede finansal tablo kullanıcıları aşağıdaki varsayımların hangisini kabul etmez?", 
+        "options": [
+            "A) Finansal tablolarda yer alan bilgileri esas alarak makul ekonomik kararlar aldıkları", 
+            "B) İş hayatı ve ekonomik faaliyetler ile muhasebeyle ilgili makul ölçüde bilgiye sahip oldukları ve finansal tablolardaki bilgileri makul özen göstererek değerlendirme isteklerinin bulunduğu", 
+            "C) Finansal tabloların önemlilik düzeylerine göre hazırlandığını, sunulduğunu ve denetlendiğini anladıkları", 
+            "D) Tahminlerin ve muhakemenin kullanılmasına ve gelecekteki olayların dikkate alınmasına dayanan tutarların ölçümünün yapısında bulunan belirsizliği kabul ettikleri", 
+            "E) Önemlilik hesabının kesinlik ve doğruluk içerdiği ve denetçiden denetçiye hesaplama yönteminin değişmeyeceği"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "q": "11. Denetçi, önemlilik seviyesini hesaplarken finansal tablo kullanıcılarının birtakım varsayımlarda bulunduklarını kabul eder.\n\nAşağıdakilerden hangisi bu varsayımlardan biri değildir?", 
+        "options": [
+            "A) Finansal tabloların önemlilik düzeylerine göre hazırlandığını, sunulduğunu ve denetlendiğini finansal tablo kullanıcılarının anladıkları", 
+            "B) Finansal tablo kullanıcılarının, iş hayatı ve ekonomik faaliyetler ile muhasebe hakkında makul ölçüde bilgiye sahip oldukları ve finansal tablolardaki bilgileri makul özen göstererek değerlendirme isteklerinin bulunduğu", 
+            "C) Finansal tablo kullanıcılarının bağımsız denetim ile ilgili tecrübelerinin olduğu", 
+            "D) Tahminlere, yargılara ve gelecekteki olayların değerlendirilmesine dayanan büyüklüklerin ölçümünün doğasında bulunan belirsizlikleri finansal tablo kullanıcılarının kabul ettikleri", 
+            "E) Finansal tablolarda yer alan bilgileri esas alarak finansal tablo kullanıcılarının makul ekonomik kararlar aldıkları"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "q": "12. “Önemliliğin belirlenmesi mesleki muhakeme kullanılmasını içerir. Bir bütün olarak finansal tablolar için önemliliğin belirlenmesinde genellikle başlangıç noktası olarak seçilen bir kıyaslama noktasına, yüzdesel bir oran uygulanır.”\n\n Aşağıdakilerden hangisi uygun kıyaslama noktasının belirlenmesini etkileyebilecek faktörlere örnek olarak verilemez?", 
+        "options": [
+            "A) Kıyaslama noktasının her dönem için kesin sabitliği", 
+            "B) Finansal tabloların unsurları", 
+            "C) Belirli bir işletmenin finansal tablo kullanıcılarının dikkatinin odaklanma eğilimi gösterdiği kalemlerin bulunup bulunmadığı", 
+            "D) İşletmenin niteliği, işletmenin yaşam döngüsünün neresinde bulunduğu ve işletmenin faaliyet gösterdiği sektör ve ekonomik çevre", 
+            "E) İşletmenin ortaklık yapısı ve nasıl finanse edildiği"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "q": "13. Önemliliğin hesap kalanları ve işlem sınıflarına dağıtılmasında aşağıdakilerden hangisi dikkate alınmaz?", 
+        "options": [
+            "A) Yargısal yaklaşım", 
+            "B) Oran yaklaşımı", 
+            "C) Kanıt sayısı", 
+            "D) Düzeltme kayıtlarının sayısı", 
+            "E) Formül yaklaşımı"
+        ], 
+        "correct": 2 
+    }
+],
+"Test 06: Çalışma Kağıtları": [
+    { 
+        "id": "058420",
+        "q": "1. Aşağıdakilerden hangisi çalışma kâğıtlarının hazırlanma amaçlarından biri değildir?", 
+        "options": [
+            "A) Denetim ekibinin denetimi planlamasında yardımcı olmak", 
+            "B) Denetim ekibinin denetimi yürütmesinde yardımcı olmak", 
+            "C) Denetim ekibinin kendi çalışmalarından sorumlu olmasını sağlamak", 
+            "D) Denetim kalitesinin gözden geçirilmesini sağlamak", 
+            "E) Üçüncü kişilerin bilgi alma hakkını sağlamak"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "055605",
+        "q": "2. Aşağıdakilerden hangisi çalışma kâğıtlarının sağladığı yararlardan biri değildir?", 
+        "options": [
+            "A) Gelecekteki denetimlerde de önem arz edecek hususların kaydının tutulmasını sağlamak", 
+            "B) Denetim ekibinin denetimi planlamasına ve yürütmesine yardımcı olmak", 
+            "C) Denetim ekibi üyelerinin ilgili denetim çalışmasının yönetilmesi, yönlendirilmesi ve gözetiminde yardımcı olmak", 
+            "D) Denetim ekibinin kendi çalışmalarından sorumlu olmasını sağlamak", 
+            "E) Yürürlükteki mevzuat hükümleri uyarınca iç teftişlerin yürütülmesini sağlamak"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "055948",
+        "q": "3. Aşağıdakilerden hangisi BDS 230 Bağımsız Denetimin Belgelendirilmesi Standardına göre çalışma kâğıtlarının ilave amaçları arasında sayılamaz?", 
+        "options": [
+            "A) Denetim ekibinin denetimi planlamasına ve yürütmesine yardımcı olmak", 
+            "B) Finansal tabloların geçerli finansal raporlama çerçevesine uygun olarak hazırlanmasını sağlamak", 
+            "C) Denetim ekibinin kendi çalışmalarından sorumlu  olmasını sağlamak", 
+            "D) Gelecekteki denetimlerde önem arz edecek hususların kaydının tutulmasını sağlamak", 
+            "E) Mevzuat hükümleri uyarınca dış teftişlerin yürütülmesini sağlamak"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "055629",
+        "q": "4. Denetimde belgelendirmenin sağladığı yararlar arasında aşağıdakilerden hangisi sayılamaz?", 
+        "options": [
+            "A) Denetimde ekip üyelerine, denetimin izlenmesi ve yönlendirilmesi konusundaki sorumluluklarının yerine getirilmesinde yardımcı olmak", 
+            "B) Gelecek dönemlerde de önem arz edecek hususların kaydedilmesine imkân vermek", 
+            "C) Denetim ekibi üyelerinin başkalarının çalışmalarından sorumlu olmalarını sağlamak", 
+            "D) Kıdemli denetçinin kalite kontrol çalışması yapmasını sağlamak", 
+            "E) Denetim ekibine bağımsız denetimin planlanıp yürütülmesi konusunda yol göstermek"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "056196",
+        "q": "5. Aşağıdakilerden hangisi çalışma kâğıtlarının yararlarından biri değildir?", 
+        "options": [
+            "A) İşletme bilgilerini ticari sır kapsamında muhafaza  altında tutmak", 
+            "B) Denetim raporunun hazırlanmasına esas teşkil etmek", 
+            "C) Denetim çalışmasının yürütülmesine yardımcı olmak", 
+            "D) Mevzuat hükümleri uyarınca dış teftişlerin yürütülmesini sağlamak", 
+            "E) Gelecekteki denetim çalışmalarına yardımcı olmak"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "050318",
+        "q": "6. Denetim çalışma kağıtları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) Çalışma kâğıtları denetlenen şirkete aittir.", 
+            "B) Çalışma kâğıtları, kâğıt ya da elektronik ortam veya diğer şekillerde tutulabilir.", 
+            "C) Çalışma kâğıtları, bağımsız denetim raporu için yeterli ve uygun bir kayıt düzeni oluşturmak suretiyle bağımsız denetimin ilgili kanun ve yasal düzenlemelere uygun yapıldığına dair kanıt oluşturur.", 
+            "D) Denetimin kim tarafından yapıldığını ve ne zaman tamamlandığını; yapılan çalışmanın kim tarafından, ne zaman ve hangi kapsamda gözden geçirildiğini çalışma kâğıtları ile belgelendirmek gerekir.", 
+            "E) Gerekli görüldüğü takdirde önemli ve özellik arz eden sözleşmelerin kopyaları çalışma kâğıtları olarak saklanabilir."
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "057031",
+        "q": "7. Çalışma kâğıtlarının biçimi, içeriği ve kapsamı aşağıdakilerden hangisinden etkilenmez?", 
+        "options": [
+            "A) İşletmenin büyüklüğü ve karmaşıklığı", 
+            "B) Denetçi görüş türü", 
+            "C) Uygulanacak denetim prosedürlerinin niteliği", 
+            "D) Elde edilen denetim kanıtının önemi", 
+            "E) Belirlenen önemli yanlışlık riskleri"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "058519",
+        "q": "8. Aşağıdakilerden hangisi BDS 230 Bağımsız Denetimin Belgelendirilmesi standardı kapsamında çalışma kâğıtlarının biçimini, içeriğini ve kapsamını etkileyen unsurlardan biri değildir?", 
+        "options": [
+            "A) İşletmenin büyüklüğü ve karmaşıklığı", 
+            "B) Uygulanacak denetim prosedürlerinin niteliği", 
+            "C) Elde edilen denetim kanıtının önemi", 
+            "D) Kullanılan denetim metodolojisi ve araçları", 
+            "E) Denetim müşterisinin rapora ihtiyaç duyduğu süre"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "052712",
+        "q": "9. Aşağıdakilerden hangisi çalışma kâğıtlarının biçimi, içeriği ve kapsamını etkileyen unsurlardan biri değildir?", 
+        "options": [
+            "A) İşletme faaliyetlerinin karmaşıklığı", 
+            "B) Belirlenen önemli yanlışlık riskleri", 
+            "C) Kullanılan denetim metodolojisi ve araçları", 
+            "D) Elde edilen denetim kanıtlarının sayısı", 
+            "E) Denetim ekibi üyelerinin sorumlulukları"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "050002",
+        "q": "10. Aşağıdakilerden hangisi denetim çalışma kâğıtlarının biçimi, içeriği ve kapsamını etkileyen unsurlardan biri değildir?", 
+        "options": [
+            "A) Kullanılan denetim metodolojisi ve araçları", 
+            "B) Uygulanacak denetim prosedürlerinin niteliği", 
+            "C) Denetim ekibi üyeleriyle müzakere edilen denetim kanıtları", 
+            "D) İşletmenin büyüklüğü ve karmaşıklığı", 
+            "E) Elde edilen denetim kanıtlarının önemi"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "054798",
+        "q": "11. Denetim kanıtlarının belgelendirilmesi ile ilgili aşağıdaki kuralların hangisi yanlıştır?", 
+        "options": [
+            "A) Denetlenen işletmenin onayına sunulması gerekir.", 
+            "B) Kim tarafından hazırlandığının belirtilmesi gerekir.", 
+            "C) Hangi tarihte hazırlandığının belirtilmesi gerekir.", 
+            "D) Hangi işletme için hazırlandığının belirtilmesi gerekir.", 
+            "E) Denetim kanıtlarının ticari sır olarak saklanması gerekir."
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "053609",
+        "q": "12. Çalışma kâğıtlarının nihai denetim dosyasında birleştirilmesi sürecinde, idari nitelikte olmak kaydıyla çalışma kâğıtlarında aşağıda yer alan örneklerden hangisinin olması durumunda denetçi değişiklik yapamaz?", 
+        "options": [
+            "A) Yenilenmiş olan çalışma kâğıtlarının eski taslaklarının silinmesi", 
+            "B) Çalışma kâğıtlarının sınıflandırılması", 
+            "C) Çalışma kâğıtlarına çapraz referanslar verilmesi", 
+            "D) Çalışma kâğıtlarının yeni uygulanan denetim prosedürleri sonuçlarına göre yenilenmesi", 
+            "E) Çalışma kâğıtlarının nihai denetim dosyasında birleştirilmesi sürecine ilişkin kontrol listelerinin imzalanması"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "057641",
+        "q": "13. Aşağıdaki çalışma kâğıtlarından hangisi denetçi  tarafından sürekli dosya içerisinde saklanır?", 
+        "options": [
+            "A) Finansal tabloların örnekleri", 
+            "B) Denetim planı ve programı", 
+            "C) Şirket ana sözleşmesinin bir örneği", 
+            "D) Çalışma mizanı", 
+            "E) İç kontroller ile ilgili incelemeler"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "051945",
+        "q": "14. Aşağıdakilerden hangisi bir şirketin denetimi ile ilgili devamlı dosyada yer alması gereken bilgi/belgelerden biri değildir?", 
+        "options": [
+            "A) İç kontrol sistemini değerlendirme formları", 
+            "B) Geçmiş yıllara ait mali tablolar", 
+            "C) Denetlenen işletme ve sektörü ile ilgili genel ve tanıtıcı bilgiler", 
+            "D) Muhasebe yönetmeliği ve hesap planı", 
+            "E) Sözleşme ve anlaşmalar"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "052998",
+        "q": "15. Aşağıdakilerden hangisi sürekli dosya içerisinde yer alan çalışma kâğıtlarından biri değildir?", 
+        "options": [
+            "A) Yönetmelikler ve şirket sözleşmesinin kopyaları", 
+            "B) Genel kurul, yönetim kurulu ve denetim komitelerinin önemli toplantılarına ilişkin tutanakların kopyaları", 
+            "C) Denetim komitesi başkanı ile yapılan görüşmelerin notları", 
+            "D) Önceki yılların finansal tablolarının ve denetim raporlarının kopyaları", 
+            "E) Dağıtılmamış kârlar, ödenmiş sermaye gibi özkaynak hesaplarının listesi"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "058126",
+        "q": "16. Aşağıdakilerden hangisi bir şirketin denetimi ile ilgili cari dosyada yer alması gereken bilgi/belgelerden biri değildir?", 
+        "options": [
+            "A) İlk önemlilik belirleme notları", 
+            "B) Müşterinin organizasyon şeması", 
+            "C) İç kontrol soru listesi ve soru analizleri", 
+            "D) Kalanları birkaç yıl devredilen hesapların listesi", 
+            "E) Ön risk belirleme notları"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "050210",
+        "q": "17. Aşağıdakilerden hangisi bir şirketin denetimi ile ilgili cari dosyada yer alması gereken bilgi/belgelerden biri değildir?", 
+        "options": [
+            "A) Zaman bütçeleri", 
+            "B) İç kontrol sistemini değerlendirme formları", 
+            "C) Denetlenen işletme ve sektörü ile ilgili genel ve tanıtıcı bilgiler", 
+            "D) İş akış şemaları", 
+            "E) Denetim anlaşma mektubu"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "054971",
+        "q": "18. Aşağıdakilerden hangisi çalışma kâğıtlarının hazırlanması ile ilgili temel ilkelerden biri değildir?", 
+        "options": [
+            "A) Çalışma kâğıtları uygun bir düzende  endekslenmelidir.", 
+            "B) Her çalışma kâğıdının üst kısmında denetlenen işletmenin adı, ilgili dönem veya tarih, çalışma kâğıdının adı, hazırlayan denetçinin adı ve hazırlanış tarihi yer almalıdır.", 
+            "C) Ulaşılan sonuç, çalışma kâğıdının düzenlendiği tarihte çalışma kâğıdının altında tüm detayları ile geniş olarak yer bulmalıdır.", 
+            "D) Tamamlanmış çalışma kâğıtları yapılan denetim işini açıkça göstermelidir.", 
+            "E) Her çalışma kâğıdında hazırlanma amacına uygun yeterli bilgi bulunmalıdır."
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "058204",
+        "q": "19. Çalışma kâğıtları için aşağıdakilerden hangisi söylenemez?", 
+        "options": [
+            "A) Denetçi, çalışma kâğıtları nihai denetim dosyasında birleştirildikten sonra ne şekilde olursa olsun çalışma kâğıtlarını saklama süresi sona ermeden silemez, atamaz veya yok edemez.", 
+            "B) Denetlenen işletmenin yazılı izni olmaksızın çalışma kâğıtları yasal otoriteler ile paylaşılamaz.", 
+            "C) Çalışma kâğıtlarının gizliliğini sağlama sorumluluğu bağımsız denetçiye aittir.", 
+            "D) Denetim ekibinin denetimi planlamasına ve yürütmesine yardımcı olur.", 
+            "E) Denetim ekibinin kendi çalışmalarından sorumlu olmasını sağlar."
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "056819",
+        "q": "20. Denetimin belgelendirilmesine ilişkin aşağıdakilerden hangisi doğrudur?", 
+        "options": [
+            "A) Denetim çalışmasını yürütenleri ve ilgili tarihlerde yapılanların çalışma kâğıtlarında belirtilmesi ihtiyaridir.", 
+            "B) Denetçi tarafından yapılan sözlü açıklamalar, denetçinin ulaştığı sonuçlar için tek başına yeterli dayanak sağlar.", 
+            "C) Denetçi raporundan sonra ortaya çıkan hususlar için yeni veya ilave denetim prosedürü uygulamak gerekmez.", 
+            "D) Finansal tabloların çalışma kâğıtlarına eklenmesi gerekmez.", 
+            "E) Çalışma kâğıtları işletmenin muhasebe kayıtları yerine geçer."
+        ], 
+        "correct": 3 
+    }
+],
+"Test 07: Denetim Prosedürleri": [
+    { 
+        "id": "054297",
+        "q": "1. Aşağıdakilerden hangisi denetçinin risk değerlendirme prosedürlerinden biri değildir?", 
+        "options": [
+            "A) Gözlem", 
+            "B) Sorgulama", 
+            "C) Tetkik", 
+            "D) Örnekleme", 
+            "E) Analitik Prosedürler"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "058560",
+        "q": "2. Aşağıdakilerden hangisi denetim çalışması sırasında kanıt toplamak amacı ile denetçinin yaptığı denetim işlemlerinden biri değildir?", 
+        "options": [
+            "A) Fiziki inceleme", 
+            "B) Hesap düzenini yeniden tasarlama", 
+            "C) Belge incelemesi", 
+            "D) Doğrulama", 
+            "E) Analitik inceleme"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "051366",
+        "q": "3. Aşağıdakilerden hangisi stok hesaplarına ilişkin denetim riskinin değerlendirilmesinde kullanılan prosedürlerden biri değildir?", 
+        "options": [
+            "A) Gözlem", 
+            "B) Periyodik Sayım", 
+            "C) Tetkik", 
+            "D) Sorgulama", 
+            "E) Analitik Prosedürler"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "059195",
+        "q": "4. Beklenen değerlerden ciddi ölçüde farklılık gösteren veya diğer ilgili bilgilerle tutarsızlık gösteren belirlenmiş dalgalanmaların veya ilişkilerin araştırılması aşağıdaki denetim prosedürlerinden hangisini ifade etmektedir?", 
+        "options": [
+            "A) Yeniden uygulama", 
+            "B) Analitik prosedür", 
+            "C) Gözlem", 
+            "D) Tetkik", 
+            "E) Yeniden hesaplama"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "054398",
+        "q": "5. Banka hesaplarında risk teşkil edebilecek önemli dalgalanmaların olup olmadığını denetlemek isteyen bir denetçi aşağıdaki denetim tekniklerinden hangisini kullanır?", 
+        "options": [
+            "A) Analitik inceleme tekniği", 
+            "B) Belge incelemesi tekniği", 
+            "C) Doğrulama tekniği", 
+            "D) Yeniden hesaplama tekniği", 
+            "E) Fiziki inceleme tekniği"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "058470",
+        "q": "6. Beklenen finansal değerlerden ciddi ölçüde farklılık gösteren veya diğer ilgili bilgilerle tutarsızlık gösteren dalgalanmaların veya ilişkilerin araştırılması aşağıdaki denetim işlemlerinden hangisinin kapsamına girmektedir?", 
+        "options": [
+            "A) Analitik inceleme", 
+            "B) Aritmetik inceleme", 
+            "C) Tutar aktarmalarının denetimi", 
+            "D) Karşılaştırma", 
+            "E) Belge incelemesi"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "050182",
+        "q": "7. Bağımsız Denetim standartlarına göre, finansal ve finansal olmayan veriler arasındaki anlamlı ilişkilerin analiz edilmesi yoluyla, finansal bilgilerin değerlendirilmesi aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Risk değerlendirme prosedürleri", 
+            "B) Doğrulama", 
+            "C) Yeniden uygulama", 
+            "D) Analitik prosedürler", 
+            "E) Yeniden hesaplama"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "051043",
+        "q": "8. Aşağıdakilerden hangisi denetçinin finansal ve finansal olmayan veriler arasındaki anlamlı ilişkileri analiz ederek finansal bilgileri değerlendirdiği kanıt türüdür?", 
+        "options": [
+            "A) Dış teyit", 
+            "B) Gözlem", 
+            "C) Sorgulama", 
+            "D) Analitik prosedürler", 
+            "E) Yeniden hesaplama"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "055440",
+        "q": "9. BDS 520'ye göre aşağıdakilerden hangisi kanıt toplama tekniklerinden analitik prosedürler içerisinde yer almaz?", 
+        "options": [
+            "A) Karşılaştırmalı tablolar analīzi", 
+            "B) Ussallık testleri", 
+            "C) Yeniden hesaplama", 
+            "D) Trend analizi", 
+            "E) Oran analizi"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "055553",
+        "q": "10. Bir denetçinin üretim miktarını tahmin ederken; işçi sayısı ve enerji giderlerinden faydalanması aşağıdaki analitik prosedürlerden hangisinin kullanıldığını gösterir?", 
+        "options": [
+            "A) Dikey analiz", 
+            "B) Trend analizleri", 
+            "C) Oran analizleri", 
+            "D) Karşılaştırmalı tablolar analizi", 
+            "E) Ussallık testleri"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "052087",
+        "q": "11. Denetim sürecinde analitik inceleme prosedürlerinin kullanılacağı aşamalar aşağıdakilerin hangisinde eksiksiz olarak verilmiştir?", 
+        "options": [
+            "A) Denetimin planlanma ve tamamlanma aşaması", 
+            "B) Denetimin planlanma ve denetim testlerinin gerçekleştirilmesi aşaması", 
+            "C) Sadece denetimin planlanma aşaması", 
+            "D) Sadece denetim testlerinin gerçekleştirilmesi aşaması", 
+            "E) Denetimin planlanması, denetim testlerinin gerçekleştirilmesi ve denetimin tamamlama aşaması"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "056058",
+        "q": "12. Aşağıdakilerden hangisi denetçinin, denetimin planlama aşamasında, başlangıç analitik prosedürlerinden yararlanma amaçlarından biri değildir?", 
+        "options": [
+            "A) Sektörü ve işletmeyi yakından tanımak", 
+            "B) İşletmenin sürekliliğini değerlendirmek", 
+            "C) Doğal riski sınırlamak", 
+            "D) Beklenen yanlışlıklara yönetimin dikkatini çekmek", 
+            "E) Ayrıntılı denetim testlerinin sayısını azaltmak"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "053523",
+        "q": "13. Aşağıdakilerden hangisi denetçinin denetim sürecinin tamamlanma aşamasında analitik inceleme prosedürlerinden yararlanma amaçlarından biri değildir?", 
+        "options": [
+            "A) Maddi hataların değerlendirilmesi", 
+            "B) Yapısal riskin değerlendirilmesi", 
+            "C) İşletmenin sürekliliğinin değerlendirilmesi", 
+            "D) Yönetim hilelerine işaret edebilecek durumların değerlendirilmesi", 
+            "E) Denetim görüşünün değerlendirilmesi"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "053038",
+        "q": "14. Denetçinin, işletmenin kayıtlarında yer alan makinenin fabrika alanında bulunup bulunmadığını tespit etmek için kullandığı denetim prosedürü aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Ussallık Testi", 
+            "B) Gözlem", 
+            "C) Dış Teyit", 
+            "D) Yeniden Hesaplama", 
+            "E) Tetkik"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "051424",
+        "q": "15. Denetçi, kasadan yapılan ödemelerin yasal sınırlar çerçevesinde olup olmadığını kontrol etmek için hesap muavinini gözden geçirmiş ve örnekleme usulü seçtiği işlemlere ilişkin belgeleri kontrol etmiştir.\n\nBu çalışma, aşağıdaki denetim prosedürlerinden hangisini ifade eder?", 
+        "options": [
+            "A) Analitik prosedür", 
+            "B) Sorgulama", 
+            "C) Yeniden uygulama", 
+            "D) Gözlem", 
+            "E) Tetkik"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "055033",
+        "q": "16. Ticari alacaklar hesap grubunun denetiminde, aşağıdaki denetim tekniklerinin hangisi kullanılmaz?", 
+        "options": [
+            "A) Analitik prosedürler", 
+            "B) Belge İncelemesi", 
+            "C) Yeniden hesaplama", 
+            "D) Fiziki İnceleme", 
+            "E) Doğrulama"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "050839",
+        "q": "17. Finansal durum tablosunda sunulan varlıkların işletmede gerçekten bulunduğunun belirlenmesi amacına yönelik olarak uygulanan denetim yöntemi aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Yeniden Hesaplama", 
+            "B) Soruşturma", 
+            "C) Gözlem", 
+            "D) Fiziki İnceleme", 
+            "E) Analitik İnceleme"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "058091",
+        "q": "18. Aşağıdakilerden hangisi fiziki inceleme tekniğinin uygulama aşamalarından biri değildir?", 
+        "options": [
+            "A) Fiziki varlık sadece yerinde incelemeye tabi tutulmalıdır.", 
+            "B) Fiziki olarak incelenecek varlık belirlenmelidir.", 
+            "C) Fiziki varlığın sayımı yapılmalıdır.", 
+            "D) Sayılan varlığın kalitesine bakılmalıdır.", 
+            "E) Sayılan varlığın sahte olup olmadığına bakılmalıdır."
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "051514",
+        "q": "19. Denetçi, fiziki stok sayımına katıldığında aşağıdakilerden hangisini amaçlamaz?", 
+        "options": [
+            "A) Test sayımlarını yapmak", 
+            "B) Yönetimin, işletmenin fiziki stok sayımı sonuçlarının kayıt ve kontrol edilmesine yönelik talimat ve prosedürlerini değerlendirmek", 
+            "C) Yönetimin sayıma ilişkin prosedürlerinin uygulanmasını gözlemlemek", 
+            "D) Stokları tetkik etmek", 
+            "E) Sektörel stok ortalamalarını tespit etmek"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "052372",
+        "q": "20. Aşağıdakilerden hangisi bir tutarı örnek bir belgeden hareketle günlük defterden büyük deftere oradan da mizana kadar takip eden kanıt toplama tekniğidir?", 
+        "options": [
+            "A) Ayrıntılı inceleme tekniği", 
+            "B) Gözlem tekniği", 
+            "C) Kayıt sisteminin izlenmesi tekniği", 
+            "D) Yeniden hesaplama tekniği", 
+            "E) İlgili hesaplar arasında ilişki kurma tekniği"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "052541",
+        "q": "21. BDS 500 Denetim Kanıtları standardına göre aşağıdaki kanıt toplama tekniklerinden hangisi, denetçilerin üçüncü kişilerden bilgi toplayarak elde ettiği kanıt türüdür?", 
+        "options": [
+            "A) Dış Teyit", 
+            "B) Gözlem", 
+            "C) Sorgulama", 
+            "D) Analitik Prosedürler", 
+            "E) Yeniden Hesaplama"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "055975",
+        "q": "22. Aşağıdakilerden hangisi doğrulama tekniği kullanılarak elde edilebilecek kanıtlardan biri değildir?", 
+        "options": [
+            "A) Borçlulardan gelen, hesap hareketlerini gösterir belge", 
+            "B) Bankadan gelen hesap hareketlerini gösterir belge", 
+            "C) Alacaklılardan gelen, hesap hareketlerini gösterir belge", 
+            "D) İşletme yönetim kurulu kararlarını gösterir belge", 
+            "E) Resmi kurumlardan gelen ödemeleri gösterir belge"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "050525",
+        "q": "23. Aşağıdakilerden hangisi doğrulama tekniği ile kanıt toplanmasına uygun değildir?", 
+        "options": [
+            "A) Ticari alacaklar", 
+            "B) Konsinye mallar", 
+            "C) Emanetteki varlıklar", 
+            "D) Alınan krediler", 
+            "E) İşletmenin mülkiyetinde olan taşıtlar"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "059932",
+        "q": "24. Alacak hesaplarının bakiyelerinin var olduğuna ilişkin ihtiyaca uygun denetim kanıtı sağlamak isteyen bir denetçi, maddi doğrulama prosedürlerinden hangisini kullanmalıdır?", 
+        "options": [
+            "A) Dış teyit", 
+            "B) Analitik prosedürler", 
+            "C) Gözlem", 
+            "D) Sorgulama", 
+            "E) Yeniden hesaplama"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "052275",
+        "q": "25. \"Denetçi alacaklar hesabının denetiminde kaç firmaya doğrulama mektubu göndermelidir?\"\n\nKanıtların uygunluğu ve yeterliliği ile ilgili olarak denetçi, bu sorunun cevabını verirken aşağıdakilerden hangisini dikkate almaz?", 
+        "options": [
+            "A) Denetlenen şirketin diğer hesaplarında tespit edilen yanlışlıkları", 
+            "B) İş yapılan firmalar hakkında sahip olunan bilgileri", 
+            "C) Denetlenen şirket ile ilgili önceki yıllarda yapılan denetimlerde elde edilen bilgi ve deneyimleri", 
+            "D) Denetlenen şirketin iç kontrol sisteminin etkinliğini", 
+            "E) Denetim ücretinin tahsil edilip edilmediğini"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "054141",
+        "q": "26. BDS 500 Bağımsız Denetim Kanıtları standardına göre aşağıdakilerden hangisi dış bilgi kaynaklarından elde edilebilen bilgilere ilişkin örneklerden biri olmaz?", 
+        "options": [
+            "A) Fiyatlar ve fiyatlandırmayla ilgili veriler", 
+            "B) Tarihi ve tahminî işsizlik oranları", 
+            "C) İç kontrol sistemine ilişkin bilgiler", 
+            "D) Ekonomik büyüme oranları", 
+            "E) Kredi geçmişine ilişkin veriler"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "057867",
+        "q": "27. Aşağıdakilerden hangisi dış teyit prosedürlerini uygularken denetçinin yapmak zorunda olduğu işlerden değildir?", 
+        "options": [
+            "A) Teyit edilecek bilgiler üzerinde müşteri ile mutabık olunması", 
+            "B) Teyit edecek uygun tarafın seçilmesi", 
+            "C) Teyit taleplerinin tasarlanması", 
+            "D) Teyit taleplerinin teyit edecek tarafa gönderilmesi", 
+            "E) Teyit veya talep edilecek bilgilere karar verilmesi"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "053302",
+        "q": "28. Denetlenen şirketin alacak bakiyelerinin, borçlu taraflarca doğrulanmasını amaçlayan dış teyit prosedürleri kapsamında, olumsuz teyit talebi aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Teyit eden tarafa herhangi bir alacak bakiyesi bilgisi sunmayan, ondan kayıtlarındaki alacak bakiyesini bildirmesini bekleyen teyit talebidir.", 
+            "B) Negatif bakiyeli bir alacak söz konusu olduğunda bu alacağın borçlusuna gönderilen teyit talebidir.", 
+            "C) Teyit eden taraf, teyit talebinde kendisine sunulan alacak bakiyesi bilgisiyle mutabık değilse cevap istenen mutabıksa cevap beklenmeyen teyit talebidir.", 
+            "D) Bir teyit talebine olumsuz yanıt gelmesi veya hiç yanıt gelmemesi halinde gönderilen ikinci teyit talebidir.", 
+            "E) Teyit talep edilen tarafların cevap vermediği teyit talepleridir."
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "058516",
+        "q": "29. Çalışanların kıdem tazminatları hesabını kontrol eden bir denetçi için aşağıdaki tekniklerden hangisinden elde edilen kanıt daha kaliteli bir kanıttır?", 
+        "options": [
+            "A) Yeniden hesaplama", 
+            "B) Gözlem", 
+            "C) Göz atma", 
+            "D) Sorgulama", 
+            "E) Yeniden uygulama"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "054051",
+        "q": "30. Aslen işletmenin iç kontrolünün bir parçası olarak uygulanan prosedür veya kontrollerin, denetçi tarafından bağımsız bir şekilde yürütülmesidir.\n\nYukarıda belirtilen ifade denetçinin uygulayacağı hangi kanıt toplama tekniğini tanımlamaktadır?", 
+        "options": [
+            "A) Gözlem", 
+            "B) Dış Teyit", 
+            "C) Yeniden Hesaplama", 
+            "D) Yeniden Uygulama", 
+            "E) Analitik Prosedürler"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "056783",
+        "q": "31. “İşletme içindeki veya dışındaki bilgili kişilerden, finansal ve finansal olmayan konularda bilgi alınması” olarak tanımlanan denetim işlemi aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Tetkik", 
+            "B) Gözlem", 
+            "C) Dış Teyit", 
+            "D) Sorgulama", 
+            "E) Yeniden Hesaplama"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "057919",
+        "q": "32. Aşağıdaki kanıt toplama tekniklerinden hangisinde “denetçinin doğrudan bilgi edinimi” diğerlerine göre daha düşüktür?", 
+        "options": [
+            "A) Tetkik", 
+            "B) Sorgulama", 
+            "C) Yeniden hesaplama", 
+            "D) Yeniden uygulama", 
+            "E) Gözlem"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "057029",
+        "q": "33. Aşağıdaki kanıt türlerinden hangisinin güvenirliği en düşüktür?", 
+        "options": [
+            "A) Fiziki Kontrol", 
+            "B) Soruşturma", 
+            "C) Yeniden Hesaplama", 
+            "D) Belgelerin Kontrolü", 
+            "E) Doğrulama"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "057534",
+        "q": "34. Denetim ekibinden birinin, işletmenin personeli tarafından yapılan stok sayımına katılması aşağıdaki kanıt toplama yordamlarından hangisinin kapsamına girmektedir?", 
+        "options": [
+            "A) Soruşturma", 
+            "B) Dışsal doğrulama", 
+            "C) Yeniden hesaplama", 
+            "D) Gözlem", 
+            "E) Kontrol"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "054724",
+        "q": "35. I. Finansal durum tablosunda (bilançoda) yer alan finansal yatırımlar hesabındaki değerlemelerin yeniden hesaplanması- Yeniden hesaplama\nII. Finansal yatırımlarla ilgili iç kontrol sisteminin etkinliğinin kontrolü-Soruşturma\nIII. Merkezi Kayıt Kuruluşundan alınan hesap dökümlerinin kontrolü-Belge incelemesi\nIV. Finansal yatırım hesabı bakiyesi ile ilgili gelir hesapları arasındaki ilişkinin kontrolü-Fiziki inceleme\nV. Halka açık olmayan bir işletmeye ait hisse senetlerinin varlığının ve sahipliğinin kontrolü- Karşılaştırma\n\nİşletmenin finansal yatırımlar hesabının bağımsız denetimi kapsamında denetim amacı - denetim işlemleri hakkında yukarıdaki eşleştirmelerden hangisi/hangileri yanlıştır?", 
+        "options": [
+            "A) Yalnız I", 
+            "B) Yalnız II", 
+            "C) I ve III", 
+            "D) II ve III", 
+            "E) IV ve V"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "059089",
+        "q": "36. I. Uygun kişilerin sorgulanması\nII. Analitik prosedürler\nIII. Gözlem ve tetkik\n\nBDS 315 İşletme Çevresini Tanımak Sureti ile Önemli Yanlışlık Risklerinin Belirlenmesi ve Değerlendirilmesi standardına göre, risk değerlendirme prosedürleri yukarıdakilerden hangisini/hangilerini içerir?", 
+        "options": [
+            "A) Yalnız II", 
+            "B) Yalnız III", 
+            "C) I ve II", 
+            "D) I ve III", 
+            "E) I, II ve III"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "058237",
+        "q": "37. Aşağıdakilerden hangisi BDS 315 İşletme ve Çevresini Tanımak Suretiyle Önemli Yanlışlık Risklerinin Belirlenmesi ve Değerlendirilmesi standardına göre uygulanabilecek risk değerlendirme prosedürlerinden biri değildir?", 
+        "options": [
+            "A) Tetkik", 
+            "B) Analitik prosedürler", 
+            "C) Gözlem", 
+            "D) Dış teyit", 
+            "E) Sorgulama"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "053532",
+        "q": "38. Aşağıdakilerden hangisi BDS 315 İşletme ve Çevresini Tanımak Suretiyle “Önemli Yanlışlık” Risklerinin Belirlenmesi ve Değerlendirilmesi standardına göre denetçinin, işletme ve ortamını anlayabilmek için gerçekleştirmesi gereken risk değerlendirme prosedürlerinden biri değildir?", 
+        "options": [
+            "A) Tetkik", 
+            "B) Sorgulamalar", 
+            "C) Gözlem", 
+            "D) Yeniden hesaplama", 
+            "E) Analitik prosedürler"
+        ], 
+        "correct": 3 
+    }
+],
+"Test 08: Hile": [
+    { 
+        "id": "051754",
+        "q": "1. Hilenin önlenmesi ve tespit edilmesine ilişkin sorumluluk aşağıdakilerden hangisine aittir?", 
+        "options": [
+            "A) Yönetim ve üst yönetimden sorumlu olanlar", 
+            "B) Denetim şirketi", 
+            "C) Denetim ekibi", 
+            "D) Denetim kalitesini gözden geçiren kişi", 
+            "E) Denetim şirketi dışından uygun yetkinliğe sahip kişi"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "052908",
+        "q": "2. Aşağıdaki usulsüzlük fiillerinden hangisi işletme varlıklarının kötüye kullanılmasına örnek teşkil eder?", 
+        "options": [
+            "A) Muhasebe kayıtlarını veya destekleyici dokümanları tahrif etmek", 
+            "B) Finansal tablolara yansıtılması gereken olay, işlem ve diğer önemli bilgileri kasıtlı olarak atlamak", 
+            "C) Fiktif olarak satıcılara ödeme yapmak", 
+            "D) Hesap bakiyelerini tahmin etmede kullanılan varsayımları uygun olmayan bir biçimde oluşturmak", 
+            "E) İşletmenin finansal durumunu ve finansal performansını yanlış sunmak amacıyla karmaşık işlemlere girişmek"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "056698",
+        "q": "3. Aşağıdakilerden hangisi hileli finansal raporlama kapsamında kontrollerin yönetim tarafından ihlal edilmesi suretiyle gerçekleştirilen hile ve usulsüzlük olarak değerlendirilmez?", 
+        "options": [
+            "A) Faaliyet sonuçlarını değiştirmek", 
+            "B) Hesap bakiyelerini tahmin etmede kullanılan varsayımları uygun olmayan biçimde oluşturmak", 
+            "C) Raporlama döneminde meydana gelen işlem ve olayları finansal tablolara yansıtmamak", 
+            "D) Stokların, kişisel kullanım için veya satılmak üzere çalınması", 
+            "E) Finansal tablolarda yer alan tutarları etkileyebilecek bilgileri gizlemek veya açıklamamak"
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "054912",
+        "q": "4. Aşağıdaki olaylardan hangisi hileli finansal raporlamaya örnek olamaz?", 
+        "options": [
+            "A) İşletme yönetiminin varlıkların faydalı ömürlerini olduğundan uzun kabul etmesi", 
+            "B) Pazarlama elemanının müşteri hesaplarında hile yaparak 1.000 TL’yi zimmetine geçirmesi", 
+            "C) İşletme yönetiminin şüpheli alacak tahminini gerçekçi yapmaması", 
+            "D) İşletme yönetiminin bilanço toplamını olduğundan 500.000 TL daha fazla göstermesi", 
+            "E) İşletme yönetiminin finansal tablo kullanıcısını yanıltmak amacıyla finansal tabloları olduğundan farklı göstermesi"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "058298",
+        "q": "5. Belirlenen bir kazanç hedefine ulaşıldığında yöneticilere ikramiye verilmesi hileli finansal raporlamaya yönelik hangi ayırt edici özelliği içermektedir?", 
+        "options": [
+            "A) Rasyonelleştirme", 
+            "B) Fırsat", 
+            "C) Teşvik", 
+            "D) Kibir", 
+            "E) Yetkinlik"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "054525",
+        "q": "6. Düşen kâr marjlarının eşlik ettiği yüksek derecede rekabet veya pazar doygunluğu, hileli finansal raporlamaya ilişkin aşağıdaki faktörlerden hangisine örnek olabilir?", 
+        "options": [
+            "A) Baskı", 
+            "B) Fırsat", 
+            "C) Kibir", 
+            "D) Rasyonelleştirme", 
+            "E) Yetkinlik"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "053439",
+        "q": "7. Aşağıdaki durumlardan hangisi BDS 240 Finansal Tabloların Bağımsız Denetiminde Bağımsız Denetçinin Hileye İlişkin Sorumlulukları standardı çerçevesinde varlıkların kötüye kullanılmasına ilişkin dikkate alınması gereken bir “fırsat” faktörüdür?", 
+        "options": [
+            "A) Bilinen veya öngörülen işten çıkarmalar", 
+            "B) Çalışan haklarında yapılan ya da yapılması öngörülen değişiklikler", 
+            "C) Küçük hırsızlıklara gösterilen müsamaha", 
+            "D) Kişisel gelirin üzerinde yaşama", 
+            "E) Kasada bulunan yüksek miktarda nakit"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "058632",
+        "q": "8. BDS 240 Finansal Tabloların Bağımsız Denetiminde Bağımsız Denetçinin Hileye İlişkin Sorumlulukları standardına göre aşağıdakilerden hangisi denetçinin hile kaynaklı önemli yanlışlık riski olarak değerlendirilen risklere karşı yapması gereken işlemlerinden biri değildir?", 
+        "options": [
+            "A) Denetimde ihtisas gerektiren alanlarda deneyimli, bilgi ve beceri sahibi kişileri görevlendirmek", 
+            "B) Finansal tabloları hazırlayan yönetimin şüpheli davranışlarını göz ardı etmek", 
+            "C) Uygulanacak denetim prosedürlerinin nitelik, zamanlama ve kapsamlarının seçiminde öngörülemezlik unsurunu dâhil etmek", 
+            "D) Önemli işlemleri doğrulamak için incelenecek olan belgelerin nitelik ve kapsamlarının seçimindeki hassasiyeti artırmak", 
+            "E) Yönetimin önemli konulara ilişkin açıklamalarını veya beyanlarını doğrulama ihtiyacına yönelik farkındalığı artırmak"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "053240",
+        "q": "9. Aşağıdakilerden hangisi denetçinin değerlendirilmiş hile kaynaklı önemli yanlışlık risklerine karşı yapması gereken işlemlerden biri değildir?", 
+        "options": [
+            "A) Önemli işlemleri doğrulamak için incelenecek olan belgelerin nitelik ve kapsamlarının seçimindeki hassasiyetin artırılması", 
+            "B) Yönetimin önemli konulara ilişkin açıklamalarını veya beyanlarını doğrulama ihtiyacına yönelik farkındalığın artırılması", 
+            "C) Farklı örnekleme yöntemleri kullanılması", 
+            "D) Denetim prosedürlerinin zamanlamasının beklenenden farklı bir zamana kaydırılması", 
+            "E) Denetim sözleşmesinin feshedilmesi"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "054851",
+        "q": "10. BDS 240 Finansal Tabloların Bağımsız Denetiminde Bağımsız Denetçinin Hileye İlişkin Sorumlulukları standardı çerçevesinde denetçinin hileyi tespit etme sorumluluğu aşağıdakilerden hangisinde doğru olarak açıklanmıştır?", 
+        "options": [
+            "A) Denetçinin hileyi tespit edememesi durumunda sorumluluğu bulunmamaktadır.", 
+            "B) Denetçinin finansal tablolarda yapılan hileleri tespit etme sorumluluğu yalnızca iç kontrol sonuçlarına bağlıdır.", 
+            "C) Denetçinin sorumluluğu bir bütün olarak, finansal tablolarda hata veya hile kaynaklı önemli yanlışlıkların bulunmadığına dair makul güvence sağlamaktır.", 
+            "D) Hilenin önlenmesi ve tespit edilmesine ilişkin esas sorumluluk denetçiye aittir.", 
+            "E) Denetçi, yalnızca üst yönetimden gelen ihbarları dikkate almalıdır."
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "056391",
+        "q": "11. Hileden kaynaklanan yanlışlığın finansal tablolar üzerine etkisi önemli ise denetçi aşağıdakilerden hangisini yapmamalıdır?", 
+        "options": [
+            "A) Derhal denetimden çekilmelidir.", 
+            "B) Denetim çalışmasının diğer yönlerine yapacağı etki ve sonuçlarını dikkate almalıdır.", 
+            "C) Yönetimin uygun kademesindeki kişilere bildirimde bulunmalıdır.", 
+            "D) Finansal tablolara yapacağı etkiyi belirlemek üzere denetim kanıtı toplamalıdır.", 
+            "E) Sürece öngörülemezlik unsurunu dâhil etmelidir."
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "052388",
+        "q": "12. Denetim çalışmalarında öngörülemezlik faktörünün kullanılması aşağıdaki risklerden hangisinin azalmasına neden olur?", 
+        "options": [
+            "A) Hile riski", 
+            "B) Finansal riskler", 
+            "C) Faaliyet riski", 
+            "D) Ekonomik riskler", 
+            "E) Politik riskler"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "053787",
+        "q": "13. Bağımsız denetimlerde hile riski belirlenmesi hâlinde, denetçilerden aşağıdaki adımlardan hangisini atması daha çok beklenir?", 
+        "options": [
+            "A) Denetim ekibinin üyeleriyle daha sık bir araya gelmesi", 
+            "B) Denetim prosedürlerini tahmin edilemeyecek zamanlarda uygulaması", 
+            "C) Önemli yanlışlık risklerini düşürmesi", 
+            "D) Uzman çalışmalarından daha fazla faydalanması", 
+            "E) Önemlilik seviyesini yükseltmesi"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "050100",
+        "q": "14. Aksi denetçi tarafından gerekçelendirilip belgelendirilmedikçe aşağıdaki finansal tablo kalemlerinden hangisinin muhasebeleştirilmesinde hile risklerinin bulunduğu varsayılır?", 
+        "options": [
+            "A) Stoklar", 
+            "B) Kısa Vadeli Borçlar", 
+            "C) Hasılat", 
+            "D) Alacaklar", 
+            "E) Sermaye"
+        ], 
+        "correct": 2 
+    }
+],
+"Test 09: Örneklem ve Seçim Teknikleri": [
+    { 
+        "id": "053964",
+        "q": "1. İçinden bir örneklemin seçildiği ve denetçinin hakkında sonuçlara varmak istediği veri setinin tamamı şeklinde yapılan tanım aşağıdakilerden hangisine aittir?", 
+        "options": [
+            "A) Anomali (aykırılık)", 
+            "B) Anakitle", 
+            "C) Örnekleme riski", 
+            "D) İstatistiki örnekleme", 
+            "E) Örnekleme birimi"
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "056784",
+        "q": "2. Denetçi, isabetli bir denetim görüşüne ulaşmak için geçmişte yaşanan tüm olgulara ait kanıtları gözden geçirmek yerine aşağıda yer alan hangi yöntemi uygular?", 
+        "options": [
+            "A) Uygunluk analizi", 
+            "B) Karşılaştırma", 
+            "C) Gözetim", 
+            "D) Analitik inceleme", 
+            "E) Örnekleme"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "054682",
+        "q": "3. Denetçinin bir örneklemi temel alarak vardığı sonucun, aynı denetim prosedürünün anakütlenin tamamına uygulanması durumunda varılacak sonuçtan farklı olması riski aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Örnekleme dışı risk", 
+            "B) Kontrol riski", 
+            "C) Tespit edememe riski", 
+            "D) Yapısal risk", 
+            "E) Örnekleme riski"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "050314",
+        "q": "4. Denetçi tarafından uygun olmayan denetim prosedürlerinin kullanılması veya denetim kanıtının yanlış yorumlanması ve bir yanlışlık veya sapmanın tespit edilememesi durumu aşağıdakilerden hangisine örnek olabilir?", 
+        "options": [
+            "A) Önemli yanlışlık riski", 
+            "B) Kabul edilebilir yanlışlık", 
+            "C) Hile riski", 
+            "D) Örnekleme riski", 
+            "E) Örnekleme dışı risk"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "055485",
+        "q": "5. Aşağıdakilerden hangisinde anomalinin tanımı doğru olarak yapılmıştır?", 
+        "options": [
+            "A) İçinden bir örneklemin seçildiği ve denetçinin hakkında sonuçlara varmak istediği veri setinin tamamı", 
+            "B) Denetçinin, ana kitlenin tamamı hakkında sonuçlara varması için makul bir dayanak oluşturmak üzere, tüm örnekleme birimlerine seçilme şansı sağlayacak şekilde, denetimle ilgili ana kitle içindeki kalemlerin %100’ündendaha azına denetim prosedürlerinin uygulanması", 
+            "C) Bir ana kitlede bulunan yanlışlıkları veya sapmaları açıkça temsil etmeyen bir yanlışlık veya sapma", 
+            "D) Bir ana kitleyi oluşturan bağımsız kalemlerin her biri", 
+            "E) Bir ana kitlenin, her biri benzer özelliklere (çoğunlukla parasal değere) sahip örnekleme birimi gruplarından oluşan alt gruplara bölünmesi süreci"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "054621",
+        "q": "6. Anakitledeki fiili yanlışlığın, denetçi tarafından belirlenen parasal tutarı aşmayacağına dair uygun bir güvence seviyesi elde etmek için denetçinin belirlediği parasal tutara ne denir?", 
+        "options": [
+            "A) Kabul edilebilir güvence", 
+            "B) Kabul edilebilir örneklem riski", 
+            "C) Kabul edilebilir örneklem dışı risk", 
+            "D) Kabul edilebilir sapma oranı", 
+            "E) Kabul edilebilir yanlışlık"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "050232",
+        "q": "7. İç kontrol yeterince güvenilir olduğu hâlde denetçinin, örneklemden elde ettiği sonuçlara bakarak iç kontrolün yeterli güveni sağlamadığı sonucuna varmasına ne ad verilir?", 
+        "options": [
+            "A) Alfa riski", 
+            "B) Beta riski", 
+            "C) Yanlış ret riski", 
+            "D) Yanlış kabul riski", 
+            "E) Bulgu Riski"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "052442",
+        "q": "8. Denetçinin, örneklemden elde ettiği sonuçlara bakarak iç kontrolün yeterince güvenilir olmadığı hâlde güvenilir olduğu kanısına varmasına ne ad verilir?", 
+        "options": [
+            "A) Beta riski", 
+            "B) Alfa riski", 
+            "C) Yanlış ret riski", 
+            "D) Yanlış kabul riski", 
+            "E) Örnekleme hatası"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "052661",
+        "q": "9. Denetlenen işletmenin iç kontrol sistemi yeterince güvenilir olmadığı hâlde, denetçinin örnekten elde ettiği sonuca dayanarak iç kontrol sisteminin güvenilir olduğu sonucuna varması durumunda karşılaştığı örnekleme riski aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Denetim", 
+            "B) Yanlış Kabul", 
+            "C) Alfa", 
+            "D) Yanlış Ret", 
+            "E) Beta"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "058451",
+        "q": "10. Denetçinin öncelikle bir örnekleme aralığı hesapladığı ve bu örnekleme aralığının büyüklüğüne göre örneklem birimlerini seçtiği seçim yöntemine verilen ad aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Sistematik seçim", 
+            "B) Katmanlı seçim", 
+            "C) Blok seçim", 
+            "D) Rassal seçim", 
+            "E) Tesadüfi seçim"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "058520",
+        "q": "11. Ana kütledeki örnekleme birim sayısı, bir örnekleme aralığı (örneğin 50) oluşturmak için örneklem büyüklüğüne bölünür ve ilk 50 birim içinde bir başlangıç noktası belirlendikten sonra, her 50’nci birim örnekleme birimi seçilir.\n\nYukarıdaki paragrafta anlatılmak istenen örnek seçim yöntemi aşağıdakilerden hangisidir?", 
+        "options": [
+            "A) Rastgele", 
+            "B) Kolayda", 
+            "C) Sistematik", 
+            "D) Gelişigüzel", 
+            "E) Blok"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "056799",
+        "q": "12. “Belirli aylara ait Genel Yönetim Giderlerinin, Personel Giderlerinin, Satışların tümünün incelenmesi” aşağıdaki örneklem seçimi yöntemlerinden hangisi için bir örnek teşkil eder?", 
+        "options": [
+            "A) Rastgele (tesadüfi) seçim yöntemi", 
+            "B) Parasal birim örneklemesi", 
+            "C) Gelişigüzel seçim yöntemi", 
+            "D) Sistematik seçim yöntemi", 
+            "E) Blok seçim yöntemi"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "055892",
+        "q": "13. Örneklem seçiminde kullanılabilecek yöntemlere ilişkin aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) Parasal birim örneklemesi değer ağırlıklı bir seçim yöntemidir.", 
+            "B) Gelişigüzel seçim yöntemi istatistiki bir yöntem değildir.", 
+            "C) Blok seçim denetim örneklemesinde sıklıkla kullanılan bir yöntemdir.", 
+            "D) Rastgele (tesadüfi) seçim istatistiki bir seçim yöntemidir.", 
+            "E) Sistematik seçim yönteminde ana kütle örnekleme aralıklarına bölünür."
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "051215",
+        "q": "14. BDS 530 Bağımsız Denetimde Örnekleme standardına göre aşağıdakilerden hangisi denetçinin örneklem seçiminde kullanabileceği temel yöntemlerden biri değildir?", 
+        "options": [
+            "A) Rastgele", 
+            "B) Blok seçim", 
+            "C) Spesifik", 
+            "D) Sistematik", 
+            "E) Gelişigüzel"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "051985",
+        "q": "15. Aşağıdakilerden hangisi örneklem seçiminde kullanılacak temel yöntemlerden biri değildir?", 
+        "options": [
+            "A) Subjektif seçim", 
+            "B) Rastgele (tesadüfi) seçim", 
+            "C) Sistematik seçim", 
+            "D) Parasal birim örneklemesi", 
+            "E) Blok seçim"
+        ], 
+        "correct": 0 
+    },
+    { 
+        "id": "051972",
+        "q": "16. Denetimde örnekleme ile ilgili aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) Parasal birim örneklemesinde parasal birimin seçilme şansı parasal tutarın büyüklüğü ile orantılıdır.", 
+            "B) İstatistiksel örnekleme yönteminde, örnekleme riski için en uygun örnek büyüklüğü belirlenebilir.", 
+            "C) İstatistiksel örnekleme yönteminde kanıtların yeterliliği bilimsel olarak ölçülebilir.", 
+            "D) İstatistiksel olmayan örnekleme yöntemi denetçinin öznel yargısına bağlı değildir.", 
+            "E) Denetçinin görüş oluşturmak ve değerlendirme yapmak istediği veri setinin tamamı ana kütleyi oluşturur."
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "059078",
+        "q": "17. Aşağıdakilerden hangisi denetçinin denetim alanı ile ilgili örneklem birimlerinin seçiminde kullandığı tekniklerden biri değildir?", 
+        "options": [
+            "A) Sistematik seçim", 
+            "B) Rassal seçim", 
+            "C) Homojen birimlerin seçimi", 
+            "D) Katmanlı seçim", 
+            "E) Blok seçim"
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "054928",
+        "q": "18. Aşağıdakilerden hangisi örneklem seçimiyle ilgili değildir?", 
+        "options": [
+            "A) Test edilecek kalemlerin seçilmesi", 
+            "B) Tabakalandırma yöntemi", 
+            "C) Belirli kalemlerin seçilmesi", 
+            "D) Tesadüfi (Gelişigüzel) seçim", 
+            "E) Parasal olmayan birim örneklemesi"
+        ], 
+        "correct": 4 
+    },
+    { 
+        "id": "051504",
+        "q": "19. Aşağıdakilerden hangisi istatistiksel örneklem yöntemi ile ilgili yanlıştır?", 
+        "options": [
+            "A) Objektif ve savunulabilir sonuçlar elde edilir.", 
+            "B) Her bir örneğe seçilme olasılığı tanınmaz.", 
+            "C) Örnekleme hatası tahmin edilebilir.", 
+            "D) Denetim esnasında maliyet ve zaman tasarrufu sağlar.", 
+            "E) Örneklem farklı denetçiler tarafından yapılmış olsa bile, örneklem sonuçları birleştirilebilir ve birlikte değerlendirilebilir."
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "055125",
+        "q": "20. Denetimde kullanılan istatistiksel örnekleme yöntemleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) İstatistiksel örnekleme yönteminde örneklem sonuçları güvenilir ve kanıtlanabilirdir.", 
+            "B) İstatistiksel örnekleme, kontrol edilecek kalemlerin rassal (tesadüfi) olarak seçimini kapsar ve her bir kalem, hesaplanabilir bir seçilme şansına sahiptir.", 
+            "C) Örneklem sonuçları, sayısal ve matematiksel olarak değerlendirilebilir durumda olmalıdır.", 
+            "D) İstatistiksel örnekleme yönteminde denetçinin mesleki yargısına gerek duyulmaz.", 
+            "E) Örneklem birimleri, evrenden rassal (tesadüfi) olarak seçilmiş olmalı ve evrenin tüm karakteristiklerini yansıtmalıdır."
+        ], 
+        "correct": 3 
+    },
+    { 
+        "id": "054923",
+        "q": "21. BDS 530 Bağımsız Denetimde Örnekleme standardına göre, örneklem büyüklüğü ile ilgili aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) Denetçinin ana kütlede beklediği yanlışlık tutarındaki artış örneklem büyüklüğünü artırır.", 
+            "B) Uygun hâllerde ana kütlenin gruplandırılması örneklem büyüklüğünü azaltır.", 
+            "C) Kabul edilebilir sapma oranındaki artış örneklem büyüklüğünü artırır.", 
+            "D) Kabul edilebilir yanlışlıktaki artış örneklem büyüklüğünü azaltır.", 
+            "E) Önemli yanlışlık riski düzeyindeki artış örneklem büyüklüğünü artırır."
+        ], 
+        "correct": 2 
+    },
+    { 
+        "id": "050150",
+        "q": "22. Denetçinin detay testleri açısından, çalışmasına esas alacağı örneklem büyüklüğüne ilişkin aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) Denetçinin ana kütlede beklediği yanlışlık tutarındaki artış, örneklem büyüklüğünü artırır.", 
+            "B) Denetçinin risk değerlendirmesi sonucu belirlediği önemli yanlışlık riski düzeyindeki artış, örneklem büyüklüğünü azaltır.", 
+            "C) Ana kütlenin gruplandırılması, örneklem büyüklüğünü azaltır.", 
+            "D) Kabul edilebilir yanlışlıktaki artış, örneklem büyüklüğünü azaltır.", 
+            "E) Aynı yönetim beyanına ilişkin diğer maddi doğrulama prosedürlerinin kullanımındaki artış, örneklem büyüklüğünü azaltır."
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "055864",
+        "q": "23. BDS 530 Bağımsız Denetimde Örnekleme standardına göre, ortaya çıkan değişiklik ve bunun örneklem sayısına etkisi hakkında aşağıdakilerden hangisi yanlıştır?", 
+        "options": [
+            "A) Kabul edilebilir sapma oranındaki artış daha küçük bir örneklem gerektirir.", 
+            "B) Denetçinin kontrollerin işleyiş etkinliğinden elde etmek istediği güvencenin artması örneklem sayısında azalma gerektirir.", 
+            "C) Test edilecek ana kütlede beklenen sapma oranındaki azalma örneklem sayısında azalış gerektirir.", 
+            "D) Ana kütledeki gerçek sapma oranının, kabul edilebilir sapma oranını aşmadığına ilişkin güvence seviyesinde artış talebi örneklem sayısının artırılmasını gerektirir.", 
+            "E) Ana kütledeki örneklem birimi sayısındaki artış örneklem sayısında önemsiz bir değişiklik gerektirir."
+        ], 
+        "correct": 1 
+    },
+    { 
+        "id": "054474",
+        "q": "24. Denetçinin örnekleme sırasında bulduğu maksimum hata payı kabul edilemez düzeyde çıkarsa denetçi, aşağıdaki yollardan hangisini tercih etmez?", 
+        "options": [
+            "A) Denetim maliyetini de göz önünde bulundurarak küçük revizyonlar yapabilir.", 
+            "B) Seçmiş olduğu örneklerin ana kütleyi temsil etmediklerine karar verebilir ve örnek sayısını arttırma yoluna gider.", 
+            "C) Hataları analiz ettikten sonra bunların nedenini açıkça belirleyerek, yönetimden önlem almasını ister.", 
+            "D) İç kontrol sisteminin güvenilir olmadığı sonucuna ulaşabilir.", 
+            "E) Başlangıçta belirlemiş olduğu istatistiki parametrelerde değişiklik yapabilir."
+        ], 
+        "correct": 0 
+    }
+]
+}
+
+      

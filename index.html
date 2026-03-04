@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMM AKADEMİ | Soru Bankası Portalı</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <style>
+        :root { --primary-orange: #f97316; --dark-blue: #0f172a; }
+        body { background-color: #f8fafc; font-family: 'Inter', sans-serif; color: var(--dark-blue); }
+        .hero-section { 
+            background: linear-gradient(135deg, var(--dark-blue) 0%, #1e293b 100%); 
+            color: white; padding: 80px 0; border-bottom: 8px solid var(--primary-orange);
+        }
+        .lesson-card { 
+            transition: all 0.3s ease; cursor: pointer; border: none; 
+            border-radius: 20px; background: #fff; box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+        }
+        .lesson-card:hover { transform: translateY(-10px); box-shadow: 0 20px 40px rgba(0,0,0,0.1); }
+        .card-icon { font-size: 3.5rem; color: var(--primary-orange); margin-bottom: 20px; }
+        .btn-start { 
+            background-color: var(--primary-orange); color: white; 
+            border-radius: 50px; padding: 10px 30px; font-weight: 600; border: none;
+        }
+        .btn-start:hover { background-color: #ea580c; color: white; }
+        .badge-demo { background: #e2e8f0; color: #475569; padding: 5px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 700; }
+    </style>
+</head>
+<body>
+
+<div class="hero-section text-center">
+    <div class="container">
+        <h1 class="display-4 fw-bold">SMM AKADEMİ</h1>
+        <p class="lead opacity-75">Mali Müşavirlik Sınavlarına Hazırlıkta Profesyonel Soru Bankası</p>
+        <div class="mt-3">
+            <span class="badge-demo text-uppercase">2026 Güncel Müfredat</span>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <div class="row g-4 justify-content-center">
+        <div class="col-md-5 col-lg-4">
+            <div class="card lesson-card text-center p-5" onclick="derseGit('vergi')">
+                <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
+                <h3 class="fw-bold">Vergi Hukuku</h3>
+                <p class="text-muted small">Teknik analizli ve güncel mevzuat odaklı sorular.</p>
+                <button class="btn btn-start mt-3">Soruları Çöz</button>
+            </div>
+        </div>
+
+        <div class="col-md-5 col-lg-4">
+            <div class="card lesson-card text-center p-5" onclick="derseGit('muhasebe')">
+                <div class="card-icon"><i class="fas fa-calculator"></i></div>
+                <h3 class="fw-bold">Muhasebe Denetimi</h3>
+                <p class="text-muted small">SMM standartlarında hesap planı ve uygulama testleri.</p>
+                <button class="btn btn-start mt-3">Soruları Çöz</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="text-center mt-5 py-5 text-muted">
+    <p>&copy; 2026 SMM Akademi | Dijital Sınav Hazırlık Platformu</p>
+</footer>
+
+<script>
+function derseGit(dersId) {
+    // Kullanıcıyı soru motoruna ilgili ders parametresiyle gönderir
+    window.location.href = "soru_motoru.html?ders=" + dersId;
+}
+</script>
+
+</body>
+</html>
