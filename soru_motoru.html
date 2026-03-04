@@ -1,6 +1,31 @@
 <!DOCTYPE html>
 <html lang="tr">
-<head>
+   <head>
+   <style>
+  @media (max-width: 768px) {
+    /* Ekranı yan yana değil, alt alta diz */
+    body > .d-flex, .row {
+      flex-direction: column !important;
+    }
+    /* Sol Menü (Sidebar) Ayarı: Mobilde %100 genişlik ve kaydırılabilir alan */
+    .sidebar, aside, #sidebar, .bg-dark {
+      width: 100% !important;
+      min-width: 100% !important;
+      height: auto !important;
+      max-height: 250px !important; /* Menü çok uzun olmasın, aşağı kaydırılabilsin */
+      overflow-y: auto !important;
+      position: relative !important;
+    }
+    /* Soru Alanı Ayarı: Tam ekran yap */
+    .content, main, #content, .container-fluid {
+      width: 100% !important;
+      max-width: 100% !important;
+      margin-left: 0 !important;
+      padding: 15px !important;
+    }
+  }
+</style>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SMM AKADEMİ | Sınav Hazırlık Portalı</title>
