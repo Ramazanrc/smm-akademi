@@ -104,17 +104,23 @@
   </div>
 </div>
 
-<script>
-  function kilitAc() {
-    const girilenSifre = document.getElementById('giris-sifresi').value;
-    
-    // ŞİFREYİ BURADAN BELİRLİYORSUN (Şu anki şifre: smm2026)
-    if (girilenSifre === "smm2026") {
-      document.getElementById('kilit-ekrani').style.display = "none";
-    } else {
-      document.getElementById('sifre-hata').style.display = "block";
+// Sayfa açıldığında hafızayı kontrol et
+window.addEventListener('DOMContentLoaded', () => {
+    if (localStorage.getItem("smm_giris_onayi") === "evet") {
+        document.getElementById('kilit-ekrani').style.display = "none";
     }
-  }
+});
+
+// Şifre kontrol ve hafızaya alma
+function kilitAc() {
+    const girilenSifre = document.getElementById('giris-sifresi').value;
+    if (girilenSifre === "smm2026") {
+        localStorage.setItem("smm_giris_onayi", "evet"); // Şifreyi hafızaya kazıdık
+        document.getElementById('kilit-ekrani').style.display = "none";
+    } else {
+        document.getElementById('sifre-hata').style.display = "block";
+    }
+}
 </script>
 <div class="hero-section text-center">
     <div class="container">

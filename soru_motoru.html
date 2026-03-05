@@ -272,13 +272,17 @@
     <script>
         // 1. GÜVENLİK KONTROLÜ
         (function(){
-            const k = "KR-NGO-2026-VIP";
-            if(localStorage.getItem("license_key") !== k){
-                let p = prompt("SMM Akademi Portalı Lisans Şifresini Giriniz:");
-                if(p === k) localStorage.setItem("license_key", k);
-                else document.body.innerHTML = "<h1 style='padding:50px; text-align:center;'>Erişim Reddedildi. Geçersiz Lisans.</h1>";
-            }
-        })();
+    const k = "KR-NGO-2026-VIP";
+    // Eğer lisans anahtarı zaten hafızadaysa bir daha sorma
+    if(localStorage.getItem("license_key") !== k){
+        let p = prompt("SMM Akademi Portalı Lisans Şifresini Giriniz:");
+        if(p === k) {
+            localStorage.setItem("license_key", k);
+        } else {
+            document.body.innerHTML = "<h1 style='padding:50px; text-align:center;'>Erişim Reddedildi.</h1>";
+        }
+    }
+})();
 
         // 2. TEMEL DEĞİŞKENLER VE SKORLAR
         let tumKategoriler = {}; 
@@ -475,6 +479,10 @@ function sonrakiSoru() {
         const yuzde = (toplamSoru > 0) ? Math.round((dogruSayisi / toplamSoru) * 100) : 0;
         document.getElementById('skor-yuzde').innerText = "%" + yuzde;
     }
+}
+function menuyeDon() {
+    document.body.classList.remove('mobil-soru-acik'); // Mobil kilidini çözer
+    document.getElementById('soru-alani').classList.add('hidden'); // Soru alanını kapatır
 }
 </script>
     
