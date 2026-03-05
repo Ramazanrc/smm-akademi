@@ -104,21 +104,26 @@
   </div>
 </div>
 
-// Sayfa açıldığında hafızayı kontrol et
+<script>
+// Sayfa yüklendiğinde hafızayı kontrol et (Seni hatırlar)
 window.addEventListener('DOMContentLoaded', () => {
     if (localStorage.getItem("smm_giris_onayi") === "evet") {
-        document.getElementById('kilit-ekrani').style.display = "none";
+        const kilit = document.getElementById('kilit-ekrani');
+        if (kilit) kilit.style.display = "none";
     }
 });
 
-// Şifre kontrol ve hafızaya alma
+// Şifreyi kontrol eden ve butonunu çalıştıran fonksiyon
 function kilitAc() {
     const girilenSifre = document.getElementById('giris-sifresi').value;
+    const kilitEkrani = document.getElementById('kilit-ekrani');
+    const hataMesaji = document.getElementById('sifre-hata');
+
     if (girilenSifre === "smm2026") {
-        localStorage.setItem("smm_giris_onayi", "evet"); // Şifreyi hafızaya kazıdık
-        document.getElementById('kilit-ekrani').style.display = "none";
+        localStorage.setItem("smm_giris_onayi", "evet");
+        kilitEkrani.style.display = "none";
     } else {
-        document.getElementById('sifre-hata').style.display = "block";
+        hataMesaji.style.display = "block";
     }
 }
 </script>
