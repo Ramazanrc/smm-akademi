@@ -225,13 +225,7 @@
 
         <div class="content-scroll">
             
-            <div style="margin-bottom: 20px; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; padding: 15px; background: #e2e8f0; border-radius: 10px; border-left: 5px solid #f97316;">
-                <a href="soru_motoru.html?ders=meslek" style="padding: 10px 20px; background: #0f172a; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 14px;">Meslek Hukuku</a>
-                <a href="soru_motoru.html?ders=vergi" style="padding: 10px 20px; background: #0f172a; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 14px;">Vergi Hukuku</a>
-                <a href="soru_motoru.html?ders=muhasebe" style="padding: 10px 20px; background: #0f172a; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 14px;">Muhasebe Denetimi</a>
-                <a href="soru_motoru.html?ders=sgs" style="padding: 10px 20px; background: #0f172a; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 14px;">SGS Soruları</a>
-            </div>
-            <button id="mobil-geri-btn" class="btn btn-sm btn-outline-secondary mb-3" onclick="menuyeDon()">
+           <button id="mobil-geri-btn" class="btn btn-sm btn-outline-secondary mb-3" onclick="menuyeDon()">
     <i class="fas fa-arrow-left"></i> Konulara Dön
 </button> 
          
@@ -432,7 +426,8 @@ function menuyuOlustur() {
                 let temizMetin = metin.replace(/^[A-Ea-e]\)[\s]*/, "").replace(/^[A-Ea-e]\.[\s]*/, "");
                 
                 btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
-                btn.onclick = () => cevapla(i, s.answer, btn); 
+                let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
+                btn.onclick = () => cevapla(i, dogruAnahtar, btn);
                 liste.appendChild(btn);
             });
         }
