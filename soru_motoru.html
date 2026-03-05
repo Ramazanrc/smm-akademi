@@ -106,7 +106,94 @@
     </style>
 </head>
 <body>
+<style>
+  #kilit-ekrani {
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: #0f172a; /* Menümüzle aynı şık lacivert */
+    z-index: 99999; /* Sayfadaki her şeyin üstünü örter */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    font-family: 'Inter', sans-serif;
+  }
+  .kilit-kutu {
+    background: white;
+    color: #333;
+    padding: 40px 30px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.5);
+    max-width: 400px;
+    width: 90%;
+    border-top: 5px solid #f97316; /* Turuncu vurgu */
+  }
+  .kilit-kutu input {
+    width: 100%;
+    padding: 12px;
+    margin: 20px 0;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    font-size: 16px;
+    text-align: center;
+    outline: none;
+  }
+  .kilit-kutu input:focus {
+    border-color: #f97316;
+  }
+  .kilit-kutu button {
+    width: 100%;
+    padding: 12px;
+    background: #f97316;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  .kilit-kutu button:hover {
+    background: #ea580c;
+  }
+  .yasal-uyari-metni {
+    margin-top: 30px;
+    font-size: 12px;
+    color: #94a3b8;
+    text-align: center;
+    max-width: 600px;
+    padding: 0 20px;
+    line-height: 1.5;
+  }
+</style>
 
+<div id="kilit-ekrani">
+  <div class="kilit-kutu">
+    <h2 style="color: #0f172a; font-weight: 800; margin-bottom: 10px;">SMM AKADEMİ</h2>
+    <p style="font-size: 14px; color: #64748b;">Bu portal kapalı devre bir çalışma grubudur. İçeriklere erişmek için lütfen şifrenizi giriniz.</p>
+    <input type="password" id="giris-sifresi" placeholder="Erişim Şifresi" onkeypress="if(event.key === 'Enter') kilitAc()">
+    <button onclick="kilitAc()">Giriş Yap</button>
+    <p id="sifre-hata" style="color: #dc2626; font-size: 13px; font-weight: bold; display: none; margin-top: 15px;">Hatalı şifre, lütfen tekrar deneyin.</p>
+  </div>
+  <div class="yasal-uyari-metni">
+    <strong>Yasal Uyarı:</strong> Bu portal ticari bir amaç gütmemekte olup, meslek mensubu adaylarının kişisel çalışma notları arşivinden ibarettir. Sitede yer alan sorular sadece eğitim ve gelişim amacıyla kullanılmış olup, telif hakkı sahiplerinin olası talebi doğrultusunda ilgili içerikler derhal erişime kapatılacaktır.
+  </div>
+</div>
+
+<script>
+  function kilitAc() {
+    const girilenSifre = document.getElementById('giris-sifresi').value;
+    
+    // ŞİFREYİ BURADAN BELİRLİYORSUN (Şu anki şifre: smm2026)
+    if (girilenSifre === "smm2026") {
+      document.getElementById('kilit-ekrani').style.display = "none";
+    } else {
+      document.getElementById('sifre-hata').style.display = "block";
+    }
+  }
+</script>
     <aside class="sidebar">
         <div class="sidebar-header">
             <div class="logo-box">SMM</div>
@@ -206,10 +293,12 @@
         const secilenDers = urlParams.get('ders'); 
         let dosyaPath = (secilenDers === 'vergi') ? 'vergi_mevzuati.json' : 
                 (secilenDers === 'muhasebe') ? 'muhasebe_denetimi.json' : 
+                (secilenDers === 'meslek') ? 'meslek_hukuku.json' :
                 (secilenDers === 'sgs') ? 'sgs_sorulari.json' : 'ana_soru_bankasi.json';
 
-        // İSİMLENDİRME DÜZELTİLDİ: Artık sağdaki butona basınca Muhasebe Denetimi yazacak
-        const anaDersAdi = (secilenDers === 'vergi') ? 'Vergi Hukuku' : 
+        // Yeni dersimiz 'meslek' için başlık tanımlandı
+const anaDersAdi = (secilenDers === 'vergi') ? 'Vergi Hukuku' : 
+                   (secilenDers === 'meslek') ? 'Meslek Hukuku' :
                    (secilenDers === 'sgs') ? 'SGS Çıkmış Sorular' : 'Muhasebe Denetimi';
 
         document.getElementById('header-ders-adi').innerText = anaDersAdi;
@@ -236,21 +325,34 @@
                 document.getElementById('soru-metni').innerText = "Veriler yüklenirken bir hata oluştu. Lütfen dosya adını kontrol edin.";
             });
 
-        // 4. SOL MENÜ
-        function menuyuOlustur() {
-            const listeDiv = document.getElementById('kategori-listesi');
-            listeDiv.innerHTML = '';
+        // 4. SOL MENÜ (Kaldığın Yer Rozeti Eklenmiş Versiyon)
+function menuyuOlustur() {
+    const listeDiv = document.getElementById('kategori-listesi');
+    listeDiv.innerHTML = '';
 
-            Object.keys(tumKategoriler).forEach((konuAdi, index) => {
-                const btn = document.createElement('div');
-                btn.className = 'nav-item ' + (index === 0 ? 'active' : '');
-                const soruSayisi = tumKategoriler[konuAdi].length;
-                btn.innerHTML = `<i class="fas fa-folder-open"></i> <span style="flex:1;">${konuAdi}</span> <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px;">${soruSayisi} Soru</span>`;
-                
-                btn.onclick = (e) => kategoriSec(konuAdi, e.currentTarget);
-                listeDiv.appendChild(btn);
-            });
+    Object.keys(tumKategoriler).forEach((konuAdi, index) => {
+        const btn = document.createElement('div');
+        btn.className = 'nav-item ' + (index === 0 ? 'active' : '');
+        const soruSayisi = tumKategoriler[konuAdi].length;
+        
+        // --- HAFIZA KONTROLÜ VE ROZET OLUŞTURMA ---
+        let kayitRozeti = "";
+        let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi);
+        
+        if (eskiKayit) {
+            let veri = JSON.parse(eskiKayit);
+            // veri.index 0'dan başladığı için ekranda +1 olarak gösteriyoruz
+            kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;" title="Kaldığınız Yer">⏱️ ${veri.index + 1}. Soru</span>`;
         }
+        // ------------------------------------------
+
+        // Rozeti, normal soru sayısının hemen soluna yerleştiriyoruz
+        btn.innerHTML = `<i class="fas fa-folder-open"></i> <span style="flex:1;">${konuAdi}</span> ${kayitRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px;">${soruSayisi} Soru</span>`;
+
+        btn.onclick = (e) => kategoriSec(konuAdi, e.currentTarget);
+        listeDiv.appendChild(btn);
+    });
+}
 
         // 5. KATEGORİ SEÇİMİ VE SKOR SIFIRLAMA
         function kategoriSec(konuAdi, tiklananHtmlElementi) {
@@ -261,10 +363,30 @@
 
             aktifKategoriAdi = konuAdi;
             aktifSorular = tumKategoriler[konuAdi];
-            mevcutSoruIndex = 0; 
-            
+            // --- KALDIĞIN YERDEN DEVAM ET KONTROLÜ ---
+    let eskiKayit = localStorage.getItem("SMM_Kayit_" + aktifKategoriAdi);
+    
+    if (eskiKayit) {
+        let veri = JSON.parse(eskiKayit);
+        // Kullanıcıya şık bir uyarı penceresi çıkarıyoruz
+        if (confirm("Bu testte en son " + (veri.index + 1) + ". soruda kaldınız.\n\nKaldığınız yerden devam etmek ister misiniz?\n\n[Tamam] = Devam Et\n[İptal] = Sıfırla ve Baştan Başla")) {
+            mevcutSoruIndex = veri.index;
+            dogruSayisi = veri.dogru;
+            yanlisSayisi = veri.yanlis;
+        } else {
+            // İptal derse kaydı silip sıfırdan başlatıyoruz
+            localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
+            mevcutSoruIndex = 0;
             dogruSayisi = 0;
             yanlisSayisi = 0;
+        }
+    } else {
+        // Hiç kaydı yoksa zaten sıfırdan başlar
+        mevcutSoruIndex = 0;
+        dogruSayisi = 0;
+        yanlisSayisi = 0;
+    }
+    // -----------------------------------------
             skorTablosunuGuncelle();
             
             document.getElementById('sonuc-alani').classList.add('hidden');
@@ -298,7 +420,7 @@
                 let temizMetin = metin.replace(/^[A-Ea-e]\)[\s]*/, "").replace(/^[A-Ea-e]\.[\s]*/, "");
                 
                 btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
-                btn.onclick = () => cevapla(i, s.correct, btn); 
+                btn.onclick = () => cevapla(i, s.answer, btn); 
                 liste.appendChild(btn);
             });
         }
@@ -321,26 +443,38 @@
             document.getElementById('next-btn').disabled = false;
         }
 
-        // 9. SONRAKİ SORU
-        function sonrakiSoru() {
-            if(mevcutSoruIndex < aktifSorular.length - 1) {
-                mevcutSoruIndex++;
-                soruYukle();
-            } else {
-                document.getElementById('soru-alani').classList.add('hidden');
-                document.getElementById('sonuc-alani').classList.remove('hidden');
-                
-                document.getElementById('skor-dogru').innerText = dogruSayisi;
-                document.getElementById('skor-yanlis').innerText = yanlisSayisi;
-                
-                const toplamSoru = dogruSayisi + yanlisSayisi;
-                const yuzde = (toplamSoru > 0) ? Math.round((dogruSayisi / toplamSoru) * 100) : 0;
-                document.getElementById('skor-yuzde').innerText = "%" + yuzde;
-            }
-          }
-        function menuyeDon() {
-    // Soru ekranını kapatıp menüye dönmeyi sağlar
-    document.body.classList.remove('mobil-soru-acik');
+        // 9. SONRAKİ SORU (Hafıza Çipli Versiyon)
+function sonrakiSoru() {
+    if(mevcutSoruIndex < aktifSorular.length - 1) {
+        mevcutSoruIndex++;
+
+        // --- HAFIZAYA KAYDET (LOCAL STORAGE) ---
+        // Kullanıcı sonraki soruya geçtiği an, kaçıncı soruda olduğunu ve skorunu cihaza gizlice yazar.
+        const kayitBilgisi = {
+            index: mevcutSoruIndex,
+            dogru: dogruSayisi,
+            yanlis: yanlisSayisi
+        };
+        localStorage.setItem("SMM_Kayit_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
+        // ---------------------------------------
+
+        soruYukle();
+    } else {
+        // --- TEST BİTTİĞİNDE HAFIZAYI TEMİZLE ---
+        // Test bittiyse kaydı sileriz ki bir dahaki sefere baştan başlasın.
+        localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
+        // ----------------------------------------
+
+        document.getElementById('soru-alani').classList.add('hidden');
+        document.getElementById('sonuc-alani').classList.remove('hidden');
+        
+        document.getElementById('skor-dogru').innerText = dogruSayisi;
+        document.getElementById('skor-yanlis').innerText = yanlisSayisi;
+        
+        const toplamSoru = dogruSayisi + yanlisSayisi;
+        const yuzde = (toplamSoru > 0) ? Math.round((dogruSayisi / toplamSoru) * 100) : 0;
+        document.getElementById('skor-yuzde').innerText = "%" + yuzde;
+    }
 }
 </script>
     
