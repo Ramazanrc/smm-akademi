@@ -1,0 +1,1277 @@
+{
+  "1- Sermaye Piyasasına İlişkin Kavramsal Çerçeve": [
+    {
+      "q": "Aşağıdakilerden hangisi finansal piyasaların fonksiyonları arasında yer almakla birlikte sermaye piyasalarına özgü olmayan bir fonksiyondur?",
+      "options": [
+        "A) Mülkiyeti tabana yaymak",
+        "B) Riski dağıtmak",
+        "C) Sermaye birikimini oluşturmak",
+        "D) Likidite sağlamak",
+        "E) Riske karşı yatırımcıyı korumak."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasasının tanımı dikkate alındığında aşağıdakilerden hangisi bu piyasanın ayırt edici özelliğini en doğru biçimde yansıtır?",
+      "options": [
+        "A) Kısa vadeli fon arz ve talebini düzenlemesi",
+        "B) Dolaylı finansman mekanizmasına dayanması",
+        "C) Orta ve uzun vadeli fonların doğrudan aktarımını sağlaması",
+        "D) Yalnızca kamu kesimine kaynak aktarması",
+        "E) Para politikasının temel aracı olması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi sermaye piyasasının unsurlarından biri değildir?",
+      "options": [
+        "A) Fon talep edenler",
+        "B) Fon arz edenler",
+        "C) Sermaye piyasası araçları",
+        "D) Merkez Bankası",
+        "E) Yardımcı kuruluşlar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Birincil piyasanın varlığı aşağıdaki hangi ihtiyaca doğrudan cevap vermektedir?",
+      "options": [
+        "A) Fiyatın belirlenmesi",
+        "B) Likiditenin sağlanması",
+        "C) Vadeye ilişkin bilgi oluşumu",
+        "D) Reel piyasaya yeni kaynak aktarımı",
+        "E) Spekülatif işlemlerin artırılması"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi birincil piyasanın fonksiyonları arasında yer almaz?",
+      "options": [
+        "A) Reel piyasaya kaynak sağlamak",
+        "B) Riski dağıtmak",
+        "C) Mülkiyeti tabana yaymak",
+        "D) Likidite sağlamak",
+        "E) Sermaye piyasası araçlarının ilk satışını gerçekleştirmek"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi spot piyasa işlemlerinin ayırt edici özelliğidir?",
+      "options": [
+        "A) Teslimatın gelecekte yapılması",
+        "B) Sözleşme standartlarının zorunlu olması",
+        "C) Bedel ve varlığın işlem sonrası el değiştirmesi",
+        "D) Yüksek kaldıraç kullanılması",
+        "E) Sadece türev ürünlerin işlem görmesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Vadeli piyasaların temel ekonomik işlevi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Likiditeyi azaltmak",
+        "B) Fiyat belirsizliğini artırmak",
+        "C) Riskten korunma imkânı sağlamak",
+        "D) Sadece spekülasyonu teşvik etmek",
+        "E) Kısa vadeli fon sağlamak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vadeli piyasalarda işlem gören türev ürünlerden biri değildir?",
+      "options": [
+        "A) Forward",
+        "B) Futures",
+        "C) Opsiyon",
+        "D) Swap",
+        "E) Pay senedi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bir yatırımcının vade sonunu beklemeden yatırımını nakde çevirebilmesi hangi piyasa sayesinde mümkündür?",
+      "options": [
+        "A) Birincil piyasa",
+        "B) İkincil piyasa",
+        "C) Spot piyasa",
+        "D) Vadeli piyasa",
+        "E) Para piyasası"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasasında “doğrudan finansman” kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "A) Tasarruf sahipleri ile fon talep edenlerin doğrudan karşılaşmasını",
+        "B) Devletin fon transferini",
+        "C) Bankalar aracılığıyla fon sağlanmasını",
+        "D) Merkez Bankası işlemlerini",
+        "E) Kredi mekanizmasını"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi para piyasaları ile sermaye piyasaları arasındaki temel ayrımı en doğru biçimde ifade eder?",
+      "options": [
+        "A) Para piyasalar yalnızca kısa vadeli, sermaye piyasaları yalnızca uzun vadeli işlemleri kapsar.",
+        "B) Sermaye piyasaları doğrudan finansmana dayanırken para piyasaları daha geniş bir yapıyı ifade eder.",
+        "C) Para piyasalar kamuya, sermaye piyasaları özel sektöre yöneliktir.",
+        "D) Sermaye piyasaları bankacılık sisteminin bir alt koludur.",
+        "E) Para piyasalar yalnızca spot işlemleri kapsar."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasasının “mülkiyeti tabana yayma” fonksiyonu aşağıdaki sonuçlardan hangisini amaçlar?",
+      "options": [
+        "A) Şirketlerin tamamen kamuya ait olmasını",
+        "B) Sermayenin dar bir yatırımcı grubunda yoğunlaşmasını",
+        "C) Kısa vadeli yatırımların teşvik edilmesini",
+        "D) Devletin şirketler üzerindeki kontrolünü artırmasını",
+        "E) Şirket sahipliğinin daha geniş yatırımcı kitlelerine dağılmasını"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi birincil piyasa ile ikincil piyasa arasındaki en kritik farkı ortaya koymaktadır?",
+      "options": [
+        "A) Birincil piyasada fiyat serbestçe oluşur.",
+        "B) İkincil piyasada yalnızca ihraççılar işlem yapar.",
+        "C) Birincil piyasada fon ihraççıya gider, ikincil piyasada yatırımcılar arasında işlem görür.",
+        "D) İkincil piyasada risk bulunmaz.",
+        "E) Birincil piyasada likidite yüksektir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bir yatırımcının menkul kıymeti vade sonunu beklemeden satabilmesi aşağıdaki hangi piyasanın varlığı sayesinde mümkündür?",
+      "options": [
+        "A) Birincil piyasa",
+        "B) Spot piyasa",
+        "C) Vadeli piyasa",
+        "D) İkincil piyasa",
+        "E) Para piyasası"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Finansal piyasanın tanımında aşağıdaki ifadelerden hangisi aynen yer almaktadır?",
+      "options": [
+        "A) Kısa vadeli fon ihtiyacını karşılayan yapı",
+        "B) Tasarruf fazlası olan birimler ile fon talep edenler arasındaki fon akışını sağlayan sistem",
+        "C) Bankalar aracılığıyla kredi tahsisini düzenleyen mekanizma",
+        "D) Yatırımları kamu adına yönlendiren piyasa",
+        "E) Sermaye birikimini sağlayan ikincil piyasa"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi finans piyasalarının fonksiyonları arasında yer almayan seçenek hangisidir?",
+      "options": [
+        "A) Reel piyasaya kaynak sağlamak",
+        "B) Sermaye birikimini oluşturmak",
+        "C) Likiditeyi temin etmek",
+        "D) Genel bütçe denesini sağlamaya yardımcı olmak.",
+        "E) Riski dağıtmak"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdaki seçeneklerden hangisinde sermaye piyasasının unsurları eksiksiz ve doğru verilmiştir?",
+      "options": [
+        "A) Fon arz edenler – bankalar – yatırımcılar – Merkez Bankası",
+        "B) Fon talep edenler – fon arz edenler – sermaye piyasası araçları – yardımcı kuruluşlar – borsalar",
+        "C) Tasarruf sahipleri – kamu – özel sektör – yatırım fonları",
+        "D) Bankalar – aracı kurumlar – sigorta şirketleri",
+        "E) Reel sektör – finans sektörü – kamu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki seçeneklerin hangisinde birincil piyasa eksiksiz ve tam olarak tanımlanmıştır?",
+      "options": [
+        "A) Daha önce ihraç edilmiş menkul kıymetlerin alım satımının yapıldığı piyasa",
+        "B) Menkul kıymetlerin ilk defa ihraççı tarafından satıldığı piyasa",
+        "C) Yatırımcılar arasında gerçekleşen işlemlerin yapıldığı piyasa",
+        "D) Vadeli sözleşmelerin işlem gördüğü piyasa",
+        "E) Likiditenin sağlandığı piyasa"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki piyasalardan hangisi spot piyasa işlemlerinin gerçekleştiği bir piyasadır?",
+      "options": [
+        "A) Vadeli İşlem ve Opsiyon Piyasası",
+        "B) Para piyasası",
+        "C) Swap piyasası",
+        "D) Repo–ters repo piyasası",
+        "E) Pay Piyasası"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdaki seçeneklerin hangisinde Vadeli piyasalar doğru bir şekilde tanımlanmıştır?",
+      "options": [
+        "A) Anında teslimat yapılan piyasalar",
+        "B) Gelecekte teslimat yapılmak üzere bugünden alım satımın yapıldığı piyasalar",
+        "C) Yalnızca kamuya ait piyasalar",
+        "D) Likiditenin sağlandığı piyasalar",
+        "E) Kısa vadeli fon piyasaları"
+      ],
+      "answer": 1
+    }
+  ],
+  "2- Sermaye Piyasası Faaliyetleri": [
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanunu’na göre aşağıdakilerden hangisi bir “yatırım hizmeti ve faaliyeti” değildir?",
+      "options": [
+        "A) Sermaye piyasası araçlarıyla ilgili emirlerin iletilmesi",
+        "B) Portföy yöneticiliği",
+        "C) Sermaye piyasaları ile ilgili danışmanlık hizmetlerinin sunulması",
+        "D) Yatırım danışmanlığı",
+        "E) Sermaye piyasası araçlarının müşteri namına saklanması ve yönetimi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yatırım hizmet ve faaliyetlerinin düzenli uğraşı veya mesleki faaliyet olarak icra edilebilmesi için hangi kurumdan izin alınması zorunludur?",
+      "options": [
+        "A) Hazine ve Maliye Bakanlığı",
+        "B) TCMB",
+        "C) Sermaye Piyasası Kurulu (SPK)",
+        "D) Borsa İstanbul",
+        "E) Merkezi Kayıt Kuruluşu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yan hizmetlerin yürütülmesi için yatırım kuruluşlarının yapması gereken işlem aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Faaliyet izni almak",
+        "B) Yetki belgesi almak",
+        "C) Bildirimde bulunmak",
+        "D) TÜBİTAK onayı almak",
+        "E) Hazine görüşü almak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurula yapılan yan hizmet bildirimini takiben, Kurulca aksi yönde görüş bildirilmedikçe kaç iş günü içinde faaliyetlere başlanabilir?",
+      "options": [
+        "A) 10",
+        "B) 15",
+        "C) 20",
+        "D) 30",
+        "E) 45"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "“Emir İletimine Aracılık”, “İşlem Aracılığı” ve “Portföy Aracılığı” faaliyetlerinin tümünü birden ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Portföy Yöneticiliği",
+        "B) Alım Satım Aracılığı",
+        "C) Halka Arza Aracılık",
+        "D) Yatırım Danışmanlığı",
+        "E) Saklama Hizmeti"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi bir yan hizmet olarak sınıflandırılır?",
+      "options": [
+        "A) Çok taraflı alım satım sistemlerinin işletilmesi",
+        "B) Portföy aracılığı",
+        "C) Servet yönetimi ve finansal planlama yapılması",
+        "D) Emirlerin müşteri adına gerçekleştirilmesi",
+        "E) Halka arzda yüklenimde bulunulması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraç edilecek sermaye piyasası araçlarının satılamayan kısmının tamamının bedelinin nakden ödenerek satın alınması taahhüdüne ne ad verilir?",
+      "options": [
+        "A) Bakiyeyi Yüklenim",
+        "B) Tümünü Yüklenim",
+        "C) En İyi Gayret Aracılığı",
+        "D) Kısmen Tümünü Yüklenim",
+        "E) Portföy Aracılığı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası araçlarının bedelinin, satış başlamadan önce tam ve nakden ödenerek tamamının satın alınıp halka satılmasına ne ad verilir?",
+      "options": [
+        "A) Bakiyeyi Yüklenim",
+        "B) Tümünü Yüklenim",
+        "C) Kısmen Bakiyeyi Yüklenim",
+        "D) En İyi Gayret Aracılığı",
+        "E) İşlem Aracılığı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Satılamayan payların satışı yapana iade edildiği veya önceden taahhüt etmiş üçüncü kişilere satıldığı halka arz yöntemi hangisidir?",
+      "options": [
+        "A) Aracılık Yüklenimi",
+        "B) Bakiyeyi Yüklenim",
+        "C) En İyi Gayret Aracılığı",
+        "D) Tümünü Yüklenim",
+        "E) Kısmen Bakiyeyi Yüklenim"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "“Genel Saklama Hizmeti”nin temel özelliği aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Sadece halka arza aracılık edilen araçları kapsar.",
+        "B) Sadece portföy yöneticiliği faaliyetleri ile sınırlıdır.",
+        "C) İşlemi yapılan yatırım hizmetlerinden bağımsız olarak sunulur.",
+        "D) Sadece aracı kurumlar tarafından sunulabilir.",
+        "E) Bildirimle yerine getirilen bir yan hizmettir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bir faaliyet izninin verildiği tarihten itibaren kaç yıl süreyle faaliyette bulunulmaması, iznin iptal edilme nedenidir?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Faaliyet izinlerinin tamamı iptal edilen bir kuruluşun, esas sözleşmesindeki amaç ve unvanını değiştirmesi için tanınan azami süre nedir?",
+      "options": [
+        "A) 1 ay",
+        "B) 2 ay",
+        "C) 3 ay",
+        "D) 6 ay",
+        "E) 1 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kitle fonlaması faaliyetleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Bir yatırım hizmetidi.r",
+        "B) Bir yan hizmettir.",
+        "C) Yatırımcı tazminine ilişkin hükümlere tabi değildir.",
+        "D) İzahname hazırlama yükümlülüğü vardır.",
+        "E) Halka açık ortaklık statüsündedir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kitle fonlaması platformlarının hukuki statüsü ile ilgili hangisi yanlıştır?",
+      "options": [
+        "A) Halka açık ortaklık değildirler.",
+        "B) İhraççı statüsünde değildirler.",
+        "C) Borsa ve piyasa işleticileri hükümlerine tabidirler.",
+        "D) Elektronik ortamda hizmet verirler.",
+        "E) Faaliyetleri için Kuruldan izin almaları gerekir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kitle fonlaması işlemlerinde bilgi formundaki yanlış bilgilerden kimler müteselsilen sorumludur?",
+      "options": [
+        "A) Sadece kitle fonlama platformu",
+        "B) Sadece fon sağlayan yatırımcılar",
+        "C) Bilgi formunu imzalayan gerçek ve tüzel kişiler",
+        "D) Sadece girişimi kuran kişiler",
+        "E) Sadece SPK uzmanları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kripto varlık hizmet sağlayıcılarının bilgi sistemleri ve teknolojik altyapıları için hangi kurumun kriterlerine uygunluk aranır?",
+      "options": [
+        "A) MKK",
+        "B) TÜBİTAK",
+        "C) TCMB",
+        "D) BTK",
+        "E) Takasbank"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kripto varlık hizmet sağlayıcılarında pay devirleri ile ilgili hangi kural geçerlidir?",
+      "options": [
+        "A) Sadece bildirim yeterlidir",
+        "B) Kurul (SPK) izni zorunludur",
+        "C) Ticaret Bakanlığı onayı gerekir",
+        "D) Pay devri yapılamaz",
+        "E) Sadece ortaklar kurulunun onayı yeterlidir"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "“Dağıtık defter teknolojisi kullanılarak elektronik ortamda oluşturulup saklanabilen, dijital ağlar üzerinden dağıtımı yapılan gayri maddi varlıklar” aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Kripto Varlık",
+        "B) Cüzdan",
+        "C) Platform",
+        "D) Saklama Hizmeti",
+        "E) Yatırım Aracı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdaki kurumlardan hangisi “Saklama Hizmeti” veremez?",
+      "options": [
+        "A) Aracı Kurumlar",
+        "B) Kalkınma Bankaları",
+        "C) Mevduat ve Katılım Bankaları",
+        "D) Portföy Yönetim Şirketleri",
+        "E) Yatırım Bankaları"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Borçlanmaya dayalı kitle fonlaması faaliyetlerine hangi mevzuat hükümleri uygulanmaz?",
+      "options": [
+        "A) Sermaye Piyasası Kanunu",
+        "B) Bankacılık Mevzuatı",
+        "C) Genel Hükümler",
+        "D) 7061 sayılı Kanun",
+        "E) Borçlar Kanunu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kripto varlıkların saklanmasını sağlayan yazılım veya donanımlara ne ad verilir?",
+      "options": [
+        "A) Portföy",
+        "B) Depo",
+        "C) Cüzdan",
+        "D) Platform",
+        "E) Şifre"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurul, sermaye piyasası araçlarının kripto varlık olarak ihraç edilmesi durumunda hangi kurum sistemi ile entegrasyon isteyebilir?",
+      "options": [
+        "A) Borsa İstanbul",
+        "B) Merkezi Kayıt Kuruluşu (MKK)",
+        "C) TCMB",
+        "D) Takasbank",
+        "E) TÜBİTAK"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Faaliyet izni alma sırasında aranan şartların kaybedilmesi durumunda, bu şartların yeniden sağlanması için tanınan süre nedir?",
+      "options": [
+        "A) 1 ay",
+        "B) 2 ay",
+        "C) 3 ay",
+        "D) 6 ay",
+        "E) 15 gün"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kredili sermaye piyasası aracı işlemleri ile ilgili düzenleme yapma yetkisi kime aittir?",
+      "options": [
+        "A) Sadece TCMB",
+        "B) Sadece Hazine ve Maliye Bakanlığı",
+        "C) Kurul (Hazine ve TCMB görüşü alarak)",
+        "D) Borsa İstanbul Yönetim Kurulu",
+        "E) Bankacılık Düzenleme ve Denetleme Kurumu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi doğrudan “Alım Satım Aracılığı” içinde yer almaz?",
+      "options": [
+        "A) Emir iletimine aracılık",
+        "B) İşlem aracılığı",
+        "C) Portföy aracılığı",
+        "D) Bireysel portföy yöneticiliği",
+        "E) Emirlerin müşteri adına gerçekleştirilmesi"
+      ],
+      "answer": 3
+    }
+  ],
+  "3- Sermaye Piyasası Kurumları – 01 - Yatırım Kuruluşları": [
+    {
+      "q": "Sermaye Piyasası Kanunu’nun 35. maddesine göre aşağıdakilerden hangisi bir “sermaye piyasası kurumu” değildir?",
+      "options": [
+        "A) İpotek finansmanı kuruluşları",
+        "B) Veri depolama kuruluşları",
+        "C) Sigorta eksperlik şirketleri",
+        "D) Varlık kiralama şirketleri",
+        "E) Merkezî saklama kuruluşları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aracı kurumların kuruluş şartları arasında yer alan şirket türü aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Limited şirket",
+        "B) Anonim ortaklık",
+        "C) Komandit şirket",
+        "D) Kolektif şirket",
+        "E) Şahıs şirketi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aracı kurumların paylarının ihracı ile ilgili hangi kural zorunludur?",
+      "options": [
+        "A) Hamiline yazılı olmaları",
+        "B) Tamamının nama yazılı olması",
+        "C) Bedelsiz olarak dağıtılabilmesi",
+        "D) İntifa senedi şeklinde çıkarılması",
+        "E) Sadece kamuya açık olması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aracı kurum kurucularının Türk Ceza Kanunu kapsamında kasten işlenen bir suçtan dolayı en az ne kadar süreyle hapis cezası almamış olması gerekir?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aracı kurumlar, ortaklarının şartlarında bir değişiklik olması durumunda bu durumu kaç iş günü içinde Kurula (SPK) bildirmek zorundadır?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 5",
+        "E) 10"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aracı kurumlar kuruluş izni aldıktan sonra en geç ne kadar süre içinde “faaliyet izni” almak üzere başvurmalıdır?",
+      "options": [
+        "A) 3 ay",
+        "B) 6 ay",
+        "C) 1 yıl",
+        "D) 2 yıl",
+        "E) 18 ay"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurul, aracı kurumun faaliyet izni başvuru süresini en fazla ne kadar süreye kadar uzatabilir?",
+      "options": [
+        "A) 3 ay",
+        "B) 6 ay",
+        "C) 9 ay",
+        "D) 1 yıl",
+        "E) 2 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Faaliyet izni başvurusu uygun görülmeyen aracı kurumlar, en geç kaç ay içinde sona erme kararı almak veya esas sözleşmelerini değiştirmek zorundadır?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 6",
+        "E) 12"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Esas sözleşme değişikliğine ilişkin Türkiye Ticaret Sicili Gazetesi ilanı, en geç kaç iş günü içinde Kurula gönderilmelidir?",
+      "options": [
+        "A) 3",
+        "B) 5",
+        "C) 7",
+        "D) 10",
+        "E) 15"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kurula sunulan faaliyet izni başvuruları, belgelerin eksiksiz tesliminden itibaren azami ne kadar sürede karara bağlanır?",
+      "options": [
+        "A) 1 ay",
+        "B) 3 ay",
+        "C) 6 ay",
+        "D) 1 yıl",
+        "E) 15 gün"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Çerçeve sözleşmelerin müşteri numarası ve hesap numarası, sözleşme sona erdikten sonra kaç yıl geçmedikçe başka bir müşteriye verilemez?",
+      "options": [
+        "A) 2",
+        "B) 5",
+        "C) 10",
+        "D) 15",
+        "E) 20"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aracı kurumların irtibat bürosu sorumlusu için aranan asgari eğitim şartı nedir?",
+      "options": [
+        "A) Lise mezunu",
+        "B) En az 2 yıllık ön lisans",
+        "C) 4 yıllık lisans",
+        "D) Yüksek lisans",
+        "E) Doktora"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İrtibat bürolarının emirler konusundaki yetkisi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Emirleri borsaya doğrudan iletmek",
+        "B) Emirleri kendi portföyünden karşılamak",
+        "C) Sadece müşteri emirlerini aracı kuruma iletmek",
+        "D) Emirleri iptal etmek",
+        "E) Kendi adına emir toplamak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurul, mali yapısı bozulan kurumlara bu yapıyı güçlendirmeleri için en fazla ne kadar süre verebilir?",
+      "options": [
+        "A) 1 ay",
+        "B) 2 ay",
+        "C) 3 ay",
+        "D) 6 ay",
+        "E) 1 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Kurulu’un mali durumu bozulan kurumlara uygulayabileceği tedbirlerden biri değildir?",
+      "options": [
+        "A) Faaliyetleri geçici olarak durdurmak",
+        "B) Yönetim kurulu üyelerini görevden almak",
+        "C) Kurumun doğrudan iflasını istemek",
+        "D) Kurumun tüm borçlarını üstlenmek",
+        "E) Tedrîcî tasfiyeye karar vermek"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Yatırım kuruluşları, müşterileriyle işlem yapmaya başlamadan önce aşağıdakilerden hangisini yapmak zorundadır?",
+      "options": [
+        "A) Yazılı bir çerçeve sözleşme imzalamak",
+        "B) Borsa İstanbul’dan onay almak",
+        "C) Noter tasdiki yaptırmak",
+        "D) Teminat mektubu almak",
+        "E) Müşterinin adli sicil kaydını almak"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Çerçeve sözleşmenin aracı kurumda kalan nüshası üzerine müşteri tarafından hangi ibarenin yazılması zorunludur?",
+      "options": [
+        "A) “Okudum, anladım”",
+        "B) “Bir suretini aldım”",
+        "C) “Tüm şartları kabul ediyorum”",
+        "D) “Aslı gibidir”",
+        "E) “İşlem yapmaya yetkiliyim”"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aracı kurum kurucularında aranan şartlar arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "A) Müflis olmamak",
+        "B) Konkordato ilân etmemiş olmak",
+        "C) Kesinleşmiş mahkûmiyetinin bulunmaması",
+        "D) Daha önce hiçbir şirkette ortak olmamış olmak",
+        "E) Gerekli malî güce sahip bulunmak"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aracı kurum şube açma şartları arasında aşağıdakilerden hangisi bulunur?",
+      "options": [
+        "A) Sadece online hizmet vermek",
+        "B) En az 10 yıl faaliyet göstermiş olmak",
+        "C) Yeterli mekân, teknik donanım ve sigorta dahil güvenlik önlemlerini almak",
+        "D) Sadece İstanbul’da bulunmak",
+        "E) Banka iştiraki olmak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Kurulun (SPK) malî durumu bozulan kurumların yöneticileri üzerinde uygulayabileceği bir yaptırımdır?",
+      "options": [
+        "A) Pasaportlarına el koymak",
+        "B) Sahip oldukları lisansları geçici veya sürekli iptal etmek",
+        "C) Tüm malvarlıklarını dondurmak",
+        "D) Ömür boyu ticaretten men etmek",
+        "E) Yurtdışına çıkış yasağı koymak"
+      ],
+      "answer": 1
+    }
+  ],
+  "4- Sermaye Piyasası Kurumları – 02 - Kolektif Yatırım Kuruluşları": [
+    {
+      "q": "Sermaye piyasası araçları, gayrimenkul ve girişim sermayesi gibi varlıklardan oluşan portföyleri işletmek amacıyla paylarını ihraç etmek üzere kurulan anonim ortaklıklara ne ad verilir?",
+      "options": [
+        "A) Yatırım Fonu",
+        "B) Yatırım Ortaklığı",
+        "C) Portföy Yönetim Şirketi",
+        "D) Varlık Kiralama Şirketi",
+        "E) İpotek Finansmanı Kuruluşu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yatırım ortaklıklarının kuruluş izni alabilmesi için hangi sermaye sistemine tabi olmaları zorunludur?",
+      "options": [
+        "A) Esas Sermaye Sistemi",
+        "B) Kademeli Sermaye Sistemi",
+        "C) Kayıtlı Sermaye Sistemi",
+        "D) Değişken Sermaye Sistemi",
+        "E) Sabit Sermaye Sistemi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföyü işletecek GYO’ların aktif toplamının asgari yüzde kaçının altyapı yatırım ve hizmetlerinden oluşması şarttır?",
+      "options": [
+        "A) %25",
+        "B) %50",
+        "C) %60",
+        "D) %75",
+        "E) %90"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Normal bir Gayrimenkul Yatırım Ortaklığının (GYO) kuruluştaki başlangıç sermayesi asgari ne kadar olmalıdır?",
+      "options": [
+        "A) 300.000.000 TL",
+        "B) 500.000.000 TL",
+        "C) 750.000.000 TL",
+        "D) 1.000.000.000 TL",
+        "E) 1.500.000.000 TL"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "GYO’larda başlangıç sermayesi 2.000.000.000 TL ve üzerinde ise, bu sermayenin en az ne kadarlık kısmını temsil eden payların nakit karşılığı çıkarılması zorunludur?",
+      "options": [
+        "A) %10’u",
+        "B) %25’i",
+        "C) 150.000.000 TL",
+        "D) 200.000.000 TL",
+        "E) 300.000.000 TL"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföyü işletecek GYO’ların başlangıç sermayesi asgari kaç Türk Lirasıdır?",
+      "options": [
+        "A) 100.000.000 TL",
+        "B) 750.000.000 TL",
+        "C) 1.000.000.000 TL",
+        "D) 1.250.000.000 TL",
+        "E) 1.500.000.000 TL"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi bir GYO’nun kendi personeli aracılığıyla yapabileceği işler arasında yer alır?",
+      "options": [
+        "A) Mevduat toplamak",
+        "B) İnşaat işlerini üstlenmek",
+        "C) Yürütülen projelerin kontrol işlerini dahili yürütmek",
+        "D) Kısa vadeli sürekli gayrimenkul alım satımı yapmak",
+        "E) İlişkili taraflara mal satımı dışı borç vermek"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Girişim Sermayesi Yatırım Ortaklıklarının (GSYO) kuruluştaki başlangıç sermayesi asgari ne kadar olmalıdır?",
+      "options": [
+        "A) 75.000.000 TL",
+        "B) 150.000.000 TL",
+        "C) 300.000.000 TL",
+        "D) 500.000.000 TL",
+        "E) 1.000.000.000 TL"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "GSYO’lar, girişim sermayesi yatırımları dışındaki varlıklara portföy değerlerinin en fazla yüzde kaçı oranında yatırım yapabilirler?",
+      "options": [
+        "A) %10",
+        "B) %25",
+        "C) %30",
+        "D) %49",
+        "E) %51"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sabit sermayeli menkul kıymet yatırım ortaklıklarının kuruluşunda kurucuların, sermayenin asgari yüzde kaçı oranındaki payları halka arz edeceklerini taahhüt etmeleri gerekir?",
+      "options": [
+        "A) %10",
+        "B) %25",
+        "C) %30",
+        "D) %49",
+        "E) %51"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermayesi her zaman “net aktif değerine” eşit olan yatırım ortaklığı türü hangisidir?",
+      "options": [
+        "A) Sabit Sermayeli Yatırım Ortaklığı",
+        "B) Değişken Sermayeli Yatırım Ortaklığı (DSYO)",
+        "C) Gayrimenkul Yatırım Ortaklığı",
+        "D) Girişim Sermayesi Yatırım Ortaklığı",
+        "E) Varlık Kiralama Şirketi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İnançlı mülkiyet esaslarına göre portföy işletmek amacıyla kurulan ve tüzel kişiliği bulunmayan mal varlığına ne denir?",
+      "options": [
+        "A) Yatırım Ortaklığı",
+        "B) Yatırım Fonu",
+        "C) Anonim Ortaklık",
+        "D) Saklama Kuruluşu",
+        "E) Meslek Birliği"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yatırım fonu kuruluş başvuruları, belgelerin eksiksiz sunulmasından itibaren ne kadar sürede karara bağlanır?",
+      "options": [
+        "A) 1 ay",
+        "B) 2 ay",
+        "C) 3 ay",
+        "D) 6 ay",
+        "E) 1 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yatırım fonlarının ülkemizde hangi yapı altında kurulması zorunlu tutulmuştur?",
+      "options": [
+        "A) Serbest Fon",
+        "B) Karma Fon",
+        "C) Şemsiye Fon",
+        "D) Garantili Fon",
+        "E) Likit Fon"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Portföy yönetim şirketlerinin başlangıç sermayesi en az ne kadar olmalıdır?",
+      "options": [
+        "A) 30.000.000 TL",
+        "B) 60.000.000 TL",
+        "C) 75.000.000 TL",
+        "D) 100.000.000 TL",
+        "E) 300.000.000 TL"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ürün İhtisas Borsası’nın kuruluşu için gerekli olan izin süreci nasıldır?",
+      "options": [
+        "A) Sadece SPK izni ile kurulur.",
+        "B) Bakanlık ve Kurulun teklifi üzerine Cumhurbaşkanı izniyle kurulur.",
+        "C) Ticaret Bakanlığı’nın onayı ile Borsa İstanbul bünyesinde kurulur.",
+        "D) Sadece Cumhurbaşkanı kararnamesi ile kurulur.",
+        "E) Hazine ve Maliye Bakanlığı’nın teklifiyle Kurul tarafından kurulur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Münhasıran kira sertifikası ihraç etmek üzere kurulan anonim ortaklıklara ne ad verilir?",
+      "options": [
+        "A) Portföy Yönetim Şirketi",
+        "B) İpotek Finansmanı Kuruluşu",
+        "C) Varlık Kiralama Şirketi (VKŞ)",
+        "D) Gayrimenkul Değerleme Şirketi",
+        "E) Veri Depolama Kuruluşu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Merkezi takas kuruluşlarının kuruluşuna Kurulun teklifi üzerine kim tarafından izin verilir?",
+      "options": [
+        "A) SPK Başkanı",
+        "B) Borsa İstanbul Yönetim Kurulu",
+        "C) Cumhurbaşkanı yardımcısı veya Bakan",
+        "D) TCMB Başkanı",
+        "E) Ticaret Bakanı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Varlık Kiralama Şirketleri (VKŞ) kurabilecek olan kuruluşlar arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "A) Derecelendirme notu yatırım yapılabilir seviyede olan ortaklıklar",
+        "B) İpotek finansmanı kuruluşları",
+        "C) Payları borsada işlem gören GYO’lar",
+        "D) Sermayesinin %25’i Hazine’ye ait olan ortaklıklar",
+        "E) E) Birinci ve ikinci grupta yer alan halka açık ortaklıklar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Net aktif değerin en az %80’i devamlı olarak ilgili sermaye piyasası araçlarından oluşan” DSYO portföy türü aşağıdakilerden hangisi olamaz?",
+      "options": [
+        "A) Borçlanma Araçları Portföyü",
+        "B) Hisse Senedi Portföyü",
+        "C) Kıymetli Madenler Portföyü",
+        "D) Para Piyasası Portföyü",
+        "E) Serbest Portföy"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Borsaların kuruluş izni alındıktan sonra faaliyet izni için en geç ne kadar sürede başvurulması şarttır?",
+      "options": [
+        "A) 3 ay",
+        "B) 6 ay",
+        "C) 1 yıl",
+        "D) 2 yıl",
+        "E) 3 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Tarım ürünlerinin (arpa, buğday vb.) ve bunlara dayalı vadeli işlem sözleşmelerinin işlem gördüğü borsaya ne ad verilir?",
+      "options": [
+        "A) Menkul Kıymetler Borsası",
+        "B) Vadeli İşlem Borsası",
+        "C) Ürün İhtisas Borsası",
+        "D) Altın Borsası",
+        "E) Gayrimenkul Borsası"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Değişken Sermayeli Menkul Kıymet Yatırım Ortaklıkları (DSYO) ile ilgili aşağıdaki teknik özelliklerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermayesi her zaman net aktif değerine eşittir.",
+        "B) Payların itibari değeri bulunmaz.",
+        "C) Paylar, yatırımcı payları ile nama yazılı kurucu paylarından oluşur.",
+        "D) Pay bedellerinin yarısının kuruluşta, kalanının 2 yıl içinde ödenmesi mümkündür.",
+        "E) Kurulca yetkilendirilmiş bir kuruluştan saklama hizmeti alınması zorunludur."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Tazmin talebinde bulunma hakkı, tazmin kararının ilanından itibaren ne kadar süre sonra zamanaşımına uğrar?",
+      "options": [
+        "A) 6 ay",
+        "B) 1 yıl",
+        "C) 2 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye Piyasası Kanunu kapsamında verilen idari para cezalarının yüzde kaçı YTM’ye gelir olarak aktarılır?",
+      "options": [
+        "A) %10",
+        "B) %25",
+        "C) %50",
+        "D) %75",
+        "E) %100"
+      ],
+      "answer": 2
+    }
+  ],
+  "5- Sermaye Piyasası Araçları": [
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanunu çerçevesinde sermaye piyasası araçları hangi üç ana grupta sınıflandırılmaktadır?",
+      "options": [
+        "A) Paylar, Tahviller, Bonolar",
+        "B) Menkul Kıymetler, Türev Araçlar, Yatırım Sözleşmeleri ve Diğer Sermaye Piyasası Araçları",
+        "C) Kambiyo Senetleri, Paylar, Türev Araçlar",
+        "D) Menkul Kıymetler, Çekler, Poliçeler",
+        "E) Yatırım Fonları, Paylar, Borçlanma Araçları"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi pay senedine sahip olan yatırımcının sahip olduğu yükümlülüklerden biri değildir?",
+      "options": [
+        "A) Sermaye koyma borcu",
+        "B) Sadakat borcu",
+        "C) Sır saklama borcu",
+        "D) Şirket yönetimine katılma borcu",
+        "E) Esas sözleşme ile getirilen ikincil borçlar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Ortaklık haklarına sahip olmaksızın kârdan pay alma, tasfiye bakiyesinden yararlanma ve yeni pay alma haklarını sağlayan araç hangisidir?",
+      "options": [
+        "A) Katılma İntifa Senetleri",
+        "B) Kâr Zarar Ortaklığı Belgesi",
+        "C) Pay Senedi",
+        "D) Paya Dönüştürülebilir Tahvil",
+        "E) Gayrimenkul Sertifikası"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye artırımı yoluyla halka arzda toplanan fonlar nereye aktarılır?",
+      "options": [
+        "A) Mevcut ortakların hesabına",
+        "B) Aracı kurumun yedek akçesine",
+        "C) Ortaklığın (şirketin) kasasına",
+        "D) Sermaye Piyasası Kurulu fonuna",
+        "E) İstanbul Takas ve Saklama Bankası’na"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye artırımı için Kurulun uygun görüşünden itibaren en geç kaç ay içinde genel kurulca karar alınması gerekir?",
+      "options": [
+        "A) 1 ay",
+        "B) 3 ay",
+        "C) 6 ay",
+        "D) 9 ay",
+        "E) 12 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Payları borsada işlem görmeyen halka açık ortaklıklar için yeni pay alma (rüçhan) hakkı kullanım süresi hangi aralıkta olmalıdır?",
+      "options": [
+        "A) 10 gün - 30 gün",
+        "B) 15 gün - 60 gün",
+        "C) 15 gün - 120 gün",
+        "D) 30 gün - 90 gün",
+        "E) 1 ay - 6 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Payları borsada işlem görmeyen halka açık ortaklıklarla ilgili nominal değerin altında pay ihracı konusunda hangisi doğrudur?",
+      "options": [
+        "A) %10 iskonto ile ihraç edebilirler.",
+        "B) Kurul izniyle ihraç edebilirler.",
+        "C) Nominal değerin altında pay ihraç edemezler.",
+        "D) Sadece mevcut ortaklara ihraç edebilirler.",
+        "E) Sadece tahsisli olarak ihraç edebilirler."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Halka arz sonrası fiyat istikrarını sağlayıcı işlemler paylar borsada işlem görmeye başladıktan itibaren en çok kaç gün süreyle yapılabilir?",
+      "options": [
+        "A) 15 gün",
+        "B) 30 gün",
+        "C) 45 gün",
+        "D) 60 gün",
+        "E) 90 gün"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Fiyat istikrarını sağlayıcı işlemlerde kullanılacak fon, brüt halka arz gelirinin en fazla yüzde kaçı olabilir?",
+      "options": [
+        "A) %10",
+        "B) %15",
+        "C) %20",
+        "D) %25",
+        "E) %30"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Payların ilk halka arzında ön talep toplama süresi en fazla kaç iş günü olabilir?",
+      "options": [
+        "A) 3 iş günü",
+        "B) 5 iş günü",
+        "C) 7 iş günü",
+        "D) 10 iş günü",
+        "E) 15 iş günü"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Ek pay satışına konu toplam paylar, ek pay satışı öncesi halka arz edilen payların nominal değerinin en fazla yüzde kaçını aşamaz?",
+      "options": [
+        "A) %10",
+        "B) %15",
+        "C) %20",
+        "D) %25",
+        "E) %30"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Türk Ticaret Kanunu’na göre genel kurul, borçlanma aracı ihraç etme yetkisini yönetim kuruluna en çok kaç ay için devredebilir?",
+      "options": [
+        "A) 12 ay",
+        "B) 15 ay",
+        "C) 18 ay",
+        "D) 24 ay",
+        "E) 36 ay"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Halka açık olmayan ortaklıklarda borçlanma aracı ihraç limiti özkaynakların kaç katıdır?",
+      "options": [
+        "A) 1 katı",
+        "B) 2 katı",
+        "C) 3 katı",
+        "D) 5 katı",
+        "E) 10 katı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye Piyasası Araçları Tebliği’ne göre Tahvil olarak tanımlanan borçlanma araçlarının vadesi en az kaç gündür?",
+      "options": [
+        "A) 30 gün",
+        "B) 91 gün",
+        "C) 180 gün",
+        "D) 364 gün",
+        "E) 365 gün"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "İhraççının talebine bağlı erken itfada, itfa tarihinden en az kaç gün önce KAP’ta duyuru yapılması zorunludur?",
+      "options": [
+        "A) 3 gün",
+        "B) 7 gün",
+        "C) 10 gün",
+        "D) 15 gün",
+        "E) 30 gün"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Bono olarak tanımlanan borçlanma araçlarının vade aralığı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 1 gün - 30 gün",
+        "B) 30 gün - 364 gün",
+        "C) 90 gün - 365 gün",
+        "D) 180 gün - 720 gün",
+        "E) 1 yıl - 5 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Paya Dönüştürülebilir Tahvillerin (PDT) paylara dönüştürülmesi vade başlangıç tarihinden itibaren en erken kaç gün sonra yapılabilir?",
+      "options": [
+        "A) 90 gün",
+        "B) 180 gün",
+        "C) 364 gün",
+        "D) 365 gün",
+        "E) 2 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İhraççı tarafından çıkarılan ve payları borsada işlem gören diğer ortaklıklara ait paylarla değiştirme hakkı veren araç hangisidir?",
+      "options": [
+        "A) Paya Dönüştürülebilir Tahvil (PDT)",
+        "B) Değiştirilebilir Tahvil (DET)",
+        "C) Kâr Zarar Ortaklığı Belgesi",
+        "D) Finansman Bonosu",
+        "E) Katılma Payı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hazine tarafından ihraç edilen ve getirileri TPAO, DMO, DHMİ gibi kuruluşların hasılat paylarına endekslenen senet hangisidir?",
+      "options": [
+        "A) Gelir Ortaklığı Senedi (GOS)",
+        "B) Gelire Endeksli Senet (GES)",
+        "C) Devlet Tahvili",
+        "D) Hazine Bonosu",
+        "E) Likidite Senedi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bir yıldan kısa vadeli Devlet İç Borçlanma Senetleri (DİBS) aşağıdakilerden hangisi olarak adlandırılır?",
+      "options": [
+        "A) Devlet Tahvili",
+        "B) Hazine Bonosu",
+        "C) Finansman Bonosu",
+        "D) Likidite Senedi",
+        "E) Gelir Ortaklığı Senedi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Likidite senetleri TCMB tarafından en fazla kaç gün vade ile ihraçilebilir?",
+      "options": [
+        "A) 30 gün",
+        "B) 45 gün",
+        "C) 60 gün",
+        "D) 91 gün",
+        "E) 180 gün"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İpoteğe Dayalı Menkul Kıymetler (İDMK) hangi fon türü veya kuruluş tarafından ihraç edilebilir?",
+      "options": [
+        "A) Varlık Finansman Fonu",
+        "B) Konut Finansmanı Fonu veya İpotek Finansmanı Kuruluşu",
+        "C) Gayrimenkul Yatırım Ortaklığı",
+        "D) Emeklilik Yatırım Fonu",
+        "E) Banka ve Aracı Kurumlar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Organize borsalarda işlem gören, standartlaştırılmış miktar ve kalitedeki bir malı ileri bir tarihte alma veya satma yükümlülüğü getiren sözleşme hangisidir?",
+      "options": [
+        "A) Forward",
+        "B) Futures",
+        "C) Opsiyon",
+        "D) Swap",
+        "E) Varant"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yatırımcıya belirli bir dayanak varlığa cari piyasa değeri üzerinden belirli bir indirimle yatırım yapma imkanı sağlayan sertifika türü hangisidir?",
+      "options": [
+        "A) Turbo Sertifika",
+        "B) Endeks Sertifikası",
+        "C) İskontolu Sertifika",
+        "D) Prim Ödeyen (Bonus) Sertifika",
+        "E) Altın Sertifikası"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İki taraf arasında faiz veya anapara ödemelerinin değişimini sağlayan mali işleme ne ad verilir?",
+      "options": [
+        "A) Forward",
+        "B) Futures",
+        "C) Swap",
+        "D) Opsiyon",
+        "E) Varant"
+      ],
+      "answer": 2
+    }
+  ]
+}
