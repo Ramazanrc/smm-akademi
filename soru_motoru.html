@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="tr">
    <head>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
    <style>
   /* MOBİL UYGULAMA (APP) GÖRÜNÜMÜ KODLARI */
   @media (max-width: 768px) {
@@ -173,6 +174,36 @@
 @keyframes konfetiDusus {
     0% { transform: translateY(0) rotate(0); opacity: 1; }
     100% { transform: translateY(500px) rotate(720deg); opacity: 0; }
+}
+/* DAHA KÜÇÜK VE ŞIK TABLO GÖRÜNÜMÜ */
+#soru-metni table {
+    width: auto; /* Tabloyu içeriği kadar daraltır */
+    min-width: 50%; /* Çok da daralıp birbirine girmesin */
+    max-width: 100%; /* Sayfadan dışarı taşmasın */
+    border-collapse: collapse;
+    margin: 15px 0;
+    background: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    font-size: 13px; /* Yazı boyutunu biraz küçülterek yer kazandık */
+}
+
+#soru-metni th, #soru-metni td {
+    border: 1px solid #e2e8f0;
+    padding: 8px 12px; /* Hücre boşluklarını daralttık */
+    text-align: left;
+}
+
+#soru-metni th {
+    background-color: #f8fafc;
+    font-weight: 700;
+    color: #0f172a;
+    border-bottom: 2px solid #f97316;
+}
+
+#soru-metni tr:nth-child(even) {
+    background-color: #f8fafc;
 }
     </style>
 </head>
@@ -375,11 +406,13 @@ let dosyaPath = (secilenDers === 'vergi') ? 'vergi_mevzuati.json' :
                 (secilenDers === 'muhasebe') ? 'muhasebe_denetimi.json' : 
                 (secilenDers === 'meslek') ? 'meslek_hukuku.json' :
                 (secilenDers === 'sermaye') ? 'sermaye_piyasasi.json' :
+                (secilenDers === 'maliyet') ? 'maliyet_muhasebesi.json' :
                 (secilenDers === 'sgs') ? 'sgs_sorulari.json' : 'ana_soru_bankasi.json';
 
 const anaDersAdi = (secilenDers === 'vergi') ? 'Vergi Hukuku' : 
                    (secilenDers === 'meslek') ? 'Meslek Hukuku' :
                    (secilenDers === 'sermaye') ? 'Sermaye Piyasası Mevzuatı' :
+                   (secilenDers === 'maliyet') ? 'maliyet_muhasebesi' :
                    (secilenDers === 'sgs') ? 'SGS Çıkmış Sorular' : 'Muhasebe Denetimi';
 
 document.getElementById('header-ders-adi').innerText = anaDersAdi;
@@ -472,7 +505,7 @@ function soruYukle() {
     document.body.classList.add('mobil-soru-acik');
     const s = aktifSorular[mevcutSoruIndex];
     document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
-    document.getElementById('soru-metni').innerHTML = s.q; 
+    document.getElementById('soru-metni').innerHTML = marked.parse(s.q); 
     document.getElementById('next-btn').disabled = true;
 
     const liste = document.getElementById('secenekler-listesi');
@@ -648,29 +681,119 @@ function menuyeDon() {
     document.getElementById('soru-alani').classList.add('hidden');
 }
 </script>
-    <div id="ai-modal-arka" class="ai-modal-overlay">
-       
+
+<div id="ai-modal-arka" class="ai-modal-overlay">
     <div class="ai-modal-kutu">
         <div class="ai-modal-baslik">
             <span style="font-size: 24px;">🤖</span>
             <h3>SMM AI Rehber Analizi</h3>
         </div>
-        <div id="ai-modal-icerik">
-            </div>
-        <div id="ai-modal-tavsiye" class="ai-tavsiye-balonu">
-            </div>
-             <div id="hata-listesi-konteynir" style="display:none; max-height: 200px; overflow-y: auto; margin-top: 15px; border-top: 1px solid #e2e8f0; padding-top: 10px;">
-    <h4 style="font-size: 14px; color: #e11d48; margin-bottom: 10px;">🔴 Hatalı Cevapların ve Doğruları:</h4>
-    <div id="hata-listesi-icerik" style="text-align: left; font-size: 12px; line-height: 1.6;"></div>
-</div>
-
-<button id="btn-hatalari-gor" onclick="hatalariListele()" class="ai-modal-buton" style="background: #e11d48; margin-bottom: 10px; display:none;">
-    🔍 Hatalarımı İncele
-</button>
+        <div id="ai-modal-icerik"></div>
+        <div id="ai-modal-tavsiye" class="ai-tavsiye-balonu"></div>
+        <div id="hata-listesi-konteynir" style="display:none; max-height: 200px; overflow-y: auto; margin-top: 15px; border-top: 1px solid #e2e8f0; padding-top: 10px;">
+            <h4 style="font-size: 14px; color: #e11d48; margin-bottom: 10px;">🔴 Hatalı Cevapların ve Doğruları:</h4>
+            <div id="hata-listesi-icerik" style="text-align: left; font-size: 12px; line-height: 1.6;"></div>
+        </div>
+        <button id="btn-hatalari-gor" onclick="hatalariListele()" class="ai-modal-buton" style="background: #e11d48; margin-bottom: 10px; display:none;">
+            🔍 Hatalarımı İncele
+        </button>
         <button onclick="document.getElementById('ai-modal-arka').style.display='none'" class="ai-modal-buton">
             Anladım, Kapat
         </button>
     </div>
 </div>
+
+<button id="btn-karalama-ac" onclick="karalamaTahtasiniAc()" style="position: fixed; bottom: 30px; right: 30px; background: #f97316; color: white; border: none; border-radius: 50px; width: 60px; height: 60px; font-size: 24px; box-shadow: 0 4px 15px rgba(249,115,22,0.4); cursor: pointer; z-index: 9000; transition: 0.3s;" title="Soru Çözme Alanı">
+    <i class="fas fa-pen-nib"></i>
+</button>
+
+<div id="karalama-tahtasi" style="display: none; position: fixed; top: 15%; left: 60%; width: 350px; background: #fff; border-radius: 12px; box-shadow: 0 15px 40px rgba(0,0,0,0.4); border: 2px solid #f97316; z-index: 9999; overflow: hidden; flex-direction: column;">
+    
+    <div id="karalama-header" style="background: #0f172a; padding: 10px 15px; color: white; display: flex; justify-content: space-between; align-items: center; cursor: move; user-select: none;">
+        <span style="font-size: 13px; font-weight: bold;"><i class="fas fa-drafting-compass"></i> Soru Çözme Alanı</span>
+        <div>
+            <button onclick="karalamaModDegistir()" id="btn-karalama-mod" style="background: transparent; color: #3b82f6; border: none; cursor: pointer; margin-right: 15px; font-size: 16px;" title="Çizim Moduna Geç"><i class="fas fa-keyboard"></i></button>
+            <button onclick="karalamaTemizle()" style="background: transparent; color: #facc15; border: none; cursor: pointer; margin-right: 15px; font-size: 16px;" title="Sayfayı Temizle"><i class="fas fa-trash-alt"></i></button>
+            <button onclick="karalamaTahtasiniKapat()" style="background: transparent; color: #ef4444; border: none; cursor: pointer; font-size: 16px;" title="Kapat"><i class="fas fa-times"></i></button>
+        </div>
+    </div>
+    
+    <div style="position: relative; width: 350px; height: 400px; background: #f8fafc;">
+        <textarea id="karalama-metin" placeholder="Hesaplamalarınızı klavye ile buraya yazabilirsiniz..." style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; padding: 15px; font-size: 15px; font-family: monospace; resize: none; outline: none; background: transparent; z-index: 2; line-height: 1.5; color: #0f172a; box-sizing: border-box;"></textarea>
+        <canvas id="karalama-canvas" width="350" height="400" style="position: absolute; top: 0; left: 0; cursor: crosshair; touch-action: none; z-index: 1; display: none;"></canvas>
+    </div>
+</div>
+
+<script>
+// --- HİBRİT KARALAMA TAHTASI MOTORU ---
+const tahta = document.getElementById("karalama-tahtasi");
+const baslik = document.getElementById("karalama-header");
+const canvas = document.getElementById("karalama-canvas");
+const metinAlani = document.getElementById("karalama-metin");
+const ctx = canvas.getContext("2d");
+
+let karalamaModu = "klavye"; // Sistem klavye moduyla başlar
+
+// 1. Açma/Kapatma/Temizleme
+function karalamaTahtasiniAc() {
+    tahta.style.display = "flex";
+    document.getElementById("btn-karalama-ac").style.display = "none";
+}
+function karalamaTahtasiniKapat() {
+    tahta.style.display = "none";
+    document.getElementById("btn-karalama-ac").style.display = "block";
+}
+function karalamaTemizle() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height); // Çizimleri siler
+    metinAlani.value = ""; // Klavye yazılarını siler
+}
+
+// 2. Mod Değiştirici (Klavye <-> Kalem)
+function karalamaModDegistir() {
+    const modBtn = document.getElementById("btn-karalama-mod");
+    if (karalamaModu === "klavye") {
+        karalamaModu = "cizim";
+        metinAlani.style.display = "none";
+        canvas.style.display = "block";
+        modBtn.innerHTML = '<i class="fas fa-pen"></i>';
+        modBtn.style.color = "#22c55e"; // Kalem ikonu yeşil olur
+        modBtn.title = "Klavye Moduna Dön";
+    } else {
+        karalamaModu = "klavye";
+        canvas.style.display = "none";
+        metinAlani.style.display = "block";
+        modBtn.innerHTML = '<i class="fas fa-keyboard"></i>';
+        modBtn.style.color = "#3b82f6"; // Klavye ikonu mavi olur
+        modBtn.title = "Çizim Moduna Geç";
+    }
+}
+
+// 3. Sürükleme Motoru
+let isDragging = false, startX, startY, initialX, initialY;
+baslik.addEventListener("mousedown", (e) => {
+    isDragging = true; startX = e.clientX; startY = e.clientY;
+    const rect = tahta.getBoundingClientRect();
+    initialX = rect.left; initialY = rect.top;
+});
+document.addEventListener("mousemove", (e) => {
+    if (!isDragging) return;
+    let dx = e.clientX - startX; let dy = e.clientY - startY;
+    tahta.style.left = (initialX + dx) + "px"; tahta.style.top = (initialY + dy) + "px";
+});
+document.addEventListener("mouseup", () => { isDragging = false; });
+
+// 4. Çizim Motoru
+let isDrawing = false;
+canvas.addEventListener("mousedown", (e) => {
+    isDrawing = true; ctx.beginPath(); ctx.moveTo(e.offsetX, e.offsetY);
+});
+canvas.addEventListener("mousemove", (e) => {
+    if (!isDrawing) return;
+    ctx.lineTo(e.offsetX, e.offsetY);
+    ctx.strokeStyle = "#0f172a"; ctx.lineWidth = 3; ctx.lineCap = "round"; ctx.stroke();
+});
+canvas.addEventListener("mouseup", () => { isDrawing = false; });
+canvas.addEventListener("mouseleave", () => { isDrawing = false; });
+</script>
 </body>
 </html>

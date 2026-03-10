@@ -1273,5 +1273,2001 @@
       ],
       "answer": 2
     }
+  ],
+  "6- Finansal Raporlama ve Bağımsız Denetim": [
+    {
+      "q": "İhraççılar, kamuya açıklanacak finansal tablo ve raporlarını hangi standartlar çerçevesinde hazırlamak zorundadır?",
+      "options": [
+        "A) Uluslararası Muhasebe Standartları (IAS)",
+        "B) Türkiye Muhasebe Standartları (TMS)",
+        "C) Vergi Usul Kanunu (VUK)",
+        "D) Amerikan Genel Kabul Görmüş Muhasebe İlkeleri (US GAAP)",
+        "E) Avrupa Birliği Finansal Raporlama Standartları"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Finansal tablo ve raporların gerçeğe uygunluğu ile doğruluğundan, ihraççı ile birlikte aşağıdakilerden hangisi sorumludur?",
+      "options": [
+        "A) Bağımsız denetim kuruluşu",
+        "B) Sermaye Piyasası Kurulu",
+        "C) İhraççının yönetim kurulu üyeleri",
+        "D) Muhasebe departmanı çalışanları",
+        "E) Şirket ortaklarının tamamı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İşletmede denetim komitesi bulunmaması halinde, finansal raporlamadan sorumlu olacak üyeyi kim belirler?",
+      "options": [
+        "A) Genel Kurul",
+        "B) Şirket CEO’su",
+        "C) Bağımsız Denetim Kuruluşu",
+        "D) İşletme Yönetim Kurulu",
+        "E) Sermaye Piyasası Kurulu"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu’nun özel bağımsız denetim raporu istemeye yetkili olduğu durumlardan biri değildir?",
+      "options": [
+        "A) Halka arz işlemleri",
+        "B) Birleşme ve bölünme işlemleri",
+        "C) Olağan genel kurul toplantıları",
+        "D) Mal varlığının önemli bir bölümünün devredilmesi",
+        "E) Borsa kotundan çıkılması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İşletmeler, finansal tablolarının hazırlanmasında hangi kurum tarafından yayımlanan TMS/TFRS’yi esas alırlar?",
+      "options": [
+        "A) Sermaye Piyasası Kurulu (SPK)",
+        "B) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu (KGK)",
+        "C) Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği (TÜRMOB)",
+        "D) Borsa İstanbul (BİST)",
+        "E) Merkez Bankası (TCMB)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki kurumlardan hangisi 3, 6 ve 9 aylık dönemler itibarıyla ara dönem finansal rapor düzenlemekle yükümlü değildir?",
+      "options": [
+        "A) Portföy yönetim şirketleri",
+        "B) İpotek finansmanı kuruluşları",
+        "C) Yatırım kuruluşları",
+        "D) Gayrimenkul değerleme kuruluşları",
+        "E) Payları borsada işlem gören işletmeler"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Konsolide finansal tablo hazırlama yükümlülüğü bulunmayan ve payları borsada işlem gören bir işletme, yıllık finansal raporlarını hesap döneminin bitiminden itibaren en geç ne kadar süre içinde bildirmelidir?",
+      "options": [
+        "A) 30 gün",
+        "B) 60 gün",
+        "C) 70 gün",
+        "D) 90 gün",
+        "E) 120 gün"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Konsolide finansal tablo hazırlama yükümlülüğü bulunan bir işletme için yıllık finansal rapor bildirim süresi ne kadardır?",
+      "options": [
+        "A) Hesap döneminin bitimini izleyen 60 gün",
+        "B) Hesap döneminin bitimini izleyen 70 gün",
+        "C) Hesap döneminin bitimini izleyen 90 gün",
+        "D) Bir sonraki yılın Mart ayı sonuna kadar",
+        "E) Genel kurul tarihinden itibaren 15 gün içinde"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Halka açık ortaklıklar, yıllık finansal raporlarını genel kurul tarihinden en az kaç hafta önce ortakların incelemesine sunmak zorundadır?",
+      "options": [
+        "A) 1 hafta",
+        "B) 2 hafta",
+        "C) 3 hafta",
+        "D) 4 hafta",
+        "E) 8 hafta"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Konsolide finansal tablo hazırlama yükümlülüğü bulunan işletmeler için ara dönem finansal rapor bildirim süresi kaç gündür?",
+      "options": [
+        "A) 30 gün",
+        "B) 40 gün",
+        "C) 45 gün",
+        "D) 60 gün",
+        "E) 70 gün"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ara dönem finansal tabloların sınırlı bağımsız denetime tabi olduğu hallerde, payları borsada işlem gören işletmelerin bildirim süresine kaç gün eklenir?",
+      "options": [
+        "A) 5 gün",
+        "B) 10 gün",
+        "C) 15 gün",
+        "D) 20 gün",
+        "E) Süre eklemesi yapılmaz."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki kurumlardan hangisi finansal raporlarını Kamuyu Aydınlatma Platformu (KAP) aracılığı ile açıklamak zorundadır?",
+      "options": [
+        "A) Varlık kiralama şirketleri",
+        "B) Gayrimenkul değerleme kuruluşları",
+        "C) Bağımsız denetim kuruluşları",
+        "D) Yatırım kuruluşları",
+        "E) Merkezi takas kuruluşları"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Finansal raporlarını KAP yerine doğrudan Kurula (SPK) bildirmekle yükümlü olan kuruluş aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Portföy yönetim şirketleri",
+        "B) Yatırım kuruluşları",
+        "C) Payları borsada işlem gören işletmeler",
+        "D) Derecelendirme kuruluşları",
+        "E) Halka açık bankalar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Bağımsız denetimden geçmiş finansal raporların bildirimi, yönetim kurulu kararının alındığı tarihi izleyen hangi süreye kadar yapılmalıdır?",
+      "options": [
+        "A) Aynı gün mesai bitimine kadar",
+        "B) İlk iş günü sonuna kadar",
+        "C) İkinci iş günü sonuna kadar",
+        "D) Bir hafta içinde",
+        "E) Sadece seans açılışından önce"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Payları borsada işlem gören işletmelerin finansal rapor bildirimlerini ne zaman yapmaları zorunludur?",
+      "options": [
+        "A) Hafta sonları",
+        "B) Seans saatleri içinde",
+        "C) Seans saatleri dışında",
+        "D) Sadece resmi tatillerde",
+        "E) İstediği her zaman"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Finansal raporlarını KAP’a bildiren işletmeler, bu raporları kendi internet sitelerinde en az kaç yıl süreyle kamuya açık tutmak zorundadır?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İşletmelerin finansal raporlardan türetilmiş özet bilgileri açıklayabilmesi için temel şart nedir?",
+      "options": [
+        "A) Sadece yerel gazetede ilan edilmesi",
+        "B) Finansal raporların usulüne uygun kamuya açıklanmış olması",
+        "C) Yönetim kurulu başkanının onayı",
+        "D) SPK’dan özel izin alınması",
+        "E) Bağımsız denetçi tarafından onaylanması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki durumlardan hangisinde bir işletme ara dönem finansal rapor düzenleme yükümlülüğünden muaf tutulur?",
+      "options": [
+        "A) Karının bir önceki yıla göre %50 azalması durumunda",
+        "B) Sermaye piyasası araçlarının işlem sırası 30 günden fazla süre ile durdurulduğunda",
+        "C) Genel müdürün istifa etmesi durumunda",
+        "D) Yıllık izin dönemlerinde",
+        "E) Şirket isminin değiştirilmesi durumunda"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Borsa İstanbul düzenlemeleri kapsamında, payları Gelişen İşletmeler Pazarı’nda işlem gören işletmeler hangi dönem raporlarından muaftır?",
+      "options": [
+        "A) Yıllık raporlar",
+        "B) 6 aylık ara dönem raporları",
+        "C) 3 ve 9 aylık ara dönem raporları",
+        "D) Sadece bağımsız denetim raporları",
+        "E) Sorumluluk beyanları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası araçları bir borsada işlem görmeyen yatırım kuruluşları hangi raporu düzenleme yükümlülüğünden muaftır?",
+      "options": [
+        "A) Yıllık finansal tablolar",
+        "B) Ara dönem faaliyet raporu",
+        "C) Bağımsız denetim raporu",
+        "D) Sorumluluk beyanı",
+        "E) Nakit akış tablosu"
+      ],
+      "answer": 1
+    }
+  ],
+  "7- Özel Durumlar Tebliği (II-15.1)": [
+    {
+      "q": "Özel Durumlar Tebliği’ne göre, sermaye piyasası araçlarının değerini veya yatırımcıların kararlarını etkileyebilecek henüz kamuya açıklanmamış bilgi, olay ve gelişmeler ne olarak tanımlanır?",
+      "options": [
+        "A) Sürekli bilgi",
+        "B) Olağan bilgi",
+        "C) İçsel bilgi",
+        "D) Kamusal bilgi",
+        "E) İdari bilgi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraççının doğrudan veya dolaylı toplam oy haklarında veya sermayesinde ne kadarlık bir paya sahip olan kişilerin içsel bilgiyi öğrenmesi durumunda açıklama yapma yükümlülüğü doğar?",
+      "options": [
+        "A) %1",
+        "B) %5",
+        "C) %10",
+        "D) %20",
+        "E) %25"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Basın-yayın organlarında çıkan haber veya söylentilerin doğrulanmasına ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Şirket kaynaklı olup olmadığına bakılmaksızın açıklama yapılmalıdır.",
+        "B) Sadece Kurul veya Borsa talep ederse açıklama yapılır.",
+        "C) Haberin daha önce açıklanandan farklı bir içerikte olması durumunda açıklama zorunludur.",
+        "D) Haberin doğru veya yeterli olup olmadığı belirtilmelidir.",
+        "E) Kamuya açıklanmış bilgilere dayanan analiz ve yorumlar bu kapsam dışındadır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Geleceğe yönelik değerlendirmelerin kamuya açıklanmasıyla ilgili hangisi doğrudur?",
+      "options": [
+        "A) Kamuya açıklanması zorunludur.",
+        "B) Yılda en fazla 6 defa açıklama yapılabilir.",
+        "C) Sadece genel müdürün sözlü onayı ile açıklanabilir.",
+        "D) Yönetim kurulu kararı veya yetki verilen kişinin yazılı onayı gerekir.",
+        "E) Gerçekleşmeler ile farklılık oluşursa açıklama yapılmasına gerek yoktur."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Daha önce özel durum açıklaması yapılmış ancak henüz sonuçlanmamış bir hususta gelişme olmasa dahi, kaç günde bir güncelleme açıklaması yapılmalıdır?",
+      "options": [
+        "A) 15 gün",
+        "B) 30 gün",
+        "C) 45 gün",
+        "D) 60 gün",
+        "E) 90 gün"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İçsel bilgilere erişimi olanlar listesini saklamak ve talep üzerine Kurula veya Borsaya göndermekle yükümlü kurum hangisidir?",
+      "options": [
+        "A) Sermaye Piyasası Kurulu (SPK)",
+        "B) Borsa İstanbul (BİST)",
+        "C) Merkezi Kayıt Kuruluşu (MKK)",
+        "D) Takasbank",
+        "E) Türkiye Değerleme Uzmanları Birliği"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraççı, içsel bilgilerin kamuya açıklanmasını hangi şartla erteleyebilir?",
+      "options": [
+        "A) Sadece kar oranlarını artırmak için.",
+        "B) Yatırımcıların yanıltılmasına yol açmaması ve bilgilerin gizli tutulabilmesi kaydıyla.",
+        "C) Borsada işlem hacmi düşükse.",
+        "D) Kuruldan izin almadan hiçbir şekilde ertelenemez.",
+        "E) Sadece idari sorumluluğu olan kişiler talep ederse."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İçsel bilgilere erişimi olanlar listesinde bir değişiklik olduğunda MKK’ya yapılacak güncelleme süresi ne kadardır?",
+      "options": [
+        "A) Aynı gün",
+        "B) En geç iki iş günü içinde",
+        "C) En geç beş iş günü içinde",
+        "D) Bir hafta içinde",
+        "E) On beş gün içinde"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Tebliğe göre aşağıdakilerden hangisi doğrudan içsel bilgilere erişimi olan kişi olarak kabul edilir?",
+      "options": [
+        "A) İdari sorumluluğu bulunan kişiler",
+        "B) %1 pay sahibi olan ortaklar",
+        "C) Şirketin tüm müşterileri",
+        "D) Rakip şirket çalışanları",
+        "E) Şirketin tüm tedarikçileri"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Olağan dışı fiyat ve miktar hareketleri gerçekleştiğinde ihraççılar ne zaman açıklama yapmak zorundadır?",
+      "options": [
+        "A) Her ay sonunda",
+        "B) Sadece yıl sonunda",
+        "C) İlgili borsanın talebi üzerine",
+        "D) Hiçbir durumda açıklama yapmazlar",
+        "E) Sadece fiyatlar düştüğünde"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İdari sorumluluğu bulunan kişiler ve ana ortakların işlemleri, 2025 yılı için belirlenen hangi toplam tutarı aşmadıkça açıklanmaz?",
+      "options": [
+        "A) 10.000.000 TL",
+        "B) 50.000.000 TL",
+        "C) 75.000.000 TL",
+        "D) 100.000.000 TL",
+        "E) 112.000.000 TL"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Payları borsada işlem gören ihraççıların sermayesinde doğrudan % kaç veya daha fazla paya sahip olanları gösteren tablo MKK tarafından güncellenir?",
+      "options": [
+        "A) %1",
+        "B) %5",
+        "C) %15",
+        "D) %20",
+        "E) %50"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kamuyu Aydınlatma Platformu’nda (KAP) yer alan genel bilgilerde bir değişiklik olduğunda güncelleme süresi ne kadardır?",
+      "options": [
+        "A) Derhal",
+        "B) En geç iki iş günü içinde",
+        "C) En geç beş iş günü içinde",
+        "D) On iş günü içinde",
+        "E) Bir ay içinde"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İçsel bilgiye konu olan bir olayın kamuya açıklanması ertelenmiş ancak olay gerçekleşmemişse ne yapılır?",
+      "options": [
+        "A) Yine de açıklama yapılır.",
+        "B) Açıklama yapılmayabilir.",
+        "C) Ceza ödenir.",
+        "D) Sadece Kurula gizli yazı yazılır.",
+        "E) Sadece pay sahiplerine duyurulur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Payları borsada işlem gören ihraççılar, özel durum açıklamalarını internet sitelerinde kaç yıl süreyle bulundurmak zorundadır?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası araçları borsada işlem GÖRMEYEN ihraççılar, özel durum açıklamalarını internet sitelerinde en geç ne zaman ilan etmelidir?",
+      "options": [
+        "A) Aynı gün",
+        "B) Kamuya açıklandıktan sonraki iş günü",
+        "C) Kamuya açıklandıktan sonraki beş iş günü içinde",
+        "D) On beş gün içinde",
+        "E) Bir ay içinde"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İçsel bilgi tanımı dışında kalan tüm bilgi, olay ve gelişmeler hangi kapsamdadır?",
+      "options": [
+        "A) Gizli bilgi",
+        "B) İdari bilgi",
+        "C) Sürekli bilgi",
+        "D) Geçici bilgi",
+        "E) Özel bilgi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraççılar yaptıkları özel durum açıklamalarını hangi amaçla kullanamazlar?",
+      "options": [
+        "A) Yatırımcıyı bilgilendirme",
+        "B) Şeffaflık sağlama",
+        "C) Pazarlama ve reklam amacıyla",
+        "D) Mevzuata uyum",
+        "E) Belirsizlikleri giderme"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Henüz kesinleşmemiş ve belirsiz olan özel durumlar açıklanırken aşağıdakilerden hangisinin belirtilmesi zorunludur?",
+      "options": [
+        "A) Belirsizliğin hiç çözülmeyeceği",
+        "B) Belirsizliklerin çözümü için öngörülen tarih ve koşullar",
+        "C) Sadece yönetim kurulu üyelerinin isimleri",
+        "D) Şirketin toplam borç miktarı",
+        "E) Hiçbir ek bilgiye gerek yoktur"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Geleceğe yönelik değerlendirmeler bir yılda en fazla kaç defa kamuya açıklanabilir?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 4",
+        "D) 6",
+        "E) 12"
+      ],
+      "answer": 2
+    }
+  ],
+  "8- Halka Açık Anonim Ortaklıklar": [
+    {
+      "q": "Payları borsada işlem görmeyen bir anonim ortaklığın, pay sahibi sayısının en az kaçı aşması durumunda payları halka arz olunmuş sayılır?",
+      "options": [
+        "A) 100",
+        "B) 250",
+        "C) 300",
+        "D) 500",
+        "E) 1.000"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Payları borsada işlem görmeyen anonim ortaklıklar, halka açık ortaklık statüsünü kazandıktan sonra en geç ne kadar süre içinde borsaya başvurmak zorundadırlar?",
+      "options": [
+        "A) 6 ay",
+        "B) 1 yıl",
+        "C) 2 yıl",
+        "D) 3 yıl",
+        "E) 5 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pay sahibi sayısı en az beş yüz olan kooperatif birliklerinin payların çoğunluğuna sahip olduğu ortaklıklarda halka açık sayılma şartı için aranan yıllık satış hasılatı en az ne kadardır?",
+      "options": [
+        "A) 10 milyon TL",
+        "B) 25 milyon TL",
+        "C) 50 milyon TL",
+        "D) 75 milyon TL",
+        "E) 100 milyon TL"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Halka açık ortaklık statüsünden genel kurul kararı ile çıkmak isteyen bir ortaklıkta, bu karar için toplantıda aranan asgari olumlu oy oranı nedir?",
+      "options": [
+        "A) Katılanların salt çoğunluğu",
+        "B) Toplam oyların yarısı",
+        "C) Pay sahibi tam sayısının en az 1/2’sinin olumlu oyu",
+        "D) Pay sahibi tam sayısının en az 2/3’ü veya toplam oyların 3/4’ü",
+        "E) Oy hakkını haiz payların %95’i"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kanun kapsamından çıkma kararı için yapılacak genel kurul toplantısı, Kurul kararının tebliğinden itibaren en geç ne kadar sürede yapılmalıdır?",
+      "options": [
+        "A) 15 gün",
+        "B) 1 ay",
+        "C) 2 ay",
+        "D) 3 ay",
+        "E) 6 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ayrılma hakkı kullanım fiyatının belirlenmesinde esas alınan değerleme raporu, Kurula başvuru tarihinden en fazla kaç ay öncesine ait finansal tabloları esas alabilir?",
+      "options": [
+        "A) 3 ay",
+        "B) 6 ay",
+        "C) 9 ay",
+        "D) 12 ay",
+        "E) 24 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ortaklık yapısı nedeniyle kanun kapsamından çıkmak isteyen bir ortaklığın sermayesinin ne kadardan fazlasının en fazla 50 pay sahibine ait olması gerekir?",
+      "options": [
+        "A) %50",
+        "B) %75",
+        "C) %90",
+        "D) %95",
+        "E) %99"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Pay sahibi sayısının 500’ün altında olduğunu bilirkişi raporu ile tespit ettiren ortaklıklar için, hazır bulunanlar listesinin başvuru tarihinden en geç ne kadar süre önce düzenlenmiş olması şarttır?",
+      "options": [
+        "A) 3 ay",
+        "B) 6 ay",
+        "C) 1 yıl",
+        "D) 2 yıl",
+        "E) Öyle bir süre şartı yoktur"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Finansal tablo kalemlerinin küçüklüğü nedeniyle halka açık statüsünden çıkmak isteyen bir ortaklığın aktif toplamı kaç Türk Lirasından az olmalıdır?",
+      "options": [
+        "A) 5 milyon TL",
+        "B) 10 milyon TL",
+        "C) 15 milyon TL",
+        "D) 20 milyon TL",
+        "E) 50 milyon TL"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kayıtlı sermaye sistemine geçecek ortaklıkların başlangıç sermayeleri en az kaç TL olmalıdır?",
+      "options": [
+        "A) 50.000 TL",
+        "B) 100.000 TL",
+        "C) 250.000 TL",
+        "D) 500.000 TL",
+        "E) 1.000.000 TL"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kurulca izin verilen kayıtlı sermaye tavanı, iznin verildiği yıl da dâhil olmak üzere kaç yıl için geçerlidir?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kayıtlı sermaye tavanı, ortaklığın çıkarılmış sermayesi veya özsermayesinden yüksek olanın en fazla kaç katını aşamaz?",
+      "options": [
+        "A) 2 katı",
+        "B) 3 katı",
+        "C) 5 katı",
+        "D) 10 katı",
+        "E) 15 katı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yönetim kurulunun kayıtlı sermaye tavanı içindeki sermaye artırımı kararlarına karşı, tescil tarihinden itibaren kaç gün içinde iptal davası açılabilir?",
+      "options": [
+        "A) 7 gün",
+        "B) 15 gün",
+        "C) 30 gün",
+        "D) 60 ay",
+        "E) 90 gün"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Halka açık ortaklıkların kâr payı ödeme işlemleri en geç ne zamana kadar başlatılmalıdır?",
+      "options": [
+        "A) Genel kuruldan sonraki 1 ay içinde",
+        "B) Genel kuruldan sonraki 3 ay içinde",
+        "C) Karar verilen genel kurulun yapıldığı hesap dönemi sonu itibarıyla",
+        "D) Bir sonraki yılın mart ayı sonuna kadar",
+        "E) Ortaklığın belirleyeceği herhangi bir tarihte"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Payları borsada işlem görmeyen ortaklıklar için kâr payı dağıtım oranı, bağışlar eklenmiş net dağıtılabilir dönem kârının yüzde kaçından az olamaz?",
+      "options": [
+        "A) %5",
+        "B) %10",
+        "C) %15",
+        "D) %20",
+        "E) %25"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Tahsil edilmeyen kâr payı bedelleri, dağıtım tarihinden itibaren kaç yılda zaman aşımına uğrar?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 5 yıl",
+        "D) 10 yıl",
+        "E) 20 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kâr payı avansı dağıtımı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Payları borsada işlem gören ortaklıklar dağıtabilir.",
+        "B) Belirli bir ara döneme ilişkin avans taksitle dağıtılamaz.",
+        "C) Pay sahibi dışındaki kişilere kâr payı avansı dağıtılamaz.",
+        "D) İmtiyazlı paylara, imtiyazları oranında öncelikli ödenir.",
+        "E) Esas sözleşmede hüküm bulunması şarttır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Dağıtılacak kâr payı avansı tutarı, ilgili ara dönem net kârından kanuni yedekler ve geçmiş yıl zararları düşüldükten sonra kalan kısmın ne kadarını geçemez?",
+      "options": [
+        "A) %20’sini",
+        "B) %25’ini",
+        "C) Yarısını (%50)",
+        "D) %75’ini",
+        "E) Tamamını"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Halka açık ortaklıklar, örtülü kazanç aktarımı kapsamında ilişkili taraf işlemlerine dair belgeleri en az kaç yıl süre ile saklamak zorundadırlar?",
+      "options": [
+        "A) 2 yıl",
+        "B) 5 yıl",
+        "C) 8 yıl",
+        "D) 10 yıl",
+        "E) 15 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Halka açık ortaklıkların önemli nitelikteki işlemlerinde, genel kurulda sermayeyi temsil eden payların en az yarısının hazır bulunması halinde karar nisabı nedir?",
+      "options": [
+        "A) Hazır bulunanların 2/3’ü",
+        "B) Hazır bulunanların çoğunluğu",
+        "C) Toplam payların 3/4’ü",
+        "D) Toplam pay sahiplerinin yarısı",
+        "E) Oy birliği"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ayrılma hakkının kullanım süresi ne kadar olmalıdır?",
+      "options": [
+        "A) 5 iş gününden az olamaz",
+        "B) En fazla 6 iş günü",
+        "C) 10 iş gününden az, 20 iş gününden fazla olamaz",
+        "D) 30 gün",
+        "E) 2 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ayrılma hakkı kullandırılması genel kurul tarihinden itibaren en çok kaç iş günü içinde başlar?",
+      "options": [
+        "A) 3 iş günü",
+        "B) 5 iş günü",
+        "C) 6 iş günü",
+        "D) 10 iş günü",
+        "E) 15 iş günü"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Üst üste kaç yıl dönem zararı eden halka açık ortaklıklarda (kamu kurumları hariç), yönetim kurulunda temsil edilme imtiyazları Kurul kararı ile kalkar?",
+      "options": [
+        "A) 2 yıl",
+        "B) 3 yıl",
+        "C) 4 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Halka açık ortaklıklarda genel kurul çağrısı, ilan ve toplantı günleri hariç olmak üzere toplantı tarihinden en az kaç hafta önce yapılmalıdır?",
+      "options": [
+        "A) 1 hafta",
+        "B) 2 hafta",
+        "C) 3 hafta",
+        "D) 4 hafta",
+        "E) 8 hafta"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Önemli nitelikteki işlemlere ilişkin kararların genel kurulca kabulü için (esas sözleşmede ağırlaştırılmış nisap yoksa ve sermayenin yarısı hazır değilse) toplantı yeter sayısı aranmaksızın aranan olumlu oy oranı nedir?",
+      "options": [
+        "A) Katılanların salt çoğunluğu",
+        "B) Katılan oy hakkını haiz payların 2/3’ü",
+        "C) Katılan oy hakkını haiz payların 3/4’ü",
+        "D) Toplam sermayenin yarısı",
+        "E) Pay sahibi sayısının çoğunluğu"
+      ],
+      "answer": 1
+    }
+  ],
+  "9- Sermaye Piyasalarında Denetim ve Tedbirler": [
+    {
+      "q": "Sermaye Piyasası Kanunu uyarınca, her türlü sermaye piyasası faaliyet ve işlemlerinin denetimine aşağıdakilerden hangisi yetkilidir?",
+      "options": [
+        "A) Borsa İstanbul Yönetim Kurulu",
+        "B) Sermaye Piyasası Kurulu Başkanı tarafından görevlendirilen meslek personeli",
+        "C) Hazine ve Maliye Bakanlığı Müfettişleri",
+        "D) Türkiye Sermaye Piyasaları Birliği Denetçileri",
+        "E) Sayıştay Denetçileri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Denetimle görevlendirilen personelin yetkileriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Vergi ile ilgili kayıtlar dâhil tüm defterleri inceleyebilirler.",
+        "B) Bilgi sistemlerine erişimin sağlanmasını isteyebilirler.",
+        "C) İlgililerden yazılı ve sözlü bilgi alabilirler.",
+        "D) Sadece kamu kurumlarına ait belgeleri inceleyebilirler.",
+        "E) Gerekli tutanakları düzenlemeye yetkilidirler."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kurul Başkanının talebi üzerine gerekli yerlerde arama yapılabilmesi için aşağıdakilerden hangisinin kararı gereklidir?",
+      "options": [
+        "A) Asliye Ticaret Mahkemesi Hâkimi",
+        "B) Bölge Adliye Mahkemesi Başkanı",
+        "C) Sulh Ceza Hâkimi",
+        "D) Cumhuriyet Savcısı",
+        "E) Danıştay Başkanı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Denetim faaliyeti kapsamında kendisinden bilgi istenen kişilerle ilgili gizlilik kuralı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Özel kanunlardaki sır saklama hükümlerini ileri sürerek bilgi vermekten imtina edebilirler.",
+        "B) Sadece ticari sır niteliğindeki bilgileri vermeyebilirler.",
+        "C) Özel kanunlardaki gizlilik hükümlerini ileri sürerek bilgi vermekten imtina edemezler.",
+        "D) Bilgileri sadece yazılı olarak vermek zorundadırlar.",
+        "E) Kamu kurumları bu kapsamda bilgi vermekle yükümlü değildir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurul tarafından alınan tedbirlerin genel anlayışı öncelikle aşağıdakilerden hangisine yöneliktir?",
+      "options": [
+        "A) İlgili kurumlara ağır para cezaları uygulamak",
+        "B) Şirket yönetimini doğrudan devralmak",
+        "C) Hukuka aykırılığı basit usullerle eski haline getirmek ve hak kayıplarını telafi etmek",
+        "D) Şirketlerin faaliyetlerini süresiz olarak durdurmak",
+        "E) Şirketin iflasını derhal istemek"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kanuna aykırı sermaye piyasası aracı ihraç edildiğinin tespiti halinde Kurul, nakit ve varlıkların iadesi için tespit tarihinden itibaren kaç gün içinde ihbarda bulunur?",
+      "options": [
+        "A) 15 gün",
+        "B) 30 gün",
+        "C) 60 gün",
+        "D) 3 ay",
+        "E) 1 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kanuna aykırı ihraçta muhatap, ihbar tarihinden itibaren en geç kaç gün içinde para topladığı kişilere ilişkin bilgileri ilan etmek zorundadır?",
+      "options": [
+        "A) 15 gün",
+        "B) 30 gün",
+        "C) 45 gün",
+        "D) 60 gün",
+        "E) 90 gün"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kanuna aykırı ihraçta yapılan ilanı takip eden kaç ay içinde, kendisinden para toplanan kişiler asliye hukuk mahkemesine itiraz edebilir?",
+      "options": [
+        "A) 1 ay",
+        "B) 2 ay",
+        "C) 3 ay",
+        "D) 6 ay",
+        "E) 12 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurulca yapılan ihbar tarihinden itibaren kaç yıl içinde kanuna aykırı ihracın sonuçları ortadan kaldırılmazsa Kurul tasfiye davası açabilir?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Halka açık bankaların hukuka aykırı işlemleri hakkında Kurul tarafından işlem tesis edilmeden önce hangi kurumun görüşü alınır?",
+      "options": [
+        "A) Türkiye Cumhuriyet Merkez Bankası",
+        "B) Bankacılık Düzenleme ve Denetleme Kurumu",
+        "C) Türkiye Bankalar Birliği",
+        "D) Hazine ve Maliye Bakanlığı",
+        "E) Mevduat Sigorta Fonu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurul, sermayeyi veya mal varlığını azaltıcı işlemlerin tespiti halinde, hukuka aykırılığın tespiti tarihinden itibaren kaç ay içinde iptal davası açabilir?",
+      "options": [
+        "A) 1 ay",
+        "B) 3 ay",
+        "C) 6 ay",
+        "D) 12 ay",
+        "E) 24 ay"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hukuka aykırı bir işlemin vukuu tarihinden itibaren en geç kaç yıl içinde iptal davası açılması gerekir?",
+      "options": [
+        "A) 1 yıl",
+        "B) 3 yıl",
+        "C) 5 yıl",
+        "D) 10 yıl",
+        "E) 20 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurul, hukuka aykırı işlemler nedeniyle sorumluluğu bulunanların imza yetkilerini hangi aşamada kaldırabilir?",
+      "options": [
+        "A) İlk inceleme başladığında",
+        "B) Sadece suç duyurusunda bulunulduğunda",
+        "C) İlk derece mahkeme kararı ile tespit edildiğinde veya bu karar beklenmeksizin mahkeme kararıyla",
+        "D) Genel kurul kararı alındığında",
+        "E) Şirketin mali durumu bozulduğunda"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Örtülü kazanç aktarımı yasağına aykırı işlemlerde, Kurulun yetkileri arasında aşağıdakilerden hangisi yer alır?",
+      "options": [
+        "A) Şirketin tüm banka hesaplarına el koymak",
+        "B) Denetleme sonuçlarının ortaklara duyurulmasını istemek",
+        "C) Şirket genel müdürünü doğrudan hapse atmak",
+        "D) Şirketin paylarını borsadan süresiz çıkarmak",
+        "E) Şirketin tüm mal varlığını tasfiye etmek"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kayıtlı sermaye sisteminde yönetim kurulu kararları aleyhine, kararın ilanından itibaren kaç gün içinde iptal davası açılabilir?",
+      "options": [
+        "A) 15 gün",
+        "B) 30 gün",
+        "C) 45 gün",
+        "D) 60 gün",
+        "E) 90 gün"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası kurumlarının iflası durumunda Kurul, aşağıdakilerden hangisinin şahsen iflasını isteyemez?",
+      "options": [
+        "A) Yüzde onundan fazla paya sahip ortakların",
+        "B) Yönetim kurulu üyelerinin",
+        "C) İmzaya yetkili yöneticilerin",
+        "D) Tüm küçük ortakların",
+        "E) Portföy yönetim şirketi yöneticilerinin"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İzinsiz sermaye piyasası faaliyetlerinin durdurulması için Kurul, tespit tarihinden itibaren kaç yıl içinde dava açmaya yetkilidir?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "İzinsiz sermaye piyasası faaliyetlerinin internet üzerinden yürütülmesi ve içerik sağlayıcının yurt içinde olması durumunda erişimin engellenmesine kim karar verir?",
+      "options": [
+        "A) Bilgi Teknolojileri ve İletişim Kurumu",
+        "B) Sermaye Piyasası Kurulu Başkanı",
+        "C) Kurulun başvurusu üzerine mahkemeler",
+        "D) Emniyet Genel Müdürlüğü Siber Suçlar Birimi",
+        "E) Borsa İstanbul"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İzinsiz faaliyetin içerik sağlayıcısının yurt dışında olması durumunda erişimi hangi kurum engeller?",
+      "options": [
+        "A) Dışişleri Bakanlığı",
+        "B) Mahkemeler",
+        "C) Bilgi Teknolojileri ve İletişim Kurumu",
+        "D) Sermaye Piyasası Kurulu",
+        "E) İnterpol"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bilgi suistimali ve piyasa dolandırıcılığı incelemelerinde Kurulun alabileceği tedbirler arasında aşağıdakilerden hangisi yoktur?",
+      "options": [
+        "A) Borsalarda işlem yapılmasının yasaklanması",
+        "B) Takas yöntemlerinin değiştirilmesi",
+        "C) Teminat yükümlülüğü getirilmesi",
+        "D) Şirketin tüm mal varlığına el konularak devlete aktarılması",
+        "E) İşlem veya pozisyon limiti getirilmesi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Yatırım kuruluşları, bilgi suistimali suçuna ilişkin bir şüpheyi kime bildirmekle yükümlüdür?",
+      "options": [
+        "A) Cumhuriyet Savcılığına",
+        "B) Sermaye Piyasası Kuruluna",
+        "C) Borsa İstanbul’a",
+        "D) Mali Suçları Araştırma Kuruluna",
+        "E) Türkiye Sermaye Piyasaları Birliğine"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kanuna aykırı ilan ve reklamlar nedeniyle, gecikmesinde sakınca bulunan hallerde işyerlerini geçici olarak kapatmaya kim yetkilidir?",
+      "options": [
+        "A) Kurulun talebi üzerine ilgili yer en büyük mülki amiri",
+        "B) Belediye Zabıtası",
+        "C) Sermaye Piyasası Kurulu Uzmanı",
+        "D) Ticaret Bakanlığı Müfettişi",
+        "E) Vergi Dairesi Müdürü"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Mali durumu bozulan aracı kurumların yapısını güçlendirmesi için Kurul tarafından en fazla ne kadar süre verilebilir?",
+      "options": [
+        "A) 1 ay",
+        "B) 3 ay",
+        "C) 6 ay",
+        "D) 1 yıl",
+        "E) 2 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurul, mali durumu bozulan bir aracı kurum hakkında aşağıdakilerden hangisini yapmaya yetkili değildir?",
+      "options": [
+        "A) Faaliyetlerini geçici olarak durdurmaya",
+        "B) Yetki belgelerini iptal etmeye",
+        "C) Yatırımcıları tazmin kararı vermeye",
+        "D) Kurumun tüm borçlarını devlet bütçesinden ödemeye",
+        "E) Tedrici tasfiyesine karar vermeye"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aracı kurum yöneticilerinin mali durumun bozulmasındaki sorumluluğu nedeniyle Kurul aşağıdakilerden hangisini yapabilir?",
+      "options": [
+        "A) Sahip oldukları lisansları sürekli olarak iptal edebilir.",
+        "B) Sadece uyarı cezası verebilir.",
+        "C) Şahsi mal varlıklarına doğrudan mahkeme kararsız el koyabilir.",
+        "D) Yöneticileri ömür boyu hapisle cezalandırabilir.",
+        "E) Sadece kınama cezası verebilir."
+      ],
+      "answer": 0
+    }
+  ],
+  "10- Sermaye Piyasası Suçları": [
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanunu uyarınca, tanımlanan sermaye piyasası suçlarından dolayı soruşturma yapılabilmesi için temel şart aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Mağdurun şikayette bulunması",
+        "B) Cumhuriyet Savcısının resen harekete geçmesi",
+        "C) Kurulun Cumhuriyet Başsavcılığına yazılı başvuruda bulunması",
+        "D) Borsa İstanbul Yönetim Kurulunun kararı",
+        "E) Hazine ve Maliye Bakanlığının onayı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası araçlarının fiyatlarını veya yatırımcıların kararlarını etkileyebilecek henüz kamuya duyurulmamış bilgilere dayalı olarak işlem yaparak menfaat temin edilmesi suçu aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Piyasa dolandırıcılığı",
+        "B) Bilgi suistimali",
+        "C) Güveni kötüye kullanma",
+        "D) Sır saklama yükümlülüğünün ihlali",
+        "E) Usulsüz halka arz"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bilgi suistimali suçu için öngörülen hapis cezası alt ve üst sınırı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 1 yıldan 3 yıla kadar",
+        "B) 2 yıldan 5 yıla kadar",
+        "C) 3 yıldan 5 yıla kadar",
+        "D) 5 yıldan 10 yıla kadar",
+        "E) 2 yıldan 10 yıla kadar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bilgi suistimali suçundan dolayı adli para cezasına hükmedilmesi halinde, verilecek ceza miktarı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Menfaatin üç katından az olamaz.",
+        "B) Elde edilen menfaatin iki katından az olamaz.",
+        "C) 100.000 TL’den az olamaz.",
+        "D) Menfaat miktarının yarısı kadar olur.",
+        "E) Menfaat miktarının beş katı olur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası araçlarının fiyatlarına ilişkin yanıltıcı izlenim uyandırmak amacıyla alım-satım yapan, emir veren veya hesap hareketi gerçekleştiren kişilerin işlediği suç türü nedir?",
+      "options": [
+        "A) Bilgiye dayalı piyasa dolandırıcılığı",
+        "B) İşleme dayalı piyasa dolandırıcılığı",
+        "C) Güveni kötüye kullanma",
+        "D) Yetkisiz sermaye piyasası faaliyeti",
+        "E) Örtülü kazanç aktarımı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İşleme dayalı piyasa dolandırıcılığı suçunda verilecek adli para cezası miktarı ile ilgili alt sınır kuralı nedir?",
+      "options": [
+        "A) Suçun işlenmesi ile elde edilen menfaatten az olamaz.",
+        "B) Menfaatin iki katından az olamaz.",
+        "C) Menfaatin üç katından az olamaz.",
+        "D) Her durumda 50.000 TL’dir.",
+        "E) Şirketin sermayesi kadar olur."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Piyasa dolandırıcılığı suçunda etkin pişmanlık kapsamında, soruşturma başlamadan önce elde edilen menfaatin kaç katının Hazineye ödenmesi halinde cezaya hükmolunmaz?",
+      "options": [
+        "A) 1 katı",
+        "B) 2 katı",
+        "C) 3 katı",
+        "D) 4 katı",
+        "E) 5 katı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Soruşturma başladıktan sonra ancak hüküm verilmeden önce piyasa dolandırıcılığı suçundan elde edilen menfaatin iki katının Hazineye ödenmesi durumunda cezada yapılacak indirim oranı nedir?",
+      "options": [
+        "A) Yarı oranında indirilir.",
+        "B) Üçte biri oranında indirilir.",
+        "C) Dörtte biri oranında indirilir.",
+        "D) Ceza tamamen kaldırılır.",
+        "E) Beşte bir oranında indirilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Bilgi Suistimali ve Piyasa Dolandırıcılığı Sayılmayan Haller arasında yer alır?",
+      "options": [
+        "A) Şirket CEO’sunun kişisel yatırımları",
+        "B) TCMB’nin finansal istikrarı sağlamak amacıyla yaptığı işlemler",
+        "C) Aracı kurumun komisyon artırma çabaları",
+        "D) Gizli bilgilerin medya ile paylaşılması",
+        "E) Şirketlerin bedelsiz sermaye artırımları"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Onaylı izahname yayımlama yükümlülüğünü yerine getirmeksizin sermaye piyasası araçlarını halka arz edenler için öngörülen hapis cezası nedir?",
+      "options": [
+        "A) 1 yıldan 3 yıla kadar",
+        "B) 2 yıldan 5 yıla kadar",
+        "C) 3 yıldan 5 yıla kadar",
+        "D) 6 aydan 2 yıla kadar",
+        "E) 5 yıldan 10 yıla kadar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İzinsiz kripto varlık hizmet sağlayıcılığı faaliyeti yürütenler hakkında uygulanacak yaptırım aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 3 yıldan 5 yıla kadar hapis ve adli para cezası",
+        "B) 2 yıldan 5 yıla kadar hapis ve adli para cezası",
+        "C) C) Sadece idari para cezası",
+        "D) Şirketin tüm mal varlığına el konulması",
+        "E) 1 yıldan 3 yıla kadar hapis"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası faaliyetleri sebebiyle emanet edilen nakit veya kıymetleri kendisinin veya başkasının menfaatine kullanan kişilerin eylemi hangi suç kapsamında cezalandırılır?",
+      "options": [
+        "A) Piyasa dolandırıcılığı",
+        "B) Bilgi suistimali",
+        "C) Güveni kötüye kullanma",
+        "D) Zimmet",
+        "E) Sahtecilik"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aktif bir hareketle, emsallerine göre bariz şekilde farklı fiyatlarla işlem yaparak halka açık ortaklığın kârını azaltmak hangi suçun nitelikli halidir?",
+      "options": [
+        "A) Piyasa dolandırıcılığı",
+        "B) B) Bilgi suistimali",
+        "C) Güveni kötüye kullanma",
+        "D) Sır saklama ihlali",
+        "E) Usulsüz halka arz"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yatırım kuruluşu bünyesinde tutulan kayıtları bozan, yok eden veya değiştiren kişilere verilecek ceza nedir?",
+      "options": [
+        "A) 1 yıldan 3 yıla kadar hapis",
+        "B) 2 yıldan 5 yıla kadar hapis ve adli para cezası",
+        "C) 3 yıldan 5 yıla kadar hapis",
+        "D) 6 aydan 2 yıla kadar hapis",
+        "E) Sadece 50.000 TL adli para cezası"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kripto varlık hizmet sağlayıcılarda zimmet suçunun hileli davranışlarla işlenmesi halinde ceza üst sınırı nedir?",
+      "options": [
+        "A) 10 yıl",
+        "B) 14 yıl",
+        "C) 20 yıl",
+        "D) 22 yıl",
+        "E) 25 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kasden, kanunen tutmakla yükümlü olduğu defterleri usulüne uygun tutmayan veya saklamayan kişilere ne ceza verilir?",
+      "options": [
+        "A) 1 yıldan 3 yıla kadar hapis",
+        "B) 6 aydan 2 yıla kadar hapis ve adli para cezası",
+        "C) 2 yıldan 5 yıla kadar hapis",
+        "D) Sadece idari para cezası",
+        "E) 3 yıldan 5 yıla kadar hapis"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurul tarafından görevlendirilen denetçilerin görevini yapmasını engelleyen kişilere verilecek hapis cezası nedir?",
+      "options": [
+        "A) 1 yıldan 3 yıla kadar",
+        "B) 6 aydan 2 yıla kadar",
+        "C) 2 yıldan 5 yıla kadar",
+        "D) 3 yıldan 5 yıla kadar",
+        "E) 1 aydan 6 aya kadar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Denetim kapsamında istenen bilgi ve belgeleri hiç vermeyen veya istenen şekilde vermeyenler için öngörülen ceza nedir?",
+      "options": [
+        "A) 1 yıldan 3 yıla kadar hapis",
+        "B) 2 yıldan 5 yıla kadar hapis",
+        "C) 6 aydan 2 yıla kadar hapis",
+        "D) Sadece adli para cezası",
+        "E) 5 yıldan 10 yıla kadar hapis"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kurul tarafından icra edilen denetim faaliyetinde istenen bilgiler hakkında başkalarına açıklamada bulunan (sırrı ifşa eden) kişilere verilecek ceza nedir?",
+      "options": [
+        "A) 1 yıldan 3 yıla kadar hapis ve adli para cezası",
+        "B) 6 aydan 2 yıla kadar hapis",
+        "C) 2 yıldan 5 yıla kadar hapis",
+        "D) Sadece idari para cezası",
+        "E) 3 yıldan 5 yıla kadar hapis"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kurul düzenlemelerine aykırı hareket edenlere verilecek genel idari para cezası alt sınırı 2022-2025 dönemi için (baz alınarak) ne kadardır?",
+      "options": [
+        "A) 20.000 TL",
+        "B) 50.000 TL",
+        "C) 100.000 TL",
+        "D) 10.000 TL",
+        "E) 1.000 TL"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "İdari para cezası verilirken, aykırılık dolayısıyla bir menfaat temin edilmişse ceza miktarı ne kadar olmalıdır?",
+      "options": [
+        "A) Menfaatin tamamı kadar",
+        "B) Menfaatin iki katından az olamaz.",
+        "C) Menfaatin üç katı olur.",
+        "D) Menfaatin yarısı kadar olur.",
+        "E) Şirket cirosunun %1’i olur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Tüzel kişilere verilecek idari para cezalarında, brüt satış hasılatı ve vergi öncesi kâr oranları sırasıyla en fazla yüzde kaç olabilir?",
+      "options": [
+        "A) %5 hasılat - %10 kâr",
+        "B) %1 hasılat - %20 kâr",
+        "C) %2 hasılat - %15 kâr",
+        "D) %10 hasılat - %50 kâr",
+        "E) %1 hasılat - %5 kâr"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aynı kabahatin idari yaptırım kararı verilinceye kadar birden çok işlenmesi durumunda ceza nasıl uygulanır?",
+      "options": [
+        "A) Her bir ihlal için ayrı ceza verilir.",
+        "B) Sadece tek bir asgari ceza verilir.",
+        "C) İlgili hükme göre bir ceza verilir ve ceza iki kat artırılır.",
+        "D) Ceza üç kat artırılır.",
+        "E) Ceza yarı oranında indirilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pay alım teklifi zorunluluğunu yerine getirmeyenlere verilecek idari para cezası üst sınırı nedir?",
+      "options": [
+        "A) 1.000.000 TL",
+        "B) Menfaatin üç katı",
+        "C) Pay alım teklifine konu payların toplam bedeli kadar",
+        "D) Şirket sermayesinin yarısı",
+        "E) 10.000.000 TL"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Makul bir gerekçeyle açıklanamayan ve piyasanın güvenini bozan Piyasa Bozucu Eylemler için verilecek idari para cezası üst sınırı nedir?",
+      "options": [
+        "A) 100.000 TL",
+        "B) 250.000 TL",
+        "C) 500.000 TL",
+        "D) 1.000.000 TL",
+        "E) Menfaatin beş katı"
+      ],
+      "answer": 2
+    }
+  ],
+  "11- Sermaye Piyasası Araçlarının Kaydileştirilmesi": [
+    {
+      "q": "Merkezi Kayıt Kuruluşu’nun (MKK) hukuki statüsü aşağıdakilerden hangisinde doğru olarak belirtilmiştir?",
+      "options": [
+        "A) Kamu tüzel kişiliğine sahip bir devlet kurumu",
+        "B) Kar amacı gütmeyen bir vakıf",
+        "C) Özel hukuk tüzel kişiliğini haiz bir anonim şirket",
+        "D) Sermaye Piyasası Kurulu’na bağlı bir daire başkanlığı",
+        "E) Bir kamu iktisadi teşebbüsü"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "MKK Yönetmeliği’ne göre aşağıdakilerden hangisi MKK’nın kurucu ortakları arasında yer almaz?",
+      "options": [
+        "A) Borsa İstanbul Anonim Şirketi",
+        "B) Takasbank",
+        "C) Türkiye Sermaye Piyasaları Birliği",
+        "D) SPKn’na göre kurulan ve faaliyet izni verilen diğer borsalar",
+        "E) Türkiye Cumhuriyet Merkez Bankası (TCMB)"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "MKK’nın temel görevleri arasında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "A) Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirmek",
+        "B) Kayıtların üyeler itibarıyla tutarlılığını izlemek",
+        "C) Sermaye piyasası araçlarının fiziksel olarak basımını ve dağıtımını yapmak",
+        "D) Sermaye piyasalarına ilişkin verilerin toplandığı elektronik bir veri bankası oluşturmak",
+        "E) Kayıtların mevzuat çerçevesinde gizliliğini sağlamak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "MKK, kayıtların tutarlılığını izlerken bir aykırılık tespit ederse izlemesi gereken prosedür nedir?",
+      "options": [
+        "A) Üyenin faaliyet iznini derhal iptal eder.",
+        "B) Aykırılığı sadece kendi iç denetim birimine raporlar.",
+        "C) Üye nezdinde düzeltme yapılmasını ister ve durumu derhal SPK’ya bildirir.",
+        "D) Kayıtları tek taraflı olarak siler ve yeniden oluşturur.",
+        "E) Durumu sadece Borsa İstanbul’a bildirerek bekler."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "MKK’nın kurumsal yönetim ilkelerine uyumu sağlamak amacıyla oluşturduğu platformun temel amacı nedir?",
+      "options": [
+        "A) Şirketlerin vergi borçlarını takip etmek",
+        "B) Şirketler ile ortaklarının ve yatırımcılarının iletişimini sağlamak",
+        "C) Sadece yabancı yatırımcılara bilgi vermek",
+        "D) Şirketlerin hisse fiyatlarını yapay olarak belirlemek",
+        "E) Aracı kurumların kar marjlarını hesaplamak"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Payları kayden izlenen anonim ortaklıkların genel kurulları ile ilgili MKK’nın teknolojik altyapı sağladığı alan hangisidir?",
+      "options": [
+        "A) Genel kurulun fiziksel yapılma zorunluluğunu kaldırmak",
+        "B) Sadece yönetim kurulu üyelerinin katılımını sağlamak",
+        "C) Genel kurullara elektronik ortamda katılımı sağlamak",
+        "D) Genel kurul kararlarını notere onaylatmak",
+        "E) Genel kurul yemek organizasyonunu düzenlemek"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "MKK üyeleri veya üyelerle MKK arasında sistemin işleyişine ilişkin uyuşmazlıklarda hangi çözüm yolu teşvik edilir?",
+      "options": [
+        "A) Avrupa İnsan Hakları Mahkemesi’ne başvuru",
+        "B) 6100 sayılı Hukuk Muhakemeleri Kanunu çerçevesinde tahkim",
+        "C) Sadece idari para cezası uygulaması",
+        "D) Şirket içi disiplin kurulu kararı",
+        "E) Tüketici Hakem Heyeti başvurusu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "MKK Yönetmeliği uyarınca MKK’ya üye olması gereken kuruluşlar arasında aşağıdakilerden hangisi sayılmamıştır?",
+      "options": [
+        "A) İhraççı Kuruluşlar",
+        "B) Merkezi Takas Kuruluşları",
+        "C) Yatırım Kuruluşları",
+        "D) Emlak Konut Gayrimenkul Yatırım Ortaklığı",
+        "E) TCMB"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "MKK’ya üye olacak kuruluşların taşıması gereken şartlardan biri aşağıdakilerden hangisidir?",
+      "options": [
+        "A) En az 10 yıl faaliyet göstermiş olmak",
+        "B) Tüm çalışanlarının yüksek lisans derecesine sahip olması",
+        "C) Kayıtların tutulması için gerekli teknik donanım ve güvenlik sistemine sahip olmak",
+        "D) Yurt dışında şubesi bulunmak",
+        "E) Her yıl kâr ettiğini belgelemek"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Üyelik için başvuracak yatırım kuruluşlarının hangi hizmeti vermek üzere yetkilendirilmiş olması şarttır?",
+      "options": [
+        "A) Portföy yönetimi",
+        "B) Yatırım danışmanlığı",
+        "C) Halka arz aracılığı",
+        "D) Saklama hizmeti",
+        "E) Kredi derecelendirme"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İhraççı kuruluşların MKK’ya üye olabilmesi için temel şart nedir?",
+      "options": [
+        "A) En az 100 milyon TL sermayeye sahip olmak",
+        "B) Sermaye piyasası aracı ihraç etmiş veya ihraç etmek üzere SPK’ya başvurmuş olmak",
+        "C) En az 5 yıllık bir şirket olmak",
+        "D) Borsa İstanbul’da Yıldız Pazar da işlem görmek",
+        "E) Yönetim kurulunda bağımsız üyelerin çoğunlukta olması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası araçlarının kaydileştirilmesinde uygulanan esas kural nedir?",
+      "options": [
+        "A) Araçların mutlaka kağıda basılması gerekir.",
+        "B) Sadece devlet iç borçlanma senetleri kaydileştirilir.",
+        "C) Sermaye piyasası araçlarının senede bağlanmaksızın elektronik ortamda ihracı esastır.",
+        "D) Kaydileştirme işlemi isteğe bağlıdır.",
+        "E) Kaydileştirilen araçlar sadece banka kasalarında saklanır."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kaydileştirilmiş sermaye piyasası araçlarının izlenmesinde temel hesap yönetim biçimi nedir?",
+      "options": [
+        "A) Sadece toplu (omnibus) hesaplarda izlenmesi",
+        "B) İsimsiz (anonim) hesaplarda takip edilmesi",
+        "C) Nama veya hamiline olmasına bakılmaksızın isme açılmış hesaplarda izlenmesi",
+        "D) Fiziksel defter kayıtları ile izlenmesi",
+        "E) Sadece ihraççı firmanın kendi kayıtlarında tutulması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "SPK, hangi durumda hak sahibi ismine hesap açılmaksızın hesapların toplu olarak tutulmasına karar verebilir?",
+      "options": [
+        "A) İhraççı firmanın talebi üzerine her zaman",
+        "B) Yatırımcıların gizlilik talebi olması halinde",
+        "C) Sermaye piyasası aracının türüne, ihraççının veya MKK üyesinin niteliğine göre",
+        "D) Sadece yabancı yatırımcılar için",
+        "E) Şirketin iflası durumunda"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kaydileştirilmesine karar verilen ancak teslim edilmeyen sermaye piyasası araçlarının durumu nedir?",
+      "options": [
+        "A) Normal şekilde işlem görmeye devam eder.",
+        "B) Sadece borsa dışında el değiştirebilir.",
+        "C) Borsada işlem göremez ve aracı kurumlarca alım satımına aracılık edilemez.",
+        "D) İhraççı tarafından derhal iptal edilir.",
+        "E) Devlet tarafından el konulur."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Teslim edilen fiziksel sermaye piyasası araçlarının hukuki statüsü ne olur?",
+      "options": [
+        "A) MKK tarafından başka bir yatırımcıya satılır.",
+        "B) Kendiliğinden hükümsüz hale gelir.",
+        "C) Banka kasalarında rehin olarak tutulur.",
+        "D) Şirket tarafından yeniden basılmak üzere saklanır.",
+        "E) SPK tarafından damgalanarak iade edilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "MKK nezdindeki İhraççı Hesabı hangi bileşenlerden oluşur?",
+      "options": [
+        "A) Sadece ortakların kişisel hesapları",
+        "B) İhraççı kasası ve banka mevduatı",
+        "C) Havuz hesabı, ortak hesabı ve bilinmeyen ortak hesabı",
+        "D) Borsa İstanbul takas hesabı ve fon hesabı",
+        "E) Sadece temettü ödeme hesabı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraççının bir yatırım fonu kurucusu olması durumunda hesap yapısı nasıl düzenlenir?",
+      "options": [
+        "A) Sadece fon portföy hesabı",
+        "B) Havuz hesabı ve bilinmeyen katılımcı hesabı",
+        "C) İhraççı havuz hesabı ve ortak hesabı",
+        "D) Yatırımcı risk hesabı ve nakit hesabı",
+        "E) Saklama hesabı ve bilanço hesabı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kayden izlenen hakların üçüncü kişilere karşı ileri sürülebilmesinde hangi an esas alınır?",
+      "options": [
+        "A) Senetlerin fiziki olarak teslim edildiği gün",
+        "B) Şirketin genel kurul yaptığı tarih",
+        "C) MKK’ya yapılan bildirim tarihi",
+        "D) Hisse senedinin satın alındığı borsa işlem saati",
+        "E) Hak sahibinin kimlik belgesini ibraz ettiği an"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası araçlarının teslim ve imha esaslarını belirleme ve onaylama yetkisi nasıl paylaşılmıştır?",
+      "options": [
+        "A) SPK belirler, MKK onaylar.",
+        "B) Borsa İstanbul belirler, SPK onaylar.",
+        "C) MKK belirler, SPK (Kurul) onaylar.",
+        "D) İhraççı şirket belirler, MKK onaylar.",
+        "E) Takasbank belirler, SPK onaylar."
+      ],
+      "answer": 2
+    }
+  ],
+  "12- Sermaye Piyasası Araçlarının Satışı": [
+    {
+      "q": "Sermaye piyasası araçlarının ihracında fiyat, satış ve dağıtım esasları kural olarak kim tarafından belirlenir?",
+      "options": [
+        "A) Sermaye Piyasası Kurulu (SPK)",
+        "B) Borsa İstanbul (BİST)",
+        "C) İhraççı ve/veya halka arz eden",
+        "D) Merkezi Kayıt Kuruluşu (MKK)",
+        "E) Takasbank"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Payların piyasa fiyatının nominal değerinin altında olması durumunda, nominal değerin altında bir fiyatla ihraç edilmesine kim izin verebilir?",
+      "options": [
+        "A) İhraççı Genel Kurulu",
+        "B) Sermaye Piyasası Kurulu",
+        "C) Halka arz eden aracı kurum",
+        "D) Gümrük ve Ticaret Bakanlığı",
+        "E) Borsa Yönetim Kurulu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Tahsisli olarak satılmak üzere ihraç edilen sermaye piyasası araçlarının temel işlem görme kuralı nedir?",
+      "options": [
+        "A) Serbestçe borsada işlem görmeleri esastır.",
+        "B) Sadece nitelikli yatırımcılar arasında borsada işlem görebilirler.",
+        "C) Borsada işlem görmemesi esastır.",
+        "D) İhraç tarihinden 2 yıl sonra borsada işlem görürler.",
+        "E) Sadece yabancı borsalarda işlem görebilirler."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraççılar veya yetkili kuruluşlar, yatırımcılardan aldıkları beyanları ne kadar süreyle saklamak zorundadır?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 5 yıl",
+        "D) 10 yıl",
+        "E) Süresiz"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Payların ikincil piyasa işlemleri hariç, tahsisli satışlarda yatırımcı sayısının (nitelikli yatırımcılar hariç) en fazla kaç kişiyi geçmemesi esastır?",
+      "options": [
+        "A) 50",
+        "B) 100",
+        "C) 150",
+        "D) 250",
+        "E) 500"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Tahsisli satışlarda yatırımcı sayısı sınırının aşılması durumunda, ihraççı bildirimden itibaren kaç iş günü içinde izahname onayı için Kurula başvurmalıdır?",
+      "options": [
+        "A) 5 iş günü",
+        "B) 10 iş günü",
+        "C) 15 iş günü",
+        "D) 20 iş günü",
+        "E) 30 iş günü"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Talebe dayalı olarak profesyonel müşteri kabul edilecek yatırımcılar için güncellenen finansal varlık toplamı alt sınırı ne kadardır?",
+      "options": [
+        "A) 1 Milyon TL",
+        "B) 5 Milyon TL",
+        "C) 10 Milyon TL",
+        "D) 20 Milyon TL",
+        "E) 50 Milyon TL"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bir yatırımcının nitelikli yatırımcı olduğu bilgisinin kayıt altına alınması nerede zorunludur?",
+      "options": [
+        "A) Kamuyu Aydınlatma Platformu (KAP)",
+        "B) MKS (Merkezi Kaydi Sistem)",
+        "C) e-Devlet kapısı",
+        "D) Aracı kurumun özel arşivi",
+        "E) Ticaret Sicil Gazetesi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası araçlarının halka arz yoluyla satış süresi alt ve üst sınırları aşağıdakilerin hangisinde doğru verilmiştir?",
+      "options": [
+        "A) En az 1, en fazla 15 iş günü",
+        "B) En az 2, en fazla 20 iş günü",
+        "C) En az 3, en fazla 10 iş günü",
+        "D) En az 5, en fazla 30 iş günü",
+        "E) En az 10, en fazla 45 iş günü"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Halka açık ortaklıkların halka arz edilmeksizin gerçekleştireceği sermaye artırımlarında payların satışı, ihraç belgesinin ilanını takip eden en geç kaç iş günü içinde tamamlanmalıdır?",
+      "options": [
+        "A) 5 iş günü",
+        "B) 10 iş günü",
+        "C) 20 iş günü",
+        "D) 30 iş günü",
+        "E) 60 iş günü"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Talep toplama yoluyla satış yönteminde, izahnamede aksi belirtilmedikçe yatırımcılar taleplerini ne zamana kadar değiştirebilirler?",
+      "options": [
+        "A) Satış sonuçları ilan edilene kadar",
+        "B) Talep toplama süresi içerisinde",
+        "C) Talep toplama bittikten sonraki 2 gün içinde",
+        "D) İlk hafta sonuna kadar",
+        "E) Talepler değiştirilemez"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Satışa sunulan pay için asgari bir satış fiyatı belirlenmesi ve bunun üzerindeki tekliflerin toplanması hangi yöntemi ifade eder?",
+      "options": [
+        "A) Sabit fiyatla talep toplama",
+        "B) Fiyat teklifi alarak talep toplama",
+        "C) Fiyat aralığı ile talep toplama",
+        "D) Borsada satış",
+        "E) Talep toplanmaksızın satış"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Fiyat aralığı ile talep toplamada tavan fiyat, taban fiyatın en fazla yüzde kaç fazlası olabilir?",
+      "options": [
+        "A) %5",
+        "B) %10",
+        "C) %20",
+        "D) %25",
+        "E) %50"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Talep toplanmaksızın satış yöntemi için payları borsada işlem görmeyen bir ortaklığın aktif toplamının en az ne kadar olması gerekir?",
+      "options": [
+        "A) 5 Milyon TL",
+        "B) 10 Milyon TL",
+        "C) 15 Milyon TL",
+        "D) 20 Milyon TL",
+        "E) 100 Milyon TL"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Borsada satış yönteminin esasları kim tarafından belirlenir?",
+      "options": [
+        "A) Sermaye Piyasası Kurulu",
+        "B) Borsa",
+        "C) İhraççı",
+        "D) Konsorsiyum Lideri",
+        "E) MKK"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Halka arzda nominal değerin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+      "options": [
+        "A) %5",
+        "B) %10",
+        "C) %15",
+        "D) %20",
+        "E) %25"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Halka arzda nominal değerin en az yüzde kaçının yurt içi bireysel yatırımcılara tahsis edilmesi zorunludur?",
+      "options": [
+        "A) %5",
+        "B) %10",
+        "C) %15",
+        "D) %20",
+        "E) %25"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yatırımcı grupları arasında kaydırma yapılırken, bir grup için izahnamede açıklanan tutar en fazla ne oranda azaltılabilir?",
+      "options": [
+        "A) %10",
+        "B) %20",
+        "C) %25",
+        "D) %30",
+        "E) %50"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası araçlarının satış sonuçlarına ilişkin listelerin saklanma süresi ne kadardır?",
+      "options": [
+        "A) 1 yıl",
+        "B) 3 yıl",
+        "C) 5 yıl",
+        "D) 10 yıl",
+        "E) 20 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi doğrudan nitelikli yatırımcı tanımı kapsamında yer alan kurumlardan biri değildir?",
+      "options": [
+        "A) Yatırım fonları",
+        "B) Sigorta şirketleri",
+        "C) Aracı kurumlar",
+        "D) Sosyal Sigortalar Kanunu sandıkları",
+        "E) Küçük ve Orta Büyüklükteki İşletmeler (KOBİ)"
+      ],
+      "answer": 4
+    }
+  ],
+  "13- Kamuyu Aydınlatma Belgeleri (İzahname Ve İhraç Belgesi)": [
+    {
+      "q": "İzahnamenin birden fazla belge şeklinde düzenlenmesi durumunda, ihraç edilecek sermaye piyasası aracının özelliklerini, risklerini ve halka arz bilgilerini içeren belge hangisidir?",
+      "options": [
+        "A) İhraççı bilgi dokümanı",
+        "B) Özet",
+        "C) Sermaye piyasası aracı notu",
+        "D) İhraç belgesi",
+        "E) Bağımsız denetim raporu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İzahname veya ihraç belgesinin Kurulca onaylanmasından itibaren kaç iş günü içerisinde ticaret siciline tescil ve TTSG’de ilan edilmemesi durumunda belgenin yeniden onaylanması gerekir?",
+      "options": [
+        "A) 2 iş günü",
+        "B) 5 iş günü",
+        "C) 7 iş günü",
+        "D) 10 iş günü",
+        "E) 15 iş günü"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Payların ilk defa halka arzı dışındaki başvurularda, Kurul izahname veya ihraç belgesi onay başvurusunu kaç iş günü içinde karara bağlar?",
+      "options": [
+        "A) 5 iş günü",
+        "B) 10 iş günü",
+        "C) 15 iş günü",
+        "D) 20 iş günü",
+        "E) 30 iş günü"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan birincil derecede kim sorumludur?",
+      "options": [
+        "A) Halka arz edenler",
+        "B) İhraççılar",
+        "C) Aracı kurumlar",
+        "D) Bağımsız denetim kuruluşları",
+        "E) Yönetim kurulu üyeleri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İzahnamede yapılan bir değişikliğin ilan edilmesinden önce talepte bulunmuş yatırımcılar, bu değişikliğin yayımlanmasından itibaren kaç iş günü içinde taleplerini geri çekebilirler?",
+      "options": [
+        "A) 2 iş günü",
+        "B) 3 iş günü",
+        "C) 5 iş günü",
+        "D) 7 iş günü",
+        "E) 10 iş günü"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Ortaklık hakkı veren sermaye piyasası araçları için hazırlanan izahnamede, asgari kaç yıllık bağımsız denetimden geçmiş finansal tablo yer almalıdır?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 4 yıl",
+        "E) 5 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İzahnamenin nerede yayımlandığına dair ticaret sicili tescilinin yer aldığı TTSG bilgileri, ilandan itibaren kaç iş günü içinde Kurula gönderilmelidir?",
+      "options": [
+        "A) 2 iş günü",
+        "B) 3 iş günü",
+        "C) 5 iş günü",
+        "D) 6 iş günü",
+        "E) 10 iş günü"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kamuyu aydınlatma belgelerinden doğan tazminat talepleri, zararın meydana geldiği tarihten itibaren ne kadar süre sonra zamanaşımına uğrar?",
+      "options": [
+        "A) 1 ay",
+        "B) 3 ay",
+        "C) 6 ay",
+        "D) 1 yıl",
+        "E) 2 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bir izahnamenin geçerlilik süresi, güncelliğinin korunması şartıyla ilk yayım tarihinden itibaren ne kadardır?",
+      "options": [
+        "A) 6 ay",
+        "B) 12 ay",
+        "C) 18 ay",
+        "D) 24 ay",
+        "E) 36 ay"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki durumlardan hangisinde izahname hazırlama yükümlülüğünden muafiyet söz konusudur?",
+      "options": [
+        "A) Payların ilk halka arzı",
+        "B) Birim nominal değeri 100.000 TL olan araçların satışı",
+        "C) Yatırımcı başına en az 250.000 TL değerinde araç alanlara yönelik halka arzlar",
+        "D) Genel kurul onayı alınmış tüm bedelli sermaye artırımları",
+        "E) Borsa İstanbul’da işlem görecek tüm borçlanma araçları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurul onayına sunulan izahname, başvuru tarihinden itibaren kaç iş günü içinde ihraççının internet sitesinde ilan edilmelidir?",
+      "options": [
+        "A) 2 iş günü",
+        "B) 3 iş günü",
+        "C) 5 iş günü",
+        "D) 10 iş günü",
+        "E) 15 iş günü"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraççı ve yetkili kuruluş, onaylanmış izahnameyi internet sitelerinde asgari ne kadar süreyle korumak zorundadır?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İzahnamede finansal tablolardan üretilmeyen (bağımsız denetim dışı) verilerin sunulmasıyla ilgili hangi kural zorunludur?",
+      "options": [
+        "A) Bu veriler her zaman finansal tablolardan daha dikkat çekici sunulmalıdır.",
+        "B) Verilerin bağımsız denetimden geçmediği açıkça vurgulanmalıdır.",
+        "C) Sadece geçmişe yönelik veriler paylaşılabilir, tahmini veri yasaktır.",
+        "D) Bu veriler için ayrı bir izahname onaylanmalıdır.",
+        "E) Verilerin KAP’ta ilan edilmesi yeterlidir, izahnameye konulamaz."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yatırım kuruluşu varant ve sertifikaları gibi ortaklık hakkı vermeyen araçlar için izahnamede asgari kaç yıllık finansal tablolar bulunmalıdır?",
+      "options": [
+        "A) Son 1 yıl",
+        "B) Son 2 yıl",
+        "C) Son 3 yıl",
+        "D) Son 4 yıl",
+        "E) Son 5 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İzahnamenin onaylanması başvurusunda belgelerin eksik olması durumunda, Kurul bu eksikliklerin kaç iş günü içinde giderilmesini ister?",
+      "options": [
+        "A) 10 iş günü",
+        "B) 15 iş günü",
+        "C) 20 iş günü",
+        "D) 30 iş günü",
+        "E) 45 iş günü"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yatırım fonlarının net varlık değerleri üzerinden ödeyecekleri Kurul ücreti oranı ve süresi nedir?",
+      "options": [
+        "A) Binde 3 - 5 iş günü içinde",
+        "B) Yüz binde 5 - İzleyen 10 iş günü içinde",
+        "C) Binde 1 - Her ay sonunda",
+        "D) Milyonda 5 - 20 iş günü içinde",
+        "E) Ücretten muaftır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İzahnameye atıfta bulunmak suretiyle bilgi dahil edilmesiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Dahil edilen bilgi en güncel bilgi olmalıdır.",
+        "B) Özet bölümünde izahname dışı bilgilere atıfta bulunulamaz.",
+        "C) Daha önce KAP’ta duyurulan bilgilere atıf yapılabilir.",
+        "D) Dipnot olarak kaynak belirtmek atıf anlamına gelmez.",
+        "E) Atıf yoluyla bilgi ekleme sadece ihraç belgesi için geçerlidir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye piyasası araçlarının halka arz edilmeksizin ihraç edilmesi durumunda hangi belgenin onaylanması zorunludur?",
+      "options": [
+        "A) İzahname",
+        "B) İhraç Belgesi",
+        "C) Özet Metni",
+        "D) Duyuru Formu",
+        "E) Bağımsız Denetim Görüşü"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki durumlardan hangisinde izahname hazırlanmaz?",
+      "options": [
+        "A) Payların borsada işlem görmesi başvurusu",
+        "B) Bedelsiz pay çıkarılması (kar payı dağıtımı dahil)",
+        "C) Payların tahsisli satışı",
+        "D) Sadece nitelikli yatırımcılara satış",
+        "E) Hepsi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Kurulca onaylanmış bir izahnamenin teslim alınmaması durumunda, kaç iş günü sonunda yeniden onay kararı gerekir?",
+      "options": [
+        "A) 5 iş günü",
+        "B) 10 iş günü",
+        "C) 15 iş günü",
+        "D) 20 iş günü",
+        "E) 30 iş günü"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İzahname geçerlilik süresi içindeyken yetkili kuruluşun (aracı kurum) değişmesi durumunda ne yapılmalıdır?",
+      "options": [
+        "A) İzahname tamamen hükümsüz kalır.",
+        "B) Yeni kurumun imzasıyla yeniden Kurul onayı alınmalıdır.",
+        "C) Mevcut doküman yeni kuruluşça imzalanıp ilan edilmelidir (Kurul onayı gerekmez).",
+        "D) Sadece internet sitesinde duyuru yapılması yeterlidir.",
+        "E) Satış süreci durdurulur ve yeni bir izahname hazırlanır."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kamuyu aydınlatma belgelerindeki sorumluluğu hafifleten veya kaldıran anlaşmaların hukuki durumu nedir?",
+      "options": [
+        "A) Kurul onayıyla geçerli olabilir.",
+        "B) Sadece nitelikli yatırımcılar arasında geçerlidir.",
+        "C) Tamamen geçersizdir.",
+        "D) Sadece bağımsız denetçiler için geçerlidir.",
+        "E) Zarar miktarı düşükse geçerli kabul edilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İzahnamede yer alan bilgilerin yanlış olduğu bilinmesine rağmen işlem yapılması durumunda tazminat talebi nasıl sonuçlanır?",
+      "options": [
+        "A) Yatırımcı zararı her durumda tazmin edilir.",
+        "B) Talep reddedilir.",
+        "C) Sadece ana para iadesi yapılır.",
+        "D) Aracı kurum tazminattan sorumlu olur.",
+        "E) İhraççıya idari para cezası verilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ortaklık hakkı vermeyen araçların yurt içinde halka arz edilmeksizin satışında ihraç tavanını içeren ihraç belgesi kaç yıl geçerlidir?",
+      "options": [
+        "A) 6 ay",
+        "B) 1 yıl",
+        "C) 2 yıl",
+        "D) 3 yıl",
+        "E) 5 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Konsorsiyum oluşturulan bir halka arzda izahnameyi kimler imzalamalıdır?",
+      "options": [
+        "A) Sadece ihraççı",
+        "B) Tüm konsorsiyum üyeleri",
+        "C) Sadece halka arz eden",
+        "D) Konsorsiyum lideri ve varsa eş liderler",
+        "E) Sadece bağımsız denetim kuruluşu"
+      ],
+      "answer": 3
+    }
   ]
 }
