@@ -407,12 +407,14 @@ let dosyaPath = (secilenDers === 'vergi') ? 'vergi_mevzuati.json' :
                 (secilenDers === 'meslek') ? 'meslek_hukuku.json' :
                 (secilenDers === 'sermaye') ? 'sermaye_piyasasi.json' :
                 (secilenDers === 'maliyet') ? 'maliyet_muhasebesi.json' :
+                (secilenDers === 'finansal_analiz') ? 'finansal_analiz.json' :
                 (secilenDers === 'sgs') ? 'sgs_sorulari.json' : 'ana_soru_bankasi.json';
 
 const anaDersAdi = (secilenDers === 'vergi') ? 'Vergi Hukuku' : 
                    (secilenDers === 'meslek') ? 'Meslek Hukuku' :
                    (secilenDers === 'sermaye') ? 'Sermaye Piyasası Mevzuatı' :
                    (secilenDers === 'maliyet') ? 'maliyet_muhasebesi' :
+                   (secilenDers === 'finansal_analiz') ? 'Finansal Tablolar Analizi' :
                    (secilenDers === 'sgs') ? 'SGS Çıkmış Sorular' : 'Muhasebe Denetimi';
 
 document.getElementById('header-ders-adi').innerText = anaDersAdi;
