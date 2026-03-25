@@ -3576,5 +3576,4620 @@
       ],
       "correct": 3
     }
-]
+],
+"Çalışma Soruları (Test 01)": [
+    {
+      "q": "“Anayasanın 73 mad. 4. fıkrası vergi, resim, harç ve benzeri mali yükümlülükler kanunla konulur, değiştirilir veya kaldırılır” ifadesi ile vergilerin hangi ilkesini hükme bağlamıştır?",
+      "options": [
+        "A) Kanun önünde eşitlik ilkesi",
+        "B) Temsilsiz vergi olmaz ilkesi",
+        "C) Vergilerin kanuniliği ilkesi",
+        "D) Hukuki güvenlik ilkesi",
+        "E) Kanuni idare ilkesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Anayasa mahkemesi, bir vergi kanununun hükümlerini anayasaya aykırı bulduğunda aşağıdaki işlemlerden hangisini yapar?",
+      "options": [
+        "A) Kendisi düzeltir.",
+        "B) Değiştirilmesi için geri gönderir.",
+        "C) Görevsizlik kararı verir.",
+        "D) Aykırı görülen ilkeleri iptal eder.",
+        "E) Vergi kanunun tümünü iptal eder."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Vergi koyma yetkisi aşağıdakilerden hangisine aittir?",
+      "options": [
+        "A) Başbakanlık",
+        "B) Danıştay",
+        "C) Yasama organı",
+        "D) Maliye Bakanlığı",
+        "E) Cumhurbaşkanı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Vergi kanunlarındaki boşluklar ya da eksik düzenlemeler için aşağıdakilerden hangisi söz konusudur?",
+      "options": [
+        "A) Kanun çıkartma",
+        "B) Yönetmelik çıkartma",
+        "C) Tüzük çıkartma",
+        "D) Kıyas yapma",
+        "E) Kanun Hükmünde Kararname çıkartma"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergi hukukunun zorunlu kaynağı değildir?",
+      "options": [
+        "A) İçtihadı Birleştirme Kararları",
+        "B) Genel Tebliğ",
+        "C) Kanun",
+        "D) Anayasa",
+        "E) Cumhurbaşkanlığı Kararnamesi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki kurumlardan hangisi vergi kanunlarının anayasaya uygunluğunu denetler?",
+      "options": [
+        "A) Yargıtay",
+        "B) Anayasa Mahkemesi",
+        "C) Sayıştay",
+        "D) Danıştay",
+        "E) Bölge İdare Mahkemesi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Anayasanın 73. maddesinde yer alan vergi ödevine ilişkin hükümlerden değildir?",
+      "options": [
+        "A) Herkes mali gücüne göre, vergi ödemekle yükümlüdür.",
+        "B) Vergiler, Cumhurbaşkanlığı kararıyla değiştirilir.",
+        "C) Vergiler, kanunla kaldırılır.",
+        "D) Vergiler, kanunla konulur.",
+        "E) Vergi yükünün adaletli ve dengeli dağılımı maliye politikasının sosyal amacıdır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki kurumlardan hangisi vergilerin, Anayasa uygunluğunun veya idarenin vergilendirme işlemlerinin yargısal denetimini yapamamaktadır?",
+      "options": [
+        "A) Vergi mahkemeleri",
+        "B) Danıştay",
+        "C) Anayasa Mahkemesi",
+        "D) Sayıştay",
+        "E) Bölge İdare Mahkemeleri"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi, vergilendirmede muaflık, istisna, indirim ve oranlarla ilgili, kanunla belirlenmiş sınırlar içinde bir değişiklik yapmaya yetkili kılınmıştır?",
+      "options": [
+        "A) Vergi Mahkemeleri",
+        "B) Cumhurbaşkanlığı",
+        "C) Bölge İdare Mahkemeler",
+        "D) Devlet Planlama Teşkilatı",
+        "E) Hazine ve Maliye Bakanlığı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kuralların geriye yürümemesi ilkesinin amacı nedir?",
+      "options": [
+        "A) İstikrarı sağlama",
+        "B) Uygulanma zorunluluğu",
+        "C) Kurallar geriye yürür.",
+        "D) Keyfi hareketleri önleme",
+        "E) Kurallara bağlılık ilkesi gereği"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi yorum türlerinden biri değildir?",
+      "options": [
+        "A) İdari yorum",
+        "B) Ahlaksal yorum",
+        "C) Yasama yorumu",
+        "D) Bilimsel yorum",
+        "E) Yargısal yorum"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Gelir vergisi kanunu uygulamasında bir biçerdövere veya bu mahiyetteki motorlu bir araca sahip olan çiftçilerin kazançlarının tespitinde aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Gerçek usulde tespit edilemez",
+        "B) Bilanço esasına göre tespit edilmez",
+        "C) Tevkifat yoluyla vergilendirilir",
+        "D) Basit usulde vergilendirilir",
+        "E) Zirai işletme esasına göre tespit edilebilir"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bir ülke vatandaşının gerek yurt içinde ve gerekse yurt dışında elde ettiği kazançlar üzerinden vergilendirilmesi aşağıdakilerden hangi ilkeyi açıklar?",
+      "options": [
+        "A) Ödeme gücü ilkesi",
+        "B) Yersellik ilkesi",
+        "C) Yararlanma ilkesi",
+        "D) Ucuzluk ilkesi",
+        "E) Kişisellik ilkesi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisinin tahsili aşamasında Amme alacaklarının tahsili usulü hakkında kanun hükümleri geçerlidir?",
+      "options": [
+        "A) Vergi cezası",
+        "B) Hürriyeti bağlayıcı ceza",
+        "C) Devletin kira alacağı",
+        "D) Devletin haksız fiilden doğan tazminat alacağı",
+        "E) İl özel idarelerinin sözleşmeden doğan alacakları"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdaki kanunların hangisinde kuralların geçmişe yürümemesi ilkesine istisna getirilmiştir?",
+      "options": [
+        "A) Emlak vergisi Kanununda",
+        "B) Vergi Usul Kanunu",
+        "C) Belediye Gelirleri Kanununda",
+        "D) Gelir Vergisi Kanununda",
+        "E) Gümrük Vergisi Kanunu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kuralların zamanın gereksinmelerine göre yorumlanmasına ne ad verilir?",
+      "options": [
+        "A) Mantıksal yorum",
+        "B) Değimsel yorum",
+        "C) Düşünsel yorum",
+        "D) Amaçsal yorum",
+        "E) Zamana göre yorum"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdaki vergilerden hangisinde hem yersellik hem de kişisellik ilkesi uygulanır?",
+      "options": [
+        "A) Emlak Vergisi",
+        "B) Kurumlar Vergisi",
+        "C) KDV",
+        "D) Gelir Vergisi",
+        "E) Veraset ve İntikal Vergisi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Nedenlerdeki benzerliğe dayanarak öngörülen bir kuralın kanun tarafından öngörülmüş bir olaya uygulanmasına ne ad verilir?",
+      "options": [
+        "A) Yargılama",
+        "B) Benzetme",
+        "C) Yorum",
+        "D) Kıyas",
+        "E) Yürürlüğe girme"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Küçükler, kısıtlılar ve tüzel kişilerin vergi ile ilgili ödevlerini kim yerine getirir?",
+      "options": [
+        "A) Avukat",
+        "B) Kanuni temsilci",
+        "C) İradi temsilci",
+        "D) Sorumlu",
+        "E) Yükümlü"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi maddi vergi yükümlülüğü kapsamındadır?",
+      "options": [
+        "A) Belgeleri 5 yıl süreyle saklamak",
+        "B) Defter tutmak",
+        "C) Vergi borcunu ödemek",
+        "D) Yetkililerin talebi üzerine ibraz etmek",
+        "E) Beyanname vermek"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Hangi verginin yükümlüsü sadece tüzel kişilerdir?",
+      "options": [
+        "A) Katma değer vergisi",
+        "B) Veraset ve intikal vergisi",
+        "C) Taşıt alım vergisi",
+        "D) Gelir vergisi",
+        "E) Kurumlar vergisi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Vergi kanunlarına göre kendisine vergi borcu terettüb eden gerçek veya tüzel kişiye ne denir?",
+      "options": [
+        "A) Mükellef",
+        "B) Vergi sorumlusu",
+        "C) Vergi kaçakçısı",
+        "D) Yüklenici",
+        "E) Alacaklı vergi dairesi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Vergi yükümlülüğü, aşağıdakilerden hangisinin meydana gelmesi ile gerçekleşir?",
+      "options": [
+        "A) Verginin tahsili",
+        "B) Vergiyi doğuran olay",
+        "C) Verginin tarh edilmesi",
+        "D) Vergi ehliyeti",
+        "E) Verginin tebliği"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Tüzel kişilerde kanunlara aykırı hareketlerden doğan vergi cezaları kimin adına kesilir?",
+      "options": [
+        "A) Tüzel kişi",
+        "B) Yönetim Kurulu Başkanı",
+        "C) Yönetim Kurulu",
+        "D) Sorumlu",
+        "E) Genel Kurul"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "“A şirketinin 2001 yılı Ocak ayı KDV’si vergi dairesine verilmiştir. Şirket 2001 Mart ayında iflas etmiş ve Ocak ayına ait 200.000.000 Liralık KDV’si şirket varlığından tahsil edilememiştir.”\n\nBu vergi kimden istenebilir?",
+      "options": [
+        "A) Şirketin Yöneticilerinde",
+        "B) Şirketin Memurlarından",
+        "C) Şirketin Alacaklılarında",
+        "D) Şirketin borçlularından",
+        "E) Şirketin tüm ortaklarından"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Vergi kanunları uyarınca kendisinden vergi alınan kimseye, ne denir?",
+      "options": [
+        "A) Sorumlu",
+        "B) Yüklenici",
+        "C) Taşıyıcı",
+        "D) Kanuni temsilci",
+        "E) Yükümlü"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Ayrı bir tebliğ işlemine gerek olmayan işlem aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Cezalı tarhiyat",
+        "B) İkmalen vergi tarhı",
+        "C) Res’en vergi tarhı",
+        "D) Beyana dayanan tarh",
+        "E) İdarece vergi tarhı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergilendirme işlemlerinden değildir?",
+      "options": [
+        "A) Sürelerin saptanması",
+        "B) Tebliğ",
+        "C) Tahakkuk",
+        "D) Tarh",
+        "E) Hazırlık işlemleri (matrahın saptanması)"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I. Vergiyi doğuran olayın meydana gelmesi\nII. Vergi kanunu hükmünün varlığı\nIII. Ön izin ilkesinin bütçe kanunu ile gerçekleşmesi\nIV. Mükelleflerin şekli görevleri\n\nYukarıdakilerden hangisi vergilendirme işlemleri için gerekli olan şartlardan değildir?",
+      "options": [
+        "A) I,IV",
+        "B) II",
+        "C) I",
+        "D) III",
+        "E) IV"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Matrahın bilinmesi, aşağıdakilerden hangisi için gereklidir?",
+      "options": [
+        "A) Vergi yükümlüsünün saptanması",
+        "B) Verginin hesaplanması",
+        "C) Vergilendirme döneminin saptanması",
+        "D) Vergiyi doğuran olayın ortaya çıkması",
+        "E) Gayri safi kazancın saptanması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergi mükellefine tebliğ edilmez?",
+      "options": [
+        "A) Vergi cezası",
+        "B) Yoklama fişi",
+        "C) Vergi ihbarnamesi",
+        "D) Ödeme emri",
+        "E) Tahakkuk fişi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi tebliğ usullerinden biri değildir?",
+      "options": [
+        "A) Posta ile tebliğ",
+        "B) Memur tarafından tebliğ",
+        "C) Radyo yoluyla tebliğ",
+        "D) İlan yoluyla tebliğ",
+        "E) Vergi dairesi tarafından tebliğ"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Buğdayın kilosundan 500 TL vergi alınması, hangi matrah belirleme usulüne girer?",
+      "options": [
+        "A) Res’en",
+        "B) Miktar esası",
+        "C) Değer esası",
+        "D) Beyan esası",
+        "E) Gerçek usul"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vergi mükellefleri tutulması zorunlu defterleri tutmazlarsa, vergi dairesi tarafından nasıl bir tarhiyat yapılır?",
+      "options": [
+        "A) İdarece",
+        "B) Götürü usulde",
+        "C) İkmalen",
+        "D) Res’en",
+        "E) Mükellefin beyanına göre"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "“Tarh ve tebliğ edilen bir verginin ödenmesi gereken bir aşamaya gelmesi” hangi vergilendirme işlemidir?",
+      "options": [
+        "A) Verginin tahsili",
+        "B) Verginin beyan edilmesi",
+        "C) Verginin tarhı",
+        "D) Verginin tahakkuku",
+        "E) Vergi matrahının hesaplanması"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Vergi dairesi, yükümlü tarafından gerek vadede, gerek vadeden sonra kendiliğinden ödenmeyen vergiler için nasıl bir işlem yapar?",
+      "options": [
+        "A) Zaman aşımına uğrar.",
+        "B) Res’en tarhiyat yoluna gider.",
+        "C) Tahsili imkansız hale gelen vergi alacağından vazgeçer.",
+        "D) 6183 sayılı kanuna göre cebren tahsil eder.",
+        "E) Mükellefe tekrar tebliğ yapar."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergi borcunun bir miktar olarak tespitine ilişkin idarece yapılan işlem aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Tarh",
+        "B) Matrah saptanması",
+        "C) Tahsil",
+        "D) Tebliğ",
+        "E) Tahakkuku"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Vergi Usul Kanununa göre defter ve vesikalar kaç yıl süreyle saklanması gerekir?",
+      "options": [
+        "A) 3",
+        "B) 10",
+        "C) 1",
+        "D) 2",
+        "E) 5"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi beyannamede belirtilen toplamdan indirilmez?",
+      "options": [
+        "A) Geçmiş yıl zararları",
+        "B) Bağışlar",
+        "C) Harçlar",
+        "D) Şahsi sigorta primleri",
+        "E) Yardımlar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yeni yılda da kullanılmak istenen defterler ne zaman tasdik ettirilir?",
+      "options": [
+        "A) 3 ay içerisinde",
+        "B) Aralık ayında",
+        "C) Ocak ayında",
+        "D) Tasdik edilmez",
+        "E) Mart ayında"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergilendirme sürecinde idari işlemlerden biri değildir?",
+      "options": [
+        "A) Tahakkuk",
+        "B) Tebliğ",
+        "C) Tarh",
+        "D) Tahsil",
+        "E) Verginin hesaplanması"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "GMSİ beyannamesinde götürü gider indiriminin yanlış hesaplanması hangi vergilendirme hatası türüne girer?",
+      "options": [
+        "A) Mükellefin şahsında hata",
+        "B) Mükellefiyette hata",
+        "C) Matrahta hata",
+        "D) Mevzuda (konuda) hata",
+        "E) Vergilendirme veya muafiyet döneminde hata"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bilanço esasına göre defter tutması gerekenlerin işletme hesabı defteri tutması hangi sonucu doğurur?",
+      "options": [
+        "A) Re’sen takdiri",
+        "B) Sorun çıkmaz",
+        "C) Defterin onayını",
+        "D) İkmalen tarhı",
+        "E) Usulsüzlük cezasını"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisini birinci sınıf tacir tutmaz?",
+      "options": [
+        "A) Yevmiye defteri",
+        "B) Bilanço defteri",
+        "C) Envanter defteri",
+        "D) Büyük defter",
+        "E) İşletme hesabı defteri"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Mükellef N, 2018 yılına ait gelir vergisinin beyannamesini süresinde verip ilk taksitini ödemiştir. A, borcun geri kalan kısmını ödemediği takdirde zamanaşımı hangi tarihte dolar?",
+      "options": [
+        "A) 31.12.2024",
+        "B) 31.12.2023",
+        "C) 31.12.2025",
+        "D) 01.01.2023",
+        "E) 01.01.2024"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Mücbir sebep hallerinde kanuni sürelerin işlememesi hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Kanuni süre 60 gün işlemez",
+        "B) Kanuni süre 90 gün işlemez",
+        "C) Kanuni süre mücbir sebep ortadan kalkıncaya kadar işlemez",
+        "D) Kanuni süre 15 gün işlemez",
+        "E) Mücbir sebebin kanuni süreye etkisi yoktur."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Katma Değer Vergisi eksik ödenmiş olarak ithal edilen bir eşyanın vergisinin tahsil edilmemiş olan kısmı ile ilgili hangi kanuna göre işlem yapılır?",
+      "options": [
+        "A) Vergi Usul Kanunu",
+        "B) Amme Alacaklarının Tahsil Usulü Hakkında Kanun",
+        "C) Gümrük Kanunu",
+        "D) Katma Değer Vergisi Kanunu",
+        "E) Kurumlar Vergisi Kanunu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Tutulan defterlere günlük kaydı gerekmeyen işlemler kaç gün içinde kaydedilebilir?",
+      "options": [
+        "A) 10",
+        "B) 15",
+        "C) 5",
+        "D) 14",
+        "E) 12"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "İşe başlamayı vergi dairesine bildirme süresi kaç gündür?",
+      "options": [
+        "A) İşe başlama tarihinden itibaren 10 gün içinde",
+        "B) İşe başlama tarihinden itibaren 30 gün sonra",
+        "C) İşe başlama tarihinden itibaren 10 gün önce",
+        "D) İşe başlama tarihinden itibaren 30 gün önce",
+        "E) İşe başlamadan önce"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Adi Komandit Şirketlerde komanditer ortakların kazancı hangi gelir unsuruna girer?",
+      "options": [
+        "A) Serbest meslek kazancı",
+        "B) Ticari kazanç",
+        "C) Faiz",
+        "D) Zirai kazanç",
+        "E) Menkul sermaye iradı"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdaki değişikliklerin hangisi bildirim mecburiyetinde değildir?",
+      "options": [
+        "A) İşi bırakma",
+        "B) Personel değişikliği",
+        "C) Adres değişikliği",
+        "D) İş değişikliği",
+        "E) İşletmede değişiklik"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi adi komandit şirketlerde, şirket alacaklarına karşı sınırlı sorumludur?",
+      "options": [
+        "A) Şirket müdürü",
+        "B) Şirketi yönetenler",
+        "C) Genel kurul",
+        "D) Bütün ortaklar",
+        "E) Komanditer ortak"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "20 Haziran’da işi bırakan kolektif şirketin ortakları 1 Ocak- 20 Haziran dönemi gelirlerini en geç ne zaman beyan eder?",
+      "options": [
+        "A) 1 ay içinde",
+        "B) Ertesi yıl Mart ayında",
+        "C) 20 Haziran’da",
+        "D) 30 Haziran’da",
+        "E) 3 ay içinde"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bürosunda avukatlı faaliyetini sürdüren A’nın tutması gereken defter aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Envanter defteri",
+        "B) Yevmiye defteri",
+        "C) Büyük defter",
+        "D) İşletme hesabı defteri",
+        "E) Serbest meslek kazanç defteri"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi serbest meslek erbabının yararlanabileceği muaflık ve istisnalardan biri değildir?",
+      "options": [
+        "A) Diplomat muaflığı",
+        "B) Fuar muaflığı",
+        "C) Panayır istisnası",
+        "D) Telif kazançları istisnası",
+        "E) Sergi istisnası"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Protokol defteri aşağıdakilerden hangisinin serbest meslek kazancının tespit etmek için kullanılır?",
+      "options": [
+        "A) Bankalar",
+        "B) Doktorlar",
+        "C) Muhasebeciler",
+        "D) Avukatlar",
+        "E) Noterler"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi gelir vergisi kanununa göre serbest meslek erbabı değildir?",
+      "options": [
+        "A) Doktorlar",
+        "B) Dava Vekilleri",
+        "C) Gümrük komisyoncuları",
+        "D) Emlak komisyoncuları",
+        "E) Borsa ajan ve acentaları"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Bir üniversite profesörünün yazmış olduğu kitabın yayın hakkının bir yayın evine vermiştir\nBu profesörün elde ettiği gelir hangi gelir unsuruna girmektedir?",
+      "options": [
+        "A) Ticari kazanç",
+        "B) Serbest meslek kazancı",
+        "C) Menkul sermaye iradı",
+        "D) Ücret",
+        "E) Gayrimenkul sermaye iradı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi serbest meslek faaliyetinin sürekli olarak yapıldığını göstermez?",
+      "options": [
+        "A) Telefon alınması",
+        "B) İşyeri açılması",
+        "C) Mesleki kuruluşlara kaydolmak",
+        "D) Çalışılan yere tabela asılması",
+        "E) Mesleki faaliyetle ilgili ilanlar yapmak"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisinin kazancı serbest meslek kazancı değildir?",
+      "options": [
+        "A) Adi komandit şirketlerde komandite ortakların serbest meslek kazancı",
+        "B) Kolektif şirket ortaklarının serbest meslek kazancı",
+        "C) Adi Şirket ortaklarının serbest meslek kazancı",
+        "D) Adi komandit şirketlerde komanditer ortakların serbest meslek kazancı",
+        "E) Doktorların serbest meslek kazancı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Tam mükellef A’nın 2024 yılı ticari kazancı 20.000 TL, 2022 yılı zararı 10.000 TL, Bağ-Kur primi 15.000 TL, fakirlere yardım amacıyla gıda bankacılığı faaliyetinde bulunan vakıflara makbuz karşılığı bağış ve yardımları ise 5.000 TL dır.\n\nMükellef A’nın vergi matrahı kaç TL’dır?",
+      "options": [
+        "A) 175.000",
+        "B) 120.000",
+        "C) 200.000",
+        "D) 180.000",
+        "E) 170.000"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "GVK’ya göre tam mükellefler yıllık beyannamelerini hangi vergi dairesine verirler?",
+      "options": [
+        "A) İkametgahının bulunduğu yerdeki",
+        "B) İşyerinin bulunduğu yerdeki",
+        "C) Kazancının en az olduğu yerdeki",
+        "D) Kazancının en çok olduğu yerdeki",
+        "E) Faaliyetlerini yürüttükleri yerdeki"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kaynaklardan bir takvim yılı içinde elde edilen kazanç ve iratların bir araya getirilip toplanmasına ve bu suretle hesaplana gelirin vergi dairesine bildirilmesine mahsus olan beyannameye ne ad verilir?",
+      "options": [
+        "A) Gelir beyannamesi",
+        "B) Yıllık beyanname",
+        "C) Münferit beyanname",
+        "D) Muhtasar beyan.",
+        "E) Özel beyanname"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıda belirtilenlerden hangisi için elde ettikleri gelirleri dolayısıyla beyanname vermek zorundadır?",
+      "options": [
+        "A) Gerçek usulde vergilendirilmeyen zirai kazançlar",
+        "B) Tek işverenden alınan kesinti suretiyle vergilendirilmiş ücretler",
+        "C) Kazançları istisna haddi içinde kalanlar",
+        "D) Mesken kira gelirleri",
+        "E) Gelir vergisi tarifesinin ikinci gelir dilimini aşmayan işyeri kirası"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdaki menkul sermaye iratlarından hangisi için beyanname verilmesi veya diğer gelirler nedeniyle verilen beyannamede bu gelirin gösterilmesi zorunludur?",
+      "options": [
+        "A) Devlet Tahvil faizi",
+        "B) Alacak faizi",
+        "C) Mevduat faizi",
+        "D) Hazine bonosu faizi",
+        "E) Repo geliri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Uzlaşma\nII. Rüçhan hakkı\nIII. Teminat\nIV. Ceza indirimi\nV. Şahsi kefalet\n\nYukarıdakilerden hangileri amme alacaklarını korumaya yönelik önlemler arasında sayılmamıştır?",
+      "options": [
+        "A) Yalnız I",
+        "B) I-II ve III",
+        "C) I ve IV",
+        "D) Hiçbiri",
+        "E) I-IV ve V"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi kazanç elde etmediği takdirde beyanname vermek zorunda değildir?",
+      "options": [
+        "A) Gayri menkul malikleri",
+        "B) Gerçek usule tabi tacirler",
+        "C) Kolektif şirket ortakları",
+        "D) Gerçek usule tabi çiftçiler",
+        "E) Gerçek usule tabi serbest meslek erbabı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi gelirlerini toplayıp yıllık gelir vergisi beyannamesi vermek zorunda değildir?",
+      "options": [
+        "A) Eshamlı komandit şirketin komandite ortağı",
+        "B) Vergiden muaf esnaflar",
+        "C) Birinci sınıf mükellefler",
+        "D) Adi komandit şirketin komandite ortağı",
+        "E) Kolektif şirket ortakları"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi, faaliyetlerinden hiçbir gelir elde etmemiş olsa dahi yıllık beyanname vermek zorundadır?",
+      "options": [
+        "A) Tüccarlar",
+        "B) Gayri menkul sahipleri",
+        "C) İşçiler",
+        "D) Memurlar",
+        "E) Menkul sermaye iradı elde edenler"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Vergilendirme dönemi içinde yurdu terk edenlerin beyannameleri ne zamana kadar verilmelidir?",
+      "options": [
+        "A) Terkten itibaren 15 gün içinde",
+        "B) Ertesi ayın 15’ine kadar",
+        "C) Ertesi ayın 20’sine kadar",
+        "D) Bir ay içinde",
+        "E) Terk etmeden 15 gün içinde"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergiye tabi kurum kazancının tespitinde kazançtan indirilemez?",
+      "options": [
+        "A) Belli sınırlar içindeki bağış ve yardımlar",
+        "B) Sigorta teknik ihtiyatları",
+        "C) İlk tesis ve örgüt giderleri",
+        "D) Yedek akçeler",
+        "E) Eshamlı Komandit Şirketlerde komandite ortağın kar payı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "TTK’ya göre ayrılan yedek akçeler için kurumlar vergisinde ne gibi işlem yapılır?",
+      "options": [
+        "A) Amortismana dahil edilir.",
+        "B) Kurum kazancından gider olarak indirilemez.",
+        "C) Tamamı gider olarak yazılır.",
+        "D) Yarısı gider olarak yazılır.",
+        "E) Sigorta teknik ihtiyatlarına dahil edilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurumlar vergisi, aşağıdaki kazanç ve iratların hangisinden alınır?",
+      "options": [
+        "A) Eshamlı Komandit şirketin komandite ortağının kar payı üzerinden",
+        "B) Limited şirket ortaklarına dağıtılan kar payı üzerinden",
+        "C) Bir şahsın gayri menkul sermaye iradı üzerinden",
+        "D) Adi şirket kazancı üzerinden",
+        "E) Anonim şirket kazancı üzerinden"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi safi kurum kazacının tespitinde indirilecek bir gider değildir?",
+      "options": [
+        "A) Genel kurul toplantı giderleri",
+        "B) Yurt dışında yapılan onarma işlerine ait giderler",
+        "C) Hisse senedi ve tahvillerin ihraç giderleri",
+        "D) İşletmeye dahil taşıtların amortismanları",
+        "E) Kazancın elde edilmesi için yapılan genel giderler"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi kurumlar vergisi mükellefi değildir?",
+      "options": [
+        "A) İktisadi kamu mües.",
+        "B) Adi şirketler",
+        "C) Kooperatifler",
+        "D) İş ortaklıkları",
+        "E) Limited şirketler"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "2024 yılı için hesaplanan kurumlar vergisi 60.000.000 TL olan A Limited Şirketinin yabancı ülkelerde ödenen vergileri 7.000.000 TL, daha önce kesilmiş olan vergileri 8.000.000 TL ve 2023 yılı için ödediği geçici vergi 10.000.000 TL’dır.\n\nBu şirketin 2024 yılı için ödeyeceği kurumlar vergisi kaç TL’dır?",
+      "options": [
+        "A) 45.000.000",
+        "B) 60.000.000",
+        "C) 32.000.000",
+        "D) 65.000.000",
+        "E) 20.000.000"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi hukuki güvenlik ilkesinin bir öğesi değildir?",
+      "options": [
+        "A) Kanunların gerçek anlamda geriye yürümezliği",
+        "B) Kıyas yasağı",
+        "C) Mali güce göre vergilendirme",
+        "D) Vergilendirmede belirlilik",
+        "E) Hiçbiri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "20.03.2015 tarihinde doğan vergi alacağı, süresinde tarh ve mükellefe tebliğ edilmediği takdirde hangi tarihte zamanaşımına uğrar?",
+      "options": [
+        "A) 20.03.2020",
+        "B) 01.01.2021",
+        "C) 31.12.2020",
+        "D) 31.12.2021",
+        "E) 20.03.2021"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "…….., beyanların ve ödenmesi gereken vergilerin doğruluğunu sağlamak amacıyla mükellefin defter ve belgeleri üzerinde yapılan derinlemesine araştırmadır.\n\nYukarıdaki tanımda boşluk bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "options": [
+        "A) Arama",
+        "B) İnceleme",
+        "C) Yoklama",
+        "D) Araştırma",
+        "E) Bilgi toplama"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kooperatif ortaklarının kooperatiflerden elde ettikleri kar payı gelir vergisi kanununa göre ne sayılmaktadır?",
+      "options": [
+        "A) Menkul sermaye iradı",
+        "B) Sair kazanç ve irat",
+        "C) Ticari kazanç",
+        "D) Zirai kazanç",
+        "E) Ücret"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdaki kooperatiflerden hangisi katma değer vergisinden istisna edilmiştir?",
+      "options": [
+        "A) Adi şirket şeklinde kurulanlar",
+        "B) Tüketim kooperatifleri",
+        "C) Kredi kooperatifleri",
+        "D) Tarımsal kooperatifleri",
+        "E) Üretim kooperatifleri"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Tahakkuk zamanaşımının başlangıcının saptanmasında aşağıdakilerden hangisi belirleyicidir?",
+      "options": [
+        "A) Ödeme emrinin tebliği",
+        "B) Verginin tahakkuku",
+        "C) Vergiyi doğuran olay",
+        "D) Verginin tarhı",
+        "E) Vergi borcunun vadesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kooperatiflerde gelir gider farkının bir kısmının kooperatiflerle yaptıkları işlem hacmine göre ortaklara geri verilmesine ne ad verilir?",
+      "options": [
+        "A) Rüçhan hakkı",
+        "B) Kar payı",
+        "C) Emisyon primi",
+        "D) İştirak kazancı",
+        "E) Risturn"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bir kooperatif kurabilmek için en az kaç ortağın bir araya gelmesi gerekir?",
+      "options": [
+        "A) 2",
+        "B) 6",
+        "C) 5",
+        "D) 7",
+        "E) 3"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdaki kooperatiflerden hangisi binaları için emlak vergisinden istisna edilmemiştir?",
+      "options": [
+        "A) Tarım satış kooperatifleri",
+        "B) Tarım kredi kooperatifleri",
+        "C) Kooperatif birlikleri",
+        "D) Kooperatif merkez birlikleri",
+        "E) Ticari amaçlı kiralamalar"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi kooperatiflerin Kurumlar Vergisinden muafiyet şartlarından biri değildir?",
+      "options": [
+        "A) Ana sözleşmede yer alması",
+        "B) Herkesle iş görülebilmesi yönünde hüküm bulunması",
+        "C) Yönetim kuruluna kazanç üzerinden hisse verilmemesi",
+        "D) İhtiyat akçelerinin ortaklara dağıtılmaması",
+        "E) Sermaye üzerinden kazanç dağıtılmaması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "“Yetkili makamların mükellefin kendisine yazı ile yanlış izahat vermiş olmaları veya bir hükmün uygulanma tarzına ilişkin bir içtihadın değişmiş olması”\n\n213 sayılı vergi usul kanununda ye alan yukarıdaki tanım aşağıdakilerden hangisi ile ifade edilir?",
+      "options": [
+        "A) İzaha davet",
+        "B) Mücbir sebep",
+        "C) Pişmanlık ve ıslah",
+        "D) Yanılma ve görüş değişikliği",
+        "E) Zor durum"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kooperatiflerin sermayeleri en az ne kadar olmalıdır?",
+      "options": [
+        "A) 500.000",
+        "B) 5.000.000",
+        "C) 700",
+        "D) 1.000.000",
+        "E) Böyle bir sınır yoktur."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdaki şirket ortaklarından hangisi vergilerini diğerlerinden daha önce öder?",
+      "options": [
+        "A) Anonim şirket",
+        "B) Kooperatifler",
+        "C) Limited şirket",
+        "D) Kollektif şirket",
+        "E) Eshamlı komandit şirket"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi kollektif şirketlerin kazancından indirilemez?",
+      "options": [
+        "A) Amortismanlar",
+        "B) İşçi ücretleri",
+        "C) Şirket ortaklarına ödenen ücret",
+        "D) İşyeri kirası",
+        "E) İşle ilgili seyahat giderleri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi hep şahıs hem de sermaye şirketleri için tanınan bir indirim türüdür?",
+      "options": [
+        "A) Portföy işletmeciliği kazanç istisnası",
+        "B) Yatırım indirimi",
+        "C) Emisyon primi istisnası",
+        "D) Turizm işletmeleri istisnası",
+        "E) İştiraklerden elde edilen kar payı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi şahıs şirketlerinde kazançtan indirilebilen giderlerdendir?",
+      "options": [
+        "A) Eşlerine ödedikleri ücret",
+        "B) Eşlerine ödedikleri prim",
+        "C) Kendilerinin aldıkları ücret",
+        "D) Çocuklarına ödenen ücret",
+        "E) İşle ilgili seyahat giderleri"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sattıkları mal veya yaptıkları iş için fatura vermek zorunda olanlar aşağıdakilerden hangisinde birarada verilmiştir?",
+      "options": [
+        "A) Defter tutan çiftçiler, basit usule tabi ticaret erbabı",
+        "B) Birinci sınıf tüccarlar, defter tutan çiftçiler",
+        "C) Birinci sınıf tüccarlar, ikinci sınıf tüccarlar, tevkifat yoluyla vergilendirilen çiftçiler",
+        "D) Tevkifat yoluyla vergilendirilen çiftçiler, birinci sınıf tüccarlar",
+        "E) Vergiden muaf esnaf, ikinci sınıf tüccarlar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi VUK’na göre defter tutmak zorunda değildir?",
+      "options": [
+        "A) Dernek ve vakıflara ait iktisadi işletmeler",
+        "B) Serbest meslek erbapları",
+        "C) Kazançları basit olarak tespit edilenler",
+        "D) Ticari şirketler",
+        "E) Ticaret ve sanat erbabı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi varlıklara amortisman konusu olma koşulu değildir?",
+      "options": [
+        "A) Varlıklar işletmede bir yıldan fazla kullanılmalıdır",
+        "B) Varlıklar aktife kayıtlı olmalıdır",
+        "C) Varlıklar aşınmaya ve yıpranmaya uğramalıdır",
+        "D) Varlıklar gayri maddi sabit varlık olmalıdır",
+        "E) Maddi ve gayri maddi sabit varlık olmalıdır"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi amortismana tabi değildir?",
+      "options": [
+        "A) Binalar",
+        "B) Sabit varlıklar",
+        "C) Kısa vadeli borçlar",
+        "D) Alacaklar",
+        "E) Aktifleştirilen ilk kuruluş giderler"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Amortisman oranları kim tarafından belirlenir?",
+      "options": [
+        "A) Defterdarlık",
+        "B) Cumhurbaşkanlığı",
+        "C) Vergi dairesi",
+        "D) Hesap uzmanları",
+        "E) Maliye Bakanlığı"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bir alacağın şüpheli sayılabilmesi için aşağıdaki koşullardan hangisine uygun olması gerekir?",
+      "options": [
+        "A) Dava aşamasındaki büyük alacaklar",
+        "B) Tahsilatın gerçekleşeceğinin anlaşılması",
+        "C) Davanın sonuçlanmış olması",
+        "D) Tahsiline olanak kalmayan alacaklar",
+        "E) Dava ve icra safhasında olan alacaklar"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Satın alınan ve imal edilen mallar, VUK’na göre hangi değerleme ölçüsüne göre değerlenir?",
+      "options": [
+        "A) Raiç bedeli",
+        "B) Maliyet bedeli",
+        "C) Tasarruf değeri",
+        "D) Borsa raici",
+        "E) Mukayyet değeri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Amortismana tabi iktisadi varlığın satılmasından doğan kar, yenileme fonu adı altında bir geçici hesapta hangi amaçla tutulur?",
+      "options": [
+        "A) Varlığı yenilemek",
+        "B) Vergi ödemek",
+        "C) Yedek akçe ayırmak",
+        "D) Amortisman ayırma",
+        "E) Ortaklara dağıtmak"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gelir Vergisi Kanununa göre aşağıdakilerden hangisi tam mükellef ile ilgili doğrudur?",
+      "options": [
+        "A) İkametgâhı Türkiye’de olmayan ancak bir dönemde altı ay Türkiye’de bulunan kişiler tam mükelleftir.",
+        "B) İkametgâhı Türkiye’de olmayan ve bir dönemde altı aydan az Türkiye’de bulunan kişiler tam mükelleftir.",
+        "C) Kanuni merkezi veya iş merkezi Türkiye’de olan şirketler tam mükelleftir.",
+        "D) İkametgâhı Türkiye’de olmayan ancak bir dönemde altı aydan fazla Türkiye’de bulunan kişiler tam mükelleftir.",
+        "E) İkametgâhı Türkiye’de olmayan ancak bir dönemde dört aydan fazla Türkiye’de bulunan kişiler tam mükelleftir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Vergi borcu sebebiyle 12 Ocak 2016 tarihinde mükellefe tebliğ edilen ödeme emrine itiraz süresinin son günü aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 12 Şubat 2016",
+        "B) 19 Ocak 2017",
+        "C) 27 Ocak 2016",
+        "D) 19 Ocak 2016",
+        "E) 19 Şubat 2016"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Vergi sistemimize göre olağan durumlarda kullanılan tarh usulü aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Beyana Dayalı Tarh",
+        "B) İdarece Tarh",
+        "C) İkmalen Tarh",
+        "D) Resen Tarh",
+        "E) Olağan Tarh"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi gecikme faizi ile ilgili doğrudur?",
+      "options": [
+        "A) 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanununda düzenlenmiştir",
+        "B) Verginin tahsilatının geciktirilmesinin yaptırımıdır",
+        "C) 213 sayılı Vergi Usul Kanununda tanımlanmıştır",
+        "D) Oranı 10,4 olarak belirlenmiştir",
+        "E) Vergi ziyaına sebep olunan her durumda uygulanır"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Kurumlar Vergisi mükellefi değildir?",
+      "options": [
+        "A) Derneklere ait iktisadi işletmeler",
+        "B) Eshamlı Komandit şirketler",
+        "C) Vakıflar",
+        "D) İktisadi Kamu Kuruluşları",
+        "E) İş Ortaklıkları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Vergi matrahının tamamen veya kısmen defter, kayıt ve belgelere veya kanuni ölçülere dayanılarak tespitine imkan bulunmayan hallerde, takdir komisyonları tarafından takdir edilen veya vergi incelemesi yapmaya yetkili olanlarca düzenlenmiş bulunan matrah veya matrah kısmı üzerinden vergi tarh olunması aşağıdakilerden hanisidir?",
+      "options": [
+        "A) İkmalen tarh",
+        "B) İdarece tarh",
+        "C) Re’sen tarh",
+        "D) Düzeltme yoluyla tarh",
+        "E) Beyana dayalı tarh"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergi sorumluluğu ile ilgili yanlıştır?",
+      "options": [
+        "A) Vergi sorumluluğu, başkasının borcundan doğan sorumluluktur.",
+        "B) Vergi sorumluluğu kanundan doğar",
+        "C) Vergi sorumluluğu için medeni hakları kullanma ehliyetine sahip olmak gerekmez",
+        "D) Vergi sorumlusu, vergi yasalarına göre kendisine vergi borcu düşen gerçek veya tüzel kişidir",
+        "E) Vergi sorumluluğu başkasına devredilemez"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanununa göre aşağıdakilerden hangisi teminat ile ilgili olarak yanlıştır?",
+      "options": [
+        "A) İlgililer lehine üçüncü şahıslar tarafından gösterilen menkul mallar teminat olarak kabul edilir",
+        "B) Bankalar tarafından verilen süresiz teminat mektupları teminat olarak kabul edilir",
+        "C) Para teminat olarak kabul edilmez",
+        "D) ilgililer tarafından gösterilen gayrimenkul mallar teminat olarak kabul edilir",
+        "E) Hazine bonoları teminat olarak kabul edilir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi geliri elde etmenin tahakkuk esasına göre belirlendiği gelir unsurudur?",
+      "options": [
+        "A) Ücret",
+        "B) GMSİ",
+        "C) Serbest Meslek Kazancı",
+        "D) Ticari kazanç",
+        "E) Menkul Sermaye İradı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İşverene tabi belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatlerdir.\n\nYukarıdaki tanımda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+      "options": [
+        "A) Zirai kazanç",
+        "B) Ücret",
+        "C) Menkul sermaye iradı",
+        "D) Serbest meslek kazancı",
+        "E) Gayrimenkul sermaye iradı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vergi tarh edildikten sonra ortaya çıkan matrah farkı üzerinden yapılan tarhiyat hangi kavramla tanımlanır?",
+      "options": [
+        "A) Re’sen vergi tarhı",
+        "B) İkmalen vergi tarhı",
+        "C) Verginin idarece tarhı",
+        "D) Verginin takdiri",
+        "E) Vergi incelemesi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Katma Değer Vergisi kanununa göre istisna kapsamına girmez?",
+      "options": [
+        "A) İthalat istisnası",
+        "B) İhracat istisnası",
+        "C) Taşımacılık istisnası",
+        "D) Arızi kazanç istisnası",
+        "E) Diplomatik istisna"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kurumlar Vergisi kanununa göre aşağıdakilerden hangisi Kurumlar Vergisinden muaf değildir?",
+      "options": [
+        "A) Kamu idare ve kuruluşları tarafından genel insan ve hayvan sağlığını korumak ve tedavi amacıyla işletilen hastaneler",
+        "B) Kamu idare ve kuruluşları tarafından sosyal amaçlarla işletilen şefkat, rehin ve yardım sandıkları",
+        "C) Kanunla kurulan emekli ve yardım sandıkları ile sosyal güvenlik kurumları",
+        "D) Dernek ve vakıflara ait iktisadi işletmeler",
+        "E) Genel yönetim kapsamındaki kamu idarelerine ait olup sadece kamu görevlilerine hizmet veren, kâr amacı gütmeyen ve üçüncü kişilere kiralanmayan kreş ve konukevleri ile askerî kışlalardaki kantinler"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Gelir Vergisi Kanununa göre aşağıdakilerden hangisi değer artış kazancı sayılmamaktadır?",
+      "options": [
+        "A) Telif haklarının ve ihtira beratlarının müellifleri, mucitleri ve bunların kanunî mirasçıları dışında kalan kimseler tarafından elden çıkarılmasından doğan kazançlar.",
+        "B) Ortaklık haklarının veya hisselerinin elden çıkarılmasından doğan kazançlar.",
+        "C) Faaliyeti durdurulan bir işletmenin kısmen veya tamamen elden çıkarılmasından doğan kazançlar.",
+        "D) Telif haklarının ve ihtira beratlarının müellifleri, mucitleri ve bunların kanunî mirasçıları dışında kalan kimseler tarafından kiralanmasından doğan kazançlar.",
+        "E) Bir gerçek kişinin sahip olduğu evini elden çıkarması"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergi borcunu sona erdiren sebeplerden biri değildir?",
+      "options": [
+        "A) Pişmanlık",
+        "B) Doğal afet terkini",
+        "C) Tahakkuktan vazgeçme",
+        "D) Takas",
+        "E) Zamanaşımı süresinin sona ermesi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I- Mali güce göre vergilendirme ilkesi\nII- Yürütmenin sınırlı yetkisi ilkesi\nIII- Kıyas yasağı ilkesi\nIV- Geriye yürümezlik ilkesi\n\nYukarıdakilerden hangileri Hukuki Güvenlik kapsamında yer alır?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) III ve IV",
+        "D) Hepsi",
+        "E) II, III ve IV"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Vergi Hukuku’na göre, somut maddi olayın, soyut hukuk kurallarına uygun olması olgusu aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Tipiklik",
+        "B) Tipleştirme",
+        "C) Ekonomik yaklaşım",
+        "D) Peçeleme",
+        "E) Kıyas"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergi tarhı bakımından bir hazırlayıcı işlem değildir?",
+      "options": [
+        "A) Bilgi toplama",
+        "B) Matrah tespiti",
+        "C) Yoklama",
+        "D) İnceleme",
+        "E) Tahakkuk"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aktif toplamı ile borçlar arasındaki fark, müteşebbisin işletmeye mevzu varlığını (…) teşkil eder.\n\nTanımında boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+      "options": [
+        "A) Örtülü sermaye",
+        "B) Transfer fiyatlandırması",
+        "C) Öz sermaye",
+        "D) Bilanço",
+        "E) Gelir tablosu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Ticari işletmeye dahil gayrimenkulün kiralanması\nII- Bir sanatçının konser vermesi\nIII- Yurt dışından mal ihracatı\n\nYukarıdakilerden hangisi/hangileri KDV’nin konusuna girer?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) I, II ve III",
+        "D) I ve III",
+        "E) Yalnız III"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vergi ödevlerinin kanuni temsilci tarafından yerine getirilmemesi durumunda aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kanuni temsilci cezanın ödenmesinden sorumludur",
+        "B) Vergi, önce mükelleften istenir",
+        "C) Mahkumiyet benzeri cezalarda da kanuni temsilci sorumludur",
+        "D) Kanuni temsilcinin vergi ve cezalardan dolayı sorumluluğu vardır",
+        "E) Cezalardan vergi mükellefi sorumludur"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Gelir Vergisi Kanununa göre dar mükellefiyetle ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Türkiye’de yerleşmiş olmayan gerçek kişiler sadece Türkiye’de elde ettikleri kazanç ve iratlar üzerinden vergilendirilirler",
+        "B) Dar mükellefler yurt dışında elde ettikleri kazanç ve iratlardan dolayı vergilendirilmezler",
+        "C) Zirai kazançlarda vergilendirme için, Zirai faaliyetlerin Türkiye’de icra edilmesi gerekir",
+        "D) Bir dönemde sekiz ay Türkiye ‘de kalanlar dar mükelleftir",
+        "E) Hastalık veya tutukluluk gibi zorunlu sebeplerle Türkiye’de bulunanlar tam mükellef olarak değerlendirilmez"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Vergi mükellefinin faaliyet gösterdiği sektörde yer alan benzer durumdaki işletmelerin hasılatlarına bakılarak düşük gelir beyan eden mükelleflerin incelemeye alınmasını amaçlayan denetim biçimine ne denir?",
+      "options": [
+        "A) Çapraz denetim",
+        "B) Yoklama denetimi",
+        "C) Bilgi toplama",
+        "D) Karşıt inceleme",
+        "E) Uygunluk denetimi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi “vergi sorumluluğu” olarak kabul edilmez?",
+      "options": [
+        "A) Kayyumun sorumluluğu",
+        "B) Ücret ödeyen patronun sorumluluğu",
+        "C) Mirasçının sorumluluğu",
+        "D) Karnesiz ücret erbabı çalıştıranların sorumluluğu",
+        "E) Katma değer vergisi mükelleflerinin sorumluluğu"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "I- Ticari teamüle uygun olmayan iskonto\nII- Ambalaj giderleri\nIII- Ticari teamüle uygun iskonto\nIV- Hesaplanan KDV\n\nYukarıdakilerden hangileri KDV matrahına dahil değildir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) Hepsi",
+        "D) III ve IV",
+        "E) I ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "ÖTV ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Matrahı KDV matrahı ile aynıdır",
+        "B) Matrah yapısı miktar ve değer esaslıdır",
+        "C) Tek aşamada alınır",
+        "D) Verginin konusuna hizmetler girmez",
+        "E) ÖTV’ye tabi bir mal ÖTV’ye tabi başka bir malın üretiminde kullanılırsa ilk mala ödenen ÖTV indirilemez"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Gelir Vergisi Kanununa göre serbest meslek kazançlarına ilişkin hangisi yanlıştır?",
+      "options": [
+        "A) Noterler Serbest meslek erbabı sayılırlar",
+        "B) Serbest meslek erbapları işletmelerine dahil malları kiraya verdiklerinde KDV ödemezler",
+        "C) Kiralanan ve işte kullanılan taşıtların giderleri serbest meslek kazancının tespitinde hasılattan indirilir",
+        "D) Serbest meslek faaliyetinde bulunan adi şirket ortakları serbest meslek erbabı sayılırlar",
+        "E) Serbest meslek erbapları işletmelerine dahil malları kiraya verdiklerinde Gelir Vergisi öderler"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurumlar vergisi kanununa göre aktife kayıtlı bir malın kirası aşağıdakilerden hangisidir?",
+      "options": [
+        "A) GMSİ",
+        "B) Zirai kazanç",
+        "C) Ticari kazanç",
+        "D) Serbest Meslek Kazancı",
+        "E) Menkul Sermaye İradı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gelir vergisi kanununa göre aynı suç dolayısıyla 2.000TL vergi ziyaı cezası ve 3.000TL usulsüzlük cezası alan mükellef için aşağıdakilerden hangisi söylenebilir?",
+      "options": [
+        "A) 5.000TL ceza öder",
+        "B) 2.000TL ceza öder",
+        "C) Ceza ödemez",
+        "D) 3.000TL ceza öder",
+        "E) 7.000TL ceza öder"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "3065 sayılı Katma Değer Vergisi Kanunu’na göre, katma değer vergisinde vergiyi doğuran olayın gerçekleşmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Elektrik kullanımında bedelini gösteren faturanın düzenlenmiş olması",
+        "B) Malın tesliminden önce fatura verilmesi hâlinde, bu belgede gösterilen tutarla sınırlı olmak üzere faturanın düzenlenmesi",
+        "C) İthalatta gümrük vergisi ödeme mükellefiyetinin başlaması",
+        "D) Komisyoncular vasıtasıyla veya konsinyasyon suretiyle yapılan satışlarda malın alıcıya teslimi",
+        "E) Malın alıcıya gönderilmesi hâlinde malın nakliyeciye verilmiş olması"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Vergi hukukuna göre Gelir Vergisi Kanununda uygulanan artan oran kavramının sebebi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Vergi yasalarının geriye yürümezliği ilkesi",
+        "B) Vergilendirmede belirlilik ilkesi",
+        "C) Mali güce göre vergilendirme ilkesi",
+        "D) Vergide genellik ilkesi",
+        "E) Yasal idare ilkesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Verginin konusu\nII- İstisnalar\nIII- Muafiyetler\nIV- İndirimler\n\nBakanlar Kurulu’nun vergi, resim, harç ve benzeri mali yükümlülüklere ilişkin olarak yukarıdakilerden hangisinde değişiklik yapması mümkündür?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Hepsi",
+        "D) I, II ve III",
+        "E) II, III ve IV"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Damga Vergisi Kanununa göre aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Yabancı memleketlerle Türkiye’deki yabancı elçilik ve konsolosluklarda düzenlenen kâğıtlar, Türkiye’de resmi dairelere ibraz edildiği, üzerine devir veya ciro işlemleri yürütüldüğü veya herhangi bir suretle hükümlerinden faydalanıldığı takdirde vergiye tabi tutulur.",
+        "B) Vergiye tabi olmayan kâğıtlar mahiyetinde bulunan veya onların yerini alan mektup ve şerhlerle, bu kâğıtların hükümlerinin yenilenmesine, uzatılmasına, değiştirilmesine devrine veya bozulmasına ilişkin mektup ve şerhler de Damga Vergisine tabidir.",
+        "C) Damga Vergisinin mükellefi kâğıtları imza edenlerdir",
+        "D) Resmi dairelerle kişiler arasındaki işlemlere ait kâğıtların Damga Vergisini kişiler öder",
+        "E) Yabancı memleketlerle Türkiye’deki yabancı elçilik ve konsolosluklarda düzenlenen kâğıtların vergisini, Türkiye’de bu kâğıtları resmi dairelere ibraz eden, üzerlerinde devir veya ciro işlemleri yapanlar veya herhangi bir suretle hükümlerinden faydalananlar öderler"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Damga Vergisi Kanununa göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Bir nüshadan fazla olarak düzenlenen kâğıtlardan, maktu vergiye tabi olanların sadece bir nüshası damga vergisine tabidir",
+        "B) Bir nüshadan fazla olarak düzenlenen kâğıtlardan, nispi vergiye tabi olanların her bir nüshası ayrı ayrı aynı miktarda vergiye tabidir",
+        "C) Bir kâğıtta biri birinden tamamen ayrı birden fazla akit ve işlem bulunduğu takdirde bunların sadece bir işlemin vergisi alınır",
+        "D) Birden fazla kişi tarafından imza edilen kâğıtlara ait vergi ve cezanın tamamından imza edenlerde müteselsil sorumluluk yoktur",
+        "E) Vergiye tabi kâğıtların Damga Vergisinin ödenmemesinden veya noksan ödenmesinden dolayı alınması lazım gelen vergi ve cezadan, mükelleflere rücu hakkı olmak üzere, kâğıtları ibraz edenler sorumludur"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Vergi Usul Kanununa göre aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Elektronik defter, şekil hükümlerinden bağımsız olarak bu Kanuna göre tutulması zorunlu olan defterlerde yer alması gereken bilgileri kapsayan elektronik kayıtlar bütünüdür",
+        "B) Elektronik belge, şekil hükümlerinden bağımsız olarak bu Kanuna göre düzenlenmesi zorunlu olan belgelerde yer alan bilgileri içeren elektronik kayıtlar bütünüdür.",
+        "C) Elektronik kayıt, elektronik ortamda tutulan ve elektronik defter ve belgeleri oluşturan, elektronik yöntemlerle erişimi ve işlenmesi mümkün olan en küçük bilgi ögesini ifade eder.",
+        "D) Vergi Usul Kanununda ve diğer vergi kanunlarında defter, kayıt ve belgelere ilişkin olarak yer alan hükümler elektronik defter, kayıt ve belgeler için de geçerlidir.",
+        "E) İçişleri Bakanlığı, elektronik defter, belge ve kayıtlar için diğer defter, belge ve kayıtlara ilişkin usul ve esaslardan farklı usul ve esaslar belirlemeye yetkilidir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Gelir Vergisi Kanununa göre aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Gelir bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların safi tutarıdır.",
+        "B) Ticari kazanç, zirai kazanç ve serbest meslek kazancı gelirin unsurlarındandır",
+        "C) Ücret ve menkul sermaye iradı gelirin unsurlarındandır",
+        "D) Gayrimenkul sermaye iradı gelirin unsurlarındandır",
+        "E) Arızi kazanç Gelir Vergisine tabi değildir"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Gelir Vergisinde muafiyet ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Motorlu nakil vasıtaları kullanmamak şartı ile gezici olarak veya bir işyeri açmaksızın perakende ticaret ile iştigal edenler Gelir Vergisinden muaftır",
+        "B) Bir işyeri açmaksızın gezici olarak ve doğrudan doğruya müstehlike iş yapan hallaç, kalaycı, lehimci, musluk tamircisi gibi küçük sanat erbabı Gelir Vergisinden muaftır",
+        "C) Köylerde gezici olarak her türlü sanat işleri ile uğraşanlar Gelir Vergisinden muaftır",
+        "D) Ziraat işlerinde kullandıkları hayvan, hayvan arabası, motor, traktör gibi vasıtalar veya sandallarla nakliyeciliği mutat hale getirmeksizin ara sıra ücret karşılığında eşya ve insan taşıyan çiftçiler Gelir Vergisinden muaftır",
+        "E) Bir işyeri açmak suretiyle kendi nam ve hesabına münhasıran her türlü hurda maddeyi toplayarak veya satın alarak bu malların ticaretini yapanlara veya tekrar işleyenlere satanlar Gelir Vergisinden muaftır"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Gelir Vergisi istisnalarından değildir?",
+      "options": [
+        "A) Serbest meslek kazanç istisnası",
+        "B) PTT Acentelerinde kazanç istisnası",
+        "C) Ticarî ve ziraî kazançlarda yatırım indirimi istisnası",
+        "D) Genç girişimcilerde kazanç istisnası",
+        "E) Kurumların, tam mükellefiyete tabi başka bir kurumun sermayesine katılımlarından elde ettikleri kazançlar"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Gelir Vergisi Kanununa göre aşağıdakilerden hangisi ticari kazanç sayılamaz?",
+      "options": [
+        "A) Maden, taş ve kireç ocakları, kum ve çakıl istihsal yerleri ile tuğla ve kiremit harmanlarının işletilmesi",
+        "B) Diş doktorlarının özel muayenehanelerinde yaptıkları işleri",
+        "C) Özel okul ve hastanelerle benzeri yerlerin işletilmesi",
+        "D) Gayrimenkullerin alım, satım ve inşa işleriyle devamlı olarak uğraşanların bu işleri",
+        "E) Coberlik işleri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Gelir Vergisi Kanununa göre indirilecek giderlerden değildir?",
+      "options": [
+        "A) Her türlü para cezaları ve vergi cezaları ile teşebbüs sahibinin suçlarından doğan tazminatlar",
+        "B) Hizmetli ve işçilerin iş yerinde veya iş yerinin müştemilatında iaşe ve ibate giderleri",
+        "C) İşle ilgili olmak şartiyle, mukavelenameye veya ilama veya kanun emrine istinaden ödenen zarar; ziyan ve tazminatlar",
+        "D) Kiralama yoluyla edinilen veya işletmeye dahil olan ve işte kullanılan taşıtların giderleri",
+        "E) Ticari kazancın elde edilmesi ve idame ettirilmesi için yapılan genel giderler"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gelir Vergisi Kanununa göre aşağıdakilerden hangisi basit usule tabi olabilir?",
+      "options": [
+        "A) Kollektif şirket ortakları ile komandit şirketlerin komandite ortakları",
+        "B) Sarraflar ile kıymetli maden ve mücevherat alım satımı ile uğraşanlar",
+        "C) Sigorta prodüktörleri",
+        "D) Gayrimenkul ve gemi alım satımı ile uğraşanlar",
+        "E) Basit usulün şartlarına haiz çalışan terzi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Vergi ödevi Anayasanın hangi bölümünde ele alınmaktadır?",
+      "options": [
+        "A) Kişinin temel hak ve ödevleri",
+        "B) Sosyal ve ekonomik hak ve ödevler",
+        "C) Siyasal hak ve ödevler",
+        "D) Sosyal güvenlik hak ve ödevleri",
+        "E) Sağlık, çevre hak ve ödevleri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurumlar Vergisi Kanununa göre zarar mahsubunun şartları konusunda aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Son beş yıla ilişkin kurumlar vergisi beyannamelerinin kanunî süresinde verilmiş olması",
+        "B) Devralınan kurumun faaliyetine devir veya bölünmenin meydana geldiği hesap döneminden itibaren en az beş yıl süreyle devam edilmesi",
+        "C) Faaliyette bulunulan ülkenin vergi kanunlarına göre beyan edilen vergi matrahlarının zarar dahil, her yıl o ülke mevzuatına göre denetim yetkisi verilen kuruluşlarca rapora bağlanması",
+        "D) İlgili ülke mevzuatına göre düzenlenen raporun aslı ile tercüme edilmiş bir örneğinin Türkiye’deki ilgili vergi dairesine ibrazı",
+        "E) Bu şartların ihlâli halinde, zarar mahsupları nedeniyle zamanında tahakkuk ettirilmeyen vergiler için özel usulsüzlük cezası doğmuş sayılır"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Veraset ve İntikal Vergisi Kanununa göre aşağıdakilerden hangisi vergiden muaf değildir?",
+      "options": [
+        "A) Emekli ve yardım sandıkları",
+        "B) Siyasi partiler",
+        "C) İlim ve kültür kuruluşları",
+        "D) Anonim şirketler",
+        "E) Yabancı memurlar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre 12.03.2018’de yapılan ihtiyati tahakkuka karşı itiraz süresinin son günü aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 27.03.2018",
+        "B) 19.03.2018",
+        "C) 11.04.2018",
+        "D) 12.04.2018",
+        "E) 22.03.2018"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Katma Değer Vergisi Kanununa göre teslim ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Teslim, bir mal üzerindeki tasarruf hakkının malik veya onun adına hareket edenlerce, alıcıya veya adına hareket edenlere devredilmesidir",
+        "B) Malın alıcıya veya onun adına hareket edenlere gönderilmesi halinde, malın nakliyesinin başlatılması veya nakliyeci veya sürücüye tevdi edilmesi de mal teslimidir",
+        "C) Trampa iki ayrı teslim sayılan hal hükmündedir",
+        "D) Bir mal üzerindeki tasarruf hakkının iki veya daha fazla kimse tarafından zincirleme akit yapılmak suretiyle, malın bu arada el değiştirmeden doğrudan sonuncu kişiye devredilmesi halinde, aradaki safhaların her biri ayrı bir teslimdir",
+        "E) Su, elektrik, gaz, ısıtma, soğutma ve benzeri şekillerdeki dağıtımlar da mal teslimidir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’a göre, aşağıdakilerden hangisi, ihbarname ile tebliğ edilen ve vade tarihi 17.02.2017 olan verginin tahsil zamanaşımı süresinin son günüdür?",
+      "options": [
+        "A) 01.01.2021",
+        "B) 31.11.2022",
+        "C) 17.02.2022",
+        "D) 31.12.2022",
+        "E) 17.02.2021"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kurumlar Vergisi Kanunu’na göre kurumların ilişkili kişilerle yaptıkları işlemlerde uygulayacağı fiyatı belirlerken kullanabileceği yöntemlerden değildir?",
+      "options": [
+        "A) Mukayyet değer yöntemi",
+        "B) Karşılaştırılabilir fiyat yöntemi",
+        "C) Maliyet artı yöntemi",
+        "D) Yeniden satış fiyatı yöntemi",
+        "E) İşlemsel kâr yöntemleri"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Katma Değer Vergisi Kanunu’na göre vergiyi doğuran olayla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Mal teslimi ve hizmet ifası hallerinde, malın teslimi veya hizmetin yapılması vergiyi doğuran olaydır",
+        "B) Su, elektrik, gaz, ısıtma, soğutma ve benzeri enerji dağıtım veya kullanımlarında bedellerin tahakkuk ettirilmesi",
+        "C) Komisyoncular vasıtasıyla veya konsinyasyon suretiyle yapılan satışlarda, malların komisyoncuya teslimi",
+        "D) Malın tesliminden veya hizmetin yapılmasından önce fatura veya benzeri belgeler verilmesi hallerinde, bu belgelerde gösterilen miktarla sınırlı olmak üzere fatura veya benzeri belgelerin düzenlenmesi",
+        "E) İthalatta, Gümrük Kanununa göre gümrük vergisi ödeme mükellefiyetinin başlaması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurumlar Vergisi Kanunu’na göre dar mükellefiyete tâbi olan yabancı kurumların vergiye tâbi kazancının Gelir Vergisi Kanununda yazılı diğer kazanç ve iratlardan ibaret bulunması halinde bu durumu hangi beyan ile bildirir?",
+      "options": [
+        "A) Özel beyanname",
+        "B) Muhtasar beyanname",
+        "C) KDV beyannamesi",
+        "D) Münferit beyanname",
+        "E) Yıllık beyanname"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’a göre 20.04.2018 tarihinde yapılan ihtiyati haciz işlemine karşı itiraz süresi hangi tarihte dolar?",
+      "options": [
+        "A) 04.05.2018",
+        "B) 05.05.2018",
+        "C) 27.04.2018",
+        "D) 20.05.2018",
+        "E) 30.04.2018"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurumlar Vergisi Kanunu’na göre kurumlar vergisi beyanına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur",
+        "B) Beyanname, ilgili bulunduğu hesap döneminin sonuçlarını içerir",
+        "C) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri olsa dahi ayrı beyanname verilmez",
+        "D) Yıllık beyan esasında vergilendirilen kurumların vergilendirme dönemi, hesap dönemidir",
+        "E) Her mükellef vergiye tâbi kazançlarının her biri için ayrı bir beyanname verir"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bir yasa hükmünün anlamı belirlenirken bu hükmün yasanın yapısı içindeki yeri ve diğer mevzuat hükümleri ile olan bağlantısı ve ilişkisinin araştırıldığı yorum yöntemi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Lafzi yorum",
+        "B) Amaçsal yorum",
+        "C) Sistematik yorum",
+        "D) Bilimsel yorum",
+        "E) Tarihi yorum"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdaki tarihlerden hangisi 10 Haziran 2015 tarihinde vergiyi doğuran bir olayın gerçekleşmesi durumunda tahakkuk zamanaşımı süresinin son gününü göstermektedir?",
+      "options": [
+        "A) 10 Haziran 2020",
+        "B) 31 Aralık 2020",
+        "C) 01 Ocak 2019",
+        "D) 01 Ocak 2021",
+        "E) 31 Aralık 2021"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurumlar Vergisi Kanunu’na göre aşağıdakilerden hangisi kurum kazançlarından sayılamaz?",
+      "options": [
+        "A) Ticari kazanç",
+        "B) Zirai kazanç",
+        "C) Miras",
+        "D) Menkul sermaye iradı",
+        "E) Serbest meslek kazancı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre aşağıdakilerden hangisi tahsil zamanaşımını kesen nedenlerden değildir?",
+      "options": [
+        "A) Ödeme",
+        "B) Haciz tatbiki",
+        "C) Ödeme emri tebliği,",
+        "D) Cebren tahsil ve takip muameleleri sonucunda yapılan her çeşit tahsilat",
+        "E) Mükellefin yurt dışına çıkmış bulunması"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Gelir Vergisi Kanunu’na göre telif kazançları istisnasına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Müellif, mütercim, bilgisayar programcısı ve mucitlerin ve bunların kanuni mirasçılarının şiir, bilgisayar yazılımı, karikatür, fotoğraf, film gibi eserlerini gazete, dergi, bilgisayar ve internet ortamı, radyo, televizyon ve videoda yayınlamak suretiyle elde ettikleri hasılat Gelir Vergisinden müstesnadır",
+        "B) Müellif, mütercim, bilgisayar programcısı ve mucitlerin ve bunların kanuni mirasçılarının şiir, bilgisayar yazılımı, karikatür, fotoğraf, film gibi eserlerini kitap, CD, disket, resim, heykel ve nota halinde satmaları veya bunlar üzerindeki mevcut haklarını devir etmeleri durumunda elde ettikleri hasılat Gelir Vergisinden müstesnadır",
+        "C) Müellif, mütercim, bilgisayar programcısı ve mucitlerin ve bunların kanuni mirasçılarının şiir, bilgisayar yazılımı, karikatür, fotoğraf, film gibi eserlerini kitap, CD, disket, resim, heykel ve nota halinde kiralamaları sonucu elde ettikleri hasılat Gelir Vergisinden müstesnadır",
+        "D) Telif hakları kazançlarının arızi olarak elde edilmesi halinde bu kazançlar istisna hükmünün dışında kalır",
+        "E) Eserlerin neşir, temsil, icra ve teşhir gibi suretlerle değerlendirilmesi karşılığında alınan bedel ve ücretler istisnaya dahildir"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Gelir Vergisi Kanunu’na göre geçici vergi oranı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) %15",
+        "B) %20",
+        "C) %25",
+        "D) %30",
+        "E) %27"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi kamu alacaklarını güvence altına alan önlemlerden biri değildir?",
+      "options": [
+        "A) Haciz uygulanması",
+        "B) Şahsi kefalet",
+        "C) Teminat hükmünde eşya",
+        "D) İhtiyati tahakkuk uygulanması",
+        "E) Rüçhan hakkı kullanımı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkında Kanun uyarınca zamanaşımının işlememesi sonucunu doğuran hâllerden birisi değildir?",
+      "options": [
+        "A) Borçlunun Almanya’da bulunması",
+        "B) Terekenin tasfiyesi",
+        "C) Borçlunun Fransa’da bulunması",
+        "D) Borçlunun Türkiye’de ikametgâhının tespit edilememesi",
+        "E) Borçlunun hileli iflas göstermesi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Özel Tüketim Vergisi Kanunu’na göre aşağıdakilerden hangisi vergiyi doğuran olay değildir?",
+      "options": [
+        "A) Bir malın alıcı veya onun adına hareket edenlerin gösterdiği yere veya kişilere tevdii",
+        "B) Malın alıcıya veya onun adına hareket edenlere gönderilmesi halinde, malın nakliyesinin başlatılması mal teslimidir",
+        "C) Hizmetin görülmüş olması",
+        "D) Trampa iki ayrı teslim hükmündedir",
+        "E) Kap veya ambalajların geri verilmesinin mutat olduğu hallerde teslim, bunların içinde bulunan mallar itibarıyla yapılmış sayılır"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Damga Vergisi Kanunu’na göre aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Verginin nisbi hesaplanması durumunda her nüsha ayrıca vergiye tabi değildir",
+        "B) Damga vergisinin mükellefleri kağıtları imzalayanlardır",
+        "C) Damga vergisine tabi bir kağıtta birden fazla işlem söz konusu ise her işlem ayrıca vergiye tabidir",
+        "D) Verginin maktu hesaplanması durumunda her nüsha ayrıca vergiye tabidir",
+        "E) Verginin maktu hesaplanması durumunda her suret ayrıca vergiye tabidir"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Katma Değer Vergisi Kanunu’na göre aşağıdakilerden hangisi KDV’nin konusuna girmez?",
+      "options": [
+        "A) Bir gerçek kişinin arızi olarak kitap yazması",
+        "B) Posta, telefon, telgraf, teleks ve bunlara benzer hizmetler",
+        "C) Her türlü mal ve hizmet ithalatı",
+        "D) Radyo ve televizyon hizmetleri",
+        "E) Her türlü şans ve talih oyunlarının tertiplenmesi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "213 sayılı Vergi Usul Kanunu’na göre naylon fatura işi yaparak 15.000TL veri kaçıran kişiye verilecek cezaya ilişkin aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) 15.000TL vergi aslı 15.000TL vergi ziyaı cezası olmak üzere toplam 30.000TL ödeme yapacaktır",
+        "B) 15.000TL vergi aslı 45.000TL vergi ziyaı cezası olmak üzere toplam 60.000TL ödeme yapacaktır",
+        "C) Toplam 45.000TL ödeme yapacaktır",
+        "D) Toplam 15.000TL ödeme yapacaktır",
+        "E) 15.000TL vergi aslı 60.000TL vergi ziyaı olmak üzere 75.000TL ödeme yapacaktır"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "213 sayılı Vergi Usul Kanunu’na göre cezalarda indirim hükmüne göre ilk defa işlenen 10.000TL tutarındaki vergi ziyaı suçunun, cezanın kesilmesinden itibaren 30 gün içinde ödenmesi durumunda ödenecek ceza tutarı aşağıdakilerden hangisi olacaktır?",
+      "options": [
+        "A) 10.000TL",
+        "B) 2.500TL",
+        "C) 5.000TL",
+        "D) 7.500TL",
+        "E) 15.000TL"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "213 sayılı Vergi Usul Kanununda yeralan cezalarda indirim hükmüne ilk defa işlenen 12.000TL tutarındaki 1. derece usulsüzlük suçunun, cezanın kesilmesinden itibaren 30 gün içinde ödenmesi durumunda ödenecek ceza tutarı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 12.000TL",
+        "B) 4.000TL",
+        "C) 6.000TL",
+        "D) 8.000TL",
+        "E) 16.000TL"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Vergi Usul Kanunu’na göre iktisadi bir kıymetin iktisap edilmesi veyahut değerinin artırılması münasebetiyle yapılan ödemeler toplamını ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Mukayyet değer",
+        "B) Emsal bedeli",
+        "C) Rayiç bedel",
+        "D) Borsa rayici",
+        "E) Maliyet bedeli"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Beyana dayanan vergilerde vergi ziyaı cezasını gerektiren fiilleri işleyen mükelleflerle bunların işlenişine iştirak eden diğer kişilerin kanuna aykırı hareketlerini ilgili makamlara kendiliğinden dilekçe ile haber vermesi hâlinde, haklarında vergi ziyaı cezası kesilmez.\n\nVergi Usul Kanunu’nda geçen yukarıdaki tanım aşağıdaki kavramlardan hangisine aittir?",
+      "options": [
+        "A) İzaha davet",
+        "B) Mücbir sebep",
+        "C) Pişmanlık ve ıslah",
+        "D) Yanılma",
+        "E) Görüş değişikliği"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Vade tarihi 24.04.2017 olan verginin gününde ödenmediği tespit edilmiş ve mükellefe 12.12.2021 tarihinde ödeme emri tebliğ edilmiştir. Zamanaşımı aşağıdakilerden hangi tarihte sona erer?",
+      "options": [
+        "A) 31.12.2022",
+        "B) 24.04.2022",
+        "C) 12.12.2026",
+        "D) 31.12.2026",
+        "E) 31.12.2023"
+      ],
+      "answer": 3
+    }
+  ],
+  "Çalışma Soruları (Test 02)": [
+    {
+      "q": "Aşağıdakilerden hangisi VUK m.1’e göre bu kanuna tabi değildir?",
+      "options": [
+        "A) Belediyelere ait harçlar",
+        "B) İl özel idarelerine ait vergiler",
+        "C) Genel bütçeye giren harçlar",
+        "D) Gümrük idareleri tarafından alınan gümrük vergileri",
+        "E) Belediyelere ait resimler"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Gelir Vergisi Kanunu’na göre gelirin tanımı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Bir gerçek kişinin bir yılda elde ettiği tüm hasılat",
+        "B) Bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların gayrisafi tutarı",
+        "C) Bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların safi tutarı",
+        "D) Bir gerçek kişinin bir hesap döneminde elde ettiği kazançların net tutarı",
+        "E) Tüm tüzel kişilerin kazanç ve iratlarının toplamı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurumlar vergisinin konusu aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Sadece sermaye şirketlerinin ticari kazançları",
+        "B) Türkiye’de elde edilen tüm kazanç ve iratlar",
+        "C) Kanunda sayılan kurumların kazançları",
+        "D) Gerçek kişilerin ticari ve zirai kazançları",
+        "E) Yalnız tam mükellef kurumların dağıttığı kâr payları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi KDV’nin konusuna girer?",
+      "options": [
+        "A) Ticari faaliyete bağlı olmaksızın, bir arkadaşına bedelsiz hediye verilen cep telefonu",
+        "B) Türkiye’de serbest meslek faaliyeti kapsamında verilen danışmanlık hizmeti",
+        "C) Yalnızca ücret geliri elde eden işçinin aldığı maaş",
+        "D) Yurt dışında yapılan ve Türkiye’de hiç faydalanılmayan tamir hizmeti",
+        "E) Yalnızca gelir vergisine tabi bir kira geliri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi “tahsil edilemeyen amme alacağı” tanımına uygundur?",
+      "options": [
+        "A) Tahakkuk etmiş ama henüz vadesi gelmemiş alacak",
+        "B) Haciz yapılmadan önceki alacak",
+        "C) Haciz ve satış yapıldığı halde satış bedeliyle karşılanamayan alacak",
+        "D) Uzlaşma kapsamındaki alacak",
+        "E) Taksitlendirilmiş alacak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yabancı memlekette veya Türkiye’deki yabancı elçilik/konsoloslukta düzenlenen kağıtlar ne zaman Damga Vergisine tabi olur?",
+      "options": [
+        "A) Her durumda",
+        "B) Türkiye’de kullanılsın kullanılmasın",
+        "C) Türkiye’de resmi dairelere ibraz edilirse",
+        "D) Yalnız Türkiye’de tahsil amaçlı kullanılırsa",
+        "E) Yalnız ticari senet ise"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "ÖTV Kanununa göre “ilk iktisap” aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Motorlu taşıtın ikinci el satışı",
+        "B) Motorlu araçların sadece imalatçının kendi adına tescili",
+        "C) Türkiye’de kayıt ve tescil edilmemiş aracın kullanmak üzere ithali veya motorlu araç ticareti yapanlardan iktisabı",
+        "D) Aracın sigortalanması",
+        "E) Aracın muayeneden geçmesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Motorlu Taşıtlar Vergisinin konusunu oluşturur?",
+      "options": [
+        "A) Karayolları Trafik Kanununa göre trafik siciline kayıt ve tescil edilmiş bulunan motorlu kara taşıtları",
+        "B) Karayolları Trafik Kanununa göre trafik şube veya bürolarına kayıt ve tescil edilmiş bulunan motorlu kara taşıtları, ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğüne kayıt ve tescil edilmiş olan uçak ve helikopterler",
+        "C) Karayolları Trafik Kanununa göre trafik siciline kayıt ve tescil edilmiş bulunan motorlu kara taşıtları, ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğü siciline kayıt ve tescil edilmiş olan uçak ve helikopterler, liman veya belediye sicillerine kayıt ve tescil edilmiş motorlu deniz taşıtları",
+        "D) Ulaştırma Bakanlığı Sivil Havacılık Genel Müdürlüğü siciline kayıt ve tescil edilmiş olan uçak ve helikopterler",
+        "E) Liman veya belediye sicillerine kayıt ve tescil edilmiş motorlu deniz taşıtları"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Bina Vergisinin konusunu doğru ifade eder?",
+      "options": [
+        "A) Türkiye içindeki tüm taşınmazlar",
+        "B) Türkiye sınırları içinde bulunan binalar",
+        "C) Türkiye sınırları içindeki sadece arsa ve araziler",
+        "D) Türkiye sınırları içindeki sadece meskenler",
+        "E) Türkiye’de tapuya kayıtlı bütün taşınmazlar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Veraset ve İntikal Vergisinin konusu ile ilgili doğru bir ifadedir?",
+      "options": [
+        "A) Türkiye’deki gayrimenkullerin satış yoluyla intikali verginin konusuna girer",
+        "B) Türkiye’de tam mükellef şirketlerin emsal bedel üzerinden yaptığı satışlar verginin konusuna girer",
+        "C) Türkiye’ye ithalat yoluyla getirilen malların satışı verginin konusuna girer",
+        "D) Türkiye’de bulunan malların ivazsız intikali verginin konusuna girer",
+        "E) Sadece yabancıların Türkiye’de iktisap ettiği mallar verginin konusuna girer"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi BSMV’den istisnadır?",
+      "options": [
+        "A) Bankanın mevduat faiz gelirleri",
+        "B) Bankaların kendi şubeleriyle yaptıkları muameleler dolayısıyla tahakkuk eden paralar",
+        "C) Bankanın müşterisine kullandırdığı tüketici kredisi faizi",
+        "D) Zorunlu trafik sigortası primleri",
+        "E) Bireysel emeklilik katkı payları"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "VUK’a göre aşağıdakilerden hangisi vergi mahremiyeti kapsamındaki kişilerden değildir?",
+      "options": [
+        "A) Vergi muameleleri ve incelemeleri ile uğraşan memurlar",
+        "B) Vergi mahkemeleri, bölge idare mahkemeleri ve Danıştayda görevli olanlar",
+        "C) Vergi komisyonlarına katılanlar",
+        "D) Vergi işlerinde kullanılan bilirkişiler",
+        "E) Sermaye şirketi ortakları"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "GVK’ya göre, işyeri kavramı hangi kanun hükümlerine göre tayin olunur?",
+      "options": [
+        "A) Türk Ticaret Kan",
+        "B) Medeni Kanun",
+        "C) Vergi Usul Kanunu",
+        "D) Borçlar Kanunu",
+        "E) İcra ve İflas Kanunu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mirasçıların vergi borçlarından sorumluluğu için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Mirasçıların sorumluluğu yoktur.",
+        "B) Tüm mirasçılar tüm borçtan müteselsilen sorumludur.",
+        "C) Miras hisseleri nispetinde sorumludurlar.",
+        "D) Sadece birinci derece mirasçılar sorumludur.",
+        "E) Sadece tereke mallarıyla sınırlıdır, kanunda düzenlenmemiştir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gelir Vergisi Kanunu’nun onuncu bendi kapsamındaki esnaf muaflığında, hasılat tutarı kanunda belirlenen sınırı aşarsa ne olur?",
+      "options": [
+        "A) Muafiyet hiç etkilenmez",
+        "B) Sadece KDV mükellefi olur",
+        "C) İzleyen takvim yılı başından itibaren gerçek usulde vergilendirilir",
+        "D) Geriye dönük 5 yıl tüm vergiler silinir",
+        "E) Sadece tevkifat oranı artar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisinde işlem KDVK’ya göre Türkiye’de yapılmış sayılmaz?",
+      "options": [
+        "A) Malın teslim anında Türkiye’de bulunması",
+        "B) Hizmetin Türkiye’de fiilen yapılması",
+        "C) Yurt dışında verilen online danışmanlık hizmetinden Türkiye’de faydalanılması",
+        "D) Yurt dışında verilen hizmetten sadece yurt dışında faydalanılması",
+        "E) Türkiye’de verilen eğitim hizmeti"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 6183’e göre teminat olarak kabul edilenler arasında yer almaz?",
+      "options": [
+        "A) Para",
+        "B) Süresiz ve şartsız banka teminat mektubu",
+        "C) Süresiz ve şartsız sigorta kefalet senedi",
+        "D) Haczedilen menkul ve gayrimenkul mallar",
+        "E) Borçlunun şahsi taahhüdü"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Zor durumda bulunanlara mühlet verilmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kanuni sürenin bir katına kadar mühlet verilebilir.",
+        "B) Kanuni süre bir aydan az ise en fazla bir ay mühlet verilebilir.",
+        "C) Mühlet istemi sürenin bitmesinden önce yazılı olarak yapılmalıdır.",
+        "D) Mühlet verilmesi verginin alınmasını tehlikeye sokmamalıdır.",
+        "E) Mühlet hiçbir şart aranmaksızın sözlü talep üzerine verilebilir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sosyal içerik üreticiliği ve mobil uygulama geliştiriciliği kazançları kapsamında hesaplara aktarılan hasılat üzerinden bankalarca yapılacak gelir vergisi tevkifatı oranı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) %5",
+        "B) %10",
+        "C) %15",
+        "D) %20",
+        "E) Tevkifat yapılmaz"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İş ortaklığı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Mutlaka tüzel kişiliğe sahip olmalıdır.",
+        "B) Sadece sermaye şirketleri arasında kurulabilir.",
+        "C) Belli bir işin birlikte yapılmasını üstlenmek için kurulan ve talep edilirse mükellefiyet tesis edilen ortaklıklardır.",
+        "D) Yalnızca gerçek kişiler arasında kurulabilir.",
+        "E) Kooperatifler iş ortaklığı kuramaz."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi re’sen vergi tarhını gerektiren durumlardan biri değildir?",
+      "options": [
+        "A) Defter ve belgelerin matrahı belirlemeye elverişsiz derecede karışık olması",
+        "B) Beyannamede matrahla ilgili bilgilerin hiç gösterilmemiş olması",
+        "C) Tutulması zorunlu defterlerin tasdik ettirilmemiş olması",
+        "D) Mükellefin tecil talep etmesi",
+        "E) Defterlerin ibraz edilmemesi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdaki giderlerden hangisi GVK Md. 40 kapsamında genel gider olarak indirilebilir?",
+      "options": [
+        "A) Teşebbüs sahibinin özel konutunun kira gideri",
+        "B) Ticari faaliyeti ilgilendiren reklam giderleri",
+        "C) Teşebbüs sahibinin aile tatil giderleri",
+        "D) Teşebbüs sahibinin şahsi konutunun elektrik gideri",
+        "E) Özel okul taksitleri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Türkiye’de ikamet etmeyen yolcuların satın alarak Türkiye dışına götürdükleri malların tesliminde KDV uygulaması nasıl olur?",
+      "options": [
+        "A) Hiç KDV hesaplanmaz",
+        "B) Teslimde KDV hesaplanır, iade edilmez",
+        "C) Teslimde KDV tahsil edilir, mal gümrükten çıkarken fatura ibrazında KDV iade edilir",
+        "D) Sadece %50’si iade edilir",
+        "E) Yolcu Türkiye’de 6 aydan fazla kalırsa iade yapılır"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Üçüncü kişiler tarafından haczedilen mallar paraya çevrilmeden önce aynı mala amme alacağı için de haciz konulursa ne olur?",
+      "options": [
+        "A) Sadece üçüncü şahıs haczine öncelik verilir",
+        "B) Sadece amme alacağına öncelik verilir",
+        "C) İki haciz arasında satış bedeli garameten taksim olunur",
+        "D) Haciz iptal olur",
+        "E) Önce rehinli alacaklıya, sonra amme alacağına ödenir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Re’sen takdir olunan matrah, mükellefin bildirdiği matrahtan fazla değilse ne olur?",
+      "options": [
+        "A) Her hâlükârda re’sen tarh yapılır.",
+        "B) Re’sen vergi tarh edilmez.",
+        "C) İdarece tarh yapılır.",
+        "D) İkmalen tarh yapılır.",
+        "E) Vergi tamamen terkin edilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Teşebbüs sahibinin işletmeye koyduğu sermaye için yürütülen faizler hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Gider yazılabilir",
+        "B) Kısmen gider yazılabilir",
+        "C) Tamamı KKEG’dir",
+        "D) Amortisman yoluyla giderleştirilir",
+        "E) Sadece basit usulde gider yazılır"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İşyeri adresinde tebliğ yapılamaması (işin bırakılması vb.) halinde sonraki aşama hangi adrese tebliğ yapılır?",
+      "options": [
+        "A) Mükellefin e-posta adresi",
+        "B) Adres kayıt sisteminde bulunan yerleşim yeri adresi",
+        "C) En yakın komşu adresi",
+        "D) Çalışanlardan birinin adresi",
+        "E) Muhtarlık adresi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Basit usulde olan ve sahte veya muhteviyatı itibarıyla yanıltıcı belge düzenlediği tespit edilen mükellefler hakkında ne olur?",
+      "options": [
+        "A) Basit usul devam eder, sadece ceza kesilir",
+        "B) Takip eden yıldan itibaren birinci sınıf tüccar olur",
+        "C) Durumun tebliğini izleyen ay başından itibaren ikinci sınıf tüccarlara ilişkin hükümlere tabi olur",
+        "D) Sadece defter tutma zorunluluğu doğar",
+        "E) İstisna kazanç sayılır"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İkmalen, re’sen veya idarece tarh olunan vergiler taksit zamanından önce tahakkuk etmişse bu vergiler ne zaman ödenir?",
+      "options": [
+        "A) Tahakkuktan itibaren 1 ay içinde",
+        "B) Tahakkuk tarihinden itibaren 3 ay içinde",
+        "C) Kendi taksit süreleri içinde",
+        "D) Tebliğden itibaren 7 gün içinde",
+        "E) Dava açma süresi içinde"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi, zirai kazancın gerçek usulde tespit edilmesini gerektiren durumlardan biridir?",
+      "options": [
+        "A) Bir adet traktöre sahip olmak",
+        "B) İşletme büyüklüğü ölçülerinin altında kalmak",
+        "C) Bir biçerdövere sahip olmak",
+        "D) İki adet traktör sahibi olmamak",
+        "E) Yalnızca küçükbaş hayvan yetiştirmek"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Safî kurum kazancının tespitinde hangi kanun hükümleri esas alınır?",
+      "options": [
+        "A) Vergi Usul Kanunu’nun tamamı",
+        "B) Gelir Vergisi Kanunu’nun ticari kazanç hükümleri",
+        "C) Türk Ticaret Kanunu",
+        "D) Sadece Kurumlar Vergisi Kanunu",
+        "E) Borçlar Kanunu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Konaklama vergisinin konusu aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Yalnızca otellerde verilen yeme–içme hizmetleri",
+        "B) Yalnızca geceleme hizmeti",
+        "C) Geceleme hizmeti ile bununla birlikte satılan konaklama tesisi bünyesindeki diğer tüm hizmetler",
+        "D) Sadece termal otellerde verilen hizmetler",
+        "E) Sadece eğlence merkezlerinde verilen hizmetler"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Fazla veya yersiz tahsil edilen vergiler mükelleften kaynaklanıyorsa faiz süresi hangi tarihten hangi tarihe kadar hesaplanır?",
+      "options": [
+        "A) Verginin tahsilinden – dava açma tarihine",
+        "B) Düzeltme başvuru tarihinden– düzeltme fişinin mükellefe tebliğine",
+        "C) Verginin tahsilinden – iade tarihine",
+        "D) Tahakkuk tarihinden – iade tarihine",
+        "E) Tahsil tarihinden – zamanaşımı sonuna"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Zirai işletmeye dahil olan ve aynı zamanda zati veya ailevi ihtiyaçlar için de kullanılan taşıtlar için aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Amortisman ve giderlerin tamamı gider yazılamaz",
+        "B) Amortismanların yarısı, giderlerin tamamı gider yazılır",
+        "C) Amortismanların tamamı, giderlerin yarısı gider yazılabilir",
+        "D) Sadece yakıt gideri gider yazılır",
+        "E) Hiçbir gider yazılamaz"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Emlak vergisinde ödeme zamanı hangi seçenekte doğru verilmiştir?",
+      "options": [
+        "A) Ocak ve Temmuz",
+        "B) Ocak ve Nisan",
+        "C) Şubat ve Ağustos",
+        "D) Birinci taksit Mart–Nisan–Mayıs içinde, ikinci taksit Kasım ayında",
+        "E) Yılda bir kez Aralık ayında"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "VUK’a göre, ikmalen/re’sen/idarece tarh edilen vergi ve cezanın toplamı kanunda belirtilen tutarı aşmıyor ve tahakkuk için yapılacak gider bu tutarı aşıyorsa ne yapılabilir?",
+      "options": [
+        "A) Mutlaka tahakkuk ettirilir.",
+        "B) Sadece ceza tahakkuk ettirilir.",
+        "C) Tahakkuklarından vazgeçilebilir.",
+        "D) Zamanaşımı beklenir.",
+        "E) Mahkemeden karar istenir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İşçinin iş sözleşmesi sonlandırıldıktan sonra kendisine ikale sözleşmesi kapsamında ödenen iş kaybı tazminatı GVK açısından nasıl nitelendirilir?",
+      "options": [
+        "A) Diğer kazanç ve irat",
+        "B) Değer artış kazancı",
+        "C) Ücret",
+        "D) Menkul sermaye iradı",
+        "E) Vergiden istisna bir ödeme"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Hizmetin yurt dışındaki bir müşteri için yapılmış olması\nII- Hizmetten yurt dışında faydalanılması\nIII- Hizmetin bedelinin dövizle tahsil edilmesi\n\nBir hizmetin “yurt dışındaki müşteriler için yapılan hizmet” sayılabilmesi için yukarıdaki şartlardan hangisi/hangileri aranır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) I ve II",
+        "D) I ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Limited şirketlerde, tahsil edilemeyen veya tahsil edilemeyeceği anlaşılan amme borçlarından kim, hangi oranda sorumludur?",
+      "options": [
+        "A) Yalnızca müdürler, tamamından",
+        "B) Yalnızca şirket, ortaklar sorumsuz",
+        "C) Ortaklar, sermaye hisseleri oranında doğrudan doğruya",
+        "D) Ortaklar, eşit oranda",
+        "E) Yalnızca kanuni temsilci"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bir kağıtta toplanan akit ve işlemler birbirine bağlı ve bir asıldan doğma ise damga vergisi nasıl alınır?",
+      "options": [
+        "A) Her işlem için ayrı ayrı",
+        "B) En yüksek vergi alınmasını gerektiren akit/işlem üzerinden",
+        "C) Ortalaması alınır",
+        "D) Taraf sayısına göre",
+        "E) Yalnız asıl işlemden, diğerleri istisna"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi MTV istisnası kapsamında değildir?",
+      "options": [
+        "A) Engellilik oranı %90 ve üzeri olan kişinin adına kayıtlı taşıt",
+        "B) Engellilik oranı düşük olmakla birlikte, engellilik durumuna uygun özel tertibatlı araç",
+        "C) Engellilik oranı %30 olan ve aracı tertibatsız olan kişinin aracı",
+        "D) Engellilik oranı %90 olan kişinin adına tescilli otomobil",
+        "E) Engellilik oranı %95 olan kişinin aracı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "3100 sayılı Kanun kapsamındaki ödeme kaydedici cihazlara ilişkin yoklamada, yoklama memurları aşağıdakilerden hangisini kontrol eder?",
+      "options": [
+        "A) Yalnızca cihazın markasını",
+        "B) Sadece cihazın vergi dairesine bildirilip bildirilmediğini",
+        "C) Zorunluluğa uyulup uyulmadığını ve cihazların belirlenmiş esaslara göre kullanılıp kullanılmadığını",
+        "D) Sadece Z raporlarının saklanıp saklanmadığını",
+        "E) Cihazın garanti süresini"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kollektif şirket tarafından yürütülen avukatlık faaliyeti sonucunda elde edilen kazanç GVK’ya göre nasıl nitelendirilir?",
+      "options": [
+        "A) Ticari kazanç",
+        "B) Serbest meslek kazancı",
+        "C) Ücret",
+        "D) Kurum kazancı",
+        "E) Gayrimenkul sermaye iradı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sınırlı inceleme için temel süre ile katma değer vergisi iade incelemeleri için temel süre sırasıyla kaç aydır?",
+      "options": [
+        "A) 12 ay – 6 ay",
+        "B) 6 ay – 3 ay",
+        "C) 3 ay – 6 ay",
+        "D) 6 ay – 12 ay",
+        "E) 9 ay – 3 ay"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi serbest meslek erbabı için tahsil hükmündedir?",
+      "options": [
+        "A) Paranın iş sahibinin masasında bırakılması",
+        "B) Paranın müvekkilin kasasında beklemesi",
+        "C) Ittıla hasıl olması şartıyla namına bankaya para yatırılması",
+        "D) Alacağın hiçbir şekilde kayıt altına alınmaması",
+        "E) Alacağın süresiz ertelenmesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi transfer fiyatlandırması yoluyla örtülü kazanç dağıtımına örnektir?",
+      "options": [
+        "A) Kurumun bankadan piyasa faiz oranıyla kredi alması",
+        "B) Kurumun ilişkili kişiye emsallerin çok altında fiyatla mal satması",
+        "C) Kurumun üçüncü kişiden peşin mal alması",
+        "D) Kurumun normal brüt kârla satış yapması",
+        "E) Kurumun öz sermaye artırımı yapması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "VUK’a göre, münhasıran sahte belge düzenlemek amacıyla mükellefiyet tesis ettirdiği tespit edilen bir kişi, yeniden mükellefiyet tesis ettirmek istediğinde temel şartlardan biri nedir?",
+      "options": [
+        "A) Sadece yeni vergi numarası almak",
+        "B) Herhangi bir teminat göstermeden başvuru yapmak",
+        "C) Tüm vergi borçlarının ödenmiş olması ve sahte belgelerdeki toplam tutarın %10’u oranında teminat göstermesi",
+        "D) Sadece son yıla ait vergi borçlarını ödemesi",
+        "E) En az 10 işçi çalıştırması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mucit A, kendisine ait ihtira beratını kiraya vermektedir. Bu kiradan doğan kazanç hangi gelir unsurudur?",
+      "options": [
+        "A) Ticari kazanç",
+        "B) Serbest meslek kazancı",
+        "C) Gayrimenkul sermaye iradı",
+        "D) Diğer kazanç ve irat",
+        "E) Menkul sermaye iradı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "KDV’ye göre teslim ve hizmet işlemlerinde matrah nedir?",
+      "options": [
+        "A) KDV hariç maliyet bedeli",
+        "B) Bu işlemlerin karşılığını teşkil eden bedel",
+        "C) Sadece tahsil edilen tutar",
+        "D) Maliyet + kâr + KDV toplamı",
+        "E) Emsal bedel + KDV"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6183 sayılı kanuna göre genel kural olarak, tecil süresi azami ne kadar olabilir?",
+      "options": [
+        "A) 12 ay",
+        "B) 24 ay",
+        "C) 36 ay",
+        "D) 48 ay",
+        "E) 60 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İşe başlama dışındaki bildirimler ile işi bırakma ve değişiklik bildirimlerinin süresi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 10 gün",
+        "B) 15 gün",
+        "C) 1 ay",
+        "D) 2 ay",
+        "E) 3 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bina ve arsalarda emsal kira bedeli, aşağıdakilerden hangisine göre belirlenir?",
+      "options": [
+        "A) Piyasa kira rayicinin %10’u",
+        "B) Takdir edilen kira bedeli veya yoksa vergi değerinin %5’i",
+        "C) Vergi değerinin %10’u",
+        "D) Yapım maliyetinin %10’u",
+        "E) Tapu harcının 2 katı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Envanter çıkarmak ne anlama gelir?",
+      "options": [
+        "A) Sadece stok sayımı",
+        "B) Kasa sayımı",
+        "C) Mevcut, alacak ve borçların sayılması, ölçülmesi ve değerlenmesi",
+        "D) Beyanname verilmesi",
+        "E) Defter tasdiki"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bir gerçek kişi, bankaya yatırdığı vadeli mevduattan faiz geliri elde etmektedir. Bu gelir GVK’ya göre hangi türdür?",
+      "options": [
+        "A) Ticari kazanç",
+        "B) Menkul sermaye iradı",
+        "C) Gayrimenkul sermaye iradı",
+        "D) Diğer kazanç ve irat",
+        "E) Ücret"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İkinci el motorlu kara taşıtı veya taşınmaz ticaretiyle uğraşan mükellefin, KDV mükellefi olmayanlardan aldığı ikinci el aracı vasfında esaslı değişiklik yapmadan satması halinde matrah nasıl belirlenir?",
+      "options": [
+        "A) Satış bedelinin tamamı",
+        "B) Emsal bedel + kar",
+        "C) Alış bedeli + maliyet",
+        "D) Satış bedeli – alış bedeli",
+        "E) Sadece kârın yarısı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6183 sayılı kanuna göre vergiye uyumlu mükellef sayılmak için aşağıdakilerden hangisi şarttır?",
+      "options": [
+        "A) En az 1 yıldır mükellef olması",
+        "B) En az 3 yıldır ticari/zirai/mesleki faaliyet nedeniyle yıllık gelir veya kurumlar vergisi mükellefi olması",
+        "C) Hiç vergi borcu olmaması",
+        "D) Hiç vergi incelemesi geçirmemiş olması",
+        "E) Sadece stopaj mükellefi olması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vergiden muaf esnafa yapılan ödemelerde düzenlenen gider pusulasının hukuki niteliği nedir?",
+      "options": [
+        "A) Makbuz",
+        "B) Sözleşme",
+        "C) Fatura hükmündedir",
+        "D) Tahsilat belgesi",
+        "E) Sevk belgesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "GVK’ya göre “diğer kazanç ve iratlar” ana başlığı altında hangi iki grup yer alır?",
+      "options": [
+        "A) Değer artışı kazançları ve menkul sermaye iratları",
+        "B) Değer artışı kazançları ve arızi kazançlar",
+        "C) Arızi kazançlar ve ücretler",
+        "D) Zirai kazançlar ve arızi kazançlar",
+        "E) Ticari kazançlar ve değer artışı kazançları"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Kurumlar Vergisi Kanunu’na göre tasfiye döneminin başlangıç tarihidir?",
+      "options": [
+        "A) Tasfiyeye karar verildiği genel kurul tarihi",
+        "B) Tasfiye memurunun atanma tarihi",
+        "C) Tasfiye kararının Ticaret Sicilinde tescil edildiği tarih",
+        "D) Tasfiye bilançosunun düzenlendiği tarih",
+        "E) Tasfiye memurunun vergi dairesine bildirim yaptığı tarih"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi VUK’ta yer alan değerleme ölçülerinden biri değildir?",
+      "options": [
+        "A) Maliyet bedeli",
+        "B) Borsa rayici",
+        "C) Mukayyet değer",
+        "D) İskonto bedeli",
+        "E) Emsal bedeli"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Münferit beyanname ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Tam mükelleflerin tüm gelirlerini beyan ettiği beyannamedir.",
+        "B) Dar mükelleflerin, vergisi stopajla alınmamış bazı kazanç ve iratlarını beyan ettiği beyannamedir.",
+        "C) İşverenlerin ücret stopajlarını bildirmek için verdikleri beyannamedir.",
+        "D) Ticari kazanç sahiplerinin dönemlik kazançlarını bildirdiği beyandır.",
+        "E) Sadece ücret gelirleri için düzenlenir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vergi Usul Kanunu’na göre emsal bedel belirleme esaslarından ortalama satış fiyatı esasının uygulanabilmesi için satış miktarı ne olmalıdır?",
+      "options": [
+        "A) En az %10",
+        "B) En az %15",
+        "C) En az %20",
+        "D) En az %25",
+        "E) En az %50"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Zararların yıllar itibarıyla taşınmasıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Zararlar süresiz ileriye taşınabilir.",
+        "B) Zararlar sadece 3 yıl süreyle ileriye taşınabilir.",
+        "C) Zararlar en fazla 5 yıl süreyle, arka arkaya yıllarda mahsup edilebilir.",
+        "D) Zararlar 2 yıl ileriye taşınabilir.",
+        "E) Zarar taşınması sadece ticari kazançta mümkündür."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "KDVK’ye göre genel KDV oranı nedir ve bu oran üzerinde yetkili mercii kimdir?",
+      "options": [
+        "A) %18 – TBMM",
+        "B) %20 – Cumhurbaşkanı",
+        "C) %10 – Cumhurbaşkanı",
+        "D) %8 – Hazine ve Maliye Bakanlığı",
+        "E) %1 – Cumhurbaşkanı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ödeme emrine itiraz sebepleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Tahakkukun hukuka aykırı olduğu iddiasıyla",
+        "B) Böyle bir borcun bulunmadığı iddiası",
+        "C) Vergi oranının yüksek olduğu iddiası",
+        "D) Tecil talebinin reddedilmesi sonucu",
+        "E) Takdir komisyonu kararının yanlış olması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kıymetli madenlerde borsa rayici yoksa veya muvazaalı oluştuğu anlaşılırsa hangi ölçü esas alınır?",
+      "options": [
+        "A) Vergi değeri",
+        "B) Maliyet bedeli",
+        "C) Emsal bedel",
+        "D) Mukayyet değer",
+        "E) Tasarruf değeri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Gelir Vergisi Kanunu’na göre %100 oranında indirilemez, oran sınırlamasına tabidir?",
+      "options": [
+        "A) Fakirlere gıda bankacılığı bağışları",
+        "B) Okul ve sağlık tesisi yapımına ilişkin bağış ve harcamalar",
+        "C) Kamu yararına çalışan derneğe doğrudan yapılan nakdi bağış",
+        "D) Kızılay’a yapılan nakdi bağış",
+        "E) Cumhurbaşkanınca başlatılan yardım kampanyalarına yapılan bağışlar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Azalan bakiyeler yönteminde uygulanacak amortisman oranının üst sınırı kaçtır?",
+      "options": [
+        "A) %40",
+        "B) %50",
+        "C) %60",
+        "D) %70",
+        "E) %100"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "GVK’ya göre takvim yılı içinde Türkiye’yi temelli terk eden bir mükellef, yıllık beyannamesini en geç ne zamana kadar vermelidir?",
+      "options": [
+        "A) Terk tarihinden itibaren 4 ay içinde",
+        "B) Terk tarihinden önceki 15 gün içinde",
+        "C) Terk tarihinden itibaren 1 ay içinde",
+        "D) Terk tarihini izleyen yılın Mart ayında",
+        "E) Terk tarihinden önceki 30 gün içinde"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Noterler, damga vergisi ödenmemiş veya noksan ödenmiş kağıtlar hakkında ne yapmak zorundadır?",
+      "options": [
+        "A) Yine de tasdik edebilirler",
+        "B) Pul yapıştırarak tamamlayabilirler",
+        "C) Vergi ve cezası ödenmedikçe tasdik edemez ve suretini veremezler",
+        "D) Sadece uyarı yaparlar",
+        "E) Hiç işlem yapmadan iade ederler"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "MTV Kanunu’na göre Kayıtlı bir aracın devir ve temlik sonucu tescilinin değiştirilmesi, yılın ilk 6 ayında yapılmışsa, yeni malik açısından mükellefiyet ne zaman başlar?",
+      "options": [
+        "A) Devir tarihinden itibaren",
+        "B) Devir tarihini izleyen ay başından",
+        "C) Aynı yılın başından itibaren",
+        "D) Takip eden son 6 aylık dönemin başından",
+        "E) Takip eden yıl başından"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Değerli Konut Vergisi mükellefiyeti aşağıdaki hangi tarihten itibaren başlar?",
+      "options": [
+        "A) Satın alma tarihinden itibaren",
+        "B) Tapuya tescil edildiği günden itibaren",
+        "C) Evin fiilen kullanıldığı aydan itibaren",
+        "D) Mesken nitelikli taşınmazın bina vergi değeri kanundaki eşiği aştığı tarihi takip eden yıldan itibaren",
+        "E) Bina vergi değer bildiriminin verildiği günden itibaren"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Özel iletişim vergisinin matrahı ile ilgili hangisi doğrudur?",
+      "options": [
+        "A) KDV dahil toplam tutar",
+        "B) Sadece konuşma süresi (dakika)",
+        "C) KDV matrahını oluşturan unsurlar toplamıdır",
+        "D) Sadece data kullanım bedeli",
+        "E) Sadece sabit ücret"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Azalan bakiyelerde son yıla devreden bakiye değer için kural nedir?",
+      "options": [
+        "A) Son yıl amortisman ayrılmaz",
+        "B) Son yıl tamamen yok edilir",
+        "C) Son yıl yarısı yok edilir",
+        "D) Yenileme fonuna alınır",
+        "E) Emsal bedel ile değerlenir"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi, GVK m.94 kapsamında stopaja tabi bir ödeme değildir?",
+      "options": [
+        "A) Esnaf muaflığından yararlanan kişiye yapılan mal ve hizmet ödemeleri",
+        "B) Serbest meslek erbabına ödenen danışmanlık ücreti",
+        "C) Tevkifat esasına tabi çiftçiden alınan süt bedeli",
+        "D) Notere serbest meslek faaliyetinden dolayı yapılan ödeme",
+        "E) İşçiye ödenen ücret"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "KDV Kanunu’na göre indirim hakkı, en geç hangi döneme kadar kullanılabilir?",
+      "options": [
+        "A) Sınırsız süreyle",
+        "B) İşlemin yapıldığı yılı izleyen üçüncü yıl sonuna kadar",
+        "C) İşlemin yapıldığı yılı takip eden takvim yılı aşılmamak şartıyla, ilgili vesikanın kaydedildiği dönemde",
+        "D) Sadece işlemin yapıldığı vergilendirme döneminde",
+        "E) 5 yıl içinde istenilen dönemde"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi haczedilemez mallardandır?",
+      "options": [
+        "A) Borçlunun lüks otomobili",
+        "B) Borçlunun haline münasip evi",
+        "C) İkinci yazlık evi",
+        "D) Ticari amaçlı deposu",
+        "E) Otel binası"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "ÖTV’de ihracat istisnası uygulanabilmesi için aşağıdakilerden hangisi zorunlu şarttır?",
+      "options": [
+        "A) Teslimin serbest bölgeye yapılması yeterlidir",
+        "B) Malın Türkiye Gümrük Bölgesinden fiilen çıkmış olması",
+        "C) Sadece fatura dövizli kesilmesi",
+        "D) Alıcının Türkiye’de yerleşik olması",
+        "E) Sadece KDV iadesi alınması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Veraset ve İntikal Vergisi Kanunu’na göre bir şahsa ana, baba, eş ve çocuklarından ivazsız mal intikali halinde hangi oran uygulanır?",
+      "options": [
+        "A) Veraset tarifesi",
+        "B) İvazlı işlemler için gelir vergisi oranı",
+        "C) Hiç vergi yoktur",
+        "D) İvazsız intikallere ilişkin tarifedeki oranların yarısı",
+        "E) Her zaman %1"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Azalan bakiyelere başlandıktan sonra normal amortismana geçilebilir mi?",
+      "options": [
+        "A) Hayır",
+        "B) Evet, geçilebilir ve beyannamede/ek bilançoda belirtilir",
+        "C) Evet, ama geriye dönük düzeltilir",
+        "D) Sadece 3 yıl sonra",
+        "E) Sadece bilanço dışı kıymetlerde"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İşyeri ve ikametgahı farklı vergi daireleri bölgesinde bulunan mükelleflerde, bazı hallerde gelir vergisi; Maliye Bakanlığınca uygun görülüp mükellefe önceden bildirilmek kaydıyla nerede tarh olunur?",
+      "options": [
+        "A) İkametgahın bulunduğu yerde",
+        "B) İşyerinin bulunduğu yerde",
+        "C) Gelirin elde edildiği yerde",
+        "D) Mükellefin seçtiği herhangi bir yerde",
+        "E) Yalnız İstanbul’da"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vergi Usul Kanunu’na göre vergi ziyaı cezasının genel oranı nedir?",
+      "options": [
+        "A) %50",
+        "B) %100",
+        "C) Verginin bir katı",
+        "D) Verginin iki katı",
+        "E) Verginin üç katı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "GVK’ya göre Hasılat esaslı kazanç tespitini seçen mükellefler için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) İstedikleri zaman (her yıl) bu usulden çıkabilirler.",
+        "B) En az iki yıl geçmedikçe bu usulden çıkamazlar.",
+        "C) Beş yıl boyunca usul değişikliği yasaktır.",
+        "D) Sadece bir yıl için geçerlidir.",
+        "E) Maliye Bakanlığı izni olmadan bu usule geçemezler."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hasılat esaslı vergilendirmede KDV hangi tutar üzerinden hesaplanır?",
+      "options": [
+        "A) KDV hariç hasılat",
+        "B) Maliyet bedeli",
+        "C) Emsal bedel",
+        "D) KDV dahil bedel üzerinden",
+        "E) Sadece tahsil edilen KDV tutarı üzerinden"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Yapılan takip sonunda borçlunun haczi caiz malı yoksa veya satış bedeli borcunu karşılamıyorsa ne olur?",
+      "options": [
+        "A) Takip sona erer",
+        "B) Borç silinir",
+        "C) Haciz kaldırılır ama borç yok sayılır",
+        "D) İflas istenir",
+        "E) Borçlu aciz halinde sayılır"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Uzlaşma talebi, vergi/ceza ihbarnamesinin mükellefe tebliğinden itibaren kaç gün içinde yapılmalıdır?",
+      "options": [
+        "A) 7 gün",
+        "B) 15 gün",
+        "C) 30 gün",
+        "D) 45 gün",
+        "E) 60 gün"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "GVK m.121’e göre, yıllık beyannamede bildirilen gelire dahil kazanç ve iratlardan kesilen vergiler hakkında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Mahsup edilemez.",
+        "B) Beyanname üzerinden hesaplanan gelir vergisinden mahsup edilir.",
+        "C) Sadece geçici vergiden mahsup edilir.",
+        "D) Sadece kurumlar vergisinden mahsup edilir.",
+        "E) Sadece KDV’den mahsup edilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki birleşmelerden hangisi KVK m.19 anlamında “devir” sayılır?",
+      "options": [
+        "A) Tam mükellef iki şirketin, yurt dışı bir şirkete birleşmesi",
+        "B) Kanunî merkezi Türkiye’de, iş merkezi yurt dışında olan şirketin birleşmesi",
+        "C) Kanunî veya iş merkezleri Türkiye’de bulunan iki kurumun; münfesih kurum bilançosunun kayıtlı değerleriyle bir bütün halinde devralınması",
+        "D) Yabancı iki şirketin yurt dışında birleşmesi",
+        "E) Bir kooperatifin bir dernekle birleşmesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Fatura düzenlenmemesi hangi ceza kapsamındadır?",
+      "options": [
+        "A) Vergi ziyaı",
+        "B) I. derece usulsüzlük",
+        "C) II. derece usulsüzlük",
+        "D) Özel usulsüzlük",
+        "E) Kaçakçılık"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi münferit beyannamede bulunması zorunlu bilgilerden biri değildir?",
+      "options": [
+        "A) Mükellefin adı, soyadı, unvanı, adresi, vergi dairesi, hesap numarası",
+        "B) Muamelenin yapıldığı tarih veya tarihler",
+        "C) Elde edilen kazançların nev’i",
+        "D) Elde edilen kazançların tutarı",
+        "E) Mükellefin bir önceki yıl beyan ettiği gelirlerin dökümü"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Yabancı ulaştırma kurumlarında hava taşımacılığı için ortalama emsal oranı kaçtır?",
+      "options": [
+        "A) %3",
+        "B) %5",
+        "C) %8",
+        "D) %10",
+        "E) %12"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İthalde alınan KDV ne zaman ödenir?",
+      "options": [
+        "A) KDV beyannamesi süresinde",
+        "B) Yıl sonunda toplu",
+        "C) Gümrük vergisiyle birlikte ve aynı zamanda",
+        "D) İthalattan bir ay sonra",
+        "E) İthalattan üç ay sonra"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Tahsil zamanaşımında sürenin başlangıcı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Tahakkuk tarihi",
+        "B) Tebliğ tarihi",
+        "C) Vade tarihinden itibaren 5 yıl",
+        "D) Vadesinin rastladığı takvim yılını takip eden takvim yılı başı",
+        "E) Hesap döneminin kapanış tarih"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Tarhiyat öncesi uzlaşma görüşmesinde uzlaşmaya varılamaması durumunda aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Mükellef, tarhiyat sonrası (normal) uzlaşma talep edebilir.",
+        "B) Mükellef, tarhiyat sonrası uzlaşma talep edemez.",
+        "C) Vergi idaresi resen yeni bir uzlaşma komisyonu kurmak zorundadır.",
+        "D) Tarhiyat öncesi uzlaşma sağlanamadığında, ceza otomatik olarak %50 indirilir.",
+        "E) Bu durumda dava açılamaz."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bir mükellefin beyan ettiği gelir 1.000.000 TL’dir. Yıl içinde kendisi, eşi ve küçük çocuğu için Türkiye’deki bir hastaneye 200.000 TL sağlık harcaması yapmıştır. Belgeleri tamdır. Gelir Vergisi Kanunu’na göre en fazla ne kadarını indirebilir?",
+      "options": [
+        "A) 50.000",
+        "B) 100.000",
+        "C) 200.000",
+        "D) 1.000.000",
+        "E) İndirilemez"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "VUK’a göre “kanun yolundan vazgeçme” aşağıdaki hangi aşamalarda kullanılabilir?",
+      "options": [
+        "A) Vergi/ceza ihbarnamesi henüz tebliğ edilmeden önce",
+        "B) Vergi mahkemesine hiç dava açılmadan önce",
+        "C) Vergi mahkemesince verilen istinaf yolu açık kararlar ve bölge idare mahkemesince verilen temyiz yolu açık kararlar için",
+        "D) Yalnızca Danıştay kararları için",
+        "E) Sadece uzlaşma sonrası kalan kısım için"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdaki ödemelerden hangisi gelir vergisi matrahından indirilebilir?",
+      "options": [
+        "A) Trafik para cezaları",
+        "B) Gecikme faizleri",
+        "C) Gelir Vergisi Kanununda belirtilen şartları sağlayan hayat sigortası primi",
+        "D) Motorlu taşıt vergisi",
+        "E) Vergi cezası"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Azalan bakiyeler usulünü kimler uygulayabilir?",
+      "options": [
+        "A) İşletme hesabı esasına göre defter tutanlar",
+        "B) Serbest meslek kazanç defteri tutanlar",
+        "C) Bilanço esasına göre defter tutanlar",
+        "D) Sadece basit usul",
+        "E) Herkes"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gerçek usulde vergilendirilen ticari işletmesini 2022’de terk eden bir mükellef, 2024 yılında eski ticari alacağının bir kısmını tahsil etmiştir. 2024’te elde ettiği bu gelir hangi türdür?",
+      "options": [
+        "A) Ticari kazanç",
+        "B) Arızi kazanç",
+        "C) Değer artışı kazancı",
+        "D) Menkul sermaye iradı",
+        "E) Gayrimenkul sermaye iradı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Elektronik defter tanımı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Sadece PDF çıktısı",
+        "B) Noter onaylı Excel",
+        "C) Defterlerde yer alması gereken bilgileri kapsayan elektronik kayıtlar bütünüdür",
+        "D) Sadece e-fatura arşivi",
+        "E) Sadece banka hareketleri"
+      ],
+      "answer": 2
+    }
+  ],
+  "Çalışma Soruları (Test 03)": [
+    {
+      "q": "Aşağıdakilerden hangisi Vergi Usul Kanunu’nun uygulama alanı kapsamında yer alır?",
+      "options": [
+        "A) Sadece genel bütçeye giren vergiler",
+        "B) Genel bütçeye giren vergiler ile il özel idareleri ve belediyelere ait vergi, resim ve harçlar",
+        "C) Sadece yürürlükte olan vergi ve harçlar",
+        "D) Gümrük vergileri ve tekel vergileri",
+        "E) Sadece Gelir ve Kurumlar Vergisi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Resmi daire ve müesseselere veya merkezi Türkiye’de bulunan teşekküllere bağlı olup işleri nedeniyle yabancı memlekette oturan Türk vatandaşı, hangi durumda bulunduğu ülkede elde ettiği kazançlar üzerinden Türkiye’de ayrıca vergilendirilmez?",
+      "options": [
+        "A) Bulunduğu ülkede bu kazanç nedeniyle gelir vergisi veya benzeri vergiye tabi tutulmuşsa",
+        "B) Bulunduğu ülkede bu kazanç nedeniyle gelir vergisi veya benzeri vergiye tabi tutulmamışsa",
+        "C) Kazanç Türkiye’ye transfer edilirse",
+        "D) Kazanç serbest meslek kazancı ise",
+        "E) Türkiye’de ikametgahı varsa"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi KVK’ya göre “sermaye şirketi” sayılır?",
+      "options": [
+        "A) Adi şirket",
+        "B) Kollektif şirket",
+        "C) Anonim ve limited şirketler",
+        "D) Dernek iktisadi işletmesi",
+        "E) Vakıf iktisadi işletmesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A (üretici) → B (toptancı) → C (perakendeci) arasında zincirleme akit yapılmakta, mal fizikî olarak doğrudan C’ye gitmektedir. KDVK’ye göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Tek teslim vardır, sadece A → C teslimi",
+        "B) Tek teslim vardır, sadece B → C teslimi",
+        "C) Tek teslim vardır, sadece A → B teslimi",
+        "D) Her bir safha ayrı teslimdir ve iki teslim vardır: A→B ve B→C",
+        "E) Teslim yoktur, sadece hizmet vardır"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "“Takibat giderleri” aşağıdakilerden hangisini kapsamaz?",
+      "options": [
+        "A) Zor kullanma giderleri",
+        "B) İlan giderleri",
+        "C) Haciz, nakil, muhafaza giderleri",
+        "D) Mahkemece hükmedilen manevi tazminat",
+        "E) Cebri icra sırasında yapılan her türlü gider"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Yabancı memleketlerde veya yabancı elçilik/konsolosluklarda düzenlenen kağıtların vergisini kim öder?",
+      "options": [
+        "A) Her durumda düzenleyen",
+        "B) İlk lehtar",
+        "C) Türkiye’de bu kâğıdı resmi dairelere ibraz eden, üzerlerinde devir/ciro yapan veya hükümlerinden faydalananlar",
+        "D) Sadece Türkiye’de ilk cirantası",
+        "E) Yalnız ithalatçı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "MTV Kanununa göre otomobil tanımı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) En çok 10 oturma yeri olan araçlar",
+        "B) Yalnız sürücü dahil 4 kişilik araçlar",
+        "C) Sürücüsü dahil en çok 8 oturma yeri olan ve insan taşımak için imal edilmiş motorlu araç",
+        "D) İnsan ve yük taşımaya elverişli her araç",
+        "E) Yalnız binek olarak kullanılan her araç"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi ÖTV kanununa göre teslim sayılan hallerden biridir?",
+      "options": [
+        "A) Vergiye tabi malın işletmeden çekilip personele hediye edilmesi",
+        "B) Depoda stok sayımı yapılması",
+        "C) Malların imha edilmesi",
+        "D) Malın yurt dışına ihraç edilmesi",
+        "E) Malın sipariş edilmesi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Veraset ve İntikal Vergisi Kanunu’na göre istisna kapsamındaki intikallerden biridir?",
+      "options": [
+        "A) Mirasta kalan ticari işletme",
+        "B) Mirasta kalan kira geliri olan işyeri",
+        "C) Veraset yoluyla intikal eden şahsi eşya",
+        "D) Hisseli arsa intikali",
+        "E) Bankadaki nakit mevduat"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "BSMV’nin mükellefi kimdir?",
+      "options": [
+        "A) Bankalar, bankerler ve sigorta şirketleri",
+        "B) Sadece bankalar",
+        "C) Bankalar ve sigorta acenteleri",
+        "D) Sigorta acenteleri",
+        "E) Noterler"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Vergi kanunlarının lafzının açık olmadığı durumlarda aşağıdakilerden hangisine göre uygulama yapılır?",
+      "options": [
+        "A) Mükellefin lehine olan yoruma",
+        "B) Maliye Bakanlığının görüşlerine",
+        "C) Kanunun konuluş amacı, sistematiği ve diğer maddelerle bağlantısına",
+        "D) Yargı kararlarının çoğunluk görüşüne",
+        "E) Vergi dairesinin takdirine"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gelir Vergisi Kanunu esnaf muafiyeti kapsamında internet üzerinden satış yapanlar için bankaların yapacağı tevkifat oranı kural olarak kaçtır?",
+      "options": [
+        "A) %2",
+        "B) %4",
+        "C) %5",
+        "D) %10",
+        "E) Tevkifat yoktur"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi iktisadi kamu kuruluşu değildir?",
+      "options": [
+        "A) Belediyeye ait otopark işletmesi",
+        "B) Devlete ait ve devamlı faaliyette bulunan fabrika",
+        "C) İl özel idaresine ait ziraî işletme",
+        "D) Anonim şirket şeklinde kurulan özel bir banka",
+        "E) Bir kamu üniversitesine ait kantin işletmesi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Arsa karşılığı inşaat işlerinde, KDVK’ye göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Tek teslim vardır, sadece müteahhit arsa sahibine konut/işyeri teslim eder",
+        "B) Tek teslim vardır, sadece arsa sahibi müteahhide arsa payı teslim eder",
+        "C) Teslim sayılacak bir işlem yoktur",
+        "D) İki ayrı teslim vardır: arsa sahibinin arsa payı teslimi, müteahhidin konut/işyeri teslimi",
+        "E) Arsa payı hiçbir şekilde teslim sayılmaz"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Borçlunun ölümü halinde 6183 uygulaması bakımından aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Borçlunun ölümüyle amme alacağı düşer",
+        "B) Mirasçılar mirası reddetmemişse kanun hükümleri mirasçılar hakkında da uygulanır",
+        "C) Mirasçılar hiçbir şekilde sorumlu olmaz",
+        "D) Sadece tereke sorumludur, mirasçı şahsen hiçbir zaman sorumlu olmaz",
+        "E) Ölüm halinde takip daima durur, devam edilemez"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Maktu damga vergisine tabi bir kağıdın 3 nüsha düzenlenmesi halinde vergi nasıl alınır?",
+      "options": [
+        "A) Sadece 1 nüshadan",
+        "B) 2 nüshadan",
+        "C) Yalnız ilk nüshadan, diğerleri istisna",
+        "D) Nüsha sayısı önemli değildir",
+        "E) 3 nüshadan da aynı miktar"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Minibüs–otobüs ayrımı için koltuk sayısı sınırları hangisidir?",
+      "options": [
+        "A) Minibüs: 6–15, Otobüs: 16 ve üzeri",
+        "B) Minibüs: 9–17, Otobüs: 18 ve üzeri",
+        "C) Minibüs: 8–16, Otobüs: 17 ve üzeri",
+        "D) Minibüs: 10–20, Otobüs: 21 ve üzeri",
+        "E) Minibüs: 5–14, Otobüs: 15 ve üzeri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Malın tesliminden önce fatura düzenlenmişse, ÖTV’de vergiyi doğuran olay ne zaman doğmuş sayılır?",
+      "options": [
+        "A) Yalnız teslim anında",
+        "B) Fatura tarihinden bağımsız olarak yıl sonu",
+        "C) Faturada gösterilen miktarla sınırlı olmak üzere fatura düzenlendiğinde",
+        "D) Ödeme tarihinden itibaren 7 gün sonra",
+        "E) Sadece ithalatta gümrükte"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Elbirliği mülkiyetinde bir binaya ait Bina Vergisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Her bir malik hissesi oranında sorumludur",
+        "B) Her malik sadece kendi payı kadar vergi öder, başkasından sorumlu değildir",
+        "C) Vergi sadece adına tebligat yapılan malike aittir",
+        "D) Vergi sadece çoğunluk payına sahip olana aittir",
+        "E) Malikler vergiden müteselsilen sorumludur"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Veraset yoluyla intikalde, ölüm Türkiye’de gerçekleşmiş, mükellef Türkiye’de bulunuyor ise beyannamenin verilme süresi aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": [
+        "A) Ölüm tarihinden itibaren 1 ay",
+        "B) Ölüm tarihinden itibaren 4 ay",
+        "C) Ölüm tarihini takip eden 2 ay içinde",
+        "D) Ölüm tarihini takip eden 6 ay içinde",
+        "E) Ölüm tarihini takip eden 8 ay içinde"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Konaklama vergisinin mükellefi kimdir?",
+      "options": [
+        "A) Konaklayan müşteri",
+        "B) Seyahat acentesi",
+        "C) Belediyeler",
+        "D) Konaklama tesisini işletenler",
+        "E) Turizm Bakanlığı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Vergilendirmede vergiyi doğuran olayın gerçek mahiyetinin tespitinde aşağıdakilerden hangisi ispat aracı olarak kullanılamaz?",
+      "options": [
+        "A) Yazılı belgeler",
+        "B) Tanık ifadeleri",
+        "C) Bilirkişi raporları",
+        "D) Yemin",
+        "E) Teknik inceleme bulguları"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi GVK kapsamındaki diplomat muaflığından yararlanabilir?",
+      "options": [
+        "A) Türkiye’de görevli fahri konsolos",
+        "B) Türkiye’deki elçiliğin memuru olup Türkiye vatandaşı olan kişi",
+        "C) Yabancı devletin Türkiye’deki konsolosu olup karşılıklılık şartı aranmaksızın",
+        "D) Yabancı devletin Türkiye’deki elçisi",
+        "E) Türkiye’de özel sektörde çalışan yabancı uyruklu kişi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Tam mükellef bir kurum için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Yalnızca Türkiye’de elde ettiği kazançlardan vergilendirilir.",
+        "B) Dünya kazancının tamamı üzerinden vergilendirilir.",
+        "C) Sadece kanuni merkezi Türkiye’de ise tam mükelleftir, iş merkezinin önemi yoktur.",
+        "D) Yalnızca iş merkezi Türkiye’de ise, sadece yurt içi kazançlarından vergilendirilir.",
+        "E) Hem kanuni hem iş merkezi Türkiye’de değilse tam mükelleftir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi KDV Kanununa göre hizmet değildir?",
+      "options": [
+        "A) Bir makinenin tamir edilmesi",
+        "B) Bir depolama hizmetinin sunulması",
+        "C) Bir şeyi yapmamayı taahhüt etmek",
+        "D) Bir dairenin kiraya verilmesi",
+        "E) Bir mal üzerindeki tasarruf hakkının devri"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6183’e göre sürelerin hesaplanması ve tebliğlerde hangi kanun hükümleri uygulanır?",
+      "options": [
+        "A) Türk Borçlar Kanunu",
+        "B) İcra ve İflas Kanunu",
+        "C) Vergi Usul Kanunu",
+        "D) Türk Medeni Kanunu",
+        "E) Anayasa"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Nispi damga vergisine tabi bir sözleşme 4 nüsha düzenlenmişse kural olarak vergi nasıl alınır?",
+      "options": [
+        "A) Tüm nüshalardan",
+        "B) İlk iki nüshadan",
+        "C) Üç nüshadan",
+        "D) Sadece bir nüshadan",
+        "E) Hepsinden yarım oran"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Panel van için aşağıdaki özelliklerden hangisi yanlıştır?",
+      "options": [
+        "A) Azami toplam ağırlığı 3.500 kg’ı geçmez",
+        "B) Kapalı kasalıdır; yandan camlı olanlar da dahil olabilir",
+        "C) Sadece yük taşımak içindir, insan taşımaya uygun koltuk olamaz",
+        "D) Sürücü kısmı dışında tek veya daha fazla sıralı oturma yeri olabilir",
+        "E) İnsan ve yük taşımak için imal edilmiş bir taşıttır"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Komisyoncu aracılığıyla yapılan satışlarda, (III) sayılı listedeki mallarda vergiyi doğuran olay hangi aşamada gerçekleşir?",
+      "options": [
+        "A) Malların üretildiği tarihte",
+        "B) Malların komisyoncuya veya konsinye işletmeye tesliminde",
+        "C) Malların komisyoncu tarafından nihai alıcıya satışında",
+        "D) Fatura kesilmeden önce",
+        "E) Ön ödeme alındığında"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Bina Vergisinden daimi muaf değildir?",
+      "options": [
+        "A) Kamu menfaatine yararlı derneğe ait, işletmelere tahsis edilmemiş bina",
+        "B) Köy odası",
+        "C) Dini hizmetlerin ifasına mahsus cami",
+        "D) Kazanç gayesi olmadan işletilen öğrenci yurdu",
+        "E) Bir anonim şirkete ait işyeri binası"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Veraset yoluyla intikalde, ölüm yabancı ülkede gerçekleşmiş ve mirasçı Türkiye’de ise beyan süresi nedir?",
+      "options": [
+        "A) 1 ay",
+        "B) 2 ay",
+        "C) 4 ay",
+        "D) 6 ay",
+        "E) 8 ay"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Konaklama vergisinde vergiyi doğuran olay nedir?",
+      "options": [
+        "A) Rezervasyon yapılması",
+        "B) Fatura düzenlenmesi",
+        "C) Ön ödeme alınması",
+        "D) Hizmetin sunulması",
+        "E) Tahsilatın banka hesabına geçmesi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Vergi Usul Kanunu’nun 4. maddesi uyarınca vergi dairesinin görev ve yetkileri kapsamında değildir?",
+      "options": [
+        "A) Mükellefi tespit etmek",
+        "B) Vergiyi tarh ve tahakkuk ettirmek",
+        "C) Vergiyi tahsil etmek",
+        "D) Vergi uyuşmazlıklarını kesin olarak karara bağlamak",
+        "E) Vergi işlemlerini elektronik ortamda yürütmek"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi m.18 kapsamındaki istisnaya konu olabilecek bir faaliyettir?",
+      "options": [
+        "A) İnşaat taahhüt işi yaparak elde edilen kazanç",
+        "B) Restoran işletmeciliği kazancı",
+        "C) Bilgisayar programcısının yazılımını satması",
+        "D) Gayrimenkul satış kazancı",
+        "E) Her türlü danışmanlık hizmeti geliri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi dar mükellefiyet için doğrudur?",
+      "options": [
+        "A) Kanuni ve iş merkezinin her ikisi de Türkiye’dedir.",
+        "B) Türkiye’de hiçbir faaliyeti olmasa da dünya kazancı vergilenir.",
+        "C) Sadece kanuni merkez Türkiye’dedir.",
+        "D) Sadece iş merkezi Türkiye’dedir.",
+        "E) Sadece Türkiye’de elde edilen kazançlar vergilenir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Türkiye’den Almanya’ya yapılan bir uluslararası taşımacılıkta, KDVK md.7’ye göre Türkiye’de yapılmış sayılan kısım hangisidir?",
+      "options": [
+        "A) Tüm taşıma bedeli",
+        "B) Sadece Almanya’daki parkur",
+        "C) Yurt dışındaki parkur ile Türkiye içi parkurun toplamı",
+        "D) Hiçbiri",
+        "E) Taşıma hizmetinin iç parkura isabet eden kısmı"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6183 sayılı kanuna göre şahsi kefaletle ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Her hâlükârda kabul edilmek zorundadır",
+        "B) Yalnızca noter onayı aranmaz",
+        "C) Noterden tasdikli mukavele ile tesis edilir",
+        "D) Sadece yazılı beyan yeterlidir",
+        "E) Kanunda düzenlenmemiştir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bir kağıtta birbirinden tamamen ayrı birden fazla akit ve işlem bulunduğunda damga vergisi nasıl alınır?",
+      "options": [
+        "A) Her bir akit ve işlem için ayrı ayrı vergi alınır",
+        "B) Tüm işlemler tek bir vergiye tabi",
+        "C) Sadece en yüksek vergili işlem üzerinden",
+        "D) Sadece ilk yazılan işlemden vergi alınır",
+        "E) Sadece taraf sayısına göre vergilendirilir"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Motorlu Taşıtlar Vergisinin mükellefi kimdir?",
+      "options": [
+        "A) Aracı fiilen kullanan sürücü",
+        "B) Aracın fiili sahibi",
+        "C) Yalnız ithalatçı",
+        "D) Adına motorlu taşıt kayıt ve tescil edilmiş gerçek veya tüzel kişi",
+        "E) Sigorta şirketi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Engelli araç ÖTV istisnasında, aynı kapsamda tekrar araç alımı için normalde öngörülen süre aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 3 yıl",
+        "B) 5 yıl",
+        "C) 7 yıl",
+        "D) 10 yıl",
+        "E) Süre sınırı yoktur"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Veraset ve İntikal Vergisi’nde değerleme günü aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Beyanname verildiği gün",
+        "B) Verginin tahakkuk ettiği gün",
+        "C) Verginin ödendiği gün",
+        "D) Tapu tescil tarihi",
+        "E) Miras intikallerinde mirasın açıldığı"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi nedeniyle Bina Vergisinde geçici muafiyet sağlanmaz?",
+      "options": [
+        "A) Mesken olarak kullanılan yeni inşa bina",
+        "B) Turizm müessesesi belgesi alınan turizm amaçlı bina",
+        "C) Afet bölgesinde, yanan binanın yerine yapılan bina",
+        "D) Geri kalmış bölgede inşa edilen sınai tesis binası",
+        "E) Apartman dairesi olarak kullanılan 10 yıllık bina"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Konaklama vergisinin matrahı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Yalnızca geceleme bedelidir",
+        "B) Yalnızca KDV dâhil tahsil edilen tutardır",
+        "C) KDV hariç, vergi konusuna giren hizmetler için alınan/borçlanılan bedel ve menfaatler toplamıdır",
+        "D) Yalnızca nakit tahsilatlardır",
+        "E) Sadece oda fiyatıdır, yeme–içme dahil edilmez"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi vergi mahremiyetinin ihlali sayılmaz?",
+      "options": [
+        "A) Mükellefin servet bilgilerinin basına açıklanması",
+        "B) Sahte belge düzenlediği tespit edilenlerin meslek kuruluşlarına bildirilmesi",
+        "C) Mükellefin defter bilgilerinin üçüncü kişilere verilmesi",
+        "D) Mükellefin ticari sırlarının rakip firmaya aktarılması",
+        "E) Vergi borcu olmayan mükellefin bilgilerinin açıklanması"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Gelir Vergisi Kanunu’na göre, aksine hüküm olmadıkça gelirin unsurları gelirin tespitinde nasıl nazara alınır?",
+      "options": [
+        "A) Emsal bedel üzerinden",
+        "B) Gayrisafi tutarları ile",
+        "C) Vergi dairesinin takdir ettiği tutarlarla",
+        "D) Gerçek ve safi miktarları ile",
+        "E) Maliye Bakanlığı’nca belirlenen ortalama değerlerle"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "KVK m.5/B’de düzenlenen sınai mülkiyet hakları istisnası hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Sadece patent kiralanmasından elde edilen gelirler için geçerlidir.",
+        "B) Patent veya faydalı modelden elde edilen gelirlerin %100’ü istisnadır.",
+        "C) Belirli şartları sağlayan patent veya faydalı model gelirlerinin %50’si kurumlar vergisinden istisnadır.",
+        "D) Sadece gelir vergisi mükellefleri yararlanabilir.",
+        "E) Türkiye’de gerçekleşen Ar-Ge ile ilgisi yoktur."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Fiilî envanterde belgesiz mal bulundurduğu tespit edilen bir mükellef, alış belgelerini 10 gün içinde ibraz edemezse KDVK’ye göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) KDV, bu malları satanlardan aranır",
+        "B) KDV aranmaz, sadece usulsüzlük cezası kesilir",
+        "C) KDV, hem alıcı hem satıcıdan müştereken aranır",
+        "D) Malın tespit tarihindeki emsal bedeli üzerinden KDV, belgesiz mal bulunduran mükellef adına re’sen tarh edilir ve vergi ziyaı cezası uygulanır",
+        "E) Sadece gelir vergisi yönünden tarhiyat yapılır"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İhtiyati haciz, borçlu tarafından hangi durumda kaldırılır?",
+      "options": [
+        "A) Teminat göstermesiyle",
+        "B) İtiraz komisyonunun kararıyla",
+        "C) Yalnızca dava açılmasıyla",
+        "D) Mal beyanı vermesiyle",
+        "E) Borcu taksitlendirmesiyle"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Damga Vergisi hangi şekillerde alınır?",
+      "options": [
+        "A) Sadece nispi",
+        "B) Sadece maktu",
+        "C) Nispi veya maktu",
+        "D) Ad valorem",
+        "E) Sadece makbuz karşılığı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Motorlu taşıtlar vergisi mükellefiyeti ne zaman başlar?",
+      "options": [
+        "A) Ruhsat fiilen teslim edilince",
+        "B) Araç fiilen kullanılmaya başlandığında",
+        "C) Motorlu taşıtın trafik siciline kayıt ve tescili ile",
+        "D) Satış sözleşmesinin imzalanmasıyla",
+        "E) Sigorta poliçesinin düzenlenmesiyle"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mükelleflerin, satış belgelerinde ÖTV’yi ayrıca göstermesiyle ilgili hangisi doğrudur?",
+      "options": [
+        "A) İster gösterir, ister göstermez",
+        "B) ÖTV belge üzerinde gösterilemez",
+        "C) ÖTV satış belgelerinde ayrıca gösterilmek zorundadır",
+        "D) Yalnız ihracatta gösterilir",
+        "E) Yalnız ithalatta gösterilir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Şans oyunları ve yarışma/çekiliş ikramiyelerinde uygulanacak Veraset ve İntikal Vergisi oranı nedir?",
+      "options": [
+        "A) %10",
+        "B) %15",
+        "C) %20",
+        "D) %30",
+        "E) Artan oranlı tarife uygulanır"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Deprem sebebiyle tamamen yıkılan bir bina için, arsanın Arazi Vergisi yönünden durumuyla ilgili doğru ifade hangisidir?",
+      "options": [
+        "A) Hiçbir şekilde vergi alınmaz",
+        "B) Sadece ilk yıl alınmaz, sonra devam eder",
+        "C) Arsaya ait vergi, olayı izleyen bütçe yılından itibaren 2 yıl süreyle alınmaz",
+        "D) 10 yıl süreyle alınmaz",
+        "E) Sadece bina vergisi kalkar, arsa vergisi kesintisiz devam eder"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Konaklama vergisi oranı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) %1",
+        "B) %2",
+        "C) %5",
+        "D) %8",
+        "E) %18"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vergi incelemesi yapan bir memurun aşağıdaki kişilerden hangisine ait vergi inceleme işiyle uğraşması yasaktır?",
+      "options": [
+        "A) Aynı şehirde yaşayan tanıdığı",
+        "B) Eski iş ortağı",
+        "C) Nişanlısı",
+        "D) Aynı meslek grubundaki mükellef",
+        "E) Daha önce denetlediği bir şirket"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Gelir Vergisi Kanunu’na göre genç girişimci kazanç istisnasından yararlanabilecek kişi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Mükellefiyet başlangıcında 30 yaşını doldurmamış, ilk defa gelir vergisi mükellefi olan tam mükellef gerçek kişi",
+        "B) Mükellefiyet başlangıcında 29 yaşını doldurmamış, ilk defa kurumlar vergisi mükellefi olan tam mükellef tüzel kişi",
+        "C) Eşinden devraldığı faaliyeti sürdüren herkes",
+        "D) Mükellefiyet başlangıcında 29 yaşını doldurmamış, ilk defa gelir vergisi mükellefi olan dar mükellef gerçek kişi",
+        "E) Mükellefiyet başlangıcında 29 yaşını doldurmamış, ilk defa gelir vergisi mükellefi olan tam mükellef gerçek kişi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Kontrol edilen yabancı kurum (CFC) kazancının Türkiye’de vergilendirilmesi için aşağıdakilerden hangisi şartlardan biri değildir?",
+      "options": [
+        "A) Türkiye’de tam mükellef gerçek kişi/kurumların doğrudan/dolaylı en az %50 oranında kontrolü",
+        "B) Toplam gayrisafi hasılatın %25 veya fazlasının pasif nitelikli gelirlerden oluşması",
+        "C) Yurt dışı kurumun vergi yükünün %10’dan az olması",
+        "D) Yurt dışı kurumun ilgili yıldaki gayrisafi hasılatının belirli bir tutar yabancı parayı geçmesi",
+        "E) Yurt dışı kurumun Türkiye’de işyeri açmış olması"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bir mal 20 Mayıs’ta teslim edilecektir. Satıcı, mal teslim edilmeden önce 10 Mayıs’ta fatura düzenlemiş ve KDV hesaplamıştır. KDVK md.10/b’ye göre vergiyi doğuran olay ne zaman meydana gelir?",
+      "options": [
+        "A) 20 Mayıs (teslim tarihi)",
+        "B) 30 Mayıs (ödeme tarihi varsayalım)",
+        "C) Vergi doğmaz",
+        "D) 10 Mayıs, faturanın düzenlendiği tarihte, faturada gösterilen miktarla sınırlı",
+        "E) 31 Mayıs"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İptal davası ilgili maddelerde sayılan tasarrufların vuku tarihinden itibaren kaç yıl içinde açılmalıdır?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 5 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Damga vergisinin ödenmemesi veya eksik ödenmesinden dolayı, mükelleflere rücu hakkı saklı kalmak üzere, vergi ve cezadan kimler sorumludur?",
+      "options": [
+        "A) Yalnız kağıdı imzalayanlar",
+        "B) Kağıdı düzenleyenler",
+        "C) Maliye Bakanlığı",
+        "D) Noter",
+        "E) Kağıdı ibraz edenler"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Yeni bir araç takvim yılının ilk 6 ayında kayıt ve tescil edilirse MTV mükellefiyeti hangi tarihten itibaren başlar?",
+      "options": [
+        "A) Kayıt tarihinden itibaren",
+        "B) Kayıt tarihini izleyen ay başından",
+        "C) Kayıt tarihini izleyen yıl başından",
+        "D) İçinde bulunulan takvim yılının başından",
+        "E) Sadece ikinci altı ay için"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İthalatta alınan ÖTV ile ilgili hangisi doğrudur?",
+      "options": [
+        "A) ÖTV gümrük makbuzunda ayrıca gösterilir; ithalat vergileriyle aynı zamanda ödenir",
+        "B) ÖTV, ithalat vergilerinden tamamen bağımsız tahsil edilir",
+        "C) ÖTV, gümrük makbuzunda gösterilmez",
+        "D) ÖTV yalnızca iç piyasada tahsil edilir",
+        "E) ÖTV her zaman sonradan beyan edilir"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Yeni inşa edilen bir bina için, arsa üzerindeki Arazi Vergisi mükellefiyeti ne zaman sona erer?",
+      "options": [
+        "A) İnşaata başlandığı yıl",
+        "B) İnşaatın bittiği yılı takip eden bütçe yılından itibaren",
+        "C) Tapuya tescil edildiği yıl",
+        "D) İnşaat ruhsatının alındığı yıl",
+        "E) Binaya fiilen taşınıldığı ay"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi konaklama vergisinden istisna edilmiştir?",
+      "options": [
+        "A) Öğrenci yurtlarında öğrencilere verilen konaklama hizmetleri",
+        "B) Tatil köyündeki tüm geceleme hizmetleri",
+        "C) Misafirhanelerde yetişkinlere verilen hizmetler",
+        "D) Dağ evinde turistlere verilen konaklama hizmetleri",
+        "E) Öğretmenevlerinde öğretmen dışındaki kişilere verilen hizmetler"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Vergi Usul Kanunu’nuna göre mükellef ve vergi sorumlusu kavramlarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Mükellef, vergi kanunlarına göre kendisine vergi borcu terettüp eden kişidir; vergi sorumlusu ise verginin ödenmesi bakımından vergi dairesine karşı muhatap olandır.",
+        "B) Mükellef ile vergi sorumlusu eş anlamlıdır, aralarında yasal bir fark yoktur.",
+        "C) Vergi sorumlusu, vergi borcunun muhatabı değil sadece vergiyi hesaplayan kişiyi ifade eder.",
+        "D) Sadece gerçek kişiler mükellef olabilir; tüzel kişiler vergi sorumlusu sıfatıyla mükellef yerine geçer.",
+        "E) “Mükellef” terimi, vergi kanunlarında yalnızca vergi borçlusunu ifade eder ve vergi sorumlularını kapsamaz."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gelir Vergisi Kanunu sosyal içerik üreticiliği istisnasından yararlanmanın temel şartlarından biri hangisidir?",
+      "options": [
+        "A) Hasılatın elden tahsil edilmesi",
+        "B) Hasılatın kripto varlıkla tahsil edilmesi",
+        "C) Şirket kurma zorunluluğu",
+        "D) Sadece yurt dışına içerik üretilmesi",
+        "E) Türkiye’de kurulu bankada hesap açılması ve tüm hasılatın münhasıran bu hesap üzerinden tahsil edilmesi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi KVK’ya göre indirilebilecek bir gider değildir?",
+      "options": [
+        "A) Kuruluş ve örgütlenme giderleri",
+        "B) Genel kurul toplantı giderleri",
+        "C) Birleşme, devir ve bölünme giderleri",
+        "D) Kurumlar vergisi",
+        "E) Menkul kıymet ihraç giderleri"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İhraç edilmek şartıyla imalatçılar tarafından ihracatçılara teslim edilen mallara ait KDV ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) İhracatçı KDV’yi öder, sonra iade alır",
+        "B) İmalatçı hiç beyan etmez",
+        "C) KDV hem imalatçıdan hem ihracatçıdan alınır",
+        "D) KDV tahsil edilmez, beyan edilir, vergi dairesince tarh ve tahakkuk ettirilerek tecil olunur",
+        "E) İhracat gerçekleşmezse de tecil terkin edilir"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Amme alacağının tahsiline imkân bırakmamak amacıyla yapılan ve borçlunun maksadını bilen veya bilmesi gereken kişilerle yapılan muameleler için hangi ifade doğrudur?",
+      "options": [
+        "A) Sadece 2 yıl içinde yapılmışsa hükümsüzdür",
+        "B) Her hâlde geçerlidir",
+        "C) Tarihleri ne olursa olsun hükümsüzdür",
+        "D) Sadece bağışlama niteliğindekiler hükümsüzdür",
+        "E) Sadece rehinler hükümsüzdür"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Birden fazla kişi tarafından imzalanan bir kağıtta vergi ve ceza açısından sorumluluk nasıldır?",
+      "options": [
+        "A) Herkes kendi payı kadar sorumlu",
+        "B) Sadece ilk imza sahibi sorumlu",
+        "C) Müştereken, ancak müteselsilen değil",
+        "D) İmza edenler vergi ve cezanın tamamından müteselsilen sorumludur",
+        "E) Sadece vergiden muaf olmayanlar sorumlu"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Yeni araç takvim yılının son 6 ayında (Temmuz–Aralık) tescil edilirse mükellefiyet ne zaman başlar?",
+      "options": [
+        "A) Son altı aylık dönemin başından",
+        "B) Kayıt tarihini izleyen ay başı",
+        "C) Kayıt tarihi",
+        "D) Takip eden yılın başından",
+        "E) Yalnız kayıt ayından"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Değerli Konut Vergisinin konusunu doğru ifade eder?",
+      "options": [
+        "A) Türkiye’deki değeri belirli bir tutarın üzerinde bulunan iş yerleri",
+        "B) Yurt içi ve yurt dışında bulunan belirli bir değerin üzerindeki meslekler",
+        "C) Türkiye sınırları içerisinde bulunan tüm taşınmazlar",
+        "D) Türkiye sınırları içinde bulunan, mesken nitelikli ve bina vergi değeri kanundaki eşiği aşan taşınmazlar",
+        "E) Türkiye sınırları içerisinde bulunan yazlık villa nitelikli taşınmazlar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Özel iletişim vergisinin mükellefi kimdir?",
+      "options": [
+        "A) Aboneler",
+        "B) GSM bayileri",
+        "C) Elektronik haberleşme hizmetlerini sunan yetkilendirilmiş işletmeciler",
+        "D) BTK",
+        "E) Bankalar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Vergi Usul Kanunu’nunda düzenlenen vergi ehliyeti ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Mükellefiyet ve vergi sorumluluğu için kanuni ehliyete (fiil ehliyetine) sahip olmak şart değildir.",
+        "B) Vergi mükellefi olabilmek için kişinin reşit ve kısıtlı olmaması gerekir, aksi halde vergi mükellefi olamaz.",
+        "C) Vergiyi doğuran olay kanunlarda yasaklanmış olsa bile, bu durum vergi mükellefiyetini ortadan kaldırmaz.",
+        "D) Tüzel kişiler de vergi mükellefi veya sorumlusu olabilir, vergi ehliyeti sadece gerçek kişilerle sınırlı değildir.",
+        "E) Kanuni ehliyeti bulunmayan (örneğin küçük veya kısıtlı) kişiler adlarına bir vergiyi doğuran olay gerçekleşirse vergi mükellefi olabilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "GVK’ya göre mesken olarak kiraya verilen binalardan elde edilen hasılatta istisnadan yararlanılamamasına yol açan hal hangisidir?",
+      "options": [
+        "A) Hasılatın banka yoluyla tahsil edilmesi",
+        "B) Hasılatın yıl içinde artması",
+        "C) İstisna haddi üzerindeki hasılatın beyan edilmemesi veya eksik beyan edilmesi",
+        "D) Kiranın dövizle alınması",
+        "E) Kiranın aylık alınması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi KVK m.10 kapsamında tamamı indirilebilen bağış ve yardımlardandır?",
+      "options": [
+        "A) Herhangi bir derneğe yapılan tüm bağışlar",
+        "B) Tüzel kişilerin siyasi partilere bağışları",
+        "C) Kızılay ve Yeşilay’a yapılan nakdi bağışlar",
+        "D) Herhangi bir vakfa yapılan bağışların tamamı",
+        "E) Tüm sponsorluk harcamaları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraç edilmek şartıyla teslim edilen mallar, mücbir sebep nedeniyle ihraç edilmezse tecil edilen vergi nasıl tahsil edilir?",
+      "options": [
+        "A) Hiç tahsil edilmez",
+        "B) Gecikme zammı ile tahsil edilir",
+        "C) Tecil faizi uygulanmaksızın tahsil edilir",
+        "D) VUK’A göre tecil faizi ile tahsil edilir",
+        "E) Sadece ceza tahsil edilir, vergi alınmaz"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Tasfiye halindeki tüzel kişilerin amme borçlarını ödeme yükümlü­lüğü kimlere aittir?",
+      "options": [
+        "A) Sadece eski yönetim kuruluna",
+        "B) Sadece ortaklara",
+        "C) Tasfiye memurlarına",
+        "D) Yeminli mali müşavire",
+        "E) Vergi dairesine"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Damga Vergisi Kanununa göre maktu vergilerin (asgari–azami hadler dahil) her yıl artırılması hangi esasa göre yapılır?",
+      "options": [
+        "A) Yeniden değerleme oranı kadar artırılır",
+        "B) Cumhurbaşkanı kararıyla her yıl sabit oran",
+        "C) TBMM’nin yeni kanun çıkarmasıyla",
+        "D) ÜFE oranı kadar artırılır",
+        "E) Merkez Bankası faiz oranı kadar artırılır"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdaki MTV’lerden hangisi gelir veya kurumlar vergisi matrahında gider olarak kabul edilir?",
+      "options": [
+        "A) Özel otomobile ait MTV",
+        "B) Şirket ortağının binek aracına ait MTV",
+        "C) Şirkete ait binek otomobile ait MTV",
+        "D) Taşıt kiralama faaliyetinde kiraya verilen araçlara ait MTV",
+        "E) Hiçbir MTV gider yazılamaz"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Değerli Konut Vergisinde matrah nasıl belirlenir?",
+      "options": [
+        "A) Taşınmazın tamamı üzerinden",
+        "B) Emlak vergisi değeri + tapu harcı matrahı",
+        "C) Rayiç bedelin tamamı",
+        "D) Bina vergi değerinin kanundaki eşiği aşan kısmı",
+        "E) Piyasa rayici ile KDV matrahının ortalaması"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi ÖİV’ye tabi hizmetlerden biridir?",
+      "options": [
+        "A) Elektrik faturası",
+        "B) Kablolu, kablosuz ve mobil internet servis sağlayıcılığı",
+        "C) Tapu harçları",
+        "D) Banka havalesi",
+        "E) Noter harcı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Vergi Usul Kanunu’nuna göre, tüzel kişiler veya küçükler gibi kanuni temsilcileri aracılığıyla temsil edilen mükelleflerin vergi ödevleri ve sorumluluğu konusunda aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Tüzel kişinin tasfiye edilmesi halinde, kanuni temsilcilerin tasfiye öncesine ait vergi borçlarından doğan sorumluluğu ortadan kalkar.",
+        "B) Kanuni temsilciler, mükellefin vergi ödevlerini yerine getirmezse dahi, verginin ödenmesinden şahsen sorumlu tutulamazlar.",
+        "C) Kanuni temsilciler, kendi cebinden ödedikleri vergiler için asıl mükellefe rücu etme hakkına sahip değildir.",
+        "D) Tüzel kişiler ile küçüklerin vergi ödevlerini kanuni temsilcileri yerine getirir; eğer bu ödevler temsilcilerce ihmal edilirse, tahsil edilemeyen vergiler kanuni temsilcilerin mal varlıklarından alınabilir.",
+        "E) Kanuni temsilciler, mükellefin vergi ödevlerini yerine getirmekle yükümlüdür ancak verginin kendisinden değil sadece cezalardan sorumlu olurlar."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi GVK kapsamında ücret istisnasına örnektir?",
+      "options": [
+        "A) Hizmetçilerin ücretleri",
+        "B) Özel okul öğretmenlerinin tüm ücretleri",
+        "C) Her türlü mürebbiye ücreti",
+        "D) Şirket yöneticilerine ödenen huzur hakkı",
+        "E) Serbest meslek erbabının yanında çalışanların ücretleri"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi kabul edilmeyen indirim (KKEG) niteliğindedir?",
+      "options": [
+        "A) Kuruluş giderleri",
+        "B) Menkul kıymet ihraç giderleri",
+        "C) Öz sermaye üzerinden hesaplanan faizler",
+        "D) Sponsorluk giderleri",
+        "E) Korumalı işyeri indirimi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi bir teslimin ihracat teslimi sayılması için sayılan şartlardandır?",
+      "options": [
+        "A) Malların mutlaka doğrudan nihai tüketiciye satılması",
+        "B) Teslimin yurt içindeki herhangi bir alıcıya yapılması",
+        "C) Teslimin gümrüksüz satış mağazalarına yapılması",
+        "D) Sadece dövizle satış yapılması",
+        "E) Malların Türkiye’de depoda beklemek üzere bırakılması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Hususi kanununda ödeme zamanı gösterilmemiş bir amme alacağı, tebliğden itibaren ne kadar süre içinde ödenir?",
+      "options": [
+        "A) 7 gün",
+        "B) 15 gün",
+        "C) 3 ay",
+        "D) 1 ay",
+        "E) 6 ay"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Değerli Konut Vergisinden muaftır?",
+      "options": [
+        "A) Birden fazla lüks dairesi olan ve hepsi değer eşiklerini aşan kişi",
+        "B) Özel bir şirketin lüks rezidansı",
+        "C) Türkiye sınırları içinde mesken nitelikli olup kanundaki eşiği aşan tek taşınmazı olan kişi",
+        "D) Turistik amaçlı kiraya verilen lüks villa",
+        "E) Yabancı gerçek kişinin Türkiye’deki yazlığı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "ÖİV’nin gelir/kurumlar vergisi açısından durumu için hangisi doğrudur?",
+      "options": [
+        "A) Gider yazılır",
+        "B) Maliyet unsuru yapılır",
+        "C) Hiçbir vergiden mahsup edilemez ama gider yazılabilir",
+        "D) Gelir ve kurumlar vergisi uygulamasında gider kaydedilemez",
+        "E) Stopajdan mahsup edilir"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "VUK’a göre ölüm halinde mükellefin vergi borçları ve ödevleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Mirasçılar mirası reddetseler bile, ölen kişinin vefatından önceki vergi borçlarını ödemekle yükümlüdür.",
+        "B) Mirasçılar, ölen mükellefin tüm vergi borçlarından hiçbir sınırlama olmaksızın müteselsilen sorumludur.",
+        "C) Mirasçılar, ölen kişinin vergi borçlarından eşit paylarla sorumluluk üstlenir.",
+        "D) Mirasçılar mirası kabul etseler bile, ölen kişinin vergi borçlarından sorumlu olmazlar.",
+        "E) Mükellefin ölümü durumunda, mirası reddetmemiş mirasçılar, ölenin vergi borçlarından miras payları oranında sorumludur."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "GVK’ya göre hizmet erbabının ikinci derece engelli sayılabilmesi için çalışma gücü kaybı asgari kaç olmalıdır?",
+      "options": [
+        "A) %30",
+        "B) %40",
+        "C) %50",
+        "D) %60",
+        "E) %80"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Kurumlar Vergisi Kanunu’na göre, kurumların ilişkili kişilerle yaptığı işlemlerde uygulayacağı fiyat veya bedelleri belirleme yöntemlerinden biri değildir?",
+      "options": [
+        "A) Karşılaştırılabilir fiyat yöntemi",
+        "B) Maliyet artı yöntemi",
+        "C) Yeniden satış fiyatı yöntemi",
+        "D) İşlemsel kâr yöntemleri",
+        "E) Enflasyon düzeltme yöntemi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi KDVK kapsamında istisna edilen teslim ve hizmetlerden biridir?",
+      "options": [
+        "A) Herkese yapılan otomobil satışı",
+        "B) Faaliyetleri kısmen veya tamamen deniz taşıma araçlarını işletmek olanlara, bu amaçla yapılan deniz taşıma araçlarının teslimi",
+        "C) Tüm karayolu taşıtları için yapılan bakım-onarım",
+        "D) Özel gezi teknesi alımı",
+        "E) Her türlü kiralama işlemi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Borçlu, makbuzlarını en az ne zamana kadar saklamakla yükümlüdür?",
+      "options": [
+        "A) 2 yıl",
+        "B) 10 yıl",
+        "C) Tahsil zamanaşımı süresi sonuna kadar",
+        "D) Tecil süresi sonuna kadar",
+        "E) Dava açma süresi sonuna kadar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Değerli Konut Vergisi’nde beyanname verme süresi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Taşınmazın değerinin kanundaki eşiği aştığı yılı takip eden yılın Şubat ayının 20. günü sonuna kadar",
+        "B) Taşınmazın değerinin kanundaki eşiği aştığı yılı takip eden yılın Ocak ayının 20. günü sonuna kadar",
+        "C) Taşınmazın değerinin kanundaki eşiği aştığı yılı takip eden yılın Mart ayının 20. günü sonuna kadar",
+        "D) Taşınmazın değerinin kanundaki eşiği aştığı yılı takip eden yılın Nisan ayının 20. günü sonuna kadar",
+        "E) Taşınmazın değerinin kanundaki eşiği aştığı yılı takip eden yılın Mayıs ayının 20. günü sonuna kadar"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "ÖİV’ye ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Faturalarda gösterilmez, bedelin içinde gizlidir",
+        "B) Faturalarda ayrıca gösterilir",
+        "C) Sadece yıllık toplu bildirilen bir vergidir",
+        "D) Abonenin talebi olursa faturada gösterilir",
+        "E) Sadece ön ödemeli hatlarda uygulanır"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "VUK’a göre, vergiyle ilgili işlemlerde kanunlarda sürenin açıkça belirtilmediği durumlarda süreler ne şekilde belirlenir?",
+      "options": [
+        "A) Kanunda süre belirtilmemişse, ilgili idare tarafından en az 15 gün olmak üzere bir süre belirlenir.",
+        "B) Kanunda belirtilmeyen hallerde, süre 7 gün olarak uygulanır.",
+        "C) Kanunda açık hüküm yoksa herhangi bir süre sınırlaması yapılmaz.",
+        "D) Vergi kanunlarında belirtilmeyen süreler otomatik olarak 30 gün kabul edilir.",
+        "E) Kanunda süre belirtilmediğinde, süre mükellefin talebine göre serbestçe belirlenir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Bilanço esasına göre ticari kazanç aşağıdakilerden hangisiyle bulunur?",
+      "options": [
+        "A) Hasılat – gider farkı",
+        "B) Tahsilatlar – ödemeler farkı",
+        "C) Dönem sonu emtia – dönem başı emtia farkı",
+        "D) Dönem sonu öz sermaye – dönem başı öz sermaye (müspet fark)",
+        "E) Net kâr + amortisman toplamı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kurumlar vergisinde beyan esası ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Kurumlar vergisi daima re’sen tarh olunur.",
+        "B) Kurumlar vergisi sadece stopaj yoluyla alınır.",
+        "C) Kurumlar vergisi mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.",
+        "D) Kurumlar vergisi sadece muhtasar beyannamelerle beyan edilir.",
+        "E) Kurumlar vergisi her şube için ayrı beyan edilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yatırım Teşvik Belgesi kapsamındaki makine-teçhizat teslimlerinde KDV istisnasına ilişkin aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Yatırım hiç gerçekleşmese de istisna kalıcıdır",
+        "B) Yatırım teşvik belgesine rağmen KDV daima hesaplanır",
+        "C) Yatırım, belgede öngörüldüğü şekilde gerçekleşmezse zamanında alınmayan vergi alıcıdan, vergi ziyaı cezası ve gecikme faizi ile tahsil edilir",
+        "D) Vergi, satıcıdan cezasız istenir",
+        "E) Sadece faiz alınır, vergi alınmaz"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6183 sayılı kanuna göre çekle yapılan ödemelerde, ödeme tarihi olarak ne kabul edilir?",
+      "options": [
+        "A) Çekin düzenleme tarihi",
+        "B) Çekin tahsil dairesine veya bankaya verildiği gün",
+        "C) Çekin bankada tahsil edildiği gün",
+        "D) Vade tarihi",
+        "E) Tahakkuk tarihi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "VUK’a göre, mükellefin ölümü halinde kanunlarda özel bir hüküm bulunmadığı durumlarda bildirim ve beyanname verme süreleriyle ilgili nasıl bir uygulama yapılır?",
+      "options": [
+        "A) Kanunda hüküm bulunmayan hallerde, mükellefin ölümü dolayısıyla mirasçıların bildirim ve beyanname verme sürelerine 3 ay eklenir.",
+        "B) Ölüm halinde vergiyle ilgili sürelerde herhangi bir uzatma yapılmaz, normal süreler geçerlidir.",
+        "C) Mükellefin ölümü durumunda, tüm vergisel süreler kendiliğinden 6 ay uzar.",
+        "D) Ölüm halinde süre uzatımı yapılabilmesi için mutlaka kanunda özel bir hüküm olmalıdır, aksi takdirde süre uzatılamaz.",
+        "E) Mükellefin ölümü halinde bildirim ve beyan sürelerine en fazla 1 ay eklenebilir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "GVK’na göre dar mükelleflerin Türkiye ile yabancı ülkeler arasında yaptıkları ulaştırma işlerinden elde ettikleri kazançlar hangi esaslara göre tespit edilir?",
+      "options": [
+        "A) Gelir Vergisi Kanunundaki serbest meslek hükümlerine göre",
+        "B) Kurumlar Vergisine tabi yabancı ulaştırma kurumlarının kazanç tespit esaslarına göre",
+        "C) Transfer fiyatlandırması hükümlerine göre",
+        "D) Basit usul esaslarına göre",
+        "E) Sadece stopaj yoluyla ve beyan dışı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "KVK’e göre aşağıdakilerden hangisi vergi kesintisi yapmak zorunda olanlar arasında sayılmamıştır?",
+      "options": [
+        "A) Kamu idare ve kuruluşları",
+        "B) Ticaret şirketleri",
+        "C) İş ortaklıkları",
+        "D) Serbest meslek erbabı",
+        "E) Basit usule tabi esnaf"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "KDVK’ya göre istisnadan vazgeçme ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) İstisnadan vazgeçmek mümkün değildir",
+        "B) Mükellef, dilediği zaman istisnadan çıkıp tekrar girebilir, süre yoktur",
+        "C) Bu şekilde mükellef olanlar 3 yıl geçmedikçe mükellefiyetten çıkamazlar",
+        "D) İstisnadan vazgeçme sadece diplomatik istisnalar için mümkündür",
+        "E) Kamu menfaatine yararlı dernekler ve muaf vakıflar da her zaman istisnadan vazgeçebilir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Tecil yapılabilmesi için aşağıdakilerden hangisi zorunlu şartlardan biridir?",
+      "options": [
+        "A) Borçlunun mutlaka dava açmış olması",
+        "B) Borcun kesinleşmemiş olması",
+        "C) Borçlunun yazılı talepte bulunması",
+        "D) Borçlunun sadece sözlü talebi",
+        "E) Borcun taksitlere bölünmüş olması"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "VUK’a göre sürelerin hesaplanmasına ilişkin aşağıdaki kurallardan hangisi doğrudur?",
+      "options": [
+        "A) Sonu belli bir gün olarak tayin edilen sürelerde, süre o günün mesai başlamadan önceki iş gününün sonunda biter.",
+        "B) Gün olarak belirlenen sürelerde, süre başladığı gün de hesaba katılır ve son günün mesai başlangıcında biter.",
+        "C) Ay olarak belirlenen bir süre, son ayda sürenin başladığı günün aynısı yoksa, süre otomatik olarak bir sonraki ayın aynı gününe kadar uzar.",
+        "D) Sürenin son günü bir resmî tatil gününe rastlarsa, süre tatili izleyen ilk iş günü mesai saati bitiminde sona erer.",
+        "E) Tüm tatiller süreye dâhildir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "GVK’da düzenlenen zirai kazanç için “işletme büyüklüğü ölçüleri” neyin tespiti bakımından önemlidir?",
+      "options": [
+        "A) Basit usule geçiş için kira sınırı",
+        "B) Ücret istisnası uygulanması için",
+        "C) Zirai kazancın gerçek usulde tespit edilip edilmeyeceği",
+        "D) Ticari kazancın bilanço/işletme hesabı seçimi için",
+        "E) Serbest meslek kazancı istisnası için"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Tasfiye döneminin sona erdiği hesap dönemi için tasfiye beyannamesi en geç ne zamana kadar verilir?",
+      "options": [
+        "A) Tasfiye bitişini izleyen 15 gün içinde",
+        "B) Tasfiye bitişini izleyen 30 gün içinde",
+        "C) Tasfiye bitişini izleyen 1 ay sonundaki 25. gün",
+        "D) Tasfiye bitişini izleyen 3 ay içinde",
+        "E) Tasfiye bitişini izleyen hesap dönemi sonunda"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Belli tarifeye göre fiyatı tespit edilen işler ile bedelin biletle tahsil edildiği hallerde KDV uygulaması nasıldır?",
+      "options": [
+        "A) KDV ayrıca gösterilir ve ayrıca tahsil edilir",
+        "B) KDV hiç hesaplanmaz",
+        "C) Tarife ve bilet bedeli KDV hariç belirlenir",
+        "D) Tarife ve bilet bedeli KDV dahil belirlenir",
+        "E) KDV sadece gider olarak dikkate alınır"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Amme borçlusunun tecil edilen borçlarının toplamı belirli bir sınırı aşmıyorsa hangi sonuç doğar?",
+      "options": [
+        "A) Tecil yapılamaz",
+        "B) Tecil için Danıştay izni gerekir",
+        "C) Tecilde teminat aranmaz",
+        "D) Tecil faizi uygulanmaz",
+        "E) Gecikme zammı silinir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Verginin tahakkuk etmiş sayılması için aşağıdakilerden hangisi tamamlanmış olmalıdır?",
+      "options": [
+        "A) Tahsil",
+        "B) Yargı kararı",
+        "C) Sadece tarh işlemi",
+        "D) Tarh ve tebliğ",
+        "E) Matrah beyanı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi GVK’ya göre zirai işletme hesabı esasında hasılat sayılır?",
+      "options": [
+        "A) Teşebbüs sahibinin şahsi çektiği para",
+        "B) Dar mükellefin ücret geliri",
+        "C) İşletme sahibinin kişisel araç satış bedeli",
+        "D) Mahsullerin hasara uğraması nedeniyle alınan sigorta tazminatları",
+        "E) İşletmeye konulan sermaye"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "KVK’ya göre bir kurumun diğer bir kurumla birleşmesi, birleşen (infisah eden) kurum bakımından hangi hükme tabidir?",
+      "options": [
+        "A) Devir hükmü",
+        "B) Tasfiye hükmü",
+        "C) Kısmi bölünme hükmü",
+        "D) Hisse değişimi hükmü",
+        "E) Özel hesap dönemi hükmü"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi KDVK’ye göre özel matrah kapsamındadır?",
+      "options": [
+        "A) Lokantada yemek satışı",
+        "B) Spor-Toto oyununda oyuna katılma bedeli",
+        "C) Her türlü ücretsiz girilen konserler",
+        "D) Market satışları",
+        "E) Perakende tekstil satışları"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Tecil şartlarına uyulmaması veya teminatın tamamlanmaması hâlinde ne olur?",
+      "options": [
+        "A) Tecil otomatik olarak uzar",
+        "B) Tecil süresi kısalır",
+        "C) Amme alacağı muaccel olur",
+        "D) Gecikme zammı düşer",
+        "E) Borç silinir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mükellefin tahakkuk fişini almaması halinde aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Vergi tahakkuk etmez",
+        "B) Tarh işlemi geçersiz olur",
+        "C) Tahakkuk, beyandaki matrah üzerinden gerçekleşir",
+        "D) Tebliğ şarttır",
+        "E) Vergi düşer"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "GVK’ya göre aşağıdakilerden hangisi serbest meslek kazancının tespitinde gider olarak indirilebilir?",
+      "options": [
+        "A) Gelir vergisi",
+        "B) Serbest meslek erbabının suçundan doğan tazminat",
+        "C) Vergi cezası",
+        "D) Mesleki faaliyette kullanılan demirbaşlar için ayrılan amortisman",
+        "E) Kişisel tatil harcamaları"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi KVK m.19 anlamında tam bölünmedir?",
+      "options": [
+        "A) Tam mükellef bir sermaye şirketinin tasfiyesiz infisah ederek tüm malvarlığını bir veya daha fazla tam mükellef sermaye şirketine devretmesi ve karşılığında ortaklarına yeni şirket hisseleri verilmesi",
+        "B) Bir sermaye şirketinin taşınmazını satması",
+        "C) Bir sermaye şirketinin sadece iştirak hisselerini devretmesi",
+        "D) Bir sermaye şirketinin ortaklarından bir kısmının pay devri",
+        "E) Şirketin unvan değiştirmesi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gümrük depolarında ve müzayede mahallerinde yapılan satışlarda KDV matrahı nedir?",
+      "options": [
+        "A) Emsal bedel",
+        "B) Gümrük kıymeti",
+        "C) Maliyet bedeli",
+        "D) Kesin satış bedeli",
+        "E) Sadece komisyon tutarı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6183 sayılı kanuna göre vergiye uyumlu mükellefler için getirilen özel tecil kapsamında vadesi geçmiş borcun vadesi en fazla ne kadar geçmiş olmalıdır?",
+      "options": [
+        "A) 3 ay",
+        "B) 6 ay",
+        "C) 1 yıl",
+        "D) 2 yıl",
+        "E) 5 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İkmalen tarh için aşağıdakilerden hangisi zorunludur?",
+      "options": [
+        "A) Hiç tarh yapılmamış olması",
+        "B) Daha önce tarh edilmiş bir verginin bulunması",
+        "C) Beyanname verilmemiş olması",
+        "D) Defterlerin hiç tutulmaması",
+        "E) Takdir komisyonu kararı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "GVK’ya göre serbest meslek erbablarının hesaplarında; idarece tespit edilen hasılat ile defter/bildirimdeki hasılat arasındaki fark %20’den fazla ise ne olur?",
+      "options": [
+        "A) Doğrudan re’sen tarh edilir",
+        "B) Mükellef otomatik mükellefiyetten düşer",
+        "C) VUK kapsamında izaha davet edilir",
+        "D) Basit usule geçirilir",
+        "E) Hiçbir işlem yapılmaz"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi dar mükellef kurum kazancının tespitinde indirim olarak kabul edilmez?",
+      "options": [
+        "A) Türkiye’deki işyerinin kira gideri",
+        "B) Türkiye’deki personel ücretleri",
+        "C) Türkiye’deki işletmenin faaliyetine ilişkin elektrik gideri",
+        "D) Ana merkeze, alım-satımla ilgili verilen faiz ve komisyonlar",
+        "E) Türkiye’de yapılan reklam giderleri"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Altından mamul ziynet eşyası tesliminde matrah nasıl tespit edilir?",
+      "options": [
+        "A) Toplam satış bedeli",
+        "B) Sadece işçilik bedeli",
+        "C) Sadece külçe altın bedeli",
+        "D) Külçe altın bedeli düşüldükten sonra kalan miktar",
+        "E) Emsal bedel"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Asıl borcun ödenmiş olması, gecikme zammının takibi açısından ne sonuç doğurur?",
+      "options": [
+        "A) Gecikme zammı da otomatik olarak düşer",
+        "B) Gecikme zammı takip edilemez",
+        "C) Gecikme zammının takibi ve tahsiline engel değildir",
+        "D) Gecikme zammı faizlere dönüşür",
+        "E) Sadece fer’iler silinir"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gelir İdaresi Başkanlığı, beyanname verme ve ödeme süresini en fazla ne kadar uzatabilir?",
+      "options": [
+        "A) Süresiz",
+        "B) 15 gün",
+        "C) 2 ay",
+        "D) 1 ayı geçmeyecek şekilde",
+        "E) Kanuni sürenin iki katı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "GVK’ya göre gayrimenkul sermaye iradında gayrisafi hasılat aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Bir takvim yılında, o yıla veya sonraki yıllara ait olarak tahsil edilen kira bedelleri toplamı",
+        "B) Bir takvim yılında, o yıla veya geçmiş yıllara ait olarak tahsil edilen kira bedelleri toplamı",
+        "C) Bir takvim yılında, o yıla, geçmiş yıllara ve sonraki yıllara ait olarak tahsil edilen kira bedelleri toplamı",
+        "D) Emsal kira bedeli",
+        "E) Kira gelirinden giderler düşülmüş tutar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yabancı ulaştırma kurumlarında kara taşımacılığı için ortalama emsal oranı kaçtır?",
+      "options": [
+        "A) %5",
+        "B) %10",
+        "C) %12",
+        "D) %15",
+        "E) %20"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bedeli bulunmayan veya bedeli bilinmeyen işlemlerde KDV matrahı nedir?",
+      "options": [
+        "A) Maliyet bedeli",
+        "B) Emsal bedeli veya emsal ücreti",
+        "C) Mükellefin beyan ettiği her tutar",
+        "D) Sıfır",
+        "E) Sadece maliyet + KDV"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi cebren tahsil şekillerinden biri değildir?",
+      "options": [
+        "A) Teminatın paraya çevrilmesi",
+        "B) Borçlunun mallarının haczi ve satışı",
+        "C) Gerekli şartlarda iflasın istenmesi",
+        "D) Borçluya ödeme emri tebliğ edilmesi",
+        "E) Kefilin takibi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Hükümet tarafından fiyatı belirlenmeyen zirai mahsullerde ortalama satış fiyatı hangi esas alınarak tespit edilir?",
+      "options": [
+        "A) Takdirin yapıldığı yılın perakende satış fiyatı",
+        "B) Ürün sahibinin beyan ettiği fiyat",
+        "C) Takdir yılından önceki son takvim yılına ait mahalli toptan piyasa fiyatı",
+        "D) İthalat fiyatları",
+        "E) Zirai odaların tavsiye fiyatları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "GVK’ya göre mükellefler (hakları kiraya verenler hariç) dilerse giderler yerine hasılattan kaçını götürü indirebilir?",
+      "options": [
+        "A) %10",
+        "B) %15",
+        "C) %20",
+        "D) %25",
+        "E) %30"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "KVK’ya göre aşağıdakilerden hangisi için %30’luk kurumlar vergisi oranı uygulanır?",
+      "options": [
+        "A) Tüm sermaye şirketleri",
+        "B) Yalnızca ihracatçı kurumlar",
+        "C) Finansal kiralama şirketleri",
+        "D) Yalnızca KOBİ’ler",
+        "E) Sadece teknoloji geliştirme bölgesi firmaları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mükellefler, hesaplanan KDV’den aşağıdaki hangi KDV’leri indirebilir?",
+      "options": [
+        "A) Kendi özel harcamalarına ait KDV",
+        "B) Gelir vergisi stopajına ait KDV",
+        "C) Faaliyeti ile ilgili ithal edilen mal ve hizmetler dolayısıyla ödenen KDV",
+        "D) Her türlü beyan edilmeyen KDV",
+        "E) Zayi mallara ait KDV"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Karşılığında teminat gösterilmiş amme alacağı vadesinde ödenmezse ne yapılır?",
+      "options": [
+        "A) Doğrudan iflas istenir",
+        "B) 15 gün süre verilir, sonra teminat paraya çevrilir",
+        "C) Hemen teminat paraya çevrilir",
+        "D) Gecikme zammı silinir",
+        "E) Yalnız mal bildiriminde bulunması istenir"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi tarla, bağ ve sebze ziraatinde esas alınan ziraat birimidir?",
+      "options": [
+        "A) Hektar",
+        "B) Ağaç sayısı",
+        "C) Dönüm",
+        "D) Hayvan sayısı",
+        "E) Dekar başına randıman"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "GVK’ya göre aşağıdakilerden hangisinde değer artışı kazancı hesaplanmaz ve vergilendirilmez?",
+      "options": [
+        "A) 5 yıl içinde satılan gayrimenkul kazancı",
+        "B) Ferdi işletme sahibinin ölümü halinde, mirasçıların işletmeye kayıtlı değerlerle devam edip aynen devralması",
+        "C) Telif hakkının üçüncü kişi tarafından satılması",
+        "D) Ticari plakanın satışı",
+        "E) Hisse senedi alım-satımı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "KVK asgari kurumlar vergisi maddesine göre “İndirim ve istisnalar düşülmeden önceki kurum kazancı” ifadesi nasıl tanımlanmıştır?",
+      "options": [
+        "A) Ticari bilanço kârı – zararlar",
+        "B) Ticari bilanço kârı – tüm istisna ve indirimler",
+        "C) Ticari bilanço kârı + kanunen kabul edilmeyen giderler",
+        "D) Mali kâr – geçmiş yıl zararları",
+        "E) Vergiye tabi matrah"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bir vergilendirme döneminde indirilecek KDV, hesaplanan KDV’den fazla ise ne olur?",
+      "options": [
+        "A) Fazla kısım sonraki dönemlere devrolunur",
+        "B) Fazlası hemen nakden iade edilir",
+        "C) Fazlası silinir",
+        "D) Tamamı gelir yazılır",
+        "E) Gider olarak kaydedilir"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Malı olmadığı veya borca yetecek mal göstermemiş borçlu, sonradan edindiği malı ne kadar süre içinde bildirmek zorundadır?",
+      "options": [
+        "A) 7 gün",
+        "B) 10 gün",
+        "C) 15 gün",
+        "D) 1 ay",
+        "E) 3 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yurt dışı tebligatta muhatap kaç gün içinde başvurmazsa tebliğ yapılmış sayılır?",
+      "options": [
+        "A) 7",
+        "B) 15",
+        "C) 21",
+        "D) 30",
+        "E) 45"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "GVK’ya göre aşağıdakilerden hangisi için yıllık beyanname verilmez?",
+      "options": [
+        "A) Serbest meslek kazançlarının tamamı",
+        "B) Gerçek usulde vergilendirilmeyen zirai kazançlar",
+        "C) Ticari kazançların tamamı",
+        "D) Tevkifatsız tüm gelirler",
+        "E) Yurt dışı kazançların tamamı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hem indirim hakkı tanınan hem de indirim hakkı tanınmayan işlemleri birlikte yapan mükellef için KDV indiriminde hangi ilke uygulanır?",
+      "options": [
+        "A) Faturada yer alan tüm KDV indirilir",
+        "B) Hiç KDV indirilemez",
+        "C) Sadece istisna işlemlere isabet eden KDV indirilir",
+        "D) Faturada yer alan KDV’nin sadece indirim hakkı tanınan işlemlere isabet eden kısmı indirilir",
+        "E) Sadece indirim hakkı tanınmayan işlemlerin KDV’si indirilir"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Borçlu elindeki mal için üçüncü şahıs mülkiyet veya rehin hakkı iddia ederse, tahsil dairesi 7 gün içinde iddiayı reddetmezse ne olur?",
+      "options": [
+        "A) İstihkak davası açmak zorunda kalır",
+        "B) İstihkak iddiasını kabul etmiş sayılır",
+        "C) Haciz kalkar",
+        "D) İcra takipten düşer",
+        "E) Mal derhal satılır"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Muhatap tebellüğden imtina ederse tebliğ ne zaman yapılmış sayılır?",
+      "options": [
+        "A) Pusulanın kapıya yapıştırıldığı tarihte",
+        "B) Evrak iade edildiğinde",
+        "C) 7. gün",
+        "D) Muhtara bildirildiğinde",
+        "E) İlan edildiğinde"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "GVK’ya göre gelir toplanırken bazı kaynaklardaki zararlar nasıl dikkate alınır?",
+      "options": [
+        "A) Hiçbir şekilde mahsup edilemez",
+        "B) Sadece aynı gelir unsurunda mahsup edilebilir",
+        "C) Sadece yurt dışı kazançlarla mahsup edilir",
+        "D) Sınırsız yıl devredilebilir",
+        "E) Diğer kazanç ve iratlardan doğanlar hariç gelir unsurlarına mahsup edilir"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Malların iade edilmesi, işlemin gerçekleşmemesi vb. nedenlerle matrahta değişiklik olduğunda KDV nasıl düzeltilir?",
+      "options": [
+        "A) Hiç düzeltilmez",
+        "B) Düzeltme ancak yıl sonunda yapılır",
+        "C) Alıcı ve satıcı ilgili vergiyi değişikliğin vuku bulduğu dönemde düzeltir",
+        "D) Sadece alıcı düzeltme yapar",
+        "E) Sadece satıcı düzeltme yapar"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Üçüncü şahıs elindeki mallarda istihkak iddiası varsa, alacaklı amme idaresi 15 gün içinde dava açmazsa sonuç nedir?",
+      "options": [
+        "A) İstihkak iddiası kabul edilmiş sayılır",
+        "B) Haciz katılaşır",
+        "C) Haciz düşer ama alacak devam eder",
+        "D) İcra mahkemesi resen dava açar",
+        "E) Mal borçluya iade edilir"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Damga vergisine tabi evrakın hükmünden tarh zamanaşımı dolduktan sonra faydalanılırsa ne olur?",
+      "options": [
+        "A) Hiçbir şey olmaz",
+        "B) Sadece ceza doğar",
+        "C) Evraka ait vergi alacağı yeniden doğar",
+        "D) Sadece faiz yürür",
+        "E) İlan yoluyla tebliğ yapılır"
+      ],
+      "answer": 2
+    }
+  ]
 }
