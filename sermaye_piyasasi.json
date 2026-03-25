@@ -3269,5 +3269,3039 @@
       ],
       "answer": 3
     }
+  ],
+  "Çalışma Soruları (Paylar)": [
+    {
+      "q": "Aşağıdakilerden hangisi menkul kıymetlerin özelliklerinden biri değildir?",
+      "options": [
+        "A) Nama ve hamiline yazılı olabilirler.",
+        "B) Çok sayıda ihraç edilip, halka arz edilen kitle senetleridir.",
+        "C) Standart ve yuvarlak meblağlı, misli nitelikte belli şekil şartlarına haizdirler.",
+        "D) Devamlılık arz etmezler.",
+        "E) İtibari ve piyasa değeri vardır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi menkul kıymetlerle ilgili olarak doğru bir ifade değildir?",
+      "options": [
+        "A) Ortaklık ve alacaklık hakkı sağlar",
+        "B) Yatırım aracı olarak kullanılır",
+        "C) Dönemsel getiri getirir",
+        "D) Şartlan Türk Ticaret Kanununca ile belirlenir",
+        "E) Belli bir meblağı temsil eder"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu’nun kuruluş amaçları arasında yer almaz?",
+      "options": [
+        "A) Menkul kıymetler ve sermaye piyasaları ile ilgili kuruluşlar hakkında kamunun aydınlatılması sağlamak",
+        "B) Tasarruf Mevduatı Sigorta Fonu’nu yönetmek",
+        "C) Tasarruf sahiplerinin hak ve yararlarını korumak",
+        "D) Ortaklıklarda mülkiyetin yaygınlaştırılması sağlamak",
+        "E) Tasarrufların menkul kıymetlere yatırımını özendirmek"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisinde kasa hisse senedinin tanımı doğru olarak verilmiştir?",
+      "options": [
+        "A) Halka sunulmayan, şirketin elinde bulunan hisse senedidir",
+        "B) Halka arz edilen hisse senedidir",
+        "C) Borsada işlem gören hisse senedidir",
+        "D) Yatırımcıların ellerindeki hisse senedidir",
+        "E) Oy kullanma hakkı vermeyen hisse senedidir"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi anonim şirketlerde ve sermayesi paylara bölünmüş komandit şirketlerde, sermayenin belli bir oranını ifade eden ve o oranda ortaklık hakkı sağlayan menkul kıymetlerdir?",
+      "options": [
+        "A) Tahvil",
+        "B) Kar ve zarar ortaklığı belgeleri",
+        "C) Varlığa dayalı menkul kıymet",
+        "D) Yatırım fonu katılma belgeleri",
+        "E) Hisse senedi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi hisse senedinin sahibine sağladığı haklar arasında yer almaz?",
+      "options": [
+        "A) Ortaklık hakkı",
+        "B) Yönetime katılma hakkı",
+        "C) Şirketin iflasını isteme hakkı",
+        "D) Rüçhan hakkı",
+        "E) Tasfiyeden pay alma hakkı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Mevcut ortakların, yeni ihraç edilen hisse senetlerinden öncelikli satın alma hakkına ne ad verilir?",
+      "options": [
+        "A) Opsiyon",
+        "B) Yatırım",
+        "C) Rüçhan",
+        "D) Prim",
+        "E) Temettü"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi tedavül bakımından hisse senedi sınıflamasında yer alır?",
+      "options": [
+        "A) Nama yazılı hisse senedi",
+        "B) Bedelli hisse senedi",
+        "C) Bedelsiz hisse senedi",
+        "D) Adi hisse senedi",
+        "E) İmtiyazlı hisse senedi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdaki hisse senedi türlerinden hangisinde mülkiyet devri, hisse senedinin satın alana teslimi ile olur?",
+      "options": [
+        "A) Nama yazılı hisse senedi",
+        "B) Hamiline yazılı hisse senedi",
+        "C) Bedelsiz hisse senedi",
+        "D) İmtiyazlı hisse senedi",
+        "E) Adi hisse senedi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hisse senetlerinin sermaye artışına göre sınıflandırılması aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "options": [
+        "A) Nama yazılı - Hamiline yazılı hisse senetleri",
+        "B) Bedelli - Bedelsiz hisse senetleri",
+        "C) Primli - Primsiz hisse senetleri",
+        "D) Adi - İmtiyazlı hisse senetleri",
+        "E) Rüçhanlı - Rüçhansız hisse senetleri"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi bedelsiz hisse senedi yoluyla sermaye artırım yöntemi değildir?",
+      "options": [
+        "A) Dağıtılmayan karlar",
+        "B) Yeniden değerleme değer artış fonu",
+        "C) Sabit varlıkların satışından elde edilen karlar",
+        "D) İştiraklerdeki değer artışları",
+        "E) Halka arz"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi nominal değerinden yüksek bir bedelle ihraç edilen hisse senetleridir?",
+      "options": [
+        "A) Adi hisse senedi",
+        "B) İmtiyazlı hisse senedi",
+        "C) Nama yazılı hisse senedi",
+        "D) Primli hisse senedi",
+        "E) Primsiz hisse senedi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdaki hisse senetlerinden hangisi sahibine, genel kurulda eşit oy hakkı ile kar dağıtımı ve tasfiyede eşit pay alma hakkı tanır?",
+      "options": [
+        "A) İmtiyazlı hisse senedi",
+        "B) Adi hisse senedi",
+        "C) Primli hisse senedi",
+        "D) Primsiz hisse senedi",
+        "E) Bedelli hisse senedi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi oydan yoksun hisse senedi için doğru bir ifade değildir?",
+      "options": [
+        "A) Hamiline veya nama yazılı sekilde ihraç edilebilir.",
+        "B) Ortaklığın üst üste 5 dönem kârı elde etmiş olması gerekir.",
+        "C) Esas sözleşmede hüküm bulunmak kaydıyla, belirlenecek bir süre sonunda adi hisse senedine dönüşebilir.",
+        "D) İmtiyazlı kar payları nakden dağıtılır.",
+        "E) Sahibine oy hakkı hariç diğer ortaklık haklarını sağlar."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi sahiplerine kardan pay alma, tasfiye bakiyesine katılma, yeni pay alma ve belirli olanaklardan yararlanma hakkı veren ancak ortaklık hakkı sağlamayan sermaye piyasası aracıdır?",
+      "options": [
+        "A) Oydan yoksun hisse senedi",
+        "B) Katılma intifa senedi",
+        "C) İmtiyazlı hisse senedi",
+        "D) Adi hisse senedi",
+        "E) Bedelsiz hisse senedi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi kar ve zarar ortaklığı belgeleri ile ilgili olarak doğru bir ifade değildir?",
+      "options": [
+        "A) Kar ve zarara katılma hakkı veren menkul kıymetlerdir.",
+        "B) Vadesi en kısa 6 ay, en uzun 7 yıl olabilir.",
+        "C) Vade sonlarında kâr zarar ortaklığı belgesi bedelleri defaten ödenir.",
+        "D) Vade ortaklık faaliyetlerinin özelliğine göre muhtelif dönemlerden aylık ve katları olarak düzenlenir.",
+        "E) Hisse senediyle değiştirilebilir nitelikte kar zarar ortaklığı belgesi ihraç edilebilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatına göre ihraç edilecek Katılma İtfa Senetleri (KİS)’lerin toplamı ne kadardır?",
+      "options": [
+        "A) Ödenmiş yada çıkarılmış sermayenin % 20 sini geçemez.",
+        "B) Ödenmiş yada çıkarılmış sermayenin % 40’ını geçemez.",
+        "C) Ödenmiş yada çıkarılmış sermayenin % 50 sini geçemez.",
+        "D) Özkaynakların % 40’ını geçemez.",
+        "E) Özkaynakların % 50 sini geçemez."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Genel Kurulun alacağı kararla bazı kimselerle çeşitli hizmetler ve alacak karşılığı olarak kuruluştan sonra verilen sermaye payını temsil etmeyen paylara ne denir?",
+      "options": [
+        "A) Kurucu payları",
+        "B) İntifa paylar",
+        "C) Primli paylar",
+        "D) Primsiz paylar",
+        "E) Oydan yoksun paylar"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermayede temsil edilmesi zorunlu olmayan, sabit bir getiri taahhüdü barındırmayan, pay sahipliği haklarından birini ya da bir kısmını veren ve bu nitelikte olduğu sermaye piyasası kurulunca belirlenen menkul kıymetlere ne denir?",
+      "options": [
+        "A) Pay benzeri menkul kıymetler",
+        "B) Varlığa dayalı menkul kıymet",
+        "C) İpoteğe dayalı menkul kıymet",
+        "D) Varant",
+        "E) Tahvil"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi bir sermaye piyasası aracıdır?",
+      "options": [
+        "A) Çek",
+        "B) Poliçe",
+        "C) Bono",
+        "D) Mevduat sertifikası",
+        "E) Varant"
+      ],
+      "answer": 4
+    }
+  ],
+  "Çalışma Soruları (Borçlanma Araçları)": [
+    {
+      "q": "Aşağıdakilerden hangisi anonim şirketlerin veya iktisadi kamu kuruluşlarının çıkardığı uzun vadeli borçlanma aracıdır?",
+      "options": [
+        "A) Finansman Bonosu",
+        "B) Banka bonoları",
+        "C) Hisse senedi",
+        "D) Tahvil",
+        "E) Varant"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İhraççı tarafından çıkarılan ve payları borsalarda işlem gören diğer ortaklıklara ait paylarla değiştirme hakkı veren borçlanma aracına ne denir?",
+      "options": [
+        "A) Bono",
+        "B) Değiştirilebilir tahvil (DET)",
+        "C) Paya dönüştürülebilir tahvil (PDT)",
+        "D) Poliçe",
+        "E) Pay"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İhraççı ortaklığın sermaye artırımı suretiyle çıkaracağı paylara veya izahnamede veya ihraç belgesinde belirtilen esaslar çerçevesinde temin edilen ihraççı paylarına dönüştürme hakkı veren borçlanma aracı hangisidir?",
+      "options": [
+        "A) Bono",
+        "B) Değiştirilebilir tahvil (DET)",
+        "C) Paya dönüştürülebilir tahvil (PDT)",
+        "D) Poliçe",
+        "E) Pay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "İhraççıların borçlu sıfatıyla düzenleyip sattığı ve nominal değerinin vade tarihinde yatırımcıya geri ödenmesi taahhüdünü içeren, vadesi 365 gün veya daha uzun olan borçlanma aracı hangisidir?",
+      "options": [
+        "A) Pay",
+        "B) Varant",
+        "C) Bono",
+        "D) Kira sertifikası",
+        "E) Tahvil"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi işletmelerin, ihraç ettikleri tahvillerin geri ödenmesinde kullanmak üzere oluşturdukları fondur?",
+      "options": [
+        "A) İhraç fonu",
+        "B) İtfa fonu",
+        "C) Temettü fonu",
+        "D) Prim fonu",
+        "E) Yardım fonu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi tahvil türleri arasında yer almaz?",
+      "options": [
+        "A) Kara iştirakli tahviller",
+        "B) Primli tahviller",
+        "C) Sabit faizli tahviller",
+        "D) Değişken faizli tahviller",
+        "E) Rücu edilemez tahviller"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Tahvillere kardan pay verilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) İhraççılar tahvile, faize ek olarak kardan pay verebilirler.",
+        "B) İhraççılar esas sözleşmelerinde veya özel mevzuatlarında hüküm bulunmasa da yönetim kurulu kararı ile tahvillere kardan pay verebilirler.",
+        "C) Bir faiz öngörülmeksizin de tahvile kardan pay verilmesi mümkündür.",
+        "D) Halka açık ortaklıklar açısından tahvillere ödenecek kar payı, ihraççıların esas sözleşmesinde veya kar dağıtım politikasında pay sahipleri için belirlenen kar payı miktarını azaltamaz.",
+        "E) Aynı koşullara sahip tahvillere ödenecek kar payı, dağıtım tarihi itibarıyla mevcut tahvillerin tümüne, bunların ihraç ve vade tarihleri dikkate alınmadan dağıtılır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdaki tahvil türlerinden hangisine vade boyunca hiçbir faiz ödemesi yapılmaz?",
+      "options": [
+        "A) Riskli tahviller",
+        "B) Endeksli tahviller",
+        "C) Primli tahviller",
+        "D) Sıfır kuponlu tahviller",
+        "E) Değişken tahviller"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Hisse senedine çevrilebilir tahvil sahibinin, hisselerini değiştirmeleri halinde, hisse senetlerine uygulanacak fiyata ne ad verilir?",
+      "options": [
+        "A) İtfa fiyatı",
+        "B) İhraç fiyatı",
+        "C) Opsiyon fiyatı",
+        "D) Dönüştürme fiyatı",
+        "E) Uygulama fiyatı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Borçlanma araçları tebliğine göre aşağıdakilerden hangisi doğru değildir?",
+      "options": [
+        "A) Borçlanma araçları halka arz edilerek veya halka arz edilmeksizin satılmak üzere ihraç edilebilir.",
+        "B) Halka arz edilmeksizin yapılacak satışlar, tahsisli satış ve nitelikli yatırımcıya satış olmak üzere iki şekilde yapılabilir.",
+        "C) İhraç edilecek borçlanma araçları, hesaplanacak olan ihraç limiti dahilinde kalmak kaydıyla Kurulca uygun görülecek ihraç tavanı içinde farklı koşullar üzerinden tertipler halinde satılabilir.",
+        "D) Yurt içinde ve yurt dışında yapılacak ihraçlar için farklı ihraç tavanları uygulanamaz.",
+        "E) Borçlanma aracı ihracında kullanılacak izahnamenin birden fazla belgeden oluşacak şekilde hazırlanması zorunludur."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Borçlanma araçları tebliğine göre aşağıdakilerden hangisi doğru değildir?",
+      "options": [
+        "A) Yurt içinde yapılacak ihraçlarda ihraç tavanı Türk Lirası üzerinden tespit olunur.",
+        "B) Yurt dışında yapılacak ihraçlarda ihraç tavanı Türk Lirası üzerinden tespit olunur.",
+        "C) Bir yıllık süre içinde yapılacak satışların ihraç tavanının verildiği para biriminden farklı bir para birimi üzerinden belirlenmesi halinde, tertip ihraç belgesi satışın gerçekleştirileceği para birimi cinsinden düzenlenir.",
+        "D) İhraççı tarafından halka arz edilerek yapılan satış kapsamında satışından vazgeçilen veya tamamı ya da bir kısmı satılamayan borçlanma araçları Kurulca onay verilen ilgili ihraç tavanı dahilinde satışa sunulabilir.",
+        "E) İzahnamede ihraç edilecek borçlanma araçlarının ek satış dahil toplam tutarının belirtilmesi zorunludur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Borçlanma araçları tebliğine göre izahnamede belirtilmesi ve satışa sunulan toplam tutarın yüzde kaçını aşmaması kaydıyla ihraç tavanı dahilinde ek satış yapılabilir?",
+      "options": [
+        "A) % 50",
+        "B) % 60",
+        "C) % 70",
+        "D) % 80",
+        "E) % 100"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Borçlanma araçları tebliğine göre aşağıdakilerden hangisi doğru değildir?",
+      "options": [
+        "A) Halka arz edilecek borçlanma araçlarının borsada işlem görmesi için ihraççıların Kurula ve borsaya başvurmaları zorunludur.",
+        "B) Kurulca onaylanmış bir ihraç tavanı geçerli iken ihraççı yeni bir ihraç tavan onayı talebiyle Kurula başvurulabilir.",
+        "C) Borçlanma araçlarına ilişkin ihraç limitinin hesaplanmasında, Kurulun sermaye piyasası araçları bir borsada işlem gören ortaklıklar için belirlediği finansal tablo ve raporlamaya ilişkin düzenlemelerine göre hazırlanmış ve bağımsız denetime tabi tutulmuş son hesap dönemine ilişkin yıllık finansal tablolar esas alınır.",
+        "D) İlgili ara dönem finansal tabloların ihraç limiti hesabında esas alınabilmesi için özel bağımsız denetimden geçirilmiş olması gerekir.",
+        "E) Borçlanma aracı ihracı için genel kurul tarafından karar alınması zorunlu değildir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Borçlanma araçları tebliğine göre aşağıdakilerden hangisi doğru değildir?",
+      "options": [
+        "A) İhraç edilecek borçlanma araçlarına ilişkin olarak kredi derecelendirmesi yapılması zorunludur.",
+        "B) Yurt içinde ihraç edilecek borçlanma araçlarının MKK nezdinde elektronik ortamda kayden ihracı ve bunlara ilişkin hakların hak sahipleri bazında izlenmesi zorunludur.",
+        "C) Yurt dışında ihraç edilecek borçlanma araçlarının MKK nezdinde elektronik ortamda kayden ihracı ve bunlara ilişkin hakların izlenmesi zorunludur.",
+        "D) Kurul, ihraççının talebi üzerine yurt dışında ihraç edilecek borçlanma araçlarının MKK nezdinde kayden ihraç edilmesi zorunluluğuna muafiyet verebilir.",
+        "E) Borsada işlem gören borçlanma araçlarının borsada ve borsa dışında alım satımı borsa düzenlemeleri çerçevesinde mümkündür."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Paya Dönüştürülebilir Tahviller (PDT) dönüştürme sırasında PDT’nin nominal değeri karşılığında verilecek pay sayısına ne denir?",
+      "options": [
+        "A) Kur farkı",
+        "B) Dönüştürme fiyatı",
+        "C) Dönüştürme oranı",
+        "D) İhraç farkı",
+        "E) Marjin"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Borçlanma araçlarının ihraç tebliğine göre derecelendirme kuruluşlarından talebe bağlı olarak, notlandırma ölçeğine göre yatırım yapılabilir seviyenin en yüksek ilk üç kademesine denk gelen uzun vadeli derecelendirme notu alan bankalar ve finansal kuruluşlar, Finansal Kiralama, Faktoring ve Finansman Şirketlerinin hesaplanacak ihraç limitleri yüzde kaç oranında artırılır?",
+      "options": [
+        "A) 10",
+        "B) 25",
+        "C) 50",
+        "D) 75",
+        "E) 100"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye Tahvillerin erken itfa edilebilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Tahvillerin ihraççının talebine bağlı olarak erken itfa edilebilir nitelikte ihraç edilmesi mümkündür.",
+        "B) Tahviller yatırımcının talebine bağlı olarak da erken itfa edilebilir nitelikte ihraç edilebilir.",
+        "C) Tahviller kısmen erken itfa edilebilir nitelikte ihraç edilemez.",
+        "D) Yurt içinde gerçekleştirilen ihraçlarda erken itfaya ilişkin esaslara izahname veya ihraç belgesinde yer verilir.",
+        "E) Yurt dışında gerçekleştirilen ihraçlarda erken itfaya ilişkin esaslar, ihracın gerçekleştirildiği ülke mevzuatı saklı kalmak kaydıyla ihraççı ve yatırımcılar arasında serbestçe belirlenebilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca tahvillere dair hangisi yanlıştır?",
+      "options": [
+        "A) Tahvillere ödenecek faiz oranı ile ödeme koşullarına ilişkin esaslar, ihraca ilişkin belgelerde açıkça belirtilmek koşuluyla ihraççılar tarafından belirlenir.",
+        "B) İhraççılar değişken faizli tahvil ihraç edemezler.",
+        "C) Tahviller iskontolu, primli ve/veya kupon ödemeli olarak satılabilir.",
+        "D) Tahvillerin anaparası, vade tarihinde bir defada veya vade içinde taksitler halinde ödenebilir.",
+        "E) Bankalar tarafından ihraç edilecek tahviller, bu tahvillerin vadesi boyunca satışa sunulabilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca tahvillere dair hangisi yanlıştır?",
+      "options": [
+        "A) Bankalar tarafından ihraç edilmiş tahviller ikinci el piyasada, bu tahvilleri ihraç etmiş banka tarafından erken itfa sonucunu doğurmayacak şekilde yeniden satılmak şartıyla geri alınabilir.",
+        "B) Tahviller erken itfa edilebilir.",
+        "C) Halka arz edilecek tahvillerde itfa planının ihraççının internet sitesinde yer alması zorunludur.",
+        "D) Tahvillerin ihraççının talebine bağlı olarak erken itfaya konu olması durumunda, itfa tarihinden en az otuz gün önce ihraççı tarafından KAP’ta duyuru yapılması ve bu duyurunun ihraççının internet sitesinde yer alması zorunludur.",
+        "E) Erken itfaya konu tahvillerin bedellerinin yatırımcılara, erken itfanın başladığı tarihten itibaren en geç üçüncü iş gününde ödenmesi zorunludur."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Paya Dönüştürülebilir Tahviller (PTD)’ye İlişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) PDT’nin vadesi 365 günden az olamaz.",
+        "B) PDT’lerin paylara dönüştürülmesi vade başlangıç tarihinden itibaren en erken 365 gün sonra yapılabilir.",
+        "C) PDT’lerin paya dönüştürülmesi PDT’nin nominal değeri üzerinden gerçekleştirilir.",
+        "D) İzahnamede veya ihraç belgesinde belirtilmesi kaydıyla PDT’nin dönüştürme tarihinde ödenecek olan faiz tutarı da nominal değere eklenerek dönüştürme işlemine tabi tutulabilir.",
+        "E) Dönüştürme giderlerinin tamamı yatırımcıya aittir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Değiştirilebilir Tahviller (DET)’e ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) DET’lerin paylarla değiştirilmesi vade başlangıç tarihinden itibaren en erken 180 gün sonra yapılabilir.",
+        "B) DET’lerin paylarla değiştirilmesi nominal değer üzerinden gerçekleştirilir.",
+        "C) Değiştirme gününe kadar işlemiş faizler DET sahiplerine nakden ödenir.",
+        "D) Değiştirme giderlerinin tamamı ihraççıya aittir.",
+        "E) İhraççı tarafından yükümlülüklerin tam olarak yerine getirilmesine rağmen değiştirme hakkını kullanmayan DET sahiplerinin değiştirme hakları ortadan kalkar ve bu durumdaki DET sahipleri anapara ve işlemiş faizleri alırlar."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Yatırımcı tarafından tahvillerin erken itfası ihraççıya kaç gün içinde bildirilmelidir?",
+      "options": [
+        "A) En erken 60 en geç 30 gün",
+        "B) En erken 40 en geç 20 gün",
+        "C) En erken 30 en geç 15 gün",
+        "D) En erken 20 en geç 10 gün",
+        "E) En erken 90 en geç 15 gün"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "İhraçcı tarafından tahvillerin erken itfası kaç gün öncesinden bildirilmelidir?",
+      "options": [
+        "A) 5 gün önce",
+        "B) 10 gün önce",
+        "C) 15 gün önce",
+        "D) 30 gün önce",
+        "E) 60 gün önce"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Halka açık ortaklıkların ihraç limiti ne kadardır?",
+      "options": [
+        "A) Özkaynak tutarının iki katını geçemez.",
+        "B) Özkaynak tutarının üç katını geçemez.",
+        "C) Özkaynak tutarının dört katını geçemez.",
+        "D) Özkaynak tutarının beş katını geçemez.",
+        "E) Ödenmiş sermayenin üç katını geçemez."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Halka açık olmayan ortaklıkların ihraç limiti ne kadardır?",
+      "options": [
+        "A) Özkaynak tutarının iki katını geçemez.",
+        "B) Özkaynak tutarının üç katını geçemez.",
+        "C) Özkaynak tutarının dört katını geçemez.",
+        "D) Özkaynak tutarının beş katını geçemez.",
+        "E) Ödenmiş sermayenin üç katını geçemez."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I-Faiz ve buna ek olarak, tahvile kardan pay verilmesi\nII-Kar payının faizden daha az olması halinde, faiz ödenmesi; faiz getirisine eşit veya daha fazla kar payı tahakkuk etmişse kar payının ödenmesi\nIII- Bir faiz öngörülmeksizin tahvile kardan pay verilmesi.\n\nTahvillere kardan pay verilmesi durumunda yukarıdakilerden hangileri yapılabilir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Paya Dönüştürülebilir Tahviller (PDT)’ye İlişkin Esaslara dair hangisi yanlıştır?",
+      "options": [
+        "A) Dönüştürme fiyatı, PDT sahiplerine sahip oldukları tahviller karşılığında verilecek paylar için esas alınacak fiyattır.",
+        "B) Dönüştürme oranı, dönüştürme sırasında PDT’nin nominal değeri karşılığında verilecek pay sayısını gösterir.",
+        "C) PDT’nin vadesi 365 günden az olamaz.",
+        "D) PDT’lerin dönüştürülmesi sermaye artırımı suretiyle gerçekleştirilir.",
+        "E) Dönüştürme işleminde borsada işlem gören diğer ortaklıkların payları verilir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Değiştirilebilir Tahviller (DET)’e ilişkin aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Değiştirilebilir tahvillerin vadesi 365 günden çok olamaz.",
+        "B) İhraççı tarafından yükümlülüklerin tam olarak yerine getirilmesine rağmen değiştirme hakkını kullanmayan değiştirilebilir tahvillerin sahiplerinin değiştirme hakları ortadan kalkar.",
+        "C) İhraççı önceden belirlenmeksizin, değiştirilebilir tahvillerin dönüştürme tarihinde ödenecek olan faiz tutarını da nominal değere ekleyerek dönüştürme işlemine tabi tutabilir.",
+        "D) Değiştirilebilir tahvillerin paylara dönüştürülmesi, değiştirilebilir tahvillerin tasarruf bedeli veya borsa rayicinden düşük olanı üzerinden gerçekleştirilir.",
+        "E) Dönüştürme giderlerinin tamamı tahvil sahiplerine aittir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bonolar ve Kıymetli Maden Bonolarına dair hangisi yanlıştır?",
+      "options": [
+        "A) Bonolar, ihraççı tarafından belirlenen vadeye uygun iskonto oranları ile iskonto edilerek bulunan fiyat üzerinden satılır.",
+        "B) Bonoların kupon ödemeli olarak ihracı mümkündür.",
+        "C) Bankalar tarafından ihraç edilecek bonolar, bu bonoların vadesi boyunca satışa sunulabilir.",
+        "D) Bankalar tarafından ihraç edilmiş bonolar ikinci el piyasada, bu bonoları ihraç etmiş banka tarafından erken itfa sonucu doğurmayacak şekilde yeniden satılmak şartıyla geri alınamaz.",
+        "E) Kıymetli maden bonolarının satış bedeli, Türk Lirası, döviz veya kıymetli maden olarak tahsil edilir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi borçlanma aracı değildir?",
+      "options": [
+        "A) Tahvil",
+        "B) Oydan yoksun paylar",
+        "C) Bono",
+        "D) Paya dönüştürülebilir tahvil",
+        "E) Değiştirilebilir tahvil"
+      ],
+      "answer": 1
+    }
+  ],
+  "Çalışma Soruları (Diğer Sermaye Piyasası Araçları)": [
+    {
+      "q": "İhraççıların inşa edilecek veya edilmekte olan gayrimenkul projelerinin finansmanında kullanılmak üzere ihraç ettikleri, gayrimenkul projesinin belirli bağımsız bölümlerini veya bağımsız bölümlerin belirli bir alan birimini temsil eden nominal değeri eşit menkul kıymetlere ne denir?",
+      "options": [
+        "A) Varlığa dayalı menkul kıymet",
+        "B) İpoteğe dayalı menkul kıymet",
+        "C) Gayrimenkul sertifikası",
+        "D) Varant",
+        "E) Kira sertifikası"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gayrimenkul sertifikalarına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) İnşaat sektörünün finansmanı için geliştirişmiş bir araçtır.",
+        "B) Gayrimenkul sertifikaları halka arz edilerek veya halka arz edilmeksizin nitelikli yatırımcılara satılmak suretiyle ihraç edilebilir.",
+        "C) Gayrimenkul sertifikalarının borsada işlem göremez.",
+        "D) İhraççılara arsa sahibi olma şartı getirilmiştir.",
+        "E) Konut veya ticari alan teslimini tercih etmeyen yatırımcılara asgari olarak gayrimenkul sertifikalarının ihraç değerinin ödenmesi yükümlülüğü getirilmiştir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gayrimenkul sertifikalarına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Gayrimenkul sertifikaları, projenin belirli bağımsız bölümlerini veya bağımsız bölümlerin belirli bir alan birimini temsilen ihraç edilebilir.",
+        "B) Gayrimenkul projesinin bağımsız bölümlerine ilişkin belirli bir alan birimini temsilen gerçekleştirilecek ihraçlarda, ihraççı tarafından asli edimin yerine getirilmesi sırasında aynı alan birimine sahip bağımsız bölümler arasında blok, kat, cephe ve malzeme farklılıkları gibi nedenlerle şerefiye talep edilebilir.",
+        "C) Gayrimenkul projesinin belirli bağımsız bölümlerini temsilen gerçekleştirilen ihraçlarda, her bir bağımsız bölüme karşılık gelen gayrimenkul sertifikası adedinin ihraç öncesinde belirlenmesi zorunludur.",
+        "D) Gayrimenkul sertifikaları halka arzlarında asli ve tali edimlerin yerine getirilmesi için banka garantisi zorunluluğu gerekmez.",
+        "E) T.C. Başbakanlık Toplu Konut İdaresi Başkanlığı (TOKİ), İller Bankası Anonim Şirketi ve bunların bağlı ortaklıklarınca ihraç edilecek veya bunlara ait arsalar üzerinde gerçekleştirilecek gayrimenkul projelerinin finansmanı için yükleniciler tarafından yapılacak ihraçlarda banka garantisi zorunluluğu gerekmez."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "İhraççı tarafından gayrimenkul sertifikası sahipleri adına mülkiyetin tesis edilmesi ve bağımsız bölümün teslim edilmesine ne denir?",
+      "options": [
+        "A) Asli edim",
+        "B) Tali edim",
+        "C) Garanti",
+        "D) Doğrudan aktarım",
+        "E) Dolaylı aktarım"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "İfa süresi içerisinde izahname veya ihraç belgesinde belirlenen esaslar çerçevesinde gayrimenkul sertifikalarına karşılık gelen bağımsız bölümlerin satılması ve satış tutarının gayrimenkul sertifikası sahiplerine payları ile orantılı olarak dağıtılmasına ne denir?",
+      "options": [
+        "A) Asli edim",
+        "B) Tali edim",
+        "C) Garanti",
+        "D) Doğrudan aktarım",
+        "E) Dolaylı aktarım"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Gayrimenkul sertifikası ihraç tutarı, gayrimenkul projesindeki tüm bağımsız bölümlerin belirlenmiş satış değerlerinin yüzde kaçını aşamaz?",
+      "options": [
+        "A) Yüzde 40",
+        "B) Yüzde 50",
+        "C) Yüzde 65",
+        "D) Yüzde 85",
+        "E) Yüzde 100"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Gayrimenkul projesinin satış değerinin en az yarısı büyüklüğünde satış değerine sahip bir projeyi, sözleşmesi ve teknik şartnamelerine uygun olarak Kurula başvuru tarihinden önceki 5 yıl içerisinde tamamlamış veya ihraççının gayrimenkul yatırım ortaklığı olması durumunda aynı şartlardaki bir projeyi tamamlatmış olması,\nII-Gayrimenkul projesinin gerçekleştirileceği arsanın mülkiyetine münferiden sahip olması\nIII-Arsa tapusunun kat irtifakı tapusuna çevrilmesi veya arsa üzerinde ihraççı lehine kat irtifakı tesis edilmiş olması\n\nGayrimenkul sertifikası ihraç etmek isteyen ihraççıların yukarıdaki şartlardan hangilerini taşımları gerekir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Gayrimenkul sertifikalarında asli edime ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Asli edim kullanım süresi, ilk günü gayrimenkul sertifikasının borsada işlem görme tarihinden önce olmamak üzere asgari olarak proje bitiş tarihinden önceki 10 iş günü olarak ihraççı tarafından belirlenir.",
+        "B) Asli edimin yerine getirilebilmesi için ihraççı hesaplarına aktarılan gayrimenkul sertifikaları üzerinde herhangi bir haciz, rehin hakkı veya benzeri kısıtlayıcı hakların bulunmaması gerekir.",
+        "C) Birden fazla yatırımcı paylı mülkiyet esasları çerçevesinde asli edimin yerine getirilmesini talep edemez.",
+        "D) Bağımsız bölümün tapuda devir işlemi yapılır veya ihraççı ile yatırımcılar arasında asli edimin yerine getirilmesi amacıyla gayrimenkul satış vaadi sözleşmesi imzalanır ve bu sözleşmeden doğan hak tapu kütüğüne şerh edilir.",
+        "E) Asli edim ifa süresi, asli edim kullanım süresinin bitimini izleyen 10 iş gününü aşmayacak şekilde belirlenir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Gayrimenkul sertifikalarında tali edim ifa süresinin, izahname veya ihraç belgesinde belirtilen proje bitiş tarihini izleyen …… günü aşmayacak şekilde belirlenmesi zorunludur.\n\nYukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+      "options": [
+        "A) 10",
+        "B) 25",
+        "C) 60",
+        "D) 100",
+        "E) 120"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "İhraççılar tarafından, satışı yapılacak gayrimenkul sertifikalarının ne kadarı Kurul bütçesine gelir kaydedilmek üzere yatırılması zorunludur?",
+      "options": [
+        "A) İhraç değerinin binde biri",
+        "B) İhraç değerinin binde ikisi",
+        "C) İhraç değerinin binde üçü",
+        "D) İhraç değerinin binde dördü",
+        "E) İhraç değerinin binde beşi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Her türlü varlık ve hakkın finansmanını sağlamak amacıyla varlık kiralama şirketi tarafından ihraç edilen ve sahiplerinin bu varlık veya haktan elde edilen gelirlerden payları oranında hak sahibi olmalarını sağlayan menkul kıymete ne denir?",
+      "options": [
+        "A) Varlığa dayalı menkul kıymet",
+        "B) İpoteğe dayalı menkul kıymet",
+        "C) Gayrimenkul sertifikası",
+        "D) Varant",
+        "E) Kira sertifikası"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi kira sertifikası türlerinden biri değildir?",
+      "options": [
+        "A) Sahipliğe göre kira sertifikaları",
+        "B) Yönetim sözleşmesine göre kira sertifikaları",
+        "C) Alım-satıma göre kira sertifikaları",
+        "D) Ortaklığa göre kira sertifikaları",
+        "E) Bakiye sözleşmesine kira sertifikaları"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Kira sertifikalarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Varlık Kiralama Şirketleri (VKŞ)’ler tarafından ihraç edilebilir.",
+        "B) Varlık kiralama şirketi (VKŞ) sermaye piyasası kurumudur.",
+        "C) Kira sertifikaları itfa edilinceye kadar VKŞ’nin portföyünde yer alan varlık ve haklar VKŞ’nin yönetiminin veya denetiminin kamu kurumlarına devredilmesi hâlinde dahi teminat amacı dışında tasarruf edilemez, rehnedilemez, teminat gösterilemez, kamu alacaklarının tahsili amacı da dâhil olmak üzere haczedilemez, iflas masasına dâhil edilemez, ayrıca bunlar hakkında ihtiyati tedbir kararı verilemez.",
+        "D) Kira sertifikası sahipleri, ihraca dayanak varlık ve haklardan elde edilen gelirler üzerinde payları oranında hak sahibidirler.",
+        "E) Kira sertifikaları halka arz edilmeksizin satılamaz."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Kira sertifikalarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Borca dayalı kira sertifikaları, kaynak kuruluşa veya üçüncü kişilere kiralanmak veya VKŞ adına yönetilmek üzere VKŞ tarafından kaynak kuruluştan devralınacak varlık ve hakların finansmanını sağlamak için ihraç edilen kira sertifikalarıdır.",
+        "B) Yönetim sözleşmesine dayalı kira sertifikaları, kaynak kuruluşa ait varlık veya hakların vade boyunca kiralanması da dahil olmak üzere VKŞ lehine yönetilmesi neticesinde elde edilen gelirlerin sözleşme hükümleri çerçevesinde VKŞ’ye aktarılması amacıyla ihraç edilen kira sertifikalarıdır.",
+        "C) Alım-satıma dayalı kira sertifikaları, bir varlık veya hakkın VKŞ tarafından satın alınarak şirketlere vadeli olarak satılması işleminde varlık veya hak alımının finansmanını sağlamak için ihraç edilen kira sertifikalarıdır.",
+        "D) Ortaklığa dayalı kira sertifikaları, VKŞ’nin ortak girişime ortak olmak amacıyla ihraç ettiği kira sertifikalarıdır.",
+        "E) Eser sözleşmesine dayalı kira sertifikaları, VKŞ’nin iş sahibi sıfatıyla taraf olduğu bir eser sözleşmesi kapsamında eserin meydana getirilmesini sağlamak amacıyla ihraç edilen kira sertifikalarıdır."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulmuş olan sermaye piyasası kurumu hangisidir?",
+      "options": [
+        "A) Derecelendirme kuruluşu",
+        "B) Faktöring şirketi",
+        "C) Bağımsız denetim kurumu",
+        "D) Varlık kiralama şirketi",
+        "E) Yatırım ortaklığı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi varlık kiralama şirketi (VKŞ) olamaz?",
+      "options": [
+        "A) Bankalar",
+        "B) Portföy aracılığı, genel saklama hizmeti veya aracılık yüklenimi faaliyetinden herhangi birini yürütecek olan aracı kurumlar",
+        "C) İpotek finansmanı kuruluşları",
+        "D) Payları borsada işlem görmeyen gayrimenkul yatırım ortaklıkları",
+        "E) Sermayelerinin % 51 veya daha fazlası doğrudan Hazine Müsteşarlığı’na ait olan ortaklıklar"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Varlık Kiralama Şirketlerine (VKŞ) dair hangisi yanlıştır?",
+      "options": [
+        "A) VKŞ yönetim kurulu en az beş kişiden oluşur.",
+        "B) En az bir yönetim kurulu üyesinin Kurulun kurumsal yönetime ilişkin düzenlemelerinde sayılan nitelikleri taşıyan bağımsız üye olması zorunludur.",
+        "C) VKŞ yönetim kurulu üyelerinin yüksek öğrenim görmüş olmaları, sermaye piyasası veya bankacılık alanında en az 5 yıllık tecrübeye ve VKŞ yönetim kurulu üyesi olmanın gerektirdiği itibara sahip olmaları gerekir.",
+        "D) VKŞ yönetim kurulu üyelerinin en az birinin Kurulun lisanslamaya ilişkin düzenlemeleri çerçevesinde Sermaye Piyasası Faaliyetleri İleri Düzey Lisansı belgesine sahip olması gerekir.",
+        "E) VKŞ yönetim kurulu üyelerinin kendileri veya sınırsız sorumlu ortak oldukları kuruluşlar hakkında iflas kararı verilmemiş ve konkordato ilan edilmemiş olması gereklidir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sahibine, dayanak varlığı ya da göstergeyi önceden belirlenen bir fiyattan belirli bir tarihte veya belirli bir tarihe kadar alma veya satma hakkı veren ve bu hakkın kaydi teslimat ya da nakdi uzlaşı ile kullanıldığı sermaye piyasası aracı hangisidir?",
+      "options": [
+        "A) Ortaklık varantı",
+        "B) Yatırım kuruluşu varantı",
+        "C) Kira sertifikası",
+        "D) Turbo yatırım kuruluşu sertifikası",
+        "E) Katılma intifa senedi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sahibine, vade tarihine kadar ya da vade tarihinde payları borsada işlem gören veya görecek olan kayıtlı sermaye sistemine tabi ihraççı paylarına veyahut payları borsada işlem gören herhangi bir ortaklığın paylarına ilişkin talep etme hakkı veren ve ihraççılarca ilgili sermaye piyasası aracının halka arzı sırasında ihraç edilen sermaye piyasası aracı hangisidir?",
+      "options": [
+        "A) Ortaklık varantı",
+        "B) Yatırım kuruluşu varantı",
+        "C) Kira sertifikası",
+        "D) Turbo yatırım kuruluşu sertifikası",
+        "E) Katılma intifa senedi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Yatırım kuruluşu varantı ve sertifikası ihracına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Yatırım kuruluşu varantları ve sertifikaları halka arz edilerek veya halka arz edilmeksizin satılmak üzere ihraç edilebilir.",
+        "B) Yatırım kuruluşu varantları ve sertifikaları yurt içinde tahsisli olarak satılabilir.",
+        "C) Yatırım kuruluşu varantları ve sertifikaları, derecelendirme kuruluşlarından talebe bağlı olarak, notlandırma ölçeğine göre yatırım yapılabilir seviyenin en yüksek ilk üç kademesine denk gelen uzun vadeli derecelendirme notu alan Türkiye’de veyahut yurt dışında yerleşik banka ya da aracı kurumlar tarafından ihraç edilebilir.",
+        "D) Uzun vadeli derecelendirme notu bulunmayan Türkiye’de yerleşik banka ya da aracı kurumlar, bu şartı sağlayan banka ya da aracı kurumlar tarafından ihraçtan doğan yükümlülüklerin garanti edilmesi koşuluyla yatırım kuruluşu varantı ya da sertifikası ihraç edebilir.",
+        "E) Yatırım kuruluşu varantlarının ya da sertifikalarının satışı sırasında, ihraççı veya garantör kuruluşun derecelendirme notunun mevzuatta belirtilen notun altına düşmesi durumunda, yatırım kuruluşu varantı ve sertifikası ihraçları ihraççı tarafından durdurulur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Borsada işlem gören devlet iç borçlanma senetleri\nII- Konvertibl döviz\nIII- Kıymetli maden\nIV-Emtia\nV-Geçerliliği uluslararası alanda genel kabul görmüş endeksler\n\nYukarıdakilerden hangileri yatırım kuruluşu varantına ya da sertifikasına dayanak teşkil edebilirler?",
+      "options": [
+        "A) I ve II",
+        "B) I, II ve III",
+        "C) II, III ve IV",
+        "D) II, IV ve V",
+        "E) Hepsi"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Ortaklık varantlarına ihracına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Ortaklık varantı ihracı için ihraççıların esas sözleşmelerinde buna yetki veren hüküm bulunması ve bu konuda genel kurulca karar alınmış olması zorunludur.",
+        "B) Ortaklık varantı ihraç yetkisi, yönetim kuruluna devredilemez.",
+        "C) Ortaklıkvarantlarının ihraççının kendi payları üzerine yazılı olarak ihraç edilebilmesi için, ihraççının kayıtlı sermaye sisteminde bulunması zorunludur.",
+        "D) Ortaklık varantları, payları borsada işlem gören ya da görecek olan ortaklıklar tarafından sermaye piyasası araçlarının halka arzı sırasında, ihraççının kendi payları veyahut payları borsada işlem gören başka bir ortaklığın payları üzerine yazılı olarak, söz konusu sermaye piyasası araçlarını satın alan yatırımcılara bedelli ya da bedelsiz olarak verilmek üzere ihraç edilebilirler.",
+        "E) Halka arz edilmeksizin satışa sunulan ortaklık varantlarının vadesi bir yıldan az olamaz."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ortaklık varantlarına ihracına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) İhraç edilecek varantların ve yatırım kuruluşu sertifikalarının vadesi iki aydan az, beş yıldan fazla olamaz.",
+        "B) Varantların ve yatırım kuruluşu sertifikalarının nominal değeri bir kuruştan aşağı olamaz.",
+        "C) Paylarını ilk defa halka arz edecek ihraççılar, sadece kendi payları üzerine yazılı ortaklık varantı ihraç edemezler.",
+        "D) İzahnamede belirtilmesi kaydıyla ortaklık varantları, ihraççının talebine bağlı olarak erken itfaya tabi tutulabilir.",
+        "E) Ortaklık varantlarının ilgili sermaye piyasası aracının yanında bedel karşılığı ihraç edilmeleri halinde; ilgili sermaye piyasası aracının yatırımcı tarafından satın alınması, söz konusu ortaklık varantının da satın alınmasını gerektirmez."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Kaydi teslimat ile uzlaşı\nII- Pay ile uzlaşı\nIII- Nakdi uzlaşı\n\nYukarıdakilerden hangisi/hangileri ortaklık varantlarına ilişkin kullanım hakkı yöntemidir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) Hepsi",
+        "E) Hiçbiri"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Varantlara dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kaydi teslimat ile uzlaşı yönteminin uygulanması durumunda kullanım hakkı, ortaklık varantı sahibinin önceden belirlenmiş kullanım fiyatı ve kullanım oranı esas alınarak üzerine ortaklık varantı yazılan payları satın alma hakkını ifade eder.",
+        "B) Pay ile uzlaşı yönteminin uygulanması durumunda kullanım hakkı, ortaklık varantı sahibinin önceden belirlenmiş kullanım fiyatı ve kullanım oranı esas alınarak üzerine ortaklık varantı yazılan payların kullanım fiyatı ileizahnamede esasları belirlenen borsa fiyatı arasındaki farkı ihraççıdan pay olarak talep etme hakkını ifade eder.",
+        "C) Nakdi uzlaşı yönteminin uygulanması durumunda kullanım hakkı, ortaklık varantı sahibinin önceden belirlenmiş kullanım fiyatı ve kullanım oranı esas alınarak üzerine ortaklık varantı yazılan payların kullanım fiyatı ileizahnamede esasları belirlenen borsa fiyatı arasındaki farkı ihraççıdan nakit olarak talep etme hakkını ifade eder.",
+        "D) İzahnamede belirtilmesi kaydıyla kullanım hakkı ortaklık varantının vadesi içinde ya da vade sonunda kullanılabilir.",
+        "E) İhraççının portföyünde bulunan ortaklık varantları kullanım hakkına konu olabilir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Varantlara dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Varantlarda kullanım süresi, kullanım hakkının ne kadarlık bir süre için geçerli olduğunu gösterir.",
+        "B) Kullanım fiyatı, ortaklık varantı sahibinin, üzerine ortaklık varantı yazılı paylara ilişkin satın alma hakkını kullanması durumunda bir pay için ödemesi gereken fiyattır.",
+        "C) Kullanım oranı, ortaklık varantı sahibinin, üzerine ortaklık varantı yazılı paylara ilişkin satın alma hakkını kullanması durumunda her bir ortaklık varantı karşılığında yatırımcıya verilecek pay sayısını gösterir.",
+        "D) Halka arz edilmeksizin satışa sunulan ortaklık varantlarına ilişkin halka arz aşamasında belirlenen kullanım fiyatı, ilgili sermaye piyasası aracının halka arz fiyatından aşağı olamaz.",
+        "E) Kullanım oranı, ortaklık varantının vadesi boyunca değiştirilebilir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Borsadaki sertifika türlerinden değildir? (BD Sınavı Ağustos 2013, BD Sınavı Mart-2014)",
+      "options": [
+        "A) Turbo Sertifika",
+        "B) İskontolu Sertifika",
+        "C) Endeks Sertifikası",
+        "D) Garanti Sertifikası",
+        "E) Prim Ödeyen (Bonus) Sertifika"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aracı kuruluş varantlarının vadesi en çok ne kadardır? (BD Sınavı Ağustos 2013)",
+      "options": [
+        "A) 1 yıl",
+        "B) 3 yıl",
+        "C) 5 yıl",
+        "D) 7 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dayanak varlığın ya da dayanak göstergenin fiyatına bağlı olan ve sahibine ilgili sirkülerde belirtilen vade tarihinde dayanağın nihai değeri ile kullanım fiyatı arasındaki farka denk tutarda bir geri ödeme talep etme hakkı sağlayan bir menkul kıymet hangisidir?",
+      "options": [
+        "A) Turbo Sertifika",
+        "B) İskontolu Sertifika",
+        "C) Endeks Sertifikası",
+        "D) Garanti Sertifikası",
+        "E) Prim Ödeyen (Bonus) Sertifika"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Yatırımcıya belirli bir dayanak varlığa ya da göstergeye cari piyasa değeri üzerinden belirli bir iskonto ile yatırım yapma imkanı sağlayan sermaye piyasası aracı hangisidir?",
+      "options": [
+        "A) Turbo Sertifika",
+        "B) İskontolu Sertifika",
+        "C) Endeks Sertifikası",
+        "D) Garanti Sertifikası",
+        "E) Prim Ödeyen (Bonus) Sertifika"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dayanak varlık yerine yatırımcıları sertifika almaya teşvik etmek amacıyla çıkartılan ve dayanağın fiyatı, önceden belirlenmiş bir fiyatın altına düşmedikçe vade tarihinde belirli bir fiyatı garanti eden sermaye piyasası aracı hangisidir?",
+      "options": [
+        "A) Turbo Sertifika",
+        "B) İskontolu Sertifika",
+        "C) Endeks Sertifikası",
+        "D) Garanti Sertifikası",
+        "E) Prim Ödeyen (Bonus) Sertifika"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bir dayanak varlığın fiyatı ya da göstergenin değeri ile bire bir ilişkili şekilde fiyatlanan ve dayanak göstergenin belirli bir dönüşüm oranı (1/100 gibi) ve/veya kur ile çarpılması sonucu bir geri ödeme tutarı talep etme hakkı sağlayan yapılandırılmış sermaye piyasası aracı hangisidir?",
+      "options": [
+        "A) Turbo Sertifika",
+        "B) İskontolu Sertifika",
+        "C) Endeks Sertifikası",
+        "D) Garanti Sertifikası",
+        "E) Prim Ödeyen (Bonus) Sertifika"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yatırım Kuruluşu varantları veya sertifikalarının nakavt olması durumunda ve izahnamede yada ihraç belgesinde belirtilmesi kaydıyla, ihraççı tarafından hesaplanan yatırım kuruluşu varantı veya sertifikası sahibine ödenecek tutarıa ne denir?",
+      "options": [
+        "A) Artık değer",
+        "B) Nakavt",
+        "C) Bariyer",
+        "D) İskonto",
+        "E) Prim"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Nakavt özellikli yatırım kuruluşu varantları veya sertifikalarında izahnamede yada ihraç belgesinde açıklamak şartıyla, ihraççı tarafından dayanak varlık veya dayanak gösterge için belirlenmiş olan ve yatırım kuruluşu varantları veya sertifikaların geçersiz hale geleceği veya farklı bir amaçla kullanılabilecek fiyat veya değer seviyesine ne denir?",
+      "options": [
+        "A) Artık değer",
+        "B) Nakavt",
+        "C) Bariyer",
+        "D) İskonto",
+        "E) Prim"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yatırım kuruluşu varantı yada sertifikası türlerinde dayanak varlığın fiyatının veya gösterge değerinin ihraççı tarafından önceden belirlenmiş seviyeye (bariyere) ulaşması bu seviyeyi aşması veya altında kalması durumunda yatırım kuruluşu varantının yada sertifikasının değerini yitirip geçersiz olma durumuna ne denir?",
+      "options": [
+        "A) Artık değer",
+        "B) Nakavt",
+        "C) Bariyer",
+        "D) İskonto",
+        "E) Prim"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İpoteğe Dayalı Menkul Kıymetler (İDMK) karşılığında toplanan paralarla, İDMK sahipleri hesabına inançlı mülkiyet esaslarına göre fon içtüzüğü ile kurulan ve tüzel kişiliği olmayan malvarlığına ne denir?",
+      "options": [
+        "A) Konut finansmanı fonu",
+        "B) Varlık finansman fonu",
+        "C) A tipi fon",
+        "D) B tipi fon",
+        "E) Altın fonu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Varlığa dayalı menkul kıymetler (VDMK) karşılığında toplanan paralarla, VDMK sahipleri hesabına inançlı mülkiyet esaslarına göre fon içtüzüğü ile kurulan ve tüzel kişiliği olmayan malvarlığına ne denir?",
+      "options": [
+        "A) Konut finansmanı fonu",
+        "B) Varlık finansman fonu",
+        "C) Hisse senedi fonu",
+        "D) Tahvil fonu",
+        "E) Altın fonu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Saklama kuruluşlarında saklanan yabancı sermaye piyasası araçlarını temsilen depocu kuruluş tarafından ihraç edilen ve sahibine bu araçların verdiği hakları aynen sağlayan, bunlara özdeş, nominal değeri Türk Lirası olarak veya T.C. Merkez Bankasınca günlük alım satım kurları ilan edilen yabancı paralar cinsinden ifade edilen sermaye piyasası aracına ne denir?",
+      "options": [
+        "A) Turbo Sertifika",
+        "B) Depo Sertifikası",
+        "C) İskontolu Sertifika",
+        "D) Endeks Sertifikası",
+        "E) Prim Ödeyen (Bonus) Sertifika"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "İhraççıların genel yükümlülüğü niteliğinde olan ve teminatlar karşılık gösterilerek ihraç edilen sermaye piyasası araçlarına ne ad verilir?",
+      "options": [
+        "A) İpotek ve varlık teminatlı menkul kıymetler",
+        "B) Hisse senetleri",
+        "C) Yatırım fonları",
+        "D) Tahviller",
+        "E) Bonolar"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I- Bankalar\nII- İpotek Finans Kuruluşları\nIII-Finansal Kiralama Şirketleri\nIV-Finansman Şirketleri\n\nYukarıdan hangisi/hangileri teminatlı menkul kıymet ihraç edebilir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) I ve III",
+        "D) I, II ve III",
+        "E) I, II, III ve IV"
+      ],
+      "answer": 4
+    }
+  ],
+  "Çalışma Soruları (Sermaye Piyasası Kurulu/Kurumları)": [
+    {
+      "q": "Sermaye Piyasası Kurulu (SPK)’ya ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Tüzel kişiliğini haiz, idari ve mali özerkliğe sahiptir.",
+        "B) Kurulun merkezi İstanbul’dadır.",
+        "C) Kurul Karar Organı ve Başkanlık teşkilatından oluşur.",
+        "D) Kurul, bu Kanunla ve mevzuatla kendisine verilen görev ve yetkileri kendi sorumluluğu altında bağımsız olarak yerine getirir ve kullanır.",
+        "E) Kurulun kararları yerindelik denetimine tabidir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye Piyasası Kurulu (SPK)’ya ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurulun para, evrak ve her türlü malları devlet malı hükmündedir, haczedilemez ve rehnedilemez",
+        "B) Kurul Karar Organı, biri başkan, biri ikinci başkan olmak üzere dokuz üyeden oluşur.",
+        "C) Kurul Başkan ve üyelerinin görev süresi dört yıldır.",
+        "D) Süreleri biten Başkan ve üyeler bir defalığına tekrar atanabilir.",
+        "E) Başkanın izin, hastalık, yurt içi ve yurt dışı görevlendirme ve görevde bulunmadığı diğer hâller ile görevden alınması veya üyeliğinin düşmesi durumlarında ikinci başkan, onun da bulunmadığı hâllerde başkan vekili Başkana vekâlet eder."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu Karar Organının görev ve yetkilerinden biri değildir?",
+      "options": [
+        "A) Kurulun düzenlemek ve denetlemekle görevli olduğu alanla ve Kurulla ilgili yönetmelik ve tebliğ taslaklarını, başvuru dosyalarını, Kurul personelince hazırlanan inceleme ve denetleme raporlarını görüşüp karara bağlamak",
+        "B) Kurulun bütçesini, kesin hesabını ve yıllık faaliyet raporunu görüşüp karara bağlamak",
+        "C) Başkanın önerisi üzerine, Kurul başkan yardımcıları ve daire başkanlarını atamak",
+        "D) Yurt içi veya yurt dışı temsilcilik açılması, gayrimenkul alımı, satımı, yapımı veya kiralanması hususundaki önerileri görüşüp karara bağlamak",
+        "E) Kurulun üçüncü kişilerle olan alacak, hak ve borçlarını ertelemek"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu’nun görev, yetki ve sorumluluklarından biri değildir?",
+      "options": [
+        "A) Finansal istikrar ve ulusal veya uluslararası mevzuatın gereklerinin sağlanması amacıyla diğer finansal düzenleyici ve denetleyici kurumlarla her türlü iş birliğini yapmak ve bilgi alışverişinde bulunmak",
+        "B) Sermaye piyasasının gelişmesini teminen yeni sermaye piyasası kurumlarına ve araçlarına ilişkin usul ve esasları düzenlemek ve bunları denetlemek",
+        "C) Halka açık ortaklıklarda görev alacaklar, sermaye piyasası kurumlarının yönetici ve diğer çalışanlarının mesleki eğitimi, mesleki yeterliliği ve mesleki ehliyetlerini gösterir sertifika verilmesine ilişkin esasları belirlemek",
+        "D) Para piyasasında yatırımcı ve tasarruf sahiplerine yönelik olarak yatırım tavsiyesinde bulunacak kişiler ve kuruluşların uyacakları ilke ve esasları belirlemek",
+        "E) Kamuyu Aydınlatma Platformunun işletim ve çalışma esasları ile Kanun kapsamında Kurula yapılacak bildirim ve başvuruların usul ve esaslarını belirlemek"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu’nun görev, yetki ve sorumluluklarından biri değildir?",
+      "options": [
+        "A) Sermaye piyasası kurumlarının, halka açık şirketlerin, borsaların ve öz düzenleyici kuruluşların bilgi sistemlerinin işletimine ve bu Kanun çerçevesindeki denetimine ilişkin usul ve esasları belirlemek",
+        "B) Tasfiyesine karar verilen yatırım kuruluşlarını TMSF’ye devretmek",
+        "C) Yerli veya yabancı akademisyen veya uygulamacılardan oluşan çalışma gruplarına veya kişilere, mevcut veya gelecekteki düzenleme tercihlerinde esas teşkil etmek üzere sermaye piyasalara ilişkin ulusal veya uluslararası nitelikli bilimsel araştırmalar yaptırmak",
+        "D) Kurulun üyesi bulunduğu uluslararası kuruluşlar, mali, iktisadi ve mesleki teşekküller ile Türkiye’nin doğrudan üyesi bulunduğu uluslararası kuruluşların çalışmalarına katılmak, bu kuruluşlarla ortak projeler geliştirmek ve projelerine katkıda bulunmak",
+        "E) Kurulun görev alanı ile ilgili uluslararası kuruluşlara, mali, iktisadi ve mesleki teşekküllere üye olmak"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye Piyasası Kurulu’nun bütçesi, harcama ve işlemlerinin denetimine dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurulun gelirlerinin giderlerini karşılaması esastır.",
+        "B) Kurulun gelirlerinin giderlerini karşılamaması durumunda açık, yatırım kuruluşlarından karşılanır.",
+        "C) İhraççılar veya halka arz edenler, Kurul bütçesine gelir kaydedilmek üzere, satışı yapılacak sermaye piyasası araçlarının varsa nominal değerinden aşağı olmamak üzere ihraç değerinin binde üçü tutarında ücret yatırmak zorundadır.",
+        "D) Kurul tarafından düzenlenen ve denetlenen borsaların ve diğer teşkilatlanmış piyasaların, merkezî takas kurumlarının, merkezî saklama kurumlarının ve MKK’nın faiz gelirleri hariç tüm gelirlerinin azami yüzde onu Kurul bütçesine Kurul tarafından gelir olarak kaydedilebilir.",
+        "E) Kurul, faaliyetlerine ilişkin olarak her yılın haziran ayı sonuna kadar bir önceki yıla ait kararları, yaptığı ikincil düzenlemeler ile bunların ekonomik ve sosyal etkilerini analiz eden bir faaliyet raporu hazırlar."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi sermaye piyasası kurumlarından biri değildir?",
+      "options": [
+        "A) Yatırım kuruluşları",
+        "B) Kolektif yatırım kuruluşları",
+        "C) Finansal kiralama şirketleri",
+        "D) Sermaye piyasasında faaliyette bulunacak bağımsız denetim kuruluşları",
+        "E) Portföy yönetim şirketleri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi sermaye piyasası kurumlarından biri değildir?",
+      "options": [
+        "A) İpotek finansmanı kuruluşları",
+        "B) Konut finansmanı ve varlık finansmanı fonları",
+        "C) Tasarruf Mevduatı Sigorta Fonu",
+        "D) Varlık kiralama şirketleri",
+        "E) Merkezî takas kuruluşları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi sermaye piyasası kurumlarından biri değildir?",
+      "options": [
+        "A) Bağımsız değerleme ve derecelendirme kuruluşları",
+        "B) Merkezî saklama kuruluşları",
+        "C) Veri depolama kuruluşları",
+        "D) Kuruluş ve faaliyet esasları Kurulca belirlenen diğer sermaye piyasası kurumları",
+        "E) Halka açık olmayan şirketler"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi sermaye piyasası mevzuatı uyarınca yatırım hizmetleri ve faaliyetlerinden biri değildir?",
+      "options": [
+        "A) Sermaye piyasası araçlarıyla ilgili emirlerin alınması ve iletilmesi",
+        "B) Sermaye piyasası araçlarıyla ilgili emirlerin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına gerçekleştirilmesi",
+        "C) Sermaye piyasası araçlarının kendi hesabından alım ve satımı",
+        "D) Portföy yöneticiliği",
+        "E) Mevduat toplanması"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aracı kurumların kurucu ortaklarına ilişkin aşağıdakilerden hangisi doğru değildir?",
+      "options": [
+        "A) Müflis olmaması, konkordato ilan etmiş olmaması ya da hakkında iflasın ertelenmesi kararı verilmiş olmaması şarttır.",
+        "B) Faaliyet izinlerinden biri Kurulca iptal edilmiş kuruluşlarda, bu müeyyideyi gerektiren olayda sorumluluğu bulunan kişilerden olmaması gerekir.",
+        "C) Sermaye piyasası ileri düzey lisans sahibi olması",
+        "D) Sermaye Piyasası Kanunu’nda yazılı suçlardan kesinleşmiş mahkûmiyetinin bulunmaması gerekir.",
+        "E) 14/1/1982 tarihli ve 35 sayılı Ödeme Güçlüğü İçinde Bulunan Bankerlerin İşlemleri Hakkında Kanun Hükmünde Kararname ve eklerine göre kendileri veya ortağı olduğu kuruluşlar hakkında tasfiye kararı verilmemiş olması gerekir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca yatırım kuruluşlarının faaliyette bulunulmasına ilişkin aşağıdaki şartlardan hangisi yanlıştır?",
+      "options": [
+        "A) Yatırım kuruluşlarının yükümlülükleri, yatırım hizmet ve faaliyetleri ile yan hizmetlerin sunumu sırasında uyacakları ilke ve esaslar BDDK tarafından belirlenir.",
+        "B) Yatırım kuruluşlarının yükümlülükleri, yatırım hizmet ve faaliyetleri ile yan hizmetlerin sunumu sırasında uyacakları ilke ve esaslar Kurulca belirlenir.",
+        "C) Borsada işlem yapacak yatırım kuruluşlarının, ilgili borsadan işlem yapma yetkisi almaları zorunludur.",
+        "D) Kurul, yatırım kuruluşlarının yatırım hizmetleri ve faaliyetlerinin icrası esnasında yatırımcılara sağlanacak korumanın belirlenmesi amacıyla yatırımcıları sınıflandırmaya yetkilidir.",
+        "E) Yatırım kuruluşları, faaliyetleri nedeniyle oluşabilecek riskleri de dikkate alacak şekilde sundukları yatırım hizmet ve faaliyetlerine uygun, yatırımcı hak ve yararlarını gözeten ve bu hizmet ve faaliyetlerden doğan yatırımcı şikâyetlerinin takibi ve sonuçlanmasını sağlamak üzere gerekli iç kontrol birim ve sistemlerini oluşturmakla yükümlüdürler."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Kolektif yatırım kuruluşlarına ilişkin hangisi yanlıştır?",
+      "options": [
+        "A) Yatırım ortaklıkları, sermaye piyasası araçları, gayrimenkul, girişim sermayesi yatırımları ile Kurulca belirlenecek diğer varlık ve haklardan oluşan portföyleri işletmek amacıyla, paylarını ihraç etmek üzere kurulan sabit veya değişken sermayeli anonim ortaklıklardır.",
+        "B) Değişken sermayeli yatırım ortaklıkları, sermayesi her zaman net aktif değerine eşit olan yatırım ortaklıklarıdır.",
+        "C) Net aktif değer varlıkların toplamından borçların toplamının düşülmesi suretiyle bulunan tutarı ifade eder.",
+        "D) Değişken sermayeli yatırım ortaklığının payları, yatırımcı payları ile nama yazılı olması zorunlu olan kurucu paylarından oluşur.",
+        "E) Değişken sermayeli yatırım ortaklıklarının paylarının itibari değeri 1 TL’dir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Yatırım ortaklıklarının kuruluş ve faaliyet şartlarına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Esas sermayeli anonim ortaklık şeklinde kurulmaları",
+        "B) Başlangıç sermayelerinin Kurulca belirlenen miktardan az olmaması,",
+        "C) Paylarının nakit karşılığı çıkarılması ve pay bedellerinin kuruluş sırasında tam ve nakden ödenmesi,",
+        "D) Ticaret unvanlarında “Yatırım Ortaklığı” ibaresinin bulunması,",
+        "E) Esas sözleşmelerinin Sermaye Piyasası Kanunu ve ilgili düzenlemelerde yer alan hükümlere uygun olması"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Yatırım ortaklıklarının kuruluş ve faaliyet şartlarına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kayıtlı sermayeli anonim ortaklık şeklinde kurulmaları",
+        "B) Kurulca yetkilendirilmiş bir kuruluşun portföy saklama hizmetini yürütmek üzere belirlenmiş olması.",
+        "C) Yatırım ortaklıklarının kuruluşuna ilişkin şartlar, yatırım ortaklığına dönüşümde aranmaz.",
+        "D) Yatırım ortaklıkları, esas sözleşmelerinde hüküm bulunmak kaydıyla ve Kurulun onayını almak şartıyla bir portföy yönetim şirketinden hizmet alabilir.",
+        "E) Gayrimenkul yatırım ortaklıklarının kuruluşlarında ve sermaye artırımlarında, Kurulca portföye alınması uygun görülen varlıklar ayni sermaye olarak konulabilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermayesi her zaman net aktif değerine eşit olan yatırım ortaklıklarına ne denir?",
+      "options": [
+        "A) Gayrimenkul yatırım ortaklığı",
+        "B) Sabit sermayeli yatırım ortaklıkları",
+        "C) Değişken sermayeli yatırım ortaklıkları",
+        "D) Girişim sermayesi yatırım ortaklığı",
+        "E) Menkul kıymet yatırım ortaklığı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Tasarruf sahiplerinden fon katılma payı karşılığında toplanan para ya da diğer varlıklarla, tasarruf sahipleri hesabına, inançlı mülkiyet esaslarına göre Kurulca belirlenen varlık ve haklardan oluşan portföy veya portföyleri işletmek amacıyla portföy yönetim şirketleri tarafından fon iç tüzüğü ile kurulan ve tüzel kişiliği bulunmayan mal varlığına ne denir?",
+      "options": [
+        "A) Yatırım ortaklığı",
+        "B) Yatırım fonu",
+        "C) Girişim sermayesi",
+        "D) Varlık yönetimi",
+        "E) Portföy yönetimi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yatırım fonlarına ilişkin aşağıdakilerden hangisi doğru değildir?",
+      "options": [
+        "A) Yatırım fonu katılımcılarına hisse senedi verilir.",
+        "B) Yatırım fonlarının kuruluş izni alabilmesi için, kurucunun portföy saklama hizmetini yürütmek üzere Kurulca yetkilendirilmiş bir kuruluş ile anlaşmış olması ve fon iç tüzüğünün Kurulca onaylanması gereklidir.",
+        "C) Portföy yönetim şirketi, fonu, yatırım fonu katılma payı sahiplerinin haklarını koruyacak şekilde temsil eder, yönetir veya yönetimini denetler.",
+        "D) Portföy yönetim şirketi yatırım fonuna ait varlıklar üzerinde kendi adına ve fon hesabına mevzuat ve fon iç tüzüğüne uygun olarak tasarrufta bulunmaya ve bundan doğan hakları kullanmaya yetkilidir.",
+        "E) Fon, tapuya tescil işlemleri ile sınırlı olarak tüzel kişiliği haiz addolunur."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Yatırım fonlarına ilişkin aşağıdakilerden hangisi doğru değildir?",
+      "options": [
+        "A) Fonun mal varlığı, portföy yönetim şirketi ve portföy saklama hizmetini yürütecek kuruluşun mal varlığından ayrıdır.",
+        "B) Fon mal varlığı, fon hesabına olması ve fon iç tüzüğünde hüküm bulunması şartıyla kredi almak, türev araç işlemleri, açığa satış işlemleri veya fon adına taraf olunan benzer nitelikteki işlemlerde bulunmak haricinde teminat gösterilebilir ve rehnedilebilir.",
+        "C) Fon mal varlığı portföy yönetim şirketinin ve portföy saklama hizmetini yürüten kuruluşun yönetiminin veya denetiminin kamu kurumlarına devredilmesi hâlinde dahi başka bir amaçla tasarruf edilemez.",
+        "D) Fon mal varlığının tasfiyesi durumunda yalnızca katılma payı sahiplerine ödeme yapılabilir.",
+        "E) Portföy yönetim şirketlerinin üçüncü kişilere olan borçları ve yükümlülükleri ile yatırım fonlarının aynı üçüncü kişilerden olan alacakları birbirlerine karşı mahsup edilemez."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Portföy yönetim şirketlerine dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Portföy yönetim şirketi, ana faaliyet konusu yatırım fonlarının kurulması ve yönetimi olan anonim ortaklıktır.",
+        "B) Portföy yönetim şirketinin kurulması ve faaliyete geçmesi için BDDK’dan izin alınması zorunludur.",
+        "C) Portföy yönetim şirketlerinin hizmet verdiği kişi ve kuruluşların portföylerinde yer alan saklamaya konu olabilecek varlıklar Kurulca belirlenen esaslar çerçevesinde portföy saklama hizmeti veren kuruluşlar nezdinde saklanır.",
+        "D) Portföy yönetim şirketleri tarafından yatırılan teminatlar rehnedilemez, kamu alacakları için olsa dahi haczedilemez, kullanılma amaçları dışında tasarruf edilemez, üçüncü kişilere devredilemez, iflas masasına dâhil edilemez ve üzerlerine ihtiyati tedbir konulamaz.",
+        "E) Portföy yönetim şirketlerinin dönüşüm işlemleri ile esas sözleşme değişikliklerinde Kurulun uygun görüşünün alınması zorunludur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Konut ve Varlık Finansmanı ile İpotek Finansmanı Kuruluşları’na ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurul, konut ve varlık finansmanı kapsamında her aşamada Kurulca belirlenen nitelikleri haiz değerleme kuruluşları tarafından değerleme yapılmasını zorunlu tutabilir.",
+        "B) Konut finansmanı fonu, ipoteğe dayalı menkul kıymetler karşılığında toplanan paralarla, ipoteğe dayalı menkul kıymet sahipleri hesabına inançlı mülkiyet esaslarına göre fon iç tüzüğü ile kurulan ve tüzel kişiliği olmayan mal varlığıdır.",
+        "C) Varlık finansmanı fonu, varlığa dayalı menkul kıymetler karşılığında toplanan paralarla, varlığa dayalı menkul kıymet sahipleri hesabına inançlı mülkiyet esaslarına göre fon iç tüzüğü ile kurulan ve tüzel kişiliği olmayan mal varlığıdır.",
+        "D) Fon kurulu, ipoteğe veya varlığa dayalı menkul kıymetlerin sahiplerinin haklarını koruyacak şekilde fonu temsil ve yönetir.",
+        "E) Fonun mal varlığı, kurucunun, fona hizmet sağlayanların ve fon portföyüne alacaklarını veya varlıklarını devredenlerin mal varlığıyla ortaktır."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Kira sertifikası ve varlık kiralama şirketlerine dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kira sertifikaları, her türlü varlık veya hakkın finansmanını sağlamak amacıyla varlık kiralama şirketleri tarafından ihraç edilen ve sahiplerinin bu varlık veya haklardan elde edilen gelirlerden payları oranında hak sahibi olmalarını sağlayan, nitelikleri Kurulca belirlenen sermaye piyasası araçlarıdır.",
+        "B) Kira sertifikalarının ihraç ve satışına ilişkin usul ve esaslar Kurulca belirlenir.",
+        "C) Varlık kiralama şirketleri münhasıran gayrimenkul sertifikası ihraç etmek üzere kurulan anonim ortaklıklardır.",
+        "D) Varlık kiralama şirketi, Kurul tarafından uygun görüş verilen esas sözleşmesinde belirtilen faaliyetler dışında herhangi bir ticari faaliyetle uğraşamaz.",
+        "E) Kira sertifikaları itfa edilinceye kadar, varlık kiralama şirketinin portföyünde yer alan varlıklar ve haklar, ihraççının yönetiminin veya denetiminin kamu kurumlarına devredilmesi hâlinde dahi teminat amacı dışında tasarruf edilemez."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Borsalar ve piyasa işleticilerine dair aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Borsaların ve piyasa işleticilerinin kuruluşuna Kurulun uygun görüşü üzerine Başbakanlık tarafından izin verilir.",
+        "B) Bu kuruluşların faaliyete geçmesi Kurulun iznine tabidir.",
+        "C) Kuruluş ve faaliyet izni başvuruları borsa, piyasa işleticisi veya borsa adına piyasa işleticisi tarafından yapılabilir.",
+        "D) Borsalar, piyasaların işletilmesi ve/veya yönetilmesi için bir ya da birden fazla piyasa işleticisi ile anlaşma yapabilirler.",
+        "E) Borsaların ve piyasa işleticilerinin esas sözleşme değişiklikleri, pay devirleri veya pay devri söz konusu olmasa dahi doğrudan veya dolaylı kontrol devri sonucunu doğuran her türlü işlem Kurulun iznine tabidir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Borsalar ve piyasa işleticilerinin Kuruluş iznine dair hangisi yanlıştır?",
+      "options": [
+        "A) Kurucu paylarının tamamının hamiline yazılı olması,",
+        "B) Paylarının nakit karşılığı çıkarılması,",
+        "C) Sermayelerinin Kurulca belirlenen miktardan az olmaması,",
+        "D) Kurucularının veya borsa veya piyasa işleticisi üzerinde doğrudan veya dolaylı olarak önemli etkiye sahip olan ortaklarının Kanunda belirtilen şartları taşımaları,",
+        "E) Esas sözleşmelerinin bu Kanun ve ilgili düzenlemelerde yer alan hükümlere uygun olması"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Borsalara karşı açılacak davalar nerede görülür?",
+      "options": [
+        "A) Sayıştay",
+        "B) Danıştay",
+        "C) TBMM’de",
+        "D) İdari yargıda",
+        "E) Adli yargıda"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Borsa kotasyon işlemlerine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermaye piyasası araçları ancak Sermaye Piyasası Kanununa dayanılarak çıkarılan düzenlemelerde yer alan şartların sağlanması hâlinde borsa kotuna alınabilir.",
+        "B) Borsalar, kota alınan sermaye piyasası araçlarını ihraç edenlerin kamuyu aydınlatma yükümlülüklerini yerine getirmelerini sağlamaya yönelik düzenlemeler yaparlar.",
+        "C) Borsa veya piyasa işleticisi, kendi düzenlemelerinde öngörülen şartların oluşması hâlinde, ilgili sermaye piyasası aracının işlem görmesini durdurabileceği gibi kottan da çıkarabilir.",
+        "D) Borsalar ve piyasa işleticileri, kotta bulunan sermaye piyasası araçlarının kotta kalma şartlarına uyduğunu düzenli olarak gözden geçirmeye yönelik gerekli düzenlemeleri yaparlar.",
+        "E) Bir borsa kotunda bulunan bir sermaye piyasası aracı, başka bir borsada da kota alınamaz."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Borsa ve piyasa işleticilerinin mali ve bilgi sistemleri denetimi hangi kurumun sorumluluğundadır?",
+      "options": [
+        "A) Bakanlar Kurulu",
+        "B) Maliye Bakanlığı",
+        "C) Hazine Müsteşarlığı",
+        "D) Sermaye Piyasası Kurulu",
+        "E) BDDK"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 Sayılı Sermaye Piyasası Kanunu’nun 37 nci maddesi uyarınca yatırım hizmet ve faaliyetlerinde bulunmaya yetkili kılınmış kuruluşların ve sermaye piyasalarında faaliyet gösteren kurumlardan Kurulca uygun görülenlerin tüzel kişiliğe haiz kamu kurumu niteliğindeki meslek kuruluşu aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Türkiye Değerleme Uzmanları Birliği",
+        "B) Türkiye Sermaye Piyasaları Birliği",
+        "C) Türkiye Sermaye Piyasaları Aracı Kuruluşlar Birliği",
+        "D) Merkezî takas kuruluşları",
+        "E) Ticaret Odası"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasaları Birliği’nin görevlerinden biri değildir?",
+      "options": [
+        "A) Sermaye piyasalarının ve üye kuruluşların faaliyetlerinin gelişmesini sağlamak üzere araştırmalar yapmak,",
+        "B) Birlik üyelerinin dayanışma ve sermaye piyasası ile mesleğin gerektirdiği özen ve disiplin içinde çalışmalarına yönelik meslek kurallarını oluşturmak,",
+        "C) Haksız rekabeti önlemek amacıyla kredi desteği sunmak,",
+        "D) Kendisine mevzuatla verilen ve Kurulca belirlenen konularda düzenlemeler yapmak, yürütmek ve denetlemek,",
+        "E) Birlik statüsünde öngörülen disiplin cezalarını vermek,"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Borsalarda ve teşkilatlanmış diğer pazar yerlerinde işlem gören sermaye piyasası araçlarının teslimi, bedellerinin ödenmesi ve bu işlemlere ilişkin teminat yükümlülüklerinin ifası ile ilgili işlemleri yürüten anonim ortaklık şeklindeki özel hukuk tüzel kişiliğini haiz kurum hangisidir?",
+      "options": [
+        "A) Türkiye Değerleme Uzmanları Birliği",
+        "B) Türkiye Sermaye Piyasaları Birliği",
+        "C) Türkiye Sermaye Piyasaları Aracı Kuruluşlar Birliği",
+        "D) Merkezî takas kuruluşları",
+        "E) Yatırımcıları Tanzim Merkezi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası araçlarının merkezî saklanması ve bunlara ilişkin hakların kullanımı hizmetlerini veren anonim ortaklık şeklindeki özel hukuk tüzel kişiliğini haiz kurumlara hangisidir?",
+      "options": [
+        "A) Türkiye Değerleme Uzmanları Birliği",
+        "B) Türkiye Sermaye Piyasaları Birliği",
+        "C) Merkezî takas kuruluşları",
+        "D) Yatırımcıları Tanzim Merkezi",
+        "E) Merkezî saklama kuruluşları"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Merkezî saklama kuruluşlarına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Merkezî saklama kuruluşlarının kuruluşuna Kurulun uygun görüşü üzerine ilgili Bakan tarafından izin verilir, bu kuruluşların faaliyete geçmesi ise Kurul iznine tabidir.",
+        "B) Kurul, merkezî saklama kuruluşlarının, merkezî saklamacı olarak faaliyet gösterebilecekleri sermaye piyasası araçları türlerini belirler.",
+        "C) Kurul, belirli sermaye piyasası araçlarının bir veya birden fazla merkezî saklama kuruluşunda saklanmasını zorunlu tutabilir.",
+        "D) Kurulun uygun görmesi hâlinde merkezî saklama kuruluşları, sermaye piyasaları dışında kurulmuş ve kurulacak diğer piyasaların da saklama işlemlerini yerine getirebilir.",
+        "E) Kaydileştirilen sermaye piyasası araçlarının merkezî saklama kuruluşu Yatırımcıları Tazmin Merkezi’dir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirmek, kaydileştirilen bu araçları ve bunlara bağlı hakları, elektronik ortamda, üyeler ve hak sahipleri itibarıyla kayden izlemek, bu araçların merkezî saklamasını yapmak üzere kurulmuş, özel hukuk tüzel kişiliğini haiz anonim şirket hangisidir?",
+      "options": [
+        "A) Türkiye Değerleme Uzmanları Birliği",
+        "B) Türkiye Sermaye Piyasaları Birliği",
+        "C) Merkezî Kayıt Kuruluşu",
+        "D) Merkezî takas kuruluşları",
+        "E) Yatırımcıları Tanzim Merkezi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi MKK’nın görev ve faaliyetlerinden biri değildir?",
+      "options": [
+        "A) 6102 sayılı Kanun ve ilgili diğer mevzuatta yer alan kurumsal yönetim ilkelerine şirketlerin uyumunu sağlamaya yönelik olarak şirketler ile ortaklarının ve yatırımcılarının iletişiminin sağlanabileceği elektronik bir platform oluşturmak",
+        "B) Sermaye piyasalarına ilişkin verilerin tek bir noktada toplanmasını sağlamaya yönelik elektronik bir veri bankası oluşturmak",
+        "C) Kurul tarafından sermaye piyasası ve ilgili mevzuat çerçevesinde verilen diğer görevleri ve düzenlemelerin gerektirdiği işlemleri yapmak",
+        "D) İlgili mevzuata göre yetkilendirilmek kaydıyla, lisanslı depolar tarafından düzenlenen ürün senetlerinin kaydileştirilmesine, bunların ve bunlara bağlı hakların elektronik ortamda kayden izlenmesine ilişkin işlemleri yürütmek ve bunlara ilişkin platform oluşturmak",
+        "E) Halka arzlara aracılık etmek"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye Piyasası Kanunu uyarınca yatırımcıların tazminine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurul, yatırım kuruluşlarının sermaye piyasası faaliyetinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getiremediğinin veya kısa sürede yerine getiremeyeceğinin tespit edilmesi hâlinde yatırımcıları tazmin kararı alır.",
+        "B) Kurulca bankalar hakkında tazmin kararı verilebilmesi için Bankacılık Düzenleme ve Denetleme Kurumunun görüşü alınır.",
+        "C) Yatırımcıların tazmini amacıyla kamu tüzel kişiliğini haiz Yatırımcı Tazmin Merkezi (YTM) kurulmuştur.",
+        "D) YTM tarafından yürütülecek iş ve işlemlerin Kurul personeli ve bu iş için istihdam edilecek personel tarafından yerine getirilmesi esastır.",
+        "E) Yatırım kuruluşlarının YTM’ye katılması zorunlu değildir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bir projenin veya girişim şirketinin ihtiyaç duyduğu fonu sağlamak amacıyla Kurul tarafından belirlenen esaslar dâhilinde Sermaye Piyasası Kanunun yatırımcı tazminine ilişkin hükümlerine tabi olmaksızın kitle fonlama platformları aracılığıyla halktan para toplanmasına ne denir?",
+      "options": [
+        "A) Kitle fonlaması",
+        "B) Yatırım fonlaması",
+        "C) Yatırım ortaklığı",
+        "D) Girişim sermayesi",
+        "E) Katılım fonu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye Piyasası Kanununa göre bankalar hariç olmak üzere, yatırımcıları tazmin kararı verilenler hakkında tedricî tasfiye işlemleri kim tarafından yürütülür?",
+      "options": [
+        "A) BDDK",
+        "B) TMSF",
+        "C) YTM",
+        "D) SPK",
+        "E) Maliye Bakanlığı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yatırım hizmetleri ve faaliyetlerinden kaynaklanan her türlü emanet ve alacaklar, hesap sahibinin yaptığı en son talep, işlem veya herhangi bir şekilde verdiği yazılı talimat tarihinden, yatırım fonu ve değişken sermayeli yatırım ortaklıkları için ise tasfiye tarihinden başlayarak kaç yıl içinde talep ve tahsil edilmemesi hâlinde YTM’ye gelir kaydedilir?",
+      "options": [
+        "A) 5 yıl",
+        "B) 7 yıl",
+        "C) 10 yıl",
+        "D) 15 yıl",
+        "E) 17 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ana faaliyet konusu yatırım fonlarının kurulması ve yönetimi olan anonim ortaklık hangisidir?",
+      "options": [
+        "A) Portföy yönetim şirketi",
+        "B) Varlık kiralama şirketi",
+        "C) Varlık yönetim şirketi",
+        "D) Sigorta şirketi",
+        "E) Aracı kurum"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Konut ve varlık finansmanı kapsamında, türleri ve nitelikleri Kurulca belirlenen varlıkların devralınması, devredilmesi, devralınan varlıkların yönetimi ve varlıkların teminat olarak alınması ve Kurulca uygun görülen diğer faaliyetlerin yerine getirilmesi amacıyla kurulan anonim ortaklıklara ne denir?",
+      "options": [
+        "A) İpotek finansmanı kuruluşları",
+        "B) Konut finansmanı kuruluşları",
+        "C) Gayrimenkul yatırım ortaklığı",
+        "D) Portföy yönetim şirketi",
+        "E) Varlık kiralama şirketi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Bir projenin veya girişim şirketinin ihtiyaç duyduğu fonu sağlamak amacıyla Kurul tarafından belirlenen esaslar dâhilinde Sermaye Piyasası Kanunun yatırımcı tazminine ilişkin hükümlerine tabi olmaksızın kitle fonlama platformları aracılığıyla halktan para toplanmasına ne denir?",
+      "options": [
+        "A) Kitle fonlaması",
+        "B) Yatırım fonlaması",
+        "C) Yatırım ortaklığı",
+        "D) Girişim sermayesi",
+        "E) Katılım fonu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye Piyasası Kanununa göre kitle fonlama platformlarına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kitle fonlama platformları, kitle fonlamasına aracılık eden ve elektronik ortamda hizmet veren kuruluşlardır.",
+        "B) Kitle fonlama platformlarının kurulabilmesi ve faaliyete başlaması için Kuruldan izin alınması zorunludur.",
+        "C) Kitle fonlama platformlarının hukuka aykırı faaliyet ve işlemlerinde uygulanacak tedbirler için bu Kanunun 96 ncı madde hükümleri kıyasen uygulanır.",
+        "D) Kitle fonlaması ve buna bağlı yapılan işlemler ile kitle fonlama platformları Kanunun yatırım hizmetleri ve faaliyetleri ile yan hizmetler kapsamında değerlendirilir.",
+        "E) Bu faaliyetler bu Kanunun borsalar, piyasa işleticileri ve teşkilatlanmış diğer pazar yerleri ile ilgili hükümlerine tabi değildir."
+      ],
+      "answer": 3
+    }
+  ],
+  "Çalışma Soruları (Sermaye Piyasası Araçları Satış Yöntemleri)": [
+    {
+      "q": "I- Halka arz edilmek suretiyle satış\nII- Halka arz edilmeksizin tahsisli satış\nIII- Halka arz edilmeksizin Nitelikli yatırımcılara satış\n\nSermaye Piyasası Araçlarının Satışı Tebliği’ne göre yukarıda verilenlerden hangileri sermaye piyasası araçlarının satış yöntemleridir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca halka arz edilmeksizin gerçekleştirilen satış şekillerine ilişkin hangisi yanlıştır?",
+      "options": [
+        "A) Nitelikli yatırımcılara satılmak üzere ihraç edilen sermaye piyasası araçları, borsa düzenlemeleri çerçevesinde yalnızca nitelikli yatırımcılar arasında alınıp satılmak üzere borsada işlem görebilir.",
+        "B) Tahsisli olarak satılmak üzere ihraç edilen sermaye piyasası araçlarının borsada işlem görmesi esastır.",
+        "C) Halka açık ortaklıklarca halka arz edilmeksizin ihraç edilen payların, Kurulun payların ihracına ilişkin düzenlemeleri çerçevesinde borsada işlem gören nitelikte oluşturulması veya sonradan borsada işlem gören niteliğe dönüştürülmesi durumunda, bu paylar yatırımcı sayısı yönünden bir sınırlama olmaksızın borsada işlem görebilir.",
+        "D) Halka arz edilmeksizin yurt içinde yapılacak satışlarda içeriği Kurulca belirlenen beyanların satıştan önce yatırımcılara imzalatılması zorunludur.",
+        "E) İhraççılar veya varsa yetkili kuruluşlar yatırımcılardan aldıkları beyanları bunların alındığı tarihten itibaren beş yıl süreyle saklamak ve talep edilmesi halinde bir örneğini Kurula göndermek zorundadır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca Tahsisli satışlara ilişkin özel hükümlerine ilişkin hangisi yanlıştır?",
+      "options": [
+        "A) Tahsisli olarak satılmak üzere ihraç edilen sermaye piyasası araçlarının borsada işlem görmemesi esastır.",
+        "B) Payların ikincil piyasa işlemleri hariç olmak üzere, tahsisli olarak satılan sermaye piyasası araçlarını belirli bir anda elinde bulunduran yatırımcıların sayısının yüz elliyi geçmemesi esastır.",
+        "C) Tahsisli olarak satılan sermaye piyasası araçlarının diğer yatırımcılarla birlikte nitelikli yatırımcılar tarafından da satın alınması mümkündür. Bu durumda yüz elli kişinin hesaplanmasında nitelikli yatırımcılar dikkate alınır.",
+        "D) Tahsisli olarak satılan sermaye piyasası araçlarını belirli bir anda elinde bulunduran yatırımcı sayısının yüz elliyi geçmesi durumunda, bu sayının aşıldığı MKK tarafından derhal ihraççıya ve Kurula bildirilir.",
+        "E) İhraççı, kendisine yapılan bildirim tarihinden itibaren yirmi iş günü içerisinde hazırlayacağı izahnamenin onaylanması amacıyla Kurula ve söz konusu sermaye piyasası aracının borsada işlem görmesi amacıyla borsaya başvurur."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca Nitelikli yatırımcılara yapılacak satışlara ilişkin özel hükümlere ilişkin hangisi yanlıştır?",
+      "options": [
+        "A) Nitelikli yatırımcılara yapılacak satışlar, yalnızca bu yatırımcılara yönelik bir çağrıda bulunulması ve/veya nitelikli yatırımcıların önceden belirlenmesi suretiyle gerçekleştirilebilir.",
+        "B) Sermaye piyasası araçlarının nitelikli yatırımcılara satışında, yatırımcı sayısı yönünden kısıtlama uygulanır.",
+        "C) Bir yatırımcının nitelikli yatırımcı olduğuna ilişkin bilginin, ilgiliden alınan beyan üzerine MKK üyesi yatırım kuruluşları tarafından MKS’de kayıt altına alınması zorunludur.",
+        "D) Nitelikli yatırımcı özelliğinin kaybedilmesi durumunda, bu durumun ilgili yatırımcı tarafından bir MKK üyesi yatırım kuruluşuna bildirilmesi zorunludur.",
+        "E) Talebe dayalı olarak profesyonel kabul edilenler de dahil olmak üzere, Kurulun yatırım kuruluşlarına ilişkin düzenlemelerinde tanımlanan profesyonel müşteri statüsünden çıkılması durumunda, yatırımcının nitelikli yatırımcı özelliğinin de kaybedildiği kabul edilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Talep toplama yoluyla satış yöntemi,\nII- Talep toplanmaksızın satış yöntemi,\nIII- Borsada satış yöntemi\n\nSermaye piyasası araçlarının halka arz yoluyla satışı yukarıda belirtilen yöntemlerden hangisi ya da hangileriyle gerçekleşebilir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Yatırımcıların halka arz edilen sermaye piyasası araçlarına ilişkin taleplerinin toplanarak bu taleplerin önceden belirlenmiş usul ve esaslar çerçevesinde karşılanan kısmına ilişkin satışını ifade eden satış yöntemi hangisidir?",
+      "options": [
+        "A) Talep toplama yoluyla satış yöntemi",
+        "B) Talep toplamaksızın satış yöntemi",
+        "C) Borsada satış yöntemi",
+        "D) Açığa satış",
+        "E) Kredili satış"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Talep toplama yoluyla satış yöntemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermaye piyasası araçlarının dağıtımı yalnızca talepte bulunanlar arasında yapılır.",
+        "B) Yatırımcılar istedikleri takdirde, talep formunda satın almak istedikleri sermaye piyasası aracının miktarına ilişkin bir alt sınır belirleyebilirler.",
+        "C) Yetkili kuruluşlar talep formunu kabul implement etmeden önce yatırımcıların kimlik bilgilerini tespit ederler.",
+        "D) Satışı planlanan sermaye piyasası araçlarına ilişkin talep toplanmış olması, bu taleplerin mutlaka karşılanmasını gerektirir.",
+        "E) İzahnamede aksi belirtilmediği sürece, talep toplama yoluyla satış yönteminin kullanıldığı halka arzlarda izahnamede herhangi bir değişiklik olmasa dahi, yatırımcılar talep toplama süresi içerisinde taleplerini değiştirme ya da geri alma hakkına sahiptirler."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "I- Sabit fiyatla talep toplama,\nII-Fiyat teklifi alarak talep toplama,\nIII-Fiyat aralığı ile talep toplama\nIV-Ortalama fiyat ile talep toplama\n\nTalep toplama yoluyla satış yöntemi yukarıdakilerden hangileriyle gerçekleştirilebilir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I, II ve III",
+        "E) I, II, III ve IV"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca satış yöntemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Fiyat aralığı ile talep toplama yoluyla satış yönteminde; Satışa sunulan aracın pay olması durumunda bir taban ve tavan fiyat belirlenerek bu fiyat aralığından yatırımcıların talepleri toplanır.",
+        "B) Sabit fiyatla talep toplama yoluyla satış yönteminde; Satışa sunulan aracın pay olması durumunda sabit bir fiyat belirlenerek talep toplanır.",
+        "C) Fiyat teklifi alarak talep toplama yoluyla satış yönteminde; Satışa sunulan aracın pay olması durumunda asgari bir satış fiyatı belirlenir ve bunun üzerindeki fiyat teklifleri toplanır.",
+        "D) Fiyat aralığı ile talep toplama yoluyla satış yönteminin kullanılması durumunda tavan fiyat, taban fiyatın yüzde elli fazlasını aşmayacak şekilde belirlenir.",
+        "E) Talep toplama yoluyla satış yönteminin kullanılması durumunda, halka arz edilen paylara yeterli talepte bulunulmaması durumunda, talepte bulunulmayan paylar Kurulun talep toplanmaksızın satış yöntemine ilişkin düzenlemeleri uygulanır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Payları borsada işlem görmeyen halka açık ortaklıklardan, nitelikleri belirlenmiş ortaklıklar dışında kalanların paylarının kendileri ya da yetkili kuruluşlar vasıtasıyla belirli bir fiyattan izahnamede belirlenecek bir usulle halka arz edilmek suretiyle satışına ne denir?",
+      "options": [
+        "A) Talep toplama yoluyla satış yöntemi",
+        "B) Talep toplamaksızın satış yöntemi",
+        "C) Borsada satış yöntemi",
+        "D) Açığa satış",
+        "E) Kredili satış"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca satış yöntemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Talep toplanmaksızın satış yönteminin kullanılması halinde, yatırımcılar tasarruf sahiplerine satış duyurusunda belirtilen süre içinde pay bedellerinin izahnamede belirtilen bankada açılan özel hesaba aktarılması suretiyle sermaye artırımına katılırlar.",
+        "B) Fiyat aralığı ile talep toplama yoluyla satış yönteminin kullanılması durumunda tavan fiyat, taban fiyatın yüzde yirmi fazlasını aşmayacak şekilde belirlenir.",
+        "C) Borsada satış yöntemi, sermaye piyasası araçlarının borsa düzenlemeleri çerçevesinde borsada satışını ifade eder.",
+        "D) Borsada satış yönteminin esasları BDDK tarafından belirlenir.",
+        "E) Borsa tarafından birden fazla satış yönteminin belirlenmiş olması durumunda, ihraççı ve/veya halka arz eden tarafından seçilen yönteme göre satış gerçekleştirilebilir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Fiyat aralığı ile talep toplama yoluyla satış yönteminin kullanılması durumunda tavan fiyat, taban fiyatın yüzde kaçını aşmayacak şekilde belirlenir?",
+      "options": [
+        "A) Yüzde 20",
+        "B) Yüzde 30",
+        "C) Yüzde 40",
+        "D) Yüzde 50",
+        "E) Yüzde 100"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası araçlarının halka arz edilebilmesi için ihraççılar tarafından düzenlenmesi zorunlu olan ve Sermaye Piyasası Kurulu onayından geçirilmesi gereken kamuyu aydınlatma belgesine ne denir?",
+      "options": [
+        "A) İhraç belgesi",
+        "B) İzahname",
+        "C) Sirküler",
+        "D) Katılım belgesi",
+        "E) Duyuru metni"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca izahname hazırlanmasını gerektirmeyen sermaye piyasası araçlarının ihraçcı durumunda aşağıdakilerden hangisi hazırlanması gerekir?",
+      "options": [
+        "A) Katılım belgesi",
+        "B) Faaliyet raporu",
+        "C) İhraç belgesi",
+        "D) Sertifika",
+        "E) Sözleşme"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışına ne ad verilir?",
+      "options": [
+        "A) İhraç",
+        "B) Piyasa",
+        "C) Opsiyon",
+        "D) Varant",
+        "E) Kredi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I-Halka açık anonim ortaklıklar, Kurul düzenlemelerine göre hesaplanan dağıtılabilir birinci temettü tutarının, genel kurula sunulacak son yıllık mali tablolarına göre esas sermaye/çıkarılmış sermayenin % 5’inden daha düşük olması durumunda, ilgili hesap dönemleri için birinci temettü dağıtmayabilir.\nII-Halka açık anonim ortaklıklardan, Sermayelerinin %95’i veya fazlası en fazla elli ortağa ait olanlar, talep üzerine, Kurul tarafından başvurunun yapıldığı tarihteki hesap dönemi mali tabloları için bağımsız denetim yükümlülüğünden muaf tutulabilirler.\nIII-Sermaye piyasası araçlarının tahsisli satışı ve sadece nitelikli yatırımcılara yönelik yapılan satışında izahname düzenlemek gerekmez.\n\nYukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) II ve III",
+        "D) I ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Yatırım kuruluşu varantı ve sertifikaları da dahil olmak üzere, benzer bir türdeki ortaklık hakkı vermeyen sermaye piyasası araçlarının belirlenmiş bir ihraç süresi boyunca mükerrer bir şekilde azami beş yıllık bir süre içinde ihraç edilmesine izin veren plana ne ad verilir?",
+      "options": [
+        "A) İzahname esası",
+        "B) Arz programı",
+        "C) İhraç planı",
+        "D) İhraç projesi",
+        "E) İzahname dökümü"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca aşağıdakilerden işlemlerden hangisi için Sermaye Piyasası Kurulu’na başvurmak gerekmez?",
+      "options": [
+        "A) Halka açık olmayan ortaklıkların ortaklarının mevcut paylarının veya bu ortaklıklarca sermaye artırımı yoluyla çıkarılacak payların halka arz edilmeksizin satışı",
+        "B) Halka açık olmayan ortaklıkların ortaklarının mevcut paylarının veya bu ortaklıklarca sermaye artırımı suretiyle çıkarılacak payların halka arzı",
+        "C) Halka açık ortaklıkların ortaklarının mevcut paylarının veya bu ortaklıklarca sermaye artırımı suretiyle çıkarılacak payların halka arzı,",
+        "D) Halka açık ortaklıkların şarta bağlı sermaye artırımı",
+        "E) Halka açık ortaklıkların sermaye azaltımı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca aşağıdakilerden işlemlerden hangisi için Sermaye Piyasası Kurulu’na başvurmak gerekmez?",
+      "options": [
+        "A) Halka açık ortaklıkların sermaye artırımı suretiyle çıkarılacak paylarının halka arz edilmeksizin satışı",
+        "B) Pay sahibi sayısının 250’yi aşması nedeniyle payları halka arz olunmuş sayılan ortaklıkların halka açık ortaklık statüsüne kavuştuğunun Kurulca onaylanması",
+        "C) Payları borsada işlem görmeyen halka açık ortaklıkların paylarının borsada işlem görmesi,",
+        "D) GİP’te işlem görecek ortaklıkların sermaye artırımı suretiyle çıkarılacak paylarının halka arzı",
+        "E) Halka açık ortaklıkların kar payından ve iç kaynaklardan karşılanacak sermaye artırımı ve pay benzeri menkul kıymetlerin ihraç edilmesi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası araçlarının halka arzına en erken, izahnamenin ve fiyat tespit raporunun yayımlanmasını takip eden kaçıncı gün başlanabilir?",
+      "options": [
+        "A) Üçüncü gün",
+        "B) Yedinci gün",
+        "C) Onuncu gün",
+        "D) On beşinci gün",
+        "E) Yirminci gün"
+      ],
+      "answer": 0
+    }
+  ],
+  "Çalışma Soruları (A.Ş Mevzuatı)": [
+    {
+      "q": "Sermaye piyasası mevzuatınca aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Ortaklıkların sermaye piyasası araçlarının ilk halka arzında mevcut tüm imtiyazların şeffaf ve anlaşılır detayda kamuya duyurulması zorunludur.",
+        "B) Kurulun belirlediği esaslar çerçevesinde, faaliyetlerinin makul ve zorunlu kıldığı hâller saklı kalmak kaydıyla, mevzuata uygun olarak hazırlanmış finansal tablolarına göre üst üste beş yıl dönem zararı eden halka açık ortaklıklarda, oy hakkına ve yönetim kurulunda temsil edilmeye ilişkin imtiyazlar Kurul kararı ile kalkar.",
+        "C) Önceki dönemde ödenen kâr payı avansları mahsup edilmeden ilave kâr payı avansı verilmesine ve kâr payı dağıtılmasına karar verilebilir.",
+        "D) Halka açık ortaklıklar, kendi paylarını, Kurul tarafından belirlenen şartlar çerçevesinde satın alabilir ve rehin olarak kabul edebilirler.",
+        "E) Halka açık ortaklıklar ve kolektif yatırım kuruluşları, ilişkili taraf işlemlerinin emsallerine, piyasa teamüllerine, ticari hayatın basiret ve dürüstlük ilkelerine uygun şartlarda gerçekleştirilmiş olduğunu belgelemek ve bu durumu tevsik edici bilgi ve belgeleri en az sekiz yıl süre ile saklamak zorundadırlar."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları ile bunların iştirak ve bağlı ortaklıklarının; yönetim, denetim veya sermaye bakımından doğrudan veya dolaylı olarak ilişkide bulundukları gerçek veya tüzel kişiler ile emsallerine uygunluk, piyasa teamülleri, ticari hayatın basiret ve dürüstlük ilkelerine aykırı olarak farklı fiyat, ücret, bedel veya şartlar içeren anlaşmalar veya ticari uygulamalar yapmak veya işlem hacmi üretmek gibi işlemlerde bulunmak suretiyle kârlarını veya malvarlıklarını azaltarak veya kârlarının veya malvarlıklarının artmasını engelleyerek kazanç aktarımında bulunmaları Sermaye Piyasası Kanunu’na göre hangi durumun ihlalini oluşturur?",
+      "options": [
+        "A) Örtülü kazanç aktarımı yasağı",
+        "B) Vergi kaçırma",
+        "C) Bilanço denkleştirme",
+        "D) Payları satın alma ve rehin alma",
+        "E) Önemli nitelikteki işlemler"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Önemli nitelikteki işlemlere dair sermaye piyasası mevzuatınca aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Önemli nitelikteki işlemlere ilişkin genel kurul toplantısına katılıp da olumsuz oy kullanan ve muhalefet şerhini toplantı tutanağına işleten pay sahipleri, paylarını halka açık ortaklığa satarak ayrılma hakkına sahiptir.",
+        "B) Halka açık ortaklık bu payları pay sahibinin talebi üzerine, söz konusu önemli nitelikteki işlemin kamuya açıklandığı tarihten önceki otuz gün içinde borsada oluşan ağırlıklı ortalama fiyatların ortalamasından satın almakla yükümlüdür.",
+        "C) Önemli nitelikteki işlemlere ilişkin genel kurul toplantısına katılmasına haksız bir biçimde engel olunan ortaklar ayrılma hakkına sahiptir.",
+        "D) Genel kurul toplantısının gündeminde, bu kararlara muhalefet oyu kullanacak pay sahiplerinin ortaklıktan ayrılma hakkının bulunduğu hususu ile bu hakkın kullanılması durumunda payların ortaklık tarafından satın alınacağı bedel yer alır.",
+        "E) Ayrılma hakkının doğmadığı hâller ile bu hakkın kullanımına ve payları borsada işlem görmeyen ortaklıklarda satım fiyatının hesaplanmasına ilişkin usul ve esaslar BDDK tarafından belirlenir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi ortaklıkların önemli nitelikteki işlemlerinden biri değildir?",
+      "options": [
+        "A) Birleşme, bölünme işlemlerine taraf olması, tür değiştirme veya sona erme kararı alması",
+        "B) Mal varlığının tümünü veya önemli bir bölümünü devretmesi veya üzerinde bir ayni hak tesis etmesi veya kiralaması",
+        "C) Faaliyet konusunu tümüyle veya önemli ölçüde değiştirmesi",
+        "D) İmtiyaz öngörmesi veya mevcut imtiyazların kapsam veya konusunu değiştirmesi",
+        "E) Borsa kotuna alınması"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "I- Halka açık ortaklıklarda, gönüllü ya da önemli nitelikteki işlemler nedeniyle zorunlu pay alım teklifi yapılması ile ilgili usul ve esaslar Kurulca belirlenir.\nII-Halka açık ortaklıklarda yönetim kontrolünü sağlayan payların veya oy haklarının iktisap edilmesi hâlinde diğer ortakların paylarını satın almak üzere teklif yapılması zorunludur.\nIII-Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak sahip olunması, yönetim kurulu üye sayısının salt çoğunluğunu seçme veya genel kurulda söz konusu sayıdaki üyelikler için aday gösterme hakkını veren imtiyazlı paylara sahip olunması, yönetim kontrolünün elde edilmesi olarak kabul edilir.\n\nYukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız IV",
+        "C) I ve II",
+        "D) I, II ve III",
+        "E) I ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye Piyasası Mevzuatı’na göre, ortaklıktan çıkarma hakkı ve satma hakkına dair aşağıdaki ifadelerden hangisi doğru değildir?",
+      "options": [
+        "A) Pay alım teklifi sonucunda veya birlikte hareket etmek de dâhil olmak üzere başka bir şekilde sahip olunan payların halka açık ortaklığın oy haklarının Kurulca belirlenen orana veya daha fazlasına ulaşması durumunda, paya sahip olan bu kişiler açısından azınlıkta kalan pay sahiplerini ortaklıktan çıkarma hakkı doğar.",
+        "B) Ortaklıktan çıkarma hakkı doğanlar, Kurulca belirlenen süre içinde, azınlıkta kalan ortakların paylarının iptalini ve bunlar karşılığı çıkarılacak yeni payların kendilerine satılmasını ortaklıktan talep edebilirler.",
+        "C) Ortaklıktan çıkarma hakkının doğduğu durumlarda, azınlıkta kalan pay sahipleri açısından satın alma hakkı doğar.",
+        "D) Satma hakkı doğan pay sahipleri Kurulca belirlenen süre içinde, paylarının adil bir bedel karşılığında satın alınmasını oy haklarının Kurulca belirlenen orana veya daha fazlasına sahip olan gerçek veya tüzel kişilerden ve bunlarla birlikte hareket edenlerden talep edebilirler.",
+        "E) Ortaklıktan çıkarma hakkı ve satma hakkına ilişkin usul ve esaslar Sermaye Piyasası Kurulu’nca belirlenir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatına göre ortaklıkların genel kurul toplantısına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Halka açık ortaklıklar genel kurullarını, toplantıya, esas sözleşmede gösterilen şekilde, ortaklığın internet sitesi ve Kamuyu Aydınlatma Platformu ile Kurulca belirlenen diğer yerlerde yayımlanan ilanla çağırmak zorundadırlar.",
+        "B) Genel Kurul çağrısı, ilan ve toplantı günleri hariç olmak üzere, toplantı tarihinden en az üç hafta önce yapılır.",
+        "C) Halka açık ortaklıkların genel kurullarında gündeme bağlılık ilkesine uyulmaksızın Kurulun görüşülmesini veya ortaklara duyurulmasını istediği hususların genel kurul gündemine alınması zorunludur.",
+        "D) Halka açık ortaklıklarda yeni pay alma haklarının kısıtlanmasına, kayıtlı sermaye sisteminde yönetim kuruluna yeni pay alma haklarını kısıtlama yetkisinin verilmesine, sermaye azaltımına ve önemli nitelikteki işlemlere ilişkin kararların genel kurulca kabul edilebilmesi için, esas sözleşmelerinde açıkça oran belirtilmek suretiyle daha ağır nisaplar öngörülmediği takdirde, toplantı nisabı aranmaksızın, ortaklık genel kuruluna katılan oy hakkını haiz payların dörtte üçünün olumlu oy vermesi şartı aranır.",
+        "E) Genel Kurul toplantısında sermayeyi temsil eden oy hakkını haiz payların en az yarısının hazır bulunması hâlinde, esas sözleşmede açıkça daha ağır nisaplar öngörülmedikçe, toplantıya katılan oy hakkını haiz payların çoğunluğu ile karar alınır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası mevzuatına göre ortaklıkların genel kurul toplantısına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Halka açık ortaklık genel kuruluna katılma ve oy kullanma hakkı, pay sahibinin paylarını herhangi bir kuruluş nezdinde depo etmesi şartına bağlıdır.",
+        "B) Payları kayden izlenen halka açık ortaklıkların genel kurul toplantılarına, yönetim kurulu tarafından MKK’dan sağlanan pay sahipleri listesi dikkate alınarak oluşturulan hazır bulunanlar listesinde adı yer alan pay sahipleri katılabilir.",
+        "C) Payları kayden izlenmeyen halka açık ortaklıkların genel kurul toplantılarına katılma hakkı olan pay sahiplerinin tespitinde, 6102 sayılı Kanun hükümleri uygulanır.",
+        "D) Halka açık ortaklıkların genel kurullarında oy kullanma hakkına sahip olanlar, bu haklarını vekil tayin ettikleri kişiler aracılığıyla da kullanabilirler.",
+        "E) Payları kayden izlenen anonim ortaklık genel kurullarına elektronik ortamda katılım, MKK tarafından sağlanan elektronik ortam üzerinden gerçekleştirilir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Ortaklıklar, sermaye piyasası araçlarının herhangi bir şekilde halka satıldığını veya halka açık ortaklık statüsünün kazanıldığını öğrendikleri tarihten itibaren kaç gün içinde Sermaye Piyasası Kurulu’na bildirmek zorundadırlar?",
+      "options": [
+        "A) 5 gün",
+        "B) 10 gün",
+        "C) 15 gün",
+        "D) 20 gün",
+        "E) 30 gün"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi halka açık ortaklıklara tanınan haklarından biri değildir?",
+      "options": [
+        "A) Genel kurul kararı gerektirmeden sermaye artırımı yapılmasını sağlayan kayıtlı sermaye sistemi",
+        "B) Türk Ticaret Kanunu’ndaki limitlerin üzerinde tahvil ihraç limiti",
+        "C) Genel Kurullarında birikimli oy kullanımı",
+        "D) Temettü avansı dağıtma imkânı",
+        "E) Mali tablolarını bağımsız denetime tabi tutma"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi halka açık ortaklıkların yükümlülüklerinden biri değildir?",
+      "options": [
+        "A) Kurulca belirlenen oranda kar payı dağıtma,",
+        "B) Mali tablolarını bağımsız denetime tabi tutma,",
+        "C) Mali tablolarını Kurulca belirlenen muhasebe standartlarına göre hazırlama ve ilan etme,",
+        "D) Kurulca belirlenen özel durumların gerçekleşmesi halinde kamuya bilgi verme,",
+        "E) Temettü avansı dağıtma imkânı"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kayıtlı sermaye sistemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kayıtlı sermayeli anonim ortaklıkların sahip olmaları zorunlu olan asgari çıkarılmış sermayelerine başlangıç sermayesi denir.",
+        "B) Çıkarılmış sermaye kayıtlı sermayeli anonim ortaklıkların satışı yapılmış paylarını temsil eden sermayelerini temsil eder.",
+        "C) Kayıtlı sermaye tavanı, ortaklıkların, esas sözleşmelerinde hüküm bulunmak kaydıyla, yönetim kurulu kararı ile 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun esas sermayenin artırılmasına dair hükümlerine tabi olmaksızın pay çıkarabilecekleri azami miktarı gösteren, ticaret sicilinde tescil ve ilan edilmiş sermayelerine denir.",
+        "D) Ortaklıklar Sermaye Piyasası Kurulu’ndan izin almak şartıyla kayıtlı sermaye sistemini kabul edebilir.",
+        "E) Kayıtlı sermaye sistemine geçecek ortaklıkların başlangıç sermayeleri 500.000 TL’den az olamaz."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kayıtlı sermaye sistemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurulca beş yıl süreyle geçerli olmak üzere izin verilecek kayıtlı sermaye tavanı, ortaklıkların ödenmiş/çıkarılmış sermayesi veya özsermayesinden yüksek olanının beş katını aşamaz.",
+        "B) Kayıtlı sermaye tavanına ilişkin üst limitin belirlenmesinde, Kurul düzenlemelerine uygun olarak hazırlanmış, bağımsız denetimden/sınırlı incelemeden geçmiş başvuru tarihine en yakın finansal tablolar esas alınır.",
+        "C) Ortaklıkların konsolide finansal tablolarının bulunması durumunda, kayıtlı sermaye tavanına ilişkin üst limitin belirlenmesinde solo finansal tablolardaki ana ortaklığa ait özsermaye toplamı esas alınır.",
+        "D) Kayıtlı sermaye tavanına ilişkin üst limitin belirlenmesinde esas alınacak finansal tablolara ilişkin dönem sonu tarihinden sonra ödenmiş/çıkarılmış sermayenin artırılması durumunda, kayıtlı sermaye tavanının hesaplanmasında ortaklığın güncel ödenmiş/çıkarılmış sermayesi esas alınır.",
+        "E) Başvuru tarihinden önceki bir yıl içerisinde bağımsız denetimden/sınırlı incelemeden geçmiş finansal tabloların mevcut olmaması veya başvuru tarihinden sonra da Kurula ibraz edilmemiş olması halinde, kayıtlı sermaye tavanına ilişkin üst limitin belirlenmesinde ortaklığın ödenmiş/çıkarılmış sermayesi esas alınır."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kayıtlı sermaye sistemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kayıtlı sermaye sisteminde, yönetim kurulu, TTK’nın esas sermayenin artırılmasına ilişkin hükümlerine bağlı kalmaksızın esas sözleşmede tespit edilen kayıtlı sermaye tavanına kadar sermayeyi artırmaya yetkilidir.",
+        "B) Kurulca izin verilen kayıtlı sermaye tavanı, iznin verildiği yıl da dâhil olmak üzere yedi yıllık süre için geçerlidir.",
+        "C) Ortaklıkların belirlenen kayıtlı sermaye tavanına ulaşılmadan yeni tavan tespiti ile kayıtlı sermaye tavanına ulaşılması nedeniyle daha yüksek yeni bir kayıtlı sermaye tavanı tespiti Kurul iznine tâbidir.",
+        "D) Kayıtlı sermaye sisteminde, çıkarılan paylar tamamen satılarak bedelleri ödenmedikçe veya satılamayan paylar iptal edilmedikçe yeni pay çıkarılamaz.",
+        "E) Her tür iç kaynak ile kar payının sermayeye ilave edilmesi suretiyle ve birleşme, bölünme ve benzeri genel kurul kararı gerektiren işlemler neticesinde, her bir tavan kapsamında bir defaya mahsus olmak üzere kayıtlı sermaye tavanı aşılabilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kayıtlı sermaye sistemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Nakden yapılacak sermaye artırımları ile kayıtlı sermaye tavanı aşılamaz.",
+        "B) Kayıtlı sermaye sisteminde bulunan ortaklıklar tarafından paya dönüştürülebilir tahvil veya paya dönüştürülebilir bir türev araç çıkarılması hâlinde, değiştirme veya dönüştürme sonucunda verilecek paylar ile ortaklığın çıkarılmış sermayesinin toplamı kayıtlı sermaye tavanını aşamaz.",
+        "C) Ortaklıkların kayıtlı sermaye tavanı dâhilindeki sermaye artırımlarında imtiyazlı pay sahipleri özel kurulu kararı da alınması gerekir.",
+        "D) Kayıtlı sermaye sistemini amacı dışında, ortakların ve diğer tasarruf sahiplerinin istismarına yol açacak şekilde kullandığı anlaşılan ve bu sisteme geçişte aranan diğer nitelikleri yitiren ortaklıklar, Kurul tarafından sistemden çıkartılabilir.",
+        "E) Ortaklıklar Kuruldan izin almak suretiyle kayıtlı sermaye sisteminden çıkabilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- İmtiyazlı veya nominal değerinin üzerinde pay çıkarılması\nII- İmtiyazlı veya nominal değerinin altında pay çıkarılması\nIII-Pay sahiplerinin yeni pay alma haklarının sınırlandırılması\nIV-imtiyazlı pay sahiplerinin haklarını kısıtlayıcı nitelikte karar alınması\n\nKayıtlı sermaye sistemine geçmiş bir ortaklıkta esas sözleşmede açık hüküm olması şartı ile yukarıdaki yetkilerden hangisi tanınabilir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) I, II ve III",
+        "D) I, II, III ve IV",
+        "E) II ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye Piyasası Mevzuatı “Önemli Nitelikteki İşlemlere İlişkin Esaslar ve Ayrılma Hakkı Tebliği”ne göre aşağıdakilerden hangisi önemli nitelikteki işlemlerden biri değildir?",
+      "options": [
+        "A) Birleşme, bölünme işlemlerine taraf olması",
+        "B) Önemli miktarda mal satışı yapılması",
+        "C) Tür değiştirme veya sona erme kararı alması",
+        "D) Mal varlığının tümünü veya önemli bir bölümünü devretmesi veya kiraya vermesi veya mal varlığının tümü veya önemli bir bölümü üzerinde ayni hak tesis etmesi",
+        "E) Faaliyet konusunu tümüyle veya önemli ölçüde değiştirmesi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye Piyasası Mevzuatı “Önemli Nitelikteki İşlemlere İlişkin Esaslar ve Ayrılma Hakkı Tebliği”ne göre aşağıdakilerden hangisi önemli nitelikteki işlemlerden biri değildir?",
+      "options": [
+        "A) İmtiyaz öngörmesi veya mevcut imtiyazların kapsam veya konusunu değiştirmesi",
+        "B) Borsa kotundan çıkma kararı alması",
+        "C) İlişkili taraflarından önemli ölçüde mal varlığı edinmesi veya kiralaması,",
+        "D) Yapmayı planladıkları bedelli sermaye artırımlarında ortaya çıkan nakit sermaye koyma borcunun, ortaklığa nakit dışındaki varlık devrinden kaynaklanan borçlara mahsup edilmek suretiyle yerine getirilmesi",
+        "E) Yapmayı planladıkları bedelli sermaye artırımlarında, sermaye artırımından elde edilecek fonun ortaklığın mevcut sermayesini aşmaması"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "I- Önemli nitelikteki işlemlere ilişkin gerekçeli yönetim kurulu kararı, bağımsız yönetim kurulu üyelerinin oyu da belirtilerek, Kurulun özel durumlara ilişkin düzenlemeleri çerçevesinde ayrılma hakkı kullanım fiyatı ile birlikte kamuya açıklanır.\nII- Ortaklıkların önemli nitelikteki işlemleri yönetim kurulu onayına sunulur.\nIII-Önemli nitelikteki işlemlere ilişkin kararların genel kurulca alınabilmesi için, esas sözleşmelerinde açıkça oran belirtilmek suretiyle daha ağır nisaplar öngörülmediği takdirde, toplantı nisabı aranmaksızın, ortaklık genel kuruluna katılan oy hakkını haiz payların üçte ikisinin olumlu oy vermesi şartı aranır.\n\nSermaye piyasası mevzuatınca “Önemli Nitelikteki İşlemlere İlişkin Esaslar ve Ayrılma Hakkı Tebliği”ne göre yukarıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I, II ve III"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kâr payı ve bedelsiz pay dağıtımı ile bağış yapılmasına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Halka açık ortaklıklar, kârlarını genel kurulları tarafından belirlenecek kâr dağıtım politikaları çerçevesinde ve ilgili mevzuat hükümlerine uygun olarak dağıtırlar.",
+        "B) Kanunen ayrılması gereken yedek akçeler ve esas sözleşmede pay sahipleri için belirlenen kâr payı ayrılmadıkça başka yedek akçe ayrılmasına, ertesi yıla kâr aktarılmasına karar verilebilir.",
+        "C) Halka açık ortaklıklarda kâr payı, dağıtım tarihi itibarıyla mevcut payların tümüne, bunların ihraç ve iktisap tarihleri dikkate alınmaksızın eşit olarak dağıtılır.",
+        "D) Halka açık ortaklıkların sermaye artırımlarında, bedelsiz paylar artırım tarihindeki mevcut paylara dağıtılır.",
+        "E) Halka açık ortaklıklar tarafından bağış yapılabilmesi veya pay sahibi dışındaki kişilere kârdan pay dağıtılabilmesi için esas sözleşmede hüküm bulunması şarttır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kâr payı ve bedelsiz pay dağıtımı ile bağış yapılmasına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Ortaklıklarda kâr payının, dağıtım tarihi itibarıyla mevcut payların tümüne, bunların ihraç ve iktisap tarihleri dikkate alınmaksızın payları oranında eşit olarak dağıtılır.",
+        "B) Bir hesap döneminde verilecek toplam kâr payı avansı bir önceki yıla ait dönem kârının yarısını aşamaz.",
+        "C) Önceki dönemde ödenen kâr payı avansları mahsup edilmeden ilave kâr payı avansı verilmesine ve kâr payı dağıtılmasına karar verilebilir.",
+        "D) Yapılacak bağışın sınırı halka açık ortaklık genel kurulunca belirlenir.",
+        "E) Ortaklıkların ilgili mali yıl içinde yapmış olduğu bağışlar, dağıtılabilir kâr matrahına eklenir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca bağış yapılmasına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Ortaklıklar tarafından bağış yapılabilmesi için esas sözleşmede hüküm bulunması zorunludur.",
+        "B) Bir hesap döneminde verilecek toplam kâr payı avansı bir önceki yıla ait dönem kârının yarısını aşamaz.",
+        "C) Önceki dönemde ödenen kâr payı avansları mahsup edilmeden ilave kâr payı avansı verilmesine ve kâr payı dağıtılmasına karar verilemez.",
+        "D) Yapılacak bağışın sınırı halka açık ortaklık genel kurulunca belirlenir.",
+        "E) Payları borsada işlem görmeyen halka açık ortaklıklarda bağışlar eklenmiş net dağıtılabilir dönem kârının yüzde kırkından az olamayacak şekilde kâr payını tam ve nakden dağıtmaları zorunludur."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Esas sözleşmede imtiyazlı pay sahiplerine, intifa senedi sahiplerine, yönetim kurulu üyelerine, ortaklık çalışanlarına, pay sahibi dışındaki kişilere kârdan pay verilebilmesi hususunda hüküm bulunmasına rağmen, kâr payına ilişkin olarak herhangi bir oran belirlenmemişse; bu kişilere dağıtılacak kâr payı tutarı, her durumda pay sahiplerine dağıtılan kâr payının ………………… aşamaz.\n\nYukarıdaki boşluğa aşağıdaki ifadelerden hangisi gelmelidir?",
+      "options": [
+        "A) dörtte birini",
+        "B) beşte birini",
+        "C) altıda birini",
+        "D) sekizde birini",
+        "E) onda birini"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası Kâr Payı Tebliği’ne göre ortaklıklar tarafından net dağıtılabilir dönem kârının en az % 25’i oranında nakit kâr payı dağıtımına karar verilmesi durumunda, dağıtıma ilişkin genel kurul kararının alınmasından itibaren bir yıl içinde gerçekleştirilecek pay ihraçlarında, Sermaye Piyasası Kurulu kayıt ücretlerinde ne kadar indirim uygulaması düzenlenmiştir?",
+      "options": [
+        "A) % 15",
+        "B) % 25",
+        "C) % 35",
+        "D) % 45",
+        "E) % 55"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kâr payına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Ortaklıklar, kârlarını genel kurulları tarafından belirlenecek kâr dağıtım politikaları çerçevesinde ve ilgili mevzuat hükümlerine uygun olarak genel kurul kararıyla dağıtır.",
+        "B) Ortaklıkların kâr dağıtım politikalarına ilişkin olarak Kurul tarafından benzer nitelikteki ortaklıklar bazında farklı esaslar belirlenemez.",
+        "C) Kâr dağıtım politikasında değişiklik yapılmak istenmesi durumunda, bu değişikliğe ilişkin yönetim kurulu kararı ve değişikliğin gerekçesi, Kurulun özel durumların kamuya açıklanmasına ilişkin düzenlemeleri çerçevesinde kamuya duyurulur.",
+        "D) Ortaklıklarda kâr payı, dağıtım tarihi itibarıyla mevcut payların tümüne, bunların ihraç ve iktisap tarihleri dikkate alınmaksızın payları oranında eşit olarak dağıtılır.",
+        "E) Kâr payı, dağıtımına karar verilen genel kurul toplantısında karara bağlanmak şartıyla eşit veya farklı tutarlı taksitlerle ödenebilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Kâr payı dağıtılıp dağıtılmayacağı, dağıtılacak ise ortaklar ve kâra katılan diğer kişiler için belirlenen kâr payı dağıtım oranı.\nII-Kâr payının ödenme şekli.\nIII-Kâr payı dağıtım işlemlerine en geç dağıtım kararı verilen genel kurul toplantısının yapıldığı hesap dönemi sonu itibarıyla başlanması şartıyla, kâr payının ödenme zamanı.\nIV-Kâr payı avansı dağıtılıp dağıtılmayacağı, dağıtılacak ise buna ilişkin esaslar.\n\nSermaye piyasası mevzuatına göre ortaklıkların kâr dağıtım politikalarında asgari olarak yukarıdaki hususlardan hangilerine yer verilmesi gerekir?",
+      "options": [
+        "A) I ve II",
+        "B) I ve III",
+        "C) III ve IV",
+        "D) I, II ve IV",
+        "E) I, II, III ve IV"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye piyasası mevzuatına göre kâr payının taksitle ödenmesine ilişkin aşağıdaki ifadelerden hangisi doğru değildir?",
+      "options": [
+        "A) Kâr payı, dağıtımına karar verilen genel kurul toplantısında karara bağlanmak şartıyla eşit veya farklı tutarlı taksitlerle ödenebilir.",
+        "B) Taksit sayısı genel kurul tarafından veya genel kurul tarafından açıkça yetkilendirilmesi şartıyla yönetim kurulu tarafından belirlenir.",
+        "C) Taksit ödeme zamanlarının genel kurul kararıyla belirlenmediği durumlarda; yönetim kurulu kararıyla belirlenecek ödeme zamanları, genel kurulu takip eden on beş gün içinde Kurulun özel durumların kamuya açıklanmasına ilişkin düzenlemeleri çerçevesinde ortaklık tarafından kamuya duyurulur.",
+        "D) Taksit ödemeleri, ödeme tarihi itibarıyla mevcut payların tümüne, bunların ihraç ve iktisap tarihleri dikkate alınarak dağıtılır.",
+        "E) Genel kurul tarafından pay sahibi dışındaki kişilere dağıtılmasına karar verilen kâr payı tutarı, pay sahiplerine yapılacak taksit ödemeleri ile orantılı olarak ve aynı usul ve esaslar çerçevesinde ödenir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca bağış yapılmasına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Ortaklıklar tarafından bağış yapılabilmesi için esas sözleşmede hüküm bulunması zorunludur.",
+        "B) Yapılacak bağışın sınırı, esas sözleşmede belirtilmeyen durumlarda genel kurulca belirlenir.",
+        "C) Sermaye Piyasası Kurulu, bağış tutarına üst sınır getirmeye yetkilidir.",
+        "D) Ortaklıkların ilgili hesap dönemi içinde yapmış olduğu bağışlar dağıtılabilir kâr matrahına eklenir.",
+        "E) Bir hesap döneminde verilecek toplam kâr payı avansı bir önceki yıla ait dönem kârının üçte birini aşamaz."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Payları borsada işlem görmeyen ortaklıkların kâr payı dağıtımına dair aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Payları borsada işlem görmeyen ortaklıklar için kâr payı dağıtım oranı, bağışlar eklenmiş net dağıtılabilir dönem kârının yüzde yirmisinden az olamaz.",
+        "B) Payları borsada işlem görmeyen ortaklıkların kâr payını tam ve nakden dağıtmaları zorunludur.",
+        "C) Kâr payı ödemeleri kâr payı kuponunun ortaklığa ibrazı karşılığında yapılır.",
+        "D) Bu ortaklıklar, taksitle kâr dağıtımı uygulamasından yararlanabilirler.",
+        "E) Bu ortaklıklar, hesaplanan kâr payı tutarının genel kurula sunulacak son yıllık finansal tablolara göre sermayenin yüzde beşinden daha düşük olması veya söz konusu finansal tablolara göre net dağıtılabilir dönem kârının 100.000 TL’nin altında olması durumunda, ilgili hesap dönemi için kâr payı dağıtmayabilir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kâr payına dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Payları borsada işlem görmeyen ortaklıkların kâr payını hisse senedi olarak dağıtabilir.",
+        "B) Payları borsada işlem gören ortaklıkların kâr dağıtımına ilişkin yönetim kurulu önerisi veya kâr payı avansı dağıtımına ilişkin yönetim kurulu kararı, şekli ve içeriği Kurulca belirlenen kâr dağıtım tablosu veya kâr payı avansı dağıtım tablosu ile birlikte Kurulun özel durumların kamuya açıklanmasına ilişkin düzenlemeleri çerçevesinde kamuya duyurulur.",
+        "C) Kâr dağıtım tablosunun en geç olağan genel kurul gündeminin ilan edildiği tarihte kamuya açıklanması zorunludur.",
+        "D) Payları borsada işlem görmeyen ortaklıkların kâr dağıtımına ilişkin yönetim kurulu önerisi, şekli ve içeriği Kurulca belirlenen kâr dağıtım tablosu ile birlikte en geç olağan genel kurul gündeminin ilan edildiği tarihte, Kurulun özel durumların kamuya açıklanmasına ilişkin düzenlemeleri çerçevesinde kamuya duyurulur.",
+        "E) Kâr dağıtım tablosu ortaklık merkezinde pay sahiplerinin incelemesine açık tutulur."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kâr payı avansına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Payları borsada işlem gören ortaklıklar, ara dönem finansal tablolarında yer alan kârları üzerinden nakden kâr payı avansı dağıtabilir.",
+        "B) Belirli bir ara döneme ilişkin kâr payı avansı taksitle dağıtılabilir.",
+        "C) Kâr payı avansı dağıtmak isteyen ortaklıkların esas sözleşmelerinde hüküm bulunması ve genel kurul kararıyla ilgili hesap dönemi ile sınırlı olacak şekilde yönetim kuruluna kâr payı avansı dağıtımına karar vermek üzere yetki vermeleri zorunludur.",
+        "D) Kâr payı avansı dağıtma kararı alınan genel kurul toplantısında, ilgili hesap dönemi sonunda yeterli kâr oluşmaması veya zarar oluşması durumlarında, dağıtılacak kâr payı avansının söz konusu hesap dönemine ilişkin yıllık finansal durum tablosunda yer alan kâr dağıtımına konu edilebilecek kaynaklardan mahsup edileceği hususunun da karara bağlanması gereklidir.",
+        "E) Yönetim kuruluna genel kurul tarafından kâr payı avansı dağıtımı için yetki verildiğinde; yönetim kurulu tarafından kâr payı avansı dağıtma veya dağıtmama konusunda bir karar alınması ve bu kararın en geç ara dönem finansal tabloların kamuya açıklandığı tarih itibarıyla Kurulun özel durumların kamuya açıklanmasına ilişkin düzenlemeleri çerçevesinde ortaklık tarafından kamuya duyurulması zorunludur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kâr payı avansına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Payları borsada işlem gören ortaklıklar, ara dönem finansal tablolarında yer alan kârları üzerinden nakden kâr payı avansı dağıtabilir.",
+        "B) Belirli bir ara döneme ilişkin kâr payı avansı taksitle dağıtılamaz.",
+        "C) Ortaklıklarda kâr payı avansı, dağıtım tarihi itibarıyla mevcut payların tümüne, bunların ihraç ve iktisap tarihleri dikkate alınmaksızın payları oranında eşit olarak dağıtılır.",
+        "D) Pay sahibi dışındaki kişilere kâr payı avansı dağıtılabilir.",
+        "E) Kâr payı avansı, imtiyazlı paylara imtiyaz dikkate alınmadan ödenir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kâr payı avansına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Dağıtılacak kâr payı avansı, ara dönem finansal tablolara göre oluşan net dönem kârından TTK’ya ve esas sözleşmeye göre ayrılması gereken yedek akçeler ile geçmiş yıllar zararları düşüldükten sonra kalan kısmın yarısını geçemez.",
+        "B) Bir hesap döneminde verilecek toplam kâr payı avansı tutarı; bir önceki yıla ait net dönem kârının yarısından, ilgili ara dönem finansal tablolarında yer alan net dönem kârı hariç kâr dağıtımına konu edilebilecek diğer kaynaklardan düşük olanı aşamaz.",
+        "C) Aynı hesap dönemi içinde birden fazla sayıda kâr payı avansı ödemesi yapıldığı takdirde; sonraki ara dönemlerde ödenecek kâr payı avansları hesaplanırken, önceki ara dönemlerde ödenen kâr payı avansları hesaplanan tutardan indirilir.",
+        "D) Önceki hesap dönemlerinde ödenen kâr payı avansları mahsup edilmeden, sonraki hesap dönemlerinde ilave kâr payı avansı verilebilir ve kâr payı dağıtılabilir.",
+        "E) Ortaklıkların geçmiş yıllar zararlarının; geçmiş yıllar kârları, paylara ilişkin primler dahil genel kanuni yedek akçe, sermaye hariç özkaynak kalemlerinin enflasyon muhasebesine göre düzeltilmesinden kaynaklanan tutarların toplamını aşan kısmı, net dağıtılabilir dönem kârının hesaplanmasında indirim kalemi olarak dikkate alınır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Tahsil edilmeyen kâr payı bedellerinin zaman aşımı ne kadardır?",
+      "options": [
+        "A) 5 yıl",
+        "B) 7 yıl",
+        "C) 8 yıl",
+        "D) 10 yıl",
+        "E) 15 yıl"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Tasarruf sahiplerinden katılma payı karşılığında toplanan para ya da diğer varlıklarla, tasarruf sahipleri hesabına, inançlı mülkiyet esaslarına göre, sermaye piyasası araçları ve işlemlerden oluşan portföy veya portföyleri işletmek amacıyla portföy yönetim şirketleri tarafından içtüzük ile kurulan ve tüzel kişiliği bulunmayan mal varlığına ne denir?",
+      "options": [
+        "A) Yatırım fonu",
+        "B) Yatırım ortaklığı",
+        "C) Menkul kıymet yatırım ortaklığı",
+        "D) Anonim ortaklık",
+        "E) Ortak girişim"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Fon toplam değerinin en az %80’i devamlı olarak; Yerli ve/veya yabancı kamu ve/veya özel sektör borçlanma araçlarına yatırılan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Borçlanma araçları şemsiye fonu",
+        "B) Hisse senedi şemsiye fonu",
+        "C) Kıymetli madenler şemsiye fonu",
+        "D) Fon sepeti şemsiye fonu",
+        "E) Para piyasası şemsiye fonu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Katılma payları sadece nitelikli yatırımcılara satılmak üzere kurulmuş olan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Koruma amaçlı şemsiye fonu",
+        "B) Para piyasası şemsiye fonu",
+        "C) Serbest şemsiye fon",
+        "D) Değişken şemsiye fon",
+        "E) Fon sepeti fonu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bölünen şirketin malvarlığının tümünün mevcut veya yeni kurulacak en az iki şirkete geçmesini, bölünen şirketin sona ermesini ve ortaklarının devralan şirketlerin ortağı olmasını şeklinde gerçekleşen bölünme işlemine ne denir?",
+      "options": [
+        "A) Devralma şeklinde bölünme",
+        "B) Yeni kuruluş şeklinde bölünme",
+        "C) Tam bölünme",
+        "D) Kısmi bölünme",
+        "E) İştirak modeliyle kısmi bölünme"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Bir şirketin malvarlığının bir veya birden fazla bölümünün mevcut veya yeni kurulacak başka bir şirkete veya şirketlere devredildiği, bölünen şirket sona ermeksizin ortaklarının devredilen malvarlığı bölümlerinin karşılığında devralan şirket veya şirketlerin ortağı olduğu kısmi bölünme işlemi hangisidir?",
+      "options": [
+        "A) Devralma şeklinde bölünme",
+        "B) Yeni kuruluş şeklinde bölünme",
+        "C) Tam bölünme",
+        "D) Ortaklara pay devri modeliyle kısmi bölünme",
+        "E) İştirak modeliyle kısmi bölünme"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Bölünen şirketin, bölünmeye konu malvarlığının başka bir şirkete ayni sermaye olarak konulduğu ve devrin karşılığında bölünen şirketin devralan şirket sermayesinde pay sahibi olduğu kısmi bölünme şekli aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Devralma şeklinde bölünme",
+        "B) Yeni kuruluş şeklinde bölünme",
+        "C) Tam bölünme",
+        "D) Kısmi bölünme",
+        "E) İştirak modeliyle kısmi bölünme"
+      ],
+      "answer": 4
+    }
+  ],
+  "Çalışma Soruları (BİST)": [
+    {
+      "q": "Aşağıdakilerden hangisi Borsa İstanbul’daki piyasa türlerinden biri değildir?",
+      "options": [
+        "A) Tezgahüstü Piyasa",
+        "B) Pay Piyasası",
+        "C) Gelişen İşletmeler Piyasası",
+        "D) Borçlanma Araçları Piyasası",
+        "E) Vadeli İşlem ve Opsiyon Piyasası"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Borsa kotasyon şartlarını sağlayamayan, gelişme ve büyüme potansiyeline sahip şirketlerin menkul kıymetleri Borsa İstanbul’un hangi piyasasında işlem görebilir?",
+      "options": [
+        "A) Pay Piyasası",
+        "B) Gelişen İşletmeler Piyasası",
+        "C) Borçlanma Araçları Piyasası",
+        "D) Vadeli İşlem ve Opsiyon Piyasası",
+        "E) Kıymetli Madenler ve Taşlar Piyasası"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I-Sürekli Müzayede\nII-Piyasa Yapıcılı Sürekli Müzayede\nIII-Tek Fiyat\n\nBorsa İstanbul Pay Piyasası’nda yukarıdaki yöntemlerden hangileri kullanılmaktadır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) Hepsi",
+        "E) Hiçbiri"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Borsa İstanbul Pay Piyasası pazarlarından biri değildir?",
+      "options": [
+        "A) Gelişen İşletmeler Piyasası",
+        "B) Kurumsal Ürünler Pazarı",
+        "C) Kesin Alım Satım Pazarı",
+        "D) Gözaltı Pazarı",
+        "E) Serbest İşlem Platformu (SİP)"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Menkul kıymet yatırım ortaklıkları, gayrimenkul yatırım ortaklıkları ve girişim sermayesi yatırım ortaklıkları payları ile borsa yatırım fonları katılma belgeleri, aracı kuruluş varantları ve sertifikalar kot içi pazar niteliğindeki işlemler Borsa İstanbul’un hangi pazarında işlem görmektedir?",
+      "options": [
+        "A) Toptan Satışlar Pazarı",
+        "B) Kurumsal Ürünler Pazarı",
+        "C) Gelişen İşletmeler Pazarı",
+        "D) Gözaltı Pazarı",
+        "E) Serbest İşlem Platformu (SİP)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Borsa İstanbul Borçlanma Araçları Piyasası içinde biri değildir?",
+      "options": [
+        "A) Kesin Alım Satım Pazarı",
+        "B) Repo - Ters Repo Pazarı",
+        "C) Menkul Kıymet Tercihli Repo Pazarı",
+        "D) Nitelikli Yatırımcıya İhraç Pazarı",
+        "E) Özel Emir Pazarı ve Özel Emir İlan Pazarı"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Borsa İstanbul’da ikinci el sabit getirili menkul kıymet işlemleri nerede gerçekleşir?",
+      "options": [
+        "A) Kesin Alım Satım Pazarı",
+        "B) Bankalararası Repo - Ters Repo Pazarı",
+        "C) Menkul Kıymet Tercihli Repo Pazarı",
+        "D) Pay Senedi Repo Pazarı",
+        "E) Nitelikli Yatırımcıya İhraç Pazarı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Vadeli İşlem ve Opsiyon Borsası’nın ana pazarlarından biri değildir?",
+      "options": [
+        "A) Döviz Vadeli İşlem Ana Pazarı",
+        "B) Elektrik Vadeli İşlem Ana Pazarı",
+        "C) Emtia Vadeli İşlem Ana Pazarı",
+        "D) Endeks Opsiyon Ana Pazarı",
+        "E) Kıymetli Madenler ve Taşlar Piyasası"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Borsa İstanbul’da işlem gören sertifika çeşitlerinden biri değildir?",
+      "options": [
+        "A) Turbo sertifika",
+        "B) İskontolu sertifika",
+        "C) Prim ödeyen (bonus) sertifika",
+        "D) Endeks sertifikası",
+        "E) Mevduat sertifikası"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Borsa İstanbul’un borçlanma araçları piyasalarından biri değildir?",
+      "options": [
+        "A) Kesin Alım Satım Pazarı",
+        "B) Menkul Kıymet Tercihli Repo Pazarı",
+        "C) Toptan Satışlar Pazarı",
+        "D) Nitelikli Yatırımcıya İhraç Pazarı",
+        "E) Uluslararası Tahvil Pazarı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sahip olunmayan sermaye piyasası araçlarının satılmasını ya da satışına ilişkin emrin verilmesine ne denir?",
+      "options": [
+        "A) Açığa satış",
+        "B) Ödünç verme",
+        "C) Kredili satış",
+        "D) Repo",
+        "E) Ters Repo"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca sermaye piyasası araçlarının kredili alım, açığa satış ve ödünç alma ve verme işlemlerinde aracı kurumların bir müşteriye açacakları kredi tutarı, son üç aylık ortalama özsermaye tutarının yüzde kaçını aşamaz?",
+      "options": [
+        "A)%10",
+        "B)%20",
+        "C)%25",
+        "D)%30",
+        "E)%35"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye Piyasası Araçlarının Kredili Alım, Açığa Satış ve Ödünç Alma ve Verme İşlemlerinde “Açığa Satış İşlemlerine Konu Olan Menkul Kıymetler Listeleri” üçer aylık dönemler itibariyle güncelleştirilen ……………………. dahil olan hisse senetlerinden oluşturulmaktadır.\n\nYukarıdaki boşluğa gelecek doğru ifade hangisidir?",
+      "options": [
+        "A) İMKB Ulusal-30 Endeksi’ne",
+        "B) İMKB Ulusal-50 Endeksi’ne",
+        "C) İMKB Ulusal-80 Endeksi’ne",
+        "D) İMKB Ulusal-100 Endeksi’ne",
+        "E) İMKB Ulusal-200 Endeksi’ne"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "I- Nakit olarak TL ve konvertibl döviz\nII-Sermaye piyasası aracı olarak işlemlere konu olabilecek sermaye piyasası araçları listelerinde yer alan sermaye piyasası araçları\nIII-A ve B tipi yatırım fonu katılma belgeleri\nIV-Borsada işlem görmesi kaydıyla devlet tahvili, hazine bonosu\nV-İstanbul Altın Borsasında işlem görmekte olan ve Hazine Müsteşarlığının belirlediği standartlardaki altın ve diğer kıymetli madenler\n\nSermaye piyasası araçlarının kredili alımı, açığa satış ve ödünç alma ve verme işlemlerinde yukarıdaki menkul kıymetlerden hangisi/hangileri özkaynak olarak kabul edilmektedir?",
+      "options": [
+        "A) I ve II",
+        "B) I, II ve III",
+        "C)II, III ve IV",
+        "D) Hepsi",
+        "E) Hiçbiri"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasalarında kredi kullanılması suretiyle müşteri tarafından sermaye piyasası aracı alınması ne tür bir işlemdir?",
+      "options": [
+        "A) Açığa Satış",
+        "B) Sermaye Piyasası Araçlarının Kredili Alım İşlemi",
+        "C) Ödünç Alma İşlemi",
+        "D) Repo",
+        "E) Ters repo"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası araçlarının kredili alım işlemi kapsamında müşteri sermaye piyasası araçlarının kredili alımı işleminde, başlangıçta asgari yüzde kaç oranında özkaynak yatırmak zorundadır?",
+      "options": [
+        "A)%20",
+        "B)%30",
+        "C)%40",
+        "D)%50",
+        "E)%60"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası araçlarının kredili sermaye piyasası aracı işlemlerinin devamı süresince özkaynak oranının asgari yüzde kaç olması zorunludur?",
+      "options": [
+        "A) %20",
+        "B) %25",
+        "C) %35",
+        "D) %40",
+        "E) %45"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası araçlarının kredili alım işlemlerinde sürdürme teminatının kredili işlem süresince en az hangi oranda olması halinde aracı kurumların bir müşteriye açabilecekleri kredi tutarı iki katına kadar artırılabilir?",
+      "options": [
+        "A) %35",
+        "B) %50",
+        "C) %70",
+        "D) %85",
+        "E) %100"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Aracı kurum tarafından yapılan özkaynak tamamlama bildirimine rağmen müşterinin süresi içerisinde özkaynağı tamamlamaması\nII- Sermaye piyasası araçlarının kredili alımı işlemi çerçeve sözleşmesi ile belirlenen kredi süresinin sona ermesi\nIII- Sermaye piyasası araçlarının kredili alımı işlemi yapılan sermaye piyasası araçlarının, ilgili listeden çıkarılması\n\nSermaye Piyasası Araçlarının Kredili Alım İşlemi kapsamında yukarıda sayılanlardan hangisinin oluşması halinde müşterilerin kredi borcu muaccel hale gelir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) I ve II",
+        "D) II ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca açığa satış işleminde müşteri başlangıçta asgari ne kadar özkaynak yatırmak zorundadır?",
+      "options": [
+        "A) %35 oranında",
+        "B) %50 oranında",
+        "C) %60 oranında",
+        "D) %70 oranında",
+        "E) %75 oranında"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca açığa satış işleminde müşteri işlemlerinin devamı süresince özkaynak oranının en az ne kadar olması zorunludur?",
+      "options": [
+        "A) %35 oranında",
+        "B) %50 oranında",
+        "C) %60 oranında",
+        "D) %70 oranında",
+        "E) %75 oranında"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I-Şirketin yönetim kurulu üyeleri\nII-Şirketin üst düzey personeli\nIII-Şirket hisselerinde %5 paya sahip ortaklar\n\nYukarıdakilerden hangilerine açığa satış işlemi yapma yasağı getirilmiştir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) I ve III",
+        "D) II ve III",
+        "E) Hepsi"
+      ],
+      "answer": 1
+    }
+  ],
+  "Çalışma Soruları (Sermaye Piyasası Suçları)": [
+    {
+      "q": "Sermaye Piyasalarında Denetim ve Tedbirlere dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermaye Piyasası Kanunu ve diğer kanunların sermaye piyasası ile ilgili hükümlerinin uygulanmasının ve her türlü sermaye piyasası faaliyet ve işlemlerinin denetimine meslek personeli yetkilidir.",
+        "B) Denetim faaliyeti, önemlilik ve öncelik ilkeleri ile risk değerlendirmeleri kapsamında Kurul Başkanı tarafından oluşturulacak program uyarınca yürütülür.",
+        "C) Sermaye Piyasası Kurul Başkanı, oluşturulan program dışında incelenmesini gerekli gördüğü hususlarda program dışı denetim yaptıramaz.",
+        "D) Denetim, Kanun kapsamındaki tüm kurum ve kuruluş ile ilgili diğer gerçek ve tüzel kişilerin Sermaye Piyasası Kanunu ve ilgili diğer mevzuatın sermaye piyasasına ilişkin hükümleriyle ilgili faaliyet ve işlemlerini kapsar.",
+        "E) Kurul Başkanının talepte bulunması ve sulh ceza hâkiminin kararı üzerine gerekli yerlerde kolluk yardımı ile arama yapılabilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi sermaye piyasası suçlarından biri değildir?",
+      "options": [
+        "A) Bilgi suistimali",
+        "B) Piyasa dolandırıcılığı",
+        "C) Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+        "D) Güveni kötüye kullanma ve sahtecilik",
+        "E) Mali durumun bozulması"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 Sayılı Sermaye Piyasası Kanunu uyarınca makul bir ekonomik veya finansal gerekçeyle açıklanamayan, borsa ve teşkilatlanmış diğer piyasaların güven, açıklık ve istikrar içinde çalışmasını bozacak nitelikteki eylem ve işlemler, bir suç oluşturmadığı takdirde, nasıl nitelenir?",
+      "options": [
+        "A) Piyasa bozucu nitelikte eylem",
+        "B) Bilgi suistimali",
+        "C) Piyasa dolandırıcılığı",
+        "D) Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+        "E) Güveni kötüye kullanma ve sahtecilik"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurulca belirlenen piyasa bozucu eylemleri gerçekleştiren kişilere Kurul tarafından yirmi bin Türk Lirasından beş yüz bin Türk Lirasına kadar idari para cezası verilir.",
+        "B) Tahsil edilen idari para cezalarının yüzde ellisi genel bütçeye gelir kaydedilir, yüzde ellisi gelir kaydedilmek üzere YTM’ye aktarılır.",
+        "C) İdari para cezası kararlarına karşı idari yargı yoluna başvurulamaz.",
+        "D) Onaylı izahname yayımlama yükümlülüğünü yerine getirmeksizin sermaye piyasası araçlarını halka arz edenler ya da onaylı ihraç belgesi olmaksızın sermaye piyasası araçlarını satanlar iki yıldan beş yıla kadar hapis ve beş bin günden on bin güne kadar adli para cezası ile cezalandırılırlar.",
+        "E) Sermaye piyasasında izinsiz olarak faaliyette bulunanlar iki yıldan beş yıla kadar hapis ve beş bin günden on bin güne kadar adli para cezası ile cezalandırılırlar."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aşağıdakilerden hangisi sermaye piyasası suçlarından biri değildir?",
+      "options": [
+        "A) Bilgi suistimali",
+        "B) Piyasa dolandırıcılığı",
+        "C) Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+        "D) Güveni kötüye kullanma ve sahtecilik",
+        "E) Spekülasyon"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "SPK’ca doğrudan ya da dolaylı olarak sermaye piyasası araçları ya da ihraççılar hakkında, ilgili sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkileyebilecek nitelikteki ve henüz kamuya duyurulmamış bilgilere dayalı olarak ilgili sermaye piyasası araçları için alım ya da satım emri veren veya verdiği emri değiştiren veya iptal eden ve bu suretle kendisine veya bir başkasına menfaat temin etmek hangi suç kapsamında değerlendirilir?",
+      "options": [
+        "A) Bilgi suistimali",
+        "B) Piyasa dolandırıcılığı",
+        "C) Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+        "D) Güveni kötüye kullanma ve sahtecilik",
+        "E) Spekülasyon"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar, emir verenler, emir iptal edenler, emir değiştirenler veya hesap hareketleri gerçekleştirenler hangi suç kapsamında değerlendirilir?",
+      "options": [
+        "A) Bilgi suistimali",
+        "B) Piyasa dolandırıcılığı",
+        "C) Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+        "D) Güveni kötüye kullanma ve sahtecilik",
+        "E) Spekülasyon"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yönetim, denetim veya sermaye bakımından dolaylı veya dolaysız olarak ilişkili bulunduğu diğer bir teşebbüs veya şahısla emsallerine göre bariz şekilde farklı fiyat, ücret ve bedel uygulamak gibi örtülü işlemlerde bulunarak halka açık ortaklıkların kârını veya mal varlığını azaltmak hangi suç kapsamında değerlendirilir?",
+      "options": [
+        "A) Bilgi suistimali",
+        "B) Piyasa dolandırıcılığı",
+        "C) Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+        "D) Güveni kötüye kullanma ve sahtecilik",
+        "E) Spekülasyon"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca bilgi suistimali işleyenlerin cezası aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "options": [
+        "A) Bir yıldan beş yıla kadar hapis veya adli para cezası",
+        "B) İki yıldan on yıla kadar hapis veya adli para cezası",
+        "C) İki yıldan beş yıla kadar hapis veya adli para cezası",
+        "D) Üç yıldan beş yıla kadar hapis veya adli para cezası",
+        "E) Üç yıldan on yıla kadar hapis veya adli para cezası"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca Kurul tarafından icra edilen inceleme veya denetim faaliyeti kapsamında istenen bilgi veya belgelere ilişkin olarak başkalarına açıklamada bulunanların cezası nasıl belirlenmiştir?",
+      "options": [
+        "A) Bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır.",
+        "B) Bir yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır.",
+        "C) İki yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır.",
+        "D) İki yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır.",
+        "E) Beş yıldan on yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye Piyasası Kanunu’na göre Sermaye Piyasası Kurulu’nca görevlendirilen kişilerin görevlerini yapmalarını engelleyen kişilere uygulanan ceza aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Üç aydan iki yıla kadar hapis cezası ile cezalandırılır.",
+        "B) Altı aydan iki yıla kadar hapis cezası ile cezalandırılır.",
+        "C) Dokuz aydan iki yıla kadar hapis cezası ile cezalandırılır.",
+        "D) On aydan iki yıla kadar hapis cezası ile cezalandırılır.",
+        "E) Bir yıldan iki yıla kadar hapis cezası ile cezalandırılır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca sermaye piyasası suçlarına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Bilgi suiistimali suçu işleyenler iki yıldan beş yıla kadar hapis veya adli para cezası ile cezalandırılırlar.",
+        "B) Sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkilemek amacıyla yalan, yanlış veya yanıltıcı bilgi veren, söylenti çıkaran, haber veren, yorum yapan veya rapor hazırlayan ya da bunları yayanlar iki yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılırlar.",
+        "C) Onaylı izahname yayımlama yükümlülüğünü yerine getirmeksizin sermaye piyasası araçlarını halka arz edenler iki yıldan beş yıla kadar hapis ve beş bin günden on bin güne kadar adli para cezası ile cezalandırılırlar.",
+        "D) Güveni kötüye kullanma suçunun nitelikli hâline göre hükmolunacak ceza üç yıldan fazla olamaz.",
+        "E) Kurul veya bu Kanuna göre görevlendirilenler tarafından istenen bilgi, belge ve elektronik ortamda tutulanlar dâhil kayıtları hiç veya istenen şekliyle vermeyen kişi bir yıldan üç yıla kadar hapis cezası ile cezalandırılır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası mevzuatına göre, sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar, emir verenler, emir iptal edenler, emir değiştirenler veya hesap hareketleri gerçekleştirenlerin cezası aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "options": [
+        "A) 1 yıldan 5 yıla kadar hapis ve 5.000 günden 10.000 güne kadar adli para cezası",
+        "B) 1 yıldan 10 yıla kadar hapis ve 5.000 günden 10.000 güne kadar adli para cezası",
+        "C) 2 yıldan 5 yıla kadar hapis ve 5.000 günden 10.000 güne kadar adli para cezası",
+        "D) 2 yıldan 10 yıla kadar hapis ve 5.000 günden 10.000 güne kadar adli para cezası",
+        "E) 3 yıldan 10 yıla kadar hapis ve 5.000 günden 10.000 güne kadar adli para cezası"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkilemek amacıyla yalan, yanlış veya yanıltıcı bilgi veren, söylenti çıkaran, haber veren, yorum yapan veya rapor hazırlayan ya da bunları yayanlar ……………………… ile cezalandırılırlar.\n\nSermaye Piyasası Kanunu’na göre yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+      "options": [
+        "A) Bir yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası",
+        "B) İki yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası",
+        "C) Üç yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası",
+        "D) Üç yıldan on yıla kadar hapis ve beş bin güne kadar adli para cezası",
+        "E) Beş yıldan on yıla kadar hapis ve beş bin güne kadar adli para cezası"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Spekülasyon\nII-Manipülasyon\nIII-İçerden öğrenenlerin ticareti\n\nYukarıdakilerden sermaye piyasası suçlarından biri değildir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I ve III"
+      ],
+      "answer": 0
+    }
+  ],
+  "Çalışma Soruları (Yatırım Kuruluşları Ve Faaliyetleri)": [
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre emir iletimine aracılık ve yatırım danışmanlığı faaliyetlerinden herhangi birini veya tamamını yürütecek olan aracı kurumlar nasıl sınıflandırılmıştır?",
+      "options": [
+        "A) Dar yetkili",
+        "B) Kısmi yetkili",
+        "C) Geniş yetkili",
+        "D) Maksimum yetkili",
+        "E) Minimum yetkili"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre işlem aracılığı, en iyi gayret aracılığı faaliyeti, sınırlı saklama hizmeti ve portföy yöneticiliği faaliyetinden herhangi birini veya tamamını yürütecek olan aracı kurumlar nasıl sınıflandırılmıştır?",
+      "options": [
+        "A) Dar yetkili",
+        "B) Kısmi yetkili",
+        "C) Geniş yetkili",
+        "D) Maksimum yetkili",
+        "E) Minimum yetkili"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre Portföy aracılığı faaliyeti, genel saklama hizmeti ve aracılık yüklenimi faaliyetinden herhangi birini veya tamamını yürütecek olan aracı kurumlar nasıl sınıflandırılmıştır?",
+      "options": [
+        "A) Dar yetkili",
+        "B) Kısmi yetkili",
+        "C) Geniş yetkili",
+        "D) Maksimum yetkili",
+        "E) Minimum yetkili"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Emir iletimine aracılık\nII- İşlem aracılığı\nIII- Portföy aracılığı\nIV-Açığa satış\n\nYukarıda sayılı olanlardan hangileri alım satım aracılığı faaliyeti kapsamındadır?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) I, II ve III",
+        "D) I, II, III ve IV",
+        "E) Hiçbiri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca sermaye piyasası araçlarına ilişkin müşteri emirlerinin yatırım kuruluşları tarafından yetkilendirilmiş bir yatırım kuruluşuna veya kaldıraçlı işlemler hariç olmak üzere ilgili ülkenin yetkili otoritesinden faaliyet izni almış yurt dışında yerleşik bir kuruluşa iletilmesi ve emirlerin sonuçlarına ilişkin bilgilendirme yapılması ne tür faaliyettir?",
+      "options": [
+        "A) Emir iletimine aracılık",
+        "B) İşlem aracılığı",
+        "C) Portföy aracılığı",
+        "D) Açığa satış",
+        "E) Yatırım danışmanlığı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I- Halka arz, tahsisli satış veya nitelikli yatırımcılara satış sırasında taleplerin toplanmasıyla ilgili olarak taleplerin ilgili yatırım kuruluşuna iletilmesi ve müşteriler tarafından ilgili sermaye piyasası aracının bedeli olarak tevdi edilen nakdin tahsili veya geri ödenmesi gibi işlemleri kapsamak üzere gişe hizmeti verilmesi.\nII- Lehine faaliyet gösterilen işlem ve/veya portföy aracılığına yetkili kuruluşun sunabileceği yatırım hizmetleri ve faaliyetlerinin yatırımcılara tanıtılması, sözleşme akdedilmesine aracı olunması.\nIII- Sözleşme yapmak isteyen tarafların komisyon karşılığında bir araya getirilmesi faaliyetleri.\n\nYukarıdaki faaliyetlerden hangileri emir iletimine aracılık faaliyeti kapsamında sayılır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca, müşterilerin sermaye piyasası araçlarıyla ilgili alım veya satım emirlerinin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına yatırım kuruluşları tarafından, borsalar ya da teşkilatlanmış diğer pazar yerlerine, yetkilendirilmiş bir kuruluşa, kaldıraçlı işlemler hariç olmak üzere ilgili ülkenin yetkili otoritesinden faaliyet izni almış yurt dışında yerleşik bir kuruluşa, iletilmek suretiyle gerçekleştirilmesi ne tür faaliyettir?",
+      "options": [
+        "A) Emir iletimine aracılık",
+        "B) İşlem aracılığı",
+        "C) Portföy aracılığı",
+        "D) Açığa satış",
+        "E) Yatırım danışmanlığı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca yatırım kuruluşlarının müşterilerin sermaye piyasası araçlarıyla ilgili alım veya satım emirlerini karşı taraf olarak yerine getirmesi ne tür faaliyettir?",
+      "options": [
+        "A) Emir iletimine aracılık",
+        "B) İşlem aracılığı",
+        "C) Portföy aracılığı",
+        "D) Açığa satış",
+        "E) Yatırım danışmanlığı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre türev araç işlemlerine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kaldıraçlı işlemler dışında kalan türev araçlara ilişkin emir iletimi, işlem ya da portföy aracılığı faaliyetleri, işlemlerin niteliğine göre borsalar ve teşkilatlanmış diğer pazar yerlerinde ya da tezgahüstü piyasalarda yapılabilir.",
+        "B) Döviz, kıymetli maden, kıymetli taş, mal veya diğer varlıkların fiziki olarak alım satımı türev araç işlemi kapsamındadır.",
+        "C) Gerçek ve/veya tüzel kişilerin kendi aralarında bir yatırım kuruluşu aracılığı olmaksızın gerçekleştirdiği, ticari veya mesleki faaliyet sayılamayacak nitelikteki türev araç alım satım işlemleri türev araç işlemi kapsamında değildir.",
+        "D) Türev araçlar Vadeli İşlem ve Opsiyon Borsası’nda işlem görmektedir.",
+        "E) Borsada gerçekleşen türev araç işlemlerinde taraflar pozisyon alabilmek için teminat yatırmak zorundadırlar."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre kaldıraçlı işlemlere dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kaldıraçlı işlemlerde kaldıraç oranı, işlem yapmak için yatırılan teminat tutarı karşılığında alınabilecek pozisyon tutarını gösteren orandır. Kaldıraçlı işlemlerde uygulanacak kaldıraç oranı 50:1’i geçemez.",
+        "B) Bu işlemlerde müşterilere uygulanacak kaldıraç oranı 100:1’i aşmamak kaydıyla yatırım kuruluşları ile müşteriler arasında imzalanacak çerçeve sözleşmede serbestçe belirlenir.",
+        "C) Kaldıraçlı işlemlerde teminat olarak yalnızca nakit olarak Türk Lirası veya Türkiye Cumhuriyet Merkez Bankası tarafından günlük alım satım kurları ilan edilen yabancı para birimleri döviz kabul edilir.",
+        "D) Teminat oranının hesaplanması, teminat takibi ve teminat tamamlama yükümlülüğü ile pozisyonların otomatik kapanmasına ilişkin esaslar ve teminat olarak yatırılan nakdin başka bir para birimine çevrilmesinde esas alınacak kurlar çerçeve sözleşmede belirlenir.",
+        "E) Kaldıraçlı işlemlerde teminatların saklanmasına ilişkin esaslar Kurulca belirlenir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I- Dövize, mala ve kıymetli madenlere dayalı olarak gerçekleştirilen kaldıraçlı alım satım işlemleri.\nII-Kaldıraçlı alım satım işlemlerine konu edilebilecek varlıkların fiziki alım satımı.\nIII-Bankalar arasında yapılan işlemler ile bankalar tarafından aracı kurumlara likidite sağlanması amacıyla yapılan işlemler.\n\nYukarıda belirtilen iş ve işlemlerden hangisi/hangileri kaldıraçlı işlem kapsamında değildir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) II ve III",
+        "D) I ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca kolektif yatırım kuruluşlarının portföyleri hariç olmak üzere, finansal varlıklardan oluşan portföylerin, her bir müşteri adına, doğrudan veya dolaylı bir menfaat sağlamak üzere vekil sıfatıyla yönetilmesi ne tür faaliyettir?",
+      "options": [
+        "A) Yatırım danışmanlığı",
+        "B) Bireysel portföy yöneticiliği faaliyeti",
+        "C) Halka arza aracılık",
+        "D) Alım satım aracılığı",
+        "E) Açığa satış"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Aracı kurumlar\nII-Yatırım ve kalkınma bankaları\nIII-Mevduat bankaları\nIV-Portföy yönetim şirketleri\n\nYukarıda sayılı olanlardan hangileri bireysel portföy yöneticiliği faaliyetinde bulunabilir?",
+      "options": [
+        "A) I ve II",
+        "B) I, II ve III",
+        "C) I, II ve IV",
+        "D) I, II, III ve IV",
+        "E) Hiçbiri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca yetkili yatırım kuruluşunun, yatırımcı talebi doğrultusunda veya yatırımcı talebi olmaksızın sermaye piyasası araçları ile bunları ihraç eden ortaklık ve kuruluşlar hakkında, belli bir kişiye veya mali durumları, risk ve getiri tercihleri benzer nitelikteki bir gruba yönelik olarak yönlendirici nitelikte yorum ve tavsiyelerde bulunması ne tür bir faaliyettir?",
+      "options": [
+        "A) Yatırım danışmanlığı",
+        "B) Bireysel portföy yöneticiliği faaliyeti",
+        "C) Halka arza aracılık",
+        "D) Alım satım aracılığı",
+        "E) Açığa satış"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre halka arza aracılık faaliyetine İlişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Aracılık yüklenimi ve en iyi gayret aracılığı faaliyetleri Kuruldan izin almak kaydıyla, aracı kurumlar ile kalkınma ve yatırım bankaları tarafından yapılabilir.",
+        "B) Halka arza aracılık işlemleri, izahname ve satışa ilişkin diğer belgelerde, ilan ve reklamlarda ve halka arza aracılık sözleşmesinde belirlenen esaslar çerçevesinde yürütülür.",
+        "C) Halka arz fiyatının sermaye piyasası aracının gerçek değerini en doğru şekilde göstermesi yönünde asgari özen gösterilir.",
+        "D) Halka arz işlemleri sırasında piyasa bozucu eylem niteliğinde olabilecek faaliyetlerde bulunulamaz.",
+        "E) Sermaye piyasası aracının halka arzı ile ilgili olarak, ihraççı ve/veya halka arz edenler hakkında detaylı ve dikkatli inceleme yapma konusunda en iyi gayret gösterilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aracılık yüklenimi kapsamında sermaye piyasası araçlarının halka arz yoluyla satışa sunulmasının ve satılamayan kısmının tamamının bedeli satış süresi sonunda tam ve nakden ödenerek satın alınması ne tür bir yüklenimdir?",
+      "options": [
+        "A) Bakiyeyi Yüklenim",
+        "B) Tümünü Yüklenim",
+        "C) Kısmen Bakiyeyi Yüklenim",
+        "D) Kısmen Tümünü Yüklenim",
+        "E) En iyi gayret aracılığı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Aracılık yüklenimi kapsamında sermaye piyasası araçlarının bedeli, satışın başlamasından önce tam ve nakden ödenmek suretiyle tamamının satın alınarak halka satılması ne tür bir yüklenimdir?",
+      "options": [
+        "A) Bakiyeyi Yüklenim",
+        "B) Tümünü Yüklenim",
+        "C) Kısmen Bakiyeyi Yüklenim",
+        "D) Kısmen Tümünü Yüklenim",
+        "E) En iyi gayret aracılığı"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Aracılık yüklenimi kapsamında sermaye piyasası araçlarının halka arz yoluyla satışa sunulmasının ve satılamayan kısmın bir bölümünün bedeli satış süresi sonunda tam ve nakden ödenerek satın alınması ne tür bir yüklenimdir?",
+      "options": [
+        "A) Bakiyeyi Yüklenim",
+        "B) Tümünü Yüklenim",
+        "C) Kısmen Bakiyeyi Yüklenim",
+        "D) Kısmen Tümünü Yüklenim",
+        "E) En iyi gayret aracılığı"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Aracılık yüklenimi kapsamında sermaye piyasası araçlarının bedeli, satışın başlamasından önce tam ve nakden ödenmek suretiyle bir kısmının satın alınarak halka satılması ne tür bir yüklenimdir?",
+      "options": [
+        "A) Bakiyeyi Yüklenim",
+        "B) Tümünü Yüklenim",
+        "C) Kısmen Bakiyeyi Yüklenim",
+        "D) Kısmen Tümünü Yüklenim",
+        "E) En iyi gayret aracılığı"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye piyasası araçlarının, izahnamede belirtilen satış süresi içinde satışa sunulmasının, satılamayan kısmın ise satışı yapana iade edilmesi veya bunları daha önce satın almayı taahhüt etmiş üçüncü kişilere satılması ne tür halka arza aracılık faaliyetidir?",
+      "options": [
+        "A) Bakiyeyi Yüklenim",
+        "B) Tümünü Yüklenim",
+        "C) Kısmen Bakiyeyi Yüklenim",
+        "D) Kısmen Tümünü Yüklenim",
+        "E) En iyi gayret aracılığı"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre halka arza aracılık faaliyetine İlişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Aracılık yüklenimi faaliyet izni en iyi gayret aracılığı faaliyet iznini de kapsar.",
+        "B) Yalnızca en iyi gayret aracılığı faaliyetinde bulunmak üzere yetkilendirme yapılabilir.",
+        "C) Sermaye piyasası araçlarının halka arz edilmeksizin satışı sırasında bu ihraçların belli bir grup yatırımcıya tahsisinde aracılık yapılması halka arza aracılık faaliyeti kapsamında sayılmaz.",
+        "D) Halka arza aracılık faaliyetine ilişkin sunulan hizmetler karşılığında alınan ücretler dışında, kendilerine veya üçüncü şahıslara menfaat sağlanmasına imkan tanıyacak tasarruflarda bulunulamaz.",
+        "E) Sermaye piyasası araçlarının halka arzının, sermaye piyasası aracını ihraç eden ve/veya halka arz eden ile yetkili yatırım kuruluşu arasında akdedilecek yazılı bir halka arza aracılık sözleşmesine bağlanması şarttır."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre saklama hizmeti faaliyetine İlişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Saklama hizmeti sınırlı ve genel saklama hizmeti olmak üzere yürütülür.",
+        "B) Sınırlı saklama hizmeti; işlem aracılığı ve portföy aracılığı ile ilgili olarak yetkili olunan ve aracılık hizmetine konu olan sermaye piyasası araçlarının, bireysel portföy yöneticiliğine ilişkin yönetilen portföylerin, aracılık yüklenimi ve en iyi gayret aracılığına ilişkin olarak ise halka arzına aracılık edilen sermaye piyasası araçlarının saklanması ile sınırlıdır.",
+        "C) Genel saklama hizmeti; yetkili olunan ve işlemi yapılan yatırım hizmet ve faaliyetlerinden bağımsız olarak sunulan saklama hizmeti sunulmasıdır.",
+        "D) Müşterilerin sermaye piyasası faaliyetlerinden kaynaklanan nakitlerinin saklanması da sermaye piyasası araçlarının saklanmasına ilişkin esaslara tabi değildir.",
+        "E) Genel saklama hizmeti sunmak üzere faaliyet izni bulunan yatırım kuruluşlarının portföy saklama hizmetinde bulunabilmesi için Kurulun portföy saklama hizmetine ve bu hizmette bulunabilecek kuruluşlar ile ilgili düzenlemeleri uyarınca Kurula başvuruda bulunmaları gerekir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "I- Şirketlerin uzun ve kısa vadeli finansal hedefleri, risk tercihleri, nakit gereksinimleri ve vergi mevzuatı karşısındaki durumları dikkate alınarak yatırım planlarının oluşturulması.\nII-Şirketlerin, aktif-pasif yönetimi çerçevesinde finansal durum tablosu analiz edilmesi, gelir kaynaklarının ayrıştırılması, finansman seçeneklerinin tespit edilmesi, risklerin tanımlanması ve azaltılması veya gelirlerin artırılması yoluyla mali profillerinin geliştirilmesi gibi konularda yazılı veya sözlü yorum ve tavsiyelerde bulunulması.\nIII-Şirketlerin, birleşme, bölünme, ele geçirme ve iş ortaklıklarının kurulması ve benzeri sermaye veya ortaklık yapılarındaki değişikliklerle ilgili yeniden yapılandırılma faaliyetleri ve tasfiye sürecinde yazılı veya sözlü yorum ve tavsiyelerde bulunulması.\n\nYukarıda sayılanlardan hangisi/hangileri “Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre yan hizmetler kapsamında sermaye piyasaları ile ilgili danışmanlık hizmetleri içindedir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) II ve III",
+        "D) I, II ve III",
+        "E) I ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "“Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre yan hizmetler faaliyetine İlişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Yatırım kuruluşları, yatırım hizmet ve faaliyetleri ile sınırlı olarak döviz hizmetleri sunabilirler.",
+        "B) Döviz hizmeti sunacak aracı kurumların işlem veya portföy aracılığı faaliyet izni almış olması gereklidir.",
+        "C) Yatırım kuruluşları, şirketlerin, yurt içi ve yurt dışı piyasalardan finansman ihtiyaçlarının karşılanmasına, mali risklerden korunmaları için yazılı veya sözlü yorumda bulunamazlar.",
+        "D) Yatırım kuruluşları, kişilere, ailelere ya da ortak yatırım hedeflerine sahip kişilerden oluşan gruplara yönelik mali, hukuki, vergisel ve benzeri hususlarda danışmanlık hizmeti sunabilir.",
+        "E) Aracı kurumlar, Kurulun uygun görüşü alınmak suretiyle diğer finansal ürün ve hizmetleri de sunabilirler."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Dar yetkili aracı kurumların asgari özsermayesi 2.000.000 TL’dir.\nII-Kısmi yetkili aracı kurumların asgari özsermayesi 10.000.000 TL’dir.\nIII-Geniş yetkili aracı kurumların asgari özsermayesi 25.000.000 TL’dir.\n\nAracı kurumların sermayelerine ilişkin yukarıdakilerden hangisi/hangileri doğru değildir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) I ve II",
+        "D) I, ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    }
+  ],
+  "Çalışma Soruları (Yatırım Fonları)": [
+    {
+      "q": "Tasarruf sahiplerinden katılma payı karşılığında toplanan para ya da diğer varlıklarla, tasarruf sahipleri hesabına, inançlı mülkiyet esaslarına göre, sermaye piyasası araçları ve işlemlerden oluşan portföy veya portföyleri işletmek amacıyla portföy yönetim şirketleri tarafından içtüzük ile kurulan ve tüzel kişiliği bulunmayan mal varlığına ne denir?",
+      "options": [
+        "A) Yatırım fonu",
+        "B) Yatırım ortaklığı",
+        "C) Menkul kıymet yatırım ortaklığı",
+        "D) Anonim ortaklık",
+        "E) Ortak girişim"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Yatırım fonlarında fonun toplam değeri nasıl hesaplanır?",
+      "options": [
+        "A) Fon portföyündeki varlıkların değerine varsa diğer varlıkların ve alacakların eklenmesi ve borçların düşülmesiyle",
+        "B) Fon portföyündeki varlıkların değerine borçların eklenmesi ve alacakların düşülmesiyle",
+        "C) Fon portföyündeki varlıkların değerinin toplanmasıyla",
+        "D) Aktiflerden pasiflerin düşülmesiyle",
+        "E) Pasiflerden aktiflerin düşülmesiyle"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan yatırım fonlarına ne denir?",
+      "options": [
+        "A) Serbest fon",
+        "B) Garantili fon",
+        "C) Şemsiye fon",
+        "D) Özelleştirme fonu",
+        "E) İşsizlik fonu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Şemsiye fonlara dair aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Şemsiye fon, katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan yatırım fonudur.",
+        "B) Şemsiye fon içtüzüğünde yer alan her katılma payı ihracı için ayrı bir izahname ve yatırımcı bilgi formu düzenlenmesi şartıyla, şemsiye fona bağlı fonlar oluşturulur.",
+        "C) Bir şemsiye fon kapsamında her bir fonun tüm varlık ve yükümlülükleri ortaktır.",
+        "D) Şemsiye fonun kuruluş giderleri ile fonların katılma payı ihraç giderleri hariç olmak üzere, bir şemsiye fon için yapılması gereken tüm giderler fonların toplam değerleri dikkate alınarak oransal olarak bu fonların portföylerinden karşılanır.",
+        "E) Bir şemsiye fonun tasfiye edilmesi veya devredilmesi durumunda, bu şemsiye fona bağlı fonların da tasfiye edilmesi veya devredilmesi gerekir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca Şemsiye fon kapsamında aşağıdakilerden hangisine yatırım yapılamaz?",
+      "options": [
+        "A) Özelleştirme kapsamına alınanlar dahil Türkiye’de kurulan ihraççılara ait paylar, özel sektör ve kamu borçlanma araçları",
+        "B) Türk Parasının Kıymetini Koruma Hakkında 32 sayılı Karar hükümleri çerçevesinde alım satımı yapılabilen yabancı özel sektör ve kamu borçlanma araçları ile ihraççı payları",
+        "C) 12 aydan uzun vadeli olmak üzere vadeli mevduat, katılma hesabı ve mevduat sertifikaları",
+        "D) Borsada işlem görmeleri kaydıyla; altın ve diğer kıymetli madenler",
+        "E) Fon katılma payları"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca Şemsiye fon kapsamında aşağıdakilerden hangisine yatırım yapılamaz?",
+      "options": [
+        "A) Repo ve ters repo işlemleri",
+        "B) Kira sertifikaları",
+        "C) Gayrimenkul sertifikaları",
+        "D) Varantlar ve sertifikalar",
+        "E) Sigorta poliçeleri"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "I- Takasbank para piyasası işlemleri\nII-Türev araç işlemlerinin nakit teminatları ve primleri\nIII-Sermaye Piyasası Kurulu’nca uygun görülen özel tasarlanmış yabancı yatırım araçları ve ikraz iştirak senetleri\n\nSermaye piyasası mevzuatınca Şemsiye fon kapsamında yukarıdakilerden hangisine/hangilerine yatırım yapılabilir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) II ve III",
+        "D) I ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Fon toplam değerinin en az %80’i devamlı olarak; Yerli ve/veya yabancı kamu ve/veya özel sektör borçlanma araçlarına yatırılan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Borçlanma araçları şemsiye fonu",
+        "B) Hisse senedi şemsiye fonu",
+        "C) Kıymetli madenler şemsiye fonu",
+        "D) Fon sepeti şemsiye fonu",
+        "E) Para piyasası şemsiye fonu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Fon toplam değerinin en az %80’i devamlı olarak; Yerli ve/veya yabancı ihraççıların paylarına yatırılan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Borçlanma araçları şemsiye fonu",
+        "B) Hisse senedi şemsiye fonu",
+        "C) Kıymetli madenler şemsiye fonu",
+        "D) Fon sepeti şemsiye fonu",
+        "E) Para piyasası şemsiye fonu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Fon toplam değerinin en az %80’i devamlı olarak; Borsada işlem gören altın ve diğer kıymetli madenler ile kıymetli madenlere dayalı sermaye piyasası araçlarına yatırılan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Borçlanma araçları şemsiye fonu",
+        "B) Hisse senedi şemsiye fonu",
+        "C) Kıymetli madenler şemsiye fonu",
+        "D) Fon sepeti şemsiye fonu",
+        "E) Para piyasası şemsiye fonu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Fon toplam değerinin en az %80’i devamlı olarak; Diğer fonların ve borsa yatırım fonlarının katılma paylarından oluşan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Koruma amaçlı şemsiye fonu",
+        "B) Garantili şemsiye fon",
+        "C) Serbest şemsiye fon",
+        "D) Değişken şemsiye fon",
+        "E) Fon sepeti fonu"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Portföyünün tamamı devamlı olarak, vadesine en fazla 184 gün kalmış likiditesi yüksek para ve sermaye piyasası araçlarından oluşan ve portföyünün günlük olarak hesaplanan ağırlıklı ortalama vadesi en fazla 45 gün olan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Koruma amaçlı şemsiye fonu",
+        "B) Para piyasası şemsiye fonu",
+        "C) Serbest şemsiye fon",
+        "D) Değişken şemsiye fon",
+        "E) Fon sepeti fonu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Portföyünün tamamı devamlı olarak, kira sertifikaları, katılma hesapları, ortaklık payları, altın ve diğer kıymetli madenler ile Sermaye Piyasası Kurulu’nca uygun görülen diğer faize dayalı olmayan para ve sermaye piyasası araçlarından oluşan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Koruma amaçlı şemsiye fonu",
+        "B) Para piyasası şemsiye fonu",
+        "C) Serbest şemsiye fon",
+        "D) Katılım şemsiye fonu",
+        "E) Fon sepeti fonu"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Portföy sınırlamaları itibarıyla fon türlerinden herhangi birine girmeyen fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Koruma amaçlı şemsiye fonu",
+        "B) Para piyasası şemsiye fonu",
+        "C) Serbest şemsiye fon",
+        "D) Değişken şemsiye fon",
+        "E) Fon sepeti fonu"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Katılma payları sadece nitelikli yatırımcılara satılmak üzere kurulmuş olan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Koruma amaçlı şemsiye fonu",
+        "B) Para piyasası şemsiye fonu",
+        "C) Serbest şemsiye fon",
+        "D) Değişken şemsiye fon",
+        "E) Fon sepeti fonu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Yatırımcının başlangıç yatırımının belirli bir bölümünün, tamamının ya da başlangıç yatırımının üzerinde belirli bir getirinin bilgilendirme dokümanlarında belirlenen esaslar çerçevesinde belirli vade ya da vadelerde yatırımcıya geri ödenmesi; Uygun bir yatırım stratejisine ve garantör tarafından verilen garantiye dayanılarak taahhüt edilen fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Koruma amaçlı şemsiye fonu",
+        "B) Garantili şemsiye fon",
+        "C) Koruma amaçlı şemsiye fon",
+        "D) Değişken şemsiye fon",
+        "E) Fon sepeti fonu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yatırımcının başlangıç yatırımının belirli bir bölümünün, tamamının ya da başlangıç yatırımının üzerinde belirli bir getirinin bilgilendirme dokümanlarında belirlenen esaslar çerçevesinde belirli vade ya da vadelerde yatırımcıya geri ödenmesi; Uygun bir yatırım stratejisine dayanılarak en iyi gayret esası çerçevesinde amaçlanan fonları kapsayan şemsiye fonlara ne denir?",
+      "options": [
+        "A) Serbest fon",
+        "B) Garantili şemsiye fon",
+        "C) Koruma amaçlı şemsiye fon",
+        "D) Değişken şemsiye fon",
+        "E) Fon sepeti fonu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Fon toplam değerinin en az %80’i devamlı olarak menkul kıymet yatırım ortaklıkları payları hariç olmak üzere Borsa İstanbul (BİAŞ)’ta işlem gören ihraççı paylarından oluşan ve bir şemsiye fona bağlı olarak ihraç edilen fonlara ne denir?",
+      "options": [
+        "A) Borçlanma araçları şemsiye fonu",
+        "B) Değişken şemsiye fon",
+        "C) Hisse senedi yoğun fon",
+        "D) Fon sepeti şemsiye fonu",
+        "E) Para piyasası şemsiye fonu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası mevzuatınca yatırım fonları katılma payları değerine dair aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Katılma paylarının itibari değeri vardır.",
+        "B) Fon birim pay değeri, fon toplam değerinin katılma paylarının sayısına bölünmesiyle elde edilir.",
+        "C) Fon birim pay değeri, katılma paylarının alım satımına esas teşkil eden fiyattır.",
+        "D) Fonların birim pay değerinin günlük olarak hesaplanması ve ilan edilmesi esastır.",
+        "E) Fon katılma payı sahiplerine temettü dağıtılması mümkündür."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I- 25-90 gün olması halinde “kısa vadeli”\nII- 91-730 gün olması halinde “orta vadeli”,\nIII-730 günden fazla olması halinde “uzun vadeli”\n\nSermaye piyasası mevzuatınca borçlanma araçları fonlarının unvanlarında vade yapısına yer verilmek istenmesi durumunda, yukarıdaki karşılaştırmalardan hangisi/hangileri doğrudur?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    }
   ]
 }
