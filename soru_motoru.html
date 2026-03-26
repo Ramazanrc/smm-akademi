@@ -525,7 +525,11 @@ function soruYukle() {
     document.body.classList.add('mobil-soru-acik');
     const s = aktifSorular[mevcutSoruIndex];
     document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
-    document.getElementById('soru-metni').innerHTML = s.q; 
+    
+    // İŞTE SİLİNEN O EFSANE MARDOWN ÇEVİRİCİ KODU GERİ GELDİ:
+    marked.setOptions({ breaks: true });
+    document.getElementById('soru-metni').innerHTML = marked.parse(s.q); 
+
     document.getElementById('next-btn').disabled = true;
 
     const liste = document.getElementById('secenekler-listesi');
