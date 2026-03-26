@@ -445,104 +445,47 @@ fetch(dosyaPath)
         document.getElementById('soru-metni').innerText = "Veriler yüklenirken bir hata oluştu. Lütfen dosya adını kontrol edin.";
     });
 
-// 4. SOL MENÜ (AKORDİYON VE KLASİK HİBRİT MOTOR)
+// 4. SOL MENÜ (Akıllı Takip Asistanı Modeli)
 function menuyuOlustur() {
     const listeDiv = document.getElementById('kategori-listesi');
     listeDiv.innerHTML = '';
 
-    // Akordiyon için gruplama nesnesi
-    let gruplar = {};
-    let normalKonular = [];
-
-    // Verileri tarayıp ayırıyoruz
-    Object.keys(tumKategoriler).forEach((konuAdi) => {
-        if (konuAdi.includes('||')) {
-            let parcalar = konuAdi.split('||');
-            let anaBaslik = parcalar[0];
-            let altBaslik = parcalar[1];
-            if (!gruplar[anaBaslik]) gruplar[anaBaslik] = [];
-            gruplar[anaBaslik].push({ tamAd: konuAdi, altBaslik: altBaslik });
-        } else {
-            normalKonular.push(konuAdi);
-        }
-    });
-
-    // A) NORMAL KONULARI (Maliyet, Finansal Analiz vb.) EKRANA BASMA
-    normalKonular.forEach((konuAdi, index) => {
+    Object.keys(tumKategoriler).forEach((konuAdi, index) => {
         const btn = document.createElement('div');
         btn.className = 'nav-item ' + (index === 0 ? 'active' : '');
         const soruSayisi = tumKategoriler[konuAdi].length;
         
         let kayitRozeti = "";
+        let bitisRozeti = "";
+        let ikon = "fa-folder-open"; // Varsayılan: Dokunulmamış
+        let ikonRenk = "";
+        let ekstraStil = "";
+
         let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi);
+        let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + konuAdi);
+
         if (eskiKayit) {
             let veri = JSON.parse(eskiKayit);
-            kayitRozeti = `<span style="font-size:10px; background:var(--primary-orange); color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. Soru</span>`;
+            kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;" title="Kaldığınız Yer">⏱️ ${veri.index + 1}. Soru</span>`;
+            ikon = "fa-hourglass-half"; // Yarım kalanlar
+            ikonRenk = "color:#f97316;";
+        } else if (bitirdiMi === "evet") {
+            bitisRozeti = `<span style="font-size:10px; background:#22c55e; color:white; padding:2px 6px; border-radius:10px; margin-right:5px; box-shadow: 0 0 5px rgba(34,197,94,0.4);" title="Tebrikler, bu konuyu bitirdiniz!">✅ Tamamlandı</span>`;
+            ikon = "fa-check-circle"; // Tamamlananlar
+            ikonRenk = "color:#22c55e;";
+            ekstraStil = "border-left: 3px solid #22c55e; background: rgba(34, 197, 94, 0.05);";
         }
 
-        btn.innerHTML = `<i class="fas fa-folder-open"></i> <span style="flex:1;">${konuAdi}</span> ${kayitRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px;">${soruSayisi} Soru</span>`;
+        btn.innerHTML = `<i class="fas ${ikon}" style="${ikonRenk}"></i> <span style="flex:1;">${konuAdi}</span> ${kayitRozeti} ${bitisRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px;">${soruSayisi} Soru</span>`;
+        if (bitirdiMi === "evet") { btn.style = ekstraStil; }
+
         btn.onclick = (e) => kategoriSec(konuAdi, e.currentTarget);
         listeDiv.appendChild(btn);
-    });
-
-    // B) AKORDİYON MENÜYÜ (Temel Hukuk) EKRANA BASMA
-    Object.keys(gruplar).forEach((anaBaslik, index) => {
-        // Ana Başlık Butonu (Borçlar Hukuku vb.)
-        const grupBtn = document.createElement('div');
-        grupBtn.className = 'nav-item';
-        grupBtn.style.backgroundColor = '#1e293b';
-        grupBtn.style.color = '#f97316';
-        grupBtn.style.fontWeight = 'bold';
-        grupBtn.innerHTML = `<i class="fas fa-balance-scale"></i> <span style="flex:1;">${anaBaslik}</span> <i class="fas fa-chevron-down" style="font-size:10px;"></i>`;
-        
-        // Alt Konuları Taşıyan Gizli Kutu
-        const altKonuKutusu = document.createElement('div');
-        altKonuKutusu.style.display = index === 0 ? 'block' : 'none'; // İlki açık gelsin
-        altKonuKutusu.style.paddingLeft = '5px';
-        altKonuKutusu.style.borderLeft = '2px solid #f97316';
-        altKonuKutusu.style.marginLeft = '15px';
-        altKonuKutusu.style.marginBottom = '10px';
-
-        // Tıklayınca Aç/Kapat
-        grupBtn.onclick = () => {
-            altKonuKutusu.style.display = altKonuKutusu.style.display === 'none' ? 'block' : 'none';
-        };
-
-        listeDiv.appendChild(grupBtn);
-        
-        // Alt Testleri Ekleme (1- Borç İlişkisi vb.)
-        gruplar[anaBaslik].forEach((alt, altIndex) => {
-            const btn = document.createElement('div');
-            btn.className = 'nav-item ' + (index === 0 && altIndex === 0 ? 'active' : '');
-            btn.style.fontSize = '12px';
-            btn.style.padding = '8px 10px';
-            
-            const soruSayisi = tumKategoriler[alt.tamAd].length;
-            let kayitRozeti = "";
-            let eskiKayit = localStorage.getItem("SMM_Kayit_" + alt.tamAd);
-            if (eskiKayit) {
-                let veri = JSON.parse(eskiKayit);
-                kayitRozeti = `<span style="font-size:10px; background:var(--primary-orange); color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
-            }
-
-            btn.innerHTML = `<i class="fas fa-file-alt" style="font-size:10px;"></i> <span style="flex:1;">${alt.altBaslik}</span> ${kayitRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px;">${soruSayisi} S</span>`;
-            
-            btn.onclick = (e) => {
-                document.querySelectorAll('.nav-item.active').forEach(el => el.classList.remove('active'));
-                btn.classList.add('active');
-                kategoriSec(alt.tamAd, null);
-            };
-            altKonuKutusu.appendChild(btn);
-        });
-        listeDiv.appendChild(altKonuKutusu);
     });
 }
 
 // 5. KATEGORİ SEÇİMİ VE SKOR SIFIRLAMA
 function kategoriSec(konuAdi, tiklananHtmlElementi) {
-    if (!konuAdi) return; // GÜVENLİK KALKANI: Konu boşsa sistemi çökertme!
-    mevcutKategori = konuAdi;
-    mevcutSoruIndeksi = 0;
     if(tiklananHtmlElementi) {
         document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
         tiklananHtmlElementi.classList.add('active');
@@ -550,15 +493,13 @@ function kategoriSec(konuAdi, tiklananHtmlElementi) {
 
     aktifKategoriAdi = konuAdi;
     aktifSorular = tumKategoriler[konuAdi];
-    window.hataliSorular = []; // YENİ: Her testte hatalı soru hafızasını sıfırla
+    window.hataliSorular = []; 
 
     let eskiKayit = localStorage.getItem("SMM_Kayit_" + aktifKategoriAdi);
     if (eskiKayit) {
         let veri = JSON.parse(eskiKayit);
         if (confirm("Bu testte en son " + (veri.index + 1) + ". soruda kaldınız.\n\nKaldığınız yerden devam etmek ister misiniz?\n\n[Tamam] = Devam Et\n[İptal] = Sıfırla ve Baştan Başla")) {
-            mevcutSoruIndex = veri.index;
-            dogruSayisi = veri.dogru;
-            yanlisSayisi = veri.yanlis;
+            mevcutSoruIndex = veri.index; dogruSayisi = veri.dogru; yanlisSayisi = veri.yanlis;
         } else {
             localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
             mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
@@ -570,9 +511,7 @@ function kategoriSec(konuAdi, tiklananHtmlElementi) {
     skorTablosunuGuncelle();
     document.getElementById('sonuc-alani').classList.add('hidden');
     document.getElementById('soru-alani').classList.remove('hidden');
-    //ekrana basarken || işaretinden sonrasını (alt test adını) göster
-    let gosterilecekAd = konuAdi.includes('||') ? konuAdi.split('||')[1] : konuAdi;
-    document.getElementById('header-konu-adi').innerText = gosterilecekAd + " Testi Çözülüyor";
+    document.getElementById('header-konu-adi').innerText = konuAdi + " Testi Çözülüyor";
     soruYukle();
 }
 
@@ -586,10 +525,7 @@ function soruYukle() {
     document.body.classList.add('mobil-soru-acik');
     const s = aktifSorular[mevcutSoruIndex];
     document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
-    marked.setOptions({
-    breaks: true
-});
-    document.getElementById('soru-metni').innerHTML = marked.parse(s.q);
+    document.getElementById('soru-metni').innerHTML = s.q; 
     document.getElementById('next-btn').disabled = true;
 
     const liste = document.getElementById('secenekler-listesi');
@@ -614,7 +550,13 @@ function cevapla(index, dogru, secilenBtn) {
     const tumButonlar = document.querySelectorAll('.option-btn');
     tumButonlar.forEach(b => b.disabled = true);
     
-    // YENİ: Soru verisini burada çağırıyoruz ki hafızaya atabilelim
+    // YENİ: Eğer bitmiş bir testi tekrar çözmeye başlarsan mühürü kaldırır
+    if (localStorage.getItem("SMM_Bitirdi_" + aktifKategoriAdi)) {
+        localStorage.removeItem("SMM_Bitirdi_" + aktifKategoriAdi);
+        menuyuOlustur(); 
+        setTimeout(() => { document.querySelectorAll('.nav-item').forEach(el => { if (el.innerText.includes(aktifKategoriAdi)) el.classList.add('active'); }); }, 50);
+    }
+
     const mevcutSoru = aktifSorular[mevcutSoruIndex]; 
 
     if (!window.hataliSorular) { window.hataliSorular = []; }
@@ -631,13 +573,8 @@ function cevapla(index, dogru, secilenBtn) {
         anaRozet.classList.remove('roket-efekti'); void anaRozet.offsetWidth; anaRozet.classList.add('roket-efekti');
     } else {
         window.kategoriAnalizi[aktifKategoriAdi].yanlis++;
-        
-        // Yanlışı hafızaya jilet gibi kaydetme
         let gercekDogruIndex = mevcutSoru.answer !== undefined ? mevcutSoru.answer : mevcutSoru.correct;
-        window.hataliSorular.push({
-            soru: mevcutSoru.q,
-            dogru: mevcutSoru.options[gercekDogruIndex]
-        });
+        window.hataliSorular.push({ soru: mevcutSoru.q, dogru: mevcutSoru.options[gercekDogruIndex] });
 
         secilenBtn.classList.add('wrong');
         tumButonlar[dogru].classList.add('correct');
@@ -658,7 +595,12 @@ function sonrakiSoru() {
         localStorage.setItem("SMM_Kayit_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
         soruYukle();
     } else {
+        // YENİ: Test bittiğinde kayıt silinir, yerine TAMAMLANDI mühürü vurulur!
         localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
+        localStorage.setItem("SMM_Bitirdi_" + aktifKategoriAdi, "evet");
+        menuyuOlustur();
+        setTimeout(() => { document.querySelectorAll('.nav-item').forEach(el => { if (el.innerText.includes(aktifKategoriAdi)) el.classList.add('active'); }); }, 50);
+
         document.getElementById('soru-alani').classList.add('hidden');
         document.getElementById('sonuc-alani').classList.remove('hidden');
         document.getElementById('skor-dogru').innerText = dogruSayisi;
@@ -670,7 +612,6 @@ function sonrakiSoru() {
         robotAnaliziniYap();
     }
 }
-
 // --- AYRILMIŞ VE TEMİZLENMİŞ ÖZEL FONKSİYONLAR ---
 
 // Hataları Listeleyen Buton Fonksiyonu
