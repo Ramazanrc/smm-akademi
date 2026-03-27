@@ -6303,5 +6303,1616 @@
       ],
       "answer": 4
     }
+  ],
+  "Çalışma Soruları (Genel)": [
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, kayıtlı sermayeli anonim ortaklıkların sahip olmaları zorunlu olan asgari çıkarılmış sermayelerine ne ad verilir?",
+      "options": [
+        "A) Başlangıç sermayesi",
+        "B) Çıkarılmış sermaye",
+        "C) Kayıtlı Sermaye",
+        "D) Öz sermaye",
+        "E) Konsolide edilmiş sermaye"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, kayıtlı sermayeli anonim ortaklıkların satışı yapılmış paylarını temsil eden sermayelerine ne ad verilir?",
+      "options": [
+        "A) Başlangıç sermayesi",
+        "B) Çıkarılmış sermaye",
+        "C) Kayıtlı sermaye",
+        "D) Öz sermaye",
+        "E) Konsolide edilmiş sermaye"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Anonim ortaklıkların, esas sözleşmelerinde hüküm bulunmak kaydıyla, yönetim kurulu kararı ile Türk Ticaret Kanununun esas sermayenin artırılmasına dair hükümlerine tabi olmaksızın pay çıkarabilecekleri azami miktarı gösteren, ticaret sicilinde tescil ve ilan edilmiş sermayelerine ne ad verilir?",
+      "options": [
+        "A) Başlangıç sermayesi",
+        "B) Çıkarılmış sermaye",
+        "C) Kayıtlı sermaye",
+        "D) Öz sermaye",
+        "E) Konsolide edilmiş sermaye"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, kitle fonlaması platformları aracılığıyla para toplayanlar hariç olmak üzere, payları halka arz edilmiş olan veya halka arz edilmiş sayılan anonim ortaklıklara ne ad verilir?",
+      "options": [
+        "A) İhraççı",
+        "B) Piyasa işleticisi",
+        "C) Halka arz eden",
+        "D) Halka açık ortaklık",
+        "E) Yatırım kuruluşu"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "I- Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrıyı ve bu çağrı devamında gerçekleştirilen satışı ifade eder.\nII- Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişileri ifade eder.\nIII- Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışını ifade eder.\nIV- Kitle fonlaması platformları aracılığıyla para toplayanlar hariç olmak üzere, sermaye piyasası araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişileri ve bu Kanuna tabi yatırım fonlarını ifade eder.\n\nYukarıda 6362 sayılı Sermaye Piyasası Kanunda yer alan bazı tanımlara yer verilmiştir. Buna göre aşağıda yer alan kavramlardan hangisinin tanımı yukarıda yer almamaktadır?",
+      "options": [
+        "A) Halka arz",
+        "B) Halka arz eden",
+        "C) İhraç",
+        "D) İhraççı",
+        "E) Halka açık ortaklık"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "I- Yatırım Ortaklıkları\nII- Yatırım Fonları\nIII- Varlık Kiralama Şirketleri\nIV- İpotek Finansman Kuruluşları\n\n6362 sayılı Sermaye Piyasası Kanununa göre Kolektif yatırım kuruluşları yukarıdakilerin hangilerini ifade eder?",
+      "options": [
+        "A) I-II",
+        "B) I-III",
+        "C) I-II-III",
+        "D) I-III-IV",
+        "E) I-II-III-IV"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirmek, kaydileştirilen bu araçları ve bunlara bağlı hakları, elektronik ortamda, üyeler ve hak sahipleri itibarıyla kayden izlemek, merkezî saklamasını yapmak ve Kurul tarafından sermaye piyasası mevzuatı çerçevesinde verilen diğer görevleri yerine getirmek üzere kurulmuş bulunan özel hukuk tüzel kişiliğini haiz Anonim Şirketine ne ad verilir?",
+      "options": [
+        "A) Merkezi Kayıt Kuruluşu",
+        "B) Merkezi Takas Kuruluşu",
+        "C) Yatırımcı Tazmin Merkezi",
+        "D) Merkezi Saklama Kuruluşu",
+        "E) Halka Açık Ortaklık"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, sermaye piyasası faaliyetleri sebebiyle veya emanetçi sıfatıyla veya idare etmek için veya teminat olarak veya her ne nam altında olursa olsun, sermaye piyasası faaliyetleriyle ilişkili olarak kayden veya fiziken tevdi veya teslim edilen sermaye piyasası araçlarına ilişkin hizmetlere ne ad verilir?",
+      "options": [
+        "A) Aracılık hizmetleri",
+        "B) Saklama hizmetleri",
+        "C) Veri depolama hizmetleri",
+        "D) Danışmanlık hizmetleri",
+        "E) Yan hizmetler"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, yatırım kuruluşlarının, yatırım hizmet ve faaliyetinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getirememeleri hâlinde, Kurulca bu Kanun çerçevesinde alınan tazmin kararını yerine getirmek amacıyla kurulmuş olan kamu tüzel kişiliğine sahip kuruma ne ad verilir?",
+      "options": [
+        "A) Merkezi Karşı Taraf",
+        "B) Merkezi Takas Kuruluşu",
+        "C) Yatırımcı Tazmin Merkezi",
+        "D) Merkezi Saklama Kuruluşu",
+        "E) Merkezi Kayıt Kuruluşu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Döviz ve kıymetli madenler ile Kurulca belirlenecek diğer varlıklar üzerine yapılacak kaldıraçlı işlemleri,\nII- Menkul kıymetleri satın alma veya satma veya birbirleri ile değiştirme hakkı veren türev araçları,\nIII- Kredi riski transferi sağlayan, enerji fiyatları ve iklim değişkenleri gibi ölçüm değerleri olan ve bu sayılanlardan oluşturulan bir endeks seviyesine veya seviyedeki değişikliğe bağlı olan türev araçları,\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda sayılanlardan hangisi/ hangileri türev araçları ifade eder?",
+      "options": [
+        "A) I",
+        "B) I-II",
+        "C) I-III",
+        "D) II-III",
+        "E) I-II-III"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre izahname hazırlama yükümlülüğü ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kitle fonlaması suretiyle halktan para toplanması dahil sermaye piyasası araçlarının halka arz edilebilmesi veya borsada işlem görebilmesi için izahname hazırlanması ve hazırlanan bu izahnamenin Kurulca onaylanması zorunludur.",
+        "B) İzahnamede yer alan bilgiler yatırımcılar tarafından kolaylıkla anlaşılabilecek ve değerlendirilebilecek şekilde sunulur.",
+        "C) İzahnameden sorumlu gerçek kişilerin isimleri ve görevleri ile tüzel kişilerin unvanları, merkezleri ve iletişim bilgileri izahnamede açıkça belirtilir.",
+        "D) İzahname, ihraççıya ve ihraç edilen sermaye piyasası araçlarına ilişkin bilgiler ile bir özet bölümü de içermek üzere bir veya birden fazla belge şeklinde düzenlenebilir.",
+        "E) Halka arz eden tarafından izahnamenin düzenlenmesi sırasında, ihraççının izahname hazırlanmasında kolaylaştırıcı tedbirleri alması zorunludur."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre izahnamenin onaylanması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurul, izahnamede yer alan bilgilerin tutarlı, anlaşılabilir ve Kurulca belirlenen izahname standartlarına göre eksiksiz olduğunun tespiti hâlinde izahnamenin onaylanmasına karar verir.",
+        "B) İzahnamenin onaylanmasına ilişkin başvuru, Kurul düzenlemelerine uygun olarak hazırlanmış izahname ve gerekli diğer bilgi ve belgelerin Kurula sunulmasından itibaren on iş günü içinde Kurul tarafından karara bağlanır ve keyfiyet ilgililere bildirilir. İlk halka arzlarda bu süre yirmi iş günüdür.",
+        "C) İzahnamenin onaylanmasına ilişkin başvuruda sunulan bilgi ve belgelerin eksik olması veya ek bilgi ve belgeye ihtiyaç duyulması hâlinde, başvuru sahibi bilgilendirilerek, eksikliklerin on iş günü içinde giderilmesi istenir.",
+        "D) İzahnamenin ayrı belgelerden oluşması hâlinde, her bir belge ayrıca onaylanır.",
+        "E) İzahnamenin onaylanması, izahnamede yer alan bilgilerin doğru olduğunun Kurulca tekeffülü anlamına gelmeyeceği gibi, söz konusu sermaye piyasası araçlarına ilişkin bir tavsiye olarak da kabul edilemez."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre izahname ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) İzahname onaylandıktan sonra Kurulca belirlenecek esaslar çerçevesinde yayımlanır, ayrıca ticaret siciline tescil ve Türkiye Ticaret Sicili Gazetesi'nde ilan edilir.",
+        "B) İzahnamenin nerede yayımlandığı hususu ayrıca ticaret siciline tescil ve Türkiye Ticaret Sicili Gazetesi'nde ilan edilmez.",
+        "C) İzahnamenin onaylanmadan önce ilan edilmesi mümkün değildir.",
+        "D) İzahnamedeki değiştirilecek veya yeni eklenecek hususlar bildirim tarihinden itibaren on iş günü Kurulca onaylanır.",
+        "E) Yatırımcılar, izahnamede yapılan ek ve değişikliklerin yayımlanmasından itibaren iki iş günü içinde taleplerini geri alma hakkına sahiptirler."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre izahnemeler ilk yayım tarihinden itibaren ne kadar süreyle geçerlidir?",
+      "options": [
+        "A) 6 ay",
+        "B) 10 ay",
+        "C) 12 ay",
+        "D) 18 ay",
+        "E) 24 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- İhraççılar\nII- Halka arz edenler\nIII- İhraca aracılık eden lider aracı kurumlar\nIV- Garantörler\nV- İhraççının yönetim kurulu üyeleri\n\nYukarıdakilerden hangisi/hangileri, İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan kusurlarına ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde sorumludur.",
+      "options": [
+        "A) I",
+        "B) I-II",
+        "C) III-IV-V",
+        "D) II-III-IV-V",
+        "E) I-II-III-IV-V"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre izahname ve ihraç belgesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermaye piyasası araçlarının halka arz edilmeksizin ihraç edilmesi için, söz konusu araçların niteliği ve satış şartları hakkında bilgileri içeren ihraç belgesinin hazırlanarak KAP'da ilan edilmesi yeterlidir.",
+        "B) Bağımsız denetim, derecelendirme ve değerleme kuruluşları gibi izahnamede yer almak üzere hazırlanan raporları hazırlayan kişi ve kurumlar da hazırladıkları raporlarda yer alan yanlış, yanıltıcı ve eksik bilgilerden bu Kanun hükümleri çerçevesinde sorumludur.",
+        "C) İzahname ile ilgili Değişiklik gerektiren veya yeni hususların ortaya çıkması hâlinde, satış süreci durdurulabilir.",
+        "D) İzahname ile ilgili yatırımcıların yatırım kararını etkileyebilecek değişiklik veya yeni hususların ortaya çıkması hâlinde durum ihraççı veya halka arz eden tarafından en uygun haberleşme vasıtasıyla derhal Kurula bildirilir.",
+        "E) İhraca ilişkin ilan, reklam ve açıklamalar izahname ile tutarlı olmalı, gerçeğe aykırı, abartılmış ve yanıltıcı bilgiler içermemelidir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre sermaye piyasası araçlarının kaydileştirilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermaye piyasası araçlarının senede bağlanmaksızın elektronik ortamda kayden ihracı esastır.",
+        "B) Kaydi sermaye piyasası araçlarına ilişkin haklar, Kurul tarafından izlenir. Kayıtlar, Kurul tarafından oluşturulan elektronik ortamda tutulur.",
+        "C) Kurul, kayden ihraç edilecek sermaye piyasası araçlarını ve kayden izlenecek hakları belirler.",
+        "D) Kaydi sermaye piyasası araçları, nama veya hamiline yazılı olmalarına bakılmaksızın isme açılmış hesaplarda izlenir.",
+        "E) Kaydileştirilmesine karar verilen sermaye piyasası araçlarının Kurulca belirlenen esaslar çerçevesinde teslimi zorunludur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre finansal raporlama ve bağımsız denetim ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) İhraççı, kamuya açıklanacak veya gerektiğinde Kurulca istenecek finansal tablo ve raporları, şekil ve içerik bakımından Türkiye Muhasebe Standartları çerçevesinde Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumu tarafından belirlenen düzenlemelere uygun olarak, zamanında, tam ve doğru bir şekilde hazırlamak ve ibraz etmek zorundadır.",
+        "B) Finansal tablo ve raporların Kurulca belirlenen düzenlemelere uygun olarak hazırlanmasından, sunulmasından ve gerçeğe uygunluğu ile doğruluğundan ihraççı ile kusurlarına ve durumun gereklerine göre ihraççının yönetim kurulu üyeleri sorumludur.",
+        "C) Yönetim kurulunun, hazırlanacak finansal tablo ve raporların kabulüne dair ayrı bir karar alması gerekir.",
+        "D) İhraççılar düzenleyecekleri finansal tablo ve raporlardan Türkiye Muhasebe Standartları kapsamında Kurulca belirlenenleri, bu Kanun uyarınca listeye alınan bağımsız denetim kuruluşlarına, Türkiye Denetim Standartları çerçevesinde bilgilerin gerçeği doğru ve dürüst bir biçimde yansıtması ilkesine uygunluğu bakımından inceleterek bir bağımsız denetim raporu almak zorundadırlar.",
+        "E) Kurulca düzenlenmesi istenilen finansal tablo ve raporlar ile bağımsız denetime tabi olunması durumunda bağımsız denetim raporu, Kurulca belirlenen usul ve esaslar çerçevesinde kamuya duyurulur."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, anonim ortaklıkların paylarının halka arz olunmuş sayılması için pay sahibi sayısının kaçı aşması gerekir?",
+      "options": [
+        "A) 100'ü",
+        "B) 250'yi",
+        "C) 400'ü",
+        "D) 500'ü",
+        "E) 750'yi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, payları borsada işlem görmeyen anonim ortaklıklar, halka açık ortaklık statüsünü kazandıktan sonra en geç kaç yıl içinde paylarının işlem görmesi için borsaya başvurmak zorundadırlar?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Halka açık ortaklıklar\nII- Halka açık olmayan ortaklıklar\nIII- Paylarını halka arz etmek üzere Kurula başvurmuş olan ortaklıklar\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıdaki ortaklıklardan hangisi/ hangileri Kuruldan izin alarak kayıtlı sermaye sistemini kabul edebilirler?",
+      "options": [
+        "A) I",
+        "B) I-II",
+        "C) I-III",
+        "D) II-III",
+        "E) I-II-III"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, kayıtlı sermaye sistemi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Halka açık ortaklıklar ile paylarını halka arz etmek üzere Kurula başvurmuş olan ortaklıklar, Kuruldan izin almak şartıyla kayıtlı sermaye sistemini kabul edebilirler.",
+        "B) Daha önce kayıtlı sermaye sistemine geçmiş olan ortaklıklar için ayrıca Kurul izni aranmaz.",
+        "C) Kayıtlı sermaye sisteminde, çıkarılan paylar tamamen satılarak bedelleri ödenmedikçe veya satılamayan paylar iptal edilmedikçe yeni pay çıkarılamaz.",
+        "D) Kayıtlı sermaye sisteminde bulunan halka açık ortaklıklar tarafından pay ile değiştirilebilir tahvil veya paya dönüştürülebilir bir türev araç çıkarılması hâlinde değiştirme veya dönüştürme sonucunda verilecek paylar ile ortaklığın çıkarılmış sermayesinin toplamı kayıtlı sermayeyi aşabilir.",
+        "E) Yönetim kurulunun; imtiyazlı veya nominal değerinin üzerinde veya altında pay çıkarılması, pay sahiplerinin yeni pay alma haklarının sınırlandırılması konularında veya imtiyazlı pay sahiplerinin haklarını kısıtlayıcı nitelikte karar alabilmesi için esas sözleşme ile yetkili kılınması şarttır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kayıtlı sermaye sisteminde, yönetim kurulu, 6102 sayılı Kanunun esas sermayenin artırılmasına ilişkin hükümlerine bağlı kalmaksızın esas sözleşmelerinde tespit edilen kayıtlı sermaye tavanına kadar sermayelerini artırmaya yetkilidir. Şu kadar ki, bu yetki genel kurul tarafından en çok ...... süre ile verilebilir. Bu yetkinin süresi azami ...... yıllık dönemler itibarıyla genel kurul kararıyla uzatılabilir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
+      "options": [
+        "A) 1 yıl - 3 yıl",
+        "B) 3 yıl - 5 yıl",
+        "C) 5 yıl- 5 yıl",
+        "D) 5 yıl - 10 yıl",
+        "E) 10 yıl - 10 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, kâr payı ve bedelsiz pay dağıtımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Halka açık ortaklıklar, kârlarını yönetim kurulları tarafından belirlenecek kâr dağıtım politikaları çerçevesinde ve ilgili mevzuat hükümlerine uygun olarak dağıtırlar.",
+        "B) Kurul halka açık ortaklıkların kâr dağıtımı politikalarına ilişkin olarak, benzer nitelikteki ortaklıklar bazında farklı esaslar belirleyemez.",
+        "C) Halka açık ortaklıklarda kâr payı, dağıtım tarihi itibarıyla mevcut payların tümüne, bunların ihraç ve iktisap tarihleri dikkate alınarak dağıtılır.",
+        "D) Kanunen ayrılması gereken yedek akçeler ve esas sözleşmede pay sahipleri için belirlenen kâr payı ayrılmadıkça başka yedek akçe ayrılmasına, ertesi yıla kâr aktarılmasına ve intifa senedi sahiplerine, yönetim kurulu üyelerine ve ortaklık çalışanlarına kârdan pay dağıtılmasına karar verilemez.",
+        "E) Halka açık ortaklıkların sermaye artırımlarında, bedelsiz paylar artırım tarihindeki mevcut imtiyazlı paylara dağıtılır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, bağış yapılabilmesi veya pay sahibi dışındaki kişilere kârdan pay dağıtılabilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Halka açık ortaklıklar tarafından bağış yapılabilmesi için esas sözleşmede hüküm bulunması şarttır.",
+        "B) Halka açık ortaklıklar tarafından pay sahibi dışındaki kişilere kârdan pay dağıtılabilmesi için esas sözleşmede hüküm bulunması şarttır.",
+        "C) Yapılacak bağışın sınırı halka açık ortaklık genel kurulunca belirlenir.",
+        "D) Kurul, bağış tutarına üst sınır getirmeye yetkilidir.",
+        "E) Ortaklıkların ilgili mali yıl içinde yapmış olduğu bağışlar, dağıtılabilir kâr matrahında düşülür"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, bir hesap döneminde verilecek toplam kâr payı avansı aşağıdakilerden hangisini aşamaz?",
+      "options": [
+        "A) Bir önceki yıla ait dönem kârının yarısını",
+        "B) Bir önceki yıla ait dönem kârının %25'ini",
+        "C) Bir önceki ara döneme ait dönem kârının yarısını",
+        "D) Bir önceki ara döneme ait dönem kârının %25'ini",
+        "E) Bir önceki yıla ait dönem kârını"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, kar payı avansı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Bir hesap döneminde verilecek toplam kâr payı avansı bir önceki yıla ait dönem kârının yarısını aşamaz.",
+        "B) Yönetim kurulu üyelerinin kar payı avansının doğru olmamasından doğan zararlar karşısındaki sorumluluğu kusursuz sorumluluktur.",
+        "C) Önceki dönemde ödenen kâr payı avansları mahsup edilmeden ilave kâr payı avansı verilmesine karar verilemez.",
+        "D) Önceki dönemde ödenen kâr payı avansları mahsup edilmeden kâr payı dağıtılmasına karar verilemez.",
+        "E) Hukuki sorumluluk doğuran hâllerin varlığı hâlinde, pay sahipleri ve yönetim kurulu üyeleri tarafından kararın ilanından itibaren otuz gün içinde iptal davası açılabilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, halka açık ortaklıklar ve kolektif yatırım kuruluşları, ilişkili taraf işlemlerinin emsallerine, piyasa teamüllerine, ticari hayatın basiret ve dürüstlük ilkelerine uygun şartlarda gerçekleştirilmiş olduğuna ilişkin tevsik edici bilgi ve belgeleri en az kaç yıl süre ile saklamak zorundadırlar.",
+      "options": [
+        "A) 1 yıl",
+        "B) 3 yıl",
+        "C) 5 yıl",
+        "D) 8 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları ile bunların iştirak ve bağlı ortaklıklarının, esas sözleşmeleri veya iç tüzükleri çerçevesinde basiretli ve dürüst bir tacir olarak veya piyasa teamülleri uyarınca kârlarını ya da malvarlıklarını korumak veya artırmak için yapmaları beklenen faaliyetleri yapmamaları yoluyla ilişkili oldukları gerçek veya tüzel kişilerin kârlarının ya da malvarlıklarının artmasını sağlamaları da .............................. sayılır.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir.",
+      "options": [
+        "A) Piyasa bozucu eylem",
+        "B) Bilgi suistimali",
+        "C) Piyasa dolandırıcılığı",
+        "D) Örtülü kazanç aktarımı",
+        "E) Transfer fiyatlandırması"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "I- Halka açık ortaklıklar\nII- Halka açık olmayan ortaklıklar\nIII- Kolektif yatırım kuruluşları\nIV- Yatırım kuruluşları\n\nYukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununda yer alan Örtülü Kazanç Aktarım Yasağı hükümlerine tabidir?",
+      "options": [
+        "A) I-II",
+        "B) I-III",
+        "C) I-IV",
+        "D) I-III-IV",
+        "E) III-IV"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi halka açık ortaklıkların önemli nitelikteki işlemleri arasında yer almaz?",
+      "options": [
+        "A) Tür değiştirme",
+        "B) İmtiyaz öngörme",
+        "C) Bölünme işlemlerine taraf olma",
+        "D) Birleşme işlemlerine taraf olma",
+        "E) Unvan değiştirme"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre pay alım teklifi zorunluluğu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır.",
+      "options": [
+        "A) Halka açık ortaklıklarda yönetim kontrolünü sağlayan payların veya oy haklarının iktisap edilmesi hâlinde söz konusu payların veya oy haklarının iktisabının kamuya açıklandığı tarihte ve bu tarihten sonra pay sahibi olan diğer ortakların paylarını satın almak üzere teklif yapılması zorunludur.",
+        "B) Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak sahip olunması, yönetim kurulu üye sayısının salt çoğunluğunu seçme veya genel kurulda söz konusu sayıdaki üyelikler için aday gösterme hakkını veren imtiyazlı paylara sahip olunması, yönetim kontrolünün elde edilmesi olarak kabul edilir.",
+        "C) Kurul, yatırım ortaklıklarının yatırım ortaklığı niteliklerinin değiştirilmesine veya yitirilmesine neden olacak esas sözleşme değişikliklerine izin verilebilmesi için pay alım teklifi zorunluluğu getirebilir.",
+        "D) Pay alım teklifinde bulunma zorunluluğu doğan gerçek ve tüzel kişiler ile bunlarla birlikte hareket edenlerin sahip olduğu oy hakları, Kurulca belirlenecek süre içinde bu zorunluluğun yerine getirilmemesi hâlinde kendiliğinden donar. Söz konusu paylar, genel kurul toplantı nisabında dikkate alınmaz.",
+        "E) Usul ve esaslarını Kurul belirler."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Kurulun belirlediği esaslar çerçevesinde, faaliyetlerinin makul ve zorunlu kıldığı hâller saklı kalmak kaydıyla, mevzuata uygun olarak hazırlanmış finansal tablolarına göre üst üste kaç yıl dönem zararı eden halka açık ortaklıklarda, oy hakkına ve yönetim kurulunda temsil edilmeye ilişkin imtiyazlar Kurul kararı ile kalkar?",
+      "options": [
+        "A) 10 yıl",
+        "B) 8 yıl",
+        "C) 5 yıl",
+        "D) 3 yıl",
+        "E) 2 yıl"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, borçlanma aracı sahipleri kurulu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) İhraççının tedavülde bulunan borçlanma araçlarının sahipleri, borçlanma aracı sahipleri kurulunu oluşturur.",
+        "B) İhraççının her bir tertip borçlanma aracı sahipleri de ayrı bir borçlanma aracı sahipleri kurulu oluşturabilir.",
+        "C) Borçlanma aracı sahipleri kurulunun ihraççının yönetim kurulu tarafından veya borçlanma araçları sahipleri tarafından toplantıya çağrılmasına ve borçlanma aracı sahipleri kurulunda karar alınmasına ilişkin esasların ve şartların, izahname ve/veya ihraç belgesinde belirlenmesi zorunludur.",
+        "D) Borçlanma aracı sahiplerini temsil etmek üzere temsilci atanamaz.",
+        "E) Borçlanma araçlarının geri ödemelerinde temerrüt oluştuktan sonra bu borçlanma araçlarının hüküm ve şartlarının değiştirilmesi halinde, borçlanma aracının temerrüdü nedeniyle başlatılmış tüm takipler ilgili borçlanma aracının hüküm ve şartlarının değiştirilmiş kabul edildiği tarih itibarıyla durur, ihtiyati tedbir ve ihtiyati haciz kararları uygulanmaz, bir takip muamelesi ile kesilebilen zamanaşımı ve hak düşüren müddetler işlemez."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, teminat yönetim sözleşmesi ve teminat yöneticisi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurulca belirlenecek sermaye piyasası araçları, bu araçlardan doğan yükümlülüklerin vadesinde yerine getirilmesini teminen Kurulun uygun göreceği varlıklarla teminat altına alınabilir.",
+        "B) Teminata konu varlıkların mülkiyeti teminaten genel saklama yetkisine sahip yatırım kuruluşu niteliğini haiz teminat yöneticisine devredilir veya bu varlıklar üzerinde teminat yöneticisi lehine sınırlı ayni hak tesis edilir.",
+        "C) Teminat yöneticisi, ihraçtan önce, ihraççı ile yazılı olarak akdedilecek bir teminat yönetim sözleşmesi ile yetkilendirilir.",
+        "D) Teminat yöneticisi, teminatlara ilişkin tüm iş ve muameleleri kendi adına ve yatırımcılar hesabına yerine getirmeye yetkilidir.",
+        "E) Teminat yöneticisi, temerrüt hâlinde ya da kanun veya sözleşme hükümlerinde öngörülen sebeplerle, teminattan alacağın karşılanması söz konusu olduğu durumlarda Kuruldan izin alarak teminata konu varlıkları satıp bedellerini yatırımcılar arasında paylaştırabilir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "I- Teminat konusu varlıklar, teminat yöneticisinin mal varlığından ayrıdır ve ayrı izlenir.\nII- Teminat konusu varlıklar, teminat yöneticisinin borçları nedeniyle, kamu alacakları için olanlar hariç olmak üzere, haczedilemez, rehnedilemez, iflas masasına dâhil edilemez ve üzerlerine ihtiyati tedbir ve ihtiyati haciz konulamaz.\nIII- Teminat yöneticisinin sorumluluğunu hafifleten ya da kaldıran anlaşmalar, hüküm veya ifadeler geçersizdir.\nIV- Kurulun onayladığı her teminat yöneticisinin ticaret unvanı, hangi ihraçla ilgili olarak atandığı ve yetkileri, ihraççı tarafından ihraççının merkezinin bulunduğu yerin ticaret siciline ayırt edici şekilde tescil edilmesi yeterli olup ayrıca Türkiye Ticaret Sicili Gazetesi'nde ilan edilmesi gerekmez.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, teminat yönetim sözleşmesi ve teminat yöneticisi ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "options": [
+        "A) I-II",
+        "B) I-III",
+        "C) I-II-III",
+        "D) II-III-IV",
+        "E) I-II-III-IV"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Kamuyu aydınlatma belgelerinden doğan tazminat talebi, zararın meydana geldiği tarihten itibaren ne kadar süre içinde zamanaşımına uğrar?",
+      "options": [
+        "A) 3 ay",
+        "B) 6 ay",
+        "C) 12 ay",
+        "D) 2 yıl",
+        "E) 5 yıl"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Kamuyu aydınlatma belgelerinden doğan sorumluluk ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurulca kamuyu aydınlatma amacı ile düzenlenmesi öngörülen sair kamuyu aydınlatma belgelerini imzalayanlar veya bu belgeler kendi adına imzalanan tüzel kişiler bu belgelerde yer alan yanlış, yanıltıcı veya eksik bilgilerden kaynaklanan zararlardan müteselsilen sorumludur.",
+        "B) Bağımsız denetim, derecelendirme ve değerleme kuruluşları gibi kamuyu aydınlatma belgelerinde yer alan veya bu belgelere dayanak olmak üzere hazırlanan raporları hazırlayan kişi ve kurumlar da bu Kanun hükümleri çerçevesinde sorumludur.",
+        "C) Kamuyu aydınlatma belgelerinde yer alan bilgilerin yanlış, yanıltıcı veya eksik olması konusunda bilgi sahibi olmadığını ve bu bilgi eksikliğinin kast veya ağır ihmallerinden kaynaklanmadığını ispatlayan kişiler sorumlu olmaz.",
+        "D) Kamuyu aydınlatma belgelerinden doğan tazminat talebi, zararın meydana geldiği tarihten itibaren 1 yıl içinde zamanaşımına uğrar.",
+        "E) Kamuyu aydınlatma belgelerinden doğan sorumluluğu hafifleten ya da kaldıran anlaşmalar, hüküm veya ifadeler geçersizdir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "I- Sermaye piyasası araçlarının alım veya satımının, kamuyu aydınlatma belgesine dayanmaması,\nII- Sermaye piyasası araçlarının alım veya satımının kamuyu aydınlatma belgelerinde yer alan bilgilerin yanlış, yanıltıcı veya eksik olduğu bilinmesine rağmen yapılması,\nIII- Kamuyu aydınlatma belgelerinde yer alan yanlış, yanıltıcı veya eksik bilgilere ilişkin düzeltmenin, yatırım kararının verilmesinden veya bu belgeye dayanarak işlem yapılmasından önce ilan edilmiş olması,\nIV- Kamuya açıklanan belgede yer alan bilgiler yanlış, yanıltıcı veya eksik olmasaydı dahi yatırımcıların zarara uğrayacak olmaları,\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıdaki durumların hangilerinde Kamuyu aydınlatma belgelerinin yanlış, yanıltıcı veya eksik olmasından kaynaklanan tazminat talebi reddedilir?",
+      "options": [
+        "A) I-II-III",
+        "B) I-III-IV",
+        "C) II-III-IV",
+        "D) III-IV",
+        "E) I-II-III-IV"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 6362 sayılı Sermaye Piyasası Kanununa göre faaliyette bulunabilecek sermaye piyasası kurumlarından değildir?",
+      "options": [
+        "A) Yatırım kuruluşları",
+        "B) Kolektif yatırım kuruluşları",
+        "C) Portföy yönetim şirketleri",
+        "D) Varlık yönetim şirketleri",
+        "E) İpotek finansmanı kuruluşları"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "I- Merkezî takas kuruluşları\nII- Merkezî saklama kuruluşları\nIII- Veri depolama kuruluşları\nIV- Konut finansmanı ve varlık finansmanı fonları\nV- Varlık kiralama şirketleri\nVI- Bağımsız denetim, değerleme ve derecelendirme kuruluşları\nVII- Yatırımcı Tazmin Merkezi\nVIII- Merkezi Kayıt Kuruluşu\n\nYukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununa göre faaliyette bulunabilecek sermaye piyasası kurumlarındandır?",
+      "options": [
+        "A) I-II-VIII",
+        "B) I-II-III-VII",
+        "C) IV-V-VIII",
+        "D) I-II-III-IV-VII",
+        "E) I-II-III-IV-V-VI"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, kitle fonlama platformları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kitle fonlama platformları, kitle fonlamasına aracılık eden ve elektronik ortamda hizmet veren kuruluşlardır.",
+        "B) Borçlanmaya dayalı kitle fonlaması faaliyetlerine bankacılık mevzuatı hükümleri uygulanmaz.",
+        "C) Kitle fonlama platformlarının kurulabilmesi ve faaliyete başlaması için Bakanlıktan izin alınması zorunludur.",
+        "D) Kitle fonlaması platformları ve kitle fonlaması suretiyle halktan para toplayan kişiler ile bunlara fon sağlayanlar arasındaki ilişkiler genel hükümlere tabidir.",
+        "E) Kitle fonlaması işlemlerine ilişkin hazırlanan bilgi formunu imzalayan gerçek ve tüzel kişiler bilgi formunda yer alan yanlış, yanıltıcı veya eksik bilgilerden kaynaklanan zararlardan müteselsilen sorumludur."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi yatırım hizmetleri ve faaliyetleri arasında yer almaz?",
+      "options": [
+        "A) Portföy yöneticiliği",
+        "B) Yatırım danışmanlığı",
+        "C) Sermaye piyasaları ile ilgili danışmanlık hizmetleri sunulması",
+        "D) Sermaye piyasası araçlarının kendi hesabından alım ve satımı",
+        "E) Sermaye piyasası araçlarıyla ilgili emirlerin alınması ve iletilmesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Sermaye piyasası araçlarıyla ilgili emirlerin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına gerçekleştirilmesi\nII- Sermaye piyasası araçlarının halka arzında yüklenimde bulunularak satışa aracılık edilmesi\nIII- Sermaye piyasası araçlarının halka arzında yüklenimde bulunmaksızın satışa aracılık edilmesi\nIV- Çok taraflı alım satım sistemlerinin ve borsa dışı diğer teşkilatlanmış pazar yerlerinin işletilmesi\nV- Sermaye piyasası araçlarının müşteri namına saklanması ve yönetimi ile portföy saklanması\n\nYukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununa göre yatırım hizmetleri ve faaliyetleri arasında yer alır?",
+      "options": [
+        "A) I-II",
+        "B) I-II-III",
+        "C) II-III-V",
+        "D) I-II-III-IV-V",
+        "E) I-III-IV"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi yatırım kuruluşları ve portföy yönetim şirketlerinin yapabilecekleri yan hizmetlerden değildir?",
+      "options": [
+        "A) Sermaye piyasası araçlarının halka arzında yüklenimde bulunmaksızın satışa aracılık edilmesi",
+        "B) Sermaye piyasası araçlarına ilişkin işlemlerle ilgili yatırım araştırması ve finansal analiz yapılması veya genel tavsiyede bulunulması",
+        "C) Aracılık yükleniminin yürütülmesi ile ilgili hizmetlerin sunulması",
+        "D) Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması",
+        "E) Servet yönetimi ve finansal planlama yapılması"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Yatırım hizmetlerinin ve faaliyetlerinin düzenli uğraşı, ticari veya mesleki faaliyet olarak icra edilebilmesi için Kuruldan izin alınması zorunludur.",
+        "B) Yatırım hizmetleri ve faaliyetleri yatırım kuruluşları ve portföy yönetim şirketleri tarafından yerine getirilebilir.",
+        "C) Yan hizmetler, yatırım kuruluşları ve portföy yönetim şirketlerince ayrıca bir yetki belgesine tabi olmaksızın Kurulca belirlenen esaslar çerçevesinde yapılır.",
+        "D) Faaliyet izni başvuruları, gerekli belgelerin Kurula eksiksiz olarak sunulmasından itibaren azami altı ay içinde Kurul tarafından karara bağlanır ve keyfiyet ilgililere bildirilir.",
+        "E) Kurul, yatırım hizmetleri ve faaliyetleri ile yan hizmetlerin sunulabilmesi için mesleki sorumluluk sigortası yaptırılmasını zorunlu tutabilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "I- Faaliyette bulunma yetkisinden açıkça feragat edilmesi durumunda\nII- Faaliyet izninin verildiği tarihten itibaren bir yıl süreyle ilgili izin kapsamında herhangi bir faaliyette bulunulmaması durumunda\nIII- Faaliyet izninin yanlış veya yanıltıcı beyanlarda bulunularak ya da hukuka aykırı diğer yollarla alınmış olması durumunda\nIV- Faaliyet izninin alınması sırasında aranan şartların kaybedildiğinin Kurulca tespitinden itibaren üç ay içinde bu şartların yeniden sağlanamaması durumunda\n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıdaki durumların hangilerinde Kurul, bu kanun kapsamında vermiş olduğu yatırım hizmetleri ve faaliyetleri veya yan hizmetler ile ilgili yetki belgesi ve faaliyet izinlerini iptal edebilir?",
+      "options": [
+        "A) I-II",
+        "B) I-III",
+        "C) I-III-IV",
+        "D) II-III-IV",
+        "E) I-II-III-IV"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi, aracı kurumların kuruluşuna Kurulca izin verilebilmesi için gerekli olan şartlardan değildir?",
+      "options": [
+        "A) Anonim ortaklık şeklinde kurulmaları,",
+        "B) Paylarının tamamının hamiline yazılı olması,",
+        "C) Paylarının nakit karşılığı çıkarılması,",
+        "D) Sermayelerinin Kurulca belirlenen miktardan az olmaması,",
+        "E) Ortaklık yapısının şeffaf ve açık olması,"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi, aracı kurumların kurucu ortakları için aranan şartlardan değildir?",
+      "options": [
+        "A) Kurucu ortakların müflis olmaması",
+        "B) Kurucu ortakların konkordato ilan etmiş olmaması",
+        "C) Kurucu ortaklar hakkında iflasın ertelenmesi kararı verilmiş olmaması,",
+        "D) Kurucu ortakların gerekli mali güç ve işin gerektirdiği dürüstlük ve itibara sahip olması",
+        "E) Kurucu ortaklar hakkında taksirle işlenen suçlar dâhil beş yıl veya daha fazla süreyle hapis cezasına mahkûm olmaması"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, sermaye piyasası araçlarını konu alan teminat sözleşmeleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) MKK nezdinde kayden izlenen sermaye piyasası araçlarını konu alan teminat sözleşmeleri yazılı şekilde yapılır.",
+        "B) Teminat sözleşmelerine konu sermaye piyasası araçlarının mülkiyeti, sözleşmeye bağlı olarak teminat alana kanuni usullere göre devredilebileceği gibi teminat verende de kalabilir.",
+        "C) Teminat sözleşmelerinde sözleşmeye konu sermaye piyasası araçlarının mülkiyetinin kimde kalacağına ilişkin bir hüküm bulunmaması halinde teminat konusu sermaye piyasası araçlarının mülkiyeti teminat alana geçmiş sayılır.",
+        "D) Mülkiyetin teminat alana devredildiği teminat sözleşmelerinde; teminat alan, teminat sözleşmesinin kurulduğu anda teminat konusu sermaye piyasası araçlarının mülkiyet hakkına, kanuni usullere uyarak devri sonucu sahip olur.",
+        "E) Mülkiyetin teminat verende kaldığı teminat sözleşmelerinde; teminat konusu sermaye piyasası aracının satışı da dâhil olmak üzere ne kapsamda kullanılabileceği hususunda taraflar aralarında anlaşırlar."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, yatırım ortaklıkları ile ilgili aşağıdaki ifadelerden hangisi söylenemez?",
+      "options": [
+        "A) Yatırım ortaklıkları, sermaye piyasası araçları, gayrimenkul, girişim sermayesi yatırımları ile Kurulca belirlenecek diğer varlık ve haklardan oluşan portföyleri işletmek amacıyla, paylarını ihraç etmek üzere kurulan sabit veya değişken sermayeli anonim ortaklıklardır.",
+        "B) Yatırım ortaklıklarının esas sözleşme değişikliklerinde Kurulun uygun görüşünün alınması zorunludur.",
+        "C) Yatırım ortaklıklarının kuruluşuna ilişkin şartlar, yatırım ortaklığına dönüşümde de aranır.",
+        "D) Yatırım ortaklıkları genel kurul kararı ile bir portföy yönetim şirketinden hizmet alabilir.",
+        "E) Gayrimenkul yatırım ortaklıklarının kuruluşlarında ve sermaye artırımlarında, Kurulca portföye alınması uygun görülen varlıklar ayni sermaye olarak konulabilir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi yatırım ortaklıklarına kuruluş izni verilebilmesi için taşımaları gereken şartlardan değildir?",
+      "options": [
+        "A) Kayıtlı sermayeli anonim ortaklık şeklinde kurulmaları gerekir.",
+        "B) Başlangıç sermayelerinin Kurulca belirlenen miktardan az olmaması gerekir.",
+        "C) Paylarının nakit karşılığı çıkarılması ve pay bedellerinin kuruluş sırasında tam ve nakden ödenmesi gerekir.",
+        "D) Ticaret unvanlarında \"Yatırım Ortaklığı\" ibaresinin bulunması gerekir.",
+        "E) Paylarının tamamının nama yazılı olması gerekir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, değişken sermayeli yatırım ortaklıkları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Değişken sermayeli yatırım ortaklıkları, sermayesi her zaman net aktif değerine eşit olan yatırım ortaklıklarıdır. Net aktif değer ise varlıkların toplamından borçların toplamının düşülmesi suretiyle bulunan tutarı ifade eder.",
+        "B) Yatırım ortaklıkları, değişken sermayeli yatırım ortaklıklarına dönüşemez.",
+        "C) Değişken sermayeli yatırım ortaklıkları, bu Kanundaki hükümlere uygun olarak, pay ihraç eder ve ihraç olunan payları itfa eder.",
+        "D) Değişken sermayeli yatırım ortaklıkları, pay sahibinin talebi üzerine payları itfa etmek ve ortaklık sermayesinde buna karşılık gelen pay bedelini geri ödemekle yükümlüdür.",
+        "E) Payların itfa edilmesine ilişkin usul ve esaslar esas sözleşmede gösterilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Değişken sermayeli yatırım ortaklıklarının kurucu paylarının değerinin Kurulca belirlenen tutarların altına düşmesi yahut mali durumlarının yükümlülüklerini karşılayamayacak kadar zayıflaması hâlinde, yönetim kurulu, bu durumu gecikmeksizin Kurula bildirir. Yönetim kurulu, bildirimi takiben, gerekli önlemleri almak üzere genel kurulu derhal toplantıya çağırır ve en geç .......... içinde genel kurul toplanır. Kurucu paylarının belirlenen tutara artırılamaması veya mali durumdaki zayıflığın giderilememesi hâlinde, Kurul, değişken sermayeli yatırım ortaklıkları hakkında tasfiye dâhil her tür tedbiri almaya yetkilidir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıda boş bırakılan yere aşağıdaki ifadelerden hangi getirilmelidir?",
+      "options": [
+        "A) 1 hafta",
+        "B) 2 hafta",
+        "C) 3 hafta",
+        "D) 30 gün",
+        "E) 60 gün"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, yatırım fonları aşağıdakilerden hangisi tarafından kurulabilir?",
+      "options": [
+        "A) Portföy yönetim şirketleri",
+        "B) Varlık yönetim şirketleri",
+        "C) Varlık kiralama şirketleri",
+        "D) İpotek finansmanı kuruluşları",
+        "E) Yatırım kuruluşları"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, yatırım fonlarının mal varlığına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Fonun mal varlığı, portföy yönetim şirketi ve portföy saklama hizmetini yürütecek kuruluşun mal varlığından ayrıdır.",
+        "B) Fon mal varlığı, hiçbir şekilde teminat gösterilemez ve rehnedilemez.",
+        "C) Fon mal varlığı portföy yönetim şirketinin ve portföy saklama hizmetini yürüten kuruluşun yönetiminin veya denetiminin kamu kurumlarına devredilmesi hâlinde dahi başka bir amaçla tasarruf edilemez, kamu alacaklarının tahsili amacı da dâhil olmak üzere haczedilemez, üzerine ihtiyati tedbir konulamaz ve iflas masasına dâhil edilemez.",
+        "D) Fon mal varlığının tasfiyesi durumunda yalnızca katılma payı sahiplerine ödeme yapılabilir.",
+        "E) Portföy yönetim şirketlerinin üçüncü kişilere olan borçları ve yükümlülükleri ile yatırım fonlarının aynı üçüncü kişilerden olan alacakları birbirlerine karşı mahsup edilemez."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, portföy yönetim şirketleri ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+      "options": [
+        "A) Portföy yönetim şirketi, ana faaliyet konusu yatırım fonlarının kurulması ve yönetimi olan anonim ortaklıktır.",
+        "B) Portföy yönetim şirketinin kurulması ve faaliyete geçmesi için Kuruldan izin alınması zorunludur.",
+        "C) Portföy yönetim şirketlerinin hizmet verdiği kişi ve kuruluşların portföylerinde yer alan saklamaya konu olabilecek varlıklar Kurulca belirlenen esaslar çerçevesinde ilgili portföy yönetim şirketi nezdinde saklanır.",
+        "D) Portföy yönetim şirketlerinin dönüşüm işlemleri ile esas sözleşme değişikliklerinde Kurulun uygun görüşünün alınması zorunludur.",
+        "E) Portföy yönetim şirketlerinin kuruluş başvuruları, gerekli belgelerin Kurula eksiksiz olarak sunulmasından itibaren altı ay içinde Kurul tarafından karara bağlanır ve keyfiyet ilgililere bildirilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, konut ve varlık finansmanı fonları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Varlık finansmanı fonu, ipoteğe dayalı menkul kıymetler karşılığında toplanan paralarla, ipoteğe dayalı menkul kıymet sahipleri hesabına; konut finansmanı fonu, varlığa dayalı menkul kıymetler karşılığında toplanan paralarla, varlığa dayalı menkul kıymet sahipleri hesabına inançlı mülkiyet esaslarına göre fon iç tüzüğü ile kurulan ve tüzel kişiliği olmayan mal varlığıdır.",
+        "B) Fon kurulu, ipoteğe veya varlığa dayalı menkul kıymetlerin sahiplerinin haklarını koruyacak şekilde fonu temsil eder ve yönetir.",
+        "C) Fon portföyüne alınan varlıkların kayıtlarının doğruluğundan ve bu varlıkların korunması ve saklanmasından fon kurulu sorumludur..",
+        "D) Fon portföyüne alınan varlıkların kayıtlarının doğruluğundan ve bu varlıkların korunması ve saklanmasından fon kurulu sorumludur.",
+        "E) Fon; tapu, ticaret sicili ve diğer resmî sicillerde tescil, değişiklik, terkin ve düzeltme talepleri dâhil olmak üzere her türlü sicil işlemleri ile sınırlı olarak tüzel kişiliği haiz addolunur."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, konut ve varlık finansmanı kapsamında, türleri ve nitelikleri Sermaye Piyasası Kurulunca belirlenen varlıkların devralınması, devredilmesi, devralınan varlıkların yönetimi ve varlıkların teminat olarak alınması faaliyetlerinin yerine getirilmesi amacıyla kurulan anonim ortaklık aşağıdakilerden hangisidir?",
+      "options": [
+        "A) İpotek finansmanı kuruluşları",
+        "B) Varlık kiralama şirketleri",
+        "C) Portföy yönetim şirketleri",
+        "D) Gayrimenkul değerleme kuruluşları,",
+        "E) Derecelendirme kuruluşları,"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, gayrimenkul sertifikalarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Gayrimenkul sertifikası bir para piyasası aracıdır.",
+        "B) Gayrimenkul sertifikası, ihraççıların inşa edilecek veya edilmekte olan gayrimenkul projelerinin finansmanında kullanılmak üzere ihraç edilir.",
+        "C) Gayrimenkul sertifikası ihracına ilişkin usul ve esaslar Sermaye Piyasası Kurulunca belirlenir.",
+        "D) Gayrimenkul sertifikası itfa edilinceye kadar, gayrimenkul sertifikasına konu bağımsız bölümler, ihraççının yönetiminin kamu kurumlarına devredilmesi halinde dahi amacı dışında tasarruf edilemez.",
+        "E) Gayrimenkul sertifikası itfa edilinceye kadar, gayrimenkul sertifikası ihracı karşılığında elde edilen fon kamu alacaklarının tahsili amacıyla dahi haczedilemez."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi münhasıran kira sertifikası ihraç etmek üzere kurulan anonim ortaklıklardır.",
+      "options": [
+        "A) Portföy yönetim şirketleri",
+        "B) Varlık yönetim şirketleri",
+        "C) Varlık kiralama şirketleri",
+        "D) Faktoring şirketleri",
+        "E) Finansal kiralama şirketleri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, proje finansmanı, proje finansman fonu ve projeye dayalı menkul kıymetler ile ilgili aşağıdaki ifadelerden hangisi doğru bir ifade değildir?",
+      "options": [
+        "A) Proje finansmanı; uzun vadeli ve yoğun sermaye isteyen altyapı, enerji, sanayi veya teknoloji yatırımları gibi projelerin gerçekleştirilmesi için proje finansman fonu yoluyla finansman sağlanmasıdır.",
+        "B) Proje finansman fonu; projeye dayalı menkul kıymetler karşılığında toplanan para ve/veya diğer varlıklarla, projeye dayalı menkul kıymet sahipleri hesabına, proje finansmanına konu varlık ve hakların gelirlerine dayalı olarak oluşturulan portföyü işletmek amacıyla yatırım kuruluşları tarafından inançlı mülkiyet esaslarına göre fon iç tüzüğü ile kurulan, özel hukuk tüzel kişiliğidir.",
+        "C) Proje finansmanına konu olan projenin gelirleri ve diğer hakları proje finansman fonuna temlik edilir.",
+        "D) Devrinin geçerliliği bir tapu veya sicil kaydına bağlı olan ve proje finansman fonu portföyüne alınan varlık ve haklar, tapu siciline veya ilgili sicile fon adına tescil edilir.",
+        "E) Tapuda, ticaret sicilinde ve diğer resmî sicillerde fon adına yapılacak işlemler, proje finansman fonu kurucusu ile fon kuruluşunu temsil eden birer yetkilinin müşterek imzalarıyla gerçekleştirilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Bağımsız Denetim, Derecelendirme ve Değerleme Kuruluşlarının faaliyet esasları ve sorumlulukları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından yetkilendirilmiş bağımsız denetim kuruluşlarından bu Kanun uyarınca bağımsız denetim faaliyetinde bulunacaklardan istenilecek ilave şartlar Kurul tarafından belirlenir ve bu şartları haiz bağımsız denetim kuruluşlarına ilişkin liste kamuoyuna açıklanır.",
+        "B) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu, listede yer alan bağımsız denetim kuruluşlarının bu Kanun kapsamındaki bağımsız denetim faaliyetlerine ilişkin yapacağı kalite kontrol ve denetim çalışmaları neticesinde standart ve mevzuata aykırılıkları tespit edenleri listeden çıkarmaya yetkilidir.",
+        "C) Kurul, bu Kanun hükümlerine tabi kuruluşların bilgi sistemleri denetimi, derecelendirme ve değerleme faaliyetlerinin güvenli ve bağımsız şekilde yürütülmesi ve bunu teminen kalite güvence sistemlerinin oluşturulması ile kamu yararını gözetmek suretiyle uluslararası standartlara uyumun sağlanması amacıyla düzenleme, gözetim ve denetim yapar.",
+        "D) Bağımsız denetim kuruluşları, görevlerinin kapsamıyla sınırlı olmak üzere, denetledikleri finansal tablo ve raporların mevzuata uygun olarak denetlenmesi nedeniyle doğabilecek zararlardan raporu imzalayanlarla birlikte sorumludur.",
+        "E) Bağımsız denetim kuruluşları ile derecelendirme ve değerleme kuruluşları, faaliyetleri neticesinde düzenledikleri raporlarda yer alan yanlış, yanıltıcı ve eksik bilgiler dolayısıyla neden oldukları zararlardan sorumludurlar."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre bağımsız denetim kuruluşları ve bağımsız denetçiler, görevlerini yerine getirirken bilgi sahibi olduğu şirketle ilgili aşağıdaki durumlardan hangisini kurula bildirmekle yükümlü değildir?",
+      "options": [
+        "A) Bu Kanun ve ilgili mevzuattaki yetkilendirme ve faaliyet şartlarına ilişkin hükümleri ihlal eden durumları",
+        "B) Şirketin faaliyetlerinin sürekli ve düzenli bir şekilde yürütülmesini engelleyebilecek durumları",
+        "C) Olumsuz görüş verilmesini gerektiren durumları",
+        "D) Görüş bildirmekten kaçınma gerektiren durumları",
+        "E) Sınırlı olumlu görüş gerektiren durumları"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, borsaların ve piyasa işleticilerinin kuruluşuna aşağıdakilerden hangisi tarafından izin verilir?",
+      "options": [
+        "A) Cumhurbaşkanı",
+        "B) Sermaye Piyasa Kurulu",
+        "C) İlgili Bakan",
+        "D) Borsa İstanbul Anonim Şirketi",
+        "E) Bakanlar Kurulu"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, borsaların ve piyasa işleticilerinin faaliyete geçmelerine aşağıdakilerden hangisi tarafından izin verilir?",
+      "options": [
+        "A) Cumhurbaşkanı",
+        "B) Sermaye Piyasa Kurulu",
+        "C) İlgili Bakan",
+        "D) Borsa İstanbul Anonim Şirketi",
+        "E) Bakanlar Kurulu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerin hangisi borsalar ve piyasa İşleticilerine kuruluş izini verilmesi için taşımaları gereken şartlardandır?",
+      "options": [
+        "A) Anonim şirket şeklinde kurulmaları gerekir.",
+        "B) Paylarının en az yarısının nama yazılı olması gerekir.",
+        "C) Paylarının nakit karşılığı çıkarılması gerekir.",
+        "D) Sermayelerinin Kurulca belirlenen miktardan az olmaması gerekir.",
+        "E) Esas sözleşmelerinin bu Kanun ve ilgili düzenlemelerde yer alan hükümlere uygun olması gerekir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, borsalar ve piyasa işleticilerine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kuruluş ve faaliyet izni başvuruları borsa, piyasa işleticisi veya borsa adına piyasa işleticisi tarafından yapılabilir.",
+        "B) Kuruluşuna izin verilen borsanın kuruluş izninin alınmasını takiben en geç bir yıl içinde Kuruldan faaliyet izni almak üzere başvuruda bulunulması şarttır.",
+        "C) Kurulun izin vermediği esas sözleşme değişiklikleri, pay devirleri veya kontrol devri sonucunu doğuran işlemler borsa veya piyasa işleticisi üzerinde idari açıdan hüküm doğurmaz.",
+        "D) Bu Kanunda yer alan hükümler saklı kalmak kaydıyla, borsalar özel hukuk hükümlerine tabi olup, bu Kanunla verilen görev ve yetkileri kendi sorumlulukları altında bağımsız olarak yerine getirirler ve kullanırlar.",
+        "E) Borsalara karşı açılacak davalar idari yargıda görülür."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi teşkilatlanmış diğer pazar yerlerinin gözetim ve denetim merciidir?",
+      "options": [
+        "A) Sermaye Piyasa Kurulu",
+        "B) Borsa İstanbul A.Ş.",
+        "C) Ticaret Bakanlığı",
+        "D) Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumu",
+        "E) Cumhurbaşkanlığı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi Türkiye Sermaye Piyasaları Birliğinin görev ve yetkileri arasında yer almaz?",
+      "options": [
+        "A) Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirmek",
+        "B) Sermaye piyasalarının ve üye kuruluşların faaliyetlerinin gelişmesini sağlamak üzere araştırmalar yapmak",
+        "C) Haksız rekabeti önlemek amacıyla gerekli tedbirleri almak",
+        "D) Birlik statüsünde öngörülen disiplin cezalarını vermek",
+        "E) Üye kuruluşları temsilen ulusal ve uluslararası kuruluşlarla iş birliği yapmak"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi Türkiye Değerleme Uzmanları Birliğinin görev ve yetkileri arasında yer almaz?",
+      "options": [
+        "A) Gayrimenkul piyasasının ve gayrimenkul değerleme faaliyetlerinin gelişmesini sağlamak üzere araştırmalar yapmak",
+        "B) Birlik üyelerinin dayanışma ve mesleğin gerektirdiği özen ve disiplin içinde çalışmalarına yönelik meslek kurallarını ve değerleme standartlarını oluşturmak",
+        "C) Ulusal ve uluslararası mesleki gelişmeleri, kanuni ve idari düzenlemeleri izleyerek bu konuda üyeleri aydınlatmak",
+        "D) Haksız rekabeti önlemek amacıyla gerekli tedbirleri almak",
+        "E) Türkiye Değerleme Uzmanları Birliği Statüsünde öngörülen disiplin cezalarını vermek"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, borsalarda ve teşkilatlanmış diğer pazar yerlerinde işlem gören sermaye piyasası araçlarının teslimi, bedellerinin ödenmesi ve bu işlemlere ilişkin teminat yükümlülüklerinin ifası ile ilgili işlemleri yürüten anonim ortaklık şeklindeki özel hukuk tüzel kişiliği aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Yatırım kuruluşu",
+        "B) İpotek finansmanı kuruluşu",
+        "C) Merkezî takas kuruluşu",
+        "D) Varlık kiralama şirketi",
+        "E) Veri depolama kuruluşu"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, merkezi takas kuruluşları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Merkezî takas kuruluşlarının kuruluşuna Kurul tarafından izin verilir.",
+        "B) Bu kuruluşların faaliyete geçmesi Kurulun iznine tabidir.",
+        "C) Kurul, merkezî takas kuruluşlarının takas hizmetleri verebilecekleri borsalar ve teşkilatlanmış diğer pazar yerlerini belirler.",
+        "D) Kurul, bu madde kapsamındaki merkezî takas kuruluşlarının düzenleme, gözetim ve denetim merciidir.",
+        "E) Merkezî takas kuruluşlarının takas hizmeti verebilecekleri borsaların belirlenmesinde borsaların uygun görüşleri alınır."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, merkezî takas kuruluşlarının, alıcıya karşı satıcı, satıcıya karşı da alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt ettikleri uygulama aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Merkezi kayıt",
+        "B) Merkezi takas",
+        "C) Merkezi karşı taraf",
+        "D) Varlık yönetimi",
+        "E) Portföy yönetimi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Merkezî Saklama Kuruluşları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Merkezî saklama kuruluşları, sermaye piyasası araçlarının merkezî saklanması ve bunlara ilişkin hakların kullanımı hizmetlerini veren anonim ortaklık şeklindeki özel hukuk tüzel kişiliğini haiz kurumlardır.",
+        "B) Merkezî saklama kuruluşlarının kuruluşuna Kurulun uygun görüşü üzerine ilgili Bakan tarafından izin verilir, bu kuruluşların faaliyete geçmesi ise Kurul iznine tabidir.",
+        "C) Kaydileştirilen sermaye piyasası araçlarının merkezî saklanması Merkezî Saklama Kuruluşları tarafından yapılır.",
+        "D) Kurul, merkezî saklama kuruluşlarının denetim ve gözetim merciidir.",
+        "E) Kurul, merkezî saklama kuruluşlarının, merkezî saklamacı olarak faaliyet gösterebilecekleri sermaye piyasası araçları türlerini belirler."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirmek, kaydileştirilen bu araçları ve bunlara bağlı hakları, elektronik ortamda, üyeler ve hak sahipleri itibarıyla kayden izlemek, bu araçların merkezî saklamasını yapmak üzere kurulmuş, özel hukuk tüzel kişiliğini haiz anonim şirket aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Merkezî Saklama Kuruluşu",
+        "B) Merkezi Kayıt Kuruluşu",
+        "C) Veri Depolama Kuruluşları",
+        "D) Yatırımcı Tazmin Merkezi",
+        "E) Kolektif Yatırım Kuruluşu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi Merkezî Kayıt Kuruluşunun görev veya faaliyetlerinden değildir?",
+      "options": [
+        "A) Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirmek, kaydileştirilen bu araçları ve bunlara bağlı hakları, elektronik ortamda, üyeler ve hak sahipleri itibarıyla kayden izlemek, bu araçların merkezî saklamasını yapmak",
+        "B) 6102 sayılı Kanun ve ilgili diğer mevzuatta yer alan kurumsal yönetim ilkelerine şirketlerin uyumunu sağlamaya yönelik olarak şirketler ile ortaklarının ve yatırımcılarının iletişiminin sağlanabileceği elektronik bir platform oluşturmak",
+        "C) Sermaye piyasalarına ilişkin verilerin tek bir noktada toplanmasını sağlamaya yönelik elektronik bir veri bankası oluşturmak",
+        "D) İlgili mevzuata göre yetkilendirilmek kaydıyla, lisanslı depolar tarafından düzenlenen ürün senetlerinin kaydileştirilmesine, bunların ve bunlara bağlı hakların elektronik ortamda kayden izlenmesine ilişkin işlemleri yürütmek ve bunlara ilişkin platform oluşturmak",
+        "E) Yatırım kuruluşlarının sermaye piyasası faaliyetinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getiremediğinin veya kısa sürede yerine getiremeyeceğinin tespit edilmesi hâlinde yatırımcıları tazmin kararı almak"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Merkezî Kayıt Kuruluşu (MKK) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri gerçekleştirir.",
+        "B) Kaydileştirilen sermaye piyasası araçlarının merkezi saklamasını yapar.",
+        "C) Kurul, MKK'nın gözetim ve denetim merciidir.",
+        "D) Kamu tüzel kişiliğine haizdir.",
+        "E) MKK ve üyeleri, kayıtların yanlış tutulmasından dolayı hak sahiplerinin uğrayacağı zararlardan kusurları oranında sorumludur"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, yatırım kuruluşlarının sermaye piyasası faaliyetinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getiremediğinin veya kısa sürede yerine getiremeyeceğinin tespit edilmesi hâlinde yatırımcıları tazmin kararı almaya aşağıdaki kurum veya kuruluşlardan hangisi yetkilidir.",
+      "options": [
+        "A) Yatırımcı Tazmin Merkezi",
+        "B) Sermaye Piyasa Kurulu",
+        "C) Merkezi Kayıt Kuruluşu",
+        "D) Merkezi Takas Kuruluşu",
+        "E) Bankacılık Düzenleme ve Denetleme Kurumu"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre Yatırımcı Tazmin Merkezi (YTM) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurul tarafından idare ve temsil olunur.",
+        "B) Kamu tüzel kişiliğini haizdir.",
+        "C) Yatırım kuruluşlarının YTM'ye katılması zorunludur.",
+        "D) YTM'nin bu Kanun kapsamında yapacağı işlemler harçtan, düzenleyeceği kâğıtlar damga vergisinden müstesnadır.",
+        "E) YTM'nin mal varlığı sadece kamu alacakları için haczedilebilir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi tazmin edilmeyecek kişi ve kurumlar arasında yer almaz?",
+      "options": [
+        "A) Yatırımcıları tazmin kararı verilen yatırım kuruluşlarının yönetim ve denetim kurulu üyeleri",
+        "B) Yatırımcıları tazmin kararı verilen yatırım kuruluşlarının yöneticileri",
+        "C) Yatırımcıları tazmin kararı verilen yatırım kuruluşlarının ortakları",
+        "D) Yatırımcıları tazmin kararı verilen yatırım kuruluşları ile aynı grupta yer alan diğer şirketler",
+        "E) Yatırım kuruluşlarının mali sıkıntıya düşmesine neden olan veya finansal durumunun bozulmasına önemli etkileri olan olaylarda sorumluluğu bulunan veya bu olaylardan menfaat sağlayan kişiler"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre yatırımcıların tazmin talebinde bulunma hakkı, tazmin kararının ilanından itibaren kaç yıl sonra zamanaşımına uğrar?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre tazmin süreci ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Yatırımcılar tazmin taleplerini Yatırımcı Tazmin Merkezine yazılı olarak yaparlar.",
+        "B) Yatırımcı Tazmin Merkezi, tazmine hak kazanan yatırımcıları mümkün olan en kısa sürede tazmin etmek üzere gerekli hazırlıkları yapmak ve hak sahiplerini ve tazmin tutarlarını belirledikten sonra üç ay içinde ödemeleri gerçekleştirmekle yükümlüdür.",
+        "C) Yatırımcıların tazmin talepleri, yatırım kuruluşunca karşılanmayan nakit ödeme ve sermaye piyasası araçlarının iade yükümlülükleri üzerinden hesaplanır.",
+        "D) Yatırımcı Tazmin Merkezi, yatırımcılara ödemelerin gerçekleştirilmesini müteakip tazmin sürecini kapatma kararı verir.",
+        "E) Tedricî tasfiye veya iflas kararı, tazmin sürecinin işleyişini engellemez."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre tedricî tasfiye ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Haklarında tedricî tasfiye kararı verilenlerin aktiflerden öncelikle kamu alacakları ödenir.",
+        "B) Sermaye Piyasası Kurulu, Yatırımcı Tazmin Merkezinin başvurusu üzerine tedricî tasfiyenin kapatılmasına karar verir.",
+        "C) Haklarında tedricî tasfiye kararı verilenlerin aktiflerinin, tasfiyenin amacı kapsamındaki hak sahiplerinin alacaklarını, tazmin kapsamında yapılan ödemeleri ve tasfiye giderlerini karşılamaya yetmediğinin tespiti hâlinde, Yatırımcı Tazmin Merkezi, Sermaye Piyasası Kurulun uygun görüşüyle ilgililerin iflasını da isteyebilir.",
+        "D) Tedricî tasfiye sırasındaki görevlerinin ifası sebebiyle Yatırımcı Tazmin Merkezi kanuni temsilci, yönetici ve personeli aleyhine açılan ve açılacak her türlü tazminat ve alacak davaları Yatırımcı Tazmin Merkezi aleyhine açılır.",
+        "E) Yatırımcı Tazmin Merkezi personeli tedricî tasfiye işlemleri sırasında tedricî tasfiyesini yürüttükleri şirketlerin doğmuş ve doğacak kamu borçlarından, sosyal güvenlik kurumlarına olan borçlarından ve diğer mali yükümlülüklerinden sorumlu tutulamaz."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sistemik riskin gözetimi ve finansal istikrarın korunması amacıyla, Kurul, sermaye piyasasında gerçekleştirilen işlemlere ilişkin olarak, bu işlemleri gerçekleştirenlerden, bu işlemlere ilişkin bilgilerin, belirleyeceği şekil ve içerikte, doğrudan kendisine veya yetkilendireceği bir .............................. bildirilmesini isteyebilir. Bu madde kapsamında, bildirim yapmakla yükümlü olanlar, özel mevzuatındaki gizlilik ve sır saklama yükümlülüklerini ileri sürerek talep edilen bilgileri vermekten imtina edemez. \n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "options": [
+        "A) Merkezî takas kuruluşuna",
+        "B) Merkezî saklama kuruluşuna",
+        "C) Veri depolama kuruluşuna",
+        "D) Kolektif yatırım kuruluşuna",
+        "E) Yatırım kuruluşuna"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurul, Kanuna aykırı ihracın doğurduğu sonuçların ortadan kaldırılması ve nakit ve diğer varlıkların hak sahiplerine iadesi için tespit tarihinden itibaren ........ gün içinde ilgili ihracı yapan kişiye yazılı ihbarda bulunur. Muhatap, ihbar tarihinden itibaren en geç ........ gün içinde para topladığı gerçek ve tüzel kişilere ve toplanan tutara ilişkin ayrıntılı bilgileri Kurulca belirlenecek vasıtalarla ilan eder ve Kurula iletir. Bu ilanı takip eden ........ ay içinde kendisinden para toplanan gerçek ve tüzel kişiler ortaklığın bulunduğu yer asliye hukuk mahkemesine itiraz edebilir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, kanuna aykırı sermaye piyasası aracı ihracı ile ilgili yukarıda boş bırakılan yere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "options": [
+        "A) 30-30-3",
+        "B) 30-60-1",
+        "C) 60-60-3",
+        "D) 60-30-1",
+        "E) 30-30-1"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Kurulca yapılan yazılı ihbar tarihinden itibaren kaç yıl içinde bu Kanuna aykırı ihracın doğurduğu sonuçlar tamamen ortadan kaldırılmazsa, Kurul, nakit ve diğer varlıkların hak sahiplerine iadesi veya ortaklığın tasfiyesi için dava açmaya yetkilidir?",
+      "options": [
+        "A) 5",
+        "B) 4",
+        "C) 3",
+        "D) 2",
+        "E) 1"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, ihraççıların hukuka aykırı işlemleri ile sermayeyi veya mal varlığını azaltıcı işlemlerinde uygulanacak tedbirler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Halka açık bankalar hakkında bu maddeye göre işlem tesis edilmeden önce Bankacılık Düzenleme ve Denetleme Kurumunun görüşü alınır.",
+        "B) Kurul ilgililerden aykırılıkların giderilmesi için tedbir almasını ve öngörülen işlemleri yapmasını istemeye ve gerektiğinde durumu ilgili mercilere intikal ettirmeye yetkilidir.",
+        "C) Kurul, hukuka aykırı işlemler ile sermayeyi veya mal varlığını azaltıcı işlemlerin hukuka aykırılığının tespit tarihinden itibaren bir ay ve her hâlde durum ve işlemin vukuu tarihinden itibaren bir yıl içinde iptal davası ve üç yıl içinde butlan veya yokluğun tespiti davası açmaya yetkilidir.",
+        "D) Kurul, hukuka aykırı işlemler ile sermayeyi veya mal varlığını azaltıcı işlemlerin mevcudiyetinin ilk derece mahkeme kararı ile tespit edilmesi veya bu karar beklenmeksizin Kurulun talebi üzerine mahkeme tarafından karar verilmesi hâlinde bu işlemlerde sorumluluğu bulunanların imza yetkilerini kaldırmaya yetkilidir.",
+        "E) Kurul tarafından açılan dava ve takipler ile ihtiyati tedbir ve ihtiyati haciz taleplerinde Kurul her türlü harç ve teminattan muaftır."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kurul, Kayıtlı sermaye sistemi çerçevesinde alınan yönetim kurulu kararları aleyhine, bu kararların kamuya duyurulduğu tarihten itibaren ........ gün içinde ortaklık merkezinin bulunduğu yer ........ mahkemesinde iptal davası açmaya ve teminatsız olarak bu kararların icrasının geri bırakılmasını istemeye yetkilidir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, kayıtlı sermaye sisteminde uygulanacak tedbirler ile ilgili yukarıda boş bırakılan yere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "options": [
+        "A) 30 - Asliye Hukuk Mahkemesi",
+        "B) 30 - Asliye Ticaret Mahkemesi",
+        "C) 30 - Sulh Hukuk Mahkemesi",
+        "D) 60 - Asliye Ticaret Mahkemesi",
+        "E) 60 - Asliye Hukuk Mahkemesi"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, Kurul, sermaye piyasası kurumlarının sermaye yeterliliği yükümlülüklerini sağlayamadığı, sermaye piyasası faaliyetlerinden kaynaklanan nakit ödeme ve finansal araç teslim yükümlülüklerini yerine getiremediği veya kısa sürede yerine getiremeyeceği ya da bunlardan bağımsız olarak mali yapılarının ciddi surette zayıflamakta olduğu ya da mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde, kaç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemeye yetkilidir?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "I- Üç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemeye\nII- Faaliyetlerini geçici olarak durdurmaya\nIII- Tamamen veya belirli sermaye piyasası faaliyetleri itibarıyla yetkilerini kaldırmaya\nIV- Yatırımcıları tazmin kararı vermeye\nV- İflaslarını istemeye\nVI- Tedricî tasfiyelerine karar vermeye\n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıdakilerden hangileri, sermaye piyasası kurumlarının sermaye yeterliliği yükümlülüklerini sağlayamadığı, sermaye piyasası faaliyetlerinden kaynaklanan nakit ödeme ve finansal araç teslim yükümlülüklerini yerine getiremediği veya kısa sürede yerine getiremeyeceği ya da bunlardan bağımsız olarak mali yapılarının ciddi surette zayıflamakta olduğu ya da mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde Kurul tarafından alınacak tedbirlerdendir?",
+      "options": [
+        "A) I-II-III",
+        "B) I-III-IV-V",
+        "C) III-IV-V-VI",
+        "D) II-III-IV-V-VI",
+        "E) I-II-III-IV-V-VI"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanunu uyarınca faaliyetleri Kurulca veya kendi talepleri doğrultusunda geçici olarak durdurulan sermaye piyasası kurumlarının geçici kapalılık süresi kaç yılı geçemez?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kurul, izinsiz sermaye piyasası faaliyetlerinin durdurulması için gerekli her türlü tedbiri almaya, her türlü hukuki ve cezai sorumluluk saklı kalmak kaydıyla, izinsiz sermaye piyasası faaliyet ve işlemlerinin doğurduğu sonuçların iptali ve nakit ya da sermaye piyasası araçlarının hak sahiplerine iadesi için tespit tarihlerinden itibaren ..... yıl ve her hâlde vukuu tarihlerinden itibaren ..... yıl içinde dava açmaya yetkilidir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, izinsiz sermaye piyasası faaliyetinde uygulanacak tedbirler ile ilgili yukarıda boş bırakılan yerlere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "options": [
+        "A) 1-3",
+        "B) 2-5",
+        "C) 1-5",
+        "D) 3-5",
+        "E) 5-10"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, sermaye piyasasında izinsiz olarak faaliyette bulunduğu, yetki belgeleri iptal olunduğu, faaliyetleri durdurulduğu veya merkez dışı örgütleri kapatıldığı hâlde ticaret unvanlarında, ilan ve reklamlarında, sermaye piyasasında faaliyette bulundukları intibaını uyandıracak kelime veya ibare kullandığı tespit edilenlerin işyerleri geçici olarak kim tarafından kapatılabilir?",
+      "options": [
+        "A) Sermaye Piyasası Kurulu tarafından",
+        "B) İlgili Bakanlık tarafından",
+        "C) Bankacılık Düzenleneme ve Denetleme Kurumu tarafından",
+        "D) İlgili yerin en büyük mülkî amiri tarafından",
+        "E) Bilgi Teknolojileri ve İletişim Kurumu tarafından"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "I- Borsalarda geçici veya sürekli olarak işlem yapılmasının yasaklanması\nII- Takas yöntemlerinin değiştirilmesi\nIII- Kredili alım, açığa satış, ödünç alma ve verme işlemlerine ilişkin sınırlamalar getirilmesi\nIV- İşlem veya pozisyon limiti getirilmesi\n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıdakilerden hangileri Bilgi suistimali ve piyasa dolandırıcılığı sayılan fiilleri işlediğine dair makul şüphe bulunan gerçek veya tüzel kişiler ile tüzel kişilerin yetkilileri ile ilgili sermaye piyasası araçlarına ilişkin olarak Kurul tarafından alınabilecek tedbirlerdendir?",
+      "options": [
+        "A) I-II-III",
+        "B) I-III-IV",
+        "C) III-IV",
+        "D) II-III-IV",
+        "E) I-II-III-IV"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Bilgi Suistimali Ve Piyasa Dolandırıcılığı İncelemelerinde Uygulanacak Tedbirler Tebliğine göre, makul şüphe ile Kurul tarafından işlem yapma yasağı kararı verilmesi durumunda geçici işlem yapma yasağı süresi kaç ay olarak uygulanır?",
+      "options": [
+        "A) 1 ay",
+        "B) 3 ay",
+        "C) 6 ay",
+        "D) 8 ay",
+        "E) 10 ay"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bilgi Suistimali Ve Piyasa Dolandırıcılığı İncelemelerinde Uygulanacak Tedbirler Tebliğine göre, makul şüphe ile Kurul tarafından işlem yapma yasağı kararı verilmesi durumunda geçici işlem yapma yasağı süresi Kurul tarafından kaç ay daha uzatılabilir?",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 6",
+        "D) 8",
+        "E) 10"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Bilgi Suistimali Ve Piyasa Dolandırıcılığı İncelemelerinde Uygulanacak Tedbirler Tebliğine göre, hakkında işlem yapma yasağı uygulanan kişinin işlem yapma yasağı süresinde başka kişilerin hesaplarını kullanarak bilgi suistimali ve piyasa dolandırıcılığı sayılan fiilleri işlemesi nedeniyle Kurul tarafından Cumhuriyet başsavcılığına suç duyurusunda bulunulmasına karar verilmesi durumunda kişi hakkında Kurul tarafından kaç yıl süreyle sürekli işlem yapma yasağı kararı verilebilir?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 4 yıl",
+        "E) 5 yıl"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, idari para cezaları ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermaye Piyasası Kanununa dayanılarak yapılan düzenlemelere, belirlenen standart ve formlara ve Kurulca alınan genel ve özel nitelikteki kararlara aykırı hareket eden kişinin bir özel hukuk tüzel kişisinin organ veya temsilcisi olması halinde tüzel kişi hakkında ayrıca idari para cezası verilmez.",
+        "B) Pay alım teklifi zorunluluğunu yerine getirmeyen gerçek ve tüzel kişiler hakkında, Kurul tarafından pay alım teklifine konu payların toplam bedeline kadar idari para cezası verilir.",
+        "C) Türkiye Sermaye Piyasaları Birliği tarafından alınan kararlara uymayan üyelere, Türkiye Sermaye Piyasaları Birliği tarafından idari para cezası verilir.",
+        "D) Kurul veya bu Kanuna göre görevlendirilenlerin görevlerini yapmalarını engelleyen veya zorlaştıran kişilere idari para cezası verilir.",
+        "E) Kurula gerçeğe aykırı, yanıltıcı nitelikte bilgi, belge vermek veya açıklamalarda bulunmak suretiyle gereksiz olarak denetim yapılmasına neden olan kişiler hakkında idari para cezası verilir"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Makul bir ekonomik veya finansal gerekçeyle açıklanamayan, borsa ve teşkilatlanmış diğer piyasaların güven, açıklık ve istikrar içinde çalışmasını bozacak nitelikte olan ve bir suç oluşturmayan eyleme ne ad verilir?",
+      "options": [
+        "A) Bilgi suistimali",
+        "B) Piyasa dolandırıcılığı",
+        "C) Piyasa bozucu eylem",
+        "D) Güveni kötüye kullanma",
+        "E) Sahtecilik"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, idari para cezalarının uygulanması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) İdari para cezalarının uygulanmasından önce ilgilinin savunması alınır. Savunma istendiğine ilişkin yazının tebliğ tarihinden itibaren otuz gün içinde savunma verilmemesi hâlinde, ilgilinin savunma hakkından feragat ettiği kabul edilir.",
+        "B) Bu Kanunda tanımlanan kabahatlerden birinin idari yaptırım kararı verilinceye kadar birden çok işlenmesi hâlinde, ilgili hükme göre, ilgili gerçek veya tüzel kişiye bir idari para cezası verilir ve verilecek ceza iki kat artırılır.",
+        "C) Bu Kanunda tanımlanan kabahatlerden birinin idari yaptırım kararı verilinceye kadar birden çok işlenmesi ve bu kabahatin işlenmesi suretiyle bir menfaat temin edilmesi veya zarara sebebiyet verilmesi halinde verilecek idari para cezasının miktarı bu menfaat veya zararın iki katından az olamaz.",
+        "D) Tahsil edilen idari para cezalarının yüzde ellisi genel bütçeye gelir kaydedilir, yüzde ellisi gelir kaydedilmek üzere YTM'ye aktarılır.",
+        "E) Bu Kanun uyarınca verilen idari para cezası kararlarına karşı idari yargı yoluna başvurulabilir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Doğrudan ya da dolaylı olarak sermaye piyasası araçları ya da ihraççılar hakkında, ilgili sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkileyebilecek nitelikteki ve henüz kamuya duyurulmamış bilgilere dayalı olarak ilgili sermaye piyasası araçları için alım ya da satım emri veren veya verdiği emri değiştiren veya iptal eden ve bu suretle kendisine veya bir başkasına menfaat temin edenler, ........ hapis veya adli para cezası ile cezalandırılırlar. Ancak, bu suçtan dolayı adli para cezasına hükmedilmesi hâlinde verilecek ceza elde edilen menfaatin iki katından az olamaz.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılan yerlere aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "options": [
+        "A) Bir yıldan üç yıla",
+        "B) Bir yıldan beş yıla",
+        "C) İki yıldan beş yıla",
+        "D) Üç yıldan beş yıla",
+        "E) Beş yıldan sekiz yıla"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar, emir verenler, emir iptal edenler, emir değiştirenler veya hesap hareketleri gerçekleştirenler kişilere verilecek ceza aşağıdaki şıkların hangisinde doğru olarak verilmiştir?",
+      "options": [
+        "A) Üç yıldan beş yıla kadar hapis ve beş bin günden on bin güne kadar adli para cezası",
+        "B) Üç yıldan beş yıla kadar hapis",
+        "C) Beş bin günden on bin güne kadar adli para cezası",
+        "D) Bir yıldan üç yıla kadar hapis ve bin günden beş bin güne kadar adli para cezası",
+        "E) Bir yıldan üç yıla kadar hapis"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkilemek amacıyla yalan, yanlış veya yanıltıcı bilgi veren, söylenti çıkaran, haber veren, yorum yapan veya rapor hazırlayan ya da bunları yayan ve bu suretle menfaat sağlayanlara verilecek ceza aşağıdaki şıkların hangisinde doğru olarak verilmiştir?",
+      "options": [
+        "A) Üç yıldan beş yıla kadar hapis ve beş bin günden on bin güne kadar adli para cezası",
+        "B) Üç yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası",
+        "C) Bir yıldan üç yıla kadar hapis ve bin günden beş bin güne kadar adli para cezası",
+        "D) Üç yıldan beş yıla kadar hapis",
+        "E) Beş bin güne kadar adli para cezası"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar, emir verenler, emir iptal edenler, emir değiştirenler veya hesap hareketleri gerçekleştirenler kişi pişmanlık göstererek, beş yüz bin Türk Lirasından az olmamak üzere, elde ettiği veya elde edilmesine sebep olduğu menfaatin iki katı miktarı kadar parayı henüz soruşturma başlamadan önce Hazineye ödemesi halinde, hakkında verilecek cezaya ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Bu kişiler hakkında cezaya hükmolunmaz.",
+        "B) Bu kişilere verilecek ceza yarısı oranında indirilir.",
+        "C) Bu kişilere verilecek ceza üçte biri oranında indirilir.",
+        "D) Bu kişiler hakkında sadece hapis cezası verilir.",
+        "E) Bu kişiler hakkında sadece adli para cezası verilir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar, emir verenler, emir iptal edenler, emir değiştirenler veya hesap hareketleri gerçekleştirenler kişi pişmanlık göstererek, beş yüz bin Türk Lirasından az olmamak üzere, elde ettiği veya elde edilmesine sebep olduğu menfaatin iki katı miktarı kadar parayı soruşturma evresinde Hazineye ödemesi halinde, hakkında verilecek cezaya ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Bu kişiler hakkında cezaya hükmolunmaz.",
+        "B) Bu kişilere verilecek ceza yarısı oranında indirilir.",
+        "C) Bu kişilere verilecek ceza üçte biri oranında indirilir.",
+        "D) Bu kişiler hakkında sadece hapis cezası verilir.",
+        "E) Bu kişiler hakkında sadece adli para cezası verilir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar, emir verenler, emir iptal edenler, emir değiştirenler veya hesap hareketleri gerçekleştirenler kişi pişmanlık göstererek, beş yüz bin Türk Lirasından az olmamak üzere, elde ettiği veya elde edilmesine sebep olduğu menfaatin iki katı miktarı kadar parayı kovuşturma evresinde Hazineye ödemesi halinde, hakkında verilecek cezaya ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Bu kişiler hakkında cezaya hükmolunmaz.",
+        "B) Bu kişilere verilecek ceza yarısı oranında indirilir.",
+        "C) Bu kişilere verilecek ceza üçte biri oranında indirilir.",
+        "D) Bu kişiler hakkında sadece hapis cezası verilir.",
+        "E) Bu kişiler hakkında sadece adli para cezası verilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre, sermaye piyasası suçları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Onaylı izahname yayımlama yükümlülüğünü yerine getirmeksizin sermaye piyasası araçlarını halka arz edenler ya da onaylı ihraç belgesi olmaksızın sermaye piyasası araçlarını satanlar bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılırlar.",
+        "B) Sermaye piyasasında izinsiz olarak faaliyette bulunanlar iki yıldan beş yıla kadar hapis ve beş bin günden on bin güne kadar adli para cezası ile cezalandırılırlar.",
+        "C) Kurul veya bu Kanuna göre görevlendirilenler tarafından istenen bilgi, belge ve elektronik ortamda tutulanlar dahil kayıtları hiç veya istenen şekliyle vermeyen kişi bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.",
+        "D) Kurul veya bu Kanuna göre görevlendirilen kişilerin görevlerini yapmalarını engelleyen kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.",
+        "E) Kurul tarafından icra edilen inceleme veya denetim faaliyeti kapsamında istenen bilgi veya belgelere ilişkin olarak başkalarına açıklamada bulunanlar bir yıldan üç yıla kadar hapis ve beş bin güne kadar adli para cezası ile cezalandırılır."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sermaye piyasası araçlarının değerini, arz-talep dengesini yapay olarak etkileyen, sermaye piyasasının etkin bir şekilde işlemesini engelleyen davranışlara ne ad verilir.",
+      "options": [
+        "A) Manipülasyon",
+        "B) Spekülasyon",
+        "C) Arbitraj",
+        "D) Hedge",
+        "E) Örtülü kazanç aktarımı"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası suçları arasında sayılmaz?",
+      "options": [
+        "A) Bilgi suistimali",
+        "B) Piyasa dolandırıcılığı",
+        "C) Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+        "D) Güveni kötüye kullanma ve sahtecilik",
+        "E) Piyasa bozucu eylem"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "6362 sayılı Sermaye Piyasası Kanununa göre aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolayı soruşturma yapılması, Kurul tarafından Cumhuriyet başsavcılığına yazılı başvuruda bulunulmasına bağlıdır.",
+        "B) Başvuru üzerine kamu davası açılması hâlinde iddianamenin kabulü ile birlikte, bir örneği Kurula tebliğ edilir ve Kurul aynı zamanda katılan sıfatını kazanır.",
+        "C) Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolayı yapılan soruşturmada Cumhuriyet savcısı, Kurul meslek personelinden yararlanabilir.",
+        "D) Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolayı yapılan soruşturmada kovuşturmaya yer olmadığı kararının verilmesi hâlinde, Kurul bu karara karşı itiraza yetkilidir.",
+        "E) Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolayı yargılama yapmaya Hâkimler ve Savcılar Yüksek Kurulunun ihtisas mahkemesi olarak görevlendireceği ticaret mahkemeleri yetkilidir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "I- Talep toplama yoluyla satış yöntemi\nII- Talep toplanmaksızın satış Yöntemi\nIII- Borsada satış yöntemi\nIV- Nitelikli yatırımcılara satış yöntemi\nV- Tahsisli satış yöntemi\n\nSermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıdakilerden hangileri sermaye piyasası araçlarının halka arz yoluyla satışında uygulanabilecek yöntemlerdendir?",
+      "options": [
+        "A) I-II",
+        "B) I-II-III",
+        "C) III-IV-V",
+        "D) IV-V",
+        "E) I-II-III-IV"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye Piyasası Araçlarının Satışı Tebliğine göre, sermaye piyasası araçlarının halka arz edilmeksizin satışına ilişkin aşağıdaki ifadelerin hangisi yanlıştır?",
+      "options": [
+        "A) Nitelikli yatırımcılara satılmak üzere ihraç edilen sermaye piyasası araçları, borsa düzenlemeleri çerçevesinde yalnızca nitelikli yatırımcılar arasında alınıp satılmak üzere borsada işlem görebilir.",
+        "B) Tahsisli olarak satılmak üzere ihraç edilen sermaye piyasası araçlarının ise borsada işlem görmesi esastır.",
+        "C) Halka arz edilmeksizin yurt içinde yapılacak satışlarda içeriği Kurulca belirlenen beyanların satıştan önce yatırımcılara imzalatılması zorunludur.",
+        "D) Payların ikincil piyasa işlemleri hariç olmak üzere, tahsisli olarak satılan sermaye piyasası araçlarını belirli bir anda elinde bulunduran yatırımcıların sayısının yüz elliyi geçmemesi esastır.",
+        "E) Tahsisli olarak satılan sermaye piyasası araçlarının diğer yatırımcılarla birlikte nitelikli yatırımcılar tarafından da satın alınması mümkündür. Bu durumda yüz elli kişinin hesaplanmasında nitelikli yatırımcılar dikkate alınmaz."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye Piyasası Araçlarının Satışı Tebliğine göre, aşağıdakilerden hangisi nitelikli yatırımcılara yapılacak satışlara ilişkin özel hükümler arasında yer almaz?",
+      "options": [
+        "A) Nitelikli yatırımcılara yapılacak satışlar, yalnızca bu yatırımcılara yönelik bir çağrıda bulunulması ve/veya nitelikli yatırımcıların önceden belirlenmesi suretiyle gerçekleştirilebilir.",
+        "B) Sermaye piyasası araçlarının nitelikli yatırımcılara satışında, yatırımcı sayısı yönünden bir kısıtlama uygulanmaz.",
+        "C) Bir yatırımcının nitelikli yatırımcı olduğuna ilişkin bilginin, ilgiliden alınan beyan üzerine MKK üyesi yatırım kuruluşları tarafından MKS'de kayıt altına alınması zorunludur.",
+        "D) MKK üyesi yatırım kuruluşlarından birisi tarafından yapılacak kayıt, bir yatırımcının nitelikli yatırımcı olarak kabul edilmesi için yeterlidir.",
+        "E) Nitelikli yatırımcıların sahip oldukları tüm tekil ve müşterek hesaplar nitelikli olarak kabul edilir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Sermaye Piyasası Araçlarının Satışı Tebliğine göre, Tahsisli olarak satılan sermaye piyasası araçlarını belirli bir anda elinde bulunduran yatırımcı sayısının yüz elliyi geçmesi durumunda, bu sayının aşıldığı MKK tarafından derhal ihraççıya ve Kurula bildirilir. İhraççı, kendisine yapılan bildirim tarihinden itibaren kaç gün içerisinde hazırlayacağı izahnamenin onaylanması amacıyla Kurula ve söz konusu sermaye piyasası aracının borsada işlem görmesi amacıyla borsaya başvurur?",
+      "options": [
+        "A) 5 iş günü",
+        "B) 7 iş günü",
+        "C) 10 iş günü",
+        "D) 20 iş günü",
+        "E) 30 iş günü"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Sermaye Piyasası Araçlarının Satışı Tebliğine göre, halka arz yoluyla gerçekleştirilen sermaye piyasası ihraçlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Sermaye piyasası araçlarının halka arzına en erken, izahnamenin ve fiyat tespit raporunun yayımlanmasını takip eden üçüncü gün başlanabilir.",
+        "B) Sermaye piyasası araçlarının halka arz yoluyla satış süresi iki iş gününden az, yirmi iş gününden fazla olmamak üzere Kurul tarafından belirlenir.",
+        "C) Sermaye piyasası araçlarının talep toplama yoluyla satışa sunulduğu halka arzlarda, talep toplama süresi içerisinde yeterli talep gelmesi durumunda dahi, bu sürenin sonuna kadar talep toplamaya devam edilir.",
+        "D) Tasarruf sahiplerine satış duyurusuna konu payların ya da arz programı sirkülerine konu sermaye piyasası araçlarının satışına, bu duyurunun ya da sirkülerin ilan edildiği tarihi takip eden on iş günü içerisinde başlanır.",
+        "E) Halka açık ortaklıkların sermaye artırımlarında, yeni pay alma hakkının kullanımından sonra kalan payların satışına, yeni pay alma haklarının kullanımının bitiminden itibaren on iş günü içinde başlanır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye piyasası araçlarının halka arzında borsada satış yönteminin kullanılması durumunda;\n\na) Satışın talep toplanmaksızın gerçekleşmesi durumunda satış süresi .... iş günüdür.\nb) Satışın talep toplama suretiyle gerçekleşmesi durumunda talep toplama süresi, en az iş günü en fazla iş günüdür.\n\nSermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
+      "options": [
+        "A) 2, 2, 3",
+        "B) 2, 3, 10",
+        "C) 3, 3, 10",
+        "D) 3, 5, 20",
+        "E) 5, 10, 20"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Halka açık ortaklıkların halka arz edilmeksizin gerçekleştireceği sermaye artırımı nedeniyle ihraç edilen payların satışına, ihraç belgesinin ilan edildiği tarihi takip eden .... iş günü içerisinde başlanması ve payların satışının azami .... iş günü içinde tamamlanması zorunludur.\n\nSermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
+      "options": [
+        "A) 3, 5",
+        "B) 5, 10",
+        "C) 10, 10",
+        "D) 10, 15",
+        "E) 10, 20"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermaye Piyasası Araçlarının Satışı Tebliğine göre, talep toplama yoluyla satış yöntemine İlişkin aşağıdaki ifadelerden hangisi yanlıştır.",
+      "options": [
+        "A) Talep toplama yoluyla satış yöntemi, yatırımcıların halka arz edilen sermaye piyasası araçlarına İlişkin taleplerinin toplanarak bu taleplerin önceden belirlenmiş usul ve esaslar çerçevesinde karşılanan kısmına ilişkin satışını ifade eder.",
+        "B) Satışı planlanan sermaye piyasası araçlarına ilişkin talep toplanmış olması, bu taleplerin mutlaka karşılanacağı anlamına gelir",
+        "C) Talep toplama yoluyla satış yöntemi; sabit fiyatla talep toplama, fiyat teklifi alarak talep toplama ve fiyat aralığı ile talep toplama yoluyla gerçekleştirilir.",
+        "D) Fiyat aralığı ile talep toplama yoluyla satış yönteminin kullanılması durumunda tavan fiyat, taban fiyatın yüzde yirmi fazlasını aşmayacak şekilde belirlenir.",
+        "E) Talep toplama yoluyla satış yönteminin kullanılması durumunda, halka arz edilen paylara yeterli talepte bulunulmaması durumunda, talepte bulunulmayan paylar için bu Tebliğin talep toplanmaksızın satış yöntemine ilişkin düzenlemeleri uygulanır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Talep toplama yoluyla halka arz edilecek sermaye piyasası araçlarının nominal değerinin, en az yüzde .... yurt içi bireysel yatırımcılara ve yüzde .... yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur.\n\nSermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
+      "options": [
+        "A) %5-%5",
+        "B) %5-%10",
+        "C) %10-%10",
+        "D) %10-%20",
+        "E) %20-%20"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Kayıtlı Sermaye Sistemi Tebliğine göre aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kayıtlı sermaye sistemine geçecek ortaklıkların başlangıç sermayeleri 500.000 TL'den az olamaz.",
+        "B) Kurulca beş yıl süreyle geçerli olmak üzere izin verilecek kayıtlı sermaye tavanı, ortaklıkların ödenmiş/çıkarılmış sermayesi veya özsermayesinden yüksek olanının üç katını aşamaz.",
+        "C) Kayıtlı sermaye tavanına ilişkin üst limitin belirlenmesinde, Kurul düzenlemelerine uygun olarak hazırlanmış, bağımsız denetimden/sınırlı incelemeden geçmiş başvuru tarihine en yakın finansal tablolar esas alınır.",
+        "D) Ortaklıkların konsolide finansal tablolarının bulunması durumunda, kayıtlı sermaye tavanına ilişkin üst limitin belirlenmesinde konsolide finansal tablolardaki ana ortaklığa ait özsermaye toplamı esas alınır.",
+        "E) Başvuru tarihinden önceki bir yıl içerisinde bağımsız denetimden/sınırlı incelemeden geçmiş finansal tabloların mevcut olmaması veya başvuru tarihinden sonra da Kurula ibraz edilmemiş olması halinde, kayıtlı sermaye tavanına ilişkin üst limitin belirlenmesinde ortaklığın ödenmiş/çıkarılmış sermayesi esas alınır."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Kayıtlı Sermaye Sistemi Tebliğine göre, Kurulca izin verilen kayıtlı sermaye tavanı, iznin verildiği yıl da dâhil olmak kaç yıllık süre için geçerlidir?",
+      "options": [
+        "A) 1 yıl",
+        "B) 2 yıl",
+        "C) 3 yıl",
+        "D) 4 yıl",
+        "E) 5 yıl"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "İmtiyazlı pay sahiplerine, intifa senedi sahiplerine, yönetim kurulu üyelerine, ortaklık çalışanlarına ve pay sahibi dışındaki kişilere kârdan pay verilebilmesi için ortaklık esas sözleşmesinde hüküm bulunması zorunludur.\n\nEsas sözleşmede söz konusu kişilere kâr payı dağıtılması hususunda hüküm bulunmasına rağmen, kâr payına ilişkin olarak herhangi bir oran belirlenmemişse; bu kişilere dağıtılacak kâr payı tutarı, imtiyazdan kaynaklananlar hariç her durumda pay sahiplerine dağıtılan kâr payının ........ aşamaz.\n\nKâr Payı Tebliğine göre, yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "options": [
+        "A) Dörtte birini",
+        "B) Üçte birini",
+        "C) Yarısını",
+        "D) Tamamını",
+        "E) Üçte ikisini"
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Kâr Payı Tebliğine göre, kâr payı avansı dağıtım esasları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Payları borsada işlem gören ortaklıklar, ara dönem finansal tablolarında yer alan kârları üzerinden nakden kâr payı avansı dağıtabilir.",
+        "B) Belirli bir ara döneme ilişkin kâr payı avansı taksitle dağıtılamaz.",
+        "C) Kâr payı avansı dağıtmak isteyen ortaklıkların esas sözleşmelerinde hüküm bulunması ve genel kurul kararıyla ilgili hesap dönemi ile sınırlı olacak şekilde yönetim kuruluna kâr payı avansı dağıtımına karar vermek üzere yetki vermeleri zorunludur.",
+        "D) Pay sahibi dışındaki kişilere kâr payı avansı dağıtılması için genel kurul kararı gerekir.",
+        "E) Kâr payı avansı, imtiyazlı paylara imtiyaz dikkate alınmadan ödenir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Kâr Payı Tebliğine göre, aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Dağıtılacak kâr payı avansı, ara dönem finansal tablolara göre oluşan net dönem kârından TTK'ya ve esas sözleşmeye göre ayrılması gereken yedek akçeler ile geçmiş yıllar zararları düşüldükten sonra kalan kısmını geçemez.",
+        "B) Bir hesap döneminde verilecek toplam kâr payı avansı tutarı; bir önceki yıla ait net dönem kârının yarısından ve ilgili ara dönem finansal tablolarında yer alan net dönem kârı hariç kâr dağıtımına konu edilebilecek diğer kaynaklardan düşük olanı aşamaz.",
+        "C) Önceki hesap dönemlerinde ödenen kâr payı avansları mahsup edilmeden, sonraki hesap dönemlerinde ilave kâr payı avansı verilemez ve kâr payı dağıtılamaz.",
+        "D) Ortaklıkların geçmiş yıllar zararlarının; geçmiş yıllar kârları, paylara ilişkin primler dahil genel kanuni yedek akçe, sermaye hariç özkaynak kalemlerinin enflasyon muhasebesine göre düzeltilmesinden kaynaklanan tutarların toplamını aşan kısmı, net dağıtılabilir dönem kârının hesaplanmasında indirim kalemi olarak dikkate alınır.",
+        "E) Ortaklar ve kâra katılan diğer kimseler tarafından tahsil edilmeyen kâr payı bedelleri, dağıtım tarihinden itibaren beş yılda zaman aşımına uğrar."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Önemli Nitelikteki İşlemler Ve Ayrılma Hakkı Tebliğine göre aşağıdakilerden hangisi önemli nitelikteki işlem değildir?",
+      "options": [
+        "A) Unvan değiştirme",
+        "B) Tür değiştirme",
+        "C) Birleşme",
+        "D) Bölünme",
+        "E) İmtiyaz öngörülmesi veya mevcut imtiyazların kapsam veya konusunu değiştirmesi"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Önemli Nitelikteki İşlemler Ve Ayrılma Hakkı Tebliğine göre, ayrılma hakkının kullanım usulü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Ayrılma hakkının aracı kurum vasıtasıyla kullandırılması zorunludur.",
+        "B) Payları borsada işlem görmeyen ortaklıkların aracı kurum kullanma zorunluluğuna talep üzerine Kurulca muafiyet verilebilir.",
+        "C) Ayrılma hakkının kullandırılması genel kurul tarihinden itibaren en geç altı iş günü içinde başlar.",
+        "D) Ayrılma hakkının kullanım süresi başlangıç tarihinden itibaren yirmi iş günüdür.",
+        "E) Ayrılma hakkını kullanmak isteyen pay sahipleri, bu hakka sahip olan ve borsada işlem sırası bulunan paylarının tamamı için bu hakkı kullanmak zorundadır."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Pay Alım Teklifi Tebliğine göre aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kurula yapılacak pay alım teklifi başvurularında bilgi formunun düzenlenmesi zorunludur.",
+        "B) Bilgi formu, pay alım teklifinde bulunan gerçek ve/veya tüzel kişiler ile yatırım kuruluşu yetkilileri tarafından birlikte imzalanır.",
+        "C) Bilgi formu Kurulca onaylandıktan sonra bu formda yer alan bilgilerin yanlış, yanıltıcı veya eksik olduğunun ortaya çıkması durumunda sorumluluk sadece teklifte bulunanlar aittir.",
+        "D) Pay alım teklifinin durdurulması halinde, durdurma kararı kamuya duyuruluncaya kadar teklife cevap veren kişilerin bu işlemlerini iptal etmeleri ya da geri almaları zorunludur.",
+        "E) Teklifte bulunan ile yatırım kuruluşu arasında bir aracılık sözleşmesinin imzalanması zorunludur."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pay Alım Teklifi Tebliğine göre, zorunlu pay alım teklifi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Gönüllü olarak yapılan pay alım teklifi, blok veya münferit alımlar ya da diğer herhangi bir yöntemle, tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak bir ortaklığın yönetim kontrolünü sağlayan paylarını veya oy haklarını iktisap edenler, söz konusu payların veya oy haklarının iktisabının kamuya açıklandığı tarihte pay sahibi olan diğer ortakların paylarını satın almak üzere pay alım teklifinde bulunmak zorundadır.",
+        "B) Ortaklığın pay sahipliğinde herhangi bir değişiklik olmasa dahi, ortakların kendi aralarında yapacakları özel yazılı anlaşmalarla yönetim kontrolünü ele geçirmeleri sonucunda da pay alım teklifi zorunluluğu doğar.",
+        "C) Zorunlu pay alım teklifi hiçbir koşula bağlanamaz.",
+        "D) Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak sahip olunması veya söz konusu orana bağlı olmaksızın yönetim kurulu üye sayısının salt çoğunluğunu seçme veya genel kurulda söz konusu sayıdaki üyelikler için aday gösterme hakkını veren imtiyazlı paylara sahip olunması, yönetim kontrolünün elde edilmesi olarak kabul edilir.",
+        "E) Zorunlu pay alım teklifi yoluyla pay toplama girişiminde bulunan kişiler, teklifin fiili başlangıcına kadar ortaklığın paylarını satın almaktan vazgeçebilir."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Pay Alım Teklifi Tebliğine göre, zorunlu pay alım teklifi süreci ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Yönetim kontrolünün elde edilmesini izleyen 6 iş günü içerisinde gerekli bilgi ve belgelerle birlikte pay alım teklifi yapmak üzere Kurula başvurulması zorunludur.",
+        "B) Kurulca pay alım teklifi yükümlülüğünün doğduğunun resen tespit edildiği durumlarda ise Kurul kararının yükümlülere tebliğ tarihini izleyen 6 iş günü içinde başvuru yapılması gerekir.",
+        "C) Pay alım teklifi yükümlülüğünün doğduğu tarihten itibaren 2 ay içerisinde fiili pay alım teklifi sürecine başlanması zorunludur.",
+        "D) Fiili pay alım teklifi, bilgi formunun Kurulca onaylanmasından itibaren en çok 6 iş günü içinde başlar.",
+        "E) Fiili pay alım teklifi süresi 6 iş gününden az 20 iş gününden fazla olamaz."
+      ],
+      "answer": 4
+    },
+    {
+      "q": "Pay Alım Teklifi Tebliğine göre aşağıdakilerden hangisi, pay alım teklifinde bulunma yükümlülüğünün doğmadığı hallerden değildir?",
+      "options": [
+        "A) Yönetim kontrolünün, tüm pay sahiplerine ellerinde bulundurdukları payların tamamı için yapılan gönüllü bir pay alım teklifini takiben elde edilmesi.",
+        "B) Pay iktisabı olmaksızın özel yazılı anlaşmalarla yönetim kontrolünün ele geçirilmesinde, bu anlaşmaların genel kurul tarafından onaylanması ve genel kurul toplantısına katılarak olumsuz oy kullanıp muhalefet şerhini toplantı tutanağına işleten pay sahiplerine Kurulun ilgili düzenlemeleri uyarınca ayrılma hakkı verilmesi.",
+        "C) Yönetim kontrolüne sahip olan ortağın, ortaklıktaki oy oranının %50’nin altına düşmesinden sonra yönetim kontrolü üçüncü kişilere geçmesini müteakip, yapacağı yeni pay alımları ile ortaklık oy haklarının % 50’sinden fazlasına tekrar sahip olması.",
+        "D) Yönetim kontrolünün elde edilmesi ile ortaklıktan çıkarma ve satma hakkının da doğması.",
+        "E) Payları borsada işlem gören halka açık ortaklıklar tarafından gerçekleştirilen yeni pay alma haklarının sınırlandırılmadığı sermaye artırımlarında, mevcut ortaklarca alınan paylar nedeniyle yönetim kontrolünün değişmesi."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Pay Alım Teklifi Tebliğine göre, gönüllü pay alım teklifi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Gönüllü pay alım teklifi yoluyla pay toplama girişiminde bulunan kişiler, teklifin fiili başlangıcına kadar ortaklığın paylarını satın almaktan vazgeçebilir.",
+        "B) Halka açık ortaklık paylarının bir kısmı için gönüllü pay alım teklifinde bulunulamaz.",
+        "C) Gönüllü pay alım teklifinde bulunmak amacıyla gerekli bilgi ve belgelerle birlikte Kurula başvurulması zorunludur.",
+        "D) Gönüllü pay alım teklifi süresi on iş gününden az yirmi iş gününden fazla olamaz.",
+        "E) Fiili pay alım teklifi, konuya ilişkin bilgi formunun Kurulca onaylanmasından itibaren en çok altı iş günü içinde başlar."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Ortaklıktan Çıkarma Ve Satma Hakları Tebliğine göre, pay alım teklifi sonucunda veya birlikte hareket etmek de dâhil olmak üzere herhangi bir şekilde sahip olunan paylara ilişkin oy haklarının, ortaklığın oy haklarının yüzde kaçına ulaşması halinde diğer pay sahiplerinin tamamını ortaklıktan çıkarma hakkı, diğer ortaklar açısından da paylarını hâkim ortağa satma hakkı doğar?",
+      "options": [
+        "A) % 98",
+        "B) % 95",
+        "C) % 90",
+        "D) % 80",
+        "E) % 85"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Ortaklıktan Çıkarma Ve Satma Hakları Tebliğine göre, Ortaklık paylarının ilk defa borsada işlem görmeye başlamasından itibaren kaç yıl süreyle ortaklıktan çıkarma veya satma hakkı kullanılamaz?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Borçlanma Araçları Tebliği hükümlerine göre ihraççıların borçlu sıfatıyla düzenleyip sattığı ve nominal değerinin vade tarihinde veya vade tarihine kadar taksitler halinde yatırımcıya geri ödenmesi taahhüdünü içeren, vadesi 30 günden az 364 günden fazla olmayan borçlanma aracına ne ad verilir?",
+      "options": [
+        "A) Finansman bonosu",
+        "B) Kıymetli maden bonosu",
+        "C) Tahvil",
+        "D) Paya dönüştürülebilir tahvil",
+        "E) Değiştirilebilir tahvil"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Borçlanma Araçları Tebliğine göre, Paya Dönüştürülebilir Tahviller (PDT) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) PDT’nin vadesi 365 günden az olamaz.",
+        "B) PDT’lerin paylara dönüştürülmesi vade başlangıç tarihinden itibaren en erken 365 gün sonra yapılabilir.",
+        "C) PDT’lerin paya dönüştürülmesi PDT’nin rayiç değeri üzerinden gerçekleştirilir.",
+        "D) İzahnamede veya ihraç belgesinde belirtilmesi kaydıyla PDT’nin dönüştürme tarihinde ödenecek olan faiz tutarı da nominal değere eklenerek dönüştürme işlemine tabi tutulabilir. Dönüştürme gününe kadar işlemiş faizler ise PDT sahiplerine nakden ödenir.",
+        "E) Dönüştürme giderlerinin tamamı ortaklığa aittir."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Borçlanma Araçları Tebliğine göre, Paya Dönüştürülebilir Tahviller (PDT) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) PDT’ler vade tarihinde veya vadeden önce paylara dönüştürülmek suretiyle itfa edilebilir.",
+        "B) PDT’ler vade tarihinden önce sadece bir itfa planına bağlı olarak paya dönüştürülebilir.",
+        "C) PDT’lerin dönüştürülmesi sermaye artırımı suretiyle gerçekleştirilir.",
+        "D) Ortaklık tarafından yükümlülüklerin tam olarak yerine getirilmesine rağmen bu Tebliğde belirtilen esaslara uygun olarak dönüştürme hakkını kullanmayan PDT sahiplerinin dönüştürme hakları ortadan kalkar ve bu durumdaki PDT sahipleri anapara ve işlemiş faizlerini alırlar.",
+        "E) Halka açık ortaklıkların PDT ile dönüştürülmek üzere ihraç ettikleri ve artırılacak sermayelerini temsil eden payları, her türlü önceliklerden öne alınarak PDT sahiplerine tahsis olunur."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Borçlanma Araçları Tebliğine göre, Değiştirilebilir Tahviller (DET) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) DET’in vadesi 365 günden çok olamaz.",
+        "B) DET’lerin paylarla değiştirilmesi vade başlangıç tarihinden itibaren en erken 365 gün sonra yapılabilir.",
+        "C) DET’lerin paylarla değiştirilmesi nominal değer üzerinden gerçekleştirilir.",
+        "D) Değiştirme giderlerinin tamamı ihraççıya aittir.",
+        "E) Değiştirme gününe kadar işlemiş faizler ise DET sahiplerine nakden ödenir."
+      ],
+      "answer": 0
+    },
+    {
+      "q": "I- Bir itfa planına bağlı olarak\nII- Ortaklığın talebine bağlı olarak\nIII- DET sahibinin talebine bağlı olarak\n\nBorçlanma Araçları Tebliğine göre Değiştirilebilir Tahviller vade tarihlerinden önce yukarıdakilerden hangisine/hangilerine bağlı olarak paya dönüştürülebilir?",
+      "options": [
+        "A) I",
+        "B) I-II",
+        "C) II-III",
+        "D) I-III",
+        "E) I-II-III"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Borçlanma Araçları Tebliğine göre aşağıdakilerden hangisi doğru bir ifade değildir?",
+      "options": [
+        "A) Kıymetli maden bonolarının satış bedeli, Türk Lirası, döviz veya kıymetli maden olarak tahsil edilir.",
+        "B) Finansman bonolarının kupon ödemeli olarak ihracı mümkün değildir.",
+        "C) Tahviller iskontolu, primli ve/veya kupon ödemeli olarak satılabilir",
+        "D) Paya Dönüştürülebilir Tahvillerin vadesi 365 günden az olamaz.",
+        "E) Değiştirilebilir Tahvillerin paylarla değiştirilmesi vade başlangıç tarihinden itibaren en erken 365 gün sonra yapılabilir."
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Gayrimenkul Sertifikaları Tebliğine göre aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Asli edim ifa süresi içerisinde izahname veya ihraç belgesinde belirlenen esaslar çerçevesinde, ihraççı tarafından gayrimenkul sertifikası sahipleri adına kat mülkiyetinin tesis edilmesi ve bağımsız bölümün teslim edilmesini ifade eder.",
+        "B) Tali edim ifa süresi içerisinde izahname veya ihraç belgesinde belirlenen esaslar çerçevesinde ihraççı tarafından tali edime konu gayrimenkul sertifikalarına karşılık gelen bağımsız bölümlerin satılması ve elde edilen satış tutarının gayrimenkul sertifikası sahiplerine, sahip oldukları gayrimenkul sertifikaları oranında dağıtılmasını ifade eder.",
+        "C) İhraççıların inşa edilecek veya edilmekte olan gayrimenkul projelerinin finansmanında kullanılmak üzere ihraç ettikleri, gayrimenkul projesinin belirli bağımsız bölümlerini veya bağımsız bölümlerin belirli bir alan birimini temsil eden nominal değeri eşit sermaye piyasası aracına gayrimenkul sertifikası denir.",
+        "D) Gayrimenkul sertifikaları yurt içinde halka arz edilerek veya halka arz edilmeksizin tahsisli olarak veya nitelikli yatırımcıya satış suretiyle veya yurt dışında ihraç edilebilir.",
+        "E) Gayrimenkul sertifikaları ihraççı tarafından asli veya tali edimin yerine getirilmesi ve cezai şartın ödenmesini gerektiren hallerde cezai şartın da ödenmesi suretiyle itfa edilir."
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Ortaklıklar tarafından nakit karşılığı satılmak üzere ihraç edilen, net kardan pay alma, tasfiye sonucunda kalan tutara katılma veya halka açık olmayan ortaklık tarafından yeni çıkarılacak payları alma hakkı tanıyan pay benzeri menkul kıymetlere ne ad verilir?",
+      "options": [
+        "A) Gayrimenkul sertifikası",
+        "B) Kira sertifikası",
+        "C) Katılım intifa senedi",
+        "D) Varant",
+        "E) Yatırım kuruluşu sertifikası"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Sermayede temsil edilmesi zorunlu olmayan, sabit bir getiri taahhüdü barındırmayan, pay sahipliği haklarından birini ya da bir kısmını veren ve bu nitelikte olduğu Kurulca belirlenen menkul kıymetlere ne ad verilir?",
+      "options": [
+        "A) Pay",
+        "B) Pay benzeri menkul kıymet",
+        "C) Katılım intifa senedi",
+        "D) Varant",
+        "E) Yatırım kuruluşu sertifikası"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Yabancı Sermaye Piyasası Araçları Ve Depo Sertifikaları İle Yabancı Yatırım Fonu Payları Tebliğine göre, saklama kuruluşlarında saklanan yabancı sermaye piyasası araçlarını temsilen depocu kuruluş tarafından ihraç edilen ve sahibine bu araçların verdiği hakları aynen sağlayan, bunlara özdeş, nominal değeri Türk Lirası olarak veya T.C. Merkez Bankasınca günlük alım satım kurları ilan edilen yabancı paralar cinsinden ifade edilen sermaye piyasası aracına ne ad verilir?",
+      "options": [
+        "A) Türev araç",
+        "B) Depo sertifikası",
+        "C) Yabancı yatırım fonu payı",
+        "D) Yabancı ortaklık payı",
+        "E) Poliçe"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Sermaye Piyasası Araçlarının Satışı Tebliğine göre, sermaye piyasası araçlarının doğrudan yurt dışında ve/veya yurt içinde yerleşik kişilere borsada toptan satılmasına ne ad verilir?",
+      "options": [
+        "A) Tahsisli satış",
+        "B) Nitelikli yatırımcılara satış",
+        "C) Tertipli ihraç",
+        "D) Halka arz yoluyla satış",
+        "E) Halka arz edilmeksizin satış"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Oy Hakkına Ve Yönetim Kurulunda Temsil Edilmeye İlişkin İmtiyazların Kaldırılmasına İlişkin Esaslar Tebliğine göre, faaliyetlerinin makul ve zorunlu kıldığı hâller saklı kalmak kaydıyla, mevzuata uygun olarak hazırlanmış finansal tablolarına göre üst üste kaç yıl dönem zararı eden halka açık ortaklıklarda, oy hakkına ve yönetim kurulunda temsil edilmeye ilişkin imtiyazlar Kurul kararı ile kalkar?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "answer": 4
+    }
   ]
 }
+
+
+
