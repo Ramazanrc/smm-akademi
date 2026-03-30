@@ -59,7 +59,7 @@
         /* --- SORU KARTI & SONUÇ EKRANI --- */
         .question-card { background: var(--white); border-radius: 15px; padding: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); border-top: 5px solid var(--primary-orange); }
         .option-btn { width: 100%; text-align: left; padding: 15px; margin-bottom: 10px; border: 1px solid var(--border-color); border-radius: 10px; background: white; cursor: pointer; font-size: 14.5px; transition: all 0.3s ease; }
-        .option-btn:hover { background: #f1f5f9; border-color: var(--primary-orange); box-shadow: 0 0 8px rgba(249, 115, 22, 0.4); transform: translateX(5px);}
+        .option-btn:hover:not(:disabled) { background: #f1f5f9; border-color: var(--primary-orange); box-shadow: 0 0 8px rgba(249, 115, 22, 0.4); transform: translateX(5px);}
         .option-btn.correct { background: #22c55e !important; color: white; border-color: #16a34a; }
         .option-btn.wrong { background: #ef4444 !important; color: white; border-color: #dc2626; }
 
@@ -219,10 +219,15 @@
                 <h3 id="soru-metni" style="margin-bottom: 25px; line-height: 1.6; color: #0f172a;">Sorular hazırlanıyor...</h3>
                 <div id="secenekler-listesi"></div>
                 
-                <div style="margin-top: 30px; display: flex; justify-content: flex-end; align-items: center; gap: 15px; flex-wrap: wrap;">
-                    <button id="btn-bos-gec" class="btn-nav btn-bos-gec" onclick="bosGec()" style="display:none;"><i class="fas fa-forward"></i> Boş Bırak / Geç</button>
-                    <button id="btn-erken-bitir" class="btn-nav" style="background: #ef4444; color: white; display: none;" onclick="denemeyiBitir(true)"><i class="fas fa-flag-checkered"></i> Sınavı Bitir</button>
-                    <button id="next-btn" class="btn-nav btn-next" onclick="sonrakiSoru()" disabled>Sonraki Soru <i class="fas fa-arrow-right" style="margin-left: 5px;"></i></button>
+                <div style="margin-top: 30px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px;">
+                    <div>
+                        <button id="btn-sonuclara-don" class="btn-nav" style="background: #0f172a; color: white; display: none;" onclick="sonuclaraDon()"><i class="fas fa-arrow-left"></i> Sonuçlara Dön</button>
+                    </div>
+                    <div style="display: flex; gap: 15px;">
+                        <button id="btn-bos-gec" class="btn-nav btn-bos-gec" onclick="bosGec()" style="display:none;"><i class="fas fa-forward"></i> Boş Bırak / Geç</button>
+                        <button id="btn-erken-bitir" class="btn-nav" style="background: #ef4444; color: white; display: none;" onclick="denemeyiBitir(true)"><i class="fas fa-flag-checkered"></i> Sınavı Bitir</button>
+                        <button id="next-btn" class="btn-nav btn-next" onclick="sonrakiSoru()" disabled>Sonraki Soru <i class="fas fa-arrow-right" style="margin-left: 5px;"></i></button>
+                    </div>
                 </div>
             </div>
 
@@ -258,6 +263,7 @@
                 </div>
 
                 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+                    <button id="incele-btn" class="btn-nav" style="background: #3b82f6; color: white; display: none;" onclick="cevaplariIncele()"><i class="fas fa-search"></i> Cevapları İncele</button>
                     <button id="tekrar-coz-btn" class="btn-nav btn-next" onclick="kategoriSec(aktifKategoriAdi, null)"><i class="fas fa-redo"></i> Testi Tekrar Çöz</button>
                     <button class="btn-nav" style="background: #0f172a; color: white;" onclick="window.location.href='index.html'"><i class="fas fa-home"></i> Ana Menüye Dön</button>
                 </div>
@@ -324,6 +330,7 @@
 
         let tumKategoriler = {}; let aktifSorular = []; let mevcutSoruIndex = 0; let aktifKategoriAdi = ""; 
         let dogruSayisi = 0; let yanlisSayisi = 0; let bosSayisi = 0;
+        let isIncelemeMode = false; // YENİ EKLENDİ: İnceleme Modu Bayrağı
         
         const urlParams = new URLSearchParams(window.location.search);
         const secilenDers = urlParams.get('ders'); 
@@ -367,7 +374,7 @@
             document.getElementById('header-ders-adi').innerText = anaDersAdi;
             document.getElementById('ders-baslik-menusu').innerText = anaDersAdi + " KONULARI";
             
-            document.getElementById('btn-erken-bitir').style.display = 'none'; // Klasikte gizli kalsın
+            document.getElementById('btn-erken-bitir').style.display = 'none'; 
 
             fetch(getDosyaYolu(secilenDers)).then(res => res.json()).then(data => {
                 if (!Array.isArray(data)) { tumKategoriler = data; menuyuOlustur(); const ilkKonu = Object.keys(data)[0]; kategoriSec(ilkKonu, null); } 
@@ -375,7 +382,7 @@
             });
         }
 
-        // --- MENÜ OLUŞTURUCU (ROZETLER DÜZELTİLDİ) ---
+        // --- MENÜ OLUŞTURUCU ---
         function menuyuOlustur() {
             const listeDiv = document.getElementById('kategori-listesi'); 
             listeDiv.innerHTML = ''; 
@@ -463,6 +470,7 @@
             if (!konuAdi) return; 
             if(tiklananHtmlElementi) { document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active')); tiklananHtmlElementi.classList.add('active'); }
             aktifKategoriAdi = konuAdi; aktifSorular = tumKategoriler[konuAdi]; window.hataliSorular = []; 
+            isIncelemeMode = false; // Yeni teste başlarken inceleme modunu kapa
             
             let eskiKayit = localStorage.getItem("SMM_Kayit_" + aktifKategoriAdi);
             if (eskiKayit) {
@@ -487,11 +495,24 @@
         function soruYukle() {
             document.body.classList.add('mobil-soru-acik');
             const s = aktifSorular[mevcutSoruIndex];
-            document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
+            
+            if(isIncelemeMode) {
+                document.getElementById('soru-sayac').innerText = `İnceleme Modu: Soru ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
+            } else {
+                document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
+            }
+            
             document.getElementById('soru-metni').innerHTML = marked.parse(s.q); 
 
             const liste = document.getElementById('secenekler-listesi'); liste.innerHTML = '';
-            document.getElementById('next-btn').disabled = !isDenemeMode;
+            
+            // Buton kontrolleri
+            if(isIncelemeMode) {
+                document.getElementById('next-btn').disabled = false; // İnceleme modunda gezmek hep serbest
+            } else {
+                document.getElementById('next-btn').disabled = !isDenemeMode;
+            }
+
             if(isDenemeMode) guncelleOptikPalet(); 
 
             s.options.forEach((metin, i) => {
@@ -499,8 +520,23 @@
                 let temizMetin = metin.replace(/^[A-Ea-e]\)[\s]*/, "").replace(/^[A-Ea-e]\.[\s]*/, "");
                 btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
                 let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
-                btn.onclick = () => cevapla(i, dogruAnahtar, btn);
-                if(isDenemeMode && denemeCevaplari[mevcutSoruIndex] === i) { btn.classList.add('selected-deneme'); }
+                
+                if(isIncelemeMode) {
+                    btn.disabled = true; // Tıklanamaz
+                    btn.style.cursor = 'default';
+                    // Doğru Cevabı Yeşile Boya
+                    if (i === dogruAnahtar) {
+                        btn.classList.add('correct');
+                    }
+                    // Aday yanlış yaptıysa onun işaretlediğini kırmızıya boya
+                    else if (isDenemeMode && denemeCevaplari[mevcutSoruIndex] === i) {
+                        btn.classList.add('wrong');
+                    }
+                } else {
+                    btn.onclick = () => cevapla(i, dogruAnahtar, btn);
+                    if(isDenemeMode && denemeCevaplari[mevcutSoruIndex] === i) { btn.classList.add('selected-deneme'); }
+                }
+                
                 liste.appendChild(btn);
             });
 
@@ -553,13 +589,17 @@
         function sonrakiSoru() {
             if(mevcutSoruIndex < aktifSorular.length - 1) {
                 mevcutSoruIndex++; 
-                if(!isDenemeMode) {
+                if(!isDenemeMode && !isIncelemeMode) {
                     const kayitBilgisi = { index: mevcutSoruIndex, dogru: dogruSayisi, yanlis: yanlisSayisi };
                     localStorage.setItem("SMM_Kayit_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
                 }
                 soruYukle();
             } else {
-                denemeyiBitir(false); 
+                if(isIncelemeMode) {
+                    sonuclaraDon(); // İnceleme modunda sonda ise sonuçlara dön
+                } else {
+                    denemeyiBitir(false); 
+                }
             }
         }
 
@@ -579,10 +619,8 @@
                 localStorage.setItem("SMM_Bitirdi_" + aktifKategoriAdi, "evet");
                 menuyuOlustur();
 
-                document.getElementById('soru-alani').classList.add('hidden'); 
-                document.getElementById('sonuc-alani').classList.remove('hidden');
-                document.getElementById('skor-dogru').innerText = dogruSayisi; 
-                document.getElementById('skor-yanlis').innerText = yanlisSayisi;
+                document.getElementById('soru-alani').classList.add('hidden'); document.getElementById('sonuc-alani').classList.remove('hidden');
+                document.getElementById('skor-dogru').innerText = dogruSayisi; document.getElementById('skor-yanlis').innerText = yanlisSayisi;
                 
                 let netSayisi = dogruSayisi - (yanlisSayisi / 4);
                 if (netSayisi < 0) netSayisi = 0;
@@ -608,8 +646,7 @@
             if(erkenBitirmeMi) {
                 if(!confirm("Sınavı bitirmek ve değerlendirmeyi görmek istediğinize emin misiniz?")) return;
             }
-            clearInterval(examTimerInterval); 
-            document.getElementById('exam-timer').style.display = 'none';
+            clearInterval(examTimerInterval); document.getElementById('exam-timer').style.display = 'none';
             if(document.getElementById('exam-drawer').classList.contains('open')) toggleDrawer(); 
             
             dogruSayisi = 0; yanlisSayisi = 0; bosSayisi = 0;
@@ -628,13 +665,10 @@
             const tahminiPuan = netSayisi * soruBasinaPuan;
             const yuzde = (toplamSoru > 0) ? Math.round((netSayisi / toplamSoru) * 100) : 0;
 
-            document.getElementById('soru-alani').classList.add('hidden'); 
-            document.getElementById('sonuc-alani').classList.remove('hidden');
+            document.getElementById('soru-alani').classList.add('hidden'); document.getElementById('sonuc-alani').classList.remove('hidden');
             document.getElementById('sonuc-alt-metin').innerText = "Deneme sınavını başarıyla tamamladınız. İşte sonucunuz:";
-            document.getElementById('skor-dogru').innerText = dogruSayisi; 
-            document.getElementById('skor-yanlis').innerText = yanlisSayisi;
-            document.getElementById('skor-bos-kutu').style.display = 'flex'; 
-            document.getElementById('skor-bos').innerText = bosSayisi;
+            document.getElementById('skor-dogru').innerText = dogruSayisi; document.getElementById('skor-yanlis').innerText = yanlisSayisi;
+            document.getElementById('skor-bos-kutu').style.display = 'flex'; document.getElementById('skor-bos').innerText = bosSayisi;
             
             document.getElementById('skor-yuzde').innerText = "%" + yuzde;
             document.getElementById('skor-net').innerText = netSayisi.toFixed(2);
@@ -642,7 +676,31 @@
             document.getElementById('puan-karti').style.display = 'block';
             
             halkayiCiz(yuzde); 
+            
             document.getElementById('tekrar-coz-btn').style.display = 'none'; 
+            document.getElementById('incele-btn').style.display = 'inline-block'; // YENİ: İnceleme Butonunu Göster
+        }
+
+        // --- YENİ EKLENEN: CEVAP İNCELEME MOTORU ---
+        function cevaplariIncele() {
+            isIncelemeMode = true;
+            mevcutSoruIndex = 0; 
+            document.getElementById('sonuc-alani').classList.add('hidden');
+            document.getElementById('soru-alani').classList.remove('hidden');
+            
+            document.getElementById('btn-sonuclara-don').style.display = 'inline-block';
+            document.getElementById('btn-erken-bitir').style.display = 'none';
+            document.getElementById('btn-bos-gec').style.display = 'none';
+            
+            soruYukle();
+        }
+
+        function sonuclaraDon() {
+            isIncelemeMode = false;
+            document.getElementById('soru-alani').classList.add('hidden');
+            document.getElementById('sonuc-alani').classList.remove('hidden');
+            
+            document.getElementById('btn-sonuclara-don').style.display = 'none';
         }
 
         function menuyeDon() { document.body.classList.remove('mobil-soru-acik'); document.getElementById('soru-alani').classList.add('hidden'); }
