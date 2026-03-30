@@ -1,49 +1,27 @@
 <!DOCTYPE html>
 <html lang="tr">
-   <head>
+<head>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-   <style>
-  /* MOBİL UYGULAMA (APP) GÖRÜNÜMÜ KODLARI */
-  @media (max-width: 768px) {
-    /* Varsayılan durumda (site ilk açıldığında) sadece Menü görünsün */
-    body:not(.mobil-soru-acik) .sidebar, body:not(.mobil-soru-acik) .bg-dark {
-      width: 100% !important;
-      min-width: 100% !important;
-      height: 100vh !important;
-      overflow-y: auto !important;
-      display: block !important;
-    }
-    body:not(.mobil-soru-acik) .content, body:not(.mobil-soru-acik) main {
-      display: none !important; /* Menüdeyken soruları tamamen gizle */
-    }
+    <style>
+        /* MOBİL UYGULAMA (APP) GÖRÜNÜMÜ KODLARI */
+        @media (max-width: 768px) {
+            body:not(.mobil-soru-acik):not(.deneme-modu) .sidebar, body:not(.mobil-soru-acik):not(.deneme-modu) .bg-dark {
+                width: 100% !important; min-width: 100% !important; height: 100vh !important;
+                overflow-y: auto !important; display: block !important;
+            }
+            body:not(.mobil-soru-acik):not(.deneme-modu) .content, body:not(.mobil-soru-acik):not(.deneme-modu) main {
+                display: none !important;
+            }
+            body.mobil-soru-acik .sidebar, body.mobil-soru-acik .bg-dark { display: none !important; }
+            body.mobil-soru-acik .content, body.mobil-soru-acik main {
+                display: block !important; width: 100% !important; max-width: 100% !important;
+                margin-left: 0 !important; padding: 15px !important; height: 100vh !important; overflow-y: auto !important;
+            }
+            #mobil-geri-btn { display: block !important; }
+        }
 
-    /* Bir konuya tıklandığında (sorular açıldığında) Menüyü gizle, Soruları tam ekran yap */
-    body.mobil-soru-acik .sidebar, body.mobil-soru-acik .bg-dark {
-      display: none !important; 
-    }
-    body.mobil-soru-acik .content, body.mobil-soru-acik main {
-      display: block !important;
-      width: 100% !important;
-      max-width: 100% !important;
-      margin-left: 0 !important;
-      padding: 15px !important;
-      height: 100vh !important;
-      overflow-y: auto !important;
-    }
-
-    /* Mobilde Geri Dön butonunu göster */
-    #mobil-geri-btn {
-      display: block !important;
-    }
-  }
-
-  /* MASAÜSTÜNDE GERİ BUTONUNU GİZLE (Bilgisayarı bozmamak için) */
-  @media (min-width: 769px) {
-    #mobil-geri-btn {
-      display: none !important;
-    }
-  }
-</style>
+        @media (min-width: 769px) { #mobil-geri-btn { display: none !important; } }
+    </style>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,12 +31,8 @@
     
     <style>
         :root {
-            --sidebar-bg: #0f172a;
-            --primary-orange: #f97316;
-            --bg-color: #f8fafc;
-            --text-dark: #1e293b;
-            --border-color: #e2e8f0;
-            --white: #ffffff;
+            --sidebar-bg: #0f172a; --primary-orange: #f97316; --bg-color: #f8fafc;
+            --text-dark: #1e293b; --border-color: #e2e8f0; --white: #ffffff;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
@@ -79,7 +53,7 @@
 
         /* --- ANA İÇERİK --- */
         .main-content { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
-        header { background: var(--white); padding: 20px 40px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 15px rgba(0,0,0,0.05); }
+        header { background: var(--white); padding: 20px 40px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 15px rgba(0,0,0,0.05); z-index: 10; }
         .content-scroll { flex: 1; padding: 30px; overflow-y: auto; }
 
         /* --- SORU KARTI & SONUÇ EKRANI --- */
@@ -93,7 +67,6 @@
         .btn-next { background: var(--primary-orange); color: white; }
         .btn-next:disabled { background: #cbd5e1; cursor: not-allowed; }
 
-        /* Skor Kartı Stilleri */
         .score-box { display: flex; justify-content: center; gap: 20px; margin-top: 25px; margin-bottom: 30px; }
         .score-item { padding: 20px 40px; border-radius: 12px; font-size: 18px; font-weight: bold; display: flex; align-items: center; gap: 10px; }
         .score-correct { background: #dcfce7; color: #16a34a; border: 1px solid #bbf7d0; }
@@ -101,175 +74,74 @@
 
         .hidden { display: none !important; }
         
-        /* Kaydırma Çubuğu */
         .nav-menu::-webkit-scrollbar { width: 6px; }
         .nav-menu::-webkit-scrollbar-thumb { background: #334155; border-radius: 10px; }
-                /* İlerleme Çubuğu Tasarımı */
-        .ilerleme-kapsayici {
-            width: 100%;
-            height: 6px; 
-            background-color: #e2e8f0; 
-            border-radius: 4px;
-            margin-bottom: 20px;
-            overflow: hidden;
-        }
+        
+        .ilerleme-kapsayici { width: 100%; height: 6px; background-color: #e2e8f0; border-radius: 4px; margin-bottom: 20px; overflow: hidden; }
+        .ilerleme-cubugu { height: 100%; background-color: var(--primary-orange); border-radius: 4px; transition: width 0.4s ease; }
 
-        .ilerleme-cubugu {
-            height: 100%;
-            background-color: var(--primary-orange); 
-            border-radius: 4px;
-            transition: width 0.4s ease; 
-        }
-        /* Devasa ve Esnek Roket Animasyonu */
-@keyframes roketZiplama {
-    0% { transform: scale(1); }
-    30% { transform: scale(1.6); } /* %60 devasa büyüme (görmemen imkansız) */
-    50% { transform: scale(0.9); } /* Hafifçe içeri çökme (yay etkisi) */
-    100% { transform: scale(1); }
-}
+        @keyframes roketZiplama { 0% { transform: scale(1); } 30% { transform: scale(1.6); } 50% { transform: scale(0.9); } 100% { transform: scale(1); } }
+        .roket-efekti { display: inline-block !important; animation: roketZiplama 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important; }
 
-.roket-efekti {
-    display: inline-block !important;
-    animation: roketZiplama 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
-}
-/* AI Modal Tasarımı */
-.ai-modal-overlay {
-    display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-    background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(5px); z-index: 9999;
-    align-items: center; justify-content: center;
-}
+        .ai-modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(5px); z-index: 9999; align-items: center; justify-content: center; }
+        .ai-modal-kutu { background: white; width: 90%; max-width: 450px; border-radius: 20px; padding: 25px; text-align: center; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); border-top: 5px solid #ff9800; transform: scale(0.7); animation: modalPıt 0.3s forwards; }
+        @keyframes modalPıt { to { transform: scale(1); } }
+        .ai-modal-baslik h3 { margin: 10px 0; color: #1e293b; font-size: 20px; }
+        .ai-kategori-satir { margin-bottom: 15px; text-align: left; }
+        .ai-bar-dis { width: 100%; height: 8px; background: #e2e8f0; border-radius: 10px; margin-top: 5px; overflow: hidden; }
+        .ai-bar-ic { height: 100%; background: #ff9800; border-radius: 10px; transition: width 1s ease-in-out; }
+        .ai-tavsiye-balonu { background: #fff7ed; border-left: 4px solid #ff9800; padding: 15px; margin: 20px 0; border-radius: 8px; font-style: italic; color: #9a3412; font-size: 14px; }
+        .ai-modal-buton { background: #1e293b; color: white; border: none; padding: 12px 30px; border-radius: 10px; cursor: pointer; font-weight: bold; transition: 0.3s; }
+        .ai-modal-buton:hover { background: #ff9800; transform: translateY(-2px); }
+        .konfeti { position: absolute; width: 10px; height: 10px; background: #ff9800; border-radius: 2px; z-index: 10000; pointer-events: none; animation: konfetiDusus 3s ease-out forwards; }
+        @keyframes konfetiDusus { 0% { transform: translateY(0) rotate(0); opacity: 1; } 100% { transform: translateY(500px) rotate(720deg); opacity: 0; } }
 
-.ai-modal-kutu {
-    background: white; width: 90%; max-width: 450px; border-radius: 20px;
-    padding: 25px; text-align: center; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
-    border-top: 5px solid #ff9800; transform: scale(0.7); animation: modalPıt 0.3s forwards;
-}
+        #soru-metni table { width: auto; min-width: 50%; max-width: 100%; border-collapse: collapse; margin: 15px 0; background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); font-size: 13px; }
+        #soru-metni th, #soru-metni td { border: 1px solid #e2e8f0; padding: 8px 12px; text-align: left; }
+        #soru-metni th { background-color: #f8fafc; font-weight: 700; color: #0f172a; border-bottom: 2px solid #f97316; }
+        #soru-metni tr:nth-child(even) { background-color: #f8fafc; }
 
-@keyframes modalPıt { to { transform: scale(1); } }
+        /* --- SİMÜLATÖR (DENEME) STİLLERİ --- */
+        .option-btn.selected-deneme { background: #f97316 !important; color: white; border-color: #ea580c; font-weight: bold; }
+        .btn-bos-gec { background: #94a3b8; color: white; }
+        .btn-bos-gec:hover { background: #64748b; }
+        .exam-timer { font-size: 18px; font-weight: bold; color: #ef4444; background: #fee2e2; padding: 5px 15px; border-radius: 20px; display: none; align-items: center; gap: 8px; }
+        .grid-icon-btn { background: #0f172a; color: white; border: none; padding: 8px 12px; border-radius: 10px; font-size: 20px; cursor: pointer; transition: 0.3s; display: none; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+        .grid-icon-btn:hover { background: #f97316; transform: scale(1.05); }
 
-.ai-modal-baslik h3 { margin: 10px 0; color: #1e293b; font-size: 20px; }
+        /* Sağ Optik Çekmece */
+        .exam-drawer-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); backdrop-filter: blur(8px); z-index: 100000; display: none; }
+        .exam-drawer { position: fixed; top: 0; right: -350px; width: 320px; height: 100%; background: #ffffff; z-index: 100001; box-shadow: -10px 0 30px rgba(0,0,0,0.2); transition: right 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); display: flex; flex-direction: column; }
+        .exam-drawer.open { right: 0; }
+        .drawer-header { padding: 25px 20px; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center; background: #f8fafc; }
+        .drawer-header h3 { font-size: 16px; color: #0f172a; margin: 0; font-weight: 800; }
+        .drawer-close { font-size: 24px; cursor: pointer; color: #94a3b8; transition: 0.2s; }
+        .drawer-close:hover { color: #dc2626; }
+        .drawer-body { padding: 20px; overflow-y: auto; flex: 1; }
+        .optik-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+        .optik-kutu { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; border-radius: 10px; border: 2px solid #e2e8f0; font-weight: bold; color: #64748b; cursor: pointer; transition: 0.2s; background: #f8fafc; }
+        .optik-kutu:hover { border-color: #cbd5e1; background: #e2e8f0; }
+        .optik-kutu.cozuldu { background: #f97316; color: white; border-color: #ea580c; }
+        .optik-kutu.aktif { border-color: #0f172a; box-shadow: 0 0 0 3px rgba(15,23,42,0.2); }
 
-.ai-kategori-satir { margin-bottom: 15px; text-align: left; }
-.ai-bar-dis { width: 100%; height: 8px; background: #e2e8f0; border-radius: 10px; margin-top: 5px; overflow: hidden; }
-.ai-bar-ic { height: 100%; background: #ff9800; border-radius: 10px; transition: width 1s ease-in-out; }
-
-.ai-tavsiye-balonu {
-    background: #fff7ed; border-left: 4px solid #ff9800; padding: 15px;
-    margin: 20px 0; border-radius: 8px; font-style: italic; color: #9a3412; font-size: 14px;
-}
-
-.ai-modal-buton {
-    background: #1e293b; color: white; border: none; padding: 12px 30px;
-    border-radius: 10px; cursor: pointer; font-weight: bold; transition: 0.3s;
-}
-.ai-modal-buton:hover { background: #ff9800; transform: translateY(-2px); }
-
-/* Konfeti Parçacıkları */
-.konfeti {
-    position: absolute; width: 10px; height: 10px; background: #ff9800;
-    border-radius: 2px; z-index: 10000; pointer-events: none;
-    animation: konfetiDusus 3s ease-out forwards;
-}
-
-@keyframes konfetiDusus {
-    0% { transform: translateY(0) rotate(0); opacity: 1; }
-    100% { transform: translateY(500px) rotate(720deg); opacity: 0; }
-}
-/* DAHA KÜÇÜK VE ŞIK TABLO GÖRÜNÜMÜ */
-#soru-metni table {
-    width: auto; /* Tabloyu içeriği kadar daraltır */
-    min-width: 50%; /* Çok da daralıp birbirine girmesin */
-    max-width: 100%; /* Sayfadan dışarı taşmasın */
-    border-collapse: collapse;
-    margin: 15px 0;
-    background: #ffffff;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    font-size: 13px; /* Yazı boyutunu biraz küçülterek yer kazandık */
-}
-
-#soru-metni th, #soru-metni td {
-    border: 1px solid #e2e8f0;
-    padding: 8px 12px; /* Hücre boşluklarını daralttık */
-    text-align: left;
-}
-
-#soru-metni th {
-    background-color: #f8fafc;
-    font-weight: 700;
-    color: #0f172a;
-    border-bottom: 2px solid #f97316;
-}
-
-#soru-metni tr:nth-child(even) {
-    background-color: #f8fafc;
-}
+        /* --- PREMIUM BAŞARI HALKASI (APPLE WATCH STİLİ) --- */
+        .progress-ring-container { display: flex; justify-content: center; align-items: center; margin: 30px 0; }
+        .progress-ring { width: 160px; height: 160px; border-radius: 50%; background: conic-gradient(#e2e8f0 100%, #e2e8f0 0%); display: flex; justify-content: center; align-items: center; box-shadow: 0 10px 25px rgba(0,0,0,0.1); transition: background 1.5s ease-out, box-shadow 1.5s ease-out; }
+        .progress-ring-inner { width: 130px; height: 130px; background: white; border-radius: 50%; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: inset 0 5px 10px rgba(0,0,0,0.05); }
+        .progress-ring-value { font-size: 36px; font-weight: 800; color: #0f172a; line-height: 1; }
+        .progress-ring-label { font-size: 13px; color: #64748b; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
     </style>
 </head>
 <body>
        
 <style>
-  #kilit-ekrani {
-    position: fixed;
-    top: 0; left: 0; width: 100%; height: 100%;
-    background: #0f172a; /* Menümüzle aynı şık lacivert */
-    z-index: 99999; /* Sayfadaki her şeyin üstünü örter */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    color: white;
-    font-family: 'Inter', sans-serif;
-  }
-  .kilit-kutu {
-    background: white;
-    color: #333;
-    padding: 40px 30px;
-    border-radius: 12px;
-    text-align: center;
-    box-shadow: 0 15px 30px rgba(0,0,0,0.5);
-    max-width: 400px;
-    width: 90%;
-    border-top: 5px solid #f97316; /* Turuncu vurgu */
-  }
-  .kilit-kutu input {
-    width: 100%;
-    padding: 12px;
-    margin: 20px 0;
-    border: 2px solid #e2e8f0;
-    border-radius: 8px;
-    font-size: 16px;
-    text-align: center;
-    outline: none;
-  }
-  .kilit-kutu input:focus {
-    border-color: #f97316;
-  }
-  .kilit-kutu button {
-    width: 100%;
-    padding: 12px;
-    background: #f97316;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    font-weight: bold;
-    font-size: 16px;
-    cursor: pointer;
-    transition: background 0.3s;
-  }
-  .kilit-kutu button:hover {
-    background: #ea580c;
-  }
-  .yasal-uyari-metni {
-    margin-top: 30px;
-    font-size: 12px;
-    color: #94a3b8;
-    text-align: center;
-    max-width: 600px;
-    padding: 0 20px;
-    line-height: 1.5;
-  }
+  #kilit-ekrani { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #0f172a; z-index: 99999; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; font-family: 'Inter', sans-serif; }
+  .kilit-kutu { background: white; color: #333; padding: 40px 30px; border-radius: 12px; text-align: center; box-shadow: 0 15px 30px rgba(0,0,0,0.5); max-width: 400px; width: 90%; border-top: 5px solid #f97316; }
+  .kilit-kutu input { width: 100%; padding: 12px; margin: 20px 0; border: 2px solid #e2e8f0; border-radius: 8px; font-size: 16px; text-align: center; outline: none; }
+  .kilit-kutu input:focus { border-color: #f97316; }
+  .kilit-kutu button { width: 100%; padding: 12px; background: #f97316; color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 16px; cursor: pointer; transition: background 0.3s; }
+  .kilit-kutu button:hover { background: #ea580c; }
+  .yasal-uyari-metni { margin-top: 30px; font-size: 12px; color: #94a3b8; text-align: center; max-width: 600px; padding: 0 20px; line-height: 1.5; }
 </style>
 
 <div id="kilit-ekrani">
@@ -281,23 +153,19 @@
     <p id="sifre-hata" style="color: #dc2626; font-size: 13px; font-weight: bold; display: none; margin-top: 15px;">Hatalı şifre, lütfen tekrar deneyin.</p>
   </div>
   <div class="yasal-uyari-metni">
-    <strong>Yasal Uyarı:</strong> Bu portal ticari bir amaç gütmemekte olup, meslek mensubu adaylarının kişisel çalışma notları arşivinden ibarettir. Sitede yer alan sorular sadece eğitim ve gelişim amacıyla kullanılmış olup, telif hakkı sahiplerinin olası talebi doğrultusunda ilgili içerikler derhal erişime kapatılacaktır.
+    <strong>Yasal Uyarı:</strong> Bu portal ticari bir amaç gütmemekte olup, meslek mensubu adaylarının kişisel çalışma notları arşivinden ibarettir.
   </div>
 </div>
 
 <script>
   function kilitAc() {
     const girilenSifre = document.getElementById('giris-sifresi').value;
-    
-    // ŞİFREYİ BURADAN BELİRLİYORSUN (Şu anki şifre: smm2026)
-    if (girilenSifre === "smm2026") {
-      document.getElementById('kilit-ekrani').style.display = "none";
-    } else {
-      document.getElementById('sifre-hata').style.display = "block";
-    }
+    if (girilenSifre === "smm2026") { document.getElementById('kilit-ekrani').style.display = "none"; } 
+    else { document.getElementById('sifre-hata').style.display = "block"; }
   }
 </script>
-    <aside class="sidebar">
+
+    <aside class="sidebar" id="sol-sidebar">
         <div class="sidebar-header">
             <div class="logo-box">SMM</div>
             <p style="font-size: 12px; margin-top: 5px; letter-spacing: 1px;">AKADEMİ PORTAL</p>
@@ -319,631 +187,495 @@
         <header>
             <div>
                 <h2 id="header-ders-adi" style="font-size: 22px; margin-bottom: 5px;">Sınav Yükleniyor...</h2>
-                <div id="header-konu-adi" style="color: #64748b; font-size: 14px; font-weight: 600;">Lütfen sol menüden bir konu seçiniz.</div>
+                <div id="header-konu-adi" style="color: #64748b; font-size: 14px; font-weight: 600;">Lütfen bekleyiniz.</div>
             </div>
-            <div style="color: var(--primary-orange); font-weight: 700; background: #fff7ed; padding: 8px 15px; border-radius: 20px; border: 1px solid #fdba74;">
-                <i class="fas fa-check-circle"></i> SMM AKADEMİ v2026
+            
+            <div style="display: flex; align-items: center; gap: 15px;">
+                <div id="exam-timer" class="exam-timer"><i class="fas fa-clock"></i> <span id="timer-text">00:00</span></div>
+                <button id="open-drawer-btn" class="grid-icon-btn" onclick="toggleDrawer()"><i class="fas fa-grip-horizontal"></i></button>
+                <div style="color: var(--primary-orange); font-weight: 700; background: #fff7ed; padding: 8px 15px; border-radius: 20px; border: 1px solid #fdba74;">
+                    <i class="fas fa-check-circle"></i> SMM AKADEMİ v2026
+                </div>
             </div>
         </header>
 
         <div class="content-scroll">
             
            <button id="mobil-geri-btn" class="btn btn-sm btn-outline-secondary mb-3" onclick="menuyeDon()">
-    <i class="fas fa-arrow-left"></i> Konulara Dön
-</button> 
+               <i class="fas fa-arrow-left"></i> Konulara Dön
+           </button> 
          
             <div id="soru-alani" class="question-card">
                 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
                     <span id="soru-sayac" class="badge" style="background: var(--sidebar-bg); color: white; padding: 8px 15px; border-radius: 20px; font-size: 13px;">Soru: 0/0</span>
-                    <span class="badge" style="background: #e2e8f0; color: #475569; padding: 8px 15px; border-radius: 20px; font-size: 13px;">
+                    <span id="klasik-skor-etiketi" class="badge" style="background: #e2e8f0; color: #475569; padding: 8px 15px; border-radius: 20px; font-size: 13px;">
                         <span style="color:#16a34a; font-weight:bold; margin-right:10px;"><i class="fas fa-check"></i> <span id="anlik-dogru">0</span></span>
                         <span style="color:#dc2626; font-weight:bold;"><i class="fas fa-times"></i> <span id="anlik-yanlis">0</span></span>
                     </span>
                 </div>
                 <div class="ilerleme-kapsayici">
-    <div class="ilerleme-cubugu" id="ilerleme-cubugu" style="width: 5%;"></div>
-</div>
-                <h3 id="soru-metni" style="margin-bottom: 25px; line-height: 1.6; color: #0f172a;">Sorular hazırlanıyor, lütfen bekleyiniz...</h3>
+                    <div class="ilerleme-cubugu" id="ilerleme-cubugu" style="width: 5%;"></div>
+                </div>
+                <h3 id="soru-metni" style="margin-bottom: 25px; line-height: 1.6; color: #0f172a;">Sorular hazırlanıyor...</h3>
                 <div id="secenekler-listesi"></div>
                 
-                <div style="margin-top: 30px; display: flex; justify-content: flex-end;">
+                <div style="margin-top: 30px; display: flex; justify-content: flex-end; align-items: center; gap: 15px; flex-wrap: wrap;">
+                    <button id="btn-bos-gec" class="btn-nav btn-bos-gec" onclick="bosGec()" style="display:none;"><i class="fas fa-forward"></i> Boş Bırak / Geç</button>
+                    <button id="btn-erken-bitir" class="btn-nav" style="background: #ef4444; color: white; display: none;" onclick="denemeyiBitir(true)"><i class="fas fa-flag-checkered"></i> Sınavı Bitir</button>
                     <button id="next-btn" class="btn-nav btn-next" onclick="sonrakiSoru()" disabled>Sonraki Soru <i class="fas fa-arrow-right" style="margin-left: 5px;"></i></button>
                 </div>
             </div>
 
             <div id="sonuc-alani" class="question-card text-center hidden" style="padding: 50px 30px;">
-                <i class="fas fa-award" style="font-size: 5rem; color: var(--primary-orange); margin-bottom: 20px;"></i>
                 <h2 style="color: var(--text-dark); margin-bottom: 10px;">Test Tamamlandı!</h2>
-                <p style="color: #64748b; font-size: 16px;">Seçili konu başlığındaki tüm soruları yanıtladınız.</p>
+                <p id="sonuc-alt-metin" style="color: #64748b; font-size: 16px;">Performans analiziniz aşağıdadır.</p>
                 
                 <div class="score-box">
-                    <div class="score-item score-correct">
-                        <i class="fas fa-check-circle"></i> Doğru: <span id="skor-dogru">0</span>
+                    <div class="score-item score-correct"><i class="fas fa-check-circle"></i> Doğru: <span id="skor-dogru">0</span></div>
+                    <div class="score-item score-wrong"><i class="fas fa-times-circle"></i> Yanlış: <span id="skor-yanlis">0</span></div>
+                    <div id="skor-bos-kutu" class="score-item" style="display:none; background:#f1f5f9; color:#64748b; border:1px solid #cbd5e1;"><i class="fas fa-minus-circle"></i> Boş: <span id="skor-bos">0</span></div>
+                </div>
+
+                <div id="puan-karti" style="display:none; background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 15px; padding: 20px; margin: 20px auto; max-width: 400px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
+                    <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #cbd5e1; padding-bottom: 10px; margin-bottom: 10px;">
+                        <span style="color: #64748b; font-weight: 600; font-size: 14px;">Gerçek Netiniz:</span>
+                        <span id="skor-net" style="font-weight: 800; font-size: 20px; color: #0f172a;">0.00</span>
                     </div>
-                    <div class="score-item score-wrong">
-                        <i class="fas fa-times-circle"></i> Yanlış: <span id="skor-yanlis">0</span>
+                    <div style="text-align: center;">
+                        <span style="display: block; color: #94a3b8; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 5px;">Tahmini Sınav Puanı</span>
+                        <span id="skor-puan" style="font-size: 42px; font-weight: 900; color: #f97316; line-height: 1;">0.0</span>
+                        <span style="display: block; color: #ef4444; font-size: 11px; margin-top: 5px;"><i class="fas fa-info-circle"></i> 4 Yanlış 1 Doğruyu Götürür</span>
                     </div>
                 </div>
 
-                <p style="margin-bottom: 25px; font-weight: 600; color: #0f172a;">Başarı Oranı: <span id="skor-yuzde" style="color: var(--primary-orange); font-size: 20px;">%0</span></p>
+                <div class="progress-ring-container">
+                    <div class="progress-ring" id="final-progress-ring">
+                        <div class="progress-ring-inner">
+                            <span class="progress-ring-value" id="skor-yuzde">%0</span>
+                            <span class="progress-ring-label">Başarı</span>
+                        </div>
+                    </div>
+                </div>
 
-                <div>
-                    <button class="btn-nav btn-next" onclick="kategoriSec(aktifKategoriAdi, null)" style="margin-right: 10px;">
-                        <i class="fas fa-redo"></i> Testi Tekrar Çöz
-                    </button>
+                <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+                    <button id="tekrar-coz-btn" class="btn-nav btn-next" onclick="kategoriSec(aktifKategoriAdi, null)"><i class="fas fa-redo"></i> Testi Tekrar Çöz</button>
+                    <button class="btn-nav" style="background: #0f172a; color: white;" onclick="window.location.href='index.html'"><i class="fas fa-home"></i> Ana Menüye Dön</button>
                 </div>
             </div>
 
         </div>
     </main>
+    
+    <div id="exam-drawer-overlay" class="exam-drawer-overlay" onclick="toggleDrawer()"></div>
+    <div id="exam-drawer" class="exam-drawer">
+        <div class="drawer-header">
+            <h3>Soru Navigasyonu</h3>
+            <i class="fas fa-times drawer-close" onclick="toggleDrawer()"></i>
+        </div>
+        <div class="drawer-body">
+            <div id="optik-grid" class="optik-grid"></div>
+        </div>
+        <div style="padding: 20px; border-top: 1px solid #e2e8f0; background: #f8fafc;">
+            <button onclick="denemeyiBitir(true)" class="btn-nav btn-next" style="width: 100%; background: #10b981; padding: 15px; font-size: 16px;"><i class="fas fa-flag-checkered"></i> Sınavı Bitir</button>
+        </div>
+    </div>
+
+    <div id="ai-modal-arka" class="ai-modal-overlay">
+        <div class="ai-modal-kutu">
+            <div class="ai-modal-baslik"><span style="font-size: 24px;">🤖</span><h3>SMM AI Rehber Analizi</h3></div>
+            <div id="ai-modal-icerik"></div>
+            <div id="ai-modal-tavsiye" class="ai-tavsiye-balonu"></div>
+            <div id="hata-listesi-konteynir" style="display:none; max-height: 200px; overflow-y: auto; margin-top: 15px; border-top: 1px solid #e2e8f0; padding-top: 10px;">
+                <h4 style="font-size: 14px; color: #e11d48; margin-bottom: 10px;">🔴 Hatalı Cevapların ve Doğruları:</h4>
+                <div id="hata-listesi-icerik" style="text-align: left; font-size: 12px; line-height: 1.6;"></div>
+            </div>
+            <button id="btn-hatalari-gor" onclick="hatalariListele()" class="ai-modal-buton" style="background: #e11d48; margin-bottom: 10px; display:none;">🔍 Hatalarımı İncele</button>
+            <button onclick="document.getElementById('ai-modal-arka').style.display='none'" class="ai-modal-buton">Anladım, Kapat</button>
+        </div>
+    </div>
+
+    <button id="btn-karalama-ac" onclick="karalamaTahtasiniAc()" style="position: fixed; bottom: 30px; right: 30px; background: #f97316; color: white; border: none; border-radius: 50px; width: 60px; height: 60px; font-size: 24px; box-shadow: 0 4px 15px rgba(249,115,22,0.4); cursor: pointer; z-index: 9000; transition: 0.3s;" title="Soru Çözme Alanı"><i class="fas fa-pen-nib"></i></button>
+
+    <div id="karalama-tahtasi" style="display: none; position: fixed; top: 15%; left: 60%; width: 350px; background: #fff; border-radius: 12px; box-shadow: 0 15px 40px rgba(0,0,0,0.4); border: 2px solid #f97316; z-index: 9999; overflow: hidden; flex-direction: column;">
+        <div id="karalama-header" style="background: #0f172a; padding: 10px 15px; color: white; display: flex; justify-content: space-between; align-items: center; cursor: move; user-select: none;">
+            <span style="font-size: 13px; font-weight: bold;"><i class="fas fa-drafting-compass"></i> Soru Çözme Alanı</span>
+            <div>
+                <button onclick="karalamaModDegistir()" id="btn-karalama-mod" style="background: transparent; color: #3b82f6; border: none; cursor: pointer; margin-right: 15px; font-size: 16px;" title="Çizim Moduna Geç"><i class="fas fa-keyboard"></i></button>
+                <button onclick="karalamaTemizle()" style="background: transparent; color: #facc15; border: none; cursor: pointer; margin-right: 15px; font-size: 16px;" title="Sayfayı Temizle"><i class="fas fa-trash-alt"></i></button>
+                <button onclick="karalamaTahtasiniKapat()" style="background: transparent; color: #ef4444; border: none; cursor: pointer; font-size: 16px;" title="Kapat"><i class="fas fa-times"></i></button>
+            </div>
+        </div>
+        <div style="position: relative; width: 350px; height: 400px; background: #f8fafc;">
+            <textarea id="karalama-metin" placeholder="Hesaplamalarınızı klavye ile buraya yazabilirsiniz..." style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; padding: 15px; font-size: 15px; font-family: monospace; resize: none; outline: none; background: transparent; z-index: 2; line-height: 1.5; color: #0f172a; box-sizing: border-box;"></textarea>
+            <canvas id="karalama-canvas" width="350" height="400" style="position: absolute; top: 0; left: 0; cursor: crosshair; touch-action: none; z-index: 1; display: none;"></canvas>
+        </div>
+    </div>
 
     <script>
-        // 1. GÜVENLİK KONTROLÜ
-(function(){
-    const k = "KR-NGO-2026-VIP";
-    if(localStorage.getItem("license_key") !== k){
-        let p = prompt("SMM Akademi Portalı Lisans Şifresini Giriniz:");
-        if(p === k) {
-            localStorage.setItem("license_key", k);
-        } else {
-            document.body.innerHTML = "<h1 style='padding:50px; text-align:center;'>Erişim Reddedildi.</h1>";
-        }
-    }
-})();
+        // 1. GÜVENLİK
+        (function(){
+            const k = "KR-NGO-2026-VIP";
+            if(localStorage.getItem("license_key") !== k){
+                let p = prompt("SMM Akademi Portalı Lisans Şifresini Giriniz:");
+                if(p === k) { localStorage.setItem("license_key", k); } 
+                else { document.body.innerHTML = "<h1 style='padding:50px; text-align:center;'>Erişim Reddedildi.</h1>"; }
+            }
+        })();
 
-// 2. TEMEL DEĞİŞKENLER VE SKORLAR
-let tumKategoriler = {}; 
-let aktifSorular = [];   
-let mevcutSoruIndex = 0;
-let aktifKategoriAdi = ""; 
-
-let dogruSayisi = 0;
-let yanlisSayisi = 0;
-
-const urlParams = new URLSearchParams(window.location.search);
-const secilenDers = urlParams.get('ders'); 
-let dosyaPath = (secilenDers === 'vergi') ? 'vergi_mevzuati.json' : 
-                (secilenDers === 'muhasebe') ? 'muhasebe_denetimi.json' : 
-                (secilenDers === 'meslek') ? 'meslek_hukuku.json' :
-                (secilenDers === 'sermaye') ? 'sermaye_piyasasi.json' :
-                (secilenDers === 'maliyet') ? 'maliyet_muhasebesi.json' :
-                (secilenDers === 'finansal_analiz') ? 'finansal_analiz.json' :
-                (secilenDers === 'temel_hukuk') ? 'temel_hukuk.json' :
-                (secilenDers === 'finansal_muhasebe') ? 'finansal_muhasebe.json' :
-                (secilenDers === 'sgs') ? 'sgs_sorulari.json' : 'ana_soru_bankasi.json';
-
-const anaDersAdi = (secilenDers === 'vergi') ? 'Vergi Hukuku' : 
-                   (secilenDers === 'meslek') ? 'Meslek Hukuku' :
-                   (secilenDers === 'sermaye') ? 'Sermaye Piyasası Mevzuatı' :
-                   (secilenDers === 'maliyet') ? 'Maliyet Muhasebesi' :
-                   (secilenDers === 'finansal_analiz') ? 'Finansal Tablolar Analizi' :
-                   (secilenDers === 'temel_hukuk') ? 'Temel Hukuk' :
-                   (secilenDers === 'finansal_muhasebe') ? 'Finansal Muhasebe' :
-                   (secilenDers === 'sgs') ? 'SGS Çıkmış Sorular' : 'Muhasebe Denetimi';
-
-document.getElementById('header-ders-adi').innerText = anaDersAdi;
-document.getElementById('ders-baslik-menusu').innerText = anaDersAdi + " KONULARI";
-
-// 3. VERİYİ ÇEKME
-fetch(dosyaPath)
-    .then(res => res.json())
-    .then(data => {
-        if (!Array.isArray(data)) {
-            tumKategoriler = data; 
-            menuyuOlustur();       
-            const ilkKonu = Object.keys(data)[0];
-            kategoriSec(ilkKonu, null);
-        } else {
-            aktifKategoriAdi = "Genel Tarama";
-            aktifSorular = data;
-            document.getElementById('header-konu-adi').innerText = "Genel Tarama Testi";
-            soruYukle();
-        }
-    })
-    .catch(err => {
-        console.error("Hata:", err);
-        document.getElementById('soru-metni').innerText = "Veriler yüklenirken bir hata oluştu. Lütfen dosya adını kontrol edin.";
-    });
-
-// 4. SOL MENÜ (AKORDİYON VE AKILLI TAKİP ASİSTANI BİRLEŞİK)
-function menuyuOlustur() {
-    const listeDiv = document.getElementById('kategori-listesi');
-    listeDiv.innerHTML = '';
-
-    // Akordiyon için gruplama nesnesi
-    let gruplar = {};
-    let normalKonular = [];
-
-    // Verileri tarayıp ayırıyoruz
-    Object.keys(tumKategoriler).forEach((konuAdi) => {
-        if (konuAdi.includes('||')) {
-            let parcalar = konuAdi.split('||');
-            let anaBaslik = parcalar[0];
-            let altBaslik = parcalar[1];
-            if (!gruplar[anaBaslik]) gruplar[anaBaslik] = [];
-            gruplar[anaBaslik].push({ tamAd: konuAdi, altBaslik: altBaslik });
-        } else {
-            normalKonular.push(konuAdi);
-        }
-    });
-
-    // A) NORMAL KONULARI (Maliyet, Finansal Analiz vb.) EKRANA BASMA
-    normalKonular.forEach((konuAdi, index) => {
-        const btn = document.createElement('div');
-        btn.className = 'nav-item ' + (index === 0 ? 'active' : '');
-        const soruSayisi = tumKategoriler[konuAdi].length;
+        let tumKategoriler = {}; let aktifSorular = []; let mevcutSoruIndex = 0; let aktifKategoriAdi = ""; 
+        let dogruSayisi = 0; let yanlisSayisi = 0; let bosSayisi = 0;
         
-        let kayitRozeti = "";
-        let bitisRozeti = "";
-        let ikon = "fa-folder-open";
-        let ikonRenk = "";
-        let ekstraStil = "";
+        const urlParams = new URLSearchParams(window.location.search);
+        const secilenDers = urlParams.get('ders'); 
+        const denemeDersleri = urlParams.get('deneme'); 
+        let isDenemeMode = !!denemeDersleri; 
+        let denemeCevaplari = []; 
+        let examTimerInterval;
 
-        let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi);
-        let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + konuAdi);
-
-        if (eskiKayit) {
-            let veri = JSON.parse(eskiKayit);
-            kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;" title="Kaldığınız Yer">⏱️ ${veri.index + 1}. Soru</span>`;
-            ikon = "fa-hourglass-half";
-            ikonRenk = "color:#f97316;";
-        } else if (bitirdiMi === "evet") {
-            bitisRozeti = `<span style="font-size:10px; background:#22c55e; color:white; padding:2px 6px; border-radius:10px; margin-right:5px; box-shadow: 0 0 5px rgba(34,197,94,0.4);" title="Tebrikler, bu konuyu bitirdiniz!">✅ Bitti</span>`;
-            ikon = "fa-check-circle";
-            ikonRenk = "color:#22c55e;";
-            ekstraStil = "border-left: 3px solid #22c55e; background: rgba(34, 197, 94, 0.05);";
+        function getDosyaYolu(dersId) {
+            return (dersId === 'vergi') ? 'vergi_mevzuati.json' : (dersId === 'muhasebe') ? 'muhasebe_denetimi.json' : (dersId === 'meslek') ? 'meslek_hukuku.json' : (dersId === 'sermaye') ? 'sermaye_piyasasi.json' : (dersId === 'maliyet') ? 'maliyet_muhasebesi.json' : (dersId === 'finansal_analiz') ? 'finansal_analiz.json' : (dersId === 'temel_hukuk') ? 'temel_hukuk.json' : (dersId === 'finansal_muhasebe') ? 'finansal_muhasebe.json' : (dersId === 'sgs') ? 'sgs_sorulari.json' : 'ana_soru_bankasi.json';
         }
 
-        btn.setAttribute('data-kategori', konuAdi);
-        btn.innerHTML = `<i class="fas ${ikon}" style="${ikonRenk}"></i> <span style="flex:1;">${konuAdi}</span> ${kayitRozeti} ${bitisRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px;">${soruSayisi} Soru</span>`;
-        if (bitirdiMi === "evet") { btn.style.cssText += ekstraStil; }
-
-        btn.onclick = (e) => kategoriSec(konuAdi, e.currentTarget);
-        listeDiv.appendChild(btn);
-    });
-
-    // B) AKORDİYON MENÜYÜ (Temel Hukuk) EKRANA BASMA
-    Object.keys(gruplar).forEach((anaBaslik, index) => {
-        // Ana Başlık Butonu
-        const grupBtn = document.createElement('div');
-        grupBtn.className = 'nav-item';
-        grupBtn.style.backgroundColor = '#1e293b';
-        grupBtn.style.color = '#f97316';
-        grupBtn.style.fontWeight = 'bold';
-        grupBtn.innerHTML = `<i class="fas fa-balance-scale"></i> <span style="flex:1;">${anaBaslik}</span> <i class="fas fa-chevron-down" style="font-size:10px;"></i>`;
-        
-        // Alt Konuları Taşıyan Gizli Kutu
-        const altKonuKutusu = document.createElement('div');
-        altKonuKutusu.style.display = index === 0 ? 'block' : 'none'; // İlki açık gelsin
-        altKonuKutusu.style.paddingLeft = '5px';
-        altKonuKutusu.style.borderLeft = '2px solid #f97316';
-        altKonuKutusu.style.marginLeft = '15px';
-        altKonuKutusu.style.marginBottom = '10px';
-
-        grupBtn.onclick = () => {
-            altKonuKutusu.style.display = altKonuKutusu.style.display === 'none' ? 'block' : 'none';
-        };
-
-        listeDiv.appendChild(grupBtn);
-        
-        // Alt Testleri Ekleme (1- Borç İlişkisi vb.)
-        gruplar[anaBaslik].forEach((alt, altIndex) => {
-            const btn = document.createElement('div');
-            btn.className = 'nav-item ' + (index === 0 && altIndex === 0 ? 'active' : '');
-            btn.style.fontSize = '12px';
-            btn.style.padding = '8px 10px';
+        if(isDenemeMode) {
+            document.body.classList.add('deneme-modu'); 
+            document.getElementById('sol-sidebar').style.display = 'none'; 
+            document.getElementById('klasik-skor-etiketi').style.display = 'none'; 
+            document.getElementById('btn-bos-gec').style.display = 'inline-block';
+            document.getElementById('btn-erken-bitir').style.display = 'inline-block'; 
+            document.getElementById('open-drawer-btn').style.display = 'block';
+            document.getElementById('exam-timer').style.display = 'flex';
             
-            const soruSayisi = tumKategoriler[alt.tamAd].length;
+            document.getElementById('header-ders-adi').innerText = "SMMM Yeterlilik Simülasyonu";
+            document.getElementById('header-konu-adi').innerText = "Sınavınız Başladı, Başarılar!";
+
+            const secilenDerslerDizisi = denemeDersleri.split(',');
+            const fetchPromises = secilenDerslerDizisi.map(dersId => fetch(getDosyaYolu(dersId)).then(r => r.json()));
             
-            let kayitRozeti = "";
-            let bitisRozeti = "";
-            let ikon = "fa-file-alt";
-            let ikonRenk = "";
-            let ekstraStil = "";
+            Promise.all(fetchPromises).then(sonuclar => {
+                aktifSorular = [];
+                sonuclar.forEach((data, i) => {
+                    let sorular = [];
+                    if (!Array.isArray(data)) { Object.values(data).forEach(arr => sorular = sorular.concat(arr)); } 
+                    else { sorular = data; }
+                    sorular = sorular.slice(0, 20); 
+                    aktifSorular = aktifSorular.concat(sorular);
+                });
+                optikPaletOlustur(); baslatSayac(secilenDerslerDizisi.length * 45 * 60); soruYukle();
+            }).catch(err => alert("Veriler çekilemedi. Lütfen JSON dosyalarınızı kontrol edin."));
+        } else {
+            const anaDersAdi = (secilenDers === 'vergi') ? 'Vergi Hukuku' : (secilenDers === 'meslek') ? 'Meslek Hukuku' : (secilenDers === 'sermaye') ? 'Sermaye Piyasası' : (secilenDers === 'maliyet') ? 'Maliyet Muh.' : 'SMM Akademi';
+            document.getElementById('header-ders-adi').innerText = anaDersAdi;
+            document.getElementById('ders-baslik-menusu').innerText = anaDersAdi + " KONULARI";
+            
+            document.getElementById('btn-erken-bitir').style.display = 'none'; // Klasikte gizli kalsın
 
-            let eskiKayit = localStorage.getItem("SMM_Kayit_" + alt.tamAd);
-            let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + alt.tamAd);
+            fetch(getDosyaYolu(secilenDers)).then(res => res.json()).then(data => {
+                if (!Array.isArray(data)) { tumKategoriler = data; menuyuOlustur(); const ilkKonu = Object.keys(data)[0]; kategoriSec(ilkKonu, null); } 
+                else { aktifKategoriAdi = "Genel Tarama"; aktifSorular = data; soruYukle(); }
+            });
+        }
 
+        // --- MENÜ OLUŞTURUCU (ROZETLER DÜZELTİLDİ) ---
+        function menuyuOlustur() {
+            const listeDiv = document.getElementById('kategori-listesi'); 
+            listeDiv.innerHTML = ''; 
+            let gruplar = {}; 
+            let normalKonular = [];
+
+            Object.keys(tumKategoriler).forEach((konuAdi) => { 
+                if (konuAdi.includes('||')) { 
+                    let parcalar = konuAdi.split('||'); 
+                    if (!gruplar[parcalar[0]]) gruplar[parcalar[0]] = []; 
+                    gruplar[parcalar[0]].push({ tamAd: konuAdi, altBaslik: parcalar[1] }); 
+                } else { 
+                    normalKonular.push(konuAdi); 
+                } 
+            });
+
+            normalKonular.forEach((konuAdi, index) => { 
+                const btn = document.createElement('div'); 
+                btn.className = 'nav-item ' + (index === 0 ? 'active' : ''); 
+                
+                const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
+                let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-folder-open"; let ikonRenk = ""; let ekstraStil = "";
+                let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi); let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + konuAdi);
+
+                if (eskiKayit) {
+                    let veri = JSON.parse(eskiKayit);
+                    kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
+                    ikon = "fa-hourglass-half"; ikonRenk = "color:#f97316;";
+                } else if (bitirdiMi === "evet") {
+                    bitisRozeti = `<span style="font-size:10px; background:#22c55e; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">✅ Bitti</span>`;
+                    ikon = "fa-check-circle"; ikonRenk = "color:#22c55e;"; ekstraStil = "border-left: 3px solid #22c55e; background: rgba(34, 197, 94, 0.05);";
+                }
+
+                btn.setAttribute('data-kategori', konuAdi); 
+                btn.innerHTML = `<i class="fas ${ikon}" style="${ikonRenk}"></i> <span style="flex:1;">${konuAdi}</span> ${kayitRozeti} ${bitisRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px; color:white;">${soruSayisi} Soru</span>`; 
+                if (bitirdiMi === "evet") { btn.style.cssText += ekstraStil; }
+                btn.onclick = (e) => kategoriSec(konuAdi, e.currentTarget); 
+                listeDiv.appendChild(btn); 
+            });
+
+            Object.keys(gruplar).forEach((anaBaslik, index) => {
+                const grupBtn = document.createElement('div'); 
+                grupBtn.className = 'nav-item'; 
+                grupBtn.style.backgroundColor = '#1e293b'; 
+                grupBtn.style.color = '#f97316'; 
+                grupBtn.style.fontWeight = 'bold'; 
+                grupBtn.innerHTML = `<i class="fas fa-balance-scale"></i> <span style="flex:1;">${anaBaslik}</span> <i class="fas fa-chevron-down" style="font-size:10px;"></i>`;
+                
+                const altKonuKutusu = document.createElement('div'); 
+                altKonuKutusu.style.display = index === 0 ? 'block' : 'none'; 
+                altKonuKutusu.style.paddingLeft = '5px'; altKonuKutusu.style.borderLeft = '2px solid #f97316'; altKonuKutusu.style.marginLeft = '15px'; altKonuKutusu.style.marginBottom = '10px';
+                
+                grupBtn.onclick = () => { altKonuKutusu.style.display = altKonuKutusu.style.display === 'none' ? 'block' : 'none'; }; 
+                listeDiv.appendChild(grupBtn);
+                
+                gruplar[anaBaslik].forEach((alt, altIndex) => { 
+                    const btn = document.createElement('div'); 
+                    btn.className = 'nav-item ' + (index === 0 && altIndex === 0 ? 'active' : ''); 
+                    btn.style.fontSize = '12px'; btn.style.padding = '8px 10px';
+                    
+                    const soruSayisi = tumKategoriler[alt.tamAd] ? tumKategoriler[alt.tamAd].length : 0;
+                    let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-file-alt"; let ikonRenk = ""; let ekstraStil = "";
+                    let eskiKayit = localStorage.getItem("SMM_Kayit_" + alt.tamAd); let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + alt.tamAd);
+
+                    if (eskiKayit) {
+                        let veri = JSON.parse(eskiKayit);
+                        kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
+                        ikon = "fa-hourglass-half"; ikonRenk = "color:#f97316;";
+                    } else if (bitirdiMi === "evet") {
+                        bitisRozeti = `<span style="font-size:10px; background:#22c55e; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">✅</span>`;
+                        ikon = "fa-check-circle"; ikonRenk = "color:#22c55e;"; ekstraStil = "border-left: 2px solid #22c55e; background: rgba(34, 197, 94, 0.05);";
+                    }
+                    
+                    btn.setAttribute('data-kategori', alt.tamAd);
+                    btn.innerHTML = `<i class="fas ${ikon}" style="font-size:10px; ${ikonRenk}"></i> <span style="flex:1;">${alt.altBaslik}</span> ${kayitRozeti} ${bitisRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px; color:white;">${soruSayisi} S</span>`; 
+                    if (bitirdiMi === "evet") { btn.style.cssText += ekstraStil; }
+                    btn.onclick = () => { document.querySelectorAll('.nav-item.active').forEach(el => el.classList.remove('active')); btn.classList.add('active'); kategoriSec(alt.tamAd, btn); }; 
+                    altKonuKutusu.appendChild(btn); 
+                }); 
+                listeDiv.appendChild(altKonuKutusu);
+            });
+        }
+
+        function kategoriSec(konuAdi, tiklananHtmlElementi) {
+            if (!konuAdi) return; 
+            if(tiklananHtmlElementi) { document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active')); tiklananHtmlElementi.classList.add('active'); }
+            aktifKategoriAdi = konuAdi; aktifSorular = tumKategoriler[konuAdi]; window.hataliSorular = []; 
+            
+            let eskiKayit = localStorage.getItem("SMM_Kayit_" + aktifKategoriAdi);
             if (eskiKayit) {
                 let veri = JSON.parse(eskiKayit);
-                kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
-                ikon = "fa-hourglass-half";
-                ikonRenk = "color:#f97316;";
-            } else if (bitirdiMi === "evet") {
-                bitisRozeti = `<span style="font-size:10px; background:#22c55e; color:white; padding:2px 6px; border-radius:10px; margin-right:5px; box-shadow: 0 0 5px rgba(34,197,94,0.4);">✅</span>`;
-                ikon = "fa-check-circle";
-                ikonRenk = "color:#22c55e;";
-                ekstraStil = "border-left: 2px solid #22c55e; background: rgba(34, 197, 94, 0.05);";
+                if (confirm("Bu testte en son " + (veri.index + 1) + ". soruda kaldınız.\n\nKaldığınız yerden devam etmek ister misiniz?")) {
+                    mevcutSoruIndex = veri.index; dogruSayisi = veri.dogru; yanlisSayisi = veri.yanlis;
+                } else {
+                    localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
+                    mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
+                }
+            } else {
+                mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
+            }
+            
+            skorTablosunuGuncelle(); document.getElementById('sonuc-alani').classList.add('hidden'); document.getElementById('soru-alani').classList.remove('hidden');
+            let gosterilecekAd = konuAdi.includes('||') ? konuAdi.split('||')[1] : konuAdi; document.getElementById('header-konu-adi').innerText = gosterilecekAd + " Testi Çözülüyor";
+            soruYukle();
+        }
+
+        function skorTablosunuGuncelle() { document.getElementById('anlik-dogru').innerText = dogruSayisi; document.getElementById('anlik-yanlis').innerText = yanlisSayisi; }
+
+        function soruYukle() {
+            document.body.classList.add('mobil-soru-acik');
+            const s = aktifSorular[mevcutSoruIndex];
+            document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
+            document.getElementById('soru-metni').innerHTML = marked.parse(s.q); 
+
+            const liste = document.getElementById('secenekler-listesi'); liste.innerHTML = '';
+            document.getElementById('next-btn').disabled = !isDenemeMode;
+            if(isDenemeMode) guncelleOptikPalet(); 
+
+            s.options.forEach((metin, i) => {
+                const btn = document.createElement('button'); btn.className = 'option-btn';
+                let temizMetin = metin.replace(/^[A-Ea-e]\)[\s]*/, "").replace(/^[A-Ea-e]\.[\s]*/, "");
+                btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
+                let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
+                btn.onclick = () => cevapla(i, dogruAnahtar, btn);
+                if(isDenemeMode && denemeCevaplari[mevcutSoruIndex] === i) { btn.classList.add('selected-deneme'); }
+                liste.appendChild(btn);
+            });
+
+            document.getElementById('ilerleme-cubugu').style.width = (((mevcutSoruIndex + 1) / aktifSorular.length) * 100) + "%";
+        }
+
+        function cevapla(index, dogru, secilenBtn) {
+            if(isDenemeMode) {
+                document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('selected-deneme'));
+                secilenBtn.classList.add('selected-deneme');
+                denemeCevaplari[mevcutSoruIndex] = index;
+                guncelleOptikPalet(); 
+                return;
             }
 
-            btn.setAttribute('data-kategori', alt.tamAd);
-            btn.innerHTML = `<i class="fas ${ikon}" style="font-size:10px; ${ikonRenk}"></i> <span style="flex:1;">${alt.altBaslik}</span> ${kayitRozeti} ${bitisRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px;">${soruSayisi} S</span>`;
-            if (bitirdiMi === "evet") { btn.style.cssText += ekstraStil; }
+            const tumButonlar = document.querySelectorAll('.option-btn');
+            tumButonlar.forEach(b => b.disabled = true);
+            const mevcutSoru = aktifSorular[mevcutSoruIndex]; 
+            if (!window.hataliSorular) { window.hataliSorular = []; }
+            if (!window.kategoriAnalizi) { window.kategoriAnalizi = {}; }
+            if (!window.kategoriAnalizi[aktifKategoriAdi]) { window.kategoriAnalizi[aktifKategoriAdi] = { dogru: 0, yanlis: 0 }; }
 
-            btn.onclick = (e) => {
-                document.querySelectorAll('.nav-item.active').forEach(el => el.classList.remove('active'));
-                btn.classList.add('active');
-                kategoriSec(alt.tamAd, btn);
-            };
-            altKonuKutusu.appendChild(btn);
-        });
-        listeDiv.appendChild(altKonuKutusu);
-    });
-}
-
-// 5. KATEGORİ SEÇİMİ VE SKOR SIFIRLAMA
-function kategoriSec(konuAdi, tiklananHtmlElementi) {
-    if (!konuAdi) return; 
-
-    if(tiklananHtmlElementi) {
-        document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
-        tiklananHtmlElementi.classList.add('active');
-    }
-
-    aktifKategoriAdi = konuAdi;
-    aktifSorular = tumKategoriler[konuAdi];
-    window.hataliSorular = []; 
-
-    // Mührü sökme işlemi
-    if (localStorage.getItem("SMM_Bitirdi_" + aktifKategoriAdi)) {
-        localStorage.removeItem("SMM_Bitirdi_" + aktifKategoriAdi);
-        menuyuOlustur(); 
-        setTimeout(() => { 
-            const aktifSectim = document.querySelector(`.nav-item[data-kategori="${aktifKategoriAdi}"]`);
-            if(aktifSectim) aktifSectim.classList.add('active');
-        }, 50);
-    }
-
-    let eskiKayit = localStorage.getItem("SMM_Kayit_" + aktifKategoriAdi);
-    if (eskiKayit) {
-        let veri = JSON.parse(eskiKayit);
-        if (confirm("Bu testte en son " + (veri.index + 1) + ". soruda kaldınız.\n\nKaldığınız yerden devam etmek ister misiniz?\n\n[Tamam] = Devam Et\n[İptal] = Sıfırla ve Baştan Başla")) {
-            mevcutSoruIndex = veri.index; dogruSayisi = veri.dogru; yanlisSayisi = veri.yanlis;
-        } else {
-            localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
-            mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
+            if (index === dogru) {
+                window.kategoriAnalizi[aktifKategoriAdi].dogru++; secilenBtn.classList.add('correct'); dogruSayisi++;
+                const anaRozet = document.getElementById('anlik-dogru').closest('.badge'); anaRozet.classList.remove('roket-efekti'); void anaRozet.offsetWidth; anaRozet.classList.add('roket-efekti');
+            } else {
+                window.kategoriAnalizi[aktifKategoriAdi].yanlis++;
+                let gercekDogruIndex = mevcutSoru.answer !== undefined ? mevcutSoru.answer : mevcutSoru.correct;
+                window.hataliSorular.push({ soru: mevcutSoru.q, dogru: mevcutSoru.options[gercekDogruIndex] });
+                secilenBtn.classList.add('wrong'); tumButonlar[dogru].classList.add('correct'); yanlisSayisi++;
+                const anaRozet = document.getElementById('anlik-yanlis').closest('.badge'); anaRozet.classList.remove('roket-efekti'); void anaRozet.offsetWidth; anaRozet.classList.add('roket-efekti');
+            }
+            skorTablosunuGuncelle(); document.getElementById('next-btn').disabled = false;
         }
-    } else {
-        mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
-    }
-    
-    skorTablosunuGuncelle();
-    document.getElementById('sonuc-alani').classList.add('hidden');
-    document.getElementById('soru-alani').classList.remove('hidden');
 
-    // Ekranda (üst başlıkta) || işaretinden sonrasını (alt test adını) göster
-    let gosterilecekAd = konuAdi.includes('||') ? konuAdi.split('||')[1] : konuAdi;
-    document.getElementById('header-konu-adi').innerText = gosterilecekAd + " Testi Çözülüyor";
-    soruYukle();
-}
+        function halkayiCiz(yuzde) {
+            const ring = document.getElementById('final-progress-ring');
+            let ringColor = "#f97316"; 
+            if(yuzde >= 80) ringColor = "#10b981"; 
+            else if (yuzde < 50) ringColor = "#ef4444"; 
 
-// 7. SORU YÜKLEME
-// --- UNUTULAN SKOR GÜNCELLEME MOTORU ---
-function skorTablosunuGuncelle() {
-    document.getElementById('anlik-dogru').innerText = dogruSayisi;
-    document.getElementById('anlik-yanlis').innerText = yanlisSayisi;
-}
-function soruYukle() {
-    document.body.classList.add('mobil-soru-acik');
-    const s = aktifSorular[mevcutSoruIndex];
-    document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
-    
-    // HATA YAPTIRAN KOD KALDIRILDI, SADECE TABLO ÇEVİRİCİ KALDI:
-    document.getElementById('soru-metni').innerHTML = marked.parse(s.q); 
+            ring.style.background = `conic-gradient(#e2e8f0 100%, #e2e8f0 0%)`;
+            ring.style.boxShadow = `none`;
+            setTimeout(() => {
+                ring.style.background = `conic-gradient(${ringColor} ${yuzde}%, #e2e8f0 ${yuzde}%)`;
+                ring.style.boxShadow = `0 10px 30px ${ringColor}60`; 
+            }, 300);
+        }
 
-    document.getElementById('next-btn').disabled = true;
+        function sonrakiSoru() {
+            if(mevcutSoruIndex < aktifSorular.length - 1) {
+                mevcutSoruIndex++; 
+                if(!isDenemeMode) {
+                    const kayitBilgisi = { index: mevcutSoruIndex, dogru: dogruSayisi, yanlis: yanlisSayisi };
+                    localStorage.setItem("SMM_Kayit_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
+                }
+                soruYukle();
+            } else {
+                denemeyiBitir(false); 
+            }
+        }
 
-    const liste = document.getElementById('secenekler-listesi');
-    liste.innerHTML = '';
-
-    s.options.forEach((metin, i) => {
-        const btn = document.createElement('button');
-        btn.className = 'option-btn';
-        let temizMetin = metin.replace(/^[A-Ea-e]\)[\s]*/, "").replace(/^[A-Ea-e]\.[\s]*/, "");
-        btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
-        let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
-        btn.onclick = () => cevapla(i, dogruAnahtar, btn);
-        liste.appendChild(btn);
-    });
-
-    const ilerlemeYuzdesi = ((mevcutSoruIndex + 1) / aktifSorular.length) * 100;
-    document.getElementById('ilerleme-cubugu').style.width = ilerlemeYuzdesi + "%";
-}
-
-// 8. CEVAP KONTROLÜ
-function cevapla(index, dogru, secilenBtn) {
-    const tumButonlar = document.querySelectorAll('.option-btn');
-    tumButonlar.forEach(b => b.disabled = true);
-    
-    // YENİ: Eğer bitmiş bir testi tekrar çözmeye başlarsan mühürü kaldırır
-    if (localStorage.getItem("SMM_Bitirdi_" + aktifKategoriAdi)) {
-        localStorage.removeItem("SMM_Bitirdi_" + aktifKategoriAdi);
-        menuyuOlustur(); 
-        setTimeout(() => { document.querySelectorAll('.nav-item').forEach(el => { if (el.innerText.includes(aktifKategoriAdi)) el.classList.add('active'); }); }, 50);
-    }
-
-    const mevcutSoru = aktifSorular[mevcutSoruIndex]; 
-
-    if (!window.hataliSorular) { window.hataliSorular = []; }
-    if (!window.kategoriAnalizi) { window.kategoriAnalizi = {}; }
-    if (!window.kategoriAnalizi[aktifKategoriAdi]) {
-        window.kategoriAnalizi[aktifKategoriAdi] = { dogru: 0, yanlis: 0 };
-    }
-
-    if (index === dogru) {
-        window.kategoriAnalizi[aktifKategoriAdi].dogru++;
-        secilenBtn.classList.add('correct');
-        dogruSayisi++;
-        const anaRozet = document.getElementById('anlik-dogru').closest('.badge');
-        anaRozet.classList.remove('roket-efekti'); void anaRozet.offsetWidth; anaRozet.classList.add('roket-efekti');
-    } else {
-        window.kategoriAnalizi[aktifKategoriAdi].yanlis++;
-        let gercekDogruIndex = mevcutSoru.answer !== undefined ? mevcutSoru.answer : mevcutSoru.correct;
-        window.hataliSorular.push({ soru: mevcutSoru.q, dogru: mevcutSoru.options[gercekDogruIndex] });
-
-        secilenBtn.classList.add('wrong');
-        tumButonlar[dogru].classList.add('correct');
-        yanlisSayisi++;
-        const anaRozet = document.getElementById('anlik-yanlis').closest('.badge');
-        anaRozet.classList.remove('roket-efekti'); void anaRozet.offsetWidth; anaRozet.classList.add('roket-efekti');
-    }
-    
-    skorTablosunuGuncelle();
-    document.getElementById('next-btn').disabled = false;
-}
-
-// 9. SONRAKİ SORU
-function sonrakiSoru() {
-    if(mevcutSoruIndex < aktifSorular.length - 1) {
-        mevcutSoruIndex++;
-        const kayitBilgisi = { index: mevcutSoruIndex, dogru: dogruSayisi, yanlis: yanlisSayisi };
-        localStorage.setItem("SMM_Kayit_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
-        soruYukle();
-    } else {
-        // YENİ: Test bittiğinde kayıt silinir, yerine TAMAMLANDI mühürü vurulur!
-        localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
-        localStorage.setItem("SMM_Bitirdi_" + aktifKategoriAdi, "evet");
-        menuyuOlustur();
-        setTimeout(() => { document.querySelectorAll('.nav-item').forEach(el => { if (el.innerText.includes(aktifKategoriAdi)) el.classList.add('active'); }); }, 50);
-
-        document.getElementById('soru-alani').classList.add('hidden');
-        document.getElementById('sonuc-alani').classList.remove('hidden');
-        document.getElementById('skor-dogru').innerText = dogruSayisi;
-        document.getElementById('skor-yanlis').innerText = yanlisSayisi;
+        function bosGec() { if(!isDenemeMode) return; denemeCevaplari[mevcutSoruIndex] = null; sonrakiSoru(); }
+        function optikPaletOlustur() { const grid = document.getElementById('optik-grid'); grid.innerHTML = ''; aktifSorular.forEach((_, i) => { const kutu = document.createElement('div'); kutu.className = 'optik-kutu'; kutu.id = 'optik-kutu-' + i; kutu.innerText = i + 1; kutu.onclick = () => { mevcutSoruIndex = i; soruYukle(); toggleDrawer(); }; grid.appendChild(kutu); }); }
+        function guncelleOptikPalet() { aktifSorular.forEach((_, i) => { const kutu = document.getElementById('optik-kutu-' + i); if(!kutu) return; kutu.className = 'optik-kutu'; if (denemeCevaplari[i] !== undefined && denemeCevaplari[i] !== null) { kutu.classList.add('cozuldu'); } if (i === mevcutSoruIndex) { kutu.classList.add('aktif'); } }); }
+        function toggleDrawer() { const drawer = document.getElementById('exam-drawer'); const overlay = document.getElementById('exam-drawer-overlay'); if (drawer.classList.contains('open')) { drawer.classList.remove('open'); overlay.style.display = 'none'; } else { drawer.classList.add('open'); overlay.style.display = 'block'; } }
+        function baslatSayac(toplamSaniye) { let kalan = toplamSaniye; const timerText = document.getElementById('timer-text'); examTimerInterval = setInterval(() => { let dk = Math.floor(kalan / 60); let sn = kalan % 60; timerText.innerText = `${dk.toString().padStart(2, '0')}:${sn.toString().padStart(2, '0')}`; if (kalan <= 0) { clearInterval(examTimerInterval); alert("Süre Doldu! Sınav otomatik olarak bitiriliyor."); denemeyiBitir(true); } kalan--; }, 1000); }
         
-        const toplamSoru = dogruSayisi + yanlisSayisi;
-        const yuzde = (toplamSoru > 0) ? Math.round((dogruSayisi / toplamSoru) * 100) : 0;
-        document.getElementById('skor-yuzde').innerText = "%" + yuzde;
-        robotAnaliziniYap();
-    }
-}
-// --- AYRILMIŞ VE TEMİZLENMİŞ ÖZEL FONKSİYONLAR ---
+        function denemeyiBitir(erkenBitirmeMi = false) {
+            // KLASİK MOD BİTİRME
+            if (!isDenemeMode) {
+                if(erkenBitirmeMi) {
+                    if(!confirm("Testi bitirmek ve değerlendirmeyi görmek istediğinize emin misiniz?")) return;
+                }
+                localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
+                localStorage.setItem("SMM_Bitirdi_" + aktifKategoriAdi, "evet");
+                menuyuOlustur();
 
-// Hataları Listeleyen Buton Fonksiyonu
-function hatalariListele() {
-    const konteynir = document.getElementById('hata-listesi-konteynir');
-    const icerik = document.getElementById('hata-listesi-icerik');
-    const btn = document.getElementById('btn-hatalari-gor');
-    
-    icerik.innerHTML = window.hataliSorular.map((h, i) => `
-        <div style="background: #fff1f2; padding: 10px; border-radius: 8px; margin-bottom: 8px; border-left: 3px solid #e11d48;">
-            <b>Soru ${i+1}:</b> ${h.soru}<br>
-            <span style="color: #059669;"><b>✅ Doğru Cevap:</b> ${h.dogru}</span>
-        </div>
-    `).join('');
-    
-    konteynir.style.display = 'block';
-    btn.style.display = 'none'; // Listeyi açınca butonu gizle
-}
+                document.getElementById('soru-alani').classList.add('hidden'); 
+                document.getElementById('sonuc-alani').classList.remove('hidden');
+                document.getElementById('skor-dogru').innerText = dogruSayisi; 
+                document.getElementById('skor-yanlis').innerText = yanlisSayisi;
+                
+                let netSayisi = dogruSayisi - (yanlisSayisi / 4);
+                if (netSayisi < 0) netSayisi = 0;
+                
+                const toplamSoru = dogruSayisi + yanlisSayisi; 
+                const soruBasinaPuan = 100 / (toplamSoru || 1);
+                const tahminiPuan = netSayisi * soruBasinaPuan;
+                const yuzde = (toplamSoru > 0) ? Math.round((netSayisi / toplamSoru) * 100) : 0;
+                
+                document.getElementById('skor-yuzde').innerText = "%" + yuzde;
+                document.getElementById('skor-net').innerText = netSayisi.toFixed(2);
+                document.getElementById('skor-puan').innerText = tahminiPuan.toFixed(1);
+                document.getElementById('puan-karti').style.display = 'block';
 
-// Robot Analizi Motoru
-function robotAnaliziniYap() {
-    const icerikAlani = document.getElementById('ai-modal-icerik');
-    const tavsiyeAlani = document.getElementById('ai-modal-tavsiye');
-    const modalArka = document.getElementById('ai-modal-arka');
-    const baslikIcon = document.querySelector('#ai-modal-arka .ai-modal-baslik span');
-    const hataButonu = document.getElementById('btn-hatalari-gor');
-    const hataKonteyniri = document.getElementById('hata-listesi-konteynir');
-    
-    if (!icerikAlani || !tavsiyeAlani) return; 
-
-    // ==========================================
-    // /// SİHİRLİ KOD BURAYA (SCROLL EKLENTİSİ) ///
-    // İçerik ve hata alanlarına maksimum boy verip kaydırma çubuğu ekliyoruz
-    icerikAlani.style.maxHeight = "400px";
-    icerikAlani.style.overflowY = "auto";
-    icerikAlani.style.paddingRight = "10px"; // Scroll çubuğu içeriğe yapışmasın diye
-    
-    if(hataKonteyniri) {
-        hataKonteyniri.style.maxHeight = "400px";
-        hataKonteyniri.style.overflowY = "auto";
-        hataKonteyniri.style.paddingRight = "10px";
-    }
-    // ==========================================
-
-    icerikAlani.innerHTML = "";
-    
-    // Test başında hata listesi panelini kapalı tut
-    if(hataKonteyniri) hataKonteyniri.style.display = 'none';
-
-// ... Kodun geri kalanı seninkiyle aynı şekilde devam ediyor ...
-    
-    // Test başında hata listesi panelini kapalı tut
-    if(hataKonteyniri) hataKonteyniri.style.display = 'none';
-    
-    const emojiler = { "Vergi": "⚖️", "Muhasebe": "📊", "Denetim": "🔍", "Hukuk": "📜", "Değerleme": "📈", "Genel": "📚" };
-    let toplamDogru = 0, toplamSoru = 0, enZayifKategori = "", enDusukOran = 101;
-
-    for (let kat in window.kategoriAnalizi) {
-        let veri = window.kategoriAnalizi[kat];
-        let oran = Math.round((veri.dogru / (veri.dogru + veri.yanlis)) * 100);
-        toplamDogru += veri.dogru; toplamSoru += (veri.dogru + veri.yanlis);
-        let simge = emojiler["Genel"];
-        for(let anahtar in emojiler) { if(kat.includes(anahtar)) simge = emojiler[anahtar]; }
-        icerikAlani.innerHTML += `<div class="ai-kategori-satir"><div style="display:flex; justify-content:space-between; font-size:13px; font-weight:600;"><span>${simge} ${kat}</span> <span>%${oran}</span></div><div class="ai-bar-dis"><div class="ai-bar-ic" style="width:${oran}%"></div></div></div>`;
-        if (oran < enDusukOran) { enDusukOran = oran; enZayifKategori = kat; }
-    }
-
-    const genelOran = Math.round((toplamDogru / toplamSoru) * 100) || 0;
-    icerikAlani.insertAdjacentHTML('afterbegin', `<div style="background:#1e293b; color:white; padding:10px; border-radius:10px; margin-bottom:20px;"><small>GENEL BAŞARI PUANI</small><div style="font-size:24px; font-weight:bold;">%${genelOran}</div></div>`);
-
-    try {
-        const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-        if (genelOran >= 60) { // BAŞARI 🥳
-            if(baslikIcon) baslikIcon.innerHTML = "🥳";
-            tavsiyeAlani.innerHTML = `🤖 "Dostum muazzamsın! <b>%${genelOran}</b> başarıyla resmen şov yaptın!"`;
-            [523, 659, 783, 1046].forEach((f, i) => {
-                let osc = audioCtx.createOscillator(); let g = audioCtx.createGain();
-                osc.connect(g); g.connect(audioCtx.destination); osc.frequency.value = f;
-                g.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.5);
-                osc.start(audioCtx.currentTime + (i * 0.1)); osc.stop(audioCtx.currentTime + 0.5 + (i * 0.1));
-            });
-            for(let i=0; i<30; i++) {
-                let c = document.createElement('div'); c.className = 'konfeti';
-                c.style.left = Math.random() * 100 + 'vw'; c.style.top = '-10px';
-                c.style.backgroundColor = ['#ff9800', '#22c55e', '#3b82f6'][Math.floor(Math.random()*3)];
-                document.body.appendChild(c); setTimeout(() => c.remove(), 3000);
+                halkayiCiz(yuzde); 
+                robotAnaliziniYap();
+                
+                document.getElementById('tekrar-coz-btn').style.display = 'inline-block';
+                return; 
             }
-        } else { // ÜZÜNTÜ 😔
-            if(baslikIcon) baslikIcon.innerHTML = "😔";
-            tavsiyeAlani.innerHTML = `🤖 "Dostum <b>${enZayifKategori}</b> seni biraz sarsmış. Masaya geri dönüyoruz!"`;
-            [392, 311, 261].forEach((f, i) => {
-                let osc = audioCtx.createOscillator(); let g = audioCtx.createGain();
-                osc.connect(g); g.connect(audioCtx.destination); osc.type = 'triangle'; osc.frequency.value = f;
-                g.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.8);
-                osc.start(audioCtx.currentTime + (i * 0.2)); osc.stop(audioCtx.currentTime + 0.8 + (i * 0.2));
+
+            // SİMÜLATÖR (DENEME) MODU BİTİRME
+            if(erkenBitirmeMi) {
+                if(!confirm("Sınavı bitirmek ve değerlendirmeyi görmek istediğinize emin misiniz?")) return;
+            }
+            clearInterval(examTimerInterval); 
+            document.getElementById('exam-timer').style.display = 'none';
+            if(document.getElementById('exam-drawer').classList.contains('open')) toggleDrawer(); 
+            
+            dogruSayisi = 0; yanlisSayisi = 0; bosSayisi = 0;
+            aktifSorular.forEach((soru, i) => {
+                let dogruAnahtar = soru.answer !== undefined ? soru.answer : soru.correct;
+                let userCevap = denemeCevaplari[i];
+                if(userCevap === undefined || userCevap === null) { bosSayisi++; }
+                else if(userCevap === dogruAnahtar) { dogruSayisi++; }
+                else { yanlisSayisi++; }
             });
+
+            const toplamSoru = aktifSorular.length; 
+            let netSayisi = dogruSayisi - (yanlisSayisi / 4);
+            if (netSayisi < 0) netSayisi = 0;
+            const soruBasinaPuan = 100 / (toplamSoru || 1);
+            const tahminiPuan = netSayisi * soruBasinaPuan;
+            const yuzde = (toplamSoru > 0) ? Math.round((netSayisi / toplamSoru) * 100) : 0;
+
+            document.getElementById('soru-alani').classList.add('hidden'); 
+            document.getElementById('sonuc-alani').classList.remove('hidden');
+            document.getElementById('sonuc-alt-metin').innerText = "Deneme sınavını başarıyla tamamladınız. İşte sonucunuz:";
+            document.getElementById('skor-dogru').innerText = dogruSayisi; 
+            document.getElementById('skor-yanlis').innerText = yanlisSayisi;
+            document.getElementById('skor-bos-kutu').style.display = 'flex'; 
+            document.getElementById('skor-bos').innerText = bosSayisi;
+            
+            document.getElementById('skor-yuzde').innerText = "%" + yuzde;
+            document.getElementById('skor-net').innerText = netSayisi.toFixed(2);
+            document.getElementById('skor-puan').innerText = tahminiPuan.toFixed(1);
+            document.getElementById('puan-karti').style.display = 'block';
+            
+            halkayiCiz(yuzde); 
+            document.getElementById('tekrar-coz-btn').style.display = 'none'; 
         }
-    } catch(e) { console.log("Ses çalınamadı"); }
 
-    // Eğer yanlış soru varsa butonu göster, yoksa gizle
-    if(window.hataliSorular && window.hataliSorular.length > 0) {
-        if(hataButonu) hataButonu.style.display = 'inline-block';
-    } else {
-        if(hataButonu) hataButonu.style.display = 'none';
-    }
-
-    modalArka.style.display = 'flex';
-}
-
-function menuyeDon() {
-    document.body.classList.remove('mobil-soru-acik');
-    document.getElementById('soru-alani').classList.add('hidden');
-}
-</script>
-
-<div id="ai-modal-arka" class="ai-modal-overlay">
-    <div class="ai-modal-kutu">
-        <div class="ai-modal-baslik">
-            <span style="font-size: 24px;">🤖</span>
-            <h3>SMM AI Rehber Analizi</h3>
-        </div>
-        <div id="ai-modal-icerik"></div>
-        <div id="ai-modal-tavsiye" class="ai-tavsiye-balonu"></div>
-        <div id="hata-listesi-konteynir" style="display:none; max-height: 200px; overflow-y: auto; margin-top: 15px; border-top: 1px solid #e2e8f0; padding-top: 10px;">
-            <h4 style="font-size: 14px; color: #e11d48; margin-bottom: 10px;">🔴 Hatalı Cevapların ve Doğruları:</h4>
-            <div id="hata-listesi-icerik" style="text-align: left; font-size: 12px; line-height: 1.6;"></div>
-        </div>
-        <button id="btn-hatalari-gor" onclick="hatalariListele()" class="ai-modal-buton" style="background: #e11d48; margin-bottom: 10px; display:none;">
-            🔍 Hatalarımı İncele
-        </button>
-        <button onclick="document.getElementById('ai-modal-arka').style.display='none'" class="ai-modal-buton">
-            Anladım, Kapat
-        </button>
-    </div>
-</div>
-
-<button id="btn-karalama-ac" onclick="karalamaTahtasiniAc()" style="position: fixed; bottom: 30px; right: 30px; background: #f97316; color: white; border: none; border-radius: 50px; width: 60px; height: 60px; font-size: 24px; box-shadow: 0 4px 15px rgba(249,115,22,0.4); cursor: pointer; z-index: 9000; transition: 0.3s;" title="Soru Çözme Alanı">
-    <i class="fas fa-pen-nib"></i>
-</button>
-
-<div id="karalama-tahtasi" style="display: none; position: fixed; top: 15%; left: 60%; width: 350px; background: #fff; border-radius: 12px; box-shadow: 0 15px 40px rgba(0,0,0,0.4); border: 2px solid #f97316; z-index: 9999; overflow: hidden; flex-direction: column;">
-    
-    <div id="karalama-header" style="background: #0f172a; padding: 10px 15px; color: white; display: flex; justify-content: space-between; align-items: center; cursor: move; user-select: none;">
-        <span style="font-size: 13px; font-weight: bold;"><i class="fas fa-drafting-compass"></i> Soru Çözme Alanı</span>
-        <div>
-            <button onclick="karalamaModDegistir()" id="btn-karalama-mod" style="background: transparent; color: #3b82f6; border: none; cursor: pointer; margin-right: 15px; font-size: 16px;" title="Çizim Moduna Geç"><i class="fas fa-keyboard"></i></button>
-            <button onclick="karalamaTemizle()" style="background: transparent; color: #facc15; border: none; cursor: pointer; margin-right: 15px; font-size: 16px;" title="Sayfayı Temizle"><i class="fas fa-trash-alt"></i></button>
-            <button onclick="karalamaTahtasiniKapat()" style="background: transparent; color: #ef4444; border: none; cursor: pointer; font-size: 16px;" title="Kapat"><i class="fas fa-times"></i></button>
-        </div>
-    </div>
-    
-    <div style="position: relative; width: 350px; height: 400px; background: #f8fafc;">
-        <textarea id="karalama-metin" placeholder="Hesaplamalarınızı klavye ile buraya yazabilirsiniz..." style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; padding: 15px; font-size: 15px; font-family: monospace; resize: none; outline: none; background: transparent; z-index: 2; line-height: 1.5; color: #0f172a; box-sizing: border-box;"></textarea>
-        <canvas id="karalama-canvas" width="350" height="400" style="position: absolute; top: 0; left: 0; cursor: crosshair; touch-action: none; z-index: 1; display: none;"></canvas>
-    </div>
-</div>
-
-<script>
-// --- HİBRİT KARALAMA TAHTASI MOTORU ---
-const tahta = document.getElementById("karalama-tahtasi");
-const baslik = document.getElementById("karalama-header");
-const canvas = document.getElementById("karalama-canvas");
-const metinAlani = document.getElementById("karalama-metin");
-const ctx = canvas.getContext("2d");
-
-let karalamaModu = "klavye"; // Sistem klavye moduyla başlar
-
-// 1. Açma/Kapatma/Temizleme
-function karalamaTahtasiniAc() {
-    tahta.style.display = "flex";
-    document.getElementById("btn-karalama-ac").style.display = "none";
-}
-function karalamaTahtasiniKapat() {
-    tahta.style.display = "none";
-    document.getElementById("btn-karalama-ac").style.display = "block";
-}
-function karalamaTemizle() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height); // Çizimleri siler
-    metinAlani.value = ""; // Klavye yazılarını siler
-}
-
-// 2. Mod Değiştirici (Klavye <-> Kalem)
-function karalamaModDegistir() {
-    const modBtn = document.getElementById("btn-karalama-mod");
-    if (karalamaModu === "klavye") {
-        karalamaModu = "cizim";
-        metinAlani.style.display = "none";
-        canvas.style.display = "block";
-        modBtn.innerHTML = '<i class="fas fa-pen"></i>';
-        modBtn.style.color = "#22c55e"; // Kalem ikonu yeşil olur
-        modBtn.title = "Klavye Moduna Dön";
-    } else {
-        karalamaModu = "klavye";
-        canvas.style.display = "none";
-        metinAlani.style.display = "block";
-        modBtn.innerHTML = '<i class="fas fa-keyboard"></i>';
-        modBtn.style.color = "#3b82f6"; // Klavye ikonu mavi olur
-        modBtn.title = "Çizim Moduna Geç";
-    }
-}
-
-// 3. Sürükleme Motoru
-let isDragging = false, startX, startY, initialX, initialY;
-baslik.addEventListener("mousedown", (e) => {
-    isDragging = true; startX = e.clientX; startY = e.clientY;
-    const rect = tahta.getBoundingClientRect();
-    initialX = rect.left; initialY = rect.top;
-});
-document.addEventListener("mousemove", (e) => {
-    if (!isDragging) return;
-    let dx = e.clientX - startX; let dy = e.clientY - startY;
-    tahta.style.left = (initialX + dx) + "px"; tahta.style.top = (initialY + dy) + "px";
-});
-document.addEventListener("mouseup", () => { isDragging = false; });
-
-// 4. Çizim Motoru
-let isDrawing = false;
-canvas.addEventListener("mousedown", (e) => {
-    isDrawing = true; ctx.beginPath(); ctx.moveTo(e.offsetX, e.offsetY);
-});
-canvas.addEventListener("mousemove", (e) => {
-    if (!isDrawing) return;
-    ctx.lineTo(e.offsetX, e.offsetY);
-    ctx.strokeStyle = "#0f172a"; ctx.lineWidth = 3; ctx.lineCap = "round"; ctx.stroke();
-});
-canvas.addEventListener("mouseup", () => { isDrawing = false; });
-canvas.addEventListener("mouseleave", () => { isDrawing = false; });
-</script>
+        function menuyeDon() { document.body.classList.remove('mobil-soru-acik'); document.getElementById('soru-alani').classList.add('hidden'); }
+        
+        function hatalariListele() {
+            const konteynir = document.getElementById('hata-listesi-konteynir'); const icerik = document.getElementById('hata-listesi-icerik'); const btn = document.getElementById('btn-hatalari-gor');
+            icerik.innerHTML = window.hataliSorular.map((h, i) => `<div style="background: #fff1f2; padding: 10px; border-radius: 8px; margin-bottom: 8px; border-left: 3px solid #e11d48;"><b>Soru ${i+1}:</b> ${h.soru}<br><span style="color: #059669;"><b>✅ Doğru Cevap:</b> ${h.dogru}</span></div>`).join('');
+            konteynir.style.display = 'block'; btn.style.display = 'none'; 
+        }
+        
+        function robotAnaliziniYap() {
+            const icerikAlani = document.getElementById('ai-modal-icerik'); const tavsiyeAlani = document.getElementById('ai-modal-tavsiye'); const modalArka = document.getElementById('ai-modal-arka'); const baslikIcon = document.querySelector('#ai-modal-arka .ai-modal-baslik span'); const hataButonu = document.getElementById('btn-hatalari-gor'); const hataKonteyniri = document.getElementById('hata-listesi-konteynir');
+            if (!icerikAlani || !tavsiyeAlani) return; 
+            icerikAlani.style.maxHeight = "400px"; icerikAlani.style.overflowY = "auto"; icerikAlani.style.paddingRight = "10px"; 
+            if(hataKonteyniri) { hataKonteyniri.style.maxHeight = "400px"; hataKonteyniri.style.overflowY = "auto"; hataKonteyniri.style.paddingRight = "10px"; hataKonteyniri.style.display = 'none'; }
+            icerikAlani.innerHTML = "";
+            const emojiler = { "Vergi": "⚖️", "Muhasebe": "📊", "Denetim": "🔍", "Hukuk": "📜", "Değerleme": "📈", "Genel": "📚" };
+            let toplamDogru = 0, toplamSoru = 0, enZayifKategori = "", enDusukOran = 101;
+            for (let kat in window.kategoriAnalizi) { let veri = window.kategoriAnalizi[kat]; let oran = Math.round((veri.dogru / (veri.dogru + veri.yanlis)) * 100); toplamDogru += veri.dogru; toplamSoru += (veri.dogru + veri.yanlis); let simge = emojiler["Genel"]; for(let anahtar in emojiler) { if(kat.includes(anahtar)) simge = emojiler[anahtar]; } icerikAlani.innerHTML += `<div class="ai-kategori-satir"><div style="display:flex; justify-content:space-between; font-size:13px; font-weight:600;"><span>${simge} ${kat}</span> <span>%${oran}</span></div><div class="ai-bar-dis"><div class="ai-bar-ic" style="width:${oran}%"></div></div></div>`; if (oran < enDusukOran) { enDusukOran = oran; enZayifKategori = kat; } }
+            const genelOran = Math.round((toplamDogru / toplamSoru) * 100) || 0;
+            icerikAlani.insertAdjacentHTML('afterbegin', `<div style="background:#1e293b; color:white; padding:10px; border-radius:10px; margin-bottom:20px;"><small>GENEL BAŞARI PUANI</small><div style="font-size:24px; font-weight:bold;">%${genelOran}</div></div>`);
+            try { const audioCtx = new (window.AudioContext || window.webkitAudioContext)(); if (genelOran >= 60) { if(baslikIcon) baslikIcon.innerHTML = "🥳"; tavsiyeAlani.innerHTML = `🤖 "Dostum muazzamsın! <b>%${genelOran}</b> başarıyla resmen şov yaptın!"`; [523, 659, 783, 1046].forEach((f, i) => { let osc = audioCtx.createOscillator(); let g = audioCtx.createGain(); osc.connect(g); g.connect(audioCtx.destination); osc.frequency.value = f; g.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.5); osc.start(audioCtx.currentTime + (i * 0.1)); osc.stop(audioCtx.currentTime + 0.5 + (i * 0.1)); }); for(let i=0; i<30; i++) { let c = document.createElement('div'); c.className = 'konfeti'; c.style.left = Math.random() * 100 + 'vw'; c.style.top = '-10px'; c.style.backgroundColor = ['#ff9800', '#22c55e', '#3b82f6'][Math.floor(Math.random()*3)]; document.body.appendChild(c); setTimeout(() => c.remove(), 3000); } } else { if(baslikIcon) baslikIcon.innerHTML = "😔"; tavsiyeAlani.innerHTML = `🤖 "Dostum <b>${enZayifKategori}</b> seni biraz sarsmış. Masaya geri dönüyoruz!"`; [392, 311, 261].forEach((f, i) => { let osc = audioCtx.createOscillator(); let g = audioCtx.createGain(); osc.connect(g); g.connect(audioCtx.destination); osc.type = 'triangle'; osc.frequency.value = f; g.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.8); osc.start(audioCtx.currentTime + (i * 0.2)); osc.stop(audioCtx.currentTime + 0.8 + (i * 0.2)); }); } } catch(e) { console.log("Ses çalınamadı"); }
+            if(window.hataliSorular && window.hataliSorular.length > 0) { if(hataButonu) hataButonu.style.display = 'inline-block'; } else { if(hataButonu) hataButonu.style.display = 'none'; }
+            modalArka.style.display = 'flex';
+        }
+        
+        const tahta = document.getElementById("karalama-tahtasi"); const baslik = document.getElementById("karalama-header"); const canvas = document.getElementById("karalama-canvas"); const metinAlani = document.getElementById("karalama-metin"); const ctx = canvas.getContext("2d"); let karalamaModu = "klavye";
+        function karalamaTahtasiniAc() { tahta.style.display = "flex"; document.getElementById("btn-karalama-ac").style.display = "none"; }
+        function karalamaTahtasiniKapat() { tahta.style.display = "none"; document.getElementById("btn-karalama-ac").style.display = "block"; }
+        function karalamaTemizle() { ctx.clearRect(0, 0, canvas.width, canvas.height); metinAlani.value = ""; }
+        function karalamaModDegistir() { const modBtn = document.getElementById("btn-karalama-mod"); if (karalamaModu === "klavye") { karalamaModu = "cizim"; metinAlani.style.display = "none"; canvas.style.display = "block"; modBtn.innerHTML = '<i class="fas fa-pen"></i>'; modBtn.style.color = "#22c55e"; modBtn.title = "Klavye Moduna Dön"; } else { karalamaModu = "klavye"; canvas.style.display = "none"; metinAlani.style.display = "block"; modBtn.innerHTML = '<i class="fas fa-keyboard"></i>'; modBtn.style.color = "#3b82f6"; modBtn.title = "Çizim Moduna Geç"; } }
+        let isDragging = false, startX, startY, initialX, initialY; baslik.addEventListener("mousedown", (e) => { isDragging = true; startX = e.clientX; startY = e.clientY; const rect = tahta.getBoundingClientRect(); initialX = rect.left; initialY = rect.top; }); document.addEventListener("mousemove", (e) => { if (!isDragging) return; tahta.style.left = (initialX + (e.clientX - startX)) + "px"; tahta.style.top = (initialY + (e.clientY - startY)) + "px"; }); document.addEventListener("mouseup", () => { isDragging = false; });
+        let isDrawing = false; canvas.addEventListener("mousedown", (e) => { isDrawing = true; ctx.beginPath(); ctx.moveTo(e.offsetX, e.offsetY); }); canvas.addEventListener("mousemove", (e) => { if (!isDrawing) return; ctx.lineTo(e.offsetX, e.offsetY); ctx.strokeStyle = "#0f172a"; ctx.lineWidth = 3; ctx.lineCap = "round"; ctx.stroke(); }); canvas.addEventListener("mouseup", () => { isDrawing = false; }); canvas.addEventListener("mouseleave", () => { isDrawing = false; });
+    </script>
 </body>
 </html>

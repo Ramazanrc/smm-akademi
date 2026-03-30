@@ -25,70 +25,116 @@
         }
         .btn-start:hover { background-color: #ea580c; color: white; }
         .badge-demo { background: #e2e8f0; color: #475569; padding: 5px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 700; }
+
+        /* --- SENİN İÇİN EKLENEN YENİ PREMIUM CSS KODLARI --- */
+        
+        /* Premium Banner Stili */
+        .hero-banner {
+            background: linear-gradient(135deg, #FF8C00 0%, #FF4500 100%);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            color: white;
+            box-shadow: 0 10px 30px rgba(255, 140, 0, 0.3);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .hero-banner h1 { font-weight: 800; font-size: 2.5rem; margin-bottom: 10px; }
+        .hero-banner p { font-size: 1.1rem; opacity: 0.9; margin-bottom: 20px; }
+        
+        .premium-btn {
+            background: white; color: #FF4500; border: none;
+            padding: 12px 25px; border-radius: 50px; font-weight: bold; font-size: 1.1rem;
+            cursor: pointer; transition: 0.3s; box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        .premium-btn:hover { transform: scale(1.05); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+        .hero-icon { font-size: 5rem; line-height: 1; }
+
+        /* Modal ve Buzlu Cam Efekti */
+        .modal-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            backdrop-filter: blur(10px); /* Buzlu Cam */
+            display: flex; justify-content: center; align-items: center;
+            z-index: 100000; /* Kilit ekranından bile üstte olsun */
+        }
+        .modal-content-custom {
+            background: white; padding: 30px; border-radius: 20px;
+            width: 90%; max-width: 550px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);
+            position: relative;
+        }
+        .modal-header-custom { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px; }
+        .modal-header-custom h2 { margin: 0; font-weight: 800; color: #0f172a; font-size: 1.5rem; }
+        .close-icon { font-size: 1.5rem; font-weight: bold; color: #94a3b8; cursor: pointer; transition: 0.2s; }
+        .close-icon:hover { color: #dc2626; }
+        
+        /* Aday İsim Girişi */
+        .user-input-section { background: #f8fafc; padding: 15px; border-radius: 12px; margin-bottom: 25px; border-left: 4px solid #f97316; }
+        .user-input-section label { font-weight: 600; color: #475569; display: block; margin-bottom: 5px; }
+        .user-input-section input { width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 8px; font-size: 1rem; outline: none; transition: 0.3s; }
+        .user-input-section input:focus { border-color: #f97316; box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.2); }
+        .user-input-section small { color: #64748b; display: block; margin-top: 8px; }
+
+        /* Hap Butonlar (Chips) */
+        .chips-container { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 25px; }
+        .chip {
+            display: inline-flex; align-items: center; padding: 8px 16px;
+            background: #f1f5f9; border: 2px solid #e2e8f0; border-radius: 50px;
+            color: #475569; font-weight: 600; font-size: 0.9rem;
+            cursor: pointer; transition: all 0.2s ease; user-select: none;
+        }
+        .chip:hover { border-color: #cbd5e1; background: #e2e8f0; }
+        .chip.selected { background: #f97316; color: white; border-color: #f97316; }
+        .chip i { margin-right: 8px; }
+
+        /* Sınav Özeti ve Başlat Butonu */
+        .exam-summary { text-align: center; font-weight: 700; color: #334155; margin-bottom: 20px; font-size: 1.1rem; }
+        .exam-summary span { color: #f97316; }
+        
+        .start-btn {
+            width: 100%; padding: 15px; border: none; border-radius: 12px;
+            background: #10b981; color: white; font-size: 1.2rem; font-weight: bold;
+            cursor: pointer; transition: 0.3s; box-shadow: 0 4px 6px rgba(16, 185, 129, 0.3);
+        }
+        .start-btn:hover { background: #059669; transform: translateY(-2px); }
+        .start-btn:disabled { background: #cbd5e1; cursor: not-allowed; box-shadow: none; transform: none; }
+
+        /* 3-2-1 Geri Sayım Ekranı */
+        .countdown-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(15, 23, 42, 0.9); backdrop-filter: blur(15px);
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            z-index: 100001; color: white;
+        }
+        #countdown-number { font-size: 8rem; font-weight: 900; color: #f97316; text-shadow: 0 0 30px rgba(249, 115, 22, 0.6); margin-bottom: 10px; }
+        .countdown-text { font-size: 2rem; font-weight: 700; letter-spacing: 5px; }
+        
+        /* Mobil Uyum İçin Ufak Dokunuş */
+        @media (max-width: 768px) {
+            .hero-banner { flex-direction: column; text-align: center; }
+            .hero-icon { margin-top: 20px; }
+        }
     </style>
 </head>
 <body>
+    
 <style>
   #kilit-ekrani {
-    position: fixed;
-    top: 0; left: 0; width: 100%; height: 100%;
-    background: #0f172a; /* Menümüzle aynı şık lacivert */
-    z-index: 99999; /* Sayfadaki her şeyin üstünü örter */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    color: white;
-    font-family: 'Inter', sans-serif;
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: #0f172a; z-index: 99999; 
+    display: flex; align-items: center; justify-content: center; flex-direction: column;
+    color: white; font-family: 'Inter', sans-serif;
   }
   .kilit-kutu {
-    background: white;
-    color: #333;
-    padding: 40px 30px;
-    border-radius: 12px;
-    text-align: center;
-    box-shadow: 0 15px 30px rgba(0,0,0,0.5);
-    max-width: 400px;
-    width: 90%;
-    border-top: 5px solid #f97316; /* Turuncu vurgu */
+    background: white; color: #333; padding: 40px 30px; border-radius: 12px; text-align: center;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.5); max-width: 400px; width: 90%; border-top: 5px solid #f97316;
   }
-  .kilit-kutu input {
-    width: 100%;
-    padding: 12px;
-    margin: 20px 0;
-    border: 2px solid #e2e8f0;
-    border-radius: 8px;
-    font-size: 16px;
-    text-align: center;
-    outline: none;
-  }
-  .kilit-kutu input:focus {
-    border-color: #f97316;
-  }
-  .kilit-kutu button {
-    width: 100%;
-    padding: 12px;
-    background: #f97316;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    font-weight: bold;
-    font-size: 16px;
-    cursor: pointer;
-    transition: background 0.3s;
-  }
-  .kilit-kutu button:hover {
-    background: #ea580c;
-  }
-  .yasal-uyari-metni {
-    margin-top: 30px;
-    font-size: 12px;
-    color: #94a3b8;
-    text-align: center;
-    max-width: 600px;
-    padding: 0 20px;
-    line-height: 1.5;
-  }
+  .kilit-kutu input { width: 100%; padding: 12px; margin: 20px 0; border: 2px solid #e2e8f0; border-radius: 8px; font-size: 16px; text-align: center; outline: none; }
+  .kilit-kutu input:focus { border-color: #f97316; }
+  .kilit-kutu button { width: 100%; padding: 12px; background: #f97316; color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 16px; cursor: pointer; transition: background 0.3s; }
+  .kilit-kutu button:hover { background: #ea580c; }
+  .yasal-uyari-metni { margin-top: 30px; font-size: 12px; color: #94a3b8; text-align: center; max-width: 600px; padding: 0 20px; line-height: 1.5; }
 </style>
 
 <div id="kilit-ekrani">
@@ -105,7 +151,6 @@
 </div>
 
 <script>
-// Sayfa yüklendiğinde hafızayı kontrol et (Seni hatırlar)
 window.addEventListener('DOMContentLoaded', () => {
     if (localStorage.getItem("smm_giris_onayi") === "evet") {
         const kilit = document.getElementById('kilit-ekrani');
@@ -113,7 +158,6 @@ window.addEventListener('DOMContentLoaded', () => {
     }
 });
 
-// Şifreyi kontrol eden ve butonunu çalıştıran fonksiyon
 function kilitAc() {
     const girilenSifre = document.getElementById('giris-sifresi').value;
     const kilitEkrani = document.getElementById('kilit-ekrani');
@@ -127,6 +171,7 @@ function kilitAc() {
     }
 }
 </script>
+
 <div class="hero-section text-center">
     <div class="container">
         <h1 class="display-4 fw-bold">SMM AKADEMİ</h1>
@@ -138,15 +183,26 @@ function kilitAc() {
 </div>
 
 <div class="container mt-5">
-    <div class="row g-4 justify-content-start">
+    
+    <div id="exam-hero-banner" class="hero-banner">
+        <div class="hero-text">
+            <h1>Kendi Sınavını Tasarla</h1>
+            <p>Hedeflediğin dersleri seç, süreli denemeni hemen başlat.</p>
+            <button id="open-exam-setup" class="premium-btn">Deneme Sınavı Oluştur 🎯</button>
+        </div>
+        <div class="hero-icon">
+            <span class="main-icon">🖋️</span>
+        </div>
+    </div>
+
+    <div class="row g-4 justify-content-start mt-2">
         
         <div class="col-md-6 col-lg-4">
             <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('vergi')">
                 <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
                 <h3 class="fw-bold">Vergi Hukuku</h3>
                 <p class="text-muted small">Teknik analizli ve güncel mevzuat odaklı sorular.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -155,9 +211,7 @@ function kilitAc() {
                 <div class="card-icon"><i class="fas fa-calculator"></i></div>
                 <h3 class="fw-bold">Muhasebe Denetimi</h3>
                 <p class="text-muted small">SMM standartlarında hesap planı ve uygulama testleri.</p>
-                <div class="mt-auto">
-                    <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -166,9 +220,7 @@ function kilitAc() {
                 <div class="card-icon"><i class="fas fa-gavel"></i></div>
                 <h3 class="fw-bold">Meslek Hukuku</h3>
                 <p class="text-muted small">3568 Sayılı Kanun ve Yönetmelikler.</p>
-                <div class="mt-auto">
-                    <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -177,9 +229,7 @@ function kilitAc() {
                 <div class="card-icon"><i class="fas fa-chart-line"></i></div>
                 <h3 class="fw-bold">Sermaye Piyasası</h3>
                 <p class="text-muted small">SPK Kanunu ve yatırım araçları mevzuatı.</p>
-                <div class="mt-auto">
-                    <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -188,9 +238,7 @@ function kilitAc() {
                 <div class="card-icon"><i class="fas fa-chart-line"></i></div>
                 <h3 class="fw-bold">Maliyet Muhasebesi</h3>
                 <p class="text-muted small">Kapsamına göre maliyetler, safha maliyeti, dağıtımlar ve bütçe farkları üzerine uzmanlaşın.</p>
-                <div class="mt-auto">
-                    <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -199,9 +247,7 @@ function kilitAc() {
                 <div class="card-icon"><i class="fas fa-search-dollar"></i></div>
                 <h3 class="fw-bold">Finansal Tablolar Analizi</h3>
                 <p class="text-muted small">Bilanço, gelir tablosu, rasyo analizleri ve yatay/dikey analiz tekniklerinde uzmanlaşın.</p>
-                <div class="mt-auto">
-                    <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -210,9 +256,7 @@ function kilitAc() {
                 <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
                 <h3 class="fw-bold">Temel Hukuk</h3>
                 <p class="text-muted small">Borçlar, İş ve Ticaret Hukuku alt dallarında kanun ve mevzuat testleri.</p>
-                <div class="mt-auto">
-                    <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -221,9 +265,7 @@ function kilitAc() {
                 <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
                 <h3 class="fw-bold">Finansal Muhasebe</h3>
                 <p class="text-muted small">Hesaplar, Mali Tablolar, Hesap İşleyişleri, Açılış ve Kapanış İşlemleri</p>
-                <div class="mt-auto">
-                    <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -232,9 +274,7 @@ function kilitAc() {
                 <div class="card-icon"><i class="fas fa-history"></i></div>
                 <h3 class="fw-bold">SGS Çıkmış Sorular</h3>
                 <p class="text-muted small">Son 10 yılın çıkmış sınav soruları ve analizleri.</p>
-                <div class="mt-auto">
-                    <button class="btn btn-start">Soruları Çöz</button>
-                </div>
+                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
             </div>
         </div>
 
@@ -245,11 +285,160 @@ function kilitAc() {
     <p>&copy; 2026 SMM Akademi | Dijital Sınav Hazırlık Platformu</p>
 </footer>
 
+<div id="exam-modal" class="modal-overlay" style="display: none;">
+    <div class="modal-content-custom">
+        <div class="modal-header-custom">
+            <h2>Sınav Ayarları</h2>
+            <span id="close-modal" class="close-icon">&times;</span>
+        </div>
+        
+        <div class="user-input-section">
+            <label for="candidate-name">Aday Adı:</label>
+            <input type="text" id="candidate-name" placeholder="Rapor için isminizi giriniz...">
+            <small><i>Zihin açıklığı ve başarılar dileriz... 🖋️</i></small>
+        </div>
+        
+        <h3 style="font-size: 1.1rem; color: #475569; margin-bottom: 10px; font-weight: bold;">Dersleri Seçiniz</h3>
+        <div id="lesson-chips-container" class="chips-container">
+            <div class="chip" data-ders="vergi"><i class="fas fa-balance-scale"></i> Vergi Hukuku</div>
+            <div class="chip" data-ders="muhasebe"><i class="fas fa-calculator"></i> Denetim</div>
+            <div class="chip" data-ders="meslek"><i class="fas fa-gavel"></i> Meslek Hukuku</div>
+            <div class="chip" data-ders="sermaye"><i class="fas fa-chart-line"></i> SPK</div>
+            <div class="chip" data-ders="maliyet"><i class="fas fa-chart-line"></i> Maliyet</div>
+            <div class="chip" data-ders="finansal_analiz"><i class="fas fa-search-dollar"></i> Analiz</div>
+            <div class="chip" data-ders="temel_hukuk"><i class="fas fa-balance-scale"></i> Temel Hukuku</div>
+            <div class="chip" data-ders="finansal_muhasebe"><i class="fas fa-balance-scale"></i> Finansal Muh.</div>
+        </div>
+        
+        <div class="exam-summary">
+            Seçilen: <span id="total-selected">0 Ders</span> | 
+            Toplam: <span id="total-questions">0 Soru</span> | 
+            Süre: <span id="total-time">0 Dakika</span>
+        </div>
+        
+        <button id="start-exam-btn" class="start-btn" disabled>🚀 Sınavı Başlat</button>
+    </div>
+</div>
+
+<div id="countdown-overlay" class="countdown-overlay" style="display: none;">
+    <div id="countdown-number">3</div>
+    <div class="countdown-text">HAZIRLAN...</div>
+</div>
+
 <script>
 function derseGit(dersId) {
-    // Kullanıcıyı soru motoruna ilgili ders parametresiyle gönderir
+    // Klasik soru çözümü için
     window.location.href = "soru_motoru.html?ders=" + dersId;
 }
+
+// --- DENEME SINAVI MODÜLÜ JAVASCRIPT KODLARI ---
+
+document.addEventListener('DOMContentLoaded', () => {
+    const openBtn = document.getElementById('open-exam-setup');
+    const modal = document.getElementById('exam-modal');
+    const closeBtn = document.getElementById('close-modal');
+    const chips = document.querySelectorAll('.chip');
+    const startBtn = document.getElementById('start-exam-btn');
+    
+    // Sayaç Alanları
+    const elSelected = document.getElementById('total-selected');
+    const elQuestions = document.getElementById('total-questions');
+    const elTime = document.getElementById('total-time');
+    
+    // Geri Sayım Alanları
+    const countdownOverlay = document.getElementById('countdown-overlay');
+    const countdownNumber = document.getElementById('countdown-number');
+    const candidateNameInput = document.getElementById('candidate-name');
+
+    let selectedLessons = [];
+    const questionsPerLesson = 20; // Ders başı 20 soru
+    const minutesPerLesson = 45;   // Ders başı 45 dakika
+
+    // Modalı Aç
+    openBtn.addEventListener('click', () => {
+        modal.style.display = 'flex';
+        // Varsa eski kaydedilmiş ismi kutuya yaz
+        if(localStorage.getItem('smm_aday_adi')) {
+            candidateNameInput.value = localStorage.getItem('smm_aday_adi');
+        }
+    });
+
+    // Modalı Kapat
+    closeBtn.addEventListener('click', () => {
+        modal.style.display = 'none';
+    });
+
+    // Hap Butonlara (Chips) Tıklama İşlemi
+    chips.forEach(chip => {
+        chip.addEventListener('click', function() {
+            const dersId = this.getAttribute('data-ders');
+            
+            // Eğer zaten seçiliyse (Turuncuysa) -> Seçimi kaldır
+            if (this.classList.contains('selected')) {
+                this.classList.remove('selected');
+                selectedLessons = selectedLessons.filter(d => d !== dersId);
+            } 
+            // Seçili değilse -> Turuncu yap ve diziye ekle
+            else {
+                this.classList.add('selected');
+                selectedLessons.push(dersId);
+            }
+            
+            hesaplaVeGuncelle();
+        });
+    });
+
+    // Seçime göre sayıları güncelleyen fonksiyon
+    function hesaplaVeGuncelle() {
+        const count = selectedLessons.length;
+        
+        elSelected.innerText = count + " Ders";
+        elQuestions.innerText = (count * questionsPerLesson) + " Soru";
+        elTime.innerText = (count * minutesPerLesson) + " Dakika";
+        
+        // Hiç ders seçilmediyse başlama butonunu pasif yap
+        if(count > 0) {
+            startBtn.disabled = false;
+        } else {
+            startBtn.disabled = true;
+        }
+    }
+
+    // Sınavı Başlat Butonu İşlemi
+    startBtn.addEventListener('click', () => {
+        // İsmi hafızaya al
+        const nameVal = candidateNameInput.value.trim();
+        if(nameVal !== "") {
+            localStorage.setItem('smm_aday_adi', nameVal);
+        } else {
+            localStorage.setItem('smm_aday_adi', 'SMMM Adayı'); // Boş geçerse varsayılan
+        }
+
+        // Modalı kapat, geri sayımı aç
+        modal.style.display = 'none';
+        countdownOverlay.style.display = 'flex';
+        
+        let count = 3;
+        countdownNumber.innerText = count;
+        
+        // 1 saniyede bir rakamı düşür
+        const interval = setInterval(() => {
+            count--;
+            if (count > 0) {
+                countdownNumber.innerText = count;
+            } else if (count === 0) {
+                countdownNumber.innerText = "BAŞLA!";
+                countdownNumber.style.color = "#10b981"; // Yeşile dönsün
+            } else {
+                clearInterval(interval);
+                // Geri sayım bitti! Şimdi gerçek sınav sayfasına yönlendirme yapalım.
+                // Seçilen dersleri URL'ye ekliyoruz (Örn: deneme.html?dersler=vergi,maliyet)
+                const urlQuery = selectedLessons.join(',');
+                window.location.href = "soru_motoru.html?deneme=" + urlQuery;
+            }
+        }, 1000);
+    });
+});
 </script>
 
 </body>
