@@ -409,7 +409,7 @@
             });
         }
 
-        // --- MENÜ OLUŞTURUCU ---
+     // --- GÜNCELLENEN MENÜ OLUŞTURUCU (Soru Sayısı Kontrollü) ---
         function menuyuOlustur() {
             const listeDiv = document.getElementById('kategori-listesi'); 
             listeDiv.innerHTML = ''; 
@@ -432,7 +432,20 @@
                 
                 const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
                 let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-folder-open"; let ikonRenk = ""; let ekstraStil = "";
-                let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi); let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + konuAdi);
+                let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi); 
+                
+                // --- AKILLI KONTROL BURADA ---
+                let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + konuAdi);
+                // Eğer bitirmişse, eski soru sayısıyla şimdikini karşılaştır
+                if (bitirdiMi === "evet") {
+                    let bitirilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + konuAdi);
+                    if (bitirilenSoruSayisi && parseInt(bitirilenSoruSayisi) !== soruSayisi) {
+                        // Soru sayısı değişmiş! Demek ki yeni soru eklenmiş, rozeti sıfırla.
+                        bitirdiMi = "hayir";
+                        localStorage.removeItem("SMM_Bitirdi_" + konuAdi);
+                        localStorage.removeItem("SMM_SoruSayisi_" + konuAdi);
+                    }
+                }
 
                 if (eskiKayit) {
                     let veri = JSON.parse(eskiKayit);
@@ -472,7 +485,18 @@
                     
                     const soruSayisi = tumKategoriler[alt.tamAd] ? tumKategoriler[alt.tamAd].length : 0;
                     let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-file-alt"; let ikonRenk = ""; let ekstraStil = "";
-                    let eskiKayit = localStorage.getItem("SMM_Kayit_" + alt.tamAd); let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + alt.tamAd);
+                    let eskiKayit = localStorage.getItem("SMM_Kayit_" + alt.tamAd); 
+                    
+                    // --- AKILLI KONTROL BURADA ---
+                    let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + alt.tamAd);
+                    if (bitirdiMi === "evet") {
+                        let bitirilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + alt.tamAd);
+                        if (bitirilenSoruSayisi && parseInt(bitirilenSoruSayisi) !== soruSayisi) {
+                            bitirdiMi = "hayir";
+                            localStorage.removeItem("SMM_Bitirdi_" + alt.tamAd);
+                            localStorage.removeItem("SMM_SoruSayisi_" + alt.tamAd);
+                        }
+                    }
 
                     if (eskiKayit) {
                         let veri = JSON.parse(eskiKayit);
@@ -654,6 +678,7 @@
                 }
                 localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
                 localStorage.setItem("SMM_Bitirdi_" + aktifKategoriAdi, "evet");
+                localStorage.setItem("SMM_SoruSayisi_" + aktifKategoriAdi, aktifSorular.length); // YENİ: Soru sayısını da kaydet!
                 menuyuOlustur();
 
                 document.getElementById('soru-alani').classList.add('hidden'); document.getElementById('sonuc-alani').classList.remove('hidden');
