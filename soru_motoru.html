@@ -358,15 +358,42 @@
             const secilenDerslerDizisi = denemeDersleri.split(',');
             const fetchPromises = secilenDerslerDizisi.map(dersId => fetch(getDosyaYolu(dersId)).then(r => r.json()));
             
-            Promise.all(fetchPromises).then(sonuclar => {
+           Promise.all(fetchPromises).then(sonuclar => {
                 aktifSorular = [];
+                
+                // Ders isimlerini düzgün formatlamak için bir harita
+                const dersIsimleri = {
+                    'vergi': 'Vergi Mevzuatı', 'muhasebe': 'Muhasebe Denetimi', 'meslek': 'Meslek Hukuku', 
+                    'sermaye': 'Sermaye Piyasası', 'maliyet': 'Maliyet Muhasebesi', 'finansal_analiz': 'Finansal Analiz', 
+                    'temel_hukuk': 'Temel Hukuk', 'finansal_muhasebe': 'Finansal Muhasebe', 'sgs': 'SGS Çıkmış Sorular'
+                };
+
                 sonuclar.forEach((data, i) => {
                     let sorular = [];
                     if (!Array.isArray(data)) { Object.values(data).forEach(arr => sorular = sorular.concat(arr)); } 
                     else { sorular = data; }
+                    
+                    // 1. O dersin tüm sorularını kendi içinde karıştır (Her denemede farklı sorular gelsin)
+                    for (let k = sorular.length - 1; k > 0; k--) {
+                        const j = Math.floor(Math.random() * (k + 1));
+                        [sorular[k], sorular[j]] = [sorular[j], sorular[k]];
+                    }
+                    
+                    // 2. İlk 20 soruyu seç
                     sorular = sorular.slice(0, 20); 
+                    
+                    // 3. EN ÖNEMLİ KISIM: Seçilen bu 20 soruya, hangi dersten geldiklerinin etiketini bas
+                    let kaynakDersId = secilenDerslerDizisi[i];
+                    let guzelDersAdi = dersIsimleri[kaynakDersId] || kaynakDersId.toUpperCase();
+                    
+                    sorular.forEach(s => {
+                        s.kaynakDersAdi = guzelDersAdi; // Her sorunun içine ders adını damgalıyoruz
+                    });
+
+                    // Soruları ana havuza ekle (Ana havuzu KARIŞTIRMIYORUZ ki blok blok gelsin)
                     aktifSorular = aktifSorular.concat(sorular);
                 });
+
                 optikPaletOlustur(); baslatSayac(secilenDerslerDizisi.length * 45 * 60); soruYukle();
             }).catch(err => alert("Veriler çekilemedi. Lütfen JSON dosyalarınızı kontrol edin."));
         } else {
@@ -496,19 +523,31 @@
             document.body.classList.add('mobil-soru-acik');
             const s = aktifSorular[mevcutSoruIndex];
             
-            if(isIncelemeMode) {
-                document.getElementById('soru-sayac').innerText = `İnceleme Modu: Soru ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
+           // --- GÜNCELLENEN: DERS VE KONU BİLGİSİNİ BULMA MANTIĞI ---
+            let dersVeKonuMetni = "";
+            if (isDenemeMode) {
+                // Deneme modunda, yukarıda her sorunun içine damgaladığımız kaynakDersAdi'ni çekiyoruz
+                dersVeKonuMetni = s.kaynakDersAdi ? s.kaynakDersAdi : "Genel Deneme Sınavı";
             } else {
-                document.getElementById('soru-sayac').innerText = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length}`;
+                // Klasik modda (tek ders çözerken) hangi derste ve konudaysak onu yazar
+                let gosterilecekAd = aktifKategoriAdi.includes('||') ? aktifKategoriAdi.split('||')[1] : aktifKategoriAdi;
+                dersVeKonuMetni = document.getElementById('header-ders-adi').innerText + " - " + gosterilecekAd;
             }
-            
+
+            // Sayacı ve Yeni Ders Rozetini Ekrana Bas
+            if(isIncelemeMode) {
+                document.getElementById('soru-sayac').innerHTML = `İnceleme Modu: Soru ${mevcutSoruIndex + 1} / ${aktifSorular.length} <br><span style="font-size:10px; background:#3b82f6; padding:3px 8px; border-radius:10px; margin-top:5px; display:inline-block;">📚 ${dersVeKonuMetni}</span>`;
+            } else {
+                document.getElementById('soru-sayac').innerHTML = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length} <br><span style="font-size:10px; background:#f97316; padding:3px 8px; border-radius:10px; margin-top:5px; display:inline-block;">📚 ${dersVeKonuMetni}</span>`;
+            }
+            // --- BİTTİ ---
+
             document.getElementById('soru-metni').innerHTML = marked.parse(s.q); 
 
             const liste = document.getElementById('secenekler-listesi'); liste.innerHTML = '';
             
-            // Buton kontrolleri
             if(isIncelemeMode) {
-                document.getElementById('next-btn').disabled = false; // İnceleme modunda gezmek hep serbest
+                document.getElementById('next-btn').disabled = false; 
             } else {
                 document.getElementById('next-btn').disabled = !isDenemeMode;
             }
@@ -522,13 +561,11 @@
                 let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
                 
                 if(isIncelemeMode) {
-                    btn.disabled = true; // Tıklanamaz
+                    btn.disabled = true; 
                     btn.style.cursor = 'default';
-                    // Doğru Cevabı Yeşile Boya
                     if (i === dogruAnahtar) {
                         btn.classList.add('correct');
                     }
-                    // Aday yanlış yaptıysa onun işaretlediğini kırmızıya boya
                     else if (isDenemeMode && denemeCevaplari[mevcutSoruIndex] === i) {
                         btn.classList.add('wrong');
                     }
