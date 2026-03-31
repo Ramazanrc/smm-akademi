@@ -402,6 +402,7 @@
             document.getElementById('ders-baslik-menusu').innerText = anaDersAdi + " KONULARI";
             
             document.getElementById('btn-erken-bitir').style.display = 'none'; 
+            document.getElementById('btn-bos-gec').style.display = 'inline-block'; // YENİ: Klasik modda da boş geç butonu aktif 
 
             fetch(getDosyaYolu(secilenDers)).then(res => res.json()).then(data => {
                 if (!Array.isArray(data)) { tumKategoriler = data; menuyuOlustur(); const ilkKonu = Object.keys(data)[0]; kategoriSec(ilkKonu, null); } 
@@ -409,7 +410,7 @@
             });
         }
 
-     // --- GÜNCELLENEN MENÜ OLUŞTURUCU (Soru Sayısı Kontrollü) ---
+     // --- GÜNCELLENEN MENÜ OLUŞTURUCU (Öncelikli Rozet Kontrollü) ---
         function menuyuOlustur() {
             const listeDiv = document.getElementById('kategori-listesi'); 
             listeDiv.innerHTML = ''; 
@@ -432,33 +433,39 @@
                 
                 const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
                 let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-folder-open"; let ikonRenk = ""; let ekstraStil = "";
-                let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi); 
                 
-                // --- AKILLI KONTROL BURADA ---
+                let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi); 
                 let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + konuAdi);
-                // Eğer bitirmişse, eski soru sayısıyla şimdikini karşılaştır
-                if (bitirdiMi === "evet") {
-                    let bitirilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + konuAdi);
-                    if (bitirilenSoruSayisi && parseInt(bitirilenSoruSayisi) !== soruSayisi) {
-                        // Soru sayısı değişmiş! Demek ki yeni soru eklenmiş, rozeti sıfırla.
-                        bitirdiMi = "hayir";
-                        localStorage.removeItem("SMM_Bitirdi_" + konuAdi);
-                        localStorage.removeItem("SMM_SoruSayisi_" + konuAdi);
-                    }
+                let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + konuAdi);
+
+                // 1. Akıllı Kontrol: Soru sayısı değiştiyse zaten her şeyi sıfırla
+                if (bitirdiMi === "evet" && kaydedilenSoruSayisi && parseInt(kaydedilenSoruSayisi) !== soruSayisi) {
+                    bitirdiMi = null;
+                    localStorage.removeItem("SMM_Bitirdi_" + konuAdi);
+                    localStorage.removeItem("SMM_SoruSayisi_" + konuAdi);
                 }
 
+                // 2. ÖNCELİK KONTROLÜ: Eğer yarıda bırakılan bir kayıt varsa, "Bitti" statüsü HÜKÜMSÜZDÜR.
                 if (eskiKayit) {
                     let veri = JSON.parse(eskiKayit);
                     kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
                     ikon = "fa-hourglass-half"; ikonRenk = "color:#f97316;";
-                } else if (bitirdiMi === "evet") {
+                    
+                    // Eğer önceden bitirmiş ama tekrar çözüp yarıda bırakmışsa, bitirme hafızasını SİL
+                    if(bitirdiMi === "evet") {
+                        localStorage.removeItem("SMM_Bitirdi_" + konuAdi);
+                        localStorage.removeItem("SMM_SoruSayisi_" + konuAdi);
+                    }
+                } 
+                // Eğer devam eden kayıt yoksa ve bitirmişse, o zaman yeşil tiki bas
+                else if (bitirdiMi === "evet") {
                     bitisRozeti = `<span style="font-size:10px; background:#22c55e; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">✅ Bitti</span>`;
                     ikon = "fa-check-circle"; ikonRenk = "color:#22c55e;"; ekstraStil = "border-left: 3px solid #22c55e; background: rgba(34, 197, 94, 0.05);";
                 }
 
                 btn.setAttribute('data-kategori', konuAdi); 
                 btn.innerHTML = `<i class="fas ${ikon}" style="${ikonRenk}"></i> <span style="flex:1;">${konuAdi}</span> ${kayitRozeti} ${bitisRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px; color:white;">${soruSayisi} Soru</span>`; 
-                if (bitirdiMi === "evet") { btn.style.cssText += ekstraStil; }
+                if (!eskiKayit && bitirdiMi === "evet") { btn.style.cssText += ekstraStil; }
                 btn.onclick = (e) => kategoriSec(konuAdi, e.currentTarget); 
                 listeDiv.appendChild(btn); 
             });
@@ -485,31 +492,38 @@
                     
                     const soruSayisi = tumKategoriler[alt.tamAd] ? tumKategoriler[alt.tamAd].length : 0;
                     let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-file-alt"; let ikonRenk = ""; let ekstraStil = "";
-                    let eskiKayit = localStorage.getItem("SMM_Kayit_" + alt.tamAd); 
                     
-                    // --- AKILLI KONTROL BURADA ---
+                    let eskiKayit = localStorage.getItem("SMM_Kayit_" + alt.tamAd); 
                     let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + alt.tamAd);
-                    if (bitirdiMi === "evet") {
-                        let bitirilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + alt.tamAd);
-                        if (bitirilenSoruSayisi && parseInt(bitirilenSoruSayisi) !== soruSayisi) {
-                            bitirdiMi = "hayir";
-                            localStorage.removeItem("SMM_Bitirdi_" + alt.tamAd);
-                            localStorage.removeItem("SMM_SoruSayisi_" + alt.tamAd);
-                        }
+                    let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + alt.tamAd);
+                    
+                    // 1. Akıllı Kontrol (Alt Konular)
+                    if (bitirdiMi === "evet" && kaydedilenSoruSayisi && parseInt(kaydedilenSoruSayisi) !== soruSayisi) {
+                        bitirdiMi = null;
+                        localStorage.removeItem("SMM_Bitirdi_" + alt.tamAd);
+                        localStorage.removeItem("SMM_SoruSayisi_" + alt.tamAd);
                     }
 
+                    // 2. ÖNCELİK KONTROLÜ (Alt Konular)
                     if (eskiKayit) {
                         let veri = JSON.parse(eskiKayit);
                         kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
                         ikon = "fa-hourglass-half"; ikonRenk = "color:#f97316;";
-                    } else if (bitirdiMi === "evet") {
+                        
+                        // Önceden bitirmiş ama tekrar başlamışsa sil
+                        if(bitirdiMi === "evet") {
+                            localStorage.removeItem("SMM_Bitirdi_" + alt.tamAd);
+                            localStorage.removeItem("SMM_SoruSayisi_" + alt.tamAd);
+                        }
+                    } 
+                    else if (bitirdiMi === "evet") {
                         bitisRozeti = `<span style="font-size:10px; background:#22c55e; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">✅</span>`;
                         ikon = "fa-check-circle"; ikonRenk = "color:#22c55e;"; ekstraStil = "border-left: 2px solid #22c55e; background: rgba(34, 197, 94, 0.05);";
                     }
                     
                     btn.setAttribute('data-kategori', alt.tamAd);
                     btn.innerHTML = `<i class="fas ${ikon}" style="font-size:10px; ${ikonRenk}"></i> <span style="flex:1;">${alt.altBaslik}</span> ${kayitRozeti} ${bitisRozeti} <span style="font-size:10px; background:#334155; padding:2px 6px; border-radius:10px; color:white;">${soruSayisi} S</span>`; 
-                    if (bitirdiMi === "evet") { btn.style.cssText += ekstraStil; }
+                    if (!eskiKayit && bitirdiMi === "evet") { btn.style.cssText += ekstraStil; }
                     btn.onclick = () => { document.querySelectorAll('.nav-item.active').forEach(el => el.classList.remove('active')); btn.classList.add('active'); kategoriSec(alt.tamAd, btn); }; 
                     altKonuKutusu.appendChild(btn); 
                 }); 
@@ -664,7 +678,14 @@
             }
         }
 
-        function bosGec() { if(!isDenemeMode) return; denemeCevaplari[mevcutSoruIndex] = null; sonrakiSoru(); }
+        function bosGec() { 
+            if(isDenemeMode) {
+                denemeCevaplari[mevcutSoruIndex] = null; 
+            } else {
+                bosSayisi++; // YENİ: Klasik modda boş bırakılan soruyu hafızaya al
+            }
+            sonrakiSoru(); 
+        }
         function optikPaletOlustur() { const grid = document.getElementById('optik-grid'); grid.innerHTML = ''; aktifSorular.forEach((_, i) => { const kutu = document.createElement('div'); kutu.className = 'optik-kutu'; kutu.id = 'optik-kutu-' + i; kutu.innerText = i + 1; kutu.onclick = () => { mevcutSoruIndex = i; soruYukle(); toggleDrawer(); }; grid.appendChild(kutu); }); }
         function guncelleOptikPalet() { aktifSorular.forEach((_, i) => { const kutu = document.getElementById('optik-kutu-' + i); if(!kutu) return; kutu.className = 'optik-kutu'; if (denemeCevaplari[i] !== undefined && denemeCevaplari[i] !== null) { kutu.classList.add('cozuldu'); } if (i === mevcutSoruIndex) { kutu.classList.add('aktif'); } }); }
         function toggleDrawer() { const drawer = document.getElementById('exam-drawer'); const overlay = document.getElementById('exam-drawer-overlay'); if (drawer.classList.contains('open')) { drawer.classList.remove('open'); overlay.style.display = 'none'; } else { drawer.classList.add('open'); overlay.style.display = 'block'; } }
@@ -678,16 +699,22 @@
                 }
                 localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
                 localStorage.setItem("SMM_Bitirdi_" + aktifKategoriAdi, "evet");
-                localStorage.setItem("SMM_SoruSayisi_" + aktifKategoriAdi, aktifSorular.length); // YENİ: Soru sayısını da kaydet!
+                localStorage.setItem("SMM_SoruSayisi_" + aktifKategoriAdi, aktifSorular.length); // AKILLI HAFIZA KAYDI
                 menuyuOlustur();
 
-                document.getElementById('soru-alani').classList.add('hidden'); document.getElementById('sonuc-alani').classList.remove('hidden');
-                document.getElementById('skor-dogru').innerText = dogruSayisi; document.getElementById('skor-yanlis').innerText = yanlisSayisi;
+                document.getElementById('soru-alani').classList.add('hidden'); 
+                document.getElementById('sonuc-alani').classList.remove('hidden');
+                document.getElementById('skor-dogru').innerText = dogruSayisi; 
+                document.getElementById('skor-yanlis').innerText = yanlisSayisi;
+
+                // Boş soruları göster
+                document.getElementById('skor-bos-kutu').style.display = 'flex'; 
+                document.getElementById('skor-bos').innerText = bosSayisi;
                 
                 let netSayisi = dogruSayisi - (yanlisSayisi / 4);
                 if (netSayisi < 0) netSayisi = 0;
                 
-                const toplamSoru = dogruSayisi + yanlisSayisi; 
+                const toplamSoru = aktifSorular.length; 
                 const soruBasinaPuan = 100 / (toplamSoru || 1);
                 const tahminiPuan = netSayisi * soruBasinaPuan;
                 const yuzde = (toplamSoru > 0) ? Math.round((netSayisi / toplamSoru) * 100) : 0;
