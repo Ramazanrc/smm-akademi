@@ -903,7 +903,311 @@
       ],
       "answer": 2
     }
-  ],
+ ],
+  "8- İlk Madde ve Malzeme Hareketleri": [
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir üretim işletmesinin üretimde kullandığı (x) hammaddesinin Ocak dönemine ait stok kartı aşağıdaki gibidir:\n\n| Tarih | Açıklama | Birim Fiyat (₺) | Miktar (KG) | Tutar (₺) |\n| :--- | :--- | :--- | :--- | :--- |\n| 01.01 | Dönem Başı Stok | 30 | 200 | 6.000 |\n| 05.01 | Alım | 40 | 500 | 20.000 |\n| 10.01 | Üretime Sevk | - | 600 | |\n| 12.01 | Alım | 45 | 400 | 18.000 |\n| 18.01 | Üretime Sevk | - | 300 | |\n| 27.01 | Alım | 50 | 100 | 5.000 |\n\nİlk giren ilk çıkar (FIFO) yöntemine göre, sırasıyla, üretime sevk edilen ve stokta kalan (x) hammaddesinin maliyeti aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 22.000 ₺ ve 5.000 ₺",
+        "B) 26.000 ₺ ve 13.000 ₺",
+        "C) 35.000 ₺ ve 14.000 ₺",
+        "D) 38.000 ₺ ve 23.000 ₺",
+        "E) 44.000 ₺ ve 5.000 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Yukarıda bir üretim işletmesinin K hammaddesine ilişkin bazı bilgileri verilmiştir:\n\n| TARİH | İŞLEM | MİKTAR (kg) | FİYAT (₺) | TUTAR (₺) |\n| :--- | :--- | :--- | :--- | :--- |\n| 1 Eylül | Dönembaşı Mevcudu | 700 | 500 | |\n| 10 Eylül | Satın Alınan | 500 | 600 | 300.000 |\n| 20 Eylül | Üretime Gönderilen | 400 | | |\n| 24 Eylül | Satın Alınan | 700 | 800 | 560.000 |\n| 29 Eylül | Üretime Gönderilen | 600 | | |\n\nİşletmenin İlk Giren İlk Çıkar yöntemini kullandığı bilindiğine göre Eylül ayında üretime gönderilen K hammaddesi maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 200.000",
+        "B) 420.000",
+        "C) 490.000",
+        "D) 530.000",
+        "E) 720.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "İşletmenin kullandığı (X) direkt ilk madde ve malzemesine ilişkin bilgiler aşağıdaki gibidir:\n\n| Tarih | Açıklama | Miktar | Birim Fiyat |\n| :--- | :--- | :--- | :--- |\n| 01.07 | Önceki Dönemden Devir | 50 | 200 ₺ |\n| 07.07 | Üretime Gönderilen | 50 | ? |\n| 18.07 | Satın Alınan | 200 | 150 ₺ |\n| 25.07 | Satın Alınan | 250 | 200 ₺ |\n| 31.07 | Üretime Gönderilen | 300 | ? |\n\nYukarıdaki bilgilere ve İlk Giren İlk Çıkar (FIFO) Yöntemi'ne göre, (X) direkt ilk madde ve malzemesinin \"Dönem Sonu\" maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 10.000",
+        "B) 30.000",
+        "C) 40.000",
+        "D) 50.000",
+        "E) 60.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir üretim işletmesinin üretimde kullandığı \"A\" yardımcı malzemesine ilişkin Mart ayı sonundaki stok miktarı 1.000 adet, bu stoklarının değeri ise 7.000 ₺'dir. Stoklarını ilk giren ilk çıkar (FIFO) yöntemine göre izleyen işletmenin, \"A\" yardımcı malzemesine ilişkin Nisan ayı hareket bilgileri aşağıdaki gibidir:\n\n| İşlemin Niteliği | Tarih | Miktar (adet) | Birim maliyeti (₺) |\n| :--- | :--- | :--- | :--- |\n| Alış | 01 Nisan | 4.000 | 8 |\n| Satış | 17 Nisan | 2.000 | 12 |\n| Üretime Sevk | 10 Nisan | 1.000 | |\n| Üretime Sevk | 20 Nisan | 900 | |\n\nStok hareketlerini sürekli (devamlı) envanter yöntemine göre izleyen bu işletmenin 20 Nisan'da üretime sevk ettiği malzeme için yapacağı maliyet kaydı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Direkt İlk Madde ve Malzeme Giderleri hesabı borçlu 7.000",
+        "B) Genel Üretim Giderleri hesabı borçlu 7.200",
+        "C) Direkt İlk Madde ve Malzeme Giderleri hesabı borçlu 8.000",
+        "D) Genel Üretim Giderleri hesabı borçlu 10.800",
+        "E) İlk Madde ve Malzeme hesabı borçlu 24.800"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir üretim işletmesinin Eylül ayı M-1 malzemesi stok hareketleri ve malzemenin birim maliyet bilgileri aşağıdaki gibidir;\n\n| İşlem | Tutar |\n| :--- | :--- |\n| Dönem Başı Stok | 100 birim x 10 ₺ = 1.000 ₺ |\n| 05 Eylül Alış | 120 birim x 12 ₺ = 1.440 ₺ |\n| 14 Eylül Alış | 110 birim x 13 ₺ = 1.430 ₺ |\n| 23 Eylül Alış | 105 birim x 15 ₺ = 1.575 ₺ |\n\n30 Eylül tarihinde yapılan sayımda işletmede 115 birim stok olduğu belirlenmiştir. İşletmenin stoklarını izlemede ilk giren ilk çıkar yöntemini kullandığı kabul edildiğinde, üretimde kullanılan malzemenin maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 1.360",
+        "B) 1.705",
+        "C) 3.740",
+        "D) 4.085",
+        "E) 5.445"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "BT Üretim İşletmesinin Haziran ayına ilişkin hammadde stok alış bilgileri şu şekildedir:\n\n| Tarih/İşlem | Tutar |\n| :--- | :--- |\n| 1 Haziran (Devir) | 100 br x 10 TL = 1.000 TL |\n| 7 Haziran Alış | 200 br x 12 TL = 2.400 TL |\n| 18 Haziran Alış | 150 br x 15 TL = 2.250 TL |\n| 26 Haziran Alış | 100 br x 16 TL = 1.600 TL |\n| Toplam 550 br | = 7.250 TL |\n\n30 Haziran tarihinde yapılan sayımda 110 birim hammadde stoku olduğu tespit edilmiştir. İlk giren - ilk çıkar (FİFO) yöntemine göre, üretimde kullanılan hammaddenin maliyeti kaç TL'dir?",
+      "options": [
+        "A) 1.120",
+        "B) 5.490",
+        "C) 5.500",
+        "D) 5.650",
+        "E) 6.130"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir işletme pahalı bir girdi olan ve üretimde çok önemli bir yer tutan A hammaddesi ile ilgili stok kayıtlarını aralıklı (dönemsel) envanter yöntemine göre tutmaktadır. İşletmenin benimsemiş olduğu stok değerleme yöntemi ise tartılı ağırlıklı ortalama maliyet yöntemidir. Kayıtlar incelendiğinde bu stok kalemi ile ilgili aşağıdaki işlemlerin gerçekleştiği belirlenmiştir:\n\n| Tarih | İşlem | A Hammaddesi |\n| :--- | :--- | :--- |\n| 01 Ocak | Dönem Başı Stok | 10 lt x 10 ₺/lt |\n| 10 Ocak | Satın Alınan | 40 lt x 20 ₺/lt |\n| 12 Ocak | Satın Alınan | 30 lt x 30 ₺/lt |\n| 22 Ocak | Satın Alınan | 20 lt x 40 ₺/lt |\n\nDönem sonunda yapılan sayımda stoklarda 30 litre A hammaddesi kaldığı belirlenmiştir. Bu veriler ışığında, işletmenin stok değerleme yöntemi olarak tartılı ağırlıklı ortalama maliyet yöntemi yerine ilk giren ilk çıkar yöntemini kullanması hâlinde üretimde kullanılan hammadde maliyeti nasıl değişir?",
+      "options": [
+        "A) Hammadde maliyeti 500 ₺ azalır.",
+        "B) Hammadde maliyeti 540 ₺ artar.",
+        "C) Hammadde maliyeti 320 ₺ azalır.",
+        "D) Hammadde maliyeti 180 ₺ azalır.",
+        "E) Hammadde maliyeti 240 ₺ azalır."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "İşletme A hammaddesi ile ilgili stok kayıtlarını aralıklı envanter yöntemine göre tutmaktadır. Bu stok kalemi ile ilgili aşağıdaki işlemlerin gerçekleştiği belirlenmiştir:\n\n| Tarih | İşlem | A Hammaddesi |\n| :--- | :--- | :--- |\n| 01 Haziran | Dönem Başı Stok | 100 lt x 10 ₺/lt |\n| 10 Haziran | Satın Alınan | 200 lt x 15 ₺/lt |\n| 18 Haziran | Satın Alınan | 300 lt x 20 ₺/lt |\n| 24 Haziran | Satın Alınan | 400 lt x 25 ₺/lt |\n\nDönem sonunda yapılan sayım işlemlerinde stokta 300 lt hammadde kaldığı belirlenmiştir. İşletme stok değerleme yöntemi olarak ilk giren ilk çıkar yöntemini benimsemiştir. Buna göre, söz konusu işletme stok değerleme yöntemi olarak tartılı ağırlıklı ortalama maliyet yöntemini kullanmaya karar vermiş olsaydı, bu hammadde ile ilgili direkt ilk madde ve malzeme gideri nasıl ve hangi tutarda değişir?",
+      "options": [
+        "A) Direkt ilk madde ve malzeme gideri 1.000 ₺ artar.",
+        "B) Direkt ilk madde ve malzeme gideri 1.500 ₺ azalır.",
+        "C) Direkt ilk madde ve malzeme gideri 2.000 ₺ artar.",
+        "D) Direkt ilk madde ve malzeme gideri 1.500 ₺ artar.",
+        "E) Direkt ilk madde ve malzeme gideri 1.000 ₺ azalır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Üretime sevk maliyetinin hesaplanmasında ilk giren ilk çıkar (FIFO) maliyet yöntemi uygulanan bir işletmenin K hammaddesi stokuna ilişkin bilgiler aşağıdaki gibidir:\n\n| Kalem | Miktar (birim) | Tutar (₺) |\n| :--- | :--- | :--- |\n| Dönem başı stok | 7.500 | 900.000 |\n| Dönem içi tüketim | 31.500 | 4.260.000 |\n| Dönem sonu stok | 6.000 | 840.000 |\n\nBuna göre, K hammaddesinin dönem içi alış birim maliyeti kaç TL'dir?",
+      "options": [
+        "A) 120",
+        "B) 130",
+        "C) 140",
+        "D) 150",
+        "E) 160"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Üretime sevk maliyetinin hesaplanmasında dönemsel (tartılı) ağırlıklı ortalama maliyet yöntemi uygulanan bir hammadde stokuna ilişkin bilgiler aşağıdaki gibidir:\n\n| Kalem | Miktar (birim) | Tutar (₺) |\n| :--- | :--- | :--- |\n| Dönem başı stok | 500 | 70.000 |\n| Dönem içi tüketim | 2.100 | 310.800 |\n| Dönem sonu stok | 400 | 59.200 |\n\nBuna göre, hammaddenin dönem içi alış birim maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 110",
+        "B) 130",
+        "C) 150",
+        "D) 170",
+        "E) 190"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Stok değerleme yöntemi olarak hareketli ortalama maliyet yöntemi kullanılan bir malzemeye ait stok kartının kalanlar kısmından alınan bilgiler aşağıdaki gibidir:\n\n| Tarih | Miktar (adet) | Ortalama Birim Fiyat (₺) | Tutar (₺) |\n| :--- | :--- | :--- | :--- |\n| 7 Temmuz | 200 | 11 | 2.200 |\n\n20 Temmuz tarihinde de 100 adet malzeme alındığı bilinmektedir ancak stok kartının girenler kısmına işlenmesi unutulmuştur. 25 Temmuz tarihinde 200 adet malzeme üretime sevk edilmiş ve üretime sevk maliyeti 2.800 ₺ olarak hesaplanmıştır. Buna göre, 20 Temmuz tarihinde alınan 100 adet malzemenin birim maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 14",
+        "B) 16",
+        "C) 18",
+        "D) 20",
+        "E) 22"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Stoklarını hareketli ortalama maliyet yöntemi ile değerleyen işletmede K malzemesine ait stok kartının kalanlar kısmı aşağıdaki gibidir:\n\n| Tarih | Miktar (ad) | Fiyat (₺) | Tutar (₺) |\n| :--- | :--- | :--- | :--- |\n| 5 Mart | 150 | 60 | 9.000 |\n\n25 Mart tarihinde de 150 adet malzeme alındığı ancak stok kartına işlenmesinin unutulduğu bilinmektedir. 30 Mart tarihinde 200 adet malzeme üretime sevk edilmiş ve üretime sevk maliyeti 11.500 ₺ olarak hesaplanmıştır. Buna göre 25 Mart tarihinde alınan 150 adet malzemenin birim maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 50,25",
+        "B) 52,5",
+        "C) 55",
+        "D) 57,5",
+        "E) 58"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Stok maliyetlerinin tespitinde ağırlıklı ortalama maliyet yöntemini kullanmakta olan bir işletme üretim döneminde mamul birimi başına 20 kilogram hammadde kullanarak ürettiği 800 adet mamulün 3/4'ünü satmıştır. Dönem sonu mamul stoklarına isabet eden hammadde maliyeti 32.000 ₺ olarak hesaplanmıştır. Tek hammadde kullanarak tek çeşit mamul üreten işletmede kilogram başına hammadde maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 4",
+        "B) 8",
+        "C) 12",
+        "D) 40",
+        "E) 80"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "İlk madde ve malzeme giderlerinin hesaplanmasında İlk Giren İlk Çıkar yöntemini kullanan bir işletmede Ocak ayı başında 100.000 ₺ ilk madde stoku bulunmaktayken ay içinde 850.000 ₺'ye 1.000 adet ilk madde alışı yapılmıştır. Ocak ayı sonunda 300 adet ilk madde stoku kaldığı saptandığına göre, işletmenin Ocak ayında üretime sevk ettiği 800 adet ilk maddenin maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 680.000",
+        "B) 685.000",
+        "C) 690.000",
+        "D) 695.000",
+        "E) 700.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Fiyatların yükselme eğiliminde olduğu bir ekonomide aşağıdaki maliyet hesaplama yöntemlerinden hangisi kullanıldığında üretimde kullanılan malzeme maliyeti diğerlerine göre her zaman daha yüksek çıkar?",
+      "options": [
+        "A) İlk giren ilk çıkar",
+        "B) Ağırlıklı ortalama maliyet",
+        "C) Son giren ilk çıkar",
+        "D) Hareketli ağırlıklı ortalama",
+        "E) Gerçek parti maliyeti"
+      ],
+      "answer": 2
+    }
+ ],  
+  "9- Başabaş Noktası": [ 
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "İşletme, X mamulünün üretimini ve satışını yapmaktadır. Mamulün birim satış fiyatı 10 TL, birim katkı payı 5 TL'dir. İşletmede dönemde oluşan sabit giderler 2.400 TL olduğuna göre, işletmenin dönemde 5.000 TL kâr sağlaması için kaç TL'lik satış yapması gerekir?",
+      "options": [
+        "A) 4.500",
+        "B) 4.800",
+        "C) 7.400",
+        "D) 10.000",
+        "E) 14.800"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Tek mamul üretip satan bir işletmede sabit maliyetler toplamı 250.000 ₺, birim değişken maliyet 20 ₺, birim satış fiyatı 40 ₺'dir. Buna göre, bu işletmenin %20 vergiden sonra 40.000 ₺ net kâr elde etmesi için kaç ₺ tutarında satış yapması gerekir?",
+      "options": [
+        "A) 300.000",
+        "B) 400.000",
+        "C) 450.000",
+        "D) 600.000",
+        "E) 750.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir işletmeye ait bilgiler aşağıdaki gibidir:\n\n| Kalem | Tutar / Oran |\n| :--- | :--- |\n| Toplam Sabit Maliyet | 100.000 ₺ |\n| Birim Değişken Maliyet | 800 ₺ |\n| Başabaş Noktası | 500 birim |\n| Katkı Oranı | %20 |\n\nİşletmede birim satış fiyatı aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": [
+        "A) 800",
+        "B) 1.000",
+        "C) 1.200",
+        "D) 1.400",
+        "E) 1.600"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "20.000 birim mamul üretip satan MT Üretim işletmesine ait maliyet verileri şu şekildedir:\n\n| Maliyet Kalemi | Tutar |\n| :--- | :--- |\n| Direkt ilk Madde ve Mlz Maliyeti | 40 ₺/birim |\n| Direkt işçilik Maliyeti | 30 ₺/birim |\n| Değişken Genel Üretim Maliyeti | 20 ₺/birim |\n| Sabit Genel Üretim Maliyeti | 400.000 ₺ |\n\nİşletme bu dönem 400.000 ₺ kâr elde ettiğine göre, birim satış fiyatı kaç ₺'dir?",
+      "options": [
+        "A) 90",
+        "B) 115",
+        "C) 130",
+        "D) 140",
+        "E) 150"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir işletmede R mamulünün başabaş noktası 300.000 ₺, katkı oranı 1/5, birim değişken maliyeti 5 ₺'dir. İşletmenin başabaş noktası kaç birimdir?",
+      "options": [
+        "A) 45.000",
+        "B) 48.000",
+        "C) 50.000",
+        "D) 60.000",
+        "E) 96.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Z Üretim İşletmesi'nin yıllık 8.000 birimlik satış hacmindeki satış ve maliyet bilgileri aşağıdaki gibidir:\n\n| Maliyet Kalemi | Tutar |\n| :--- | :--- |\n| Birim Satış Fiyatı | 10 ₺/birim |\n| Birim Değişken Maliyet | 4 ₺/birim |\n| Toplam Sabit Maliyetler | 30.000 ₺ |\n\nİşletme talep elastikiyetinden yararlanarak kârını artırmak istemektedir. Yapılan pazar araştırmasına göre, gelecek faaliyet döneminde birim satış fiyatının %10 azaltılması hâlinde, satış miktarının %25 artması beklenmektedir. Bu bilgilere göre, işletmenin toplam kârındaki değişim aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": [
+        "A) 2.000 ₺ Azalış",
+        "B) 2.000 ₺ Artış",
+        "C) 10.000 ₺ Artış",
+        "D) 12.000 ₺ Azalış",
+        "E) 12.000 ₺ Artış"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "50.000 birim üretim kapasitesine sahip TN üretim işletmesine ilişkin maliyet verileri şu şekildedir:\n\n| Maliyet Kalemi | Tutar |\n| :--- | :--- |\n| Direkt ilk Md. ve Mlz. Maliyeti | 20 ₺/birim |\n| Direkt İşçilik Maliyeti | 15 ₺/birim |\n| Değişken Genel Üretim Maliyeti | 15 ₺/birim |\n| Sabit Genel Üretim Maliyeti | 45.000 ₺ |\n| Satış Fiyatı | 80 ₺/birim |\n\nY işletmesi, ürettiği bütün mamulleri satın alabileceğini fakat ödeyebileceği en yüksek birim birim fiyatının 70 ₺ olduğunun TN üretim işletmesine bildirmiştir. TN üretim işletmesi bu teklifi kabul eder ve sadece Y işletmesi için üretim yaparsa, başabaş noktası üretim miktarındaki değişim için aşağıdakilerden hangisi söylenir?",
+      "options": [
+        "A) 750 birim artar.",
+        "B) 750 birim azalır.",
+        "C) 1.500 birim azalır.",
+        "D) 1.500 birim artar.",
+        "E) 2.250 birim artar."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir işletmenin sabit maliyetleri 10.000 ₺, 1.000 birim üretim hacmindeki kârı 10.000 ₺'dir. İşletmenin katkı payında %25 oranında artış olursa, yeni hesaplanacak kâra geçiş noktası için aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) 100 birim artar.",
+        "B) 100 birim azalır.",
+        "C) 150 birim artar.",
+        "D) 150 birim azalır.",
+        "E) 200 birim artar."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "MT Üretim işletmesi'nin Y mamulünü üretmek için kullandığı parçadan dönemlik ihtiyacı 20.000 birimdir. İşletme bünyesinde bu parça üretilirse, parçanın birim başına üretim maliyeti aşağıdaki gibidir:\n\n| Maliyet Kalemi | Tutar |\n| :--- | :--- |\n| Direkt İlk Md. ve Mlz. Maliyeti | 20 ₺/birim |\n| Direkt İşçilik Maliyeti | 10 ₺/birim |\n| Değişken Genel Üretim Maliyeti | 5 ₺/birim |\n| Sabit Genel Üretim Maliyeti | 15 ₺/birim (%60 Sabit GÜG, %40 Değişken GÜG) |\n\nXY İşletmesi, aynı parçayı işletmeye 48 ₺/birim fiyattan satabileceğini bildirmiştir. İşletme teklifi kabul ederse direkt ilk madde ve direkt işçilik maliyetlerinin tümü, sabit genel üretim maliyetinin %60'ı ve değişken genel üretim maliyetinin ise %50'si ortadan kalkacaktır. İşletme bu teklifi kabul ederse, üretme seçeneği ile karşılaştırıldığında birim maliyetteki değişim için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Birim maliyet değişmez.",
+        "B) Birim maliyet 3 ₺ azalır.",
+        "C) Birim maliyet 11 ₺ azalır.",
+        "D) Birim maliyet 4 ₺ artar.",
+        "E) Birim maliyet 10 ₺ artar."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "İşletme, tek tip otomobil kliması üretmekte ve bu klimaları otomobil üreticisi işletmelere satmaktadır. İşletmenin yıllık üretim kapasitesi 2.000 birim olup, %75 kapasite ile çalışmakta ve 1.500 birim üretim yapabilmektedir. Yapılan maliyet analizleri sonucunda işletmenin yıllık sabit üretim maliyetlerinin 400.000 ₺, sabit nitelikteki üretim dışı maliyetlerinin ise 100.000 ₺ olduğu belirlenmiştir. Üretilen klimanın üretim reçetesinin incelenmesinden, birim değişken klima maliyetinin 600 ₺ olduğu anlaşılmıştır. İşletme bu üretim seviyesinde dönem sonu itibarıyla 100.000 ₺ dönem kârı beklemektedir. Buna göre, üretilen mamullerin kaç birim fiyattan satılması gerekmektedir?",
+      "options": [
+        "A) 850",
+        "B) 933",
+        "C) 975",
+        "D) 1.000",
+        "E) 1.500"
+      ],
+      "answer": 3
+    }
+ ],
   "Tanımlar - Maliyet Sınıflandırılması": [
     {
       "q": "Maliyet muhasebesi ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
