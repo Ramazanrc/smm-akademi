@@ -384,12 +384,9 @@
                 .then(data => {
                     // AKILLI OTURUM SEÇİM SİSTEMİ
                     if (secilenSinav && data[secilenSinav]) {
-                        // Linkten direkt oturum seçilerek gelinmiş (Örn: &sinav=Deneme Sınavı-1 (1. Oturum))
                         denemeyiBaslat(secilenSinav, data[secilenSinav]);
                     } 
                     else if (!Array.isArray(data)) { 
-                        // JSON nesne olarak geldi ama URL'de oturum belirtilmemiş.
-                        // O zaman ekrana SEÇİM MENÜSÜNÜ çıkar.
                         document.getElementById('soru-alani').classList.add('hidden');
                         const secimAlani = document.getElementById('oturum-secim-alani');
                         secimAlani.classList.remove('hidden');
@@ -401,17 +398,13 @@
                             const btn = document.createElement('button');
                             btn.className = 'oturum-secim-btn';
 
-                            // --- DİNAMİK DERS LİSTESİ OLUŞTURMA (TÜRMOB GÖRSELİ MANTIĞI) ---
-                            // 1. O oturumun içindeki tüm benzersiz (unique) ders isimlerini topla
                             const sessionQuestions = data[key];
                             const subjectSet = new Set();
                             sessionQuestions.forEach(s => {
                                 if (s.ders) subjectSet.add(s.ders);
                             });
-                            // 2. Set'i diziye çevirip virgülle birleştir (parantez içi ders listesi)
                             const uniqueSubjectsList = [...subjectSet].join(", ");
 
-                            // Butonun HTML yapısını TÜRMOB PDF formatına uygun olarak güncelle.
                             btn.innerHTML = `
                                 <div style="text-align: left; display: flex; flex-direction: column; flex: 1;">
                                     <span style="font-size: 16px; font-weight: bold;">${key}</span>
@@ -431,7 +424,6 @@
                         });
                     } 
                     else { 
-                        // JSON eski tip düz array ise direkt başlat
                         denemeyiBaslat("Kurumsal Deneme Sınavı", data);
                     }
                 })
@@ -469,7 +461,7 @@
                         
                         sorular.forEach(s => {
                             s.kaynakDersAdi = guzelDersAdi;
-                            s.ders = guzelDersAdi; // Rozet için ders adı set edildi
+                            s.ders = guzelDersAdi; 
                         });
 
                         aktifSorular = aktifSorular.concat(sorular);
@@ -494,7 +486,6 @@
             });
         }
 
-        // Seçilen veya direkt gelen denemeyi başlatan fonksiyon
         function denemeyiBaslat(sinavAdi, sorular) {
             aktifSorular = sorular;
             document.getElementById('header-konu-adi').innerText = sinavAdi + " Çözülüyor";
@@ -649,10 +640,8 @@
             document.body.classList.add('mobil-soru-acik');
             const s = aktifSorular[mevcutSoruIndex];
             
-            // --- GÜNCELLENEN: DİNAMİK DERS ROZETİ ---
             let dersVeKonuMetni = "";
             if (isDenemeMode) {
-                // Öncelik JSON'daki 'ders' anahtarında, yoksa 'kaynakDersAdi' damgasını kullan
                 dersVeKonuMetni = s.ders ? s.ders : (s.kaynakDersAdi ? s.kaynakDersAdi : "Kurumsal Deneme Sınavı");
             } else {
                 let gosterilecekAd = aktifKategoriAdi.includes('||') ? aktifKategoriAdi.split('||')[1] : aktifKategoriAdi;
@@ -865,18 +854,73 @@
             document.getElementById('ai-modal-arka').style.display = 'flex';
         }
         
-        const tahta = document.getElementById("karalama-tahtasi"); const canvas = document.getElementById("karalama-canvas"); const metinAlani = document.getElementById("karalama-metin"); const ctx = canvas.getContext("2d"); let karalamaModu = "klavye";
+        // --- GÜNCELLENEN: SÜRÜKLE BIRAK VE ÇİZİM (KARALAMA) MANTIĞI ---
+        const tahta = document.getElementById("karalama-tahtasi"); 
+        const baslik = document.getElementById("karalama-header"); 
+        const canvas = document.getElementById("karalama-canvas"); 
+        const metinAlani = document.getElementById("karalama-metin"); 
+        const ctx = canvas.getContext("2d"); 
+        let karalamaModu = "klavye";
+        
         function karalamaTahtasiniAc() { tahta.style.display = "flex"; document.getElementById("btn-karalama-ac").style.display = "none"; }
         function karalamaTahtasiniKapat() { tahta.style.display = "none"; document.getElementById("btn-karalama-ac").style.display = "block"; }
         function karalamaTemizle() { ctx.clearRect(0, 0, canvas.width, canvas.height); metinAlani.value = ""; }
+        
         function karalamaModDegistir() { 
             const modBtn = document.getElementById("btn-karalama-mod"); 
             if (karalamaModu === "klavye") { 
-                karalamaModu = "cizim"; metinAlani.style.display = "none"; canvas.style.display = "block"; modBtn.innerHTML = '<i class="fas fa-pen"></i>'; 
+                karalamaModu = "cizim"; 
+                metinAlani.style.display = "none"; 
+                canvas.style.display = "block"; 
+                modBtn.innerHTML = '<i class="fas fa-pen"></i>'; 
+                modBtn.style.color = "#22c55e"; 
+                modBtn.title = "Klavye Moduna Dön"; 
             } else { 
-                karalamaModu = "klavye"; canvas.style.display = "none"; metinAlani.style.display = "block"; modBtn.innerHTML = '<i class="fas fa-keyboard"></i>'; 
+                karalamaModu = "klavye"; 
+                canvas.style.display = "none"; 
+                metinAlani.style.display = "block"; 
+                modBtn.innerHTML = '<i class="fas fa-keyboard"></i>'; 
+                modBtn.style.color = "#3b82f6"; 
+                modBtn.title = "Çizim Moduna Geç"; 
             } 
         }
+        
+        let isDragging = false, startX, startY, initialX, initialY; 
+        baslik.addEventListener("mousedown", (e) => { 
+            isDragging = true; 
+            startX = e.clientX; 
+            startY = e.clientY; 
+            const rect = tahta.getBoundingClientRect(); 
+            initialX = rect.left; 
+            initialY = rect.top; 
+        }); 
+        
+        document.addEventListener("mousemove", (e) => { 
+            if (!isDragging) return; 
+            tahta.style.left = (initialX + (e.clientX - startX)) + "px"; 
+            tahta.style.top = (initialY + (e.clientY - startY)) + "px"; 
+        }); 
+        
+        document.addEventListener("mouseup", () => { isDragging = false; });
+        
+        let isDrawing = false; 
+        canvas.addEventListener("mousedown", (e) => { 
+            isDrawing = true; 
+            ctx.beginPath(); 
+            ctx.moveTo(e.offsetX, e.offsetY); 
+        }); 
+        
+        canvas.addEventListener("mousemove", (e) => { 
+            if (!isDrawing) return; 
+            ctx.lineTo(e.offsetX, e.offsetY); 
+            ctx.strokeStyle = "#f97316"; 
+            ctx.lineWidth = 3; 
+            ctx.lineCap = "round"; 
+            ctx.stroke(); 
+        }); 
+        
+        canvas.addEventListener("mouseup", () => { isDrawing = false; }); 
+        canvas.addEventListener("mouseleave", () => { isDrawing = false; });
     </script>
 </body>
 </html>
