@@ -461,13 +461,14 @@
                         
                         sorular.forEach(s => {
                             s.kaynakDersAdi = guzelDersAdi;
-                            s.ders = guzelDersAdi; 
+                            s.ders = guzelDersAdi; // Rozet için ders adı set edildi
                         });
 
                         aktifSorular = aktifSorular.concat(sorular);
                     });
 
                     document.getElementById('soru-alani').classList.remove('hidden');
+                    denemeCevaplari = []; 
                     optikPaletOlustur(); baslatSayac(aktifSorular.length * 2.25 * 60); soruYukle();
                 }).catch(err => alert("Veriler çekilemedi."));
             }
@@ -478,11 +479,12 @@
             
             document.getElementById('btn-erken-bitir').style.display = 'none'; 
             document.getElementById('btn-bos-gec').style.display = 'inline-block'; 
+            document.getElementById('open-drawer-btn').style.display = 'block'; // YENİ: KLASİK MODDA ÇEKMECE AKTİF
 
             fetch(getDosyaYolu(secilenDers)).then(res => res.json()).then(data => {
                 document.getElementById('soru-alani').classList.remove('hidden');
                 if (!Array.isArray(data)) { tumKategoriler = data; menuyuOlustur(); const ilkKonu = Object.keys(data)[0]; kategoriSec(ilkKonu, null); } 
-                else { aktifKategoriAdi = "Genel Tarama"; aktifSorular = data; soruYukle(); }
+                else { aktifKategoriAdi = "Genel Tarama"; aktifSorular = data; denemeCevaplari = []; optikPaletOlustur(); soruYukle(); }
             });
         }
 
@@ -494,6 +496,7 @@
                  if(!s.kaynakDersAdi) s.kaynakDersAdi = "Kurumsal Deneme Sınavı";
             });
 
+            denemeCevaplari = [];
             optikPaletOlustur(); 
             baslatSayac(aktifSorular.length * 2.25 * 60); 
             soruYukle();
@@ -615,7 +618,8 @@
             if(tiklananHtmlElementi) { document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active')); tiklananHtmlElementi.classList.add('active'); }
             aktifKategoriAdi = konuAdi; aktifSorular = tumKategoriler[konuAdi]; window.hataliSorular = []; 
             isIncelemeMode = false; 
-            
+            denemeCevaplari = []; // YENİ: Klasik modda da hafıza tazelemek için
+
             let eskiKayit = localStorage.getItem("SMM_Kayit_" + aktifKategoriAdi);
             if (eskiKayit) {
                 let veri = JSON.parse(eskiKayit);
@@ -631,6 +635,8 @@
             
             skorTablosunuGuncelle(); document.getElementById('sonuc-alani').classList.add('hidden'); document.getElementById('soru-alani').classList.remove('hidden');
             let gosterilecekAd = konuAdi.includes('||') ? konuAdi.split('||')[1] : konuAdi; document.getElementById('header-konu-adi').innerText = gosterilecekAd + " Testi Çözülüyor";
+            
+            optikPaletOlustur(); // YENİ: Klasik modda da optik paleti oluştur
             soruYukle();
         }
 
@@ -660,7 +666,7 @@
             
             document.getElementById('next-btn').disabled = (isIncelemeMode) ? false : !isDenemeMode;
 
-            if(isDenemeMode) guncelleOptikPalet(); 
+            guncelleOptikPalet(); // YENİ: Hem simülatör hem klasik modda optiği güncelle
 
             s.options.forEach((metin, i) => {
                 const btn = document.createElement('button'); btn.className = 'option-btn';
@@ -668,11 +674,14 @@
                 btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
                 let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
                 
-                if(isIncelemeMode) {
+                // YENİ: Klasik modda önceden çözülmüş sorunun durumunu hatırla
+                let cevaplanmis = (!isDenemeMode && denemeCevaplari[mevcutSoruIndex] !== undefined && denemeCevaplari[mevcutSoruIndex] !== null);
+
+                if(isIncelemeMode || cevaplanmis) {
                     btn.disabled = true; 
                     btn.style.cursor = 'default';
                     if (i === dogruAnahtar) btn.classList.add('correct');
-                    else if (isDenemeMode && denemeCevaplari[mevcutSoruIndex] === i) btn.classList.add('wrong');
+                    else if (denemeCevaplari[mevcutSoruIndex] === i) btn.classList.add('wrong');
                 } else {
                     btn.onclick = () => cevapla(i, dogruAnahtar, btn);
                     if(isDenemeMode && denemeCevaplari[mevcutSoruIndex] === i) btn.classList.add('selected-deneme');
@@ -693,12 +702,16 @@
                 return;
             }
 
+            // KLASİK MOD CEVAPLAMASI
             const tumButonlar = document.querySelectorAll('.option-btn');
             tumButonlar.forEach(b => b.disabled = true);
             const mevcutSoru = aktifSorular[mevcutSoruIndex]; 
             if (!window.hataliSorular) { window.hataliSorular = []; }
             if (!window.kategoriAnalizi) { window.kategoriAnalizi = {}; }
             if (!window.kategoriAnalizi[aktifKategoriAdi]) { window.kategoriAnalizi[aktifKategoriAdi] = { dogru: 0, yanlis: 0 }; }
+
+            denemeCevaplari[mevcutSoruIndex] = index; // YENİ: Klasik modda da cevabı hafızaya al
+            guncelleOptikPalet(); // YENİ: Optiği anında turuncu yap
 
             if (index === dogru) {
                 window.kategoriAnalizi[aktifKategoriAdi].dogru++; secilenBtn.classList.add('correct'); dogruSayisi++;
@@ -742,8 +755,7 @@
         }
 
         function bosGec() { 
-            if(isDenemeMode) denemeCevaplari[mevcutSoruIndex] = null; 
-            else bosSayisi++; 
+            denemeCevaplari[mevcutSoruIndex] = null; // Ortak havuz mantığı: her 2 modda null kaydet
             sonrakiSoru(); 
         }
 
@@ -759,6 +771,12 @@
                 localStorage.setItem("SMM_Bitirdi_" + aktifKategoriAdi, "evet");
                 localStorage.setItem("SMM_SoruSayisi_" + aktifKategoriAdi, aktifSorular.length);
                 menuyuOlustur();
+
+                bosSayisi = 0; // YENİ: Boş sayısını dinamik hesapla
+                aktifSorular.forEach((_, i) => {
+                    if(denemeCevaplari[i] === undefined || denemeCevaplari[i] === null) bosSayisi++;
+                });
+
                 document.getElementById('soru-alani').classList.add('hidden'); 
                 document.getElementById('sonuc-alani').classList.remove('hidden');
                 document.getElementById('skor-dogru').innerText = dogruSayisi; 
