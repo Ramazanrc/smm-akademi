@@ -1921,5 +1921,247 @@
       ],
       "answer": 2
     }
+  ],
+  "Deneme Sınavı 01 (Genel Tarama)": [
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin gelir tablosunda \"Faaliyet Kârı veya Zararı\"na ulaşmak için aşağıdaki hesaplamalardan hangisi yapılır?",
+      "options": [
+        "A) Net Satışlar - Satışların Maliyeti",
+        "B) Brüt Satışlar - Satış İndirimleri",
+        "C) Olağan Kâr - Finansman Giderleri",
+        "D) Dönem Net Kârı + Kurumlar Vergisi",
+        "E) Brüt Satış Kârı - Faaliyet Giderleri"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin gelir tablosuna ait bazı kalemler aşağıdaki gibidir:\n\n| Kalem | 2023 (₺) | 2024 (₺) |\n| :--- | :--- | :--- |\n| Net Satışlar | 500.000 | 600.000 |\n| Satışların Maliyeti | 300.000 | 380.000 |\n| Faaliyet Giderleri | 100.000 | 110.000 |\n\nBu bilgilere dayanarak işletmenin 2024 yılındaki yatay analiz sonuçlarına göre en yüksek oransal artış hangi kalemde gerçekleşmiştir?",
+      "options": [
+        "A) Net Satışlar",
+        "B) Satışların Maliyeti",
+        "C) Faaliyet Giderleri",
+        "D) Brüt Satış Karı",
+        "E) Faaliyet Kârı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin 2024 yılında faaliyet giderleri toplamı 20.000 ₺, brüt satış kârı oranı %40 ve ortalama stokları 30.000 ₺'dir. Stok devir hızının 2 olduğu bilindiğine göre işletmenin faaliyet kârı veya zararı kaç ₺'dir?",
+      "options": [
+        "A) 10.000 ₺ kâr",
+        "B) 15.000 ₺ zarar",
+        "C) 20.000 ₺ kâr",
+        "D) 25.000 ₺ zarar",
+        "E) 30.000 ₺ zarar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin ilgili faaliyet döneminde net satışlar toplamı 100.000 ₺ ve brüt satış kârı oranı %20 olarak gerçekleşmiştir. İşletmenin bu döneme ait ortalama stokları 20.000 ₺ ise ortalama stokta kalma süresi kaç gündür?",
+      "options": [
+        "A) 60",
+        "B) 80",
+        "C) 90",
+        "D) 120",
+        "E) 150"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin 2023 ve 2024 dönem sonu finansal tablo verileri incelendiğinde 2023 yılı net satışlarının 100.000 ve aktif devir hızının 2 olduğu; 2024 dönem sonu itibarıyla bir önceki dönem sonuna göre brüt çalışma sermayesinin 10.000 ₺ artış gösterdiği, kısa vadeli yabancı kaynaklar toplamının 24.000 ve cari oranın 1,25 olduğu tespit edilmiştir.\n\nBuna göre 2023 dönem sonundaki duran varlık toplamı kaç ₺'dir?",
+      "options": [
+        "A) 30.000",
+        "B) 42.000",
+        "C) 54.000",
+        "D) 66.000",
+        "E) 75.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "2024 yılı gelir tablosuna göre faaliyet giderleri 80.000 ₺ ve faaliyet giderlerinin dikey yüzdesi ise %25'tir. Aynı yıl satışların maliyeti 200.000 ₺ olduğuna göre bu işletmenin faaliyet kârının dikey yüzdesi yüzde kaçtır?",
+      "options": [
+        "A) 10",
+        "B) 12,5",
+        "C) 17,5",
+        "D) 20",
+        "E) 37,5"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin iki farklı dönemindeki hesap değişimlerini hem tutar olarak hem de yüzde olarak analiz etmek için aşağıdaki analiz tekniklerinden hangisi daha uygundur?",
+      "options": [
+        "A) Karşılaştırmalı tablolar analizi tekniği",
+        "B) Oran analizi tekniği",
+        "C) Dikey yüzdeler analizi tekniği",
+        "D) Eğilim yüzdeleri analizi tekniği",
+        "E) Dupont analizi tekniği"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları toplamı 300.000 olan bir işletmenin brüt satış kârlılığı %30, faaliyet giderlerinin dikey yüzdesi ise %10'dur. Bu işletmenin faaliyet kârı kaç TL'dir?",
+      "options": [
+        "A) 40.000",
+        "B) 50.000",
+        "C) 60.000",
+        "D) 70.000",
+        "E) 80.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 200.000 ₺, pasif toplamı 800.000 ₺ olan bir işletmenin dönem net kârının dikey yüzdesi %20'dir. Bu işletmenin aktif kârlılık oranı yüzde kaçtır?",
+      "options": [
+        "A) 5",
+        "B) 10",
+        "C) 15",
+        "D) 20",
+        "E) 25"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin ilgili döneme ait bazı gelir tablosu verileri ve brüt satış kârı oranı aşağıda yer almaktadır.\n\n| Kalem | Tutar |\n| :--- | :--- |\n| Brüt Satışlar | 220.000 ₺ |\n| Satış İndirimleri | 20.000 ₺ |\n| Faaliyet Giderleri | 40.000 ₺ |\n| Diğer Faaliyetlerden Olağan Gelir ve Kârlar | 10.000 ₺ |\n| Finansman Giderleri | 20.000 ₺ |\n| Brüt Satış Kârı Oranı | 0,5 |\n\nBu verilere göre işletmenin ilgili dönemde elde ettiği olağan kâr veya zarar tutarı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 20.000 ₺ zarar",
+        "B) 30.000 ₺ kâr",
+        "C) 40.000 ₺ zarar",
+        "D) 50.000 ₺ kâr",
+        "E) 60.000 ₺ zarar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin cari oranı 2,5 ve asit-test oranı 0,9 ise aşağıdakilerden hangisi söylenebilir?",
+      "options": [
+        "A) Stoklar işletmenin likiditesini olumsuz etkilemektedir.",
+        "B) İşletmenin nakit dönüşüm süreci oldukça hızlıdır.",
+        "C) İşletmenin kısa vadeli borç ödeme gücü çok yüksektir.",
+        "D) İşletme varlıklarını öz kaynak ağırlıklı olarak finanse etmektedir.",
+        "E) İşletmenin faaliyet kârlılığı yüksektir."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin finansal tablolarına yatay analiz uygulandığında, net satışları ile faaliyet giderlerinin artış gösterdiği ve faaliyet giderlerinin net satışlardan daha yavaş arttığı sonucuna ulaşılmıştır.\n\nAşağıdakilerden hangisi bu durum ile ilişkili bir sonuç olarak değerlendirilebilir?",
+      "options": [
+        "A) Brüt kâr marjının düşmesi",
+        "B) Finansman giderlerinin artması",
+        "C) Stok devir hızının yavaşlaması",
+        "D) Öz kaynak kârlılığının azalması",
+        "E) Faaliyet kârının yükselmesi"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "20 ₺'ye aldığı pay senedini aynı dönem içinde 25 ₺'ye satan bir yatırımcı, elinde bulundurduğu dönemde pay senedinden 1 ₺ temettü ödemesi aldı ise bu yatırımcının pay senedi yatırımından sağladığı getiri oranı % kaçtır?",
+      "options": [
+        "A) 20",
+        "B) 25",
+        "C) 30",
+        "D) 35",
+        "E) 40"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin finansal tablolarının analizinde aynı sektördeki en başarılı bir veya birkaç işletmenin ortalamaları da dikkate alınıyorsa bu amaçla kullanılacak referans oranlar aşağıdakilerden hangisidir?",
+      "options": [
+        "A) İdeal standart oranlar",
+        "B) Sektör standart oranları",
+        "C) Bütçe standart oranları",
+        "D) Tarihi standart oranlar",
+        "E) Sanayi standart oranları"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aktif toplamı 50.000 olan işletmenin finansmanında %60 oranında borç kullanılmış ise bu işletmenin özkaynaklarının toplamı kaç ₺'dir?",
+      "options": [
+        "A) 10.000",
+        "B) 20.000",
+        "C) 24.000",
+        "D) 30.000",
+        "E) 36.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Özsermaye kârlılığı %15 ve toplam varlıklarının özkaynaklara oranı 2 olan bir işletmenin varlık kârlılık oranı yüzde kaçtır?",
+      "options": [
+        "A) 5",
+        "B) 7,5",
+        "C) 10",
+        "D) 15",
+        "E) 30"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 80.000 ₺, net kârlılık oranı %25 ve pasif toplamı 500.000 ₺ olan bir işletmede, dönen varlıkların dikey yüzdesi %60'tır.\n\nBu işletmede duran varlık kârlılığı yüzde kaçtır?",
+      "options": [
+        "A) 7",
+        "B) 8",
+        "C) 10",
+        "D) 15",
+        "E) 20"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin bilançosunda duran varlıkların toplam varlıklara oranı son 3 yılda sırasıyla %40, %35 ve %30 olarak hesaplanmıştır.\n\nBu verilere göre işletme ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) İşletmenin sermaye yatırımları artmaktadır.",
+        "B) İşletme daha fazla uzun vadeli borç almıştır.",
+        "C) İşletme varlıklarını daha likit hâle getirmektedir.",
+        "D) İşletmenin özkaynak kârlılığının azalmaktadır.",
+        "E) İşletmenin stok seviyeleri artmaktadır."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin 2023 ve 2024 yıllarına ait bazı bilanço verileri aşağıdaki tabloda yer almaktadır. İşletmenin 2023 yılı yabancı kaynak oranı (kaldıraç oranı) 0,60 iken, 2024 yılında bu oran bir önceki yıla göre %25 artış göstermiştir. Cari oran ise 2023 yılında 1 olarak gerçekleşmiş, 2024 yılında bir önceki yıla göre %50 oranında artmıştır.\n\n| Kalem | 2023 | 2024 |\n| :--- | :--- | :--- |\n| Dönen Varlıklar | 20.000 ₺ | ? ₺ |\n| Duran Varlıklar | 80.000 ₺ | 70.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar | ? ₺ | ? ₺ |\n| Uzun Vadeli Yabancı Kaynaklar | 40.000 ₺ | ? ₺ |\n| Özkaynaklar | ? ₺ | 25.000 ₺ |\n\nBu veriler ışığında işletmenin 2023 yılı özkaynaklar ve 2024 yılı uzun vadeli yabancı kaynaklar toplamı kaç ₺'dir?",
+      "options": [
+        "A) 65.000",
+        "B) 78.000",
+        "C) 85.000",
+        "D) 90.000",
+        "E) 95.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Pasif toplamı 25.000 ₺ olan bir işletmenin duran varlıklarının toplamı dönen varlıklarının toplamından 4 kat fazla ve sürekli (devamlı) sermaye toplamı 23.000 ₺ ise bu işletmenin cari oranı kaçtır?",
+      "options": [
+        "A) 1,5",
+        "B) 2,0",
+        "C) 2,5",
+        "D) 4,0",
+        "E) 5,0"
+      ],
+      "answer": 2
+    }
   ]
 }

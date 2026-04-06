@@ -354,6 +354,7 @@
         const secilenDers = urlParams.get('ders'); 
         const denemeDersleri = urlParams.get('deneme'); 
         const secilenSinav = urlParams.get('sinav'); // URL'den spesifik sınavı çek
+        const dersID = secilenDers || "genel"; // YENİ: Hafıza çakışmasını önlemek için ders ID'si
         
         let isDenemeMode = !!denemeDersleri || (secilenDers === 'deneme_sinavi'); 
         let denemeCevaplari = []; 
@@ -382,7 +383,6 @@
                     return response.json();
                 })
                 .then(data => {
-                    // AKILLI OTURUM SEÇİM SİSTEMİ
                     if (secilenSinav && data[secilenSinav]) {
                         denemeyiBaslat(secilenSinav, data[secilenSinav]);
                     } 
@@ -461,7 +461,7 @@
                         
                         sorular.forEach(s => {
                             s.kaynakDersAdi = guzelDersAdi;
-                            s.ders = guzelDersAdi; // Rozet için ders adı set edildi
+                            s.ders = guzelDersAdi; 
                         });
 
                         aktifSorular = aktifSorular.concat(sorular);
@@ -479,7 +479,7 @@
             
             document.getElementById('btn-erken-bitir').style.display = 'none'; 
             document.getElementById('btn-bos-gec').style.display = 'inline-block'; 
-            document.getElementById('open-drawer-btn').style.display = 'block'; // YENİ: KLASİK MODDA ÇEKMECE AKTİF
+            document.getElementById('open-drawer-btn').style.display = 'block'; 
 
             fetch(getDosyaYolu(secilenDers)).then(res => res.json()).then(data => {
                 document.getElementById('soru-alani').classList.remove('hidden');
@@ -525,14 +525,15 @@
                 const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
                 let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-folder-open"; let ikonRenk = ""; let ekstraStil = "";
                 
-                let eskiKayit = localStorage.getItem("SMM_Kayit_" + konuAdi); 
-                let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + konuAdi);
-                let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + konuAdi);
+                // YENİ: Akıllı ID mantığı eklendi
+                let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + konuAdi); 
+                let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
+                let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + dersID + "_" + konuAdi);
 
                 if (bitirdiMi === "evet" && kaydedilenSoruSayisi && parseInt(kaydedilenSoruSayisi) !== soruSayisi) {
                     bitirdiMi = null;
-                    localStorage.removeItem("SMM_Bitirdi_" + konuAdi);
-                    localStorage.removeItem("SMM_SoruSayisi_" + konuAdi);
+                    localStorage.removeItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
+                    localStorage.removeItem("SMM_SoruSayisi_" + dersID + "_" + konuAdi);
                 }
 
                 if (eskiKayit) {
@@ -540,8 +541,8 @@
                     kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
                     ikon = "fa-hourglass-half"; ikonRenk = "color:#f97316;";
                     if(bitirdiMi === "evet") {
-                        localStorage.removeItem("SMM_Bitirdi_" + konuAdi);
-                        localStorage.removeItem("SMM_SoruSayisi_" + konuAdi);
+                        localStorage.removeItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
+                        localStorage.removeItem("SMM_SoruSayisi_" + dersID + "_" + konuAdi);
                     }
                 } 
                 else if (bitirdiMi === "evet") {
@@ -579,14 +580,15 @@
                     const soruSayisi = tumKategoriler[alt.tamAd] ? tumKategoriler[alt.tamAd].length : 0;
                     let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-file-alt"; let ikonRenk = ""; let ekstraStil = "";
                     
-                    let eskiKayit = localStorage.getItem("SMM_Kayit_" + alt.tamAd); 
-                    let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + alt.tamAd);
-                    let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + alt.tamAd);
+                    // YENİ: Akıllı ID mantığı eklendi
+                    let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + alt.tamAd); 
+                    let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + dersID + "_" + alt.tamAd);
+                    let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + dersID + "_" + alt.tamAd);
                     
                     if (bitirdiMi === "evet" && kaydedilenSoruSayisi && parseInt(kaydedilenSoruSayisi) !== soruSayisi) {
                         bitirdiMi = null;
-                        localStorage.removeItem("SMM_Bitirdi_" + alt.tamAd);
-                        localStorage.removeItem("SMM_SoruSayisi_" + alt.tamAd);
+                        localStorage.removeItem("SMM_Bitirdi_" + dersID + "_" + alt.tamAd);
+                        localStorage.removeItem("SMM_SoruSayisi_" + dersID + "_" + alt.tamAd);
                     }
 
                     if (eskiKayit) {
@@ -594,8 +596,8 @@
                         kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
                         ikon = "fa-hourglass-half"; ikonRenk = "color:#f97316;";
                         if(bitirdiMi === "evet") {
-                            localStorage.removeItem("SMM_Bitirdi_" + alt.tamAd);
-                            localStorage.removeItem("SMM_SoruSayisi_" + alt.tamAd);
+                            localStorage.removeItem("SMM_Bitirdi_" + dersID + "_" + alt.tamAd);
+                            localStorage.removeItem("SMM_SoruSayisi_" + dersID + "_" + alt.tamAd);
                         }
                     } 
                     else if (bitirdiMi === "evet") {
@@ -618,15 +620,16 @@
             if(tiklananHtmlElementi) { document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active')); tiklananHtmlElementi.classList.add('active'); }
             aktifKategoriAdi = konuAdi; aktifSorular = tumKategoriler[konuAdi]; window.hataliSorular = []; 
             isIncelemeMode = false; 
-            denemeCevaplari = []; // YENİ: Klasik modda da hafıza tazelemek için
+            denemeCevaplari = []; 
 
-            let eskiKayit = localStorage.getItem("SMM_Kayit_" + aktifKategoriAdi);
+            // YENİ: Akıllı ID mantığı eklendi
+            let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi);
             if (eskiKayit) {
                 let veri = JSON.parse(eskiKayit);
                 if (confirm("Bu testte en son " + (veri.index + 1) + ". soruda kaldınız.\n\nKaldığınız yerden devam etmek ister misiniz?")) {
                     mevcutSoruIndex = veri.index; dogruSayisi = veri.dogru; yanlisSayisi = veri.yanlis;
                 } else {
-                    localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
+                    localStorage.removeItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi);
                     mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
                 }
             } else {
@@ -636,7 +639,7 @@
             skorTablosunuGuncelle(); document.getElementById('sonuc-alani').classList.add('hidden'); document.getElementById('soru-alani').classList.remove('hidden');
             let gosterilecekAd = konuAdi.includes('||') ? konuAdi.split('||')[1] : konuAdi; document.getElementById('header-konu-adi').innerText = gosterilecekAd + " Testi Çözülüyor";
             
-            optikPaletOlustur(); // YENİ: Klasik modda da optik paleti oluştur
+            optikPaletOlustur(); 
             soruYukle();
         }
 
@@ -666,7 +669,7 @@
             
             document.getElementById('next-btn').disabled = (isIncelemeMode) ? false : !isDenemeMode;
 
-            guncelleOptikPalet(); // YENİ: Hem simülatör hem klasik modda optiği güncelle
+            guncelleOptikPalet(); 
 
             s.options.forEach((metin, i) => {
                 const btn = document.createElement('button'); btn.className = 'option-btn';
@@ -674,7 +677,6 @@
                 btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
                 let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
                 
-                // YENİ: Klasik modda önceden çözülmüş sorunun durumunu hatırla
                 let cevaplanmis = (!isDenemeMode && denemeCevaplari[mevcutSoruIndex] !== undefined && denemeCevaplari[mevcutSoruIndex] !== null);
 
                 if(isIncelemeMode || cevaplanmis) {
@@ -702,7 +704,6 @@
                 return;
             }
 
-            // KLASİK MOD CEVAPLAMASI
             const tumButonlar = document.querySelectorAll('.option-btn');
             tumButonlar.forEach(b => b.disabled = true);
             const mevcutSoru = aktifSorular[mevcutSoruIndex]; 
@@ -710,8 +711,8 @@
             if (!window.kategoriAnalizi) { window.kategoriAnalizi = {}; }
             if (!window.kategoriAnalizi[aktifKategoriAdi]) { window.kategoriAnalizi[aktifKategoriAdi] = { dogru: 0, yanlis: 0 }; }
 
-            denemeCevaplari[mevcutSoruIndex] = index; // YENİ: Klasik modda da cevabı hafızaya al
-            guncelleOptikPalet(); // YENİ: Optiği anında turuncu yap
+            denemeCevaplari[mevcutSoruIndex] = index; 
+            guncelleOptikPalet(); 
 
             if (index === dogru) {
                 window.kategoriAnalizi[aktifKategoriAdi].dogru++; secilenBtn.classList.add('correct'); dogruSayisi++;
@@ -745,7 +746,8 @@
                 mevcutSoruIndex++; 
                 if(!isDenemeMode && !isIncelemeMode) {
                     const kayitBilgisi = { index: mevcutSoruIndex, dogru: dogruSayisi, yanlis: yanlisSayisi };
-                    localStorage.setItem("SMM_Kayit_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
+                    // YENİ: Akıllı ID mantığı eklendi
+                    localStorage.setItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
                 }
                 soruYukle();
             } else {
@@ -755,7 +757,7 @@
         }
 
         function bosGec() { 
-            denemeCevaplari[mevcutSoruIndex] = null; // Ortak havuz mantığı: her 2 modda null kaydet
+            denemeCevaplari[mevcutSoruIndex] = null; 
             sonrakiSoru(); 
         }
 
@@ -767,12 +769,13 @@
         function denemeyiBitir(erkenBitirmeMi = false) {
             if (!isDenemeMode) {
                 if(erkenBitirmeMi && !confirm("Testi bitirmek istiyor musunuz?")) return;
-                localStorage.removeItem("SMM_Kayit_" + aktifKategoriAdi);
-                localStorage.setItem("SMM_Bitirdi_" + aktifKategoriAdi, "evet");
-                localStorage.setItem("SMM_SoruSayisi_" + aktifKategoriAdi, aktifSorular.length);
+                // YENİ: Akıllı ID mantığı eklendi
+                localStorage.removeItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi);
+                localStorage.setItem("SMM_Bitirdi_" + dersID + "_" + aktifKategoriAdi, "evet");
+                localStorage.setItem("SMM_SoruSayisi_" + dersID + "_" + aktifKategoriAdi, aktifSorular.length);
                 menuyuOlustur();
 
-                bosSayisi = 0; // YENİ: Boş sayısını dinamik hesapla
+                bosSayisi = 0; 
                 aktifSorular.forEach((_, i) => {
                     if(denemeCevaplari[i] === undefined || denemeCevaplari[i] === null) bosSayisi++;
                 });
@@ -872,7 +875,6 @@
             document.getElementById('ai-modal-arka').style.display = 'flex';
         }
         
-        // --- GÜNCELLENEN: SÜRÜKLE BIRAK VE ÇİZİM (KARALAMA) MANTIĞI ---
         const tahta = document.getElementById("karalama-tahtasi"); 
         const baslik = document.getElementById("karalama-header"); 
         const canvas = document.getElementById("karalama-canvas"); 

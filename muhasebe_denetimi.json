@@ -14061,6 +14061,248 @@
       ],
       "answer": 1
     }
+  ],
+  "Deneme Sınavı 01 (Genel Tarama)": [
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdakilerden hangisinde toplulaştırma riski doğru tanımlanmıştır?",
+      "options": [
+        "A) Düzeltilmemiş ve tespit edilmemiş yanlışlıkların toplamının, bir bütün olarak finansal tablolar için belirlenen önemliliği aşma riski",
+        "B) Bir bütün olarak finansal tabloların, hata veya hile kaynaklı önemli bir yanlışlık içerip içermediğine ilişkin makul güvence elde etme riski",
+        "C) Finansal tabloların önemli bir yanlışlık içermesine rağmen, denetçinin duruma uygun olmayan bir denetim görüşü vermesi riski",
+        "D) Denetlenen işletmenin finansal tablolarında önemli hataların bulunması riski",
+        "E) Denetlenen işletmede önemli yanlışlık riski ile tespit edememe riskinin toplulaştırılmış bir fonksiyonu"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdakilerden hangisi denetçinin önemlilik kavramını kullandığı denetim aşamalarından biri değildir?",
+      "options": [
+        "A) Müşteri kabulü ve denetim sözleşmesinin yapılması",
+        "B) Denetimin planlanması ve yürütülmesi",
+        "C) Belirlenen yanlışlıkların denetim üzerindeki etkilerinin değerlendirilmesi",
+        "D) Düzeltilmemiş yanlışlıkların finansal tablolar üzerindeki etkilerinin değerlendirilmesi",
+        "E) Denetçi raporundaki görüşün oluşturulmasında etkisinin değerlendirilmesi"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdakilerden hangisi iç kontrol sisteminin özelliklerinden biri değildir?",
+      "options": [
+        "A) İç kontrol dinamik bir süreçtir.",
+        "B) İç kontrol insanlardan etkilenir.",
+        "C) İç kontrol, işletmenin yönetimine makul güvence verir.",
+        "D) İç kontrol ayrı fakat birbirleriyle örtüşen gruplarda hedeflerin başarılmasıyla ilgilenir.",
+        "E) İç kontrol sistemini oluşturmak işletmedeki muhasebecinin sorumluluğundadır."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Risk Odaklı (3R) denetim yaklaşımına göre risklerin değerlendirilmesi aşaması denetim sürecinin hangi aşamasını ifade etmektedir?",
+      "options": [
+        "A) Kontrol testlerinin yapılması",
+        "B) Maddi doğruluk testlerinin yapılması",
+        "C) Analitik prosedürlerin uygulanması",
+        "D) Denetim raporunun yazılması",
+        "E) Denetimin planlanması"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdakilerden hangisi denetçinin denetlediği finansal tablolarda yer alan Birikmiş Amortismanlar hesabının bakiyesi için kullanması gereken bir denetim prosedürüdür?",
+      "options": [
+        "A) Analitik prosedürler",
+        "B) Yeniden hesaplama",
+        "C) Gözlem",
+        "D) Soruşturma",
+        "E) Fiziki sayım"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "BDS 700 Finansal Tablolara İlişkin Görüş Oluşturma ve Raporlama 'ya göre denetim raporunda yer alan \"denetçi görüşü\" bölümünde aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "A) Finansal tabloları denetlenmiş olan işletme",
+        "B) Finansal tabloların denetlenmiş olduğu",
+        "C) Finansal tabloları oluşturan her bir tablonun başlığı",
+        "D) Finansal tabloların geçerli finansal raporlama çerçevesine uygun olarak hazırlanmasından yönetimin sorumlu olduğu",
+        "E) Finansal tabloları oluşturan her bir finansal tablonun tarihi veya dönemi"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "BDS 300 Finansal Tabloların Bağımsız Denetiminin Planlanması'na göre denetçi tarafından hazırlanan denetim planında aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "A) Denetim raporunda yer alan görüş türünün niteliği, zamanlaması ve kapsamı",
+        "B) Denetim ekibi üyeleri tarafından uygulanacak denetim prosedürlerinin niteliği, zamanlaması ve kapsamı",
+        "C) Planlanan risk değerlendirme prosedürlerinin niteliği, zamanlaması ve kapsamı",
+        "D) Risk değerlendirmesi sonrası uygulanan denetim prosedürlerinin niteliği, zamanlaması ve kapsamı",
+        "E) Denetimin BDS'lere uygunluğunun sağlanması amacıyla uygulanması gereken planlanmış diğer denetim prosedürleri"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıda yer alan denetim prosedürlerinden hangisi yönetim beyanı düzeyinde önemli bir yanlışlığın olmadığına veya kontrollerin işleyiş etkinliğine ilişkin tek başına yeterli denetim kanıtı sağlamaz?",
+      "options": [
+        "A) Tetkik",
+        "B) Gözlem",
+        "C) Sorgulama",
+        "D) Dış teyit",
+        "E) Yeniden hesaplama"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "BDS 701 Kilit Denetim Konularının Bağımsız Denetçi Raporunda Bildirilmesi'ne göre aşağıdakilerden hangisi bağımsız denetçinin sorumlulukları arasında sayılmamıştır?",
+      "options": [
+        "A) Denetçinin olumlu görüş bildirdiği denetçi raporunda kilit denetim konusu bildirilmesi sorumluluğu yoktur.",
+        "B) BDS 315 uyarınca \"önemli yanlışlık\" riski daha yüksek olarak değerlendirilen veya ciddi riskli olarak belirlenen alanlar, denetçi raporunda kilit denetim konusu olarak bildirilir.",
+        "C) Denetçi, belirlediği ciddi riskler hakkında denetçi raporundaki kilit denetim konuları hakkında üst yönetimden sorumlu olanlarla iletişim hâlinde bulunur.",
+        "D) Yönetimin önemli yargılarda bulunduğu alanlar ve önemli olağan dışı işlemler, genellikle ciddi risk olarak belirlenip, denetçi raporunda kilit denetim konusu olarak belirtilir.",
+        "E) Mevzuatın konunun kamuya açıklanmasına izin vermediği durumlarda konunun kilit denetim konusu olarak denetçi tarafından bildirilme sorumluluğu yoktur."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Detay testleri açısından örneklem büyüklüğünü etkileyen faktör ile faktörün örneklem büyüklüğü üzerindeki etkisi aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
+      "options": [
+        "A) Denetçinin risk değerlendirmesi sonucunda belirlediği \"önemli yanlışlık\" riski düzeyi artarsa, örneklem büyüklüğü azalır.",
+        "B) Anakitledeki fiili yanlışlığın kabul edilebilir yanlışlığı aşmadığına ilişkin denetçinin istediği güvence seviyesi artarsa, örneklem büyüklüğü azalır.",
+        "C) Kabul edilebilir yanlışlık tutarı artarsa, örneklem büyüklüğü artar.",
+        "D) Denetçinin anakitlede beklediği yanlışlık tutarı artarsa, örneklem büyüklüğü artar.",
+        "E) Kabul edilebilir yanlışlık tutarı azalırsa, örneklem büyüklüğü azalır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "I. Yanlışlıkların tek başına veya toplu olarak önemli olduğu ancak finansal tablolarda yaygın olmadığı sonucuna varılması\nII. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli ve yaygın olabileceği sonucuna varılması\nIII. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği ancak yaygın olmayabileceği sonucuna varılması\nYukarıda yer alan ifadelerden hangileri denetçinin sınırlı olumlu görüş verme nedenlerindendir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) I ve III",
+        "D) II ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "BDS 530 Bağımsız Denetimde Örnekleme standardına göre detay testlerinin uygulanması sırasında örneklem seçiminde, denetim çalışmasının daha yüksek tutarlı kalemlere yoğunlaşmasını sağlamak amacıyla değer ağırlıklı bir seçim yöntemi kullanan bağımsız denetçi, aşağıdaki hangi örneklem seçme yöntemini tercih etmiş olur?",
+      "options": [
+        "A) Rastgele seçim",
+        "B) Blok seçim",
+        "C) Gelişigüzel seçim",
+        "D) Parasal birim örneklemesi",
+        "E) Gruplandırma"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdakilerden hangisi bağımsız denetçi tarafından düzenlenen denetim raporunun temel bölümlerinden biri değildir?",
+      "options": [
+        "A) Görüş bölümü",
+        "B) Finansal tabloların özeti",
+        "C) Denetim kapsamı hakkında açıklama",
+        "D) Görüşün dayanakları",
+        "E) Denetçinin sorumluluğuna ilişkin açıklama"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Bağımsız denetçinin raporuna Kilit Denetim Konuları bölümü ile Diğer Bilgiler bölümünü dâhil etmesine izin verilmeyen görüş türü aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Sınırlı olumlu",
+        "B) Görüş vermekten kaçınma",
+        "C) Olumsuz",
+        "D) Olumlu",
+        "E) Şartlı olumlu"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdakilerden hangisi bağımsız denetçinin denetim sırasında kullandığı kanıt toplama prosedürlerinden biri değildir?",
+      "options": [
+        "A) Gözlem",
+        "B) Dış teyit",
+        "C) Analitik prosedürler",
+        "D) Önceki denetçi ile görüşme",
+        "E) Yeniden hesaplama"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdakilerden hangisi Genel Kabul Görmüş Denetim Standartları arasında yer alan \"Genel Standartlar\" kapsamında değildir?",
+      "options": [
+        "A) Mesleki özen",
+        "B) Bağımsızlık",
+        "C) Mesleki eğitim",
+        "D) Planlama ve gözetim",
+        "E) Mesleki yeterlilik"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "I. Hile yapmaya yönelik teşvik veya baskı\nII. Hile yapmak için algılanan bir fırsat\nIII. Eylemin bir ölçüde rasyonelleştirilmesi\nYukarıdakilerden hangileri BDS 240 Finansal Tabloların Bağımsız Denetiminde Bağımsız Denetçinin Hileye İlişkin Sorumlulukları standardına göre hilenin ayırt edici özelliklerindendir?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve II",
+        "C) I ve III",
+        "D) II ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdaki unsurlardan hangisi denetim sürecinin müşteri kabul aşamasında hazırlanan sözleşmede bulunması gereken asgari hususlardan biri değildir?",
+      "options": [
+        "A) Denetimin konusu",
+        "B) Denetim ücreti",
+        "C) Mesleki sorumluluk sigortası yapılacağına ilişkin hüküm",
+        "D) Önemlilik seviyesinin hangi kriterlere göre belirleneceğine ilişkin hüküm",
+        "E) Denetimin başlangıç ve bitiş tarihleri ile raporun teslim tarihi"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "BDS 500 Bağımsız Denetim Kanıtları standardına göre aşağıdakilerden hangisi dış bilgi kaynaklarından elde edilebilen bilgilere ilişkin örneklerden biri olmaz?",
+      "options": [
+        "A) Fiyatlar ve fiyatlandırmayla ilgili veriler",
+        "B) Tarihî ve tahminî işsizlik oranları",
+        "C) İç kontrol sistemine ilişkin bilgiler",
+        "D) Ekonomik büyüme oranları",
+        "E) Kredi geçmişine ilişkin veriler"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Muhasebe Denetimi",
+      "q": "Aşağıdakilerden hangisi denetçinin Alacaklar grubuna ait kontrol (uygunluk) testleri kapsamında yapılan bir işlem değildir?",
+      "options": [
+        "A) İşletmenin sattığı malların kredisi olan, uygun ve gerçek müşterilere yapılıp yapılmadığı incelenmelidir.",
+        "B) Satışlar toplamının aritmetik doğruluğu araştırılmalıdır.",
+        "C) Gönderilen mallar için uygun faturalamanın yapılıp yapılmadığı ve tutarların alacak olarak muhasebe kayıtlarına geçirilip geçirilmediği incelenmelidir.",
+        "D) Müşterilere çıkartılan faturaların gönderilen mallarla uyumlu olup olmadığı incelenmelidir.",
+        "E) Satılan malların gönderilip gönderilmediği incelenmelidir."
+      ],
+      "answer": 1
+    }
   ]
 }
 
