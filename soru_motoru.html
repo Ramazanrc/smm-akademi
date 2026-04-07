@@ -354,7 +354,7 @@
         const secilenDers = urlParams.get('ders'); 
         const denemeDersleri = urlParams.get('deneme'); 
         const secilenSinav = urlParams.get('sinav'); // URL'den spesifik sınavı çek
-        const dersID = secilenDers || "genel"; // YENİ: Hafıza çakışmasını önlemek için ders ID'si
+        const dersID = secilenDers || "genel"; // Hafıza çakışmasını önlemek için ders ID'si
         
         let isDenemeMode = !!denemeDersleri || (secilenDers === 'deneme_sinavi'); 
         let denemeCevaplari = []; 
@@ -507,25 +507,31 @@
             listeDiv.innerHTML = ''; 
             let gruplar = {}; 
             let normalKonular = [];
+            let denemeKonular = []; // YENİ: Denemeleri en sona almak için özel dizi
 
             Object.keys(tumKategoriler).forEach((konuAdi) => { 
                 if (konuAdi.includes('||')) { 
                     let parcalar = konuAdi.split('||'); 
                     if (!gruplar[parcalar[0]]) gruplar[parcalar[0]] = []; 
                     gruplar[parcalar[0]].push({ tamAd: konuAdi, altBaslik: parcalar[1] }); 
+                } else if (konuAdi.toLowerCase().includes('deneme') || konuAdi.toLowerCase().includes('tarama')) {
+                    denemeKonular.push(konuAdi);
                 } else { 
                     normalKonular.push(konuAdi); 
                 } 
             });
 
-            normalKonular.forEach((konuAdi, index) => { 
+            let isFirst = true;
+
+            // 1. Normal Konuları Bas
+            normalKonular.forEach((konuAdi) => { 
                 const btn = document.createElement('div'); 
-                btn.className = 'nav-item ' + (index === 0 ? 'active' : ''); 
+                btn.className = 'nav-item ' + (isFirst ? 'active' : ''); 
+                isFirst = false;
                 
                 const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
                 let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-folder-open"; let ikonRenk = ""; let ekstraStil = "";
                 
-                // YENİ: Akıllı ID mantığı eklendi
                 let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + konuAdi); 
                 let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
                 let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + dersID + "_" + konuAdi);
@@ -557,7 +563,8 @@
                 listeDiv.appendChild(btn); 
             });
 
-            Object.keys(gruplar).forEach((anaBaslik, index) => {
+            // 2. Klasörlü Grupları Bas
+            Object.keys(gruplar).forEach((anaBaslik) => {
                 const grupBtn = document.createElement('div'); 
                 grupBtn.className = 'nav-item'; 
                 grupBtn.style.backgroundColor = '#1e293b'; 
@@ -566,21 +573,21 @@
                 grupBtn.innerHTML = `<i class="fas fa-balance-scale"></i> <span style="flex:1;">${anaBaslik}</span> <i class="fas fa-chevron-down" style="font-size:10px;"></i>`;
                 
                 const altKonuKutusu = document.createElement('div'); 
-                altKonuKutusu.style.display = index === 0 ? 'block' : 'none'; 
+                altKonuKutusu.style.display = isFirst ? 'block' : 'none'; 
                 altKonuKutusu.style.paddingLeft = '5px'; altKonuKutusu.style.borderLeft = '2px solid #f97316'; altKonuKutusu.style.marginLeft = '15px'; altKonuKutusu.style.marginBottom = '10px';
                 
                 grupBtn.onclick = () => { altKonuKutusu.style.display = altKonuKutusu.style.display === 'none' ? 'block' : 'none'; }; 
                 listeDiv.appendChild(grupBtn);
                 
-                gruplar[anaBaslik].forEach((alt, altIndex) => { 
+                gruplar[anaBaslik].forEach((alt) => { 
                     const btn = document.createElement('div'); 
-                    btn.className = 'nav-item ' + (index === 0 && altIndex === 0 ? 'active' : ''); 
+                    btn.className = 'nav-item ' + (isFirst ? 'active' : ''); 
+                    isFirst = false;
                     btn.style.fontSize = '12px'; btn.style.padding = '8px 10px';
                     
                     const soruSayisi = tumKategoriler[alt.tamAd] ? tumKategoriler[alt.tamAd].length : 0;
                     let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-file-alt"; let ikonRenk = ""; let ekstraStil = "";
                     
-                    // YENİ: Akıllı ID mantığı eklendi
                     let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + alt.tamAd); 
                     let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + dersID + "_" + alt.tamAd);
                     let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + dersID + "_" + alt.tamAd);
@@ -613,6 +620,52 @@
                 }); 
                 listeDiv.appendChild(altKonuKutusu);
             });
+
+            // 3. Denemeleri Bas (En Alta ve Şık Bir Vurguyla)
+            denemeKonular.forEach((konuAdi) => { 
+                const btn = document.createElement('div'); 
+                btn.className = 'nav-item ' + (isFirst ? 'active' : ''); 
+                isFirst = false;
+                
+                const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
+                let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-star"; let ikonRenk = "color:#f97316;"; 
+                
+                let ekstraStil = "border: 1px solid rgba(249, 115, 22, 0.4); margin-top: 15px; background: rgba(249, 115, 22, 0.05); box-shadow: 0 4px 6px rgba(0,0,0,0.1);";
+                
+                let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + konuAdi); 
+                let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
+                let kaydedilenSoruSayisi = localStorage.getItem("SMM_SoruSayisi_" + dersID + "_" + konuAdi);
+
+                if (bitirdiMi === "evet" && kaydedilenSoruSayisi && parseInt(kaydedilenSoruSayisi) !== soruSayisi) {
+                    bitirdiMi = null;
+                    localStorage.removeItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
+                    localStorage.removeItem("SMM_SoruSayisi_" + dersID + "_" + konuAdi);
+                }
+
+                if (eskiKayit) {
+                    let veri = JSON.parse(eskiKayit);
+                    kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
+                    ikon = "fa-hourglass-half"; 
+                    if(bitirdiMi === "evet") {
+                        localStorage.removeItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
+                        localStorage.removeItem("SMM_SoruSayisi_" + dersID + "_" + konuAdi);
+                    }
+                } 
+                else if (bitirdiMi === "evet") {
+                    bitisRozeti = `<span style="font-size:10px; background:#22c55e; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">✅ Bitti</span>`;
+                    ikon = "fa-check-circle"; ikonRenk = "color:#22c55e;"; ekstraStil += " border-left: 4px solid #22c55e;";
+                }
+
+                btn.setAttribute('data-kategori', konuAdi); 
+                btn.innerHTML = `<i class="fas ${ikon}" style="${ikonRenk}"></i> <span style="flex:1; font-weight: 700; color: #f97316;">${konuAdi}</span> ${kayitRozeti} ${bitisRozeti} <span style="font-size:10px; background:#f97316; padding:2px 6px; border-radius:10px; color:white;">${soruSayisi} Soru</span>`; 
+                btn.style.cssText += ekstraStil;
+                
+                btn.onmouseover = function() { this.style.background = '#1e293b'; this.style.color = 'white'; };
+                btn.onmouseout = function() { if(!this.classList.contains('active')) this.style.background = 'rgba(249, 115, 22, 0.05)'; };
+
+                btn.onclick = (e) => kategoriSec(konuAdi, e.currentTarget); 
+                listeDiv.appendChild(btn); 
+            });
         }
 
         function kategoriSec(konuAdi, tiklananHtmlElementi) {
@@ -622,7 +675,6 @@
             isIncelemeMode = false; 
             denemeCevaplari = []; 
 
-            // YENİ: Akıllı ID mantığı eklendi
             let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi);
             if (eskiKayit) {
                 let veri = JSON.parse(eskiKayit);
@@ -746,7 +798,6 @@
                 mevcutSoruIndex++; 
                 if(!isDenemeMode && !isIncelemeMode) {
                     const kayitBilgisi = { index: mevcutSoruIndex, dogru: dogruSayisi, yanlis: yanlisSayisi };
-                    // YENİ: Akıllı ID mantığı eklendi
                     localStorage.setItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
                 }
                 soruYukle();
@@ -769,7 +820,6 @@
         function denemeyiBitir(erkenBitirmeMi = false) {
             if (!isDenemeMode) {
                 if(erkenBitirmeMi && !confirm("Testi bitirmek istiyor musunuz?")) return;
-                // YENİ: Akıllı ID mantığı eklendi
                 localStorage.removeItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi);
                 localStorage.setItem("SMM_Bitirdi_" + dersID + "_" + aktifKategoriAdi, "evet");
                 localStorage.setItem("SMM_SoruSayisi_" + dersID + "_" + aktifKategoriAdi, aktifSorular.length);

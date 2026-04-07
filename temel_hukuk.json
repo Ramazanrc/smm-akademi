@@ -7745,5 +7745,247 @@
       ],
       "answer": 0
     }
+  ],
+  "Deneme Sınavı 01 (Genel Tarama)": [
+    {
+      "ders": "Temel Hukuk",
+      "q": "6098 sayılı Türk Borçlar Kanunu'na göre, \"ısmarlanmamış bir şeyin gönderilmesi\"nin hukuki sonuçları ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Ismarlanmamış bir şeyin gönderilmesi öneri sayılmaz; bu şeyi alan kişi, onu geri göndermek veya saklamakla yükümlü değildir.",
+        "B) Ismarlanmamış bir şeyin gönderilmesi öneri sayılmaz; ancak, bu şeyi alan kişi, onu geri göndermekle yükümlüdür.",
+        "C) Ismarlanmamış bir şeyin gönderilmesi öneri sayılmaz; ancak, bu şeyi alan kişi, onu saklamakla yükümlüdür.",
+        "D) Ismarlanmamış bir şeyin gönderilmesi öneri sayılır; bu şeyi alan kişi, onu saklamakla yükümlüdür.",
+        "E) Ismarlanmamış bir şeyin gönderilmesi kabul sayılır; sözleşme kurulmuş olur."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "I. Genel işlem koşulları, bir sözleşme yapılırken düzenleyenin, ileride çok sayıdaki benzer sözleşmede kullanmak amacıyla, önceden, tek başına hazırlayarak karşı tarafa sunduğu sözleşme hükümleridir.<br>II. Sözleşme ekinde yer alan koşullar genel işlem şartı olarak nitelendirilemez.<br>III. Aynı amaçla düzenlenen sözleşmelerin metinlerinin özdeş olmaması, bu sözleşmelerin içerdiği hükümlerin, genel işlem koşulu sayılmasını engellemez.<br>IV. Ticaret şirketleri, tacirlerin basiretli olma yükümlülükleri sebebiyle, Türk Borçlar Kanunu'nun genel işlem koşullarına karşı korumasından hiçbir zaman yararlanamaz.<br><br>6098 sayılı Türk Borçlar Kanunu'na göre, yukarıdaki önermelerden hangileri doğrudur?",
+      "options": [
+        "A) I ve II",
+        "B) I ve III",
+        "C) I, II ve IV",
+        "D) I, III ve IV",
+        "E) I, II ve III"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "6098 sayılı Türk Borçlar Kanunu'na göre haksız fiilden doğan sorumlulukla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür.",
+        "B) Zarar verici fiili yasaklayan bir hukuk kuralı bulunmasa bile, ahlaka aykırı bir fiille başkasına kasten zarar veren, bu zararı gidermekle yükümlüdür.",
+        "C) Zarar gören, zararını ve zarar verenin kusurunu ispat yükü altındadır.",
+        "D) Hakim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve özellikle kusurun ağırlığını göz önüne alarak belirler.",
+        "E) Zarara ağır veya hafif kusuruyla sebep olan tazminat yükümlüsü, tazminatı ödediğinde yoksulluğa düşecek olur ve hakkaniyet de gerektirirse hâkim, tazminatı indirebilir ve hatta kaldırabilir."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "I. Borçlanmadığı edimi kendi isteğiyle yerine getiren kimse, bunu ancak, kendisini borçlu sanarak yerine getirdiğini ispat ederse geri isteyebilir.<br>II. Zenginleşme, zenginleşenin bir alacak hakkı kazanması suretiyle gerçekleşmişse diğer taraf, ancak istem hakkı zamanaşımına uğramamışsa bu borcunu ifadan kaçınabilir.<br>III. Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey geri istenemez.<br>IV. Ahlaki bir ödevin yerine getirilmiş olmasından kaynaklanan zenginleşmeler geri istenemez.<br>V. Zamanaşımına uğramış bir borcun ifasından kaynaklanan zenginleşmeler geri istenebilir.<br><br>6098 sayılı Türk Borçlar Kanunu'na göre sebepsiz zenginleşme ile ilgili yukarıdakilerden hangileri doğrudur?",
+      "options": [
+        "A) I ve II",
+        "B) I, II ve V",
+        "C) I, III ve IV",
+        "D) II, III ve IV",
+        "E) III, IV ve V"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "6098 sayılı Türk Borçlar Kanunu'na göre, aşağıdakilerden hangisi zamanaşımının işlemeye başlamayacağı, eğer başlamışsa da duracağı hâller arasında yer almaz?",
+      "options": [
+        "A) Borçlu, alacak üzerinde intifa hakkına sahip olduğu sürece zamanaşımı işlemeye başlamaz; başlamışsa durur.",
+        "B) Velayet süresince, çocukların ana ve babalarından olan alacakları için zamanaşımı işlemeye başlamaz; başlamışsa durur.",
+        "C) Borçlu bir kez kısmen ifada bulunmuşsa zamanaşımı işlemeye başlamaz; başlamışsa durur.",
+        "D) Evlilik devam ettiği sürece, eşlerin diğerinden olan alacakları için zamanaşımı işlemeye başlamaz; başlamışsa durur.",
+        "E) Vesayet süresince, vesayet altında bulunanların vasiden veya vesayet işlemleri sebebiyle Devlet'ten olan alacakları için zamanaşımı işlemeye başlamaz; başlamışsa durur."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "6102 sayılı Türk Ticaret Kanunu'nun \"Ticari İşletme\" başlıklı birinci kitabına göre, aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Ticari örf ve âdet, tacir sıfatını haiz bulunmayanlar hakkında ancak onlar tarafından bilindiği veya bilinmesi gerektiği takdirde uygulanabilir.",
+        "B) Ticari nitelikte olan çekişmesiz yargı işlerinde görevli mahkeme sulh hukuk mahkemeleridir.",
+        "C) Ticari işletme, içerdiği malvarlığı unsurlarının devri için zorunlu tasarruf işlemlerinin ayrı ayrı yapılmasına gerek olmaksızın bir bütün hâlinde devredilebilir.",
+        "D) İki veya daha fazla kişi, içlerinden yalnız biri veya hepsi için ticari niteliği haiz bir iş dolayısıyla, diğer bir kimseye karşı birlikte borç altına girerse, kanunda veya sözleşmede aksi öngörülmediyse müteselsilen sorumlu olurlar.",
+        "E) Tacir, her türlü borcu için iflasa tabidir."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "I. Tacirlerin adi borçlarından dolayı iflas yoluyla takip edilmesi mümkün değildir.<br>II. Tacirler kanun hükümlerine uygun bir ticaret unvanı seçmek ve kullanmakla yükümlüdür.<br>III. Gerçek kişi tacirlerin yevmiye defteri, envanter defteri ve defteri kebir tutmaları tercihlerine bağlıdır.<br>IV. Ticari işletmesi ile ilgili bir iş görmüş tacir, sözleşmede açıkça kararlaştırılmamışsa ücret isteyemez.<br>V. Tacir, verdiği avanslar ve yaptığı giderler için ödeme tarihinden itibaren faize hak kazanır.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre, tacir olmanın sonuçlarına ilişkin olarak yukarıda verilen önermelerin hangileri doğrudur?",
+      "options": [
+        "A) I ve II",
+        "B) I ve V",
+        "C) II ve V",
+        "D) III ve IV",
+        "E) IV ve V"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "Tacir (A); yaptığı reklamlarda kendisi, ticari işletmesi, işletme işaretleri, malları, iş ürünleri, faaliyetleri, fiyatları, stokları, satış kampanyalarının biçimi ve iş ilişkileri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunmaktadır. Tacir (A), hukuka aykırı bu fiilinde kusurludur. Tacir (A)'nın reklamlarından tüketiciler etkilenmekte ve zarar görmektedirler. Ayrıca müşteri kaybına uğrayan rakip tacir (B) de söz konusu reklamlar nedeniyle büyük ciro kaybına uğramıştır.<br><br>6102 sayılı Türk Ticaret Kanunu'na ve yukarıda yer verilen bilgilere göre, aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Tüketici (C), tacir (A) aleyhine haksız rekabet nedeniyle uğradığı manevi zarar için manevi tazminat davası açabilir.",
+        "B) Tüketici derneği (D), tüketicilerin uğradığı maddi zarar için maddi tazminat davası açabilir.",
+        "C) Tüketici (C), tacir (A) aleyhine açacağı dava ile haksız rekabetin men'ini talep edebilir.",
+        "D) Tüketici derneği (D), haksız rekabet teşkil eden yanlış veya yanıltıcı beyanların düzeltilmesini talep edebilir.",
+        "E) Müşteri kaybına uğrayan rakip tacir (B), uğradığı maddi zarar için maddi tazminat davası açabilir."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "6102 sayılı Türk Ticaret Kanunu'na göre aşağıdakilerden hangisi anonim şirket yönetim kurulunun görev ve yetkisinde değildir?",
+      "options": [
+        "A) Şirketin yönetim teşkilatının belirlenmesi",
+        "B) Şirketin borca batık hâle gelmesi hâlinde durumun mahkemeye bildirilmesi",
+        "C) Yıllık faaliyet raporunun düzenlenmesi",
+        "D) Şirketin işletme konusunun değiştirilmesine ilişkin karar alınması",
+        "E) Genel kurul toplantı ve müzakere defterlerinin tutulması"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "6102 sayılı Türk Ticaret Kanunu'na göre, ticari örf ve âdetin uygulanması hakkında aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Bir bölgeye özgü ticari örf ve âdetler genel olanlara üstün tutulur.",
+        "B) Ticari örf ve âdet, tarafları tacir olan bir ticari uyuşmazlıkta, yalnızca tamamlayıcı genel hükümlerde düzenleme bulunmadığı hallerde uygulanır.",
+        "C) Ticari örf ve âdet, tacir sıfatını haiz bulunmayanlar hakkında ancak onlar tarafından bilindiği veya bilinmesi gerektiği takdirde uygulanır.",
+        "D) Bir ticaret dalına özgü ticari örf ve âdetler, genel olanlara üstün tutulur.",
+        "E) Özel ticari örf ve âdetin uygulanacağı bir uyuşmazlıkta, ilgililer aynı bölgede değillerse kanunda veya sözleşmede aksi öngörülmedikçe ifa yerindeki ticari örf ve âdet uygulanır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "I. Bir ailenin üyeleri ve 3 üncü dereceye kadar (3 üncü derece dahil) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde<br>II. Çağrı üzerine çalışma sözleşmesiyle istihdam edilenler hakkında<br>III. Havacılığın bütün yer tesislerinde yürütülen işlerde<br>IV. Profesyonel sporcular hakkında<br>V. Rehabilite edilenler hakkında<br><br>Yukarıda belirtilenlerden hangisi/hangileri açısından 4857 sayılı İş Kanunu hükümleri uygulanmaz?",
+      "options": [
+        "A) Yalnız I",
+        "B) II ve III",
+        "C) I, III ve V",
+        "D) I, IV ve V",
+        "E) III, IV ve V"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "I. İş ilişkisinin bir süreye bağlı olarak yapılmadığı hâlde sözleşme belirsiz süreli sayılır.<br>II. Belirli süreli işlerde veya belli bir işin tamamlanması ya da belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak işveren ile işçi arasında yazılı şekilde yapılan iş sözleşmesi belirli süreli iş sözleşmesidir.<br>III. Belirli süreli iş sözleşmesi, objektif (esaslı) bir neden olsa bile, birden fazla üst üste (zincirleme) yapılamaz.<br>IV. Belirli süreli iş sözleşmesi ile çalıştırılan işçi, ayırımı haklı kılan bir neden olsa bile, salt iş sözleşmesinin süreli olmasından dolayı belirsiz süreli iş sözleşmesiyle çalıştırılan emsal işçiye göre farklı işleme tâbi tutulamaz.<br>V. Belirli süreli iş sözleşmesi ile çalışan işçiye, belirli bir zaman ölçüt alınarak ödenecek ücret ve paraya ilişkin bölünebilir menfaatler, işçinin çalıştığı süreye orantılı olarak verilir.<br><br>4857 sayılı İş Kanunu'na göre belirli süreli iş sözleşmeleri ile ilgili yukarıdakilerden hangileri doğrudur?",
+      "options": [
+        "A) III ve IV",
+        "B) I, II ve III",
+        "C) I, II ve V",
+        "D) I, III ve V",
+        "E) II, III ve IV"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "I. Haftalık 45 saati aşan çalışmalar fazla çalışma sayılır.<br>II. Fazla çalışma için işçinin onayı gerekmez.<br>III. Zorunlu nedenlerle ve olağanüstü hâllerde fazla çalışma hariç, yer altında maden işlerinde çalışan işçilere fazla çalışma yaptırılamaz.<br>IV. Her bir saat fazla çalışma için verilecek ücret, normal çalışma ücretinin saat başına düşen miktarının %50 yükseltilmesi suretiyle ödenir.<br>V. Fazla çalışma yapan işçiye, zamlı ücret ödenmesi ya da serbest zaman kullandırılması konusundaki takdir hakkı işverene aittir.<br><br>4857 sayılı İş Kanunu'nun fazla çalışmaya ilişkin hükümlerine göre yukarıdakilerden hangileri doğrudur?",
+      "options": [
+        "A) II ve V",
+        "B) I, II ve III",
+        "C) I, III ve IV",
+        "D) II, III ve IV",
+        "E) III, IV ve V"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "4857 sayılı İş Kanunu'na göre, aşağıdakilerden hangisi yıllık ücretli izin hakkından yararlanamaz?",
+      "options": [
+        "A) Takım sözleşmesiyle oluşturulan iş sözleşmesi kapsamında aynı inşaat şantiyesinde bir buçuk yıldır çalışmakta olan işçi.",
+        "B) Özel istihdam bürosu tarafından farklı geçici işverenler yanında aralıksız olarak toplamda bir buçuk yıldır çalıştırılmakta olan geçici işçi.",
+        "C) Haftanın sadece iki günü ve günde 4 saat olmak üzere bir yıldır aynı işveren yanında kısmi süreli iş sözleşmesiyle çalışan işçi.",
+        "D) Objektif nedene dayanan iki yıllık belirli süreli iş sözleşmesinin ilk yılını doldurmuş olan işçi.",
+        "E) Aynı otelde her mevsim altı ay olmak üzere üç yıldır çalışmakta olan işçi."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "I. Türkiye İş Kurumu tarafından düzenlenen Toplum Yararına Çalışma Programlarından yararlananlar<br>II. Köy ve mahalle muhtarları<br>III. İşçi sendikaları ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına seçilenler<br>IV. Milli Eğitim Bakanlığı tarafından düzenlenen kurslarda usta öğretici olarak çalıştırılanlar<br>V. Askerlik hizmetlerini er ve erbaş olarak yapmakta olanlar<br><br>5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'nun 4/1(a) bendi, \"hizmet akdiyle bir veya birden fazla işveren tarafından çalıştırılanlar\"ı kapsar. Bu bent kapsamında sigortalı sayılanlara ilişkin hükümler yukarıdakilerden hangileri hakkında da uygulanır?",
+      "options": [
+        "A) I ve III",
+        "B) II, IV ve V",
+        "C) I, II ve III",
+        "D) I, III ve IV",
+        "E) II, III ve V"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren ne kadar sürede yargılamanın yenilenmesi yoluna gidilebilir?",
+      "options": [
+        "A) 60 gün",
+        "B) 3 ay",
+        "C) 6 ay",
+        "D) 1 yıl",
+        "E) 10 yıl"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "Çorum'da 09.09.2025 tarihinde Belediyenin alt yapı çalışmaları sırasında gerekli güvenlik önlemlerinin alınmaması nedeniyle açtığı çukura düşerek bacağı kırılan kişinin eşi Aslı dava açacaktır.<br><br>Buna göre, 2577 sayılı İdari Yargılama Usulü Kanunu'na göre bu olaydan doğan uyuşmazlıkta açılacak dava türü ve görevli yargı yeri aşağıdakilerden hangisidir?",
+      "options": [
+        "A) İptal davası - Danıştay",
+        "B) Tam yargı davası - İdare Mahkemesi",
+        "C) Tam yargı davası - Vergi Mahkemesi",
+        "D) Tazminat davası - Asliye Hukuk Mahkemesi",
+        "E) İptal davası - Bölge İdare Mahkemesi"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümlülükleri tarh ve tahakkuk ettiren; zam ve cezaları kesen işlemlerdeki uyuşmazlıklarda yetkili mahkeme aşağıdakilerden hangisidir?",
+      "options": [
+        "A) İşlemi yapan dairenin bulunduğu yerdeki İdare Mahkemesi",
+        "B) İşlemi yapan dairenin bulunduğu yerdeki Vergi Mahkemesi",
+        "C) İşlemi yapan dairenin bulunduğu yerdeki Bölge İdare Mahkemesi",
+        "D) İşlemi yapan dairenin bulunduğu yerdeki Danıştay",
+        "E) İşlemi yapan dairenin bulunduğu yerdeki Asliye Hukuk Mahkemesi"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre görevsizlik veya yetkisizlik sebebiyle dosyanın gönderildiği mahkeme kendisini görevsiz veya yetkisiz gördüğü takdirde, söz konusu mahkeme ile ilk görevsizlik veya yetki sizlik kararını veren mahkeme farklı bölge idare mahkemesinin yargı çevresinde ise uyuşmazlık aşağıdakilerden hangisi tarafından çözümlenir?",
+      "options": [
+        "A) Danıştay",
+        "B) Bölge idare mahkemesi başkanlar kurulu",
+        "C) İdare mahkemesi",
+        "D) Uyuşmazlık Mahkemesi",
+        "E) Adalet Bakanlığı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Temel Hukuk",
+      "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre, idare ve vergi mahkemelerinin kararlarına karşı, mahkemenin bulunduğu yargı çevresindeki bölge idare mahkemesine, kararın tebliğinden itibaren kaç gün içinde istinaf yoluna başvurulabilir?",
+      "options": [
+        "A) Üç gün",
+        "B) Yedi gün",
+        "C) On gün",
+        "D) Onbeş gün",
+        "E) Otuz gün"
+      ],
+      "answer": 4
+    }
   ]
 }
