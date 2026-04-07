@@ -3784,5 +3784,247 @@
       ],
       "answer": 3
     }
+  ],
+  "Deneme Sınavı 02 (Genel Tarama)": [
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdaki hesaplardan hangisi dönem sonunda 690 Dönem Kârı veya Zararı hesabına devredilmez?",
+      "options": [
+        "A) Kambiyo Kârları",
+        "B) Komisyon Gelirleri",
+        "C) Bağlı Ortaklıklardan Temettü Gelirleri",
+        "D) Geçmiş Yıllar Kârları",
+        "E) Menkul Kıymet Satış Kârları"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, adedini 100 ₺'den satın aldığı hisse senetlerinin 1.000 adedini 150 ₺'den banka aracılığıyla satmıştır. Satış tutarı üzerinden %2 komisyon kesildikten sonra kalan tutar işletmenin banka hesabına yatırılmıştır.\n\nBu işleme ilişkin yapılan muhasebe kaydında aşağıdaki hesaplardan hangisinin kullanımı doğrudur?",
+      "options": [
+        "A) Faiz Gelirleri hesabı 50.000 ₺ alacaklı",
+        "B) Menkul Kıymet Satış Zararları hesabı 50.000 ₺ borçlu",
+        "C) Finansman Giderleri hesabı 50.000 ₺ borçlu",
+        "D) Menkul Kıymet Satış Kârları hesabı 47.000 ₺ alacaklı",
+        "E) Komisyon Giderleri hesabı 3.000 ₺ borçlu"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, 01.03.2025 tarihinde L Anonim Şirketi tarafından ihraç edilen 500 ₺ nominal değerli 100 adet tahvili 01.04.2025 tarihinde bankadan 52.000 ₺ ödeyerek satın almıştır.\n\nBuna göre işletmenin 01.04.2025 tarihinde yapması gereken kayıtta aşağıdakilerden hangisinin kullanımı doğrudur?",
+      "options": [
+        "A) Kamu Kesimi Tahvil, Senet ve Bonoları hesabı 52.000 ₺ alacaklı",
+        "B) Kamu Kesimi Tahvil, Senet ve Bonoları hesabı 50.000 ₺ borçlu",
+        "C) Finansman Giderleri hesabı 2.000 ₺ borçlu",
+        "D) Özel Kesim Tahvil, Senet ve Bonoları hesabı 52.000 ₺ borçlu",
+        "E) Çıkarılmış Tahviller hesabı 52.000 ₺ alacaklı"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, 21.07.2024 tarihinde 3 ay sonra ödemek üzere kredili olarak ticari mal almış ve muhasebe kaydını yapmıştır. 28.07.2024 tarihinde henüz satmadığı ticari mallara ilişkin bu borcunun tamamını hemen ödeyebileceğini satıcıya bildirmiştir. Bunun üzerine satıcı erken ödeme nedeniyle 2.000 ₺ iskonto yapmış ve işletme ilgili tutarı aynı tarihte banka havalesi yoluyla ödemiştir.\n\nBu bilgilere göre işletmenin iskontoya ilişkin yapacağı kayıtta aşağıdaki hesaplardan hangisinin kullanımı doğrudur?",
+      "options": [
+        "A) Satış İskontoları hesabı 2.000 ₺ borçlu",
+        "B) Diğer İndirimler hesabı 2.000 ₺ borçlu",
+        "C) Diğer Olağan Gelir ve Kârlar hesabı 2.000 ₺ alacaklı",
+        "D) Ticari Mallar hesabı 2.000 ₺ alacaklı",
+        "E) Satıcılar hesabı 2.000 ₺ alacaklı"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, aktifinde kayıtlı bir arsası üzerindeki binasının yanındaki boşluğa açık bir geri dönüşüm alanı yaptırmaya başlamıştır. Bu kapsamda kullanılan kum, parke taşı ve kenar taşı için 200.000 ₺ + %20 KDV tutarında harcama yapılmış olup alanın yapımı devam etmektedir. Ödeme banka havalesi yoluyla gerçekleşmiştir.\n\nBuna göre, işletme tarafından harcamaya ilişkin yapılması gereken muhasebe kaydında 200.000 ₺ borçlandırılacak hesap aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Arsalar",
+        "B) Diğer Maddi Duran Varlıklar",
+        "C) Yeraltı ve Yerüstü Düzenleri",
+        "D) Genel Yönetim Giderleri",
+        "E) Yapılmakta Olan Yatırımlar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, 100.000 ₺ tutarındaki senetli borcunu vadesinde ödeyememiştir. Bunun üzerine satıcı ile varılan anlaşma sonucunda işletme, 5.000 ₺ tutarında faizi peşin ödeyerek 3 ay vadeli yeni bir senet keşide etmiştir.\n\nBuna göre, işletmenin senedin değiştirilmesiyle ilgili yapacağı kayıt aşağıdakilerden hangisidir?",
+      "options": [
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>321 BORÇ SENETLERİ<br>780 FİNANSMAN GİDERLERİ<br>&nbsp;&nbsp;&nbsp;&nbsp;100 KASA<br>&nbsp;&nbsp;&nbsp;&nbsp;321 BORÇ SENETLERİ</td><td style='text-align: right; padding-right: 20px; width: 80px;'>100.000<br>5.000<br><br><br></td><td style='text-align: right; width: 80px;'><br><br>5.000<br>100.000</td></tr></table>",
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>321 BORÇ SENETLERİ<br>&nbsp;&nbsp;&nbsp;&nbsp;100 KASA<br>&nbsp;&nbsp;&nbsp;&nbsp;321 BORÇ SENETLERİ</td><td style='text-align: right; padding-right: 20px; width: 80px;'>105.000<br><br><br></td><td style='text-align: right; width: 80px;'><br>5.000<br>100.000</td></tr></table>",
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>320 SATICILAR<br>780 FİNANSMAN GİDERLERİ<br>&nbsp;&nbsp;&nbsp;&nbsp;100 KASA<br>&nbsp;&nbsp;&nbsp;&nbsp;321 BORÇ SENETLERİ</td><td style='text-align: right; padding-right: 20px; width: 80px;'>100.000<br>5.000<br><br><br></td><td style='text-align: right; width: 80px;'><br><br>5.000<br>100.000</td></tr></table>",
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>321 BORÇ SENETLERİ<br>322 BORÇ SENETLERİ REESKONTU<br>&nbsp;&nbsp;&nbsp;&nbsp;100 KASA<br>&nbsp;&nbsp;&nbsp;&nbsp;321 BORÇ SENETLERİ</td><td style='text-align: right; padding-right: 20px; width: 80px;'>100.000<br>5.000<br><br><br></td><td style='text-align: right; width: 80px;'><br><br>5.000<br>100.000</td></tr></table>",
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>321 BORÇ SENETLERİ<br>656 KAMBİYO ZARARLARI<br>&nbsp;&nbsp;&nbsp;&nbsp;100 KASA<br>&nbsp;&nbsp;&nbsp;&nbsp;321 BORÇ SENETLERİ</td><td style='text-align: right; padding-right: 20px; width: 80px;'>100.000<br>5.000<br><br><br></td><td style='text-align: right; width: 80px;'><br><br>5.000<br>100.000</td></tr></table>"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmenin bilançosundaki yedeklere ilişkin bilgiler aşağıdaki gibidir:\n\n| Kalem | Tutar |\n| :--- | :--- |\n| Olağanüstü Yedekler | 10.000 ₺ |\n| Hisse Senetleri İhraç Primleri | 20.000 ₺ |\n| Hisse Senedi İptal Kârları | 10.000 ₺ |\n| Yasal Yedekler | 40.000 ₺ |\n| Statü Yedekleri | 20.000 ₺ |\n| Özel Fonlar | 10.000 ₺ |\n\nBuna göre işletmenin sermaye yedekleri toplamı kaç ₺'dir?",
+      "options": [
+        "A) 10.000",
+        "B) 30.000",
+        "C) 40.000",
+        "D) 80.000",
+        "E) 110.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, 2023 yılında üretim kapasitesini artırmak için bir makine almıştır. Makinenin maliyeti 100.000 ₺ olup ekonomik ömrü beş yıldır. Makine için ilk yıl azalan bakiyeler yöntemi ile amortisman ayrılmış, ikinci yıldan itibaren eşit tutarlar (normal amortisman) yöntemine geçilmiştir.\n\nBuna göre işletmenin 31.12.2024 tarihli bilançosunda makine ile ilgili birikmiş amortisman tutarı kaç ₺'dir?",
+      "options": [
+        "A) 15.000",
+        "B) 20.000",
+        "C) 40.000",
+        "D) 55.000",
+        "E) 64.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, geçici yatırım amacıyla 100.000 ₺ nominal değerli hisse senetlerini 120.000 ₺'ye satın almıştır. Hisse senetlerinin borsa değerinin yılın son günü 110.000 ₺ olarak gerçekleştiği tespit edilmiş ve gerekli karşılık ayrılmıştır.\n\nBuna göre yılın son gününde yapılacak kayıtla ilgili aşağıdaki hesaplardan hangisinin kullanımı doğrudur?",
+      "options": [
+        "A) Konusu Kalmayan Karşılıklar hesabı 10.000 ₺ alacaklı",
+        "B) Menkul Kıymetler Değer Düşüklüğü Karşılığı hesabı 20.000 ₺ alacaklı",
+        "C) Menkul Kıymetler Değer Düşüklüğü Karşılığı hesabı 10.000 ₺ alacaklı",
+        "D) Karşılık Giderleri hesabı 10.000 ₺ alacaklı",
+        "E) Konusu Kalmayan Karşılıklar hesabı 20.000 ₺ alacaklı"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, üretim faaliyetlerinde kullanmak üzere sipariş ettiği makine için bir firmaya 100.000 ₺ tutarında bir çek düzenleyerek vermiştir.\n\nBu işlemle ilgili yapılacak muhasebe kaydında aşağıdaki hesaplardan hangisinin borç tarafına kayıt yapılır?",
+      "options": [
+        "A) İş Avansları",
+        "B) Yapılmakta Olan Yatırımlar",
+        "C) Diğer Maddi Duran Varlıklar",
+        "D) Verilen Avanslar",
+        "E) Verilen Sipariş Avansları"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Kâr dağıtımı kararı alan işletmede ortaklara 500.000 ₺ kâr payı tahakkuk ettirilmiş ve sonraki ay 75.000 ₺ gelir vergisi kesintisi yapıldıktan sonra kalan tutar ortaklara ödenmiştir.\n\nÖdemeye ilişkin muhasebe kaydında aşağıda verilen hesaplardan hangisinin borç tarafına kayıt yapılır?",
+      "options": [
+        "A) Peşin Ödenen Vergi ve Fonlar",
+        "B) Dönem Kârı veya Zararı",
+        "C) Ortaklara Borçlar",
+        "D) Ödenecek Vergi ve Fonlar",
+        "E) Bankalar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme satışlarını artırmak amacıyla 01.12.2024 ile 31.01.2025 tarihleri arasında ulusal bir gazeteye her gün yayımlanmak üzere 150.000 ₺ tutarında reklam vermiştir. Gazete ilgili faturayı ilan süresi sonunda düzenleyerek işletmeye göndermiştir. Ödemenin tamamı 01.02.2025 tarihinde banka aracılığıyla yapılmıştır.\n\nBu bilgilere göre işletmenin 31.12.2024 tarihinde yapacağı kayıtta aşağıdaki hesaplardan hangisinin kullanımı doğrudur?",
+      "options": [
+        "A) Gelecek Aylara Ait Giderler hesabı 75.000 ₺ borçlandırılır.",
+        "B) Pazarlama, Satış ve Dağıtım Giderleri hesabı 90.000 ₺ borçlandırılır.",
+        "C) Diğer Dönen Varlıklar Karşılığı hesabı 75.000 ₺ alacaklandırılır.",
+        "D) Gider Tahakkukları hesabı 75.000 ₺ alacaklandırılır.",
+        "E) Gelecek Yıllara Ait Giderler hesabı 75.000 ₺ borçlandırılır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "I. Genel geçici mizan envanter işlemlerinden hemen sonra çıkarılır.\nII. Genel kesin mizanın kalanlar sütunu işletmenin dönem sonu bilançosu verilerini oluşturur.\nIII. Genel geçici mizanda gelir hesapları alacak kalanı verebilir.\nIV. Genel kesin mizanda düzenleyici hesaplar kalan verebilir.\nV. Genel kesin mizanda gider hesapları borç kalanı verebilir.\n\nGenel geçici mizan ve genel kesin mizanla ilgili yukarıdakilerden hangileri yanlıştır?",
+      "options": [
+        "A) I ve II",
+        "B) I ve V",
+        "C) II ve V",
+        "D) I, II ve III",
+        "E) III, IV ve V"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdaki yevmiye kaydını inceleyiniz:\n\n| Hesap Kodu ve Adı | Borç | Alacak |\n| :--- | :--- | :--- |\n| 120 ALICILAR | XXX | |\n| 121 ALACAK SENETLERİ | | XXX |\n\nYukarıdaki kayıt aşağıdaki işlemlerden hangisine aittir?",
+      "options": [
+        "A) Müşteriden alınan bir alacak senedinin nakden tahsil edilmesi",
+        "B) Müşteriden senetsiz bir ticari alacağın yerine senet alınması",
+        "C) Tahsil edilemeyen alacak senedinin şüpheli alacak hâline gelmesi",
+        "D) Bir alacak senedinin iptal edilerek senetsiz ticari alacağa dönüştürülmesi",
+        "E) Alacak senedinin ciro edilmesi"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme üretim hattında kullandığı aktifinde kayıtlı ve faydalı ömrü bitmemiş bir makine için 27.02.2025 tarihinde 100.000 ₺ + %20 KDV tutarında nakit harcama yapmıştır. Harcamanın %60'ı makinenin motorunun değiştirilmesi, %30'u üretim hızını artıracak makineye entegre bir otomasyon sisteminin eklenmesi ve %10'u makinenin düzenli bakım işlemlerinden kaynaklanmaktadır.\n\nBu bilgilere göre işletmenin yapacağı kayıtta aktifleştirilen gider kaç ₺'dir?",
+      "options": [
+        "A) 10.000",
+        "B) 40.000",
+        "C) 60.000",
+        "D) 90.000",
+        "E) 100.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme pazar payını artırmak amacıyla aynı işkolundaki XYZ İşletmesini bankadan 170.000 ₺ ödeyerek satın almıştır. XYZ İşletmesinin bilançosundaki bilgiler şu şekildedir:\n\nKasa 30.000 ₺, Alacak Senetleri 50.000 ₺, Ticari Mallar 100.000 ₺, Demirbaşlar 120.000 ₺, Birikmiş Amortismanlar 50.000 ₺, Satıcılar 50.000 ₺, Banka Kredileri 50.000 ₺, Sermaye 130.000 ₺ ve Geçmiş Yıllar Kârları 20.000 ₺'dir.\n\nBuna bilgilere göre işletme tarafından satın alma işleminde yapılacak muhasebe kaydıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Sermaye hesabı 150.000 ₺ alacaklandırılır.",
+        "B) Birikmiş Amortismanlar hesabı 50.000 ₺ borçlandırılır.",
+        "C) Haklar hesabı 20.000 ₺ borçlandırılır.",
+        "D) Kasa hesabı 50.000 ₺ alacaklandırılır.",
+        "E) Şerefiye hesabı 20.000 ₺ borçlandırılır."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "XYZ A.Ş., 700.000 ₺ olan sermayesini %40 oranında artırma kararı almıştır. Gerekli yasal işlemler sonrası hisse senetlerinin tamamını 300.000 ₺'ye satmıştır.\n\nBuna göre XYZ A.Ş. tarafından hisse senedi satışıyla ilgili yapılması gereken muhasebe kaydında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Hisse Senetleri hesabı 280.000 ₺ alacaklandırılır.",
+        "B) Ödenmemiş Sermaye hesabı 300.000 ₺ alacaklandırılır.",
+        "C) Hisse Senetleri İhraç Primleri hesabı 20.000 ₺ alacaklandırılır.",
+        "D) Menkul Kıymet Satış Kârları hesabı 20.000 ₺ alacaklandırılır.",
+        "E) Sermaye hesabı 300.000 ₺ alacaklandırılır."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmede dönem sonu envanter işlemleri sırasında 2 ay önce ticari mal satışı karşılığında alınmış ve vadesinin bitimine 3 ay kalan 50.000 ₺ nominal değerli bir senet bulunduğu belirlenmiştir. 31.12.2024 tarihinde yapılan hesaplamada senedin tasarruf değeri 45.000 ₺ olarak tespit edilmiştir.\n\nBuna göre 31.12.2024 tarihinde yapılacak kayıtla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Borç Senetleri Reeskontu hesabı 5.000 ₺ alacaklandırılır.",
+        "B) Reeskont Faiz Gelirleri hesabı 5.000 ₺ alacaklandırılır.",
+        "C) Alacak Senetleri Reeskontu hesabı 5.000 ₺ borçlandırılır.",
+        "D) Reeskont Faiz Giderleri hesabı 5.000 ₺ borçlandırılır.",
+        "E) Karşılık Giderleri hesabı 5.000 ₺ borçlandırılır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletme 2024 yılı dönem sonu kontrolleri sırasında Gelecek Aylara Ait Gelirler hesabında izlenen tutarın 10.000 ₺'lik kısmının bu dönemin kira gelirine ait olduğunu tespit etmiştir.\n\nBuna göre işletme tarafından yapılacak kayıt aşağıdakilerden hangisidir?",
+      "options": [
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>649 DİĞER OLAĞAN GELİR VE KÂRLAR<br>&nbsp;&nbsp;&nbsp;&nbsp;380 GELECEK AYLARA AİT GELİRLER</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>",
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>380 GELECEK AYLARA AİT GELİRLER<br>&nbsp;&nbsp;&nbsp;&nbsp;649 DİĞER OLAĞAN GELİR VE KÂRLAR</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>",
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>380 GELECEK AYLARA AİT GELİRLER<br>&nbsp;&nbsp;&nbsp;&nbsp;181 GELİR TAHAKKUKLARI</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>",
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>181 GELİR TAHAKKUKLARI<br>&nbsp;&nbsp;&nbsp;&nbsp;380 GELECEK AYLARA AİT GELİRLER</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>",
+        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>380 GELECEK AYLARA AİT GELİRLER<br>&nbsp;&nbsp;&nbsp;&nbsp;690 DÖNEM KÂRI VEYA ZARARI</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmenin sigortalı bir taşıtı 25.11.2024 tarihinde çıkan yangında kullanılamaz hale gelmiştir. Taşıtın defter değeri 900.000 ₺, birikmiş amortismanı ise 540.000 ₺'dir. Yapılan inceleme sonrası aynı gün sigorta şirketi taşıta 300.000 ₺ tazminat ödemeyi kararlaştırmıştır. Tazminat bedeli 1 ay sonra tahsil edilecektir.\n\nBu bilgilere göre işletmenin 25.11.2024 tarihinde yapacağı kayıtta aşağıdaki hesaplardan hangisinin kullanımı yanlıştır?",
+      "options": [
+        "A) Alıcılar hesabı borçlu 300.000 ₺",
+        "B) Taşıtlar hesabı alacaklı 900.000 ₺",
+        "C) Diğer Olağandışı Gider ve Zararlar hesabı borçlu 60.000 ₺",
+        "D) Birikmiş Amortismanlar hesabı borçlu 540.000 ₺",
+        "E) Diğer Çeşitli Alacaklar hesabı borçlu 300.000 ₺"
+      ],
+      "answer": 0
+    }
   ]
 }

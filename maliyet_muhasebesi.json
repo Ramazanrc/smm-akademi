@@ -2148,6 +2148,248 @@
       ],
       "answer": 0
     }
+  ],
+  "Deneme Sınavı 01 (Genel Tarama)": [
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir mal, fayda ve hizmet edinilmesi veya herhangi bir edinim karşılığı olmaksızın ortaya çıkan yükümlülükler nedeniyle yapılan ödeme ve borçlanmalara ne denir?",
+      "options": [
+        "A) Maliyet",
+        "B) Varlık",
+        "C) Harcama",
+        "D) Gider",
+        "E) Zarar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Tek bir hammaddeden A, B ve C ana mamullerinin üretimini yapan XYZ üretim işletmesinde üretim döneminde 52.000 ₺ ortak maliyete ve her bir mamul için ek maliyetlere katlanılmıştır. İşletmede ortak maliyetlerin mamullere yüklenmesinde katsayı yöntemi kullanılmakta olup katsayılar sırasıyla 3, 1 ve 6 şeklinde belirlenmiştir. Mamullerin satış fiyatları ile diğer üretim ve maliyet verileri ise aşağıdaki gibidir:\n\n| Mamul | Üretim Miktarı | Nihai Satış Değeri | Ek Maliyet |\n| :--- | :--- | :--- | :--- |\n| A | 3 ton | 6.000 ₺ | 3.000 ₺ |\n| B | 5 ton | 4.000 ₺ | 2.000 ₺ |\n| C | 2 ton | 8.000 ₺ | 4.000 ₺ |\n\nBuna göre A mamulünün ton başına maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 2.200",
+        "B) 5.200",
+        "C) 6.200",
+        "D) 7.000",
+        "E) 7.600"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Sipariş maliyet sistemini kullanan işletme, dönemde katlanılan genel üretim giderlerini fiilî giderlerle ve yükleme oranı olarak da makine saatini (mks) kullanarak siparişlere yüklemektedir. İlgili dönemde fiili genel üretim giderleri toplamı 432.000 ₺'dir. Siparişlerin makine saatleri ve üretim miktarları ise aşağıdaki gibidir:\n\n| Sipariş Adı | Makine Saati (mks) | Üretim Miktarı (kg) |\n| :--- | :--- | :--- |\n| KAR1 | 1.250 | 40.000 |\n| KAR2 | 600 | 30.000 |\n| KAR3 | 1.750 | 24.000 |\n\nTüm siparişlerin tamamlandığı bilindiğine göre KAR1 siparişinin birim başına genel üretim giderleri kaç ₺'dir?",
+      "options": [
+        "A) 3",
+        "B) 3,75",
+        "C) 4,75",
+        "D) 5,25",
+        "E) 6,25"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir işletme genel üretim giderlerini tahmini yükleme oranı kullanarak mamüllerin maliyetiyle ilişkilendirmektedir. İşletmenin dönem sonunda yaptığı kayıt aşağıdaki gibidir:\n\n| Hesap Adı | Borç | Alacak |\n| :--- | :--- | :--- |\n| 731 GENEL ÜRETİM GİDERLERİ YANSITMA HESABI | 800.000 | |\n| 620 SATILAN MAMULLER MALİYETİ | 140.000 | |\n| 152 MAMULLER | 40.000 | |\n| 151 YARI MAMULLER - ÜRETİM | 20.000 | |\n| 730 GENEL ÜRETİM GİDERLERİ | | 1.000.000 |\n\nBu bilgilere göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Fiili (gerçekleşen) genel üretim giderlerinin tutarı 800.000 ₺'dir.",
+        "B) Tahmini (bütçelenen) genel üretim giderlerinin tutarı 1.000.000 ₺'dir.",
+        "C) Dönem içerisinde maliyetlere 200.000 ₺'lik fazla yükleme yapılmıştır.",
+        "D) Dönem içerisinde satılan mamullerin maliyetine yapılan fazla yüklemenin tutarı 140.000 ₺'dir.",
+        "E) Dönem içerisinde mamuller ile yarı mamullere yapılan eksik yüklemenin toplam tutarı 60.000 ₺'dir."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Üretime sevk maliyetinin hesaplanmasında ilk giren ilk çıkar (FIFO) maliyet yöntemi uygulanan bir işletmenin K hammaddesi stokuna ilişkin bilgiler aşağıdaki gibidir:\n\n| Kalem | Miktar (birim) | Tutar (₺) |\n| :--- | :--- | :--- |\n| Dönem başı stok | 7.500 | 900.000 |\n| Dönem içi tüketim | 31.500 | 4.260.000 |\n| Dönem sonu stok | 6.000 | 840.000 |\n\nBuna göre, K hammaddesinin dönem içi alış birim maliyeti kaç TL'dir?",
+      "options": [
+        "A) 120",
+        "B) 130",
+        "C) 140",
+        "D) 150",
+        "E) 160"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Aşağıdakilerden hangisi 7/A maliyet seçeneğine göre, fonksiyonel gider hesabı değildir?",
+      "options": [
+        "A) Direkt İlk Madde Ve Malzeme Giderleri",
+        "B) Amortismanlar Ve Tükenme Payları",
+        "C) Direkt İşçilik Giderleri",
+        "D) Genel Üretim Giderleri",
+        "E) Hizmet Üretim Giderleri"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir mobilya üretim işletmesinde \"biçimlendirme\" ve \"birleştirme\" esas üretim gider yerleri ile \"sosyal tesis\" ve \"teknik bakım\" yardımcı gider yerleri bulunmaktadır. Genel üretim giderlerinin (GÜG) birinci dağıtımı sonrasında oluşan maliyetler ve dağıtım anahtarları aşağıdaki gibidir:\n\n| | Biçimlendirme | Birleştirme | Sosyal tesis (ST) | Teknik bakım (TB) |\n| :--- | :--- | :--- | :--- | :--- |\n| I. dağıtımdan gelen GÜG | 155.000 | 245.000 | 120.000 | 100.000 ₺ |\n| Çalışan sayısı | 40 kişi | 55 kişi | 5 kişi | 5 kişi |\n| Makinelerin değeri | 100.000 | 170.000 | 30.000 | 25.000 ₺ |\n\nMatematiksel dağıtım yöntemine göre genel üretim giderlerini dağıtan işletmede, yardımcı gider yerlerinin birbirinden alacağı payların belirlenmesine ilişkin yazılacak denklemler için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) TB = 100.000 + 0,05 * ST",
+        "B) TB = 25.000 + 0,10 * ST",
+        "C) ST = 120.000 + 0,05 * TB",
+        "D) ST = 220.000 + 0,10 * TB",
+        "E) ST = 30.000 + 0.05 * TB"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Değişken maliyet sisteminin uygulandığı işletmede üretim döneminde 150 ton mamul üretilmiştir. Genel üretim giderlerinin değişken kısmının toplam genel üretim giderlerinin 1/3'ü kadar olduğu bilinmektedir. İlgili dönemin üretim giderleri aşağıdaki şekilde gerçekleşmiştir:\n\n| Kalem | Tutar |\n| :--- | :--- |\n| Direkt İlk Madde ve Malzeme Giderleri | 235.000 ₺ |\n| Direkt İşçilik Giderleri | 240.000 ₺ |\n| Genel Üretim Giderleri | 375.000 ₺ |\n\nBuna göre bir kg mamulün maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 4",
+        "B) 4,5",
+        "C) 5",
+        "D) 5,5",
+        "E) 6"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Dönemin üretim ve stok bilgileri aşağıdaki gibidir:\n\n| Kalem | Tutar |\n| :--- | :--- |\n| Dönem Başı Yarı Mamul Stokları | 20.000 ₺ |\n| Dönem Başı Mamul Stokları | 30.000 ₺ |\n| Dönemin Üretim Giderleri | 500.000 ₺ |\n| Dönem Sonu Yarı Mamul Stokları | 15.000 ₺ |\n| Dönem Sonu Mamul Stokları | 40.000 ₺ |\n\nBu bilgilere göre dönemde üretilen mamullerin maliyeti ile satılan mamullerin maliyeti sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "options": [
+        "A) 510.000 ₺ ; 520.000 ₺",
+        "B) 505.000 ₺ ; 510.000 ₺",
+        "C) 505.000 ₺ ; 495.000 ₺",
+        "D) 495.000 ₺ ; 520.000 ₺",
+        "E) 495.000 ₺ ; 515.000 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Tek safhada üretim yapan ve maliyet hesaplamada ilk giren ilk çıkar yöntemini kullanan bir işletmenin üretim sürecinde herhangi bir üretim kaybı bulunmamaktadır. İşletmenin haziran ayı üretim dönemine ait bazı bilgileri aşağıda verilmiştir.\n\n| Kalem | Adet / Oran |\n| :--- | :--- |\n| Yarı Mamullerin DİMMG Açısından Tamamlanma Derecesi | %100 |\n| Yarı Mamullerin DİG Açısından Tamamlanma Derecesi | %? |\n| Yarı Mamullerin GÜG Açısından Tamamlanma Derecesi | %? |\n| Dönem Başı Yarı Mamul (adet) | 4.000 |\n| Dönemde Üretime Başlanan Mamul (adet) | 12.500 |\n| Dönemde Tamamlanan Mamul (adet) | 14.000 |\n\nİlgili dönemde dönem sonu yarı mamullerin şekillendirme açısından eşdeğer birim sayısı 2.000 olduğuna göre bunların genel üretim giderleri açısından tamamlanma derecesi yüzde kaçtır?",
+      "options": [
+        "A) 65",
+        "B) 70",
+        "C) 75",
+        "D) 80",
+        "E) 85"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "İki evrede (safhada) üretim yapan bir işletmenin yarı mamullerle ilgili miktar bilgileri aşağıdaki gibidir:\n\n| Kalem | I. Evre | II. Evre |\n| :--- | :--- | :--- |\n| Dönem başı yarı mamul stoku | 10.000 birim | 15.000 birim |\n| Dönem sonu yarı mamul stoku | 20.000 birim | 25.000 birim |\n\nMiktar sağlama tablosu düzenlendiğinde üretime giren ve üretimden çıkan miktar I. evrede 100.000 birim, II. evrede 95.000 birimdir. Buna göre II. evrede dönemde üretime alınan miktar kaç birimdir?",
+      "options": [
+        "A) 90.000",
+        "B) 80.000",
+        "C) 70.000",
+        "D) 60.000",
+        "E) 50.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "A ve B ana ürünleri ile Z yan ürününün elde edilmesi sürecinde ortaya çıkan ortak maliyet bilgileri şöyledir:\n\n| Gider Türü | Tutar |\n| :--- | :--- |\n| Direkt İlk Madde ve Malzeme Giderleri | 350.000 ₺ |\n| Direkt İşçilik Giderleri | 300.000 ₺ |\n| Genel Üretim Giderleri | 250.000 ₺ |\n\nAyrılma noktasından sonra ürünlerle ilgili ek maliyetlere katlanmayan işletmenin ürünlere ilişkin üretim miktarı ve satış fiyatı bilgileri aşağıdaki gibidir:\n\n| Ürün | Üretim Miktarı | Satış Fiyatı |\n| :--- | :--- | :--- |\n| A | 3.000 ton | 200 ₺/ton |\n| B | 6.000 ton | 150 ₺/ton |\n| Z | 50 ton | 10 ₺/ton |\n\nYan ürünlere maliyetten pay vermeyen bu işletmenin Üretim Miktarları Yöntemine göre ortak maliyetlerin dağıtımından sonra tamamı satılan B ürününün ton başına satış kârı kaç ₺ olur?",
+      "options": [
+        "A) 50",
+        "B) 75",
+        "C) 100",
+        "D) 150",
+        "E) 200"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Aşağıdakilerden hangisi Satışların Maliyeti Tablosu'ndan elde edilemez?",
+      "options": [
+        "A) Dönem başı yarı mamullerin tutarı",
+        "B) Direkt hammadde alımına ilişkin iade tutarı",
+        "C) Dönem sonu mamullerin tutarı",
+        "D) Genel üretim giderlerinin toplamı",
+        "E) Direkt işçilik giderlerinin toplamı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "ABC İşletmesinde K mamulünden bir kg üretebilmek için standart olarak 4 Direkt İşçilik Saati (DİS) sarf edileceği ve standart direkt işçilik saat ücretinin 15 ₺ olacağı planlanmıştır. Temmuz ayında üretilen 12.000 kg K mamulü için 50.000 DİS harcanmıştır. Gerçekleşen direkt işçilik gideri 808.800 ₺'dir.\n\nBuna göre, işletmede oluşan toplam Direkt İşçilik Süre (Zaman) Farkı kaç ₺'dir?",
+      "options": [
+        "A) 30.000",
+        "B) 40.000",
+        "C) 48.000",
+        "D) 58.800",
+        "E) 80.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "İşletmenin yaptığı bir yevmiye kaydı aşağıdaki gibidir:\n\n| Hesap Adı | Borç | Alacak |\n| :--- | :--- | :--- |\n| 760 PAZARLAMA, SATIŞ VE DAĞITIM GİDERLERİ | 61.000 | |\n| 760.10 İşçi Brüt Ücretleri (50.000) | | |\n| 760.20 İşveren SGK Yükümlülükleri (11.000) | | |\n| 335 PERSONELE BORÇLAR | | 35.750 |\n| 360 ÖDENECEK VERGİ VE FONLAR | | 6.750 |\n| 361 ÖDENECEK SOSYAL GÜVENLİK KESİNTİLERİ | | 18.500 |\n\nYukarıdaki kayıt A üretim işletmesinin fabrika satış mağazasında çalışan bir işçinin mayıs ayı ücret bordrosuyla ilgilidir. Bu kayda göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Mayıs ayında işçinin işverene toplam maliyeti 50.000 ₺ olmuştur.",
+        "B) İşçiden kesilen gelir ve damga vergisi toplam tutarı 25.250 ₺'dir.",
+        "C) İşçi ve işverenin SGK yükümlülükleri toplamı 11.000 ₺'dir.",
+        "D) İşçiden mayıs ayında toplamda 14.250 ₺ kesinti yapılmıştır.",
+        "E) İşçiden kesilen SGK primi ile işsizlik sigortası primi toplam tutarı 18.500 ₺'dir."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Sipariş maliyet yöntemini uygulayan bir işletmede genel üretim giderlerinin mamullere dağıtılmasında Makine Saati (MS) ölçüsü kullanılmaktadır. Dönemde meydana gelen genel üretim giderlerinin toplam tutarı 400.000 ₺'dir. Yine aynı dönemde 500 MS çalışılmış olup bunun %20'si K mamulüyle ilgilidir, kalanı eşit olarak L ve M mamullerine aittir.\n\nBuna göre mamullere genel üretim giderlerinden verilen payla ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "options": [
+        "A) K mamulüne 100.000 ₺ pay verilmiştir.",
+        "B) K mamulüne 80.000 ₺ pay verilmiştir.",
+        "C) L mamulüne 200.000 ₺ pay verilmiştir.",
+        "D) L mamulüne 150.000 ₺ pay verilmiştir.",
+        "E) M mamulüne 100.000 ₺ pay verilmiştir."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Bir üretim işletmesinde maliyet hesaplama yöntemi olarak normal maliyet yöntemi kullanılmaktadır. Üretim döneminde %80 kapasite ile üretilen 10.000 adet mamulle ilgili olarak gerçekleşen giderler aşağıdaki gibidir:\n\n| Gider Türü | Tutar |\n| :--- | :--- |\n| Direkt İlk Madde ve Malzeme Giderleri | 400.000 ₺ |\n| Direkt İşçilik Giderleri | 300.000 ₺ |\n| Değişken Genel Üretim Giderleri | 240.000 ₺ |\n| Normal Maliyet Yöntemine Göre Toplam Maliyet | 1.228.000 ₺ |\n\nBuna göre işletmenin döneme ilişkin toplam genel üretim giderleri kaç ₺'dir?",
+      "options": [
+        "A) 297.600",
+        "B) 380.000",
+        "C) 470.400",
+        "D) 528.000",
+        "E) 600.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Tek çeşit mamulün üretimini yapan ABC işletmesi üretim döneminde 500 adet mamulün üretimini tamamlamış ve mamullerin %80'ini satmıştır. Üretim dönemi başında yarı mamul ve mamul, dönem sonunda yarı mamul stoku bulunmayan işletmenin fabrikasında çalışan personelin ücret maliyetleri aşağıdaki gibidir:\n\n| Fabrika Personeli | Toplam Maliyet |\n| :--- | :--- |\n| Fabrika Müdürü | 60.000 ₺ |\n| Bakım ve Onarım İşçileri (3 kişi) | 40.000 ₺ |\n| Kesim gider yerinde çalışan üretici işçiler (10 kişi) | 120.000 ₺ |\n| Ustabaşı (4 kişi) | 80.000 ₺ |\n| Dikim gider yerinde çalışan üretici işçiler (20 kişi) | 250.000 ₺ |\n\nÜretici işçilerin üretimde geçirmedikleri sürelere isabet eden ücret maliyeti toplamı 20.000 ₺ olduğuna göre, satılan mamullere isabet eden direkt işçilik giderleri toplamı kaç ₺'dir?",
+      "options": [
+        "A) 264.000",
+        "B) 280.000",
+        "C) 296.000",
+        "D) 360.000",
+        "E) 440.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "XY İşletmesi'nin ilgili faaliyet döneminde üretime gönderdiği ilk madde ve malzemelerin toplamı 50.000 ₺'dir. Bunun 40.000 ₺'si direkt ilk madde ve malzeme, 6.000 ₺'si yardımcı malzeme ve kalan kısım ise işletme malzemesidir.\n\nİşletme fiili maliyetleme yöntemini kullanıyor ise, ilk madde ve malzemelerin üretim maliyetine yüklenmesine ilişkin olarak yapılan günlük defter kayıtlarında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) 150 İlk Madde ve Malzeme hesabı 50.000 ₺ Alacaklı",
+        "B) 710 Direkt İlk Madde ve Malzeme Giderleri hesabı 46.000 ₺ Borçlu",
+        "C) 730 Genel Üretim Giderleri hesabı 6.000 ₺ Borçlu",
+        "D) 731 Genel Üretim Giderleri Yansıtma Hesabı 4.000 ₺ Alacaklı",
+        "E) 711 Direkt İlk Madde ve Malzeme Giderleri Yansıtma Hesabı 40.000 ₺ Borçlu"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Maliyet Muhasebesi",
+      "q": "Yukarıda bir üretim işletmesinin K hammaddesine ilişkin bazı bilgileri verilmiştir.\n\n| TARİH | İŞLEM | MİKTAR (kg) | FİYAT (₺) | TUTAR (₺) |\n| :--- | :--- | :--- | :--- | :--- |\n| 1 Eylül | Dönembaşı Mevcudu | 700 | 500 | |\n| 10 Eylül | Satın Alınan | 500 | 600 | 300.000 |\n| 20 Eylül | Üretime Gönderilen | 400 | | |\n| 24 Eylül | Satın Alınan | 700 | 800 | 560.000 |\n| 29 Eylül | Üretime Gönderilen | 600 | | |\n\nİşletmenin İlk Giren İlk Çıkar yöntemini kullandığı bilindiğine göre Eylül ayında üretime gönderilen K hammaddesi maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 200.000",
+        "B) 420.000",
+        "C) 490.000",
+        "D) 530.000",
+        "E) 720.000"
+      ],
+      "answer": 3
+    }
   ]
 }
 
