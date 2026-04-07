@@ -14185,8 +14185,8 @@
     },
     {
       "ders": "Muhasebe Denetimi",
-      "q": "I. Yanlışlıkların tek başına veya toplu olarak önemli olduğu ancak finansal tablolarda yaygın olmadığı sonucuna varılması\nII. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli ve yaygın olabileceği sonucuna varılması\nIII. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği ancak yaygın olmayabileceği sonucuna varılması\nYukarıda yer alan ifadelerden hangileri denetçinin sınırlı olumlu görüş verme nedenlerindendir?",
-      "options": [
+      "q": "I. Yanlışlıkların tek başına veya toplu olarak önemli olduğu ancak finansal tablolarda yaygın olmadığı sonucuna varılması<br>II. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli ve yaygın olabileceği sonucuna varılması<br>III. Tespit edilmemiş yanlışlıkların finansal tablolar üzerindeki muhtemel etkilerinin önemli olabileceği ancak yaygın olmayabileceği sonucuna varılması<br><br>Yukarıda yer alan ifadelerden hangileri denetçinin sınırlı olumlu görüş verme nedenlerindendir?",
+      "options": [  
         "A) Yalnız I",
         "B) I ve II",
         "C) I ve III",
@@ -14257,7 +14257,7 @@
     },
     {
       "ders": "Muhasebe Denetimi",
-      "q": "I. Hile yapmaya yönelik teşvik veya baskı\nII. Hile yapmak için algılanan bir fırsat\nIII. Eylemin bir ölçüde rasyonelleştirilmesi\nYukarıdakilerden hangileri BDS 240 Finansal Tabloların Bağımsız Denetiminde Bağımsız Denetçinin Hileye İlişkin Sorumlulukları standardına göre hilenin ayırt edici özelliklerindendir?",
+      "q": "I. Hile yapmaya yönelik teşvik veya baskı<br>II. Hile yapmak için algılanan bir fırsat<br>III. Eylemin bir ölçüde rasyonelleştirilmesi<br><br>Yukarıdakilerden hangileri BDS 240 Finansal Tabloların Bağımsız Denetiminde Bağımsız Denetçinin Hileye İlişkin Sorumlulukları standardına göre hilenin ayırt edici özelliklerindendir?",
       "options": [
         "A) Yalnız I",
         "B) I ve II",
