@@ -2405,5 +2405,3052 @@
       ],
       "answer": 2
     }
+  ],
+  "Çalışma Soruları (Likidite Oranları)": [
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönen varlıkları 20.000 ₺, aktif devir hızı 3 olan işletmede duran varlıkların devamlı sermayeye oranı 1 olması durumunda işletmenin cari oranı kaçtır?",
+      "options": [
+        "A) 3",
+        "B) 1,5",
+        "C) 2",
+        "D) 1",
+        "E) 2,5"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 60.000 ₺ ve aktif devir hızı 2 olan bir işletmede duran varlıklar 10.000 ₺ ve sürekli sermaye 20.000 ₺ ise cari oran kaçtır?",
+      "options": [
+        "A) 0,50",
+        "B) 1,00",
+        "C) 1,50",
+        "D) 2,00",
+        "E) 3,00"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Devamlı Sermaye / Pasif Toplamı : 0,60 <br>Duran Varlıklar / Aktif Toplamı : 0,50 <br><br>Yukarıdaki verilere sahip olan bir işletmenin cari oranı kaçtır?",
+      "options": [
+        "A) 0,83",
+        "B) 1,00",
+        "C) 1,20",
+        "D) 1,25",
+        "E) 1,33"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin, net satışları 44.000 ₺, aktif toplamı 30.000 ₺, sürekli sermayesi 28.000 ₺, duran varlıklarının devir hızı oranı ise 2'dir.<br><br>Bu bilgilere göre işletmenin cari oranı kaçtır?",
+      "options": [
+        "A) 3,00",
+        "B) 3,50",
+        "C) 4,00",
+        "D) 4,50",
+        "E) 4,60"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıda verilen ikili eşleştirmelerin hangisinde yaşanan değişim cari oranı etkiler?",
+      "options": [
+        "A) Hazır Değerler - Stoklar",
+        "B) Hazır Değerler - Menkul Kıymetler",
+        "C) Maddi Duran Varlıklar - Ticari Alacaklar (UV)",
+        "D) Ödenmiş Sermaye - Maddi Duran Varlıklar",
+        "E) Stoklar - Ticari Borçlar (KV)"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "I. Hazır değerler kullanılarak kısa vadeli borç ödemesi yapmak<br>II. Kredili olarak ticari mal almak<br>III. Duran varlıkları peşin olarak satmak<br><br>Yukarıdaki işlemlerden hangileri cari oranı arttırır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net çalışma sermayesi pozitif olan bir işletme kredili mal almıştır.<br><br>İşletmenin net işletme sermayesi ve cari oranı bu işlemden nasıl etkilenir?",
+      "options": [
+        "A) Net Çalışma Sermayesi Azalır - Cari Oran Artar",
+        "B) Net Çalışma Sermayesi Artar - Cari Oran Azalır",
+        "C) Net Çalışma Sermayesi Değişmez - Cari Oran Azalır",
+        "D) Net Çalışma Sermayesi Değişmez - Cari Oran Artar",
+        "E) Net Çalışma Sermayesi Değişmez - Cari Oran Değişmez"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net işletme sermayesi pozitif olan bir işletme, kısa vadeli banka kredi borcunu nakit olarak ödemiştir.<br><br>Buna göre işletmenin net işletme sermayesi ile cari oranındaki değişim için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Net işletme sermayesi değişmez, cari oranı azalır.",
+        "B) Net işletme sermayesi değişmez, cari oranı artar.",
+        "C) Net işletme sermayesi artar, cari oranı azalır.",
+        "D) Her ikisi de değişmez.",
+        "E) Net işletme sermayesi azalır, cari oranı artar."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönen varlıklarının toplamı, kısa vadeli yabancı kaynaklarının toplamının %200'ü oranında olan bir işletmenin stoklarının toplamı dönen varlıklar toplamının %25'i oranında ise, asit-test oranı kaç olur?",
+      "options": [
+        "A) 0,75",
+        "B) 1,00",
+        "C) 1,25",
+        "D) 1,50",
+        "E) 1,75"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Cari Oranı 4.80, likidite oranı 2.30 olan işletmenin ticari alacakları 5.000 ₺, KVYK tutarı 20.000 ₺ olması durumunda işletmeye ait stok tutarı kaç ₺'dir?",
+      "options": [
+        "A) 15.000",
+        "B) 25.000",
+        "C) 30.000",
+        "D) 45.000",
+        "E) 50.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin cari oranı 1,2; asit test oranı 0,5; kısa vadeli yabancı kaynak toplamı 500.000 ₺ olduğuna göre işletmenin stok tutarı ne kadardır?",
+      "options": [
+        "A) 100.000",
+        "B) 200.000",
+        "C) 250.000",
+        "D) 350.000",
+        "E) 400.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Cari oranı 3, asit-test oranı 1,2 olan T işletmesinin stok mevcudu 3.600 ₺'dir. Bu bilgilere göre işletmenin kısa vadeli yabancı kaynak tutarı kaç ₺'dir?",
+      "options": [
+        "A) 1.200",
+        "B) 2.000",
+        "C) 4.320",
+        "D) 6.480",
+        "E) 10.800"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Cari oranı 3,50 asit test oranı 1,50 olan işletmenin stokları 40.000 ₺ ise kısa vadeli yabancı kaynak tutarı kaç ₺'dir?",
+      "options": [
+        "A) 35.000",
+        "B) 20.000",
+        "C) 18.000",
+        "D) 15.000",
+        "E) 12.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin cari oranı 2,5, likidite oranı 1,5 ve stokları 1.000 ₺ ise işletmenin dönen varlıkları kaç ₺'dir?",
+      "options": [
+        "A) 500",
+        "B) 2.000",
+        "C) 1.000",
+        "D) 2.500",
+        "E) 1.500"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Envanterinde 20.000 ₺'lik stoku bulunan bir işletmenin cari oranı 3,5 ve likidite oranı 1,5'tir. Bu bilgilere göre işletmenin dönen varlıkları kaç ₺'dir?",
+      "options": [
+        "A) 15.000",
+        "B) 25.000",
+        "C) 30.000",
+        "D) 35.000",
+        "E) 40.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmede cari oran 2, asit-test oranı 0,5 ise stokların dönen varlıklar içerisindeki payı % kaçtır?",
+      "options": [
+        "A) 40",
+        "B) 50",
+        "C) 60",
+        "D) 75",
+        "E) 90"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin cari oranı 1,7 iken asit test oranı 0,5 ise aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) İşletmenin alacakları çok yüksek orandadır.",
+        "B) İşletmenin stokları yetersizdir.",
+        "C) İşletme kısa vadeli borçlarını ödemede stoklara önemli derecede bağımlıdır.",
+        "D) İşletmenin net çalışma sermayesi noksanı vardır.",
+        "E) İşletmenin nakit mevcudu yeterlidir."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönen varlık toplamı 150.000 ₺, satışlarının maliyeti 100.000 ₺ olan bir işletmede stok devir hızı 4 ve bu işletmenin cari oranı 3 ise, asit-test oranı kaçtır?<br>(Dönem sonu stok tutarı, ortalama stok tutarı olarak dikkate alınmıştır.)",
+      "options": [
+        "A) 1,50",
+        "B) 1,75",
+        "C) 2,00",
+        "D) 2,50",
+        "E) 2,75"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net işletme (çalışma) sermayesi 400.000 ₺ olan bir işletmenin cari oranı 2'dir. Bu işletmede 200.000 ₺ stok bulunmaktadır.<br><br>Buna göre, işletmenin asit test oranı kaçtır?",
+      "options": [
+        "A) 1,2",
+        "B) 1,4",
+        "C) 1,5",
+        "D) 1,6",
+        "E) 1,8"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Cari oranı 3 olan bir işletmede, duran varlıklar 70.000 ₺, dönen varlıklar 30.000 ₺, uzun vadeli yabancı kaynaklar 40.000 ₺ ise özkaynaklarının toplam tutarı kaç ₺'dir?",
+      "options": [
+        "A) 20.000",
+        "B) 40.000",
+        "C) 50.000",
+        "D) 60.000",
+        "E) 110.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin bir liralık borcuna karşılık, stokları olmadan kaç liralık dönem varlığı olduğunu ifade eden oran aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Stok Bağımlılık Oranı",
+        "B) Mali Rantabilite Oranı",
+        "C) Fiyat / Kazanç Oranı",
+        "D) Stok Devir Hızı Oranı",
+        "E) Asit - Test Oranı"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin, alacaklarının tamamını tahsil ettiği ve portföydeki menkul değerleri bilançoda gösterilen tutar üzerinden paraya çevirebildiği taktirde, stoklardan satış yapmasa dahi, kısa vadeli borçlarını ödeyebileceğini gösteren oran aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Hazır değerler oranı",
+        "B) Alacak devir hızı oranı",
+        "C) Cari oran",
+        "D) Asit test oranı",
+        "E) Stok devir hızı oranı"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmede Asit Test Oranının 1'den küçük olması hâlinde, işletmenin likidite durumu hakkında bir yorum yapılabilmesi için aşağıdaki oranlardan hangisi dikkate alınmalıdır?",
+      "options": [
+        "A) Hazır Değerler Devir Hızı Oranı",
+        "B) Otofinansman Oranı",
+        "C) Stok Bağımlılık Oranı",
+        "D) Aktifler Devir Hızı Oranı",
+        "E) Nakit Oranı"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Kısa vadeli borçların ödenmesi için mevcut stokların kaç katı daha satış yapılması gerektiğini gösteren oran aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Stokların kârlılığı oranı",
+        "B) Stok devir hızı oranı",
+        "C) Ortalama stokta kalma süresi",
+        "D) Stok bağımlılık oranı",
+        "E) Aktif devir hızı oran"
+      ],
+      "answer": 3
+    }
+  ],
+  "Çalışma Soruları (Faaliyet Oranları)": [
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Satışları 60.000 ₺, aktif devir hızı 4 olan işletmenin ortalama etkinlik süresi 100 gündür. Alacaklarını ortalama 40 günde tahsil eden işletmenin ortalama stok tutarı ne kadardır?",
+      "options": [
+        "A) 9.000",
+        "B) 10.000",
+        "C) 15.000",
+        "D) 18.000",
+        "E) 21.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 200.000 ₺, ortalama tahsilat süresi 60 gün olan F işletmesinin stok devir hızının 5 olması durumunda ortalama etkinlik süresi kaçtır?",
+      "options": [
+        "A) 60 gün",
+        "B) 72 gün",
+        "C) 132 gün",
+        "D) 200 gün",
+        "E) 228 gün"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 72.000 ₺ olan TGD işletmesinin ortalama stok süresi 120 gün olduğuna göre ortalama stok tutarı kaç ₺'dir?",
+      "options": [
+        "A) 12.000",
+        "B) 24.000",
+        "C) 36.000",
+        "D) 48.000",
+        "E) 60.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin ilk üç aylık dönemde gerçekleştirdiği satışların maliyeti 15.000 ₺ ve ortalama stok tutarı 5.000 ₺ ise bu işletmede \"ortalama stokta bekleme süresi\" kaç gündür?",
+      "options": [
+        "A) 30",
+        "B) 45",
+        "C) 60",
+        "D) 90",
+        "E) 120"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Kredili satışlar toplamı 45.000 ₺ olan bir işletmenin ortalama tahsilat süresi 40 gün olarak hesaplanmışsa, bu işletmenin ortalama ticari alacaklar tutarı kaç ₺'dir? (Bir yıl 360 gün olarak kabul edilmiştir.)",
+      "options": [
+        "A) 5.000",
+        "B) 10.000",
+        "C) 15.000",
+        "D) 20.000",
+        "E) 25.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Ticari alacak devir hızı oranı 8, ticari borç devir hızı oranı 12 olan bir işletmede ortalama etkinlik süresi (nakit dönüşüm süresi) 105 gün ise stok devir hızı kaçtır? (Bir yıl 360 gün olarak kabul edilecektir.)",
+      "options": [
+        "A) 4",
+        "B) 5",
+        "C) 6",
+        "D) 7",
+        "E) 8"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TGD işletmesine ait bazı veriler aşağıdaki gibidir:<br><br>Net Satışlar: 200.000 ₺<br>Ort. Etkinlik Süresi: 150 gün<br>Ort. Tahsilat Süresi: 60 gün<br><br>Bu işletmede Brüt Satış Karlılığı oranı %20 olduğuna göre ortalama stok tutarı ne kadardır?",
+      "options": [
+        "A) 60.000",
+        "B) 50.000",
+        "C) 40.000",
+        "D) 80.000",
+        "E) 70.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Stokların devir hızını, satışların maliyet tutarını esas alarak hesaplayan bir işletmede, ortalama stoklar 25.000 ₺ ve stokta kalma süresi 60 gündür. İşletmenin brüt satış kârı 50.000 ₺'dir.<br><br>Buna göre, işletmenin brüt satış kârlılık oranı yüzde kaçtır?",
+      "options": [
+        "A) 15",
+        "B) 18",
+        "C) 20",
+        "D) 25",
+        "E) 30"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 180.000 ₺ olan bir işletmenin, brüt satış kârı 30.000 ₺ ve ortalama stok tutarı 10.000 ₺'dir.<br><br>Buna göre, bu işletmenin stoklarının ortalama stokta bekleme süresi kaç gündür? (Bir yıl 360 gün kabul edilecektir.)",
+      "options": [
+        "A) 12",
+        "B) 16",
+        "C) 18",
+        "D) 22",
+        "E) 24"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 2.000.000 ₺, ortalama stok bulundurma süresi 40 gün ve ortalama ticari alacakları 100.000 ₺ olan bir işletmenin ortalama alacak tahsilat süresi kaç gündür? (1 yıl = 360 gün olarak kabul edilecektir.)",
+      "options": [
+        "A) 9",
+        "B) 18",
+        "C) 22",
+        "D) 30",
+        "E) 58"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Brüt kâr tutarı 200.000 ₺, brüt kârlılık oranı %25 olan bir işletmede; ortalama ticari alacaklar tutarı 100.000 ₺ ise bu işletmede ortalama tahsilat süresi kaç gündür? (Bir yıl 360 gün olarak kabul edilecektir.)",
+      "options": [
+        "A) 40",
+        "B) 45",
+        "C) 50",
+        "D) 55",
+        "E) 60"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 180.000 ₺ olan bir işletmenin, brüt satış kârı 30.000 ₺ ve ortalama stok tutarı 10.000 ₺'dir.<br><br>Buna göre, bu işletmenin stoklarının ortalama stokta bekleme süresi kaç gündür? (Bir yıl 360 gün kabul edilecektir.)",
+      "options": [
+        "A) 12",
+        "B) 16",
+        "C) 18",
+        "D) 22",
+        "E) 24"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi alacak devir hızının düşmesine neden olmaz?",
+      "options": [
+        "A) Etkili bir tahsilat politikasından yoksun olunması",
+        "B) İşletmenin alacaklarını tahsilde güçlükle karşılaşması",
+        "C) Kredili satışların süresi konusunda esnek davranılması",
+        "D) Müşterilerde aranacak nitelikler konusuna önem verilmemesi",
+        "E) İşletmenin etkili bir tahsilat politikasına sahip olması"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdaki işlemlerden hangisi stok devir hızını azaltır?",
+      "options": [
+        "A) Stok satın alınması",
+        "B) Stok satılması",
+        "C) Stok değer düşüklüğü için karşılık ayrılması",
+        "D) Değersiz hale gelen stokların olması",
+        "E) Alınan stokların bir kısmının iade edilmesi"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdaki işlemlerden hangisi alacak devir hızını arttırır?",
+      "options": [
+        "A) Kredili mal satışı",
+        "B) Senetsiz alacağın şüpheli hale gelmesi",
+        "C) Ambalajlı ürünleri için depozito ödenmesi",
+        "D) Kısa vadeli senet karşılığı taşıt satışı",
+        "E) Vadesi gelen alacakların tahsili"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Faaliyet oranları ile ilgili olarak verilen aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) İşletme varlıklarının verimli ve etkin kullanılıp kullanılmadığının ölçülmesinde kullanılır.",
+        "B) Mevcut varlıkların satışlar kalemi karşısında etkinliği ölçülür.",
+        "C) İlgili hesap kalanının artması devir hızının düşmesine sebep olur.",
+        "D) Devir hızının düşmesi verimliliğin artması anlamına gelir.",
+        "E) Devir hızı ile ilgili hesap kaleminin tutarı arasında ters yönlü bir değişim vardır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmeye ait bazı veriler aşağıdaki gibidir:<br><br>Brüt satış kârı: 60.000 ₺<br>Net satışlar: 100.000 ₺<br>Dönen varlıklar: 30.000 ₺<br>Kısa vadeli yabancı kaynaklar: 15.000 ₺<br>Ortalama stoklar: 5.000 ₺<br><br>Bu bilgilere göre işletmenin stok devir hızı oranı kaçtır?",
+      "options": [
+        "A) 5",
+        "B) 20",
+        "C) 8",
+        "D) 10",
+        "E) 15"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net Satışları 60.000 ₺, Aktif Devir hızı 2 olan bir işletmede dönen varlıkların duran varlıklara oranı %50'dir.<br><br>Kısa vadeli yabancı kaynak tutarı 8.000 ₺ olan işletmenin devamlı sermaye tutarı kaç ₺'dir?",
+      "options": [
+        "A) 30.000",
+        "B) 18.000",
+        "C) 22.000",
+        "D) 38.000",
+        "E) 32.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Satışları 40.000 ₺, sürekli sermayesi 14.000 ₺, aktif devir hızı 2 olan bir işletmenin kısa vadeli yabancı kaynak toplamı kaç ₺'dir?",
+      "options": [
+        "A) 2.000",
+        "B) 3.000",
+        "C) 4.000",
+        "D) 5.000",
+        "E) 6.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 100.000 ₺ olan bir işletmenin aktif devir hızı oranı 5, duran varlıklar toplamı da 12.000 ₺ ise dönen varlıklar toplamı kaç ₺'dir?",
+      "options": [
+        "A) 8.000",
+        "B) 20.000",
+        "C) 52.000",
+        "D) 60.000",
+        "E) 88.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin cari döneme ait net satışları 90.000 ₺, satışlarının maliyeti 80.000 ₺, sürekli sermayesi 40.000 ₺, aktif devir hızı 1,5 ve cari oranı 2,5 ve asit test (likidite) oranı 1,5 ise stok devir hızı kaçtır?",
+      "options": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 8",
+        "E) 9"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin kısa vadeli yabancı kaynakları 12.000 ₺, net satışları 300.000 ₺, cari oranı 2,5 ve aktif devir hızı 3 ise bu işletmenin duran varlık toplamı kaç ₺'dir?",
+      "options": [
+        "A) 30.000",
+        "B) 45.000",
+        "C) 67.000",
+        "D) 70.000",
+        "E) 100.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmeye ait bazı bilgiler aşağıdaki gibidir:<br><br>Satışlar: 40.000 ₺<br>Sürekli sermaye: 14.000 ₺<br>Aktif devir hızı: 2<br>Cari oran: 2,5<br><br>Bu bilgilere göre işletmenin dönen varlıkları kaç ₺'dir?",
+      "options": [
+        "A) 16.000",
+        "B) 10.000",
+        "C) 6.000",
+        "D) 15.000",
+        "E) 8.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönen varlık devir hızı oranı 3 olan bir işletmede; net satış tutarı 330.000 ₺, aktif toplamı 200.000 ₺ ise duran varlıkların tutarı kaç ₺'dir?",
+      "options": [
+        "A) 110.000",
+        "B) 130.000",
+        "C) 530.000",
+        "D) 90.000",
+        "E) 200.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Brüt satış kârı 60.000 ₺ olan işletmede satışların maliyeti brüt satış kârının 5 katıdır. Öz sermaye tutarı 90.000 ₺ olduğuna göre öz sermaye devir hızı kaçtır?",
+      "options": [
+        "A) 7,80",
+        "B) 3,84",
+        "C) 3,20",
+        "D) 3,00",
+        "E) 4,00"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin, brüt satışları 95.000 ₺, satıştan indirimleri 15.000 ₺, dönen varlıkları 21.000 ₺ ve pasif toplamı 61.000 ₺'dir.<br><br>Bu bilgilere göre işletmenin duran varlıklar devir hızı kaçtır?",
+      "options": [
+        "A) 1,00",
+        "B) 1,20",
+        "C) 1,50",
+        "D) 2,00",
+        "E) 2,50"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışlarının tutarı 600.000 ₺ olan bir işletmede borçların toplamı 20.000 ₺, özkaynak toplamı 30.000 ₺ ise bu işletmenin aktif devir hızı oranı kaçtır?",
+      "options": [
+        "A) 12",
+        "B) 16",
+        "C) 20",
+        "D) 24",
+        "E) 30"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 7.200.000 ₺, duran varlıkları 3.000.000 ₺ ve uzun vadeli borçları 1.400.000 ₺ olan bir işletmenin öz sermaye devir hızı 2 ise, net işletme sermayesi kaç ₺'dir?",
+      "options": [
+        "A) 1.600.000",
+        "B) 2.000.000",
+        "C) 2.200.000",
+        "D) 3.600.000",
+        "E) 4.400.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin bir önceki döneme göre stoklarındaki artış yüzdesi, satışların maliyetindeki artış yüzdesinin iki katı ise, bu işletme için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Bu durum gelecek dönemlerde de devam ederse, bu işletmenin özkaynak kârlılığı düşecektir.",
+        "B) Bu durum gelecek dönemlerde de devam ederse, bu işletmenin ticari borçları azalacaktır.",
+        "C) Bu durum gelecek dönemlerde de devam ederse, işletmenin stok devir hızı düşecektir.",
+        "D) Bu durum gelecek dönemlerde de devam ederse, bu işletmenin net işletme (çalışma) sermayesi azalacaktır.",
+        "E) Bu durum gelecek dönemlerde de devam ederse, bu işletmenin ticari alacakları artacaktır."
+      ],
+      "answer": 2
+    }
+  ],
+  "Çalışma Soruları (Mali Yapı Oranları)": [
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönen Varlıkları 48.000 ₺<br>Duran Varlıkları 64.000 ₺<br>U. Vd. Yabancı Kaynakları 32.000 ₺<br>Öz kaynakları 62.000 ₺<br><br>olan bir işletmenin kaldıraç oranı kaçtır?",
+      "options": [
+        "A) 0.16",
+        "B) 0.28",
+        "C) 0.36",
+        "D) 0.44",
+        "E) 0.50"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Finansal kaldıraç olarak da adlandırılan yabancı kaynakların aktif toplamına oranı sonucunun %50'nin üzerinde çıkması aşağıdakilerden hangisini ifade etmektedir?",
+      "options": [
+        "A) Net çalışma sermayesinin yüksek oranda stoklara bağlandığını, dolayısıyla günlük faaliyetlerin yürütülmesinin stokların satışıyla gerçekleşebileceğini",
+        "B) Duran varlıkların finanse edilmesinde yabancı kaynak kullanımına da başvurulduğunu",
+        "C) İşletmenin finansal gücünün iyi olduğunu ve faizleri karşılayabildiğini",
+        "D) Öz kaynakların ekonomik ve verimli kullanıldığını",
+        "E) Aktifin finansmanında yabancı kaynaklardan öz kaynaklara oranla daha fazla yararlanıldığı"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "T işletmesinin 2015 yılı bilançosuna ait bazı veriler aşağıdaki gibidir:<br><br>Kısa Vadeli Yabancı Kaynak: 60.000 ₺<br>Duran Varlıklar: 110.000 ₺<br>Net işletme Sermayesi: 30.000 ₺<br><br>İşletmede finansal kaldıraç oranı 0,80 olup, finansman oranının %25 olabilmesi için Öz Kaynak tutarının ne kadar olması gerekir?",
+      "options": [
+        "A) 40.000",
+        "B) 50.000",
+        "C) 160.000",
+        "D) 200.000",
+        "E) 100.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Sürekli sermayesi 50.000 ₺, aktif toplamı 60.000 ₺ ve bütün borçlarının toplamı 40.000 ₺ olan bir işletmenin; \"uzun vadeli yabancı kaynaklar toplamı / kısa vadeli yabancı kaynaklar toplamı\" oranı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 1,2",
+        "B) 1,5",
+        "C) 2,0",
+        "D) 2,5",
+        "E) 3,0"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aktif toplamı 80.000 ₺, sürekli sermayesi (devamlı sermayesi) 60.000 ₺ olan bir işletmenin \"borçlar toplamı / öz kaynaklar toplamı\" oranı %300 ise, bu işletmenin öz kaynaklar toplamı kaç ₺'dir?",
+      "options": [
+        "A) 10.000",
+        "B) 15.000",
+        "C) 16.000",
+        "D) 20.000",
+        "E) 26.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmeye ait bazı bilgiler aşağıdaki gibidir:<br><br>Cari oran: 1,6<br>Aktif toplamı: 6.500 ₺<br>Öz kaynaklar: 2.500 ₺<br>Uzun Vd. Yab. Kaynak: 3.000 ₺<br><br>Bu bilgilere göre işletmenin duran varlıkları kaç ₺'dir?",
+      "options": [
+        "A) 5.700",
+        "B) 4.900",
+        "C) 5.500",
+        "D) 4.700",
+        "E) 5.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin cari oranı 2, devamlı sermayenin kısa vadeli yabancı kaynaklara oranı 2,5 ise duran varlıkların devamlı sermayeye oranı kaçtır?",
+      "options": [
+        "A) 0,60",
+        "B) 0,75",
+        "C) 1,25",
+        "D) 1,50",
+        "E) 2,50"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Brüt İşletme Sermayesi: 24.000 ₺<br>Cari Oranı: 2<br>Aktif Toplamı: 40.000 ₺<br><br>Yukarıdaki bilgilere göre işletmenin devamlı sermaye tutarı kaç ₺'dir?",
+      "options": [
+        "A) 12.000",
+        "B) 16.000",
+        "C) 20.000",
+        "D) 24.000",
+        "E) 28.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "X Ticaret İşletmesi ile ilgili bazı bilgiler şu şekildedir:<br><br>Dönen Varlıklar: 40.000 ₺<br>Sürekli Sermaye: 80.000 ₺<br>Özkaynaklar: 70.000 ₺<br><br>Buna göre, bu işletmede Cari Oran 2 ise yabancı kaynakların aktif toplamına oranı nedir?",
+      "options": [
+        "A) %20",
+        "B) %30",
+        "C) %40",
+        "D) %50",
+        "E) %55"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aktif devir hızı 8 olan bir işletmenin, dönem net kârı 2.000 ₺, net satışları 800.000 ₺ ve özkaynak kârlılığı %10'dur.<br><br>Buna göre, bu işletmenin Borç / Toplam Varlık oranı yüzde kaçtır?",
+      "options": [
+        "A) 20",
+        "B) 30",
+        "C) 50",
+        "D) 75",
+        "E) 80"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin cari oranı 2, kısa vadeli yabancı kaynaklarının devamlı sermayeye oranı ise 0,25'tir.<br><br>Buna göre, işletmenin duran varlıklarının devamlı sermayeye oranı kaçtır?",
+      "options": [
+        "A) 0,20",
+        "B) 0,60",
+        "C) 0,75",
+        "D) 1,25",
+        "E) 1,75"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 100.000 ₺ olan bir işletmede aktif devir hızı 2, özkaynak devir hızı 4'tür. Buna göre, bu işletmenin finansal kaldıraç oranı kaçtır?",
+      "options": [
+        "A) 0,25",
+        "B) 0,33",
+        "C) 0,50",
+        "D) 1,25",
+        "E) 2"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletme aşağıdakilerden hangisini yaparak Borç / Toplam Varlık oranını azaltır?",
+      "options": [
+        "A) Uzun vadeli borçların vadesini kısaltarak",
+        "B) Tahvil ihraç ederek",
+        "C) Banka kredisi kullanarak",
+        "D) Hisse senedi ihraç ederek",
+        "E) Kısa vadeli borçların vadesini uzatarak"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdaki oranlardan hangisi işletmenin yedekleri hakkında bilgi verir?",
+      "options": [
+        "A) Nakit oranı",
+        "B) Otofinansman oranı",
+        "C) Finansal kaldıraç oranı",
+        "D) Finansman oranı",
+        "E) Stok devir hızı oranı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "2016 yılında otofinansman (iç kaynaklar) oranı 0,20 olan bir işletmenin, sermaye tutarı 60.000 ₺, ödenmemiş sermaye tutarı ise 10.000 ₺ olup, geçmiş yıl zararı bulunmamaktadır.<br><br>İşletme, 2017 yılında elde ettiği 40.000 ₺'lik ticari kârının 10.000 ₺'sini kâr yedeği ayırdığına göre, otofinansman (iç kaynaklar) oranı % kaç olur?",
+      "options": [
+        "A) 20",
+        "B) 25",
+        "C) 40",
+        "D) 44",
+        "E) 60"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Kar Yedekleri: 200 ₺<br>Sermaye Yedekleri: 300 ₺<br>Geçmiş Yıl Zararları: 50 ₺<br>Ödenmiş Sermaye: 300 ₺<br><br>İç kaynaklar (Otofinansman) oranı ne kadar olmalıdır?",
+      "options": [
+        "A) 30",
+        "B) 40",
+        "C) 50",
+        "D) 60",
+        "E) 65"
+      ],
+      "answer": 2
+    }
+  ],
+  "Çalışma Soruları (Kârlılık Oranları)": [
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TGD işletmesine ait bazı veriler aşağıdaki gibidir:<br><br>Duran Varlıklar: 60.000 ₺<br>Dönen Varlıklar: 40.000 ₺<br>KVYK: 30.000 ₺<br>Öz Kaynaklar: 50.000 ₺<br><br>Aktif karlılık oranı 0,30 olduğuna göre işletmenin mali rantabilite oranı kaçtır?",
+      "options": [
+        "A) 0,50",
+        "B) 0,60",
+        "C) 0,40",
+        "D) 0,20",
+        "E) 0,70"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Brüt karlılık oranı 0,50 olan bir işletmenin, satışlarının maliyeti 400.000 ₺ ise net satışları kaç ₺'dir?",
+      "options": [
+        "A) 1.250.000",
+        "B) 1.200.000",
+        "C) 800.000",
+        "D) 250.000",
+        "E) 200.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TGD işletmesine ait bazı bilgiler aşağıdaki gibidir:<br><br>Cari Oran: 2<br>Dönem Net Karı: 45.000 ₺<br>Duran Varlıklar: 60.000 ₺<br>Kısa Vadeli Yabancı Kaynak: 45.000 ₺<br>Uzun Vadeli Yabancı Kaynak: 30.000 ₺<br><br>Bu bilgilere göre işletmenin \"Mali Rantabilite\" oranı kaçtır?",
+      "options": [
+        "A) 0,80",
+        "B) 0,60",
+        "C) 0,40",
+        "D) 0,30",
+        "E) 0,20"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin, brüt satışları 95.000 ₺, satıştan indirimleri 15.000 ₺, satışlarının maliyeti 30.000 ₺ ve faaliyet giderleri 10.000 ₺'dir.<br><br>Bu bilgilere göre işletmenin faaliyet kârlılığı oranı kaçtır?",
+      "options": [
+        "A) 0,50",
+        "B) 0,40",
+        "C) 0,30",
+        "D) 0,20",
+        "E) 0,10"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Sürekli sermayesi 250.000 ₺, aktif toplamı 430.000 ₺, net kârı 10.000 ₺ ve özkaynak kârlılığı %10 olan bir işletmede kısa ve uzun vadeli borçların toplamı kaç ₺'dir?",
+      "options": [
+        "A) 120.000",
+        "B) 130.000",
+        "C) 150.000",
+        "D) 230.000",
+        "E) 330.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Olağan kâr tutarı 80.000 ₺, finansman gideri 30.000 ₺, faaliyet kârlılığı %20 olan bir işletmede net satışların tutarı 1.000.000 ₺ ise; bu işletmenin diğer faaliyetlerinden doğan gelir ve giderlerin olağan kâr üzerindeki azaltıcı etkisi kaç ₺'dir?",
+      "options": [
+        "A) 90.000",
+        "B) 100.000",
+        "C) 110.000",
+        "D) 120.000",
+        "E) 130.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin gelir tablosu kalemlerinden bazıları şöyledir:<br><br>Genel Yönetim Giderleri: 6.000 ₺<br>Yurtiçi Satışlar: 20.000 ₺<br>Satış Iskontoları: 2.000 ₺<br>Diğer İndirimler: 1.000 ₺<br>Satılan Ticari Malların Maliyeti: 8.000 ₺<br>Diğer Olağan Gelir ve Kârlar: 3.000 ₺<br>Önceki Dönem Gelir ve Kârları: 1.500 ₺<br>Kısa Vadeli Borçlanma Giderleri: 2.500 ₺<br><br>Buna göre, işletmenin faaliyet kârı kaç ₺'dir?",
+      "options": [
+        "A) 3.000",
+        "B) 5.000",
+        "C) 6.000",
+        "D) 9.000",
+        "E) 10.000"
+      ],
+      "answer": 0
+    }
+  ],
+  "Çalışma Soruları (TFRS-TMS-GENEL)": [
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "X İşletmesi, TFRS 16 kapsamında faaliyet kiralamalarını bilançosuna dahil etmiştir.\n\nBu muhasebe değişikliğinin işletmenin finansal analiz rasyoları üzerindeki etkisi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Cari oran artar, borçlanma katsayısı azalır.",
+        "B) FAVÖK (EBITDA) artar, toplam borçluluk oranı yükselir.",
+        "C) Net kar marjı değişmez, likidite oranları iyileşir.",
+        "D) Maddi duran varlık devir hızı artar, finansman giderleri azalır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 2 Stoklar standardına göre, stokların net gerçekleşebilir değeri maliyet bedelinin altına düştüğünde ayrılan karşılığın gelir tablosundaki etkisi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Sadece öz kaynaklar içerisinde bir azalışa neden olur.",
+        "B) Net nakit akışını anında azaltır.",
+        "C) Satışların maliyetini artırarak brüt karı düşürür.",
+        "D) Pazarlama giderlerini artırarak faaliyet karını düşürür.",
+        "E) Stoklara bağlı borçlanma maliyetini arttırır."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 16 Kiralamalar standardı sonrası, bilançoda 'Kullanım Hakkı Varlığı' ve 'Kiralama Yükümlülüğü' oluşması hangi rasyoyu olumsuz (yüksek risk yönünde) etkiler?",
+      "options": [
+        "A) Cari Oran",
+        "B) Alacak Devir Hızı",
+        "C) Asit-Test Oranı",
+        "D) Borç / Özkaynak Oranı",
+        "E) Nakit Oran"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 16 kapsamında maliyet yöntemi yerine yeniden değerleme modelini seçen bir işletmede, duran varlık değer artışlarının Özkaynaklardaki 'Yeniden Değerleme Değer Artışları' kaleminde izlenmesi hangi analiz türü için kritik bir veridir?",
+      "options": [
+        "A) Dikey Analiz (Yüzde Analizi)",
+        "B) Hisse Başına Kar Analizi",
+        "C) Nakit Akış Analizi",
+        "D) Likidite Analizi",
+        "E) Oran Analizi"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin dipnotlarında, TMS 36 uyarınca şerefiye (goodwill) için değer düşüklüğü testi yapıldığı ve bir karşılık ayrıldığı belirtiliyorsa, bu durumun finansal tablolardaki en belirgin etkisi nedir?",
+      "options": [
+        "A) Net nakit akışında büyük bir artış görülür.",
+        "B) Dönen varlıkların toplamı artar.",
+        "C) Özkaynaklar ve net dönem karı azalır.",
+        "D) Şirketin piyasa değeri defter değerinin altına düşer.",
+        "E) Borçlanma oranları artar."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 15 uyarınca hasılatın muhasebeleştirilmesinde 'edim yükümlülüğünün yerine getirilmesi' esas alınır.\n\nBir yazılım şirketinin lisans satışını yapıp parayı almasına rağmen henüz kurulumu yapmadığı durumda, bu tutar bilançoda nerede görünmelidir?",
+      "options": [
+        "A) Ticari Alacaklar",
+        "B) Ertelenmiş Gelirler (Sözleşme Yükümlülükleri)",
+        "C) Diğer Olağanüstü Gelirler",
+        "D) Net Satışlar",
+        "E) Stoklar"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 16 uyarınca maliyet yönteminden yeniden değerleme yöntemine geçilmesi, işletmenin borçlanma katsayısını (Toplam Borç / Özkaynak) nasıl etkiler?",
+      "options": [
+        "A) Değer artışları öz kaynakları artırdığı için oran düşer.",
+        "B) Borçlar da piyasa değerine çekileceği için oran değişmez.",
+        "C) Oran sadece nakit artışı olduğunda değişir.",
+        "D) Aktif toplamı arttığı için oran yükselir.",
+        "E) Değer artışları öz kaynakları düşürdüğü için oran artar."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 9 kapsamında bir işletmenin ticari alacakları için 'beklenen kredi zarar karşılığı' ayırması durumunda hangi finansal tablo kalemi doğrudan etkilenmez?",
+      "options": [
+        "A) Öz kaynaklar",
+        "B) Ödenmiş Sermaye",
+        "C) Dönen Varlıklar",
+        "D) Net Dönem Karı",
+        "E) Sermaye Yedekleri"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin stok devir hızı artarken brüt kar marjının düşmesi aşağıdakilerden hangisine işaret edebilir?",
+      "options": [
+        "A) İşletmenin stoklarını yüksek kar marjıyla sattığına.",
+        "B) Hammadde fiyatlarının düştüğüne.",
+        "C) Stok değer düşüklüğü karşılığının iptal edildiğine.",
+        "D) İşletmenin pazar payı kazanmak için fiyat kırdığına.",
+        "E) Satışlarını peşin yaptığına."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 16'ya göre kiralama yükümlülüklerinin 'finansal borç' olarak sınıflandırılması, nakit akış tablosunda hangi bölümde bir değişikliğe yol açar?",
+      "options": [
+        "A) Finansman Faaliyetlerinden Nakit Akışları",
+        "B) Olağanüstü Nakit Akışları",
+        "C) Sadece Dipnotlar",
+        "D) Yatırım Faaliyetlerinden Nakit Akışları",
+        "E) İşletme Faaliyetlerinden Nakit Akışları"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 38 uyarınca, bir işletmenin kendi bünyesinde oluşturduğu bir markayı bilançosunda aktifleştirememesi mali analizde nasıl bir sapmaya neden olabilir?",
+      "options": [
+        "A) Kaldıraç oranlarının düşük görünmesine.",
+        "B) Cari oranının normalden daha iyi görünmesine.",
+        "C) Piyasa değeri / Defter değeri oranının yapay olarak yüksek görünmesine.",
+        "D) Net işletme sermayesinin artmasına.",
+        "E) Nakit Oranın Düşmesine."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 23 Borçlanma Maliyetleri standardına göre, 'özellikli varlıklar' için katlanılan faizlerin maliyete eklenmesi hangi rasyoyu dönem bazında iyileştirir?",
+      "options": [
+        "A) Alacak Devir Hızı",
+        "B) Asit-Test Oranı",
+        "C) Borçlanma Katsayısı",
+        "D) Faiz Karşılama Oranı",
+        "E) Cari Oran"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Ertelenmiş Vergi Varlığı' oluşturması, finansal analizde neyin göstergesi olabilir?",
+      "options": [
+        "A) Şirketin nakit fazlası olduğunun.",
+        "B) Şirketin gelecekte vergi ödemeyeceğinin.",
+        "C) Şirketin vergi kaçırdığının.",
+        "D) Şirketin muhasebe karının mali kardan düşük olduğunun.",
+        "E) Şirketin borç yükü olduğunun."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Yatay analizde 'Net Satışlar' %20 artarken 'Ticari Alacaklar'ın %60 artması analiste neyi düşündürmelidir?",
+      "options": [
+        "A) Şirketin tahsilat performansının iyileştiğini.",
+        "B) Satış politikasının gevşediğini veya hayali satış riskini.",
+        "C) Stokların hızlı eritildiğini.",
+        "D) Nakit satışların oranının arttığını.",
+        "E) Alacak tahsilinde sorun olmadığını."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 40 Yatırım Amaçlı Gayrimenkuller standardı uyarınca gerçeğe uygun değer yöntemini kullanan bir işletmede, değer artışlarının gelir tablosuna kaydedilmesi hangi rasyoyu doğrudan artırır?",
+      "options": [
+        "A) Net Kar Marjı",
+        "B) Alacak Devir Hızı",
+        "C) Brüt Kar Marjı",
+        "D) Cari Oran",
+        "E) Asit test oranı"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin 'Hazır Değerler' kaleminin çok yüksek olması her zaman olumlu mudur?",
+      "options": [
+        "A) Hayır, çünkü hazır değerler enflasyona karşı korunur.",
+        "B) Hayır, paranın zaman değerinden yararlanılamadığına (atıl fon) işaret edebilir.",
+        "C) Evet, likidite riskini tamamen ortadan kaldırır.",
+        "D) Evet, çünkü borçlanma maliyetini sıfırlar.",
+        "E) Evet, çünkü borç ödeme sorununu kaldırır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 37 uyarınca bir dava için 'karşılık' ayrılması ile 'koşullu borç' olarak dipnotlarda açıklanması arasındaki temel fark nedir?",
+      "options": [
+        "A) Koşullu borçlar öz kaynakları artırırken karşılıklar azaltır.",
+        "B) Her iki durum da cari oranı aynı oranda düşürür.",
+        "C) Karşılık ayırmak için kaynak çıkışının muhtemel (%50'den fazla) olması, dipnot açıklaması için ise sadece mümkün olması gerekir.",
+        "D) Karşılık ayrılması için nakit çıkışının kesinleşmiş olması gerekir.",
+        "E) Karşılık ayrılamaz."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dolaylı yönteme göre hazırlanan bir Nakit Akış Tablosunda, 'Amortisman Giderleri' neden Net Kar rakamına geri eklenir?",
+      "options": [
+        "A) Vergi avantajı sağlamak amacıyla.",
+        "B) Yatırım faaliyetlerini finanse etmek için.",
+        "C) Amortismanın nakit çıkışı gerektirmeyen bir gider olması nedeniyle operasyonel nakit akışını bulmak için.",
+        "D) Şirketin varlıklarının değer kazandığını göstermek için.",
+        "E) Duran varlık artışını analiz etmek için."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 2 Stoklar standardına göre, 'İlk Giren İlk Çıkar' (FIFO) yerine 'Ağırlıklı Ortalama Maliyet' yöntemine geçilmesi enflasyonist bir ortamda analiz sonuçlarını nasıl etkiler?",
+      "options": [
+        "A) Cari oran yükselir.",
+        "B) Vergi yükü artar.",
+        "C) Satışların maliyeti azalır, kar artar.",
+        "D) Dönem sonu stok değeri FIFO'ya göre daha düşük görünür.",
+        "E) Satış maliyeti düşer, kar azalır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Finansal Borçlar' kaleminde ciddi bir artış olmasına rağmen 'Finansman Giderleri' kaleminde benzer bir artış yoksa, bunun sebebi ne olabilir?",
+      "options": [
+        "A) Faiz oranlarının piyasada genel olarak düşmesi.",
+        "B) Şirketin borçlarını vadesinden önce ödediği.",
+        "C) TMS 23 uyarınca borçlanma maliyetlerinin varlıkların maliyetine dahil edilmesi (aktifleştirme).",
+        "D) Kredi vadesinin çok uzun olması.",
+        "E) Borçların zamanında ödenmesinden dolayı faiz avantajı."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net İşletme Sermayesi (NİS) pozitif olan bir şirketin likidite durumu hakkında ne söylenebilir?",
+      "options": [
+        "A) Şirketin hiçbir finansal riski kalmamıştır.",
+        "B) Şirket mutlaka kar etmektedir.",
+        "C) Şirket tüm duran varlıklarını kısa vadeli borçla almıştır.",
+        "D) Şirket kısa vadeli borçlarını ödedikten sonra operasyonlarını sürdürecek kaynağa sahiptir.",
+        "E) Şirket müşterilerden olan ticari alacaklarının elden tahsil edilmesi."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 9'a göre 'itfa edilmiş maliyeti' üzerinden ölçülen bir finansal varlıkta görülen değer artışları bilançoda nereye yansıtılır?",
+      "options": [
+        "A) Yansıtılmaz (Değer artışı kaydedilmez).",
+        "B) Özkaynaklar içinde 'Diğer Kapsamlı Gelir'e.",
+        "C) Duran Varlık Yeniden Değerleme Fonuna.",
+        "D) Gelir Tablosuna (Kar/Zarar).",
+        "E) Bilançoda nakit girişleri olarak."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Özkaynak Karlılığı' (ROE) %30 iken 'Aktif Karlılığı' (ROA) %5 ise bu durum neyi ifade eder?",
+      "options": [
+        "A) Şirketin iflas riskinin sıfır olduğunu.",
+        "B) Şirketin yüksek finansal kaldıraç (borç) kullanarak karını artırdığını.",
+        "C) Şirketin çok yüksek miktarda özkaynak kullandığını.",
+        "D) Varlıkların çok verimli kullanıldığını.",
+        "E) Nakit varlıklarda artış olduğunu."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 8 uyarınca, muhasebe tahminlerindeki bir değişikliğin (örneğin bir makinenin kalan ömrünün 5 yıldan 8 yıla çıkarılması) etkisi nasıl muhasebeleştirilir?",
+      "options": [
+        "A) Sadece dipnotlarda belirtilir, rakamlara dokunulmaz.",
+        "B) İleriye dönük olarak (cari dönem ve gelecek dönemler).",
+        "C) Doğrudan özkaynaklarda düzeltme yapılır.",
+        "D) Geriye dönük olarak geçmiş yıllar düzeltilir.",
+        "E) Geriye dönük düzeltme yapılır ancak cari dönem toplamlarına eklenmez."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Şirketin 'Esas Faaliyet Karı' artarken 'Dönem Net Karı'nın azalması aşağıdakilerden hangisiyle açıklanabilir?",
+      "options": [
+        "A) Genel yönetim giderlerinin azaldığıyla.",
+        "B) Satışların maliyetinin düştüğüyle.",
+        "C) Yüksek finansman giderleri veya durdurulan faaliyet zararlarıyla.",
+        "D) Pazarlama stratejisinin başarısıyla.",
+        "E) Brüt satışlarda artışın olmasıyla."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 1 Sunum standardına göre, 'Kısa Vadeli Yabancı Kaynaklar' ile 'Uzun Vadeli Yabancı Kaynaklar' arasındaki ayrımın temel kriteri nedir?",
+      "options": [
+        "A) Raporlama döneminden itibaren 12 aylık süre.",
+        "B) Borcun miktarı.",
+        "C) Alacaklının banka olup olmaması.",
+        "D) Faiz oranının sabit veya değişken olması.",
+        "E) Borcun ödenip ödenmemesi."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Hisse Başına Kar' (HBK) rakamı artarken, 'İşletme Faaliyetlerinden Nakit Akışları'nın sürekli azalması analiste neyi düşündürmelidir?",
+      "options": [
+        "A) Şirketin borçlarını vadesinden önce ödediğini.",
+        "B) Amortisman giderlerinin çok yüksek olduğunu.",
+        "C) Karın büyük ölçüde nakit girişi sağlamayan muhasebe kayıtlarından (tahakkuklardan) kaynaklandığını.",
+        "D) Şirketin çok karlı bir yatırım dönemine girdiğini.",
+        "E) Şirketin uzun vadeli yatırımlara yöneldiğini."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 3 İşletme Birleşmeleri standardına göre, bir satın alma işleminde ödenen tutarın, edinilen varlıkların gerçeğe uygun değerinden düşük olması durumunda oluşan 'Pazarlıklı Satın Alma Kazancı' (Negatif Şerefiye) nereye kaydedilir?",
+      "options": [
+        "A) Ertelenmiş gelir olarak 5 yıla yayılır.",
+        "B) Özkaynaklar altında yedeklere.",
+        "C) Duran varlıkların maliyetinden düşülür.",
+        "D) Doğrudan Gelir Tablosuna (Hasılat/Kar olarak).",
+        "E) Bilançoda varlık kalemlerine."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin 'Ticari Borç Devir Hızı'nın rakiplerine göre çok düşük olması neyin sinyali olabilir?",
+      "options": [
+        "A) Şirketin nakit fazlası verdiğinin.",
+        "B) Şirketin tedarikçilerinden güçlü pazarlık gücüyle uzun vade alabildiğinin.",
+        "C) Şirketin stok yönetiminin çok verimli olduğunun.",
+        "D) Şirketin tedarikçilerine olan borçlarını çok hızlı ödediğinin.",
+        "E) Şirketin borç ödeme sorunu olduğunun."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 41 Tarımsal Faaliyetler kapsamında, canlı varlıkların (örneğin besi hayvanları) değerlemesinde kullanılan temel yöntem hangisidir?",
+      "options": [
+        "A) Satış maliyetleri düşülmüş gerçeğe uygun değer.",
+        "B) Tarihi Maliyet.",
+        "C) Net gerçekleşebilir değer.",
+        "D) Yeniden ikame bedeli.",
+        "E) Rayiç bedel."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Faiz Amortisman Vergi Öncesi Kar (FAVÖK/EBITDA) marjı yüksek olan bir şirketin net karının negatif olması durumunda, analistin ilk bakması gereken yer neresidir?",
+      "options": [
+        "A) Satış hacmindeki değişim.",
+        "B) Stok devir hızı.",
+        "C) Brüt Kar marjı.",
+        "D) Finansman Giderleri ve Borçluluk yapısı.",
+        "E) Faaliyet giderleri."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 34 Ara Dönem Finansal Raporlama standardına göre, yıllık bazda yapılan bir vergi düzenlemesinin ara dönem raporundaki etkisi nasıl yansıtılır?",
+      "options": [
+        "A) Doğrudan özkaynaklara borç kaydedilir.",
+        "B) Ara dönemde vergi gideri kaydedilmez.",
+        "C) Sadece yıl sonu raporunda gösterilir.",
+        "D) Beklenen yıllık efektif vergi oranı üzerinden ara döneme pay verilir.",
+        "E) Kısa vadeli borç olarak bilançoya yazılır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Asit-Test Oranı' (Likit Oran) 1.2, 'Cari Oranı' ise 3.5 ise bu durum neyi gösterir?",
+      "options": [
+        "A) Şirketin nakit sıkıntısı çektiğini.",
+        "B) Alacakların tahsil edilemediğini.",
+        "C) Şirketin borçlarını ödeyemez durumda olduğunu.",
+        "D) Şirketin dönen varlıklarının büyük bir kısmının stoklardan oluştuğunu.",
+        "E) Stok devir hızının yüksek olduğunu."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 5 Satış Amaçlı Elde Tutulan Duran Varlıklar standardına göre, bir varlık bu sınıfa alındıktan sonra aşağıdakilerden hangisi durdurulur?",
+      "options": [
+        "A) Vergi ödemeleri.",
+        "B) Amortisman ayrılması.",
+        "C) Bakım onarım giderleri.",
+        "D) Sigorta ödemeleri.",
+        "E) Geliştirme harcamaları."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletme, finansal tablolarını TMS 29 Yüksek Enflasyonlu Ekonomilerde Finansal Raporlama uyarınca düzeltiyorsa, 'Parasal Olmayan Kalemler' için ne yapılır?",
+      "options": [
+        "A) Düzeltme yapılmadan aynen bırakılır.",
+        "B) Değerleri piyasa fiyatına çekilir.",
+        "C) Doğrudan gider yazılırlar.",
+        "D) Genel fiyat endeksi kullanılarak cari değerine getirilir.",
+        "E) Düzeltme yapılmaz ancak kar zarar bilançoya yansıtılır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Analiz edilen bir şirketin 'Yatırım Faaliyetlerinden Nakit Akışları' kaleminin sürekli pozitif (nakit girişi) olması neye işaret ediyor olabilir?",
+      "options": [
+        "A) Şirketin çok yüksek miktarda kredi kullandığına.",
+        "B) Şirketin operasyonel karlılığının çok yüksek olduğuna.",
+        "C) Şirketin büyümek için yeni tesisler kurduğuna.",
+        "D) Şirketin duran varlıklarını veya iştiraklerini satarak nakit sağladığına (küçülme sinyali).",
+        "E) Şirketin duran varlıklarının arttığına."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 10 Konsolide Finansal Tablolar standardına göre, bir ana ortaklığın bağlı ortaklığı üzerindeki 'kontrol' gücünü kaybetmesi durumunda, kalan paylar bilançoda nasıl değerlenir?",
+      "options": [
+        "A) Kontrolün kaybedildiği tarihteki gerçeğe uygun değer ile.",
+        "B) Sadece dipnotlarda açıklanır.",
+        "C) Eski defter değeri üzerinden takip edilmeye devam edilir.",
+        "D) Sıfır bedelle izlenir.",
+        "E) Yeni değer üzerinden maliyet değeri ile."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Amortisman Giderleri / Brüt Satışlar' oranının yıllar içinde istikrarlı bir şekilde düşmesi, analiste hangi şüpheyi uyandırmalıdır?",
+      "options": [
+        "A) Vergi oranlarının düştüğünü.",
+        "B) Şirketin kapasite artırdığını.",
+        "C) Şirketin tüm varlıklarını nakit aldığını.",
+        "D) Varlıkların ekonomik ömürlerinin yapay olarak uzatılmış olabileceğini.",
+        "E) Stok yatırımlarına ağırlık verildiğini."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 12 uyarınca, gelecekte ödenecek vergileri azaltacak olan 'Geçmiş Yıl Zararları' bilançoda ne zaman 'Ertelenmiş Vergi Varlığı' olarak kaydedilebilir?",
+      "options": [
+        "A) Sadece şirket tasfiye edilirken.",
+        "B) Ortaklar sermaye artırımı yaptığında.",
+        "C) Gelecekte bu zararların mahsup edilebileceği yeterli mali karın elde edileceği muhtemelse.",
+        "D) Zarar edildiği anda otomatik olarak.",
+        "E) Kaydedilmez."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Konsolide mali tablolarda 'Azınlık Payları' (Kontrol Gücü Olmayan Paylar) bilançoda nerede gösterilir?",
+      "options": [
+        "A) Özkaynaklar grubu içerisinde ayrı bir kalem olarak.",
+        "B) Kısa Vadeli Yabancı Kaynaklar içinde.",
+        "C) Aktif tarafta alacaklar kaleminde.",
+        "D) Uzun Vadeli Yabancı Kaynaklar içinde.",
+        "E) Kısa vadeli yatırımlar olarak menkul değerlerde."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Yaratıcı Muhasebe' (Creative Accounting) yaparak stoklarını olduğundan yüksek (overstated) göstermesi durumunda cari oran ve net kar nasıl etkilenir?",
+      "options": [
+        "A) Cari oran yükselir, net kar değişmez.",
+        "B) Cari oran düşer, net kar azalır.",
+        "C) Cari oran değişmez, net kar artar.",
+        "D) Cari oran yükselir, net kar artar.",
+        "E) Cari oran düşer, net kar değişmez."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Analiz ettiğiniz bir şirketin dipnotlarında 'Finansal riskten korunma (hedging) muhasebesi' uygulandığı belirtiliyorsa, bu şirketin temel amacı nedir?",
+      "options": [
+        "A) Borçlarını ödemeyi ertelemek.",
+        "B) Vergi kaçırmak.",
+        "C) Şirketin piyasa değerini yapay olarak artırmak.",
+        "D) Döviz veya faiz oranlarındaki dalgalanmaların kar üzerindeki etkisini minimize etmek.",
+        "E) Likidite oranlarını arttırmak."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 33'e göre 'Seyreltilmiş Hisse Başına Kar' neden hesaplanır?",
+      "options": [
+        "A) Temettü ödemelerini artırmak için.",
+        "B) Varantlar veya dönüştürülebilir tahviller gibi araçların gelecekte hisse adedini artırarak karı azaltma riskini göstermek için.",
+        "C) Şirketin geçmişteki karlarını doğrulamak için.",
+        "D) Enflasyon etkisini arındırmak için.",
+        "E) Hisse başına karı arttırmak."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Altman Z-Skoru gibi modeller mali tablo analizinde hangi amaçla kullanılır?",
+      "options": [
+        "A) İşletmenin iflas olasılığını tahmin etmek.",
+        "B) Şirketin marka değerini ölçmek.",
+        "C) Personel verimliliğini analiz etmek.",
+        "D) Stok devir hızı ortaya koymak.",
+        "E) Borç ödeme gücünü ölçmek."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 13 Gerçeğe Uyguna Değer Ölçümü standardına göre, değerlemede kullanılan 'Seviye 1' girdilerin özelliği nedir?",
+      "options": [
+        "A) Benzer varlıklar için gözlemlenemeyen girdiler.",
+        "B) Sadece gayrimenkul ekspertiz raporları.",
+        "C) Yönetimin kendi tahminleri.",
+        "D) Aktif bir piyasadaki özdeş varlıklar için kote edilmiş (borsa) fiyatlar.",
+        "E) Benzer varlıklar için emsal değer."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Analiz ettiğiniz bir şirketin 'Nakit Akışına Göre Borç Ödeme Oranı' (İşletme Nakit Akışı / Toplam Borç) düşerken 'Cari Oranı' artıyorsa bu ne anlama gelir?",
+      "options": [
+        "A) Şirketin likidite kalitesinin düştüğü ve stoklara/alacaklara gömüldüğü.",
+        "B) Şirketin finansal gücünün zirveye çıktığı.",
+        "C) Satışların tamamen nakit yapıldığı.",
+        "D) Borçların çok hızlı ödendiği.",
+        "E) Özkaynak devir hızının arttığı."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin Nakit Akış Tablosu incelendiğinde, 'İşletme Faaliyetlerinden Nakit Akışları' pozitifken 'Dönem Net Kârı'nın negatif olması durumu aşağıdakilerden hangisiyle en iyi açıklanır?",
+      "options": [
+        "A) Yüksek tutarlı amortisman giderleri veya nakit çıkışı gerektirmeyen değer düşüklüğü karşılıklarıyla.",
+        "B) Finansman giderlerinin aktifleştirilmesiyle.",
+        "C) Şirketin tüm satışlarını peşin yaptığıyla.",
+        "D) Şirketin çok yüksek miktarda stok alımı yaptığıyla.",
+        "E) Hisse başına düşen karın artmasıyla."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 37 uyarınca, işletmenin aleyhine açılan bir davada tazminat ödeme ihtimali %51 olarak değerlendiriliyorsa, bu durum mali tablo analizinde nasıl dikkate alınmalıdır?",
+      "options": [
+        "A) Özkaynaklar içerisinde bir fon oluşturulmalıdır.",
+        "B) Olay gerçekleşene kadar hiçbir kayıt yapılmamalıdır.",
+        "C) Sadece dipnotlarda açıklanarak geçilmelidir.",
+        "D) Bilançoda kısa veya uzun vadeli karşılık ayrılmalı ve gelir tablosunda gider kaydedilmelidir.",
+        "E) Sermaye yedeklerinden karşılanmalıdır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletme, duran varlıkları için TMS 16 kapsamında 'Yeniden Değerleme Modeli'ni seçmiştir.<br><br>Değer artışlarının özkaynaklarda 'Yeniden Değerleme Kazançları' hesabında toplanması, işletmenin borçlanma katsayısını (Toplam Borç / Özkaynaklar) nasıl etkiler?",
+      "options": [
+        "A) Özkaynaklar arttığı için borçlanma katsayısı azalır.",
+        "B) Borçlar da piyasa değerine çekileceği için katsayı değişmez.",
+        "C) Katsayı yükselir çünkü aktif toplamı artmıştır.",
+        "D) Sadece net kâr üzerinde etki yaratır.",
+        "E) Borçlar arttığı için karlılık azalır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 2 Stoklar standardına göre, 'Net Gerçekleşebilir Değer' maliyetin altına düştüğünde ayrılan stok değer düşüklüğü karşılığı, dikey analizde (yüzde analizi) hangi kalemin payını doğrudan değiştirir?",
+      "options": [
+        "A) Satışların Maliyeti",
+        "B) Hazır Değerler",
+        "C) Sermaye",
+        "D) Uzun Vadeli Yabancı Kaynaklar",
+        "E) Duran varlıklar"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Analiz edilen bir şirketin 'Alacak Devir Hızı'nın rakiplerine göre çok düşük olması, dipnotlarda yer alan hangi bilgiyle desteklenirse bir 'risk' yerine 'strateji' olarak yorumlanabilir?",
+      "options": [
+        "A) Şüpheli alacak karşılıklarının ayrılmadığı bilgisi.",
+        "B) Şirketin alacaklarını faktoring şirketlerine kırdırdığı bilgisi.",
+        "C) Pazar payını artırmak amacıyla müşterilere rakiplerden daha uzun vade tanındığı bilgisi.",
+        "D) Nakit satışların toplam satışlar içindeki payının arttığı bilgisi.",
+        "E) Stoklara yapılan yatırımların arttığı bilgisi."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 12 uyarınca bilançoda yer alan 'Ertelenmiş Vergi Yükümlülüğü'ndeki artış, finansal analizde geleceğe yönelik neyi ifade eder?",
+      "options": [
+        "A) Şirketin vergi cezası aldığını.",
+        "B) Vergi mevzuatı ile muhasebe standartları arasındaki farktan dolayı gelecekte daha fazla nakit vergi çıkışı olacağını.",
+        "C) Özkaynakların reel olarak arttığını.",
+        "D) Gelecek dönemlerde daha az vergi ödeneceğini.",
+        "E) Borçların zamanında ödeneceğini."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Faiz Amortisman Vergi Öncesi Kâr' (FAVÖK/EBITDA) rakamı pozitifken 'Esas Faaliyet Kârı'nın negatif olması neyi gösterir?",
+      "options": [
+        "A) Şirketin operasyonel olarak çok verimli çalıştığını.",
+        "B) Şirketin yüksek tutarda amortisman ve itfa payı gideri olduğunu.",
+        "C) Satış gelirlerinin çok düşük olduğunu.",
+        "D) Şirketin finansman yükünün çok ağır olduğunu.",
+        "E) Şirketin faaliyet giderlerinde artış olduğunu."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Yatay analizde 'Net Satışlar' %10 artarken 'Brüt Satış Kârı'nın %30 artması aşağıdakilerden hangisiyle açıklanabilir?",
+      "options": [
+        "A) Finansal borçların ödendiğiyle.",
+        "B) Genel yönetim giderlerinin kontrol altına alındığıyla.",
+        "C) Şirketin vergi oranlarının düştüğüyle.",
+        "D) Satışların maliyetinin, satış gelirlerinden daha yavaş arttığıyla veya düştüğüyle.",
+        "E) Faaliyet giderlerinin düştüğüyle."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 7 Nakit Akış Tabloları standardına göre, işletmenin yeni bir makine alımı için yaptığı nakit çıkışı tablonun hangi bölümünde raporlanmalıdır?",
+      "options": [
+        "A) Finansman Faaliyetlerinden Nakit Akışları",
+        "B) Yatırım Faaliyetlerinden Nakit Akışları",
+        "C) Olağanüstü Nakit Akışları",
+        "D) İşletme Faaliyetlerinden Nakit Akışları",
+        "E) Olağan Nakit akışları"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 9 kapsamında bir işletmenin 'İtfa Edilmiş Maliyeti' ile değerlediği finansal varlıklar için ayırdığı 'Beklenen Kredi Zarar Karşılığı', bilançoda hangi rasyoyu doğrudan etkiler?",
+      "options": [
+        "A) Maddi Duran Varlık Devir Hızı",
+        "B) Cari Oran",
+        "C) Finansal Kaldıraç Oranı",
+        "D) Hisse Başına Defter Değeri",
+        "E) Alacak devir hızı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin özkaynak karlılığı (ROE) %25 iken, sürdürülebilir büyüme oranının %15 olduğu bir senaryoda, şirketin kar dağıtım (temettü) oranı yaklaşık olarak kaçtır?<br><br>Sürdürülebilir büyüme oranı = ROE x (1 - Kâr Dağıtım Oranı)",
+      "options": [
+        "A) %60",
+        "B) %25",
+        "C) %40",
+        "D) %10",
+        "E) %5"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 16 kapsamında faaliyet kiralaması yapan bir şirketin, bu işlemi bilançoya 'Kullanım Hakkı Varlığı' ve 'Kiralama Yükümlülüğü' olarak alması, şirketin borçlanma katsayısını ve FAVÖK marjını nasıl etkiler?",
+      "options": [
+        "A) Borçlanma katsayısı artar, FAVÖK marjı yükselir.",
+        "B) Her iki oran da değişmez.",
+        "C) Borçlanma katsayısı azalır, FAVÖK marjı düşer.",
+        "D) Borçlanma katsayısı artar, FAVÖK marjı değişmez.",
+        "E) Her iki oran da azalır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Analiz ettiğiniz bir şirketin EBITDA marjı artarken, 'İşletme Sermayesi Öncesi Nakit Akışı'nın azalması neyin sinyali olabilir?",
+      "options": [
+        "A) Şirketin vergi yükünün azaldığını.",
+        "B) Amortisman giderlerinin azaldığını.",
+        "C) Satış gelirlerinin sadece tahakkuk bazlı arttığını ancak nakit girişi yaratmadığını.",
+        "D) Şirketin borçlarını vadesinden önce ödediğini.",
+        "E) Şirketin satışlarını peşin yaptığını."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS 9'a göre 'Beklenen Kredi Zarar Karşılığı' ayıran bir bankanın, bu karşılığı artırması durumunda sermaye yeterlilik rasyosu ve aktif karlılığı (ROA) nasıl değişir?",
+      "options": [
+        "A) Aktif karlılığı değişmez, sadece sermaye yeterliliği düşer.",
+        "B) Her iki rasyo da artış gösterir.",
+        "C) Sermaye yeterlilik rasyosu düşer, aktif karlılığı azalır.",
+        "D) Sermaye yeterlilik rasyosu artar, aktif karlılığı azalır.",
+        "E) Her iki rasyo da değişmez."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "DuPont Analizi çerçevesinde, bir şirketin toplam varlık devir hızı düşerken özkaynak karlılığını (ROE) sabit tutabilmesi için hangi rasyonun artması gerekir?",
+      "options": [
+        "A) Vergi Karşılığı Oranı.",
+        "B) Sadece Kısa Vadeli Yabancı Kaynaklar.",
+        "C) Finansal Kaldıraç veya Net Kâr Marjı.",
+        "D) Amortisman Oranı.",
+        "E) Asit test oranı."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 38 kapsamında, bir şirketin içsel olarak geliştirdiği bir gayrimaddi varlık için (örneğin yeni bir yazılım) yaptığı harcamaların 'Araştırma' evresinden 'Geliştirme' evresine geçtiği kabul edildiğinde finansal tablo analizi nasıl etkilenir?",
+      "options": [
+        "A) Giderler azalır, aktif toplamı ve kâr artar.",
+        "B) Borçluluk oranları hızla yükselir.",
+        "C) Nakit akışı pozitif yönde etkilenir.",
+        "D) Cari oran düşer.",
+        "E) Stok devir hızı artar."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 29 (Yüksek Enflasyonlu Ekonomilerde Raporlama) uygulayan bir şirketin 'Parasal Borçları' fazla ise bu durumun gelir tablosu üzerindeki etkisi ne olur?",
+      "options": [
+        "A) Amortisman giderleri azalır.",
+        "B) Hasılat üzerinde bir etkisi olmaz.",
+        "C) Net parasal pozisyon kârı oluşur.",
+        "D) Net parasal pozisyon zararı oluşur.",
+        "E) Özkaynakları düşürür."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin 'Ticari Alacak Devir Hızı' artarken, 'Ticari Borç Devir Hızı'nın azalması işletme sermayesi ihtiyacını nasıl etkiler?",
+      "options": [
+        "A) İşletme sermayesi ihtiyacı artar.",
+        "B) Likidite rasyoları olumsuz etkilenir.",
+        "C) Nakit döngüsü uzar.",
+        "D) İşletme sermayesi ihtiyacı azalır, nakit döngüsü iyileşir.",
+        "E) Özkaynak karlılığı düşer."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 36 kapsamında şerefiye (goodwill) için yapılan değer düşüklüğü testinin sonuçları mali tablolarda nerede gösterilir ve tersine çevrilebilir mi?",
+      "options": [
+        "A) Geçmiş yıl kârlarından düşülür.",
+        "B) Dipnotlarda açıklanır, kayda alınmaz.",
+        "C) Özkaynaklarda gösterilir ve iptal edilebilir.",
+        "D) Gelir tablosunda gider olarak gösterilir ve iptal edilemez (geri çevrilemez).",
+        "E) Sermaye yedeklerinden karşılanır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi Türkiye Muhasebe Standartları kapsamında tam finansal tablolar seti içerisinde yer almaz?",
+      "options": [
+        "A) Finansal Durum Tablosu",
+        "B) Kapsamlı Gelir Tablosu",
+        "C) Fon Akım Tablosu",
+        "D) Özkaynak Değişim Tablosu",
+        "E) Dipnotlar ve Açıklayıcı Notlar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TFRS'ye göre hazırlanmış tam bir finansal tablolar setinde aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "A) Döneme Ait Nakit Akış Tablosu",
+        "B) Dönem Sonu Finansal Durum Tablosu (Bilanço)",
+        "C) Önemli Muhasebe Politikalarını Özetleyen Dipnotlar ve Diğer Açıklayıcı Notlar",
+        "D) Döneme Ait Fon Akış Tablosu",
+        "E) Döneme Ait Kâr veya Zarar ve Diğer Kapsamlı Gelir Tablosu"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Türkiye Muhasebe Standartlarına göre, ana ortaklık ile bağlı ortaklığın/ortaklıkların varlıklarının, borçlarının, özkaynaklarının, gelirlerinin, giderlerinin ve nakit akışlarının tek bir işletmeninki gibi sunulduğu grup finansal tablolarına ne denir?",
+      "options": [
+        "A) Özkaynak değişim tablosu",
+        "B) Nakit akış tablosu",
+        "C) Finansal tablo taksonomisi",
+        "D) Bireysel finansal tablolar",
+        "E) Konsolide finansal tablolar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi TMS 1 Finansal Tabloların Sunuluşu standardına göre düzenlenen özkaynak değişim tablosunun düzenlenme amacıdır?",
+      "options": [
+        "A) Bir işletmenin bir hesap dönemi için gelir, gider ve kârını göstermek",
+        "B) Bir işletmenin varlıklarını, borçlarını ve Özkaynaklarını bir hesap dönemi sonunda göstermek",
+        "C) Bir işletmenin özkaynağının her bir bileşeninin bir hesap dönemi boyunca nasıl değiştiğini göstermek",
+        "D) Bir işletmenin toplam özkaynaklarını bir hesap dönemi sonunda göstermek",
+        "E) Bir işletmenin ortaklara dağıtılmak üzere finansal tablolara yansıtılan temettü tutarını göstermek"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "TMS 7 Nakit Akış Tablosu standardına göre, aşağıdakilerden hangisi nakit akış tablosunun İşletme Faaliyetlerinden Kaynaklanan Nakit Akışları bölümünde yer alan kalemlerden biri değildir?",
+      "options": [
+        "A) Çalışanlara ve çalışanlar adına yapılan ödemelerden kaynaklanan nakit çıkışları",
+        "B) Satılan mallardan ve verilen hizmetlerden (satışlardan) elde edilen nakit girişleri",
+        "C) Alım satım amaçlı elde bulundurulan sözleşmelerle ilgili nakit girişleri ve çıkışları",
+        "D) Sigorta şirketlerine ödenen primler nedeniyle oluşan nakit çıkışları",
+        "E) Finansal kurumların yaptıkları işlemler hariç olmak üzere, üçüncü kişilere verilen avans ve borçlara ilişkin nakit çıkışları"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "A tekstil şirketi faaliyetlerinde kullanmak üzere bir dokuma makinesi satın almış ve bedelini peşin olarak ödemiştir.<br><br>Söz konusu nakit çıkışı, TMS 7 Nakit Akış Tablosu standardına göre, nakit akış tablosunun hangi bölümünde raporlanır?",
+      "options": [
+        "A) Esas faaliyetlerden kaynaklanan nakit akışları",
+        "B) Finansman faaliyetlerinden kaynaklanan nakit akışları",
+        "C) Yatırım faaliyetlerinden kaynaklanan nakit akışları",
+        "D) Esas faaliyetlerden kaynaklanan nakit akışları veya finansman faaliyetlerinden kaynaklanan nakit akışları",
+        "E) Esas faaliyetlerden kaynaklanan nakit akışları veya yatırım faaliyetlerinden kaynaklanan nakit akışları"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "E Şirketi, 100.000 ₺ maliyet bedeli ve 70.000 ₺ birikmiş amortismanı olan deposunu, F Şirketinin gerçeğe uygun değeri 50.000 ₺ olan deposu ile takas etmiştir. Aradaki fark E Şirketi tarafından F Şirketine nakden ödenmiştir.<br><br>E Şirketinin doğrudan yönteme göre düzenleyeceği nakit akış tablosunda bu takas işlemi ne şekilde raporlanır?",
+      "options": [
+        "A) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 20.000 ₺ nakit çıkışı olarak",
+        "B) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 20.000 ₺ nakit girişi olarak",
+        "C) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 30.000 ₺ nakit girişi olarak",
+        "D) Finansman faaliyetlerinden kaynaklanan nakit akışları bölümünde 30.000 ₺ nakit çıkışı olarak",
+        "E) Finansman faaliyetlerinden kaynaklanan nakit akışları bölümünde 50.000 ₺ nakit girişi olarak"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Türkiye Finansal Raporlama Standartları'na göre, aşağıdakilerden hangisi nakit akış tablosunun \"finansman faaliyetlerine ilişkin nakit akışları\" kısmında yer almaz?",
+      "options": [
+        "A) Finansal kiralama sözleşmelerinden kaynaklanan borç ödemelerine ilişkin nakit çıkışları",
+        "B) Hisse senedi ve diğer özsermaye araçlarının ihracından sağlanan nakit girişleri",
+        "C) Sermayenin azaltılması veya işletmenin kendi hisse senetlerini almasıyla ilgili nakit çıkışları",
+        "D) Maddi ve maddi olmayan duran varlıklar ve diğer uzun vadeli varlıkların satışı ile ilgili nakit girişleri",
+        "E) Borçlanma araçları ihracı ve diğer uzun ve kısa vadeli krediler ile sağlanan nakit girişleri"
+      ],
+      "answer": 3
+    }
+  ],
+  "Çalışma Soruları (Genel)": [
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aynı sektörde faaliyet gösteren X ve Y işletmelerine ait gelir tablosu bilgileri aşağıda verilmiştir:\n\n| Kalem | X A.Ş. | Y A.Ş. |\n| :--- | :--- | :--- |\n| Brüt Satış Karı | 30.000 | 32.000 |\n| Faaliyet Karı | 25.000 | 27.000 |\n| Olağan Kar | 15.000 | 37.000 |\n\nYukarıdaki bilgilere göre her iki işletmenin faaliyet sonucuna ilişkin aşağıda verilen ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Her iki işletmeninde faaliyet giderleri birbirine eşittir.",
+        "B) Y işletmesinin satış karı X işletmesine göre daha fazladır.",
+        "C) Y işletmesi yan faaliyetleri nedeniyle ilave gelir elde ederken, X işletmesi yan faaliyetlerinden dolayı karını azaltmıştır.",
+        "D) Y işletmesinin diğer faaliyetlerden kaynaklanan olağan gelirleri, X işletmesine göre daha fazladır.",
+        "E) X işletmesinin faaliyet giderleri toplamı 5.000 ₺'dir."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "T Ticaret A.Ş.'nin gelir tablosundaki bazı bilgiler aşağıda verilmiştir:<br><br>Reeskont Faiz Gelirleri: 20.000 ₺<br>Paz. Sat. Ve Dağ. Gid.: 10.000 ₺<br>Kambiyo Karları: 5.000 ₺<br>Diğer Gelirler: 10.000 ₺<br>Ar-ge Giderleri: 15.000 ₺<br>Satılan Ticari Mallar Maliyeti: 60.000 ₺<br>Yurtiçi Satışlar: 90.000 ₺<br><br>Bu verilere göre, işletmenin faaliyet kârı veya zararı ne kadardır?",
+      "options": [
+        "A) 15.000 ₺ kar",
+        "B) 25.000 ₺ kar",
+        "C) 40.000 ₺ kâr",
+        "D) 25.000 ₺ zarar",
+        "E) 10.000 ₺ zarar"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin gelir tablosuna ait bilgileri aşağıdaki gibidir:<br><br>Diğer Gelirler: 2.000 ₺<br>Menkul Kıymet Satış Karı: 13.000 ₺<br>Kar Yedekleri: 8.000 ₺<br>Kambiyo Karı: 3.000 ₺<br>Önceki Dönem Gelir ve Karı: 7.000 ₺<br>Konusu Kalmayan Karşılıklar: 4.000 ₺<br>Kıdem Tazminatı Karşılığı: 15.000 ₺<br>İştiraklerden Temettü Geliri: 9.000 ₺<br>Gelecek Aylara Ait Gelirler: 12.000 ₺<br><br>Bu bilgilere göre \"Diğer Olağan Gelir ve Karlar\" grubunun tutarı kaç ₺'dir?",
+      "options": [
+        "A) 20.000 ₺",
+        "B) 29.000 ₺",
+        "C) 41.000 ₺",
+        "D) 48.000 ₺",
+        "E) 50.000 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdaki hesaplardan hangisi \"Diğer Faaliyetlerden Olağan Gelir ve Karlar\" grubunda yer almaz?",
+      "options": [
+        "A) Faiz Gelirleri",
+        "B) Komisyon Gelirleri",
+        "C) Bağlı Ortaklıklardan Temettü Geliri",
+        "D) Konusu Kalmayan Karşılıklar",
+        "E) Hisse Senedi İptal Karı"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi \"Diğer Faaliyetlerden Olağan Gelir ve Kârlar\" hesap grubunun içinde yer alır?",
+      "options": [
+        "A) Kazanılmamış Finansal Kiralama Geliri",
+        "B) Önceki Dönem Gelir ve Kârları",
+        "C) İştiraklerden Temettü Geliri",
+        "D) Hisse Senedi İptal Karı",
+        "E) İştiraklerden Yeniden Değerleme Artışı"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdaki hesaplardan hangisi \"Diğer Faaliyetlerden Olağan Gelir ve Karlar\" grubunda yer almaz?",
+      "options": [
+        "A) Konusu Kalmayan Karşılıklar",
+        "B) Menkul Kıymet Satış Karı",
+        "C) İştiraklerden Temettü Gelirleri",
+        "D) Kambiyo Karları",
+        "E) İştiraklerden Yeniden Değerleme Artışı"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Sermayesi 400.000 ₺, ödenmemiş sermaye tutarı 100.000 ₺, yasal yedekleri 10.000 ₺, statü yedekleri 30.000 ₺, genel kurul kararı gereği ayrılan yedek tutarı 20.000 ₺, hisse senedi ihracından sağlanan fonları 40.000 ₺, geçmiş yıl zararı 90.000 ₺ olan bir işletmenin öz kaynak toplamı kaç ₺'dir?",
+      "options": [
+        "A) 300.000",
+        "B) 310.000",
+        "C) 350.000",
+        "D) 400.000",
+        "E) 410.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Faaliyet karı bilinen bir işletmenin olağan karının hesaplanmasında aşağıdaki hesaplardan hangisine gereksinim duyulmaz?",
+      "options": [
+        "A) Diğer Gelirler",
+        "B) Komisyon Gideri",
+        "C) Konusu Kalmayan Karşılıklar",
+        "D) Menkul Kıymet Satış Zararı",
+        "E) Diğer Olağan Gelir ve Karlar"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıda verilen hesaplardan hangisi Olağan kar tutarının hesaplanmasında kullanılmaz?",
+      "options": [
+        "A) Diğer Gelirler",
+        "B) Araştırma Geliştirme Gideri",
+        "C) Faiz Gelirleri",
+        "D) Çalışmayan Kısım Gider ve Zararları",
+        "E) Konusu Kalmayan Karşılıklar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Satışları 40.000 ₺, sürekli sermayesi 14.000 ₺, aktif devir hızı 2 ve cari oranı 2,5 olan bir işletmenin net çalışma sermayesi kaç ₺ dir?",
+      "options": [
+        "A) 9.000",
+        "B) 13.000",
+        "C) 15.000",
+        "D) 10.000",
+        "E) 14.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Kısa vadeli yabancı kaynaklarının 1,5 katı kadar dönen varlığı olan ZTE işletmesinin net çalışma sermayesi 5.000 ₺, duran varlık toplamı da 25.000 ₺ ise işletmenin devamlı sermaye tutarı kaç ₺'dir?",
+      "options": [
+        "A) 20.000",
+        "B) 25.000",
+        "C) 30.000",
+        "D) 7.500",
+        "E) 32.500"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net çalışma sermayesi pozitif olan bir işletme kredili mal almıştır. İşletmenin net işletme sermayesi bu işlemden nasıl etkilenir?",
+      "options": [
+        "A) Azalır",
+        "B) Artar",
+        "C) Değişmez",
+        "D) Yükselir",
+        "E) Düşer"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net Satışlar: 40.000 ₺<br>Aktif Devir Hızı: 4<br>Duran Varlıklar: 6.000 ₺<br>Net Çalışma Sermayesi: 1.000 ₺<br><br>Yukarıdaki bilgilere göre işletmenin devamlı sermaye tutarı kaç ₺'dir?",
+      "options": [
+        "A) 4.000 ₺",
+        "B) 6.000 ₺",
+        "C) 7.000 ₺",
+        "D) 8.500 ₺",
+        "E) 10.000 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin Net çalışma sermayesine sahip olup olmadığını aşağıdaki oranlardan hangisi ile anlaşılır?",
+      "options": [
+        "A) Cari oran",
+        "B) Asit test oranı",
+        "C) Likidite Oranı",
+        "D) Nakit Oranı",
+        "E) Borçların aktif toplamına oranı"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "I. İşletmeye yeni katılan ortağın sermaye payı olarak ticari mal vermesi<br>II. Tahvil ihracından sağlanan nakdin kasaya alınması<br>III. Ortaklardan olan alacağın tahsil edilmesi<br><br>Yukarıdaki işlemlerden hangisi net işletme sermayesini değiştirir?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) II ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net çalışma sermayesi 2.000 ₺, devamlı sermayesi kısa vadeli yabancı kaynak tutarının 2 katı olan işletmede duran varlıkların tutarı 3.000 ₺ ise kısa vadeli yabancı kaynak tutarı kaç ₺'dir?",
+      "options": [
+        "A) 1.000",
+        "B) 2.500",
+        "C) 3.500",
+        "D) 4.000",
+        "E) 5.500"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Cari oranın 0,70 olduğu bir işletme için aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        "A) İşletmenin dönen varlıkları kısa vadeli yabancı kaynaklarının tamamının ödenmesine yeterli değildir.",
+        "B) İşletme net çalışma sermayesine sahiptir.",
+        "C) İşletmenin net çalışma sermayesi noksanı vardır.",
+        "D) İşletmenin kısa vadeli yabancı kaynakları dönen varlıklarından fazladır.",
+        "E) İşletmenin dönen varlıkları kısa vadeli yabancı kaynaklardan azdır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 400.000 ₺, aktif devir hızı 4, genel toplama göre yapılan hesaplamada dönen varlıkların dikey yüzdesi %30, kısa vadeli yabancı kaynakların dikey yüzdesi ise %20 olduğuna göre işletmenin net çalışma sermayesi kaç ₺'dir?",
+      "options": [
+        "A) 10.000 ₺",
+        "B) 20.000 ₺",
+        "C) 30.000 ₺",
+        "D) 40.000 ₺",
+        "E) 50.000 ₺"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "I. Bankadaki mevduatın çekilerek kısa vadeli borçların ödenmesi<br>II. Kısa vade ile kredili mal alışı<br>III. Kısa vadeli alacakların tahsil edilmesi<br><br>Yukarıdaki işlemlerden hangileri net işletme sermayesini değiştirmez?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) I ve III",
+        "D) II ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin iki döneme ait gelir tablosu incelendiğinde net satışları %50 oranında ve 80.000 ₺ artmış, brüt satış karında ise %20 oranında ve 30.000 ₺ artmıştır.<br><br>Bu bilgilere göre işletmenin cari döneme ilişkin satışların maliyeti tutarı kaç ₺'dir?",
+      "options": [
+        "A) 10.000 ₺",
+        "B) 30.000 ₺",
+        "C) 60.000 ₺",
+        "D) 80.000 ₺",
+        "E) 150.000 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi karşılaştırmalı tablolar analiz tekniğinin amacıdır?",
+      "options": [
+        "A) İşletmenin tek bir döneme ait mali durumunun ve faaliyet sonuçlarının incelenmesi",
+        "B) Grup toplamlarının genel toplam içerisinde işgal ettikleri yer ele alınarak grubun özelliğine, grubun bileşimine ve işletmenin türüne göre yeterli olup olmadığının araştırılması",
+        "C) Her kalemin yıllar itibarıyla belirlenen değişmelerini inceleyerek işletmenin mali durum ve faaliyet sonuçları bakımından göstermiş olduğu gelişmeyi incelemek",
+        "D) Birbirleriyle ilişkili olan mali tablo kalemlerinin eğilimlerinin etkileşimini incelemek",
+        "E) Kalemlerin ne yönde değişme gösterdiğini ve fon hareketi olarak bu değişmeye nelerin neden olduğunu belirlemek"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin önceki yıl ve cari yılına ait bazı bilanço verileri karşılaştırmalı olarak aşağıdaki gibidir:\n\n| Hesaplar | Önceki Yıl | Cari Yıl |\n| :--- | :--- | :--- |\n| Alıcılar | 3.000 ₺ | 4.000 ₺ |\n| Alacak Senetleri | 5.000 ₺ | 6.000 ₺ |\n| Alınan Depozito ve Teminat | 1.500 ₺ | 3.000 ₺ |\n| Verilen Depozito ve Teminat | 2.000 ₺ | 1.000 ₺ |\n| Diğer Çeşitli Alacaklar | 500 ₺ | 800 ₺ |\n| Şüpheli Ticari Alacaklar | 2.000 ₺ | 1.700 ₺ |\n| Şüpheli Ticari Alc. Karşılığı | 2.000 ₺ | 1.700 ₺ |\n\nBu bilgilere göre, Ticari Alacaklar grubundaki artış veya azalış yüzdesi kaçtır?",
+      "options": [
+        "A) %10 artış",
+        "B) %15 artış",
+        "C) %10 azalış",
+        "D) %20 azalış",
+        "E) %20 artış"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları cari dönemde 120.000 ₺ olan ve bir önceki döneme göre %20 artan işletmede önceki yılın net satış tutarı kaç ₺'dir?",
+      "options": [
+        "A) 100.000",
+        "B) 480.000",
+        "C) 500.000",
+        "D) 600.000",
+        "E) 720.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Mukayeseli tablolar analizine göre işletmenin dönen varlık tutarı bir önceki yıla göre %25 artmış ve 150.000 ₺ olarak gerçekleşmiştir. Aynı şekilde kısa vadeli yabancı kaynak tutarı ise %50'lik artışla 90.000 ₺ olmuştur.<br><br>Bu bilgilere göre önceki yılda işletmenin dönen varlıkları kısa vadeli yabancı kaynaklarının kaç katıdır?",
+      "options": [
+        "A) 1,5",
+        "B) 2",
+        "C) 2,5",
+        "D) 3",
+        "E) 4"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Karşılaştırmalı tablolar analiz tekniğine göre 2018 ve 2019 yılları için dönen varlıklar ve kısa vadeli yabancı kaynakların artış yüzdeleri ile yıllık tutarları aşağıda verilmiştir.\n\n| Kalem | 2018 Yılı | 2019 Yılı |\n| :--- | :--- | :--- |\n| Dönen Varlıklar | 25.000 ₺ | 30.000 ₺ |\n| Değişim Yüzdesi | %25 | %20 |\n| K.V.Yab. Kaynak | 18.000 ₺ | 22.500 ₺ |\n| Değişim Yüzdesi | %50 | %25 |\n\nBu bilgilere göre işletmenin 2017 yılında net işletme sermayesi tutarı kaç ₺'dir?",
+      "options": [
+        "A) 5.000 ₺",
+        "B) 6.000 ₺",
+        "C) 7.000 ₺",
+        "D) 7.500 ₺",
+        "E) 8.000 ₺"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "2017 yılında brüt satış karı oranı %25 olan işletmede net satışlar 240.000 ₺ olarak gerçekleşmiştir.<br><br>Karşılaştırmalı tablolar analizine göre 2018 yılında satışların maliyeti %25 oranında artması durumunda, 2018 yılı için satışların maliyeti tutarı kaç ₺'dir?",
+      "options": [
+        "A) 45.000 ₺",
+        "B) 60.000 ₺",
+        "C) 180.000 ₺",
+        "D) 225.000 ₺",
+        "E) 240.000 ₺"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Yatay analiz tekniğine göre yapılan hesaplamada, net satışları önceki yıla göre cari yılda 18.000 ₺ ve %20 oranında artış göstermiştir. Benzer şekilde brüt satış karı tutarı da 10.000 ₺ ve %25 oranında artmıştır.<br><br>Bu bilgilere göre işletmenin önceki yılda gerçekleşen satışların maliyeti tutarı kaç ₺'dir?",
+      "options": [
+        "A) 40.000 ₺",
+        "B) 50.000 ₺",
+        "C) 58.000 ₺",
+        "D) 90.000 ₺",
+        "E) 108.000 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin 2018 ve 2019 yıllarına ait karşılaştırmalı bilgileri aşağıda verilmiştir.\n\n| Kalem | 2018 | 2019 | Fark | % |\n| :--- | :--- | :--- | :--- | :--- |\n| Dönen Varlıklar | ? | ? | +60.000 | %20 |\n| K.V.Y.K. | ? | ? | -40.000 | %20 |\n\nBu bilgilere göre 2019 yılı için net işletme sermayesi tutarı kaç ₺'dir?",
+      "options": [
+        "A) 40.000",
+        "B) 60.000",
+        "C) 100.000",
+        "D) 160.000",
+        "E) 200.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları cari dönemde, önceki döneme göre 120.000 ₺ ve %20 artan işletmede net satışların önceki yıldaki tutarı kaç ₺'dir?",
+      "options": [
+        "A) 100.000",
+        "B) 480.000",
+        "C) 500.000",
+        "D) 600.000",
+        "E) 720.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin vergiden önceki kârı 2.880.000 ₺, dönemin finansman giderleri 240.000 ₺, vergi oranı ise % 25'tir.<br><br>Buna göre işletme, elde ettiği kârla finansman giderlerini kaç kez karşılar?",
+      "options": [
+        "A) 12",
+        "B) 13",
+        "C) 11",
+        "D) 10",
+        "E) 9"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Faaliyet kârının dikey yüzdesi %50 ve brüt satış kârının dikey yüzdesi %60 olan bir işletmenin net satışları 200.000 ₺ ise, faaliyet giderleri kaç ₺'dir?",
+      "options": [
+        "A) 20.000",
+        "B) 80.000",
+        "C) 100.000",
+        "D) 120.000",
+        "E) 140.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dikey yüzdeler analiz tekniğine göre; gelir tablosunda yer alan kalemler aşağıdakilerden hangisine oranlanmaktadır?",
+      "options": [
+        "A) Brüt satışlara",
+        "B) Dönem net karına",
+        "C) Faaliyet karına",
+        "D) Dönem karına",
+        "E) Net satışlara"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 200.000 ₺, Olağan karı 80.000 ₺, faaliyet karına ilişkin dikey yüzdesi %20, Finansman giderine ait dikey yüzdesi %5 olan işletmenin diğer faaliyetlerden kaynaklanan olağan gideri bulunmamaktadır.<br><br>Bu bilgilere göre işletmenin diğer faaliyetlerden kaynaklanan olağan gelirler kaleminin tutarı kaç ₺'dir?",
+      "options": [
+        "A) 50.000 ₺",
+        "B) 40.000 ₺",
+        "C) 30.000 ₺",
+        "D) 20.000 ₺",
+        "E) 10.000 ₺"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aktif toplamı 300.000 ₺ olan bir bilançoda genel toplamlara göre yapılan dikey analizinde; dönen varlıklar toplamının yüzdesi %60, net işletme sermayesi dönen varlık tutarının yarısı kadar ise sürekli sermaye tutarı kaç ₺'dir?",
+      "options": [
+        "A) 90.000 ₺",
+        "B) 120.000 ₺",
+        "C) 180.000 ₺",
+        "D) 150.000 ₺",
+        "E) 210.000 ₺"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin gelir tablosuna ait bazı bilgiler aşağıdaki gibidir:<br><br>Brüt satışlar: 345.000 ₺<br>Satıştan indirimler: 15.000 ₺<br>Satışlarının maliyeti: 105.000 ₺<br>Faaliyet giderleri: 60.000 ₺<br><br>Bu bilgilere göre işletmenin faaliyet karına ilişkin dikey yüzdesi ne kadardır?",
+      "options": [
+        "A) % 60",
+        "B) % 55",
+        "C) % 57",
+        "D) % 52",
+        "E) % 50"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Brüt satışları 270.000 ₺, genel yönetim gideri 30.000 ₺, pazarlama satış dağıtım giderleri 15.000 ₺, satışların maliyeti 125.000 ₺, satış indirimleri 20.000 ₺, finansman giderleri 30.000 ₺, olağandışı gelir ve karı 10.000 ₺ olan işletmenin olağan karına ilişkin dikey yüzdesi kaçtır?",
+      "options": [
+        "A) 50",
+        "B) 20",
+        "C) 30",
+        "D) 40",
+        "E) 25"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net işletme sermayesi 200.000 ₺ olan bir işletmede duran varlıklara ilişkin dikey yüzde %50 olup, 400.000 ₺ tutarındadır.<br><br>Dikey analiz tekniğine göre \"Kısa Vadeli Yabancı Kaynak\" tutarına ilişkin dikey yüzde kaçtır?",
+      "options": [
+        "A) 10",
+        "B) 25",
+        "C) 30",
+        "D) 40",
+        "E) 50"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Brüt satışları 80.000 ₺, satış indirimleri 20.000 ₺, finansman giderinin dikey yüzdesinin %5 olduğu bir işletmede; satışların maliyeti 10.000 ₺, faaliyet giderleri ise 20.000 ₺ olarak hesaplanmıştır.<br><br>Olağan karlılık oranı %25 ve olağan geliri bulunmayan işletmede diğer faaliyetlerden kaynaklı olağan gider tutarı kaç ₺'dir?",
+      "options": [
+        "A) 3.000 ₺",
+        "B) 10.000 ₺",
+        "C) 12.000 ₺",
+        "D) 15.000 ₺",
+        "E) 22.000 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "X işletmesinin gelir tablosuna ilişkin veriler aşağıdaki gibidir:<br><br>Diğer Gelirler: 3.000 ₺<br>İştiraklerden Temettü Geliri: 12.000 ₺<br>Hisse Senedi İptal Karı: 4.000 ₺<br>Net Satışlar: 100.000 ₺<br>Konusu Kalmayan Karşılıklar: 5.000 ₺<br>Önceki Dönem Gelir ve Karları: 7.000 ₺<br>Yurtiçi Satışlar: 115.000 ₺<br>Faiz Gelirleri: 4.000 ₺<br>Hisse Senedi İhraç Primi: 11.000 ₺<br>Kambiyo Karları: 3.000 ₺<br><br>Bu bilgilere göre, dikey analiz yönetimine göre analiz edilen bir gelir tablosunda diğer faaliyetlerden olağan gelirler grubunun kara olan etkisi % kaçtır?",
+      "options": [
+        "A) %24",
+        "B) %31",
+        "C) %34",
+        "D) %38",
+        "E) %49"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Cari oranı 3,50 asit test oranı 1,50 olan işletmenin stokları 40.000 ₺ ise kısa vadeli yabancı kaynak tutarı kaç ₺'dir?",
+      "options": [
+        "A) 35.000 ₺",
+        "B) 20.000 ₺",
+        "C) 18.000 ₺",
+        "D) 15.000 ₺",
+        "E) 12.000 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönen varlık / Duran Varlık oranı %60 olan T işletmesinin devamlı sermaye tutarı 65.000 ₺, Aktif toplamı ise 80.000 ₺'dir.<br><br>Bu bilgilere göre işletmenin cari oranı kaçtır?",
+      "options": [
+        "A) 2,5",
+        "B) 2",
+        "C) 1,5",
+        "D) 1",
+        "E) 0,5"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin, net satışları 44.000 ₺, aktif toplamı 30.000 ₺, sürekli sermayesi 28.000 ₺, stoklarının toplamı 2.000 ₺, duran varlıklarının devir hızı oranı ise 2 dir.<br><br>Bu bilgilere göre işletmenin likidite oranı kaçtır?",
+      "options": [
+        "A) 3,00",
+        "B) 3,50",
+        "C) 4,00",
+        "D) 4,50",
+        "E) 4,60"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Likidite oranı 1,2, cari oranı 1,6, aktif toplamı 6.500 ₺, öz kaynakları 2.500 ₺, uzun vadeli yabancı kaynakları 3.000 ₺ olan işletme için aşağıdakilerden hangisi hesaplanamaz?",
+      "options": [
+        "A) Net çalışma sermayesi",
+        "B) Duran varlıklar",
+        "C) Hazır değerler",
+        "D) Stoklar",
+        "E) Kısa vadeli borçlar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "I. Hazır değerler kullanılarak kısa vadeli borç ödemesi yapmak<br>II. Kredili olarak ticari mal almak<br>III. Duran varlıkları peşin olarak satmak<br><br>Yukarıdaki işlemlerden hangileri cari oranı arttırır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin cari oranı 1,2; asit test oranı 0,5; kısa vadeli yabancı kaynak toplamı 500.000 ₺ olduğuna göre işletmenin stok tutarı ne kadardır?",
+      "options": [
+        "A) 100.000",
+        "B) 200.000",
+        "C) 250.000",
+        "D) 350.000",
+        "E) 400.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Devamlı Sermaye / Pasif Toplamı : 0,60<br>Duran Varlıklar / Aktif Toplamı : 0,50<br><br>olan bir işletmenin cari oranı kaçtır?",
+      "options": [
+        "A) 0,83",
+        "B) 1,00",
+        "C) 1,20",
+        "D) 1,25",
+        "E) 1,33"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Sürekli sermayesi kısa vadeli yabancı kaynakların 5 katı, duran varlıkları ise dönen varlıkların 2 katı olan işletmede cari oran kaçtır?",
+      "options": [
+        "A) 1",
+        "B) 1,5",
+        "C) 2",
+        "D) 2,5",
+        "E) 3"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aktif toplamı 340.000 ₺, sürekli sermayesi 290.000 ₺, cari oranı 3, asit test oranı 1 olan işletmenin stokları kaç ₺'dir?",
+      "options": [
+        "A) 50.000 ₺",
+        "B) 100.000 ₺",
+        "C) 150.000 ₺",
+        "D) 190.000 ₺",
+        "E) 240.000 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönen varlıkları, hazır değerler, ticari alacaklar ve stoklardan oluşan işletmede cari oran 3, asit test oranı 1,80 ve nakit oranı ise 1,20 olarak hesaplanmıştır.<br><br>Kısa vadeli yabancı kaynak tutarının 2.000 ₺ olması durumunda işletmenin hazır değerler ve stoklar toplamı kaç ₺'dir?",
+      "options": [
+        "A) 1.200 ₺",
+        "B) 2.400 ₺",
+        "C) 3.600 ₺",
+        "D) 4.800 ₺",
+        "E) 6.000 ₺"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Brüt satış kârı 60.000 ₺ olan işletmede satışların maliyeti brüt satış kârının 5 katıdır.<br><br>Öz sermaye tutarı 90.000 ₺ olduğuna göre öz sermaye devir hızı kaçtır?",
+      "options": [
+        "A) 7,80",
+        "B) 3,84",
+        "C) 3,20",
+        "D) 3,00",
+        "E) 4,00"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmeye ait bazı finansal veriler aşağıdaki gibidir:<br><br>Net Satışlar: 200.000 ₺<br>Ort. Etkinlik Süresi: 150 gün<br>Ort. Tahsilat Süresi: 60 gün<br><br>İşletmede Brüt Satış Karlılığı oranı %20 olduğuna göre ortalama stok tutarı ne kadardır?",
+      "options": [
+        "A) 60.000",
+        "B) 50.000",
+        "C) 40.000",
+        "D) 80.000",
+        "E) 70.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Öz Kaynaklar Devir Hızı ile Finansman Oranının çarpımı aşağıdakilerden hangisini verir?",
+      "options": [
+        "A) Net İşletme Sermayesi Devir Hızı",
+        "B) Devamlı Sermaye Devir Hızı",
+        "C) Aktiflerin Devir Hızı",
+        "D) Yabancı Kaynakların Kârlılığı",
+        "E) Yabancı Kaynaklar Devir Hızı"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "L işletmesine ait bazı bilgiler aşağıdaki gibidir:<br><br>Kısa Vadeli Yabancı Kaynak: 30.000 ₺<br>Uzun Vadeli Yabancı Kaynak: 20.000 ₺<br>Net Satışlar: 120.000 ₺<br>Öz Sermaye Devir Hızı: 4<br><br>Bu bilgilere göre işletmenin aktif devir hızı oranı kaçtır?",
+      "options": [
+        "A) 1,5",
+        "B) 2",
+        "C) 2,5",
+        "D) 4",
+        "E) 6"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 200.000 ₺, aktif devir hızı 2, uzun vadeli yabancı kaynakları kısa vadeli yabancı kaynaklarının 4 katı olan işletmede sürekli sermaye tutarı 90.000 ₺'dir.<br><br>Aktif toplamının öz kaynakların 2 katı olması durumunda işletmenin kısa vadeli yabancı kaynak tutarı kaç ₺'dir?",
+      "options": [
+        "A) 10.000 ₺",
+        "B) 40.000 ₺",
+        "C) 50.000 ₺",
+        "D) 60.000 ₺",
+        "E) 100.000 ₺"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin, brüt satışları 95.000 ₺, satıştan indirimleri 15.000 ₺, dönen varlıkları 21.000 ₺ ve pasif toplamı 61.000 ₺'dir.<br><br>Bu bilgilere göre işletmenin duran varlıklar devir hızı kaçtır?",
+      "options": [
+        "A) 1,00",
+        "B) 1,20",
+        "C) 1,50",
+        "D) 2,00",
+        "E) 2,50"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Brüt kâr marjı %20 ve 45.000 ₺, ortalama stok tutarı 10.000 ₺, kısa vadeli yabancı kaynakları 100.000 ₺ olan bir işletmede ortalama stokta kalma süresi kaç gündür? (Bir yıl 360 gün olarak kabul edilecektir.)",
+      "options": [
+        "A) 8",
+        "B) 16",
+        "C) 20",
+        "D) 36",
+        "E) 80"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 30.000 ₺, ortalama etkinlik süresi 120 gün, tahsilat süresi ise 30 gün olan işletmede brüt satış karı oranı %40 olduğuna göre ortalama stok tutarı kaç ₺'dir?",
+      "options": [
+        "A) 3.000 ₺",
+        "B) 4.500 ₺",
+        "C) 7.500 ₺",
+        "D) 12.000 ₺",
+        "E) 18.000 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 300.000 ₺ olan bir işletmenin, brüt satış kârı oranı %40 ve ortalama stok tutarı 10.000 ₺'dir.<br><br>Buna göre, bu işletmenin stoklarının ortalama stokta bekleme süresi kaç gündür? (Bir yıl 360 gün kabul edilecektir.)",
+      "options": [
+        "A) 12 gün",
+        "B) 20 gün",
+        "C) 30 gün",
+        "D) 36 gün",
+        "E) 40 gün"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "T işletmesinin 2015 yılı bilançosuna ait bazı veriler aşağıdaki gibidir:<br><br>Kısa Vadeli Yabancı Kaynak: 60.000 ₺<br>Duran Varlıklar: 110.000 ₺<br>Net işletme Sermayesi: 30.000 ₺<br><br>İşletmede finansal kaldıraç oranı 0,80 olup, finansman oranının %25 olabilmesi için Öz Kaynak tutarının ne kadar olması gerekir?",
+      "options": [
+        "A) 40.000",
+        "B) 50.000",
+        "C) 160.000",
+        "D) 200.000",
+        "E) 100.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Uzun vadeli yabancı kaynakları 10.000 ₺, dönen varlıkları 40.000 ₺, cari oranı 2, finansman oranı 3, kaldıraç oranı %25 olan bir işletmede özkaynak oranı yüzde kaçtır?",
+      "options": [
+        "A) %30",
+        "B) %40",
+        "C) %45",
+        "D) %60",
+        "E) %75"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Cari oranı 2, dönen varlıkları 300.000 ₺, sürekli sermayesi 290.000 ₺ ve öz kaynakları 220.000 ₺ olan bir işletmede yabancı kaynakların aktif toplamına oranı nedir?",
+      "options": [
+        "A) %20",
+        "B) %30",
+        "C) %40",
+        "D) %50",
+        "E) %60"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Öz kaynakların aktif toplamının yarısını oluşturduğu, öz kaynak devir hızının ise 4 olduğu bir işletmede aktif devir hızı kaçtır?",
+      "options": [
+        "A) 0,25",
+        "B) 0,50",
+        "C) 1,25",
+        "D) 2",
+        "E) 2,50"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net işletme sermayesi 80.000 ₺, cari oranı 3, Özkaynak tutarı 180.000 ₺, aktif toplamı 240.000 ₺ olan işletmede kaldıraç oranı % kaçtır?",
+      "options": [
+        "A) %10",
+        "B) %20",
+        "C) %25",
+        "D) %30",
+        "E) %40"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Devamlı sermayesi kısa vadeli yabancı kaynaklarının 3 katı, net satışları 800.000 ₺, aktif devir hızı 2 olan işletmede kısa vadeli yabancı kaynak tutarı duran varlıklara eşittir.<br><br>Bu bilgilere göre işletmenin dönen varlık tutarı kaç ₺'dir?",
+      "options": [
+        "A) 50.000 ₺",
+        "B) 100.000 ₺",
+        "C) 200.000 ₺",
+        "D) 300.000 ₺",
+        "E) 400.000 ₺"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Cari oranı 2, dönen varlıkları 24.000 ₺, uzun vadeli yabancı kaynakları 8.000 ₺ olan işletmede finansman oranının 2 olması durumunda öz kaynak tutarı kaç ₺'dir?",
+      "options": [
+        "A) 10.000 ₺",
+        "B) 24.000 ₺",
+        "C) 36.000 ₺",
+        "D) 40.000 ₺",
+        "E) 60.000 ₺"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Uzun vadeli yabancı kaynak / kısa vadeli yabancı kaynak oranı 3 olan, öz kaynakları ise aktif toplamının yarısı olan bir işletmede cari oran 2, dönem net karı 20.000 ₺ ve öz kaynak karlılığı %50 olması durumunda duran varlık tutarı kaç ₺'dir?",
+      "options": [
+        "A) 10.000 ₺",
+        "B) 20.000 ₺",
+        "C) 30.000 ₺",
+        "D) 40.000 ₺",
+        "E) 60.000 ₺"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 40.000 ₺, aktif devir hızı 2, dönen varlıkların duran varlıklara oranı 3 olan bir işletmede duran varlık tutarı kaç ₺'dir?",
+      "options": [
+        "A) 5.000 ₺",
+        "B) 10.000 ₺",
+        "C) 15.000 ₺",
+        "D) 20.000 ₺",
+        "E) 25.000 ₺"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net işletme sermayesi 60.000 ₺, cari oranı 3, Özkaynak tutarı 160.000 ₺, aktif toplamı 200.000 ₺ olan işletmede uzun vadeli yabancı kaynak tutarı kaç ₺'dir?",
+      "options": [
+        "A) 10.000 ₺",
+        "B) 30.000 ₺",
+        "C) 50.000 ₺",
+        "D) 60.000 ₺",
+        "E) 90.000 ₺"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "T işletmesine ait bazı veriler aşağıdaki gibidir:<br><br>Duran Varlıklar: 60.000 ₺<br>Dönen Varlıklar: 40.000 ₺<br>KVYK: 30.000 ₺<br>Öz Kaynaklar: 50.000 ₺<br>Aktif karlılık oranı: 0,30<br><br>Buna göre işletmenin öz kaynak karlılık oranı kaçtır?",
+      "options": [
+        "A) 0,50",
+        "B) 0,60",
+        "C) 0,40",
+        "D) 0,20",
+        "E) 0,70"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "R işletmesinin dönem sonu gelir tablosu kalemlerine ait bilgiler aşağıdaki gibidir:<br><br>Brüt Satışlar: 72.000 ₺<br>Satış İndirimleri: 18.000 ₺<br>Genel Yönetim Gideri: 12.000 ₺<br>D. Olağan Gelir ve Karlar: 8.000 ₺<br>Brüt Satış Karı Oranı: %50<br><br>Yukarıdaki bilgilere göre işletmenin satışların maliyeti kalemi kaç ₺'dir?",
+      "options": [
+        "A) 22.000 ₺",
+        "B) 27.000 ₺",
+        "C) 34.000 ₺",
+        "D) 42.000 ₺",
+        "E) 50.000 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "X işletmesinin ödenmiş sermayesi 1 ₺ nominal değerli 100.000 adet hisse senedinden oluşmaktadır. 2018 yılında dönem net karı tutarı 500.000 ₺ olan işletmede karın %60'lık kısmının dağıtımına karar verilmiştir.<br><br>Bu bilgilere göre ortaklara dağıtılacak hisse başına temettü tutarı kaç ₺'dir?",
+      "options": [
+        "A) 1 ₺",
+        "B) 2 ₺",
+        "C) 3 ₺",
+        "D) 4 ₺",
+        "E) 5 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönem net karı 30.000 ₺, aktif karlılık oranı %20, aktif devir hızı 4 olan bir işletmede satışların maliyeti oranı %80 ise brüt satış karı tutarı kaç ₺'dir?",
+      "options": [
+        "A) 600.000 ₺",
+        "B) 480.000 ₺",
+        "C) 360.000 ₺",
+        "D) 150.000 ₺",
+        "E) 120.000 ₺"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Sürekli sermayesi 350.000 ₺, aktif toplamı 450.000 ₺, net kârı 15.000 ₺ ve öz kaynak kârlılığı %10 olan bir işletmede uzun vadeli yabancı kaynakların kısa vadeli yabancı kaynaklara oranı kaçtır?",
+      "options": [
+        "A) 1",
+        "B) 1,5",
+        "C) 2",
+        "D) 2,5",
+        "E) 3"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Dönem net karı 40.000 ₺, aktif toplamı 100.000 ₺, öz kaynak toplamı 50.000 ₺ olan işletmede karın %60'lık kısmının ortaklara dağıtılmasına karar verilmiştir.<br><br>Bu bilgilere göre işletmenin içsel büyüme oranı kaçtır?",
+      "options": [
+        "A) 0,16",
+        "B) 0,24",
+        "C) 0,32",
+        "D) 0,40",
+        "E) 0,60"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Diğer faaliyetlerden olağan gelir ve gideri bulunmayan işletmede, olağan kar oranı %30, faaliyet karlılığı %40, net satışları 200.000 ₺, dönem karı 60.000 ₺ ise faiz karşılama oranı kaçtır?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "E) 5"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Net satışları 400.000 ₺, net kar marjı %10, toplam borç tutarı 40.000 ₺, aktif devir hızı 2 olan işletmede özkaynak karlılık oranı % kaçtır?",
+      "options": [
+        "A) %10",
+        "B) %15",
+        "C) %20",
+        "D) %25",
+        "E) %30"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Olağan kâr oranı %20, finansman giderleri 10.000 ₺, faaliyet kârlılığı %30 olan bir işletmede net satışların tutarı 500.000 ₺ ise; bu işletmenin diğer faaliyetlerinden doğan gelir ve giderlerin olağan kâr üzerindeki azaltıcı etkisi kaç ₺'dir?",
+      "options": [
+        "A) 40.000",
+        "B) 50.000",
+        "C) 60.000",
+        "D) 100.000",
+        "E) 150.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Sermayesi 200.000 ₺ olan işletmede her bir hissenin nominal değeri 2 ₺'den oluşmaktadır. 2017 yılında işletme 100.000 ₺ kar elde etmiş ve %40'lık kısmını ortaklara dağıtmaya karar vermiştir.<br><br>Bu bilgilere göre ortakların hisse başı temettü tutarı kaç ₺'dir?",
+      "options": [
+        "A) 0,40 ₺",
+        "B) 0,60 ₺",
+        "C) 0,80 ₺",
+        "D) 1,50 ₺",
+        "E) 2,50 ₺"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Birden fazla döneme ait finansal verileri inceleyen ve \"dinamik\" analiz olarak adlandırılan analiz teknikleri aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "options": [
+        "A) Karşılaştırmalı Tablolar Analiz - Yatay Analiz",
+        "B) Karşılaştırmalı Tablolar Analizi - Trend Analizi",
+        "C) Yatay Analiz - Dikey Analiz",
+        "D) Eğilim Yüzdeleri Analizi - Oran Analizi",
+        "E) Eğilim Yüzdeleri Analizi - Dikey Analiz"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Finansal tablolarda yer alan kalemler arasında matematiksel ilişki kurmak suretiyle bu kalemleri birbirinin yüzdesi ya da katı biçiminde analiz etmeye yönelik analiz tekniği aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Trend analizi",
+        "B) Oran analizi",
+        "C) Kredi analizi",
+        "D) Dikey analiz",
+        "E) Yatay analiz"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aynı finansal tablonun aynı dönemine ait verilerinin kendi aralarında oranlanması yoluyla uygulanan analiz türüne ne ad verilir?",
+      "options": [
+        "A) Yatırım analizi",
+        "B) Yatay analiz",
+        "C) Eğilim yüzdeleri tekniği",
+        "D) Dikey analiz",
+        "E) Trend analizi"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi finansal tablo analizinde kullanılan tekniklerden biri değildir?",
+      "options": [
+        "A) Karşılaştırmalı Tablolar analizi",
+        "B) İç analiz",
+        "C) Yüzde yöntemi ile analiz",
+        "D) Eğilim yüzdeleri analizi",
+        "E) Oran analizi"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Finansal tablolarda yer alan her kalemin aynı tabloda yer alan belirli bir kaleme veya toplama oranlanmasıyla ve bulunan yüzdelere göre ifade edilmesiyle yapılan analiz aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Karşılaştırmalı analiz",
+        "B) Eğitim analizi",
+        "C) Statik analiz",
+        "D) Fon akış analizi",
+        "E) Yüzde yöntemi ile analiz"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "I. Trend analizinin doğru sonuçlar verebilmesi için, baz yılın istikrarlı bir yıl olarak seçilmesi gerekir.<br>II. Mukayeseli tablolar analizinde doğru değerlendirme yapabilmek için oranların yanında hesapların mutlak değerleri de göz önünde bulundurulmalıdır.<br>III. Dikey yüzdelere göre gelir tablosu analiz edilirken dönem net karı tutarı 100 olarak kabul edilir.<br><br>Finansal tabloların analizi ile ilgili olarak yukarıdaki ifadelerden hangileri doğrudur?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I, II ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi finansal tablo analizinin yapılış amacına göre gerçekleştirilen analiz türüdür?",
+      "options": [
+        "A) Statik analiz",
+        "B) İç analiz",
+        "C) Dış analiz",
+        "D) Kredi analizi",
+        "E) Dinamik analiz"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdaki analiz tekniklerinden hangileri farklı büyüklükteki ve yapılardaki işletmelerin birbirleriyle karşılaştırılarak incelenebilmesine olanak sağlar?",
+      "options": [
+        "A) Karşılaştırmalı Tablolar Analizi - Yatay Analiz",
+        "B) Trend Analizi - Oran Analizi",
+        "C) Dikey Analiz - Oran Analizi",
+        "D) Karşılaştırmalı Tablolar Analizi Yüzde Yöntemi ile Analiz",
+        "E) Yatay Analiz - Rasyo Analizi"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin geçmiş dönemlerinin ortalaması ile cari dönemi karşılaştırma amacıyla finansal tablolarını analiz etmesi durumunda; aşağıdaki standartlardan hangisinin kullanılması daha uygun olacaktır?",
+      "options": [
+        "A) Bütçe standartlarının",
+        "B) Sektör standartlarının",
+        "C) Sanayi standartlarının",
+        "D) Tarihi standartların",
+        "E) İdeal standartların"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin yer aldığı sektörde bulunan en başarılı bir veya birkaç işletmenin finansal tablolarından yararlanılarak hazırlanan standart oranlar aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Bütçe standart oranlar",
+        "B) Tarihi standart oranlar",
+        "C) Sektör standart oranlar",
+        "D) Sanayi veya sektör standart oranlar",
+        "E) İdeal veya hedef standart oranlar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "2019 yılında işletmenin aktif karlılık oranı %30 olarak gerçekleşmiştir. Yapılan analizde oranın planlanan düzeyin altında kaldığı anlaşılmıştır.<br><br>Bu bilgilere göre yapılan analizde referans olarak alınan oran aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Sanayi Standart Oranları",
+        "B) Tarihi Standart Oranlar",
+        "C) Sektör Standart Oranları",
+        "D) Bütçe Standart Oranları",
+        "E) İdeal Standart Oranlar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin, içinde bulunduğu sektördeki en iyi şirket veya şirketlere göre durumunun karşılaştırılması amacı ile yapılacak bir analizde, aşağıdaki standart oranlardan hangisinin kullanılması gerekir?",
+      "options": [
+        "A) Sektör",
+        "B) Bütçe",
+        "C) İdeal",
+        "D) Tarihî",
+        "E) Sanayi"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir şirketin sektöründeki en iyi şirkete göre durumunu analiz etmek amacıyla bir oran analizi yapılacaksa, bu amaçla kullanılacak referans oranlar aşağıdakilerden hangisi olmalıdır?",
+      "options": [
+        "A) Hareketli ortalama oranlar",
+        "B) Sektör oranları",
+        "C) İdeal oranlar",
+        "D) Bütçe standart oranları",
+        "E) Sermaye yeterlilik oranları"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin cari yıldan önceki beş yılın ortalamaları ile cari yıla ait analiz bulgularını karşılaştırmak amacı ile yapılacak oran analizinde, aşağıdakilerden hangisi referans olarak kullanılmalıdır?",
+      "options": [
+        "A) Sektör Standart Oranları",
+        "B) İdeal Standart Oranlar",
+        "C) Sanayi Standart Oranları",
+        "D) Bütçe Standart Oranları",
+        "E) Tarihi Standart Oranlar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "İşletmenin planladıkları ile gerçekleşen fiilî finansal durumunu karşılaştırmak üzere bir analiz yapılacaksa, bu amaçla aşağıdaki referans oranlardan hangisi kullanılmalıdır?",
+      "options": [
+        "A) İdeal Standart Oranlar",
+        "B) Tarihî Standart Oranlar",
+        "C) Sektör Standart Oranları",
+        "D) Sanayi Standart Oranları",
+        "E) Bütçe Standart Oranları"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Bir işletmenin, hedeflenen sonuçlara ne ölçüde ulaşmış olduğunu değerlendirmek için yapılacak bir mali analizde aşağıdaki oran standartlarından hangisinin kullanılması uygundur?",
+      "options": [
+        "A) İdeal standart oranlar",
+        "B) Bütçe standart oranları",
+        "C) Tarihî standart oranlar",
+        "D) Sektör oranları",
+        "E) Finansal kaldıraç oranları"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "I. Net Satış Hasılatı<br>II. Satışların Maliyeti<br>III. Genel Yönetim Giderleri<br>IV. Alınan Krediler<br><br>Yukarıdakilerden hangileri, Nakit Akım Tablosunda dönem içi nakit girişleri arasında yer almaz?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız IV",
+        "C) II ve III",
+        "D) III ve IV",
+        "E) II, III ve IV"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "I. Satışlardan elde edilen nakit<br>II. Mali duran varlık satışından elde edilen nakit<br>III. Hisse senedi ihracından elde edilen nakit<br><br>Yukarıdakilerden hangileri finansman faaliyetleri arasında yer alır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) II ve III"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi işletmenin nakit kaynaklarından biri değildir?",
+      "options": [
+        "A) Duran varlıkların peşin bedelle satışı",
+        "B) Bankadan alınan nakit krediler",
+        "C) Demirbaşların peşin bedelle satışı",
+        "D) Çıkarılan tahvillerin itfası",
+        "E) Peşin olarak mal satışı"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi Fon Akım Tablosunda fon kaynakları arasında yer almaz?",
+      "options": [
+        "A) Sermaye artışı",
+        "B) Amortismanlar",
+        "C) Dönen varlık tutarındaki azalışlar",
+        "D) Hisse Senetleri İhraç Primleri",
+        "E) Duran varlık tutarındaki artışlar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Nakit akış tablosu hangi esasa göre düzenlenmektedir?",
+      "options": [
+        "A) Tahakkuk esası",
+        "B) Maliyet esası",
+        "C) Sermaye esası",
+        "D) Kâr esası",
+        "E) Nakit esası"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi fon kaynağı değildir?",
+      "options": [
+        "A) Dönen varlıklardaki azalışlar",
+        "B) Uzun vadeli yabancı kaynaklardaki artışlar",
+        "C) Sermayedeki azalışlar",
+        "D) Hisse senedi ihraç primleri",
+        "E) Duran varlıklardaki azalışlar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi nakit çıkışı değildir?",
+      "options": [
+        "A) Duran varlık yatırımlarına ilişkin nakit çıkışları",
+        "B) Ödenen vergi ve benzerleri",
+        "C) Kısa vadeli yabancı kaynak ödemeleri",
+        "D) Hisse senedi ihraç primlerinden sağlanan nakit",
+        "E) Maliyetlerden kaynaklanan nakit çıkışları"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi fon kaynağı değildir?",
+      "options": [
+        "A) Duran Varlıklardaki azalışlar",
+        "B) Dönen Varlıklardaki artışlar",
+        "C) Kısa Vadeli Yabancı Kaynaklardaki artışlar",
+        "D) Hisse Senetleri İhraç Primlerindeki artışlar",
+        "E) Nakit Sermaye artırımı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aktif artışı pasif azalışı aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        "A) Fon kullanımını",
+        "B) Fon kaynağını",
+        "C) Fon akımını",
+        "D) Fon fazlasını",
+        "E) Fon stratejisini"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Tablolar Analizi",
+      "q": "Aşağıdakilerden hangisi nakit akım tablosunda yer alan kalemlerden biridir?",
+      "options": [
+        "A) Ödenen Temettüler",
+        "B) Dönem Net Kârı",
+        "C) Geçmiş Yıllar Zararları",
+        "D) Satış İskontoları",
+        "E) Verilen Çekler"
+      ],
+      "answer": 0
+    }
   ]
 }

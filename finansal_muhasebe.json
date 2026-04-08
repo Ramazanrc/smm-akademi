@@ -4026,5 +4026,1135 @@
       ],
       "answer": 0
     }
+  ],
+  "Muhasebe Standartları Çalışma Soruları (Bölüm 1)": [
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi Türkiye Muhasebe Standartları kapsamında tam finansal tablolar seti içerisinde yer almaz?",
+      "options": [
+        "A) Finansal Durum Tablosu",
+        "B) Kapsamlı Gelir Tablosu",
+        "C) Fon Akım Tablosu",
+        "D) Özkaynak Değişim Tablosu",
+        "E) Dipnotlar ve Açıklayıcı Notlar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS-1 Finansal Tabloların Sunuluşu standardına göre, aşağıdakilerden hangisi tam bir finansal tablo seti içinde yer almaz?",
+      "options": [
+        "A) Döneme ait nakit akış tablosu",
+        "B) Döneme ait net işletme sermayesi değişim tablosu",
+        "C) Döneme ait kapsamlı gelir tablosu",
+        "D) Döneme ait öz kaynak değişim tablosu",
+        "E) Dönem sonu finansal durum tablosu"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre, tam bir finansal tablolar seti aşağıdakilerden hangisini içermez?",
+      "options": [
+        "A) Önemli muhasebe politikalarını ve diğer açıklayıcı bilgileri içeren dipnotlar",
+        "B) Döneme ait özkaynak değişim tablosu",
+        "C) Dönem sonu finansal durum tablosu",
+        "D) Döneme ait kurumlar vergisi beyannamesi",
+        "E) Döneme ait nakit akış tablosu"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TFRS'ye göre hazırlanmış tam bir finansal tablolar setinde aşağıdakilerden hangisi yer almaz?",
+      "options": [
+        "A) Döneme Ait Nakit Akış Tablosu",
+        "B) Dönem Sonu Finansal Durum Tablosu (Bilanço)",
+        "C) Önemli Muhasebe Politikalarını Özetleyen Dipnotlar ve Diğer Açıklayıcı Notlar",
+        "D) Döneme Ait Fon Akış Tablosu",
+        "E) Döneme Ait Kâr veya Zarar ve Diğer Kapsamlı Gelir Tablosu"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TFRS 1 Türkiye Finansal Raporlama Standartlarının İlk Uygulaması standardına göre, ilk defa TFRS'leri uygulayacak olan işletmelerin düzenlemesi gereken finansal tablolar aşağıdakilerden hangisidir?",
+      "options": [
+        "A) En az iki finansal durum tablosu, iki kapsamlı gelir tablosu, iki nakit akış tablosu, iki özkaynaklar değişim tablosu ve ilgili dipnotlar",
+        "B) En az üç finansal durum tablosu, iki kapsamlı gelir tablosu, iki nakit akış tablosu, iki özkaynaklar değişim tablosu ve ilgili dipnotlar",
+        "C) En az üç finansal durum tablosu, üç kapsamlı gelir tablosu, iki nakit akış tablosu",
+        "D) En az iki finansal durum tablosu, iki kapsamlı gelir tablosu, iki nakit akış tablosu",
+        "E) En az üç finansal durum tablosu, üç kapsamlı gelir tablosu, iki nakit akış tablosu, iki özkaynaklar değişim tablosu ve ilgili dipnotlar"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre, işletmenin; bir muhasebe politikasını geriye dönük uygulaması, finansal tablo kalemlerinde geriye dönük bir düzeltme yapması veya finansal tablo kalemlerini yeniden sınıflandırması ve bu işlemlerin bir önceki dönemin başındaki finansal durum tablosundaki bilgiler üzerinde önemli bir etkiye sahip olması durumunda, işletme, hangi tarihe/tarihlere ait finansal durum tablosunu sunar?",
+      "options": [
+        "A) Cari dönemin sonu ve bir önceki dönemin sonu",
+        "B) Cari dönemin sonu, bir önceki dönemin sonu ve bir önceki dönemin başı",
+        "C) Cari dönemin sonu ve bir önceki dönemin başı",
+        "D) Bir önceki dönemin sonu ve bir önceki dönemin başı",
+        "E) Cari dönemin sonu"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmenin raporlama dönemi sonunu değiştirmesi ve finansal tablolarını bir yıldan daha uzun veya daha kısa bir dönem için sunması durumunda, finansal tabloların kapsadığı dönemin yanı sıra aşağıdakiler de açıklanır:<br><br>a) Bir yıldan daha uzun veya daha kısa bir dönem kullanılmasının nedeni ve<br>b) Finansal tablolarda sunulan tutarların tam olarak karşılaştırılabilir olmadığı<br><br>TMS 1 Finansal Tabloların Sunuluşu standardına göre, yukarıdaki açıklamalar finansal tabloların hangi genel özelliğine işaret eder?",
+      "options": [
+        "A) Gerçeğe uygun sunum ve TFRS'lerle uyum",
+        "B) Karşılaştırmalı bilgi",
+        "C) Raporlama sıklığı",
+        "D) Sunumda tutarlılık",
+        "E) Önemlilik ve birleştirme"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre, netleştirme (mahsup) ilkesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) İşletme, bir Türkiye Finansal Raporlama standardı (TFRS) zorunlu kılmadıkça veya izin vermedikçe varlıkları ve borçları ya da gelirleri ve giderleri netleştiremez.",
+        "B) İşletme, zorunlu olarak varlıklardan giderleri netleştirirken borçlardan da gelirleri netleştirir.",
+        "C) İşletme, her zaman gelirleri ve giderleri netleştirebilirken, varlıkları ve borçları netleştiremez.",
+        "D) İşletme, her zaman varlıkları ve borçları netleştirebilirken, gelirleri ve giderleri netleştiremez.",
+        "E) İşletme, zorunlu olarak hem varlıkları ve borçları hem de gelirleri ve giderleri netleştirir."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre, netleştirme (mahsup etme) ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) İşletme, varlıkları ve borçları netleştiremez, fakat gelirleri ve giderleri netleştirebilir.",
+        "B) İşletme, varlıkları ve borçları ya da gelirleri ve giderleri hiçbir zaman netleştiremez.",
+        "C) İşletme, varlıkları ve borçları ya da gelirleri ve giderleri uygun gördüğü zaman netleştirebilir.",
+        "D) İşletme, varlıkları ve borçları netleştirebilir, fakat gelirleri ve giderleri netleştiremez.",
+        "E) İşletme, bir TFRS zorunlu kılmadıkça veya izin vermedikçe, varlıkları ve borçları ya da gelirleri ve giderleri netleştiremez."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Muhasebe Standartlarına göre, ana ortaklık ile bağlı ortaklığın/ortaklıkların varlıklarının, borçlarının, özkaynaklarının, gelirlerinin, giderlerinin ve nakit akışlarının tek bir işletmeninki gibi sunulduğu grup finansal tablolarına ne denir?",
+      "options": [
+        "A) Özkaynak değişim tablosu",
+        "B) Nakit akış tablosu",
+        "C) Finansal tablo taksonomisi",
+        "D) Bireysel finansal tablolar",
+        "E) Konsolide finansal tablolar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre, işletmenin faaliyet döngüsü, işleme tabi tutulmak üzere varlıkların ediniminden nakit veya nakit benzerlerine dönüşmesine kadar geçen süredir. İşletmenin normal faaliyet döngüsünün açıkça belirlenememesi durumunda, bu döngünün kaç ay olduğu varsayılır?",
+      "options": [
+        "A) 3",
+        "B) 4",
+        "C) 6",
+        "D) 12",
+        "E) 18"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Finansal Raporlama Standardına göre, bir duran varlığın defter değerinin uzun vadede kullanıma devam edilmekten ziyade kısa vadede satış yolu ile geri kazanılacak olması durumunda, söz konusu varlık aşağıdakilerden hangisindeki gibi kayıt altına alınmalıdır?",
+      "options": [
+        "A) Duran Varlıklar içerisinde Satış Amaçlı Elde Tutulan Duran Varlık olarak",
+        "B) Dönen Varlıklar içerisinde Yatırım Amaçlı Gayrimenkul olarak",
+        "C) Dönen Varlıklar içerisinde Satış Amaçlı Elde Tutulan Duran Varlık olarak",
+        "D) Duran Varlıklar içerisinde Yatırım Amaçlı Gayrimenkul olarak",
+        "E) Duran Varlıklar içerisinde Maddi Duran Varlık olarak"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir duran varlığın defter değerinin sürdürülmekte olan kullanımdan ziyade satış işlemi vasıtası ile geri kazanılacak olması durumunda işletme, söz konusu duran varlığı muhasebe standartlarına göre hangi isim ile sınıflandırır?",
+      "options": [
+        "A) Ertelenmiş duran varlık",
+        "B) Yatırım amaçlı gayrimenkul",
+        "C) Durdurulan faaliyetler",
+        "D) Sınıflandırılmış duran varlık",
+        "E) Satış amaçlı duran varlık"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Muhasebe standartlarına göre, raporlama yapan K şirketi sahibi olduğu 4 adet binek otomobili satmaya karar vermiştir. Yönetim kademesi tarafından satışa ilişkin plan yapılmış ve satış fiyatı otomobillerin gerçeğe uygun değeri ile uyumlu olarak belirlenmiştir. Otomobillerin satışının 1 yıl içerisinde tamamlanması beklenmektedir. Buna göre, K şirketi söz konusu otomobilleri finansal durum tablosunda hangi sınıfta izlemelidir?",
+      "options": [
+        "A) Finansal Varlıklar",
+        "B) Yatırım Amaçlı Gayrimenkuller",
+        "C) Taşıtlar",
+        "D) Satış Amaçlı Elde Tutulan Duran Varlıklar",
+        "E) Stoklar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Finansal Raporlama Standartlarına göre, aşağıdakilerden hangisi finansal durum tablosunun kaynaklar bölümünde yer almaz?",
+      "options": [
+        "A) Karşılıklar",
+        "B) Ticari ve diğer borçlar",
+        "C) Özkaynak yöntemi kullanılarak muhasebeleştirilen yatırımlar",
+        "D) Finansal yükümlülükler",
+        "E) Ertelenmiş vergi yükümlülükleri"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi diğer kapsamlı gelir kalemlerinden değildir?",
+      "options": [
+        "A) Maddi Olmayan Duran Varlık Yeniden Değerleme Artışları",
+        "B) Finansal Varlıklar Değer Artışları",
+        "C) Ertelenmiş Gelirler",
+        "D) Aktüeryal Kazançlar",
+        "E) Kur Farklarından Kaynaklanan Kayıplar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi Kâr veya Zarar ve Diğer Kapsamlı Gelir Tablosunda yer almaz?",
+      "options": [
+        "A) Ertelenmiş gelirler",
+        "B) Değer düşüklüğü zararları",
+        "C) Durdurulan faaliyetler toplam tutarı",
+        "D) İştirak ve iş ortaklıklarının kâr veya zarar payları",
+        "E) Vergi gideri"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Muhasebe standartlarına göre raporlama yapan C İşletmesinin bazı finansal verileri verilmiştir:\n\n| Kalem | Tutar |\n| :--- | :--- |\n| Nakit ve nakit benzerleri | 10.000 ₺ |\n| Ertelenen vergi yükümlülüğü | 20.000 ₺ |\n| Yatırım amaçlı gayrimenkuller | 200.000 ₺ |\n| Peşin ödenmiş giderler | 5.000 ₺ |\n| Maddi olmayan duran varlıklar | 50.000 ₺ |\n| Finansal yatırımlar | 50.000 ₺ |\n| Çalışanlara sağlanan faydalar kapsamında borçlar | 30.000 ₺ |\n\nBu verilere dayanarak C İşletmesinin finansal durum tablosundaki varlıklar toplamı nedir?",
+      "options": [
+        "A) 310.000 ₺",
+        "B) 315.000 ₺",
+        "C) 325.000 ₺",
+        "D) 335.000 ₺",
+        "E) 365.000 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre; \"işletmenin ortaklarıyla gerçekleştirdiği ve ortakların ortaklık sıfatıyla taraf oldukları işlemlerden kaynaklanan değişimler hariç olmak üzere, bir dönem boyunca işlem ve diğer olaylar sonucunda özkaynakta meydana gelen değişim\" aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Talep haklarındaki değişiklikler",
+        "B) Ekonomik kaynaklardaki değişiklikler",
+        "C) Toplam kapsamlı gelir",
+        "D) Yeniden sınıflandırma düzeltmeleri",
+        "E) Kâr veya zarar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre, işletmenin ortaklarıyla gerçekleştirdiği ve ortakların ortaklık sıfatıyla taraf oldukları işlemlerden kaynaklanan değişimler hariç olmak üzere, bir dönem boyunca işlem ve diğer olaylar sonucunda özkaynakta meydana gelen değişime verilen ad aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Kâr veya zarar",
+        "B) Yeniden değerleme fazlasındaki değişimler",
+        "C) Yeniden sınıflandırma düzeltmeleri",
+        "D) Diğer kapsamlı gelir",
+        "E) Toplam kapsamlı gelir"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmenin çeşitli faaliyetlerinin, işlemlerinin ve olayların etkileri; sıklıkları, kazanç veya kayıp yaratma potansiyelleri ve tahmin edilebilirlikleri açısından farklı olduğundan, finansal performansın bileşenlerinin açıklanması, finansal tablo kullanıcılarının ulaşılan finansal performansı anlamalarına ve işletmenin gelecekteki finansal performansını tahmin etmelerine yardımcı olur.<br><br>TMS 1 Finansal Tabloların Sunuluşu standardında önemi yukarıdaki gibi belirtilen finansal tablo aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Satışların maliyeti tablosu",
+        "B) Finansal durum tablosu",
+        "C) Nakit akış tablosu",
+        "D) Öz kaynak değişim tablosu",
+        "E) Kâr veya zarar ve diğer kapsamlı gelir tablosu"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi \"diğer kapsamlı gelirin\" unsurlarından birisi değildir?",
+      "options": [
+        "A) Dış ülkedeki bağlı işletmeye ait finansal tabloların çevrilmesinden kaynaklanan kur farkı kazanç ve kayıpları",
+        "B) Yeniden değerleme fazlasındaki değişimler",
+        "C) Tanımlanmış fayda planlarının yeniden ölçümleri",
+        "D) Nakit akış riskine ilişkin riskten korunma araçlarına bağlı olarak oluşan kazanç veya kayıpların etkin kısımları",
+        "E) Durdurulan faaliyetler"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre aşağıdaki kalemlerden hangisi gelir tablosunda yer almaz?",
+      "options": [
+        "A) Olağandışı gelir ve kârlar",
+        "B) Finansman giderleri",
+        "C) Brüt satışlar",
+        "D) Genel yönetim giderleri",
+        "E) Satışların maliyeti"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi Türkiye Muhasebe Standartları'na göre raporlama yapan bir şirketin finansal tablolarında ayrı bir kalem olarak yer almaz?",
+      "options": [
+        "A) Finansman giderleri",
+        "B) Olağandışı gider ve zararlar",
+        "C) Maddi duran varlıklar",
+        "D) Yeniden değerleme değer artışları",
+        "E) Satışların maliyeti"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi TMS 1 Finansal Tabloların Sunuluşu standardına göre düzenlenen özkaynak değişim tablosunun düzenlenme amacıdır?",
+      "options": [
+        "A) Bir işletmenin bir hesap dönemi için gelir, gider ve kârını göstermek",
+        "B) Bir işletmenin varlıklarını, borçlarını ve özkaynaklarını bir hesap dönemi sonunda göstermek",
+        "C) Bir işletmenin özkaynağının her bir bileşeninin bir hesap dönemi boyunca nasıl değiştiğini göstermek",
+        "D) Bir işletmenin toplam özkaynaklarını bir hesap dönemi sonunda göstermek",
+        "E) Bir işletmenin ortaklara dağıtılmak üzere finansal tablolara yansıtılan temettü tutarını göstermek"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi TMS 2 Stoklar standardının kapsamı dışındadır?",
+      "options": [
+        "A) Hizmet şirketlerinde hizmet sunumunda kullanılacak hammadde ve malzemeler",
+        "B) Üretim şirketlerinde üretim sürecinde kullanılmak üzere bekletilen hammadde ve malzemeler",
+        "C) Gayrimenkul şirketlerinde tekrar satılmak üzere elde tutulan gayrimenkuller",
+        "D) Tarım şirketlerinde hasat zamanındaki tarımsal ürünler",
+        "E) Ticaret şirketlerinde satın alınan ve tekrar satılmak üzere elde tutulan mallar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Stokların maliyeti; tüm satın alma maliyetlerini, dönüştürme maliyetlerini ve stokların mevcut konumuna ve durumuna getirilmesi için katlanılan diğer maliyetleri içerir.<br><br>TMS 2 Stoklar standardına göre, stokların maliyetinin belirlenmesine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) İthalat vergileri satın alma maliyetleri içinde yer alır.",
+        "B) Yükleme-boşaltma maliyetleri diğer maliyetler içinde yer alır.",
+        "C) Direkt işçilik giderleri dönüştürme maliyetleri içinde yer alır.",
+        "D) Taşıma maliyetleri satın alma maliyetleri içinde yer alır.",
+        "E) Değişken genel üretim giderleri dönüştürme maliyetleri içinde yer alır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 2 Stoklar standardına göre, aşağıdaki kalemlerden hangisi stokların satın alma maliyetinin hesaplanmasında dikkate alınmaz?",
+      "options": [
+        "A) Nakliye giderleri",
+        "B) Yükleme ve boşaltma giderleri",
+        "C) İthalat vergileri",
+        "D) Satın alma tarihinden sonraki ticari iskontolar",
+        "E) İade alınabilecek vergiler"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 2 Stoklar standardına göre, aşağıdakilerden hangisi ticari mal stoklarının maliyetine dahil edilmez?",
+      "options": [
+        "A) İlk edinme sırasında katlanılan nakliye bedeli",
+        "B) İlk edinme sırasında katlanılan gümrük vergisi",
+        "C) Depolama alanı için ödenen kira bedeli",
+        "D) İlk edinme sırasında katlanılan nakliye sigortası",
+        "E) Ticari malın alış bedeli"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Müge, uzun süre bayatlamayan kurabiye üretip satan küçük bir dükkan işletmektedir. Temmuz ayı üretimine dair bilgiler aşağıdaki gibidir:<br><br>• Aylık normal kapasite: 2.000 birim<br>• Temmuz ayı üretim miktarı: 1.000 birim<br>• Kurabiye başına un, şeker ve yumurta maliyeti: 10 ₺/br<br>• Kurabiye başına işçilik gideri: 5 ₺/br<br>• Mutfaktaki elektrik gideri: aylık 1.000 ₺<br>• Satış elemanının maaşı: aylık 2.000 ₺<br>• Bitmiş kurabiyeleri depolama maliyeti: aylık 500 ₺<br><br>TMS 2 Stoklar standardına göre; Müge'nin işletmesinde Temmuz ayında üretilen kurabiyelerin \"stok maliyeti\" kaç ₺'dir?",
+      "options": [
+        "A) 15.000",
+        "B) 15.500",
+        "C) 16.500",
+        "D) 16.750",
+        "E) 17.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Normalde 15.000 adet ürün üretebilme kapasitesine sahip olmasına rağmen, Kalkancılar İşletmesi 2021 yılında ekonomide yaşanan darboğaz nedeniyle yalnızca 10.000 adet ürün üretmiş ve bu ürünlerden 8.000 adedini satabilmiştir.<br><br>2021 yılı üretim maliyetlerine ilişkin veriler ise aşağıdaki gibidir:\n\n| Gider Türü | Tutar |\n| :--- | :--- |\n| Direkt İlk Madde ve Malzeme Gideri | 120.000 ₺ |\n| Direkt İşçilik Gideri | 90.000 ₺ |\n| Değişken Genel Üretim Gideri | 60.000 ₺ |\n| Sabit Genel Üretim Gideri | 75.000 ₺ |\n\nTMS 2 Stoklar standardı kapsamında, işletmenin finansal raporlarında esas alması gereken birim maliyet aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 23",
+        "B) 25,50",
+        "C) 32",
+        "D) 34,50",
+        "E) 43,13"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS-2 Stoklar standardına göre, işin normal akışı içinde tahmini satış fiyatından, tahmini tamamlanma maliyeti ve satışı gerçekleştirmek için gerekli tahmini satış giderleri toplamının çıkarılmasıyla elde edilen tutar aşağıdaki hangi değeri ifade eder?",
+      "options": [
+        "A) Net Maliyet Değeri",
+        "B) Gerçeğe Uygun Değer",
+        "C) Satış Değeri",
+        "D) Net Gerçekleşebilir Değer",
+        "E) İskontolu Satış Değeri"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 2 Stoklar standardına göre, bilanço tarihinde stok kalemleri aşağıdakilerden hangisi ile ölçülür?",
+      "options": [
+        "A) Gerçeğe uygun değer",
+        "B) Maliyet değeri",
+        "C) Geri kazanılabilir tutar",
+        "D) Defter değeri",
+        "E) Maliyet ve net gerçekleşebilir değerin düşük olanı"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "X İşletmesi, işlerinin normal akışı içerisinde devam edeceğini öngörmekte ve MM ticari malıyla ilgili olarak aşağıdaki tahminlerde bulunmaktadır:<br><br>• Satış fiyatı: 10.000 ₺<br>• Satışla ilgili nakliye giderleri: 1.000 ₺<br>• Satış sonrası montaj gideri: 2.000 ₺<br><br>Buna göre MM ticari malının net gerçekleşebilir değeri kaç ₺'dir?",
+      "options": [
+        "A) 7.000",
+        "B) 8.000",
+        "C) 11.000",
+        "D) 12.000",
+        "E) 13.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "X şirketi 14 Ocak tarihinde yurtdışından 10.000 Dolara ticari mal satın almıştır (14 Ocak tarihinde kur 1 Dolar = 5 TL).<br>31 Aralık tarihi itibarıyla söz konusu ticari mallar satılmamış olup hâlen stokta bulunmaktadır. Şirket gelecek dönemde malları yurtdışına 11.000 Dolara satacağını tahmin etmektedir (31 Aralık tarihinde kur 1 Dolar = 4 TL).<br><br>TMS 2 Stoklar standardına göre, X şirketi ticari mallarını bilanço tarihinde aşağıdakilerden hangisi üzerinden ölçmelidir?",
+      "options": [
+        "A) 4.000",
+        "B) 5.000",
+        "C) 44.000",
+        "D) 48.000",
+        "E) 50.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İkinci el araç satışı işi yapan galeri, bir müşterisinden 120.000 ₺ bedelle ikinci el bir araç satın almıştır. Galeri ayrıca aracın satışa hazır hale getirilmesi için (galeriye getirtilme, bakım ve onarım maliyetleri vb.) 5.000 ₺ masrafa katlanmış ve araç için 150.000 ₺ satış fiyatı belirlemiştir.<br><br>Yılsonuna doğru ortaya çıkan finansal kriz ve aracı üreten firmanın izleyen yıl ülkeden çıkacağını belirtmesi ile birlikte aracın satış fiyatı 110.000 ₺'ye düşmüştür.<br><br>Bu durumda işletmenin yılsonu itibariyle stoklar kaleminin görünüşü TMS 2 Stoklar standardına göre, nasıl olacaktır?",
+      "options": [
+        "A) Stok - 125.000 ₺ ; Stok Değer Düşüklüğü Karşılığı - 10.000 ₺",
+        "B) Stok - 125.000 ₺",
+        "C) Stok - 120.000 ₺ ; Stok Değer Düşüklüğü Karşılığı - 40.000 ₺",
+        "D) Stok - 120.000 ₺",
+        "E) Stok - 125.000 ₺ ; Stok Değer Düşüklüğü Karşılığı - 15.000 ₺"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi TMS 2 Stoklar standardı kapsamında kullanılabilecek stok maliyetlerini hesaplama yöntemlerinden biri değildir?",
+      "options": [
+        "A) Son giren ilk çıkar yöntemi",
+        "B) Gerçek parti maliyeti yöntemi",
+        "C) Dönem sonu ağırlıklı ortalama maliyet yöntemi",
+        "D) İlk giren ilk çıkar yöntemi",
+        "E) Hareketli ağırlıklı ortalama maliyet yöntemi"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "\"Bu yöntemde stokların maliyeti, stokların satış değerinden, uygun bir brüt kâr marjı yüzdesi çıkarılarak belirlenir.\"<br><br>TMS 2 Stoklar standardına göre, maliyet ölçüm tekniklerinden biri olarak sunulan bu yöntem aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Perakende yöntemi",
+        "B) Standart maliyet yöntemi",
+        "C) Tahmin yöntemi",
+        "D) Fiili maliyet yöntemi",
+        "E) Gerçek parti maliyet yöntemi"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 2 Stoklar standardına göre finansal tablolarda aşağıdaki açıklamalardan hangisinin yapılması gerekli değildir?",
+      "options": [
+        "A) Stokların hangi tarihlerde satın alındıklarının detaylı dökümü",
+        "B) Kullanılan maliyet hesaplama yöntemleri dâhil, stokların ölçümünde benimsenen muhasebe politikaları",
+        "C) Stokların toplam defter değeri ve işletme için uygun olan stok sınıflarının defter değeri",
+        "D) Satış maliyetleri düşülmüş gerçeğe uygun değer üzerinden izlenen stokların defter değeri",
+        "E) Dönem boyunca gider olarak finansal tablolara yansıtılan stokların tutarı"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 7 Nakit Akış Tablosu standardına göre; \"tutarı belirli bir nakde kolayca çevrilebilen ve değerindeki değişim riski önemsiz olan yüksek likiditeye sahip kısa vadeli yatırımlar\" aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Serbest nakit akışı",
+        "B) Nakit",
+        "C) Nakit akışları",
+        "D) Nakit benzerleri",
+        "E) Finansman faaliyetleri"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 7 Nakit Akış Tablosu standardına göre, aşağıdakilerden hangisi nakit akış tablosunun İşletme Faaliyetlerinden Kaynaklanan Nakit Akışları bölümünde yer alan kalemlerden biri değildir?",
+      "options": [
+        "A) Çalışanlara ve çalışanlar adına yapılan ödemelerden kaynaklanan nakit çıkışları",
+        "B) Satılan mallardan ve verilen hizmetlerden (satışlardan) elde edilen nakit girişleri",
+        "C) Alım satım amaçlı elde bulundurulan sözleşmelerle ilgili nakit girişleri ve çıkışları",
+        "D) Sigorta şirketlerine ödenen primler nedeniyle oluşan nakit çıkışları",
+        "E) Finansal kurumların yaptıkları işlemler hariç olmak üzere, üçüncü kişilere verilen avans ve borçlara ilişkin nakit çıkışları"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "A tekstil şirketi faaliyetlerinde kullanmak üzere bir dokuma makinesi satın almış ve bedelini peşin olarak ödemiştir.<br><br>Söz konusu nakit çıkışı, TMS 7 Nakit Akış Tablosu standardına göre, nakit akış tablosunun hangi bölümünde raporlanır?",
+      "options": [
+        "A) Esas faaliyetlerden kaynaklanan nakit akışları",
+        "B) Finansman faaliyetlerinden kaynaklanan nakit akışları",
+        "C) Yatırım faaliyetlerinden kaynaklanan nakit akışları",
+        "D) Esas faaliyetlerden kaynaklanan nakit akışları veya finansman faaliyetlerinden kaynaklanan nakit akışları",
+        "E) Esas faaliyetlerden kaynaklanan nakit akışları veya yatırım faaliyetlerinden kaynaklanan nakit akışları"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "E Şirketi, 100.000 ₺ maliyet bedeli ve 70.000 ₺ birikmiş amortismanı olan deposunu, F Şirketinin gerçeğe uygun değeri 50.000 ₺ olan deposu ile takas etmiştir. Aradaki fark E Şirketi tarafından F Şirketine nakden ödenmiştir.<br><br>E Şirketinin doğrudan yönteme göre düzenleyeceği nakit akış tablosunda bu takas işlemi ne şekilde raporlanır?",
+      "options": [
+        "A) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 20.000 ₺ nakit çıkışı olarak",
+        "B) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 20.000 ₺ nakit girişi olarak",
+        "C) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 30.000 ₺ nakit girişi olarak",
+        "D) Finansman faaliyetlerinden kaynaklanan nakit akışları bölümünde 30.000 ₺ nakit çıkışı olarak",
+        "E) Finansman faaliyetlerinden kaynaklanan nakit akışları bölümünde 50.000 ₺ nakit girişi olarak"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Finansal Raporlama Standartları'na göre, aşağıdakilerden hangisi nakit akış tablosunun \"finansman faaliyetlerine ilişkin nakit akışları\" kısmında yer almaz?",
+      "options": [
+        "A) Finansal kiralama sözleşmelerinden kaynaklanan borç ödemelerine ilişkin nakit çıkışları",
+        "B) Hisse senedi ve diğer özsermaye araçlarının ihracından sağlanan nakit girişleri",
+        "C) Sermayenin azaltılması veya işletmenin kendi hisse senetlerini almasıyla ilgili nakit çıkışları",
+        "D) Maddi ve maddi olmayan duran varlıklar ve diğer uzun vadeli varlıkların satışı ile ilgili nakit girişleri",
+        "E) Borçlanma araçları ihracı ve diğer uzun ve kısa vadeli krediler ile sağlanan nakit girişleri"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 10 Raporlama Tarihinden Sonraki Olaylar standardına göre, raporlama tarihinden sonraki olaylar, hangi tarih aralığında ortaya çıkan olayları ifade eder?",
+      "options": [
+        "A) Raporlama dönemi sonu ile finansal tabloların kamuya açıklandığı tarih aralığı",
+        "B) Raporlama dönemi sonu ile finansal tabloların düzenleyici kuruluşa iletildiği tarih aralığı",
+        "C) Raporlama dönemi sonu ile ortakların finansal tabloları onayladığı tarih aralığı",
+        "D) Raporlama dönemi sonu ile yönetim kurulunun finansal tabloların yayımını onayladığı tarih aralığı",
+        "E) Raporlama dönemi sonu ile genel kurul arasındaki tarih aralığı"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmenin 31.12.2019 tarihinde sona eren döneme ait finansal tablolarına ilişkin şu tarihler verilmiştir:<br><br>• 23.02.2020 Hazırlanması tamamlanmıştır.<br>• 25.02.2020 Yönetim kuruluna sunulmuştur.<br>• 01.03.2020 Yönetim kurulu yayımlanmak üzere onaylamıştır.<br>• 10.03.2020 Genel kurulda ibra edilmiştir.<br>• 14.03.2020 Düzenleyici kuruluşa gönderilmiştir.<br><br>Yukarıdakilere göre, TMS 10 Raporlama Döneminden Sonraki Olaylar standardına göre, yılsonundan (31.12.2019) itibaren hangi tarihe kadar gerçekleşen olaylar raporlama döneminden sonraki olay olarak kabul edilmektedir?",
+      "options": [
+        "A) 23.02.2020",
+        "B) 25.02.2020",
+        "C) 01.03.2020",
+        "D) 10.03.2020",
+        "E) 14.03.2020"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Sandalye ticareti ile uğraşan A Şirketi 31.12.2020 tarihi itibarıyla 100.000 ₺ tutarındaki sandalye stokunun net gerçekleşebilir değerini 90.000 ₺ olarak belirlemiş ve dönem sonu itibarıyla 10.000 ₺ stok değer düşüklüğü karşılığı ayırmıştır.<br>Sandalyeler ertesi dönem, henüz finansal tablolar yönetim kurulu tarafından onaylanmadan önce 93.000 ₺'ye satılmıştır.<br><br>Karşılık tutarının düzeltilmesine ilişkin olarak TMS 10 Raporlama Döneminden Sonraki Olaylar standardına göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Düzeltme gerektiren olaydır; finansal tablolara alınmış olan değer düşüklüğü tutarının 3.000 ₺'lik kısmı iptal edilir.",
+        "B) Düzeltme gerektiren olaydır; finansal tablolara alınmış olan değer düşüklüğü tutarının 7.000 ₺'lik kısmı iptal edilir.",
+        "C) Düzeltme gerektirmeyen olaydır; finansal tablolara alınmış olan değer düşüklüğü tutarının tümü iptal edilir.",
+        "D) Düzeltme gerektirmeyen olaydır; cari dönemde 7.000 ₺ stok değer düşüklüğü karşılığı ayrılır.",
+        "E) Düzeltme gerektirmeyen olaydır; hiçbir işlem yapılmaz."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Ceyhan şirketi 31.12.2022 tarihi itibarıyla 180.000 ₺ tutarındaki ticari malının net gerçekleşebilir değerini 150.000 ₺ olarak belirlemiş ve dönem sonu itibarıyla değer düşüklüğünün tamamı için karşılık ayırmıştır. Sözkonusu ticari mallar 04.02.2023 tarihinde 160.000 ₺'ye satılmıştır. Bu tarihte Ceyhan şirketinin finansal tabloları henüz yönetim kurulu tarafından onaylanmamıştır.<br><br>TMS 10 Bilanço Tarihinden Sonraki Olaylar standardına göre 04.02.2023 tarihinde yapılması gereken düzeltme işlemi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Herhangi bir düzeltme kaydı yapılmaz.",
+        "B) 30.000 ₺'lik değer düşüklüğü karşılığı iptal edilmek suretiyle düzeltilir.",
+        "C) 20.000 ₺'lik ilave değer düşüklüğü karşılığı ayrılır.",
+        "D) 10.000 ₺'lik ilave değer düşüklüğü karşılığı ayrılır.",
+        "E) 10.000 ₺'lik değer düşüklüğü karşılığı iptal edilmek suretiyle düzeltilir."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar standardına göre, aşağıdaki maliyet unsurlarından hangisi bir maddi duran varlık kaleminin maliyetine dâhil edilemez?",
+      "options": [
+        "A) Doğrudan maddi duran varlık kaleminin elde edilmesiyle veya inşasıyla ilgili çalışanlara sağlanan faydalardan kaynaklanan maliyetler",
+        "B) Yeni bir yerde veya yeni bir müşteri kitlesiyle iş yapmak amacıyla katlanılan maliyetler",
+        "C) Maddi duran varlığın kullanılacağı yerin hazırlanmasına ilişkin maliyetler",
+        "D) Maddi duran varlığın işletmeye taşınma maliyetleri",
+        "E) Kurulum ve montaj maliyetleri"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar standardına göre, aşağıdakilerden hangisi maddi duran varlık kaleminin maliyetine girmeyen unsurlardan birisidir?",
+      "options": [
+        "A) Varlığın yerleştirileceği yerin hazırlanmasına ilişkin maliyetler",
+        "B) Kurulum ve montaj maliyetleri",
+        "C) Taşıma maliyetleri",
+        "D) Personel eğitim masrafları",
+        "E) Test maliyetlerinden, örneklerin satılmasından elde edilen net hasılatın düşülmesinden sonra kalan tutar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar Standardına göre, aşağıdakilerden hangisi bir maddi duran varlık kaleminin maliyetine giren unsurlardan birisidir?",
+      "options": [
+        "A) Yeni bir tesis açılmasının maliyetleri",
+        "B) Kurulum ve montaj giderleri",
+        "C) Personel eğitim masrafları",
+        "D) Reklam ve tanıtım harcamaları",
+        "E) Yönetim giderleri"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "A şirketi 50.000 ₺'ye bir dokuma makinesi satın almıştır. Makinenin montajı için 5.000 ₺ ödemiştir. Makinenin dokuduğu kumaşları test etmek için üretim öncesinde makine çalıştırılmış ve 500 ₺'lik test maliyetine katlanılmıştır. Test sonrasında üretilen numune kumaşlar 1.000 ₺'ye satılmıştır.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, makinenin maliyet bedeli aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 50.000 ₺",
+        "B) 50.500 ₺",
+        "C) 54.500 ₺",
+        "D) 55.000 ₺",
+        "E) 55.500 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "A üretim işletmesi, üretim faaliyetinde kullanmak üzere bir makine satın almıştır. Makinenin satın alma bedeli 20.000 ₺'dir. Makinenin fabrika binasına taşınması için 1.000 ₺ nakliye ücretine katlanılmıştır. Montaj bedeli olarak 2.000 ₺ ödenmiştir. Makinenin test edilmesi esnasında 1.000 ₺ test gideri ortaya çıkmıştır. Test aşamasında üretilen numunelerin satışından 500 ₺ elde edilmiştir. Üretilen numunelerin yeni bir pazarda tanıtımı için 1.000 ₺ reklam gideri yapılmıştır.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, makinenin maliyet bedeli kaç ₺'dir?",
+      "options": [
+        "A) 23.000",
+        "B) 23.500",
+        "C) 24.000",
+        "D) 24.500",
+        "E) 25.500"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Ankara'da faaliyet gösteren bir işletme Samsun'daki fuardan %18 KDV dâhil 236.000 ₺ bedelle bir makine satın almış ve finansmanını bankadan aldığı kredi ile sağlamıştır. Makinenin firmaya getirilmesi için 24.000 ₺ ödenmiş ve kurulum ile test üretimleri için ayrıca 6.000 ₺ maliyete katlanılarak makine Aralık ayının başında kullanıma hazır hale getirilmiştir. Bu süreçte işletme adına bankadaki kredi için 2.000 ₺ faiz tahakkuk etmiştir.<br><br>Yukarıdaki veriler ışığında Türkiye Muhasebe Standartlarına göre makinenin aktifleştirileceği tutar kaç ₺'dir?",
+      "options": [
+        "A) 200.000",
+        "B) 224.000",
+        "C) 230.000",
+        "D) 266.000",
+        "E) 268.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar standardına göre, ilk muhasebeleştirme sonrası maliyet modelini benimseyen bir işletme, maddi duran varlıklarını finansal tablolarda hangi değer üzerinden göstermelidir?",
+      "options": [
+        "A) Gerçeğe uygun değer (-) Birikmiş amortisman (-) Varsa birikmiş değer artış kârları",
+        "B) Satın alma bedeli (-) Birikmiş amortisman (-) Varsa birikmiş değer düşüklüğü zararları",
+        "C) Gerçeğe uygun değer (-) Birikmiş amortisman (-) Varsa birikmiş değer düşüklüğü zararları",
+        "D) Maliyet bedeli (-) Birikmiş amortisman (-) Varsa birikmiş değer düşüklüğü zararları",
+        "E) Maliyet bedeli (-) Birikmiş amortisman (-) Varsa birikmiş değer artışı kârları"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar standardına göre, yeniden değerleme modeli uygulanması durumunda, bir maddi duran varlığın değeri, yeniden değerleme sonucunda azalmışsa bu azalma aşağıdakilerden hangisi olarak raporlanır?",
+      "options": [
+        "A) Özkaynaklarda yeniden değerleme değer azalışı",
+        "B) Gelir",
+        "C) Maddi duran varlık değer düşüklüğü",
+        "D) Gider",
+        "E) Özkaynaklarda yeniden değerleme değer artışı"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "I. Bir varlığın defter değeri yeniden değerleme sonucunda artmışsa, bu artış özkaynak hesap grubunda yeniden değerleme değer artışı adı altında toplanır.<br>II. Bir varlığın defter değeri yeniden değerleme sonucunda artmışsa ve aynı varlığın daha önce kayıtlanmış olan bir yeniden değerleme değer azalışı mevcutsa; bu azalışı tersine çevirdiği ölçüde muhasebeleştirilir.<br>III. Bir varlığın defter değeri yeniden değerleme sonucunda azalmışsa, bu azalma gider olarak muhasebeleştirilir.<br>IV. Bir varlığın defter değeri yeniden değerleme sonucunda azalmışsa ve aynı varlığın daha önce kayıtlanmış olan bir yeniden değerleme artışı mevcutsa, bu artış tersine çevrilmez.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, yeniden değerleme modelinin uygulanmasına ilişkin yukarıdakilerden hangileri doğrudur?",
+      "options": [
+        "A) I ve III",
+        "B) II ve IV",
+        "C) I, II ve III",
+        "D) I, III ve IV",
+        "E) I, II, III ve IV"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar standardına göre bir maddi duran varlık kalemine ilişkin Özkaynak hesap grubunda yer alan yeniden değerleme değer artışı, ilgili varlık finansal durum tablosu (bilanço) dışı bırakıldığında aşağıda verilen hangi kaleme aktarılır?",
+      "options": [
+        "A) Geçmiş Yıllar Kârları",
+        "B) Geçmiş Yıllar Zararları",
+        "C) Dönem Kârı veya Zararı",
+        "D) Sermaye",
+        "E) Ortaklara Borçlar"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bulut İşletmesi ürünlerinin dağıtımında kullandığı ve 2019 yılının başında 100.000 ₺ maliyete katlanarak edindiği bir taşıtı, araç fiyatlarındaki genel artışı göz ününde bulundurarak, 2021 yıl sonu itibarıyla yeniden değerlemeye tabi tutma kararı almıştır. Edinme tarihinde ekonomik ömrü 5 yıl olarak belirlenen taşıtın bu sürenin sonunda hiçbir değeri olmayacağı düşünülmektedir.<br><br>An itibarıyla piyasadaki satış fiyatı 45.000 ₺ olmasına rağmen, satılabilmesi için öncelikle 8.000 ₺ maliyete katlanılarak çiziklerinin giderilmesi ve bazı parçalarının yenilenmesi gerekmektedir. Taşıtın işletme içinde kullanımına devam edilmesi durumunda ise 2021 yılındaki değeri ile 38.000 ₺ tutarında nakit akışı sağlayacağı düşünülmektedir.<br><br>İşletmenin taşıtlar için doğrusal amortisman yöntemi kullandığı durumda, 2021 yıl sonunda aşağıda verilen hangi şekilde muhasebeleştirme işleminin yapılması gerekmektedir?",
+      "options": [
+        "A) 2.000 ₺ değer düşüklüğü ayrılır.",
+        "B) 3.000 ₺ değer düşüklüğü ayrılır.",
+        "C) 5.000 ₺ değer düşüklüğü ayrılır.",
+        "D) 5.000 ₺ yeniden değerleme artışı kaydı yapılır.",
+        "E) 60.000 ₺ amortisman gideri kaydı yapılır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletme 2.1.2012 tarihinde üretimde kullanmak üzere 100.000 ₺'ye bir makine satın almış ve makinenin faydalı ömrünün 10 yıl olacağını, hurda değerinin ise önemsiz olacağını tahmin etmiştir. İşletmede Doğrusal Amortisman Yöntemi kullanılmaktadır. İşletmenin 2015 yılı sonunda finansal tabloları hazırlanırken söz konusu makinenin çok yıpranmış olduğu görülmüş ve makinenin faydalı ömrünün 2018 sonunda biteceği tahmin edilmiştir.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, amortisman ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Tahmindeki yanılma 2016 ve sonraki yıllarda dikkate alınır. 2015 yılı amortisman gideri tutarı 10.000 ₺ olur.",
+        "B) 2015 yılı amortisman gideri tutarı 17.500 ₺ olur.",
+        "C) 2016 yılı amortisman gideri tutarı 20.000 ₺ olur.",
+        "D) Tahmindeki yanılmadan dolayı geçmiş yılların amortismanı da düzeltilir.",
+        "E) Tahmindeki yanılma sadece 2018 yılında dikkate alınır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, 1 Temmuz 2013 tarihinde işletmede kullanmak üzere 50.000 ₺'ye bir kamyonet satın almıştır. Vergi düzenlemelerine göre kamyonetler için 4 yıllık bir amortisman süresi öngörülmesine rağmen İşletme bu kamyoneti ekonomik olarak 250.000 km kullanabileceğini, bu km'yi de 5 yılda yapabileceğini ve 5 yıl sonra da bu aracı 20.000 ₺'ye satabileceğini tahmin etmektedir.<br><br>İşletme Doğrusal Amortisman Yöntemi'ni uygulamaktadır. İşletme 2013 yılı sonu itibariyle bu kamyonet için Türkiye Muhasebe Standartları'na göre kaç ₺ amortisman ayıracaktır?",
+      "options": [
+        "A) 3.000",
+        "B) 3.600",
+        "C) 6.000",
+        "D) 6.250",
+        "E) 6.750"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS-23 Borçlanma Maliyetleri standardına göre, aşağıdakilerden hangisi özellikli varlık olamaz?",
+      "options": [
+        "A) Maddi olmayan duran varlıklar",
+        "B) Enerji üretim tesisleri",
+        "C) Yatırım amaçlı gayrimenkuller",
+        "D) Finansal varlıklar",
+        "E) Stoklar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi TMS-23 Borçlanma Maliyetleri standardına göre, özellikli varlık olarak sınıflandırılmaz?",
+      "options": [
+        "A) Finansal varlıklar",
+        "B) Gayrimenkuller",
+        "C) Enerji üretim tesisleri",
+        "D) Maddi olmayan duran varlıklar",
+        "E) Stoklar"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 23 Borçlanma Maliyetleri standardına göre, belirli bir döneme ilişkin aktifleştirilecek borçlanma maliyeti tutarının belirlenmesinde, borç alınmış fonlar kullanılmadan önce borçlanma maliyetleri oluşur ve aynı zamanda bu fonlardan gelir sağlanırsa, söz konusu gelirler nasıl dikkate alınır?",
+      "options": [
+        "A) Borçlanma süresi dikkate alınarak faiz gelirlerine eklenir.",
+        "B) Katlanılan borçlanma maliyetlerinden indirilir.",
+        "C) Öz sermaye grubundaki yenileme fonuna aktarılır.",
+        "D) Finansman gelirlerine eklenir.",
+        "E) Ortaklara borçlara eklenir."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletme, yapmakta olduğu yeni bir fabrika binası için kredi kullanmıştır. Fabrikanın inşası sırasında mücbir olmayan bir nedenden dolayı uzun süreli olarak inşaat durdurulmuştur.<br><br>TMS 23 Borçlanma Maliyetleri standardına göre, durdurulan bu sürede ortaya çıkan borçlanma maliyetleri için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Borçlanma maliyetleri aktifleştirilmeye devam eder.",
+        "B) Fabrika binalarının yapımında borçlanma maliyetleri hiçbir zaman aktifleştirilmez.",
+        "C) Borçlanma maliyetlerinin aktifleştirilmesine ara verilir.",
+        "D) Borçlanma maliyetleri öz kaynaklarda gösterilir.",
+        "E) İnşaatın durdurulduğu dönemdeki borçlanma maliyetlerinin yarısı aktifleştirilir."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletmenin yönetim binası olarak kullanmak üzere inşa ettirdiği bina için 2022 yılı içerisinde yaptığı ödemeler aşağıda gösterilmektedir:\n\n| Tarih | Tutar |\n| :--- | :--- |\n| 1 Ocak 2022 | 300.000 ₺ |\n| 30 Haziran 2022 | 200.000 ₺ |\n| 30 Eylül 2022 | 500.000 ₺ |\n\nİşletmenin bina inşaatının finansmanına özel olarak Banka A'dan yıllık %10 faiz oranı ile aldığı kredinin 2021 yılı sonu itibarıyla kalan borcu 450.000 ₺'dir. Bu krediye ilişkin olarak yıl içerisinde 40.000 ₺ faiz ödenmiştir.<br><br>Diğer harcamalar ise Banka B ve Banka C'den genel kullanım amacıyla alınan kredilerden sağlanan fonlarla gerçekleştirilmiştir. 2021 yılsonu itibarıyla, 3 yıl önce Banka B'den alınan 10 yıl vadeli ve %20 basit faizli kredinin ödenmemiş kısmı 500.000 ₺ iken geçen yıl Banka C'den alınan 5 yıl vadeli %15 basit faizli kredinin ödenmemiş kısmı 1.000.000 ₺'dir.<br><br>İşletmenin 2022 yılında aktifleştireceği borçlanma maliyeti tutarı kaç ₺'dir?",
+      "options": [
+        "A) 55.000",
+        "B) 60.000",
+        "C) 65.000",
+        "D) 67.500",
+        "E) 70.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TFRS 3 İşletme Birleşmeleri standardına göre, her bir işletme birleşmesinde birleşen işletmelerden biri \"edinen işletme\" olarak belirlenir. Edinen işletme, edinilen varlıkları ve üstlenilen borçları birleşme tarihinde aşağıdaki hangi değer üzerinden ölçer?",
+      "options": [
+        "A) Maliyet bedeli",
+        "B) Gerçeğe uygun değer",
+        "C) Geri kazanılabilir tutar",
+        "D) Piyasa değeri",
+        "E) Cari maliyet"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre; \"işletmenin ortaklarıyla gerçekleştirdiği ve ortakların ortaklık sıfatıyla taraf oldukları işlemlerden kaynaklanan değişimler hariç olmak üzere, bir dönem boyunca işlem ve diğer olaylar sonucunda öz kaynakta meydana gelen değişim\" aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Talep haklarındaki değişiklikler",
+        "B) Ekonomik kaynaklardaki değişiklikler",
+        "C) Toplam kapsamlı gelir",
+        "D) Yeniden sınıflandırma düzeltmeleri",
+        "E) Kâr veya zarar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 29 Yüksek Enflasyonlu Ekonomilerde Finansal Raporlama standardı hangi işletmelerin tüm temel finansal tablolarında uygulanır?",
+      "options": [
+        "A) Önemli müşterileri yüksek enflasyonlu ekonomisi olan bir ülkede yerleşik olan işletmelerin",
+        "B) Yüksek enflasyonlu ekonomisi olan ülkede faaliyet gösteren işletmelerin",
+        "C) Yüksek enflasyonlu ekonomisi olan ülkede yerleşik olan işletmelerin",
+        "D) Borçlanma faaliyetlerini yüksek enflasyonlu ekonomisi olan bir ülke ile yürüten işletmelerin",
+        "E) Geçerli para birimi yüksek enflasyonlu bir ekonominin para birimi olan işletmelerin"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme içi yaratılan bir maddi olmayan duran varlığın muhasebeleştirilebilmesi için gerekli kriterleri sağlayıp sağlamadığının değerlendirilmesinde, işletme ilgili varlığın oluşumunu iki safhaya ayırır: (a) Araştırma safhası ve (b) Geliştirme safhası.<br><br>Aşağıdakilerden hangisi TMS 38 Maddi Olmayan Duran Varlıklar standardına göre bir geliştirme faaliyetidir?",
+      "options": [
+        "A) Yeni teknoloji içeren alet, model ve kalıpların tasarımı",
+        "B) Yeni bilgi elde edilmesine yönelik faaliyetler",
+        "C) Araştırma bulguları ve diğer bilgilerin uygulanmasına yönelik olarak değerlendirme ve nihai seçim araştırması",
+        "D) Malzeme, aygıt, ürün, süreç, sistem veya hizmetler için alternatif araştırması",
+        "E) Yeni veya geliştirilmiş malzeme, aygıt, ürün, süreç, sistem veya hizmetlerin olası alternatiflerinin oluşturulması, tasarlanması, değerlendirilmesi ve nihai seçimi"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Kullanım amacı ile elde bulundurulan bir gayrimenkulün kiraya verilmesi onun yatırım amaçlı gayrimenkul olduğu anlamına gelmez.",
+        "B) Yatırım amaçlı gayrimenkul olarak inşa edilen gayrimenkuller, inşa ve geliştirme faaliyetleri tamamlanıncaya kadar yatırım amaçlı gayrimenkul olarak muhasebeleştirilmezler.",
+        "C) Maddi duran varlıklardan farklı olarak yatırım amaçlı gayrimenkullerde yıllık bakım ve onarım harcamaları varlığın maliyetine eklenmektedir.",
+        "D) Gerçeğe uygun değer ile değerlenen yatırım amaçlı gayrimenkullerin gerçeğe uygun değerindeki değişiklikten kaynaklanan kazanç veya kayıplar, meydana geldikleri dönemde, dönem kâr/zararına dâhil edilirler.",
+        "E) Gerçeğe uygun değerin belirlenmesi esnasında, varlığın satışı için katlanılan işlem maliyetleri gerçeğe uygun değerden indirilmez."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre, işletmenin; bir muhasebe politikasını geriye dönük uygulaması, finansal tablo kalemlerinde geriye dönük bir düzeltme yapması veya finansal tablo kalemlerini yeniden sınıflandırması ve bu işlemlerin bir önceki dönemin başındaki finansal durum tablosundaki bilgiler üzerinde önemli bir etkiye sahip olması durumunda, işletme, hangi tarihe/tarihlere ait finansal durum tablosunu sunar?",
+      "options": [
+        "A) Cari dönemin sonu ve bir önceki dönemin sonu",
+        "B) Cari dönemin sonu, bir önceki dönemin sonu ve bir önceki dönemin başı",
+        "C) Cari dönemin sonu ve bir önceki dönemin başı",
+        "D) Bir önceki dönemin sonu ve bir önceki dönemin başı",
+        "E) Cari dönemin sonu"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "I. Bir varlık/hak, maddi unsur da içeriyorsa her zaman TMS 16 Maddi Duran Varlıklar standardı hükümlerine göre muhasebeleştirilir.<br>II. Bir varlık, işletme birleşmesi sonucu elde edilen şerefiyeden ayrılamıyorsa, maddi olmayan duran varlık tanımını karşılamaz.<br>III. Reklam harcamaları, reklamların satışı etkileyeceği dönemlere yayılarak giderleştirilmek üzere maddi olmayan duran varlık sınıfında aktifleştirilir.<br>IV. Belirli koşulların tamamının sağlanması durumunda, araştırma safhasında ortaya çıkan harcamalar aktifleştirilebilir.<br><br>Maddi olmayan duran varlıklara ilişkin olarak yukarıda verilen ifadelerden hangisi/hangileri doğrudur?",
+      "options": [
+        "A) Yalnız II",
+        "B) I ve III",
+        "C) II ve III",
+        "D) III ve IV",
+        "E) I, II ve IV"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "I. Gelecekte nasıl kullanılacağı henüz belli olmayan bir arsa, yatırım amaçlı olarak kabul edilemez.<br>II. Gelecekte yatırım amaçlı gayrimenkul olarak kullanılmak üzere inşa edilmekte olan gayrimenkuller de yatırım amaçlı gayrimenkul olarak sınıflandırılır.<br>III. Başka bir işletmeye finansal kiralama yoluyla kiralanan gayrimenkuller yatırım amaçlı gayrimenkul sınıfına girmezler.<br><br>Yatırım amaçlı gayrimenkullere ilişkin olarak yukarıda verilen bilgilerden hangisi/hangileri yanlıştır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız III",
+        "C) I ve II",
+        "D) I ve III",
+        "E) II ve III"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Finansal Raporlama Standartlarına göre, aşağıdakilerden hangisi finansal durum tablosunun kaynaklar bölümünde yer almaz?",
+      "options": [
+        "A) Karşılıklar",
+        "B) Ticari ve diğer borçlar",
+        "C) Öz kaynak yöntemi kullanılarak muhasebeleştirilen yatırımlar",
+        "D) Finansal yükümlülükler",
+        "E) Ertelenmiş vergi yükümlülükleri"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TFRS 9 Finansal Araçlar standartlarına göre, \"Gerçeğe uygun değer değişimi kâr veya zarara yansıtılan finansal yükümlülükler\" sonraki muhasebeleştirmede hangi değer üzerinden ölçülür?",
+      "options": [
+        "A) Geri kazanılabilir tutar",
+        "B) İtfa edilmiş maliyet",
+        "C) Net gerçekleşebilir değer",
+        "D) Cari maliyet",
+        "E) Gerçeğe uygun değer"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Muhasebe Standartlarına göre, raporlama yapan C İşletmesinin sahibi olduğu dokuma makinesinin maliyet bedeli 150.000 ₺, vergi düzenlemelerine uygun olarak hesaplanmış birikmiş amortismanı 90.000 ₺'dir.<br><br>Makinenin muhasebe standartlarına göre belirlenmiş defter değeri 100.000 ₺ olduğuna göre TMS 12 Gelir Vergileri standardı açısından aşağıdakilerden hangisi doğrudur? (Vergi oranı %20)",
+      "options": [
+        "A) 40.000 ₺ vergilendirilebilir geçici fark bulunmaktadır; 8.000 ₺ ertelenmiş vergi borcu kayda alınmalıdır.",
+        "B) 40.000 ₺ vergilendirilebilir geçici fark bulunmaktadır; 8.000 ₺ ertelenmiş vergi varlığı kayda alınmalıdır.",
+        "C) 40.000 ₺ indirilebilir geçici fark bulunmaktadır; 8.000 ₺ ertelenmiş vergi borcu kayda alınmalıdır.",
+        "D) 50.000 ₺ indirilebilir geçici fark bulunmaktadır; 10.000 ₺ ertelenmiş vergi varlığı kayda alınmalıdır.",
+        "E) 50.000 ₺ vergilendirilebilir geçici fark bulunmaktadır; 10.000 ₺ ertelenmiş vergi varlığı kayda alınmalıdır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Finansal Raporlama Standartlarına göre, bir satış sözleşmesinde işlem bedelinin belirlenmesi sırasında aşağıdaki unsurlardan hangisi göz önünde bulundurulmamaktadır?",
+      "options": [
+        "A) Değişken bedel (performansa dayalı bedel vb.)",
+        "B) Nakdi olmayan bedel tutarı (senet, hisse vb.)",
+        "C) Finansman bileşeni (vade farkı vb.)",
+        "D) Vergiler (KDV vb.)",
+        "E) Müşteriye ödenebilir bedel (indirim kuponları vb.)"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Muhasebe Standartlarına göre raporlama yapan Silgi Yayınevi, dünyaca ünlü bir yemek yazarının son kitabının telif hakkını satın almıştır.<br><br>TMS 38 Maddi Olmayan Duran Varlıklar standardına göre, aşağıdakilerden hangisi telif hakkının maliyetine eklenebilir?",
+      "options": [
+        "A) Kitabın Türkiye'de tanıtımı için hazırlanan reklam kampanyası masrafları",
+        "B) Telif hakkının alınması konusu için çalışan avukata verilen ücret",
+        "C) Kitabın erkek okurların da ilgisini çekmesi için yürütülen promosyon çalışmaları masrafları",
+        "D) Kitap satışının artırılması amacıyla satış personelinin aldığı satış teknikleri eğitimi masrafları",
+        "E) Kitabın satışından sorumlu yöneticinin satış miktarı üzerinden aldığı primler"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 41 Tarımsal Faaliyetler standardına göre, canlı varlıklar ilk muhasebeleştirildikleri tarihte finansal tablolara alınırken hangi değerle ölçülürler?",
+      "options": [
+        "A) Satış maliyetleri düşülmüş gerçeğe uygun değer",
+        "B) Maliyet bedeli",
+        "C) Kullanım değeri",
+        "D) Net gerçekleşebilir değer",
+        "E) Piyasa değeri"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "A Şirketi; müşterilerine 12 ay süresince ayda 500 ₺ ödeme şartıyla, 12 aylık iletişim hizmeti ve cep telefonu sağlayan sözleşmeler yapmaktadır. A Şirketi sadece telefonu 5.000 ₺'ye satmakta ve telefonsuz iletişim hizmetini ayda 200 ₺'ye satmaktadır.<br><br>TFRS 15 Müşteri Sözleşmelerinden Hasılat standardına göre, hasılatın belirlenmesinde edim yükümlülüklerine dağıtım aşamasında kullanılacak tek başına satış fiyatı nedir?",
+      "options": [
+        "A) 5.000 ₺",
+        "B) 6.000 ₺",
+        "C) 7.000 ₺",
+        "D) 7.400 ₺",
+        "E) 8.400 ₺"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Muhasebe standartlarına göre raporlama yapan Y Şirketi deposunu boşaltmış ve kira geliri elde etmek amacıyla kiralamaya karar vermiştir. Söz konusu deponun ölçümünde gerçeğe uygun değer yönteminin uygulanması kararlaştırılmıştır. Depoya ilişkin bilgiler aşağıdaki gibidir:<br><br>Maliyet bedeli: 400.000 ₺<br>Birikmiş amortisman: 150.000 ₺<br>Gerçeğe uygun değer: 350.000 ₺<br><br>TMS 40 Yatırım Amaçlı Gayrimenkuller standardına göre, deponun yatırım amaçlı gayrimenkul sınıfına transferine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Yatırım amaçlı gayrimenkul olarak finansal durum tablosuna 350.000 ₺ ile alınır.",
+        "B) Transfer işleminden sonra kalan yararlı ömür üzerinden amortisman ayrılmaya devam edilir.",
+        "C) Birikmiş amortismanı kapatılır.",
+        "D) 100.000 ₺'lik maddi duran varlık yeniden değerleme artışı kayda alınır.",
+        "E) Maliyet bedeli ile Binalar hesabından çıkartılır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi TMS 2 Stoklar standardının kapsamı dışındadır?",
+      "options": [
+        "A) Hizmet şirketlerinde hizmet sunumunda kullanılacak hammadde ve malzemeler",
+        "B) Üretim şirketlerinde üretim sürecinde kullanılmak üzere bekletilen hammadde ve malzemeler",
+        "C) Gayrimenkul şirketlerinde tekrar satılmak üzere elde tutulan gayrimenkuller",
+        "D) Tarım şirketlerinde hasat zamanındaki tarımsal ürünler",
+        "E) Ticaret şirketlerinde satın alınan ve tekrar satılmak üzere elde tutulan mallar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "I. Karşılıklar, güvenilir bir şekilde tahmin edilebildikleri sürece yükümlülük olarak muhasebeleştirilirler.<br>II. Koşullu borçlar, tutarları güvenilir bir şekilde tahmin edilebildikleri sürece yükümlülük olarak muhasebeleştirilirler.<br>III. Koşullu varlıklar hiçbir zaman dipnotlarda ya da varlıklar arasında raporlanmazlar.<br>IV. Bir yükümlülüğün kayda alınabilmesi için yükümlü olunan tarafın kimliğinin bilinmesi gerekli değildir.<br><br>TMS 37 Karşılıklar, Koşullu Borçlar ve Koşullu Varlıklar standardına göre, yukarıdaki ifadelerden hangileri doğrudur?",
+      "options": [
+        "A) I ve II",
+        "B) I ve IV",
+        "C) III ve IV",
+        "D) I, II ve III",
+        "E) I, III ve II"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TFRS 16 Kiralamalar standardına göre, \"Kiralamaya konu olan ve kiraya verenin, kullanım hakkını kiracıya verdiği varlık\" aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Kullanım hakkı varlığı",
+        "B) Dayanak varlık",
+        "C) Brüt kiralama yatırımı",
+        "D) Taahhüt edilmemiş kalıntı değer",
+        "E) Alt kiralama varlığı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Ortak özelliklere sahip finansal tablo kalemlerinin tek tek sunulmak yerine birlikte sunulmasına kavramsal çerçevede verilen isim hangisidir?",
+      "options": [
+        "A) Sadeleştirme",
+        "B) Artırma",
+        "C) Toplulaştırma",
+        "D) Netleştirme",
+        "E) Mahsuplaşma"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye'de faaliyet gösteren X Turizm İşletmesi, Antalya'da sahibi olduğu otellerinden birini kiraya vermiş, yatırım amaçlı gayrimenkul olarak sınıflamış ve gerçeğe uygun değer yöntemi ile ölçmeye karar vermiştir. Dönem sonunda otelin gerçeğe uygun değeri belirlenmiş ve 200.000 ₺ tutarında değer artış kazancı tespit edilmiş ve bu kazanç kayda alınmıştır.<br><br>Yukarıdaki işleme ilişkin, TMS 12 Gelir Vergileri standardı açısından aşağıdakilerden hangisi doğrudur? (Vergi oranı %25)",
+      "options": [
+        "A) 200.000 ₺ vergilendirilebilir geçici fark bulunmaktadır; 50.000 ₺ ertelenmiş vergi borcu kayda alınmalıdır.",
+        "B) 200.000 ₺ vergilendirilebilir geçici fark bulunmaktadır; 50.000 ₺ ertelenmiş vergi varlığı kayda alınmalıdır.",
+        "C) 200.000 ₺ indirilebilir geçici fark bulunmaktadır; 50.000 ₺ ertelenmiş vergi borcu kayda alınmalıdır.",
+        "D) 200.000 ₺ indirilebilir geçici fark bulunmaktadır; 10.000 ₺ ertelenmiş vergi varlığı kayda alınmalıdır.",
+        "E) Bu işlemde geçici fark bulunmamaktadır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "I. Mal ve hizmetlerin satış fiyatlarını en çok etkileyen para birimi<br>II. Mal ve hizmetlere ilişkin işçilik, ham madde ve diğer maliyetleri en çok etkileyen para birimi<br>III. Finansman faaliyetlerinden yaratılan fonların para birimi<br>IV. İşletme faaliyetlerine ilişkin tahsilatların tutulduğu para birimi<br><br>TMS 21 Kur Değişiminin Etkileri standardına göre, yukarıdakilerden hangileri bir işletmenin geçerli para biriminin tespitinde dikkate alınması gereken faktörlerdendir?",
+      "options": [
+        "A) I ve II",
+        "B) I ve IV",
+        "C) I, II ve III",
+        "D) II, III ve IV",
+        "E) I, II, III ve IV"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi geri kazanılabilir tutarı tanımlar?",
+      "options": [
+        "A) Bir varlığın gerçeğe uygun değerinden satış giderleri çıkarılarak bulunan değeri ile Kullanım değerinden büyük olanıdır.",
+        "B) Bir varlık, tahmin edilen yararlı ömrünün sonundaki durum ve yaşına ulaştığında, elden çıkarılması sonucu elde edilmesi beklenen tutardan, elden çıkarmanın tahmini maliyetleri düşülerek ulaşılan tahmini tutardır.",
+        "C) Piyasa katılımcıları arasında ölçüm tarihinde gerçekleşecek olağan bir işlemde, bir varlığın satışında elde edilecek veya bir borcun devrinde ödenecek fiyattır.",
+        "D) Bir varlığın maliyetinden veya maliyet yerine geçen diğer tutarlardan kalıntı değerin düşülmesiyle bulunan tutarı ifade eder.",
+        "E) Bir işletmenin, bir varlığın devamlı kullanımından ve yararlı ömrünün sonunda elden çıkarıldığında elde edilmesi beklenen veya bir yükümlülüğün karşılanmasında oluşması beklenen nakit akışlarının bugünkü değerini ifade eder."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 28 İştiraklerdeki ve İş Ortaklıklarındaki Yatırımlar standardına göre, yatırımın başlangıçta elde etme maliyeti ile muhasebeleştirildiği ve sonrasında bu tutarın, yatırım yapılan işletmenin net varlıklarında yatırımcı işletmenin payına düşen kısmı yansıtacak şekilde düzeltildiği muhasebe yöntemi aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Tam Konsolidasyon Yöntemi",
+        "B) Oransal Konsolidasyon Yöntemi",
+        "C) Özkaynak Yöntemi",
+        "D) Maliyet Yöntemi",
+        "E) Rayiç Değer Yöntemi"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 40 Yatırım Amaçlı Gayrimenkuller standardına göre, bir binayı yatırım amaçlı gayrimenkul olarak sınıflayıp bunun raporlanması için de gerçeğe uygun değer yöntemini seçmiş olan bir işletme için söz konusu yatırım amaçlı gayrimenkule ilişkin aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Yatırım amaçlı gayrimenkulün gerçeğe uygun değerindeki değişimden kaynaklanan kazanç veya kayıp, oluştuğu dönemde diğer kapsamlı gelirin unsuru olarak raporlanır.",
+        "B) Dönen Varlıklarda raporlanır.",
+        "C) Yararlı ömrü süresince amortisman uygular.",
+        "D) Amortisman uygulamaz.",
+        "E) Yatırım amaçlı gayrimenkulün gerçeğe uygun değerindeki değişimden kaynaklanan kazanç veya kayıp öz kaynaklarda raporlanır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi TMS 8 Muhasebe Politikaları, Muhasebe Tahminlerinde Değişiklikler ve Hatalar standardına göre bir muhasebe politikası değişikliği değildir?",
+      "options": [
+        "A) Nakit akış tablosunun önceki dönemlerde brüt yönteme göre düzenlenirken, cari dönemde net yönteme göre düzenlenmesi",
+        "B) Binaların amortismanının önceki dönemlerde azalan bakiyeler amortisman yöntemine göre hesaplanırken, cari dönemde normal amortisman yöntemine geçilmesi",
+        "C) Önceki dönemlerde makineler %10 oranı ile itfa edilirken, yararlı ömrün gözden geçirilmesi sonucu amortisman oranının %15'e yükseltilmesi",
+        "D) Önceki dönemlerde maddi duran varlıklar maliyet modeli ile ölçülürken, cari dönemde yeniden değerleme modeli ile ölçülmesi",
+        "E) Önceki dönemlerde stok değerleme yöntemi olarak ilk giren ilk çıkar yöntemi kullanılırken cari dönemde ortalama maliyet yöntemine geçilmesi"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "I. Gelecekte nasıl kullanılacağına karar verilmemiş arsa<br>II. Üçüncü kişiler adına inşa edilmekte olan bina<br>III. Faaliyet kiralamasına konu edilmek üzere elde tutulan boş bina<br>IV. Başka bir işletmeye finansal kiralama sözleşmesi çerçevesinde kiralanan bina<br><br>TMS 40 Yatırım Amaçlı Gayrimenkuller standardına göre, yukarıdakilerden hangileri yatırım amaçlı gayrimenkullere örnek olarak verilebilir?",
+      "options": [
+        "A) I ve III",
+        "B) II ve IV",
+        "C) III ve IV",
+        "D) I, II ve III",
+        "E) I, II, III ve IV"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 19 Çalışanlara Sağlanan Faydalar standardına göre, çalışanların cari dönemdeki hizmetleri sonucu ortaya çıkan tanımlanmış fayda yükümlülüğünün bugünkü değerinde meydana gelen artışa verilen ad aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Aktüeryal kazanç ve kayıplar",
+        "B) Cari dönem hizmet maliyeti",
+        "C) Faiz maliyeti",
+        "D) Tanımlanmış net fayda borcuna (varlığına) ilişkin net faiz",
+        "E) Kıdem tazminat"
+      ],
+      "answer": 1
+    }
   ]
 }
