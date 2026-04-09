@@ -8191,5 +8191,739 @@
       ],
       "answer": 2
     }
+  ],
+  "Çalışma Soruları (Genel)": [
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanunu'na göre, telif haklarının müellifleri veya bunların kanuni mirasçıları dışındaki kişiler tarafından kiralanmasından elde edilen gelirler aşağıdaki hangi gelir unsuru kapsamında vergilendirilir?",
+      "options": [
+        "A) Gayrimenkul sermaye iradı",
+        "B) Menkul sermaye iradı",
+        "C) Ücret",
+        "D) Serbest meslek kazancı",
+        "E) Ticari kazanç"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi 193 sayılı Gelir Vergisi Kanunu hükümlerine göre menkul sermaye iradı olarak nitelendirilemez?",
+      "options": [
+        "A) Hisse senetlerinden elde edilen kâr payları",
+        "B) İştirak hisselerinin satışından doğan kazançlar",
+        "C) Mevduat faizleri",
+        "D) Repo gelirleri",
+        "E) Hisse senetleri ve tahvillerin vadesi gelmemiş kuponların satışından elde edilen bedeller"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi 488 sayılı Damga Vergisi Kanunu'nda hüküm altına alınmamıştır?",
+      "options": [
+        "A) Kağıtlara konulan imzanın birden fazla olması verginin tekerrürünü gerektirmez.",
+        "B) Bir kağıtta birbirinden tamamen ayrı birden fazla akit ve işlem bulunduğu takdirde bunların her birinden ayrı ayrı vergi alınır.",
+        "C) Bir nüshadan fazla olarak düzenlenen kağıtlardan nispi vergiye tabi olanların sadece bir nüshası damga vergisine tabidir.",
+        "D) Bir kağıtta bulunan asıl işlemin akitlerinden başka bir şahsın eklenen akit ve işlemi ayrıca vergiye tabi değildir.",
+        "E) Bir nüshadan fazla olarak düzenlenen kağıtlardan maktu vergiye tabi olanların her bir nüshası ayrı ayrı aynı miktarda damga vergisine tabidir."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıdakilerden hangisi katma değer vergisinin matrahına dahil unsurlar arasında yer almaz?",
+      "options": [
+        "A) Teslim alanın gösterdiği yere kadar satıcı tarafından yapılan taşıma, yükleme ve boşaltma giderleri",
+        "B) Servis ve benzer adlar altında sağlanan her türlü menfaat, hizmet ve değerler",
+        "C) Fatura ve benzeri vesikalarda gösterilen ticari teamüllere uygun miktardaki iskontolar",
+        "D) Vade farkı, fiyat farkı, faiz ve prim gibi çeşitli gelirler",
+        "E) Ambalaj giderleri, sigorta, komisyon ve benzeri gider karşılıkları"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre yurt dışında yapılan inşaat, onarım, montaj işleri ile teknik hizmetlerden sağlanarak Türkiye'de genel sonuç hesaplarına intikal ettirilen kazançların yüzde kaçı kurumlar vergisinden müstesnadır?",
+      "options": [
+        "A) 100",
+        "B) 75",
+        "C) 50",
+        "D) 25",
+        "E) 10"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre amme borcunun vadesinde ödenmesi amme borçlusunu çok zor duruma düşürecekse, borçlu tarafından yazı ile istenmiş ve teminat gösterilmiş olmak şartıyla, alacaklı amme idaresince; amme alacağının 36 ayı geçmemek üzere ve faiz alınarak ertelenmesi aşağıdaki hangi kavram ile ifade edilir?",
+      "options": [
+        "A) Terkin",
+        "B) Teminat",
+        "C) Tecil",
+        "D) İptal",
+        "E) Silinme"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre aşağıdakilerden hangisi kurumlar vergisi mükellefleri arasında yer almaz?",
+      "options": [
+        "A) Şahıs şirketleri",
+        "B) Kooperatifler",
+        "C) İş ortaklıkları",
+        "D) Derneklere ait iktisadi işletmeler",
+        "E) İktisadi kamu kuruluşları"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "I. Kiraya verilen mal ve hakların kira bedelleri emsal kira bedelinden düşük olamaz.<br>II. Bedelsiz olarak başkalarının yararlanmasına bırakılan mal ve hakların emsal kira bedeli, bu mal ve hakların kirası sayılır.<br>III. Boş kalan gayrimenkullerin muhafazaları maksadıyla bedelsiz olarak başkalarının ikametine bırakılması hâlinde emsal kira bedeli esası uygulanır.<br>IV. Binaların mal sahiplerinin usul, füru veya kardeşlerinin ikametine tahsis edilmesi hâlinde emsal kira bedeli esası uygulanmaz.<br><br>193 sayılı Gelir Vergisi Kanunu'na göre emsal kira bedeli esası ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?",
+      "options": [
+        "A) Yalnız I",
+        "B) I ve IV",
+        "C) II ve IV",
+        "D) I, II ve III",
+        "E) I, II ve IV"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanunu'na göre, faaliyeti durdurulan bir işletmenin tamamen elden çıkarılmasından doğan kazançlar aşağıdaki hangi gelir unsurunun konusuna girer?",
+      "options": [
+        "A) Ücret",
+        "B) Zirai kazanç",
+        "C) Gayrimenkul sermaye iradı",
+        "D) Serbest meslek kazancı",
+        "E) Değer artış kazancı"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, asgari ücreti aşmayan aylık gelirlerin ne kadarlık kısmından fazlası haczolunamaz?",
+      "options": [
+        "A) Onda birinden",
+        "B) Dörtte birinden",
+        "C) Yarısından",
+        "D) Üçte ikisinden",
+        "E) Dörtte üçünden"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        "A) Türkiye sınırları içinde bulunan işyeri niteliğindeki taşınmazlardan belli değerin üzerinde bina vergi değeri olanlar değerli konut vergisine tabidir.",
+        "B) Bina, arsa ya da arazi gibi taşınmazlara ilişkin vergiler belediyeler tarafından tahsil edilir.",
+        "C) Emlak vergisi birinci taksidi Mart, Nisan ve Mayıs aylarında, ikinci taksidi Kasım ayı içinde olmak üzere iki eşit taksitte ödenir.",
+        "D) Bina vergisini binanın maliki, varsa intifa hakkı sahibi, her ikisi de yoksa binaya malik gibi tasarruf edenler öder.",
+        "E) Elbirliği mülkiyette malikler vergiden müteselsilen sorumlu olurlar."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'na göre, aşağıdakilerden hangisi vergi tarhı ön işlemlerinden biri değildir?",
+      "options": [
+        "A) Yoklama",
+        "B) Uzlaşma",
+        "C) Arama",
+        "D) İzaha davet",
+        "E) İnceleme"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıdakilerden hangisi matraha dahil unsurlar içinde yer almaz?",
+      "options": [
+        "A) Prim",
+        "B) Kur farkı",
+        "C) Komisyon",
+        "D) İskonto",
+        "E) Vade farkı"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, değerli konut vergisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Değerli konut vergisini taşınmazların maliki, varsa intifa hakkı sahibi, her ikisi de yoksa taşınmaza malik gibi asarruf edenler öder.",
+        "B) Gerek mesken nitelikli gerekse kayıtlarda işyeri olarak gözüküp fiilen de işyeri olarak kullanılan taşınmazlar değerli konut vergisinin konusunu oluşturur.",
+        "C) Taşınmaza paylı mülkiyet hâlinde malik olanlar, hisseleri oranında mükelleftirler.",
+        "D) Taşınmaza elbirliği mülkiyeti şeklinde malik olan kişiler vergiden müteselsilen sorumlu olurlar.",
+        "E) Türkiye sınırları içinde mesken nitelikli tek taşınmazı olanların bu taşınmazı değerli konut vergisinden muaftır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre tahsil zamanaşımını kesen nedenlerden biri değildir?",
+      "options": [
+        "A) Ödeme emri tebliği",
+        "B) Haciz tatbiki",
+        "C) Kamu (amme) alacağının teminata bağlanması",
+        "D) Mal bildirimi, mal edinme ve mal artmalarının bildirilmesi",
+        "E) Borçlunun ölmesi"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'na göre, mükellefin dava açma süresinin 26'ncı günü tarhiyat sonrası uzlaşmaya başvurması durumunda ancak uzlaşmanın vaki olmaması hâlinde, mükellef kaç gün içinde dava açabilir?",
+      "options": [
+        "A) 4",
+        "B) 9",
+        "C) 15",
+        "D) 26",
+        "E) 30"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, ticari kazanç gibi hesaplanan kurum kazancının tespitinde, mükellefler aşağıdaki giderlerden hangisini hasılattan indirim konusu yapamazlar?",
+      "options": [
+        "A) Kuruluş ve örgütlenme giderleri",
+        "B) Genel kurul toplantıları için yapılan giderler",
+        "C) Sermayesi paylara bölünmüş komandit şirketlerde komandite ortağın kâr payı",
+        "D) Menkul kıymet ihraç giderleri",
+        "E) Transfer fiyatlandırması yoluyla örtülü olarak dağıtılan kazançlar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, haklarında ihtiyati haciz tatbik olunanlar haczin tatbik tarihinden itibaren kaç gün içinde alacaklı tahsil dairesine ait itiraz işlerine bakan vergi itiraz komisyonu nezdinde ihtiyati haciz sebebine itiraz edebilirler?",
+      "options": [
+        "A) 7 gün",
+        "B) 10 gün",
+        "C) 15 gün",
+        "D) 30 gün",
+        "E) 60 gün"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "4760 sayılı Özel Tüketim Vergisi Kanunu'na göre, bir malın alıcı veya onun adına hareket edenlerin gösterdiği yere veya kişilere tevdii hukuken aşağıdakilerden hangisi hükmündedir?",
+      "options": [
+        "A) Hizmet",
+        "B) Teslim",
+        "C) İlk iktisap",
+        "D) Kayıt",
+        "E) Tescil"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, vergi matrahının tespitinde kurumlar vergisi beyannamesinde her yıla ilişkin tutarlar ayrı ayrı gösterilmek şartıyla, geçmiş yılların beyannamelerinde yer alan zararlar kaç yıldan fazla nakledilmemek şartıyla indirim konusu yapılır?",
+      "options": [
+        "A) 5",
+        "B) 6",
+        "C) 7",
+        "D) 8",
+        "E) 10"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi 7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisinden müstesna değildir?",
+      "options": [
+        "A) Cumhurbaşkanınca vergi muafiyeti tanınan vakıflara kuruluşu için veya kurulduktan sonra tahsis olunan mallar",
+        "B) Genel bütçeye dahil dairelerle katma bütçeli idareler bütçelerinden kamu iktisadi teşebbüslerine yapılacak iktisadi transferler ve yardımlar",
+        "C) Bilumum sadakalar",
+        "D) Örf ve âdete göre verilmesi mutat bulunan gayrimenkuller",
+        "E) Veraset tariki ile intikal eden ev eşyası ile murise ait zat eşyası"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Türkiye'de gerçekleşen, aşağıdaki iktisadî faaliyetlerden hangisi kapsamındaki teslim ve hizmetler Katma Değer Vergisi'nin konusuna girmez?",
+      "options": [
+        "A) Ücret",
+        "B) Sınai",
+        "C) Zirai",
+        "D) Ticari",
+        "E) Serbest meslek"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'nda düzenlenen kaçakçılık suçlarına iştirak eden suç ortaklarının bu suçların işlenmesinde menfaatinin bulunmaması hâlinde, Türk Ceza Kanunu'nun suça iştirak hükümlerine göre haklarında verilecek ceza aşağıdaki hangi oranda uygulanır?",
+      "options": [
+        "A) Bir kat artırılır.",
+        "B) Yarı oranında artırılır.",
+        "C) Yarı oranında indirilir.",
+        "D) Üçte bir oranında indirilir.",
+        "E) %25 oranında indirilir."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'na göre elektronik ortamda tebligat, aşağıdaki hangi tarihte muhatabına yapılmış sayılır?",
+      "options": [
+        "A) Elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda",
+        "B) Elektronik adresine ulaştığı tarihte",
+        "C) Elektronik adresine ulaştığı tarihi izleyen yedinci günün sonunda",
+        "D) Elektronik adresine gönderildiği tarihi izleyen üçüncü günün sonunda",
+        "E) Elektronik adresine gönderildiği tarihte"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanunu'na göre, mal ve hakların kiraya verilmesi yoluyla gerçek kişilerin elde ettiği gayrimenkul sermaye iradı için gayrisafi hasılat aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Bir takvim yılı içinde sadece o yıla ve gelecek yıllara ait olarak nakden veya aynen elde edilen kira bedellerinin tutarı",
+        "B) Bir takvim yılı içinde o yıla veya geçmiş yıllara ait olarak nakden veya aynen tahsil edilen kira bedellerinin tutarı",
+        "C) Bir takvim yılı içinde sadece o yıla ait olarak aynen elde edilen kira bedellerinin tutarı",
+        "D) Bir takvim yılı içinde sadece o yıla ait olarak nakden elde edilen kira bedellerinin tutarı",
+        "E) Bir takvim yılı içinde sadece geçmiş yıllara ait olarak nakden elde edilen kira bedellerinin tutarı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu aşağıdakilerden hangisi için uygulanmaz?",
+      "options": [
+        "A) Motorlu taşıtlar vergisi",
+        "B) İl özel idarelerine ait resim ve harçlar",
+        "C) Belediyelere ait vergiler",
+        "D) Değerli konut vergisi",
+        "E) Gümrük idareleri tarafından alınan vergiler"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "488 sayılı Damga Vergisi Kanunu'na göre, damga vergisine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Damga vergisinin mükellefi kağıtları imza edenlerdir.",
+        "B) Damga vergisi istihkaktan kesinti şeklinde ödenebilir.",
+        "C) Damga vergisi nispi veya maktu olarak alınır.",
+        "D) Resmi daireler ile kişiler arasındaki işlemlere ait kağıtların damga vergilerini resmi daireler öder.",
+        "E) Bir nüshadan fazla olarak düzenlenen kağıtların her nüshası ayrı ayrı aynı miktar ve oranda damga vergisine tabidir"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Türkiye'de uygulanmakta olan aşağıdaki vergilerden hangisinin tarifesi çifte artan oranlılık özelliği taşımaktadır?",
+      "options": [
+        "A) Gelir Vergisi",
+        "B) Kurumlar Vergisi",
+        "C) Veraset ve İntikal Vergisi",
+        "D) Katma Değer Vergisi",
+        "E) Dijital Hizmet Vergisi"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanununun \"Tekerrür\" başlıklı 339'uncu maddesi hükmünün uygulaması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Usulsüzlükten dolayı adına ceza kesilenlere, cezanın kesinleştiği tarihi takip eden yılın başından başlamak üzere iki yıl içinde tekrar usulsüzlük cezası kesilmesi durumunda tekerrür hükümleri uygulanır.",
+        "B) Tekerrür halinde cezalar; usulsüzlük cezasında yüzde elli, vergi ziyaı cezasında bir kat oranında artırılarak uygulanır.",
+        "C) Bir vergi cezasının tekerrür hükmü sebebiyle artırımlı uygulanabilmesi için cezaya neden olan fiilin daha önce işlenmiş bir fiil için kesilen cezanın kesinleşme tarihinden sonraki bir tarihte işlenmiş olması gerekmektedir.",
+        "D) Ziyaa uğratılan vergi asılları için tekerrür uygulaması söz konusu değildir.",
+        "E) Vergi ziyaına sebebiyet vermekten dolayı adına ceza kesilenlere, cezanın kesinleştiği tarihi takip eden yılın başından başlamak üzere beş yıl içinde tekrar vergi ziyaı cezası kesilmesi durumunda tekerrür hükümleri uygulanır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi 193 sayılı Gelir Vergisi Kanunu uyarınca düzenlenmiş olan bir istisna değildir?",
+      "options": [
+        "A) Genç girişimcilerde kazanç istisnası",
+        "B) Kreş ve gündüz bakımevleri işletmelerinde kazanç istisnası",
+        "C) Ücret İstisnası",
+        "D) İthalat istisnası",
+        "E) Serbest meslek kazançlarında istisna"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi vergi hukukunun yürütme organından doğan kaynaklarından değildir?",
+      "options": [
+        "A) Cumhurbaşkanlığı Kararnamesi",
+        "B) Mukteza(Özelge)",
+        "C) Sirküler",
+        "D) Yönetmelik",
+        "E) Uluslararası vergi anlaşması"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Cumhurbaşkanı'nın vergi, resim, harç ve benzeri mali yükümlülüklere ilişkin olarak aşağıdakilerden hangisinde değişiklik yapması mümkün değildir?",
+      "options": [
+        "A) Verginin konusu",
+        "B) Verginin oranı",
+        "C) İndirimler",
+        "D) Muaflıklar",
+        "E) İstisnalar"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Türkiye'de 5520 sayılı Kurumlar Vergisi Kanunu'na tabi olan tam mükellef bir kurumun kazancının hesaplanması bakımından 193 sayılı Gelir Vergisi Kanunu'nda yer alan gelir unsurlarından hangisi esas alınmaktadır?",
+      "options": [
+        "A) Ücret",
+        "B) Serbest Meslek Kazancı",
+        "C) Ticari Kazanç",
+        "D) Gayrimenkul Sermaye İradı",
+        "E) Menkul Sermaye İradı"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanununa göre zirai faaliyet ile iştigal eden komandit şirketlerin komandite ortaklarının şirket kârından aldıkları paylar aşağıdaki gelir unsurlarından hangisinin konusunu oluşturur?",
+      "options": [
+        "A) Ticari kazanç",
+        "B) Ücret",
+        "C) Serbest meslek kazancı",
+        "D) Menkul sermaye iradı",
+        "E) Gayrimenkul sermaye iradı"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Gelir Vergisi Kanunu'na göre satın alınan arazinin satın alma tarihinden itibaren 5 yıl içinde parsellenerek 10. yılda kısmen veya tamamen satılmasından elde edilen kazanç nedir?",
+      "options": [
+        "A) Değer artışı kazancı",
+        "B) Arızi kazanç",
+        "C) Ticari kazanç",
+        "D) Zirai kazanç",
+        "E) Verginin konusuna girmez."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanunu'na göre, aşağıdaki mal ve haklardan hangisinin kiraya verilmesinden elde edilecek gelir gayrimenkul sermaye iradı sayılmaz?",
+      "options": [
+        "A) İhtira beratının mucidinin bunu kiraya vermesinden elde edilen gelir",
+        "B) Arama hakkı sahibinin bunu kiraya vermesinden elde edilen gelir",
+        "C) Madenin sahibi tarafından kiraya verilmesinden elde edilen gelir",
+        "D) Voli mahallinin sahibi tarafından elde edilmesinden elde edilen gelir",
+        "E) Sahibi tarafından gayrimenkullerinden ayrı olarak kiraya verilen mütemmim cüzlerinden elde edilen gelir"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdaki durumların hangisinde, Türkiye'de altı aydan fazla kalan yabancı uyruklu kişi Türkiye'de yerleşmiş sayılır?",
+      "options": [
+        "A) Türkiye'de Üçüncü Boğaz Köprüsü ve Kuzey Marmara Otoyolu Projesi inşaatında şantiye şefi olarak görevlendirilen yabancı uyruklu mühendis",
+        "B) Ankara Üniversitesi Tıp Fakültesi'nde lisans öğrenimi gören yabancı uyruklu IV. sınıf öğrencisi",
+        "C) Skyfall filminin İstanbul; Adana ve Fethiye'deki çekimlerini izlemek için Türkiye'de görevlendirilen Daily Mirror Gazetesi'nin yabancı uyruklu magazin muhabiri",
+        "D) Bodrum'da bir ev satın alarak evden çalışma (home-ofis) tarzında emlak komisyonculuğu ile iştigal etmeye başlayan yabancı uyruklu kişi",
+        "E) Uyuşturucu madde ticareti yaparken tutuklanıp Türk Ceza Kanunu'nun 188. maddesi uyarınca 8 yıl hapis cezasına mahkûm edilen yabancı uyruklu kişi"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, gecikme zammının uygulanmasında aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Amme alacağının ödeme müddeti içinde ödenmeyen kısmına vadenin bitim tarihinden itibaren her ay için ayrı ayrı kanuni olarak belirlenen oranda gecikme zammı tatbik olunur.",
+        "B) Ay kesirlerine isabet eden gecikme zammı günlük olarak hesap edilir.",
+        "C) Aslın ödenmiş olması gecikme zammının takip ve tahsiline mani değildir.",
+        "D) Gecikme zammının tatbik müddeti, amme alacağının tecilinde tecilin yapıldığı, iflas halinde iflasın açıldığı, aciz halinde bu durumun sabit olduğu güne kadar olan müddettir.",
+        "E) Gecikme zammının önceden borçluya bildirilmesi şarttır."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Arızi olarak ödünç para verme işiyle uğraşan Bay A'nın bu işten elde edeceği gelir unsuru aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Ticari kazanç",
+        "B) Ücret",
+        "C) Menkul sermaye iradı",
+        "D) Değer artışı kazancı",
+        "E) Arızi kazanç"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Vergi Usul Kanunu'na göre aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet gereklidir",
+        "B) Vergiyi doğuran olayın kanunlarla yasak edilmiş bulunması mükellefiyeti ve vergi sorumluluğunu kaldırmaz",
+        "C) Mükellef, vergi kanunlarına göre kendisine vergi borcu terettübeden gerçek veya tüzel kişidir.",
+        "D) Mükellefiyete veya vergi sorumluluğuna müteallik özel mukaveleler vergi dairesini bağlamaz",
+        "E) Vergi sorumlusu, verginin ödenmesi bakımından, alacaklı vergi dairesine karşı muhatap olan kişidir."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Emlak Vergisi Kanunu'na göre aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) İstanbul'da bir konutta emlak vergisi oranı binde 2'dir.",
+        "B) Samsun'da bir arazide emlak vergisi oranı binde 2'dir.",
+        "C) İzmir 'de bir işyerinde emlak vergisi oranı binde 4'dir.",
+        "D) Bursa'da bir arsada emlak vergisi oranı binde 6'dır.",
+        "E) Bayburt 'ta bir arazide emlak vergisi oranı binde 2'dir."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, aşağıdakilerden hangisi, ihbarname ile tebliğ edilen ve vade tarihi 30.04.2016 olan verginin tahsil zamanaşımı süresinin son günüdür?",
+      "options": [
+        "A) 01.01.2020",
+        "B) 01.01.2021",
+        "C) 26.04.2021",
+        "D) 31.12.2021",
+        "E) 31.12.2022"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanunu'na göre, aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Telif haklarının müellifleri ve bunların yasal mirasçıları dışında kalan kimseler tarafından elden çıkarılmasından doğan kazançlar, değer artışı kazancı niteliğindedir.",
+        "B) Kurumların yönetim kurulu başkan ve üyelerine verilen kar payları, menkul sermaye iradı olarak addedilir.",
+        "C) Nüfusu 5000 kişiyi aşmayan yerlerde faaliyet gösteren serbest meslek erbabı ebeler, vergiden muaftırlar.",
+        "D) Gayrimenkul sermaye iradı sayılan hakların kiralanmasında götürü gider usulü uygulanabilir.",
+        "E) Serbest meslek kazancının Türkiye'de elde edilmiş sayılması için serbest meslek faaliyetinin Türkiye'de icra edilmesi ya da Türkiye'de değerlendirilmesi gerekir"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "488 sayılı Damga Vergisi Kanunu'na göre aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Bir nüshadan fazla olarak düzenlenen kâğıtlardan nispi vergiye tabi olanların sadece bir nüshası damga vergisine tabidir.",
+        "B) Resmi dairelerle kişiler arasındaki işlemlere ait kâğıtların damga vergisini kişiler öder.",
+        "C) Türkiye'deki yabancı elçilik ve konsolosluklarda düzenlenen kâğıtların vergisini, Türkiye'de bu kâğıtları resmi dairelere ibraz edenler öder.",
+        "D) Bir nüshadan fazla olarak düzenlenen kâğıtlardan, maktu vergiye tabi olanların her bir nüshası ayrı ayrı aynı miktarda vergiye tabidir.",
+        "E) Damga vergisinin mükellefi kâğıtları düzenleyenlerdir."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanunu'na göre, aşağıdaki kazançlardan hangisi değer artış kazancı sayılarak gelir vergisi yükümlülüğü doğurmaktadır?",
+      "options": [
+        "A) Miras yoluyla iktisap edilen apartman dairesinin iktisap tarihinden sonra beş yıl içinde elden çıkarılmasından sağlanan kazanç",
+        "B) Satın alınan ve tam mükellef kurumlar tarafından arz edilen hisse senetlerinin iktisap tarihinden itibaren on yıl içinde elden çıkarılmasından sağlanan kazanç",
+        "C) Satın alınarak iktisap edilen apartman dairesinin iktisap tarihinden sonra iki yıl içinde elden çıkarılmasından sağlanan kazanç",
+        "D) Satın alınan ve tam mükellef kurumlar tarafından arz edilen hisse senetlerinin iktisap tarihinden itibaren beş yıl içinde elden çıkarılmasından sağlanan kazanç",
+        "E) Miras yoluyla edinilen hisse senetlerinin iktisap tarihinden itibaren üç yıl içinde elden çıkarılmasından sağlanan kazanç"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi 6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkında Kanun uyarınca zamanaşımının işlememesi sonucunu doğuran hallerden birisidir?",
+      "options": [
+        "A) Borçlunun yabancı memlekette bulunması",
+        "B) İhtilaflı amme alacaklarında kaza mercilerince bozma kararı verilmesi",
+        "C) Amme alacağının teminata bağlanması",
+        "D) Haciz tatbiki",
+        "E) Ödeme emri tebliği"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'na göre, usulsüzlükten dolayı ceza kesilen ve cezası kesinleşenlere, cezanın kesinleştiği tarihi takip eden yılın başından başlamak üzere kaç yıl içinde tekrar ceza kesilmesi durumunda, usulsüzlük cezası yüzde kaç oranında artırılmak suretiyle uygulanır?",
+      "options": [
+        "A) 1 yıl - %15",
+        "B) 2 yıl - %25",
+        "C) 3 yıl - %30",
+        "D) 4 yıl - %10",
+        "E) 5 yıl - %50"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'na göre, mükellefiyet ve vergi sorumluluğuna ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Mükellef, vergi kanunlarına göre kendisine vergi borcu terettübeden gerçek veya tüzel kişidir.",
+        "B) Vergi dairesi mükellefi tespit eden, vergi tarh eden, tahakkuk ettiren ve tahsil eden dairedir.",
+        "C) Vergi kanunlarıyla kabul edilen håller müstesna olmak üzere, mükellefiyete veya vergi sorumluluğuna mutaallik özel mukaveleler vergi dairelerini bağlamaz.",
+        "D) Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet şarttır.",
+        "E) Vergi sorumlusu, verginin ödenmesi bakımından, alacaklı vergi dairesine karşı muhatap olan kişidir."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "488 sayılı Damga Vergisi Kanunu'na göre, aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Bir nüshadan fazla olarak düzenlenen kağıtlardan, maktu vergiye tabi olanların sadece bir nüshası damga vergisine tabidir.",
+        "B) Damga vergisinin mükellefi kağıtları imza edenlerdir.",
+        "C) Bir nüshadan fazla olarak düzenlenen kağıtlardan, nispi vergiye tabi olanların sadece bir nüshası damga vergisine tabidir.",
+        "D) Bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılır ve buna göre tabloda yazılı vergisi bulunur.",
+        "E) Resmi dairelerle kişiler arasındaki işlemlere ait kağıtların damga vergisini kişiler öder."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'na göre, yetkili makamların mükellefin kendisine yazı ile yanlış izahat vermiş olmaları veya bir hükmün uygulanma tarzına ilişkin bir içtihadın değişmiş olması durumunda vergi cezası kesilmemesi hâli aşağıdakilerden hangisi ile ifade edilir?",
+      "options": [
+        "A) Mücbir sebep",
+        "B) Yanılma",
+        "C) Vergi ehliyeti",
+        "D) Vergi sorumluluğu",
+        "E) İzaha davet"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanunu'na göre, serbest meslek kazançlarına ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Noterler, noterlik görevini ifa ile mükellef olanlar, bu işler dolayısıyla serbest meslek erbabı sayılırlar.",
+        "B) Serbest meslek faaliyetinde bulunan kollektif ve adi şirketlerde ortaklar, bu işler dolayısıyla serbest meslek erbabı sayılırlar.",
+        "C) Şahitlik, bilirkişilik gibi hususlara harcanmak üzere müşteriden alınan ve tamamen bu hususlara sarf edilen para serbest meslek kazancı sayılır.",
+        "D) Alınan mesleki yayınlar için ödenen bedeller, serbest meslek kazancının tespitinde hasılattan indirilir.",
+        "E) Kiralanan ve işte kullanılan taşıtların giderleri serbest meslek kazancının tespitinde hasılattan indirilir."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisi uygulamasında beyanname verme süreleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Ölüm Türkiye'de gerçekleşmiş ve mükellef yabancı bir memlekette ise ölüm tarihini izleyen 6 ay içinde verilir.",
+        "B) Ölüm yabancı bir memlekette gerçekleşmiş ve mükellef ölenin bulunduğu memlekette ise ölüm tarihini izleyen 4 ay içinde verilir.",
+        "C) Ölüm yabancı bir memlekette gerçekleşmiş ve mükellef Türkiye'de ise ölüm tarihini izleyen 6 ay içinde verilir",
+        "D) Ölüm yabancı bir memlekette gerçekleşmiş ve mükellef ölenin bulunduğu memleketten başka bir yabancı memlekette ise ölüm tarihini izleyen 8 ay içinde verilir.",
+        "E) Ölüm Türkiye'de gerçekleşmiş ve mükellef Türkiye'de ise ölüm tarihini izleyen 3 ay içinde verilir."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Gerçek kişi vergi mükelleflerine düşen vergi ödevlerinin, kanuni temsilcileri tarafından yerine getirilmemesi durumunda vergi ve/veya cezaların ödenmesi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Kanuni temsilci sadece verginin ödenmesinden sorumludur.",
+        "B) Vergi, önce kanuni temsilciden istenir.",
+        "C) Hürriyeti bağlayıcı cezalardan vergi mükellefi sorumludur.",
+        "D) Kanuni temsilcinin vergi ve cezalardan dolayı sorumluluğu bulunmaz.",
+        "E) Vergi cezalarından kanuni temsilci sorumludur"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'na göre, cezayı gerektiren bir fiil ile vergi ziyaı ve usulsüzlük birlikte işlenmiş ise uygulanacak ceza aşağıdakilerden hangisinde tam ve doğru olarak verilmiştir?",
+      "options": [
+        "A) Bunlara ait cezalardan miktar itibarıyla en ağırı uygulanır.",
+        "B) Sadece vergi ziyaı cezası kesilir.",
+        "C) Sadece usulsüzlük cezası kesilir.",
+        "D) Bunlara ait cezalardan miktar itibarıyla az olanı uygulanır.",
+        "E) Vergi ziyaı cezası iki kat kesilir."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "193 sayılı Gelir Vergisi Kanunu'na göre, aşağıdakilerden hangisi serbest meslek kazancı sayılmaz?",
+      "options": [
+        "A) Tahkim işleri dolayısıyla hakemlerin aldıkları ücretler",
+        "B) Diş protezciliğinden elde edilen kazançlar",
+        "C) Kollektif şirketler tarafından yapılan serbest meslek faaliyeti neticesinde doğan kazançlar",
+        "D) Adi komandit şirketler tarafından yapılan serbest meslek faaliyeti neticesinde doğan kazançlar",
+        "E) Adi şirketler tarafından yapılan serbest meslek faaliyeti neticesinde doğan kazançlar"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "3065 sayılı Katma Değer Vergisi Kanununa göre vergi incelemesi sırasında belgesiz mal bulundurdukları veya hizmet satın aldıkları tespit edilen mükelleflere, bu mal ve hizmetlere ait alış belgelerinin ibrazı için tespit tarihinden itibaren kaç gün süre verilir?",
+      "options": [
+        "A) 3",
+        "B) 5",
+        "C) 10",
+        "D) 15",
+        "E) 30"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "I. Adi şirketler tarafından yapılan serbest meslek faaliyeti dolayısıyla ortakların elde ettiği kazançlar<br>II. Tahkim işleri dolayısıyla hakemlerin aldıkları ücretler<br>III. Avukatların avukatlık bürosunda işverene tabi olarak çalışması neticesinde elde ettiği gelirler<br><br>193 sayılı Gelir Vergisi Kanunu'na göre yukarıdakilerden hangileri serbest meslek kazancıdır?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) I ve II",
+        "D) II ve III",
+        "E) I, II ve III"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "213 sayılı Vergi Usul Kanunu'na göre mükellefiyet ve vergi ödevi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Vergi sorumlusu, verginin ödenmesi bakımından, alacaklı vergi dairesine karşı muhatap olan kişidir.",
+        "B) Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet şart değildir.",
+        "C) Vergiyi doğuran olayın kanunlarla yasak edilmiş bulunması vergi sorumluluğunu kaldırır.",
+        "D) Ölüm hâlinde mükelleflerin ödevleri, mirası reddetmemiş kanuni ve mansup mirasçılarına geçer.",
+        "E) Vergi muamelelerinde süreler vergi kanunları ile belli edilir."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre limited şirket ortaklarının kamu borçlarından doğan sorumluluğuna ilişkin doğru bir ifadedir?",
+      "options": [
+        "A) Limited şirket ortakları, kamu borçlarından sadece koydukları sermaye ile sınırlı olarak sorumludur.",
+        "B) Limited şirket ortakları, kamu borçlarından hiçbir şekilde sorumlu tutulamaz; sorumluluk sadece şirket tüzel kişiliğine aittir.",
+        "C) Limited şirket ortakları, şirketten ayrıldıklarında geçmiş dönem kamu borçlarından hiçbir şekilde sorumlu tutulmaz.",
+        "D) Limited şirket ortakları, şirketin ödenmeyen kamu borçlarından sermaye payları oranında ve tüm malvarlıklarıyla müteselsilen sorumludur.",
+        "E) Limited şirket ortaklarının kamu borçlarından sorumluluğu, sadece şirket müdürlerinin kusuru hâlinde doğar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre aşağıdakilerden hangisi kurumlar vergisi mükellefler arasında yer almaz?",
+      "options": [
+        "A) Dernek",
+        "B) İş ortaklığı",
+        "C) Anonim şirket",
+        "D) Limited şirket",
+        "E) İktisadi kamu kuruluşu"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Vergi Hukuku",
+      "q": "Aşağıdakilerden hangisi 3065 sayılı Katma Değer Vergisi Kanunu'na göre vergiyi doğuran olaydır?",
+      "options": [
+        "A) Yurtdışında yerleşik müşteriye verilen hizmetin ifası",
+        "B) Malın alıcıya teslimi",
+        "C) Fatura düzenlenmeksizin sipariş avansının alınması",
+        "D) Malın üretilip depoya konulması",
+        "E) Malın üretilmesi"
+      ],
+      "answer": 1
+    }
   ]
 }
