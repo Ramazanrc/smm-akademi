@@ -5156,5 +5156,1087 @@
       ],
       "answer": 1
     }
+  ],
+  "Çalışma Soruları (Kamp)": [
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Finansal Raporlama Standardına göre, bir duran varlığın defter değerinin uzun vadede kullanıma devam edilmekten ziyade kısa vadede satış yolu ile geri kazanılacak olması durumunda, söz konusu varlık aşağıdakilerden hangisindeki gibi kayıt altına alınmalıdır?",
+      "options": [
+        "A) Duran Varlıklar içerisinde Satış Amaçlı Elde Tutulan Duran Varlık olarak",
+        "B) Dönen Varlıklar içerisinde Yatırım Amaçlı Gayrimenkul olarak",
+        "C) Dönen Varlıklar içerisinde Satış Amaçlı Elde Tutulan Duran Varlık olarak",
+        "D) Duran Varlıklar içerisinde Yatırım Amaçlı Gayrimenkul olarak",
+        "E) Duran Varlıklar içerisinde Maddi Duran Varlık Olarak"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Muhasebe standartlarına göre, raporlama yapan K şirketi sahibi olduğu 4 adet binek otomobili satmaya karar vermiştir. Yönetim kademesi tarafından satışa ilişkin plan yapılmış ve satış fiyatı otomobillerin gerçeğe uygun değeri ile uyumlu olarak belirlenmiştir. Otomobillerin satışının 1 yıl içerisinde tamamlanması beklenmektedir.<br><br>Buna göre, K şirketi söz konusu otomobilleri finansal durum tablosunda hangi sınıfta izlemelidir?",
+      "options": [
+        "A) Finansal Varlıklar",
+        "B) Yatırım Amaçlı Gayrimenkuller",
+        "C) Taşıtlar",
+        "D) Satış Amaçlı Elde Tutulan Duran Varlıklar",
+        "E) Stoklar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Türkiye Finansal Raporlama Standartlarına göre, aşağıdakilerden hangisi finansal durum tablosunun kaynaklar bölümünde yer almaz?",
+      "options": [
+        "A) Karşılıklar",
+        "B) Ticari ve diğer borçlar",
+        "C) Özkaynak yöntemi kullanılarak muhasebeleştirilen yatırımlar",
+        "D) Finansal yükümlülükler",
+        "E) Ertelenmiş vergi yükümlülükleri"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi diğer kapsamlı gelir kalemlerinden değildir?",
+      "options": [
+        "A) Maddi Olmayan Duran Varlık Yeniden Değerleme Artışları",
+        "B) Finansal Varlıklar Değer Artışları",
+        "C) Ertelenmiş Gelirler",
+        "D) Aktüeryal Kazançlar",
+        "E) Kur Farklarından Kaynaklanan Kayıplar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi Kâr veya Zarar ve Diğer Kapsamlı Gelir Tablosunda yer almaz?",
+      "options": [
+        "A) Ertelenmiş gelirler",
+        "B) Değer düşüklüğü zararları",
+        "C) Durdurulan faaliyetler toplam tutarı",
+        "D) İştirak ve iş ortaklıklarının kâr veya zarar payları",
+        "E) Vergi gideri"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Muhasebe standartlarına göre raporlama yapan C İşletmesinin bazı finansal verileri verilmiştir:<br><br>Nakit ve nakit benzerleri 10.000 ₺<br>Ertelenen vergi yükümlülüğü 20.000 ₺<br>Yatırım amaçlı gayrimenkuller 200.000 ₺<br>Peşin ödenmiş giderler 5.000 ₺<br>Maddi olmayan duran varlıklar 50.000 ₺<br>Finansal yatırımlar 50.000 ₺<br>Çalışanlara sağlanan faydalar kapsamında borçlar 30.000 ₺<br><br>Bu verilere dayanarak C İşletmesinin finansal durum tablosundaki varlıklar toplamı nedir?",
+      "options": [
+        "A) 310.000 ₺",
+        "B) 315.000 ₺",
+        "C) 325.000 ₺",
+        "D) 335.000 ₺",
+        "E) 365.000 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 1 Finansal Tabloların Sunuluşu standardına göre aşağıdaki kalemlerden hangisi gelir tablosunda yer almaz?",
+      "options": [
+        "A) Olağandışı gelir ve kârlar",
+        "B) Finansman giderleri",
+        "C) Brüt satışlar",
+        "D) Genel yönetim giderleri",
+        "E) Satışların maliyeti"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi Türkiye Muhasebe Standartları'na göre raporlama yapan bir şirketin finansal tablolarında ayrı bir kalem olarak yer almaz?",
+      "options": [
+        "A) Finansman giderleri",
+        "B) Olağandışı gider ve zararlar",
+        "C) Maddi duran varlıklar",
+        "D) Yeniden değerleme değer artışları",
+        "E) Satışların maliyeti"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Stokların maliyeti; tüm satın alma maliyetlerini, dönüştürme maliyetlerini ve stokların mevcut konumuna ve durumuna getirilmesi için katlanılan diğer maliyetleri içerir.<br><br>TMS 2 Stoklar standardına göre, stokların maliyetinin belirlenmesine ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) İthalat vergileri satın alma maliyetleri içinde yer alır.",
+        "B) Yükleme-boşaltma maliyetleri diğer maliyetler içinde yer alır.",
+        "C) Direkt işçilik giderleri dönüştürme maliyetleri içinde yer alır.",
+        "D) Taşıma maliyetleri satın alma maliyetleri içinde yer alır.",
+        "E) Değişken genel üretim giderleri dönüştürme maliyetleri içinde yer alır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 2 Stoklar standardına göre, aşağıdaki kalemlerden hangisi stokların satın alma maliyetinin hesaplanmasında dikkate alınmaz?",
+      "options": [
+        "A) Nakliye giderleri",
+        "B) Yükleme ve boşaltma giderleri",
+        "C) İthalat vergileri",
+        "D) Satın alma tarihinden sonraki ticari iskontolar",
+        "E) İade alınabilecek vergiler"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS-2 Stoklar standardına göre, işin normal akışı içinde tahmini satış fiyatından, tahmini tamamlanma maliyeti ve satışı gerçekleştirmek için gerekli tahmini satış giderleri toplamının çıkarılmasıyla elde edilen tutar aşağıdaki hangi değeri ifade eder?",
+      "options": [
+        "A) Net Maliyet Değeri",
+        "B) Gerçeğe Uygun Değer",
+        "C) Satış Değeri",
+        "D) Net Gerçekleşebilir Değer",
+        "E) İskontolu Satış Değeri"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 2 Stoklar standardına göre, bilanço tarihinde stok kalemleri aşağıdakilerden hangisi ile ölçülür?",
+      "options": [
+        "A) Gerçeğe uygun değer",
+        "B) Maliyet değeri",
+        "C) Geri kazanılabilir tutar",
+        "D) Defter değeri",
+        "E) Maliyet ve net gerçekleşebilir değerin düşük olanı"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "X İşletmesi, işlerinin normal akışı içerisinde devam edeceğini öngörmekte ve TG ticari malıyla ilgili olarak aşağıdaki tahminlerde bulunmaktadır:<br><br>• Satış fiyatı: 10.000 ₺<br>• Satışla ilgili nakliye giderleri: 1.000 ₺<br>• Satış sonrası montaj gideri: 2.000 ₺<br><br>Buna göre TG ticari malının net gerçekleşebilir değeri kaç ₺'dir?",
+      "options": [
+        "A) 7.000",
+        "B) 8.000",
+        "C) 11.000",
+        "D) 12.000",
+        "E) 13.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "\"Bu yöntemde stokların maliyeti, stokların satış değerinden, uygun bir brüt kâr marjı yüzdesi çıkarılarak belirlenir.\"<br><br>TMS 2 Stoklar standardına göre, maliyet ölçüm tekniklerinden biri olarak sunulan bu yöntem aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Perakende yöntemi",
+        "B) Standart maliyet yöntemi",
+        "C) Tahmin yöntemi",
+        "D) Fiili maliyet yöntemi",
+        "E) Gerçek parti maliyet yöntemi"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 7 Nakit Akış Tablosu standardına göre; \"tutarı belirli bir nakde kolayca çevrilebilen ve değerindeki değişim riski önemsiz olan yüksek likiditeye sahip kısa vadeli yatırımlar\" aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Serbest nakit akışı",
+        "B) Nakit",
+        "C) Nakit akışları",
+        "D) Nakit benzerleri",
+        "E) Finansman faaliyetleri"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Sandalye ticareti ile uğraşan A Şirketi 31.12.2020 tarihi itibarıyla 100.000 ₺ tutarındaki sandalye stokunun net gerçekleşebilir değerini 90.000 ₺ olarak belirlemiş ve dönem sonu itibarıyla 10.000 ₺ stok değer düşüklüğü karşılığı ayırmıştır.<br><br>Sandalyeler ertesi dönem, henüz finansal tablolar yönetim kurulu tarafından onaylanmadan önce 93.000 ₺'ye satılmıştır.<br><br>Karşılık tutarının düzeltilmesine ilişkin olarak TMS 10 Raporlama Döneminden Sonraki Olaylar standardına göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Düzeltme gerektiren olaydır; finansal tablolara alınmış olan değer düşüklüğü tutarının 3.000 ₺'lik kısmı iptal edilir.",
+        "B) Düzeltme gerektiren olaydır; finansal tablolara alınmış olan değer düşüklüğü tutarının 7.000 ₺'lik kısmı iptal edilir.",
+        "C) Düzeltme gerektirmeyen olaydır; finansal tablolara alınmış olan değer düşüklüğü tutarının tümü iptal edilir.",
+        "D) Düzeltme gerektirmeyen olaydır; cari dönemde 7.000 ₺ stok değer düşüklüğü karşılığı ayrılır.",
+        "E) Düzeltme gerektirmeyen olaydır; hiçbir işlem yapılmaz."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar standardına göre, aşağıdaki maliyet unsurlarından hangisi bir maddi duran varlık kaleminin maliyetine dâhil edilemez?",
+      "options": [
+        "A) Doğrudan maddi duran varlık kaleminin elde edilmesiyle veya inşasıyla ilgili çalışanlara sağlanan faydalardan kaynaklanan maliyetler",
+        "B) Yeni bir yerde veya yeni bir müşteri kitlesiyle iş yapmak amacıyla katlanılan maliyetler",
+        "C) Maddi duran varlığın kullanılacağı yerin hazırlanmasına ilişkin maliyetler",
+        "D) Maddi duran varlığın işletmeye taşınma maliyetleri",
+        "E) Kurulum ve montaj maliyetleri"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar Standardına göre, aşağıdakilerden hangisi bir maddi duran varlık kaleminin maliyetine giren unsurlardan birisidir?",
+      "options": [
+        "A) Yeni bir tesis açılmasının maliyetleri",
+        "B) Kurulum ve montaj giderleri",
+        "C) Personel eğitim masrafları",
+        "D) Reklam ve tanıtım harcamaları",
+        "E) Yönetim giderleri"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "A şirketi 50.000 ₺'ye bir dokuma makinesi satın almıştır. Makinenin montajı için 5.000 ₺ ödemiştir.<br><br>Makinenin dokuduğu kumaşları test etmek için üretim öncesinde makine çalıştırılmış ve 500 ₺'lik test maliyetine katlanılmıştır. Test sonrasında üretilen numune kumaşlar 1.000 ₺'ye satılmıştır.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, makinenin maliyet bedeli aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 50.000 ₺",
+        "B) 50.500 ₺",
+        "C) 54.500 ₺",
+        "D) 55.000 ₺",
+        "E) 55.500 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS 16 Maddi Duran Varlıklar standardına göre, yeniden değerleme modeli uygulanması durumunda, bir maddi duran varlığın değeri, yeniden değerleme sonucunda azalmışsa bu azalma aşağıdakilerden hangisi olarak raporlanır?",
+      "options": [
+        "A) Özkaynaklarda yeniden değerleme değer azalışı",
+        "B) Gelir",
+        "C) Maddi duran varlık değer düşüklüğü",
+        "D) Gider",
+        "E) Özkaynaklarda yeniden değerleme değer artışı"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, 1 Temmuz 2013 tarihinde işletmede kullanmak üzere 50.000 ₺'ye bir kamyonet satın almıştır.<br><br>Vergi düzenlemelerine göre kamyonetler için 4 yıllık bir amortisman süresi öngörülmesine rağmen İşletme bu kamyoneti ekonomik olarak 250.000 km kullanabileceğini, bu km'yi de 5 yılda yapabileceğini ve 5 yıl sonra da bu aracı 20.000 ₺'ye satabileceğini tahmin etmektedir.<br><br>İşletme Doğrusal Amortisman Yöntemi'ni uygulamaktadır. İşletme 2013 yılı sonu itibariyle bu kamyonet için Türkiye Muhasebe Standartları'na göre kaç ₺ amortisman ayıracaktır?",
+      "options": [
+        "A) 3.000",
+        "B) 3.600",
+        "C) 6.000",
+        "D) 6.250",
+        "E) 6.750"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TMS-23 Borçlanma Maliyetleri standardına göre, aşağıdakilerden hangisi özellikli varlık olamaz?",
+      "options": [
+        "A) Maddi olmayan duran varlıklar",
+        "B) Enerji üretim tesisleri",
+        "C) Yatırım amaçlı gayrimenkuller",
+        "D) Finansal varlıklar",
+        "E) Stoklar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletme, yapmakta olduğu yeni bir fabrika binası için kredi kullanmıştır. Fabrikanın inşası sırasında mücbir olmayan bir nedenden dolayı uzun süreli olarak inşaat durdurulmuştur.<br><br>TMS 23 Borçlanma Maliyetleri standardına göre, durdurulan bu sürede ortaya çıkan borçlanma maliyetleri için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Borçlanma maliyetleri aktifleştirilmeye devam eder.",
+        "B) Fabrika binalarının yapımında borçlanma maliyetleri hiçbir zaman aktifleştirilmez.",
+        "C) Borçlanma maliyetlerinin aktifleştirilmesine ara verilir.",
+        "D) Borçlanma maliyetleri öz kaynaklarda gösterilir.",
+        "E) İnşaatın durdurulduğu dönemdeki borçlanma maliyetlerinin yarısı aktifleştirilir."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Ankara'da faaliyet gösteren bir işletme Samsun'daki fuardan %18 KDV dâhil 236.000 ₺ bedelle bir makine satın almış ve finansmanını bankadan aldığı kredi ile sağlamıştır.<br><br>Makinenin firmaya getirilmesi için 24.000 ₺ ödenmiş ve kurulum ile test üretimleri için ayrıca 6.000 ₺ maliyete katlanılarak makine Aralık ayının başında kullanıma hazır hale getirilmiştir. Bu süreçte işletme adına bankadaki kredi için 2.000 ₺ faiz tahakkuk etmiştir.<br><br>Yukarıdaki veriler ışığında Türkiye Muhasebe Standartlarına göre makinenin aktifleştirileceği tutar kaç ₺'dir?",
+      "options": [
+        "A) 200.000",
+        "B) 224.000",
+        "C) 230.000",
+        "D) 266.000",
+        "E) 268.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme içi yaratılan bir maddi olmayan duran varlığın muhasebeleştirilebilmesi için gerekli kriterleri sağlayıp sağlamadığının değerlendirilmesinde, işletme ilgili varlığın oluşumunu iki safhaya ayırır: (a) Araştırma safhası ve (b) Geliştirme safhası.<br><br>Aşağıdakilerden hangisi TMS 38 Maddi Olmayan Duran Varlıklar standardına göre bir geliştirme faaliyetidir?",
+      "options": [
+        "A) Yeni teknoloji içeren alet, model ve kalıpların tasarımı",
+        "B) Yeni bilgi elde edilmesine yönelik faaliyetler",
+        "C) Araştırma bulguları ve diğer bilgilerin uygulanmasına yönelik olarak değerlendirme ve nihai seçim araştırması",
+        "D) Malzeme, aygıt, ürün, süreç, sistem veya hizmetler için alternatif araştırması",
+        "E) Yeni veya geliştirilmiş malzeme, aygıt, ürün, süreç, sistem veya hizmetlerin olası alternatiflerinin oluşturulması, tasarlanması, değerlendirilmesi ve nihai seçimi"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme fabrika kuracağı arsayı üzerindeki bina ile birlikte 300.000 ₺'ye peşin olarak satın almış ve 54.000 ₺ KDV'yi peşin olarak ödemiştir.<br><br>Ayrıca binanın yıkılması için 40.000 ₺ ödemiş ve binanın enkazının satışından 30.000 ₺ tahsil etmiştir.<br><br>Bu işlemler sonucunda dönem sonu bilançosunda arazi ve arsalar kaç ₺ olarak gözükecektir?",
+      "options": [
+        "A) 300.000",
+        "B) 310.000",
+        "C) 354.000",
+        "D) 364.000",
+        "E) 394.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi maddi olmayan duran varlık hesaplarından biri değildir?",
+      "options": [
+        "A) Haklar",
+        "B) Kuruluş ve örgütlenme giderleri",
+        "C) Araştırma ve geliştirme giderleri",
+        "D) Özel maliyetler",
+        "E) Yeraltı ve yer üstü düzenleri"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Sağladığı oy hakkı ve yönetime katılma hakkı %10'un altında olan hisse senetleri ile bir yıldan daha uzun sürede paraya dönüşecek diğer menkul kıymetler aşağıdaki hesaplardan hangisinde izlenir?",
+      "options": [
+        "A) Diğer Menkul Kıymetler",
+        "B) Hisse Senetleri",
+        "C) İştirakler",
+        "D) Bağlı Menkul Kıymetler",
+        "E) Bağlı Ortaklıklar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, 300.000 ₺'lik hisse senetlerinin değerinde %20 değer düşüklüğü olduğunu saptamış ve aynı tutarda karşılık ayırmıştır. Karşılık ayırmaya ilişkin yapılacak yevmiye kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 654 KARŞILIK GİDERLERİ 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;110 HİSSE SENETLERİ 60.000",
+        "B) 659 DİĞER OLAĞAN GİD. VE ZAR. 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;119 MENKUL KIYMETLER DEĞER DÜŞÜK. KARŞILIĞI 60.000",
+        "C) 689 DİĞER OLAĞANDIŞI GİD. VE ZAR. 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;119 MENKUL KIYMETLER DEĞER DÜŞÜK. KARŞILIĞI 60.000",
+        "D) 110 HİSSE SENETLERİ 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;644 KONUSU KALMAYAN KARŞILIKLAR 60.000",
+        "E) 654 KARŞILIK GİDERLERİ 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;119 MENKUL KIYMETLER DEĞER DÜŞÜK. KARŞILIĞI 60.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletmeye ait yevmiye kaydı aşağıdaki gibidir:<br><br>GENEL YÖNETİM GİDER. HS. XXX<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GELECEK AYLARA AİT GİDERLER HS. XXX<br><br>Bu kayıt, aşağıdaki muhasebenin temel kavramlarından hangisine uygun olarak yapılmıştır?",
+      "options": [
+        "A) Kişilik",
+        "B) İhtiyatlılık",
+        "C) Özün önceliği",
+        "D) Tutarlılık",
+        "E) Dönemsellik"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, bir maddi duran varlığını 100.000 ₺'ye peşin bedelle satmıştır. Varlığın maliyeti 250.000 ₺ ve satış kârı 5.000 ₺'dir.<br><br>Bu bilgilere göre maddi duran varlığın birikmiş amortismanı kaç ₺'dir?",
+      "options": [
+        "A) 95.000",
+        "B) 100.000",
+        "C) 125.000",
+        "D) 155.000",
+        "E) 195.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Stok Değer Düşüklüğü Karşılığı Hesabı için aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Varlık hesabıdır.",
+        "B) Pasifi düzenleyici hesaptır.",
+        "C) Gelir tablosu hesabıdır.",
+        "D) Öz kaynak hesabıdır.",
+        "E) Aktifi düzenleyici hesaptır."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme iki yıl önce 200.000 ₺'lik bir taşıt satın almıştır. Bu taşıtın hizmet süresi beş yıl ve hurda değeri de 20.000 ₺'dir.<br><br>Bu bilgilere ve eşit tutarlar yöntemine göre amortisman ayıran işletmenin yıl sonunda yapması gereken yevmiye kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 770 GENEL YÖNETİM GİD. HS. 40.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;257 BİRİKMİŞ AMOR. HS. 40.000",
+        "B) 770 GENEL YÖNETİM GİD. HS. 20.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;257 BİRİKMİŞ AMOR. HS. 20.000",
+        "C) 770 GENEL YÖNETİM GİD. HS. 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;257 BİRİKMİŞ AMOR. HS. 60.000",
+        "D) 770 GENEL YÖNETİM GİD. HS. 26.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;257 BİRİKMİŞ AMOR. HS. 26.000",
+        "E) 770 GENEL YÖNETİM GİD. HS. 36.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;257 BİRİKMİŞ AMOR. HS. 36.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Verilen rehin ve ipotekler bilançonun hangi kısmında yer alır?",
+      "options": [
+        "A) Duran varlıklarda",
+        "B) Kısa vadeli yabancı kaynaklarda",
+        "C) Uzun vadeli yabancı kaynaklarda",
+        "D) Bilanço dipnotlarında",
+        "E) Denetim raporunda"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, kredili olarak 23.000 ₺'ye binek taşıt satın almıştır. Bu işlemde alacaklandırılacak hesap aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Satıcılar",
+        "B) Alıcılar",
+        "C) Banka Kredileri",
+        "D) Borç Senetleri",
+        "E) Diğer Ticari Borçlar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmenin 2025 yılı ticari kârı 200.000 ₺'dir. Yılsonunda yapılan envanterde İşletmenin 15.000 ₺ vergiden istisna kazancı olduğu ve 15.000 ₺'lik belgesiz gideri ve 40.000 ₺'lik fazla ayrılmış karşılığı olduğu tespit edilmiştir.<br><br>Bu bilgilere göre işletmenin 2025 yılı mali kârı kaç ₺'dir?",
+      "options": [
+        "A) 185.000",
+        "B) 200.000",
+        "C) 240.000",
+        "D) 255.000",
+        "E) 270.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme dönem sonunda, alacak senetleri için 250 ₺ reeskont hesaplamış ve ilgili yevmiye kaydını yapmıştır. Bu bilgilere göre reeskont işlemiyle ilgili ertesi dönem başında yapılması gereken yevmiye kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 122 ALACAK SENET. REES. HS. 250<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;647 REES. FAİZ GEL. HS. 250",
+        "B) 657 REES. FAİZ GİD. HS. 250<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;122 ALACAK SENET. REES. HS. 250",
+        "C) 647 REES. FAİZ GEL. HS. 250<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;657 REES. FAİZ GİD. HS. 250<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;122 ALA. SENET. REES. HS. 250",
+        "D) 647 REES. FAİZ GEL. HS. 250<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;122 ALA. SENET. REES. HS. 250",
+        "E) 647 REES. FAİZ GEL. HS. 250<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;657 REES. FAİZ GİD. HS. 250"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Vadeli çeklerin \"Alınan Çekler\" hesabında izlenmesi aşağıdaki muhasebe kavramlarından hangisine aykırıdır?",
+      "options": [
+        "A) Dönemsellik",
+        "B) İhtiyatlılık",
+        "C) Özün önceliği",
+        "D) Tutarlılık",
+        "E) Tam açıklama"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme finansal raporlama yaparken aşağıdakilerden hangisini dikkate almaz?",
+      "options": [
+        "A) Denetim standartlarını",
+        "B) Genel kabul görmüş muhasebe ilkelerini",
+        "C) Muhasebe standartlarını",
+        "D) Muhasebenin temel kavramlarını",
+        "E) Muhasebenin temel varsayımlarını"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, bankadan aldığı dekonttan, cari hesabı lehine faiz tahakkuk ettirildiğini ve bu tutara ilişkin menkul sermaye iradı vergisinin de kesilerek cari hesabından tahsil edildiğini öğrenmiştir.<br><br>Bu bilgilere göre işletme bu işlemde sermaye iradı vergisini aşağıdaki hesaplardan hangisine kaydeder?",
+      "options": [
+        "A) İndirilecek KDV",
+        "B) Hesaplanan KDV",
+        "C) Faiz Gelirleri",
+        "D) Ödenecek Vergi ve Fonlar",
+        "E) Peşin Ödenen Vergiler ve Fonlar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Maddi duran varlıkların elde edilmesi sonrası yapılan harcamalardan hangisi varlığın maliyetine eklenmez?",
+      "options": [
+        "A) Varlığın değerinde artış yaratan harcamalar.",
+        "B) Varlığın teknolojik ömrünü uzatan harcamalar.",
+        "C) Varlığın hizmet verir durumda kalmasını sağlayan harcamalar.",
+        "D) Varlığın kapasitesini ve verimini artıran harcamalar.",
+        "E) Varlığın ekonomik ömrünü uzatan harcamalar."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, fabrika binası olarak kullanmak üzere arsasıyla birlikte bir bina satın almıştır. Arsanın bedeli 40.000 ₺, binanın bedeli 60.000 ₺'dir.<br><br>İşletme arsa ve binanın bedeli için 50.000 ₺'lik bir senet ciro etmiş, geriye kalan tutar ve KDV'si için de borçlanmıştır.<br><br>Bu bilgilere ve muhasebe ilkelerine göre yapılacak yevmiye kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) 252 BİNALAR HS. 100.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;191 İNDİRİLECEK KDV HS. 18.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;121 ALACAK SEN. HS. 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;329 DİĞER TİC. BOR. HS. 68.000",
+        "B) 250 ARAZİ VE ARSALAR HS. 40.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;252 BİNALAR HS. 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;191 İNDİRİLECEK KDV HS. 18.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;321 BORÇ SENE. HS. 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;329 DİĞER TİC. BOR. HS. 68.000",
+        "C) 252 BİNALAR HS. 100.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;191 İNDİRİLECEK KDV HS. 18.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;121 ALACAK SEN. HS. 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;336 DİĞER ÇEŞ. BOR. HS. 68.000",
+        "D) 250 ARAZİ VE ARSALAR HS. 100.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;191 İNDİRİLECEK KDV HS. 18.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;321 BORÇ SENE. HS. 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;329 DİĞER TİC.BOR. HS. 68.000",
+        "E) 250 ARAZİ VE ARSALAR HS. 40.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;252 BİNALAR HS. 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;191 İNDİRİLECEK KDV HS. 18.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;121 ALACAK SEN. HS. 50.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;329 DİĞER TİC. BOR. HS. 68.000"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme satın aldığı üç adet yazıcı için 30.000 ₺'lik bir çek keşide etmiştir.<br><br>Bu bilgilere göre alacaklandırılacak hesap aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Alınan Çekler",
+        "B) Tesis Makine ve Cihazlar",
+        "C) Verilen Çekler ve Ödeme Emirleri",
+        "D) Demirbaşlar",
+        "E) Genel Yönetim Giderleri"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme nominal değeri 200.000 ₺ olan alacak senetlerinin tasarruf değerini 197.000 ₺ olarak hesaplamıştır.<br><br>Bu bilgilere göre dönem sonunda yapılacak yevmiye kaydında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Alacak Senetleri Reeskontu Hesabı 197.000 ₺ alacaklandırılır.",
+        "B) Alacak Senetleri Reeskontu Hesabı 3.000 ₺ borçlandırılır.",
+        "C) Alacak Senetleri Reeskontu Hesabı 197.000 ₺ borçlandırılır.",
+        "D) Alacak Senetleri Reeskontu Hesabı 3.000 ₺ alacaklandırılır.",
+        "E) Reeskont Faiz Giderleri Hesabı 197.000 ₺ alacaklandırılır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme sahibi, işletmeye tahsis etmediği bir taşıtını aylığı 2.000 ₺'ye kiraya vermiş ve kiracı kira bedelini işletme adına keşide ettiği bir çekle ödemiştir. Bu işlemle ilgili işletme aşağıdaki kaydı yapmıştır:<br><br>ALINAN ÇEKLER HS. 2.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ORTAKLARA BOR. HS. 2.000<br><br>Bu kayıt, aşağıdaki muhasebenin temel kavramlarından hangisiyle yakından ilgilidir?",
+      "options": [
+        "A) Dönemsellik",
+        "B) İhtiyatlılık",
+        "C) Özün önceliği",
+        "D) Kişilik",
+        "E) Tutarlılık"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Tahsili şüpheli hale gelen 17.000 ₺'lik bir alacağın tamamı için karşılık ayrılmıştır. Ertesi yıl mahkeme sonuçlanmış ve alacağın yalnızca 13.000 ₺'lik kısmı tahsil edilebilmiş, kalanından vazgeçilmiştir.<br><br>Bu bilgilere göre alacağın tahsiliyle ilgili yapılacak yevmiye kaydında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Konusu Kalmayan Karşılıklar Hesabı 17.000 ₺ alacaklandırılır.",
+        "B) Şüpheli Ticari Alacaklar Karşılığı Hesabı 17.000 ₺ alacaklandırılır.",
+        "C) Konusu Kalmayan Karşılıklar Hesabı 13.000 ₺ alacaklandırılır.",
+        "D) Şüpheli Ticari Alacaklar Karşılığı Hesabı 13.000 ₺ alacaklandırılır.",
+        "E) Şüpheli Ticari Alacaklar Hesabı 13.000 ₺ borçlandırılır."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, herhangi bir borcu olmadığı halde başka bir işletmeden senet almıştır.<br><br>Bu işlemi kaydederken alacaklandırılacak hesap aşağıdakilerden hangisidir?",
+      "options": [
+        "A) Diğer Ticari Alacaklar",
+        "B) Alıcılar",
+        "C) Diğer Çeşitli Alacaklar",
+        "D) Diğer Çeşitli Borçlar",
+        "E) Satıcılar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletme, yeni bir şube açmak için ödediği giderleri aşağıdaki hesaplardan hangisinde izlemelidir?",
+      "options": [
+        "A) Özel Maliyetler Hesabında",
+        "B) Gelecek Aylara Ait Giderler Hesabında",
+        "C) Pazarlama Satış ve Dağıtım Giderleri Hesabında",
+        "D) Kuruluş ve Örgütlenme Giderleri Hesabında",
+        "E) Yapılmakta Olan Yatırımlar Hesabında"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme yıl içinde 120.000 ₺ bedelle, nominal değeri 1 ₺ olan \"A\" şirketi hisse senetlerinden 100.000 adet satın almıştır. İşletmenin \"A\" şirketinin sermayesindeki hisse payı oranı %12'dir. Borsada işlem gören söz konusu hisse senetlerinin son işlem günündeki ortalama fiyatı 2,50 ₺'dir.<br><br>Bu bilgilere ve Vergi Usul Kanunu'na göre \"A\" şirketi hisse senetleri işletmenin yılsonu bilançosunda, hangi hesapta ve hangi değerle gösterilecektir?",
+      "options": [
+        "A) İştirakler hesabında, 100.000 ₺",
+        "B) İştirakler hesabında, 250.000 ₺",
+        "C) Bağlı Menkul Kıymetler hesabında, 120.000 ₺",
+        "D) İştirakler hesabında, 120.000 ₺",
+        "E) Bağlı Menkul kıymetler hesabında, 250.000 ₺"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Muhasebe politikalarının açıklanması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Mali tabloların içerdiği bütün önemli muhasebe politikaları açıklanmalıdır.",
+        "B) Mali tablolar dönemler itibariyle karşılaştırılabilir nitelikte olmalıdır.",
+        "C) Cari dönemde önemli etki yaratan mali politika değişiklikleri nedenleri ve mali tablolara etkileri ile birlikte açıklanmalıdır.",
+        "D) Kullanılan muhasebe politikalarının açıklanması mali tabloların bütünlüğü ve tamlığı için temel ilkedir.",
+        "E) Gelecek dönemlerde önemli etki yaratabilecek politika değişikliği yapılmış ise neden ve etkilerinin açıklanması gerekmez."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletmenin iyi bir kuruluş yerine ve iyi üne sahip olması ile alıcılarında güven ve emniyet yaratması sonucu, rakip işletmelerden daha fazla kâr elde etmesini sağlayan değere muhasebe sisteminde ne ad verilir?",
+      "options": [
+        "A) İmtiyaz",
+        "B) Hak",
+        "C) Şerefiye",
+        "D) Patent",
+        "E) Özel maliyet"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Amortismana tabi bir duran varlığın satış işleminin muhasebeleştirilmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Satış bedeli ilgili duran varlık hesabına alacak kaydedilir.",
+        "B) İlgili duran varlık hesabı aktifleştirme bedeli kadar alacaklandırılarak kapatılır.",
+        "C) Duran varlığın satış bedelinden, varlığın birikmiş amortismanı düşülerek net defter değeri bulunur.",
+        "D) Duran varlığın satış bedeli ile maliyeti arasındaki fark satış kârı olarak kaydedilir.",
+        "E) Duran varlığın birikmiş amortismanı alacak kaydı yapılarak kapatılır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "\"E\" İşletmesi 60.000 ₺'lik değeri düşen ticari mal için %40 oranında karşılık ayrılmasına karar vermiştir. Bu bilgilere göre yapılacak yevmiye kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) KARŞILIK GİDERLERİ HS. 36.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DİĞER STOKLAR HS. 36.000",
+        "B) STOK DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI HS. 36.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KARŞILIK GİDER. HS. 36.000",
+        "C) KARŞILIK GİDERLERİ HS. 24.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;STOK DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI HS. 24.000",
+        "D) DİĞER STOKLAR HS. 24.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DİĞER BORÇ VE GİDER KARŞILIKLARI HS. 24.000",
+        "E) STOK DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI HS. 36.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DİĞER BORÇLAR VE GİDER KARŞILIKLARI HS. 36.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, maliyet bedeli 120.000 ₺, hurda bedeli 20.000 ₺, faydalı ömrü 5 yıl olan bir makineyi satın almıştır.<br><br>Azalan bakiyeler yöntemini uygulayan işletmenin, 2. yıl sonunda hesaplayacağı, makinenin birikmiş amortismanlar tutarı kaç ₺'dir?",
+      "options": [
+        "A) 28.000",
+        "B) 40.000",
+        "C) 48.000",
+        "D) 64.000",
+        "E) 76.800"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Banka tarafından işletme lehine 1.500 ₺ faiz tahakkuk ettirilmiş, 150 ₺'lik vergi mahsup edildikten sonra kalan işletmenin hesabına geçirilmiştir.<br><br>Bu bilgilere göre İşletmenin yapacağı muhasebe kaydıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Peşin Ödenen Vergi ve Fonlar Hesabı 150 ₺ alacaklandırılır.",
+        "B) Gelecek Aylara Ait Giderler Hesabı 150 ₺ alacaklandırılır.",
+        "C) Gelecek Aylara Ait Giderler Hesabı 150 ₺ borçlandırılır.",
+        "D) Faiz Gelirleri Hesabı 1.500 ₺ borçlandırılır.",
+        "E) Peşin Ödenen Vergi ve Fonlar Hesabı 150 ₺ borçlandırılır."
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Gider hesapları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "options": [
+        "A) Gider hesapları gelir tablosunda yer alırlar.",
+        "B) Gider hesapları bilançoda yer almazlar.",
+        "C) Gider hesapları kesin mizanda kalan vermezler.",
+        "D) Gider hesapları Kâr / Zarar hesabına devredilirken borçlandırılırlar.",
+        "E) Gider hesapları Kâr / Zarar hesabına devredilirken alacaklandırılırlar."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme satın aldığı masa ve sandalye için 50.000 ₺'lik bir çek ciro etmiştir.<br><br>Bu bilgilere göre aşağıdaki hesaplardan hangisi alacaklandırılır?",
+      "options": [
+        "A) Alınan çekler",
+        "B) Demirbaşlar",
+        "C) Verilen çekler ve ödeme emirleri",
+        "D) Alacak senetleri",
+        "E) Borç senetleri"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme yönetim binasında kullanılmak üzere 9.500 ₺'lik masa ve sandalyeyi peşin olarak satın almıştır. İşletme tarafından karşılanan taşıma gideri 500 ₺'dir.<br><br>Bu bilgilere göre yapılacak yevmiye kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) GENEL YÖNETİM GİDERLERİ HS. 10.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 1.800<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KASA HS. 11.800",
+        "B) DEMİRBAŞLAR HS. 9.500<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TİCARİ MALLAR HS. 500<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 1.800<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KASA HS. 11.800",
+        "C) DEMİRBAŞLAR HS. 10.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 1.800<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KASA HS. 11.800",
+        "D) DİĞER MADDİ DURAN VAR. HS. 10.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 1.800<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KASA HS. 11.800",
+        "E) DEMİRBAŞLAR HS. 9.500<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ÖZEL MALİYETLER HS. 500<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 1.800<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KASA HS. 11.800"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmede seçilen muhasebe yöntem ve usullerinin, birbirini izleyen muhasebe dönemlerinde değiştirilmeden uygulanması aşağıdaki temel muhasebe kavramlarından hangisinin gereğidir?",
+      "options": [
+        "A) Dönemsellik",
+        "B) Maliyet esası",
+        "C) İhtiyatlılık",
+        "D) Önemlilik",
+        "E) Tutarlılık"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme borçlanarak 120.000 ₺'ye arazi satın almıştır. Bu bilgilere göre yapılacak yevmiye kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) ARAZİ VE ARSALAR HS. 120.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 21.600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DİĞER TİCARİ BORÇLAR HS. 141.600",
+        "B) GENEL YÖNETİM GİDER. HS. 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARAZİ VE ARSALAR HS. 120.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 21.600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ALICILAR HS. 141.600",
+        "C) BİRİKMİŞ AMOR. HS. 40.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARAZİ VE ARSALAR HS. 120.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 21.600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SATICILAR HS. 141.600",
+        "D) ARAZİ VE ARSALAR HS. 120.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 21.600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VERİLEN ÇEKLER VE ÖDEME EMİRLERİ HS. 141.600",
+        "E) ARAZİ VE ARSALAR HS. 120.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;İNDİRİLECEK KDV HS. 21.600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BANKA KREDİLERİ HS. 141.600"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme iki yıl önce 200.000 ₺'ye bir taşıt satın almıştır. Bu taşıtın hizmet süresi beş yıl ve hurda değeri de 20.000 ₺'dir.<br><br>Eşit tutarlar yöntemine göre amortisman ayıran işletmenin yıl sonunda yapması gereken amortismanlarla ilgili muhasebe kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) GENEL YÖNETİM GİDER. HS. 60.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BİRİKMİŞ AMOR. HS. 60.000",
+        "B) GENEL YÖNETİM GİDER. HS. 40.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BİRİKMİŞ AMOR. HS. 40.000",
+        "C) GENEL YÖNETİM GİDER. HS. 20.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BİRİKMİŞ AMOR. HS. 20.000",
+        "D) GENEL YÖNETİM GİDER. HS. 36.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BİRİKMİŞ AMOR. HS. 36.000",
+        "E) GENEL YÖNETİM GİDER. HS. 26.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BİRİKMİŞ AMOR. HS. 26.000"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Satıcılara olan senetsiz borçların aynı hesapta muhasebeleştirilmesi muhasebenin aşağıdaki unsurlarından hangisi ile ilgilidir?",
+      "options": [
+        "A) Raporlama",
+        "B) Yorumlama",
+        "C) Kaydetme",
+        "D) Sınıflandırma",
+        "E) Bilgi toplama"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletmenin ay sonu itibariyle KDV hesaplarının durumu aşağıdaki gibidir:<br><br>İndirilecek KDV Hesabı: 26.000 ₺<br>Hesaplanan KDV Hesabı: 24.000 ₺<br>Devreden KDV Hesabı: 2.000 ₺<br><br>Bu bilgilere göre, ay sonunda yapılacak kayıtla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) Devreden KDV hesabı 2.000 ₺ borçlandırılır.",
+        "B) Devreden KDV hesabı 2.000 ₺ alacaklandırılır.",
+        "C) İndirilecek KDV hesabı 26.000 ₺ borçlandırılır.",
+        "D) Hesaplanan KDV hesabı 24.000 ₺ alacaklandırılır.",
+        "E) Ödenecek Vergi ve Fonlar hesabı 2.000 ₺ alacaklandırılır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme nominal değeri 800 ₺, alış değeri 1.000 ₺ olan 20 adet hisse senedini banka aracılığı ile tanesi 960 ₺'dan peşin olarak satmıştır. Banka satış işlemi için 600 ₺ komisyon kesmiştir.<br><br>Bu bilgilere göre yapılacak yevmiye kaydı aşağıdakilerden hangisidir?",
+      "options": [
+        "A) BANKALAR HS 18.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KOMİSYON GİDERLERİ HS. 600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MENKUL KIY. SATIŞ ZAR. HS. 2.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HİSSE SENETLERİ HS. 20.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KASA HS. 600",
+        "B) BANKALAR HS 18.600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KOMİSYON GİDERLERİ HS. 600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MENKUL KIY. SATIŞ ZAR. HS. 800<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HİSSE SENETLERİ HS. 20.000",
+        "C) BANKALAR HS 18.600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KOMİSYON GİDERLERİ HS. 600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HİSSE SENETLERİ HS. 16.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MENKUL KIYMET SATIŞ KARI HS. 3.200",
+        "D) BANKALAR HS 18.600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KOMİSYON GİDERLERİ HS. 600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HİSSE SENETLERİ HS. 18.000<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MENKUL KIYMET SATIŞ KARI HS. 1.200",
+        "E) BANKALAR HS 17.400<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KOMİSYON GİDERLERİ HS. 600<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HİSSE SENETLERİ HS. 18.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme elinde bulunan alış değeri 5.000 ₺ olan 100 adet hisse senedinin borsa değerleri toplamının 480.000 ₺'ye düştüğünü saptamıştır.<br><br>Bu işlemin kaydında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Menkul Kıymet Değer Düşüklüğü Karşılığı Hesabı 20.000 ₺ alacaklandırılır.",
+        "B) Karşılık Giderleri Hesabı 20.000 ₺ alacaklandırılır.",
+        "C) Menkul Kıymet Değer Düşüklüğü Karşılığı Hesabı 20.000 ₺ borçlandırılır.",
+        "D) Menkul Kıymetler Satış Zararları Hesabı 20.000 ₺ borçlandırılır.",
+        "E) Hisse Senetleri Hesabı 20.000 ₺ alacaklandırılır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aralıklı sayım yöntemi uygulayan işletmenin dönem sonunda mal hesabının borç taraf toplamı 18.500 ₺, alacak taraf toplamı 9.200 ₺ ve dönem sonu stoklarının maliyeti 2.100 ₺'dir.<br><br>Bu bilgilere göre işletmenin satılan ticari mallarının maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 16.400",
+        "B) 11.400",
+        "C) 9.300",
+        "D) 9.200",
+        "E) 7.200"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TG işletmesi hisse senetlerine ilişkin bilgiler aşağıdaki gibidir:<br><br>Nominal Değer: 4.000 ₺<br>Alış Değeri: 5.000 ₺<br>Satış Fiyatı: 4.600 ₺<br><br>Yukarıdaki bilgilere göre işletmenin yaptığı satış kaydında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Konusu Kalmayan Karşılıklar Hs. Alacaklı 600 ₺",
+        "B) Menkul Kıymet Değer Düşüklüğü Karşılığı Hs. Borçlu 400 ₺",
+        "C) Menkul Kıymet Satış Zararı Hs. Borçlu 400 ₺",
+        "D) Menkul Kıymet Satış Karı Hs. Alacaklı 600 ₺",
+        "E) Menkul Kıymet Değer Düşüklüğü Karşılığı Hs. Alacaklı 1.000 ₺"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "TG işletmesi atıl fonlarını değerlendirmek amacıyla nominal bedelinden hisse senedi almıştır. İşletme dönem sonu itibariyle yaptığı incelemede hisselerin değerinin nominal bedelin üzerine çıktığını tespit etmiştir.<br><br>Bu bilgilere göre yapılması gereken işlemle ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+      "options": [
+        "A) İşletme satın aldığı bu hisselerden zarar elde etmiştir.",
+        "B) İşletmenin söz konusu hisseler için dönem sonu itibariyle karşılık ayırması gerekir.",
+        "C) İşletme hisselerinin nominal bedelin üzerinde satın almış olsaydı karşılık ayırmasına gerek yoktu.",
+        "D) İşletmenin hisselerinin piyasa değeri artmış olup, herhangi bir karşılık ayırmasına gerek yoktur.",
+        "E) Hisselerin artışıyla beraber ortaya çıkan fark dönen varlıkları arttıracaktır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletme, bir şirketin nominal değeri 1 ₺ olan hisse senetlerinden 45.000 adet satın almış ve 52.000 ₺ ödemiştir.<br><br>Alış işlemiyle ilgili yapılacak yevmiye kaydında aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Hisse Senetleri Hesabı borçlu 45.000",
+        "B) Hisse Senetleri Hesabı alacaklı 52.000",
+        "C) Hisse Senetleri Hesabı borçlu 52.000",
+        "D) Hisse Senetleri Hesabı alacaklı 45.000",
+        "E) Komisyon Giderleri alacaklı 7.000"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Bir işletmenin bazı bilgileri aşağıdaki gibidir: (Bin ₺)<br><br>| Hesaplar | Önceki Dönem | Cari Dönem |<br>| :--- | :--- | :--- |<br>| Alıcılar | 940 | 610 |<br>| Alacak Senetleri | 1420 | 1680 |<br>| Alacak Senetleri Rees. (-) | 290 | 160 |<br>| Alınan Dep. Ve Tem. | 70 | 40 |<br>| Şüpheli Ticari Alacaklar | 90 | 60 |<br>| Şüpheli Ticari Alc. Karş. (-) | 60 | 30 |<br>| İştiraklerden Alacaklar | 80 | 110 |<br><br>Yukarıdaki verilere göre, Ticari Alacaklardaki artış ya da azalış kaç ₺'dir?",
+      "options": [
+        "A) 60.000 ₺ artış",
+        "B) 80.000 ₺ artış",
+        "C) 100.000 ₺ azalış",
+        "D) 260.000 ₺ azalış",
+        "E) 290.000 ₺ azalış"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdaki hesaplardan hangisi \"Ticari Alacaklar\" grubunda yer almaz?",
+      "options": [
+        "A) Şüpheli Ticari Alacaklar",
+        "B) Kazanılmamış Finansal Kiralama Faiz Gelirleri",
+        "C) Alınan Depozito Ve Teminatlar",
+        "D) Alacak Senetleri Reeskontu",
+        "E) Diğer Ticari Alacaklar"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, kredili olarak yaptığı satış dolayısıyla ortaya çıkan alacağının vadesinden önce ödenmesi nedeniyle indirim yapmıştır.<br><br>Bu işlem hangi hesaba, ne şekilde kaydedilmelidir?",
+      "options": [
+        "A) Satış Iskontoları hesabının borcuna",
+        "B) Satış Iskontoları hesabının alacağına",
+        "C) Yurtiçi Satışlar hesabının alacağına",
+        "D) Yurtiçi Satışlar hesabının borcuna",
+        "E) Satılan Ticari Mallar Maliyeti hesabının borcuna"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdaki hesaplardan hangisi Ticari Borçlar hesap grubunda yer almaktadır?",
+      "options": [
+        "A) Ortaklara Borçlar",
+        "B) Tahvil Anapara Borç, Taksit ve Faizleri",
+        "C) Personele Borçlar",
+        "D) Diğer Çeşitli Borçlar",
+        "E) Alınan Depozito ve Teminatlar"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdakilerden hangisi alacak senetlerinin işletmenin finansman ihtiyacının karşılanması amacı ile kullanılmasına örnek olarak verilemez?",
+      "options": [
+        "A) Hatır senedinin tahsil edilmesi",
+        "B) Alacak senedinin ciro edilmesi",
+        "C) Alacak senedinin yenilenmesi",
+        "D) Alacak senedinin tahsil edilmesi",
+        "E) Alacak senedinin iskonto ettirilmesi"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "K Ticaret A.Ş., Y Ticaret A.Ş.'ye sattığı ticari mallarla ilgili olarak vadesi gelen 4.000 ₺ tutarındaki senetsiz alacağını tahsil edememiştir. Y Ticaret A.Ş. bunun yerine 3 ay vadeli 2.500 ₺ tutarında bir senet ciro etmiş, ayrıca 1.800 ₺ tutarında bir çek keşide ederek vermiştir.<br><br>Buna göre, Y Ticaret AŞ'nin yapacağı kayıtla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Borç Senetleri hesabı 2.500 ₺ borçlandırılır.",
+        "B) Alınan Çekler hesabı 1.800 ₺ borçlandırılır.",
+        "C) Satıcılar hesabı 4.300 ₺ alacaklandırılır.",
+        "D) Finansman Giderleri hesabı 300 ₺ borçlandırılır.",
+        "E) Satıcılar hesabı 4.300 ₺ borçlandırılır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, daha önce alacak senedi olarak muhasebeleştirdiği 50.000 ₺'lik bonoyu tahsil edememiştir. Borçlunun düzenlediği 55.000 ₺'lik ileri tarihli yeni bir bono karşılığında alacağın vadesi uzatılmıştır.<br><br>Buna göre, bu işlem için yapılacak kayıtla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) 121 Alacak Senetleri hesabı 55.000 ₺ alacaklandırılır.",
+        "B) 128 Şüpheli Ticari Alacaklar hesabı 50.000 ₺ borçlandırılır.",
+        "C) 129 Şüpheli Ticari Alacaklar Karşılığı hesabı 50.000 ₺ alacaklandırılır.",
+        "D) 642 Faiz Gelirleri hesabı 5.000 ₺ alacaklandırılır.",
+        "E) 780 Finansman Giderleri hesabı 5.000 ₺ alacaklandırılır."
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme, 01.11.2016 tarihinde yaptığı 35.000 ₺'lik satış karşılığında alıcıdan 01.02.2017 vadeli 10.000 $'lık senet almış ve ilgili hesaba kaydetmiştir. 31.12.2016 tarihinde kur 1$ = 3,00 ₺ olarak belirlenmiştir.<br><br>Buna göre, işletmenin 31.12.2016 tarihinde yapacağı değerleme kaydıyla ilgili aşağıdaki hesaplardan hangisinin kullanımı doğrudur?",
+      "options": [
+        "A) Alacak Senetleri Hs. 30.000 ₺ alacaklandırılır.",
+        "B) Alacak Senetleri Hs. 5.000 ₺ alacaklandırılır.",
+        "C) Kambiyo Kârları Hs. 5.000 ₺ alacaklandırılır.",
+        "D) Kambiyo Zararları Hs. 5.000 ₺ alacaklandırılır.",
+        "E) Alacak Senetleri Hs. 30.000 ₺ borçlandırılır."
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "A İşletmesi 19.07.2016'da aktifinde yer alan 12.000 ₺'lik alacak senedini nakit sıkışıklığı nedeniyle vadesinden önce B Bankasına 9.875 ₺'ye bozdurmuştur.<br><br>Buna göre A İşletmesinin 19.07.2016'da yapacağı kayıtta aşağıdaki hesaplardan hangisinin kullanımı doğrudur?",
+      "options": [
+        "A) Kasa hesabı borçlu 12.000 ₺",
+        "B) Finansman Giderleri hesabı borçlu 2.125 ₺",
+        "C) Alacak Senetleri hesabı alacaklı 9.875 ₺",
+        "D) Faiz Gelirleri hesabı alacaklı 2.125 ₺",
+        "E) Komisyon Giderleri hesabı borçlu 2.125 ₺"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "31 Aralık itibarıyla işletmenin elinde 3 ay önce müşteriden alınmış ve vadesinin bitimine 7 ay kalan 13.500 ₺ nominal değerli bir alacak senedi bulunmaktadır. Yapılan hesaplamada senedin tasarruf değeri 13.200 ₺ olarak tespit edilmiştir.<br><br>Buna göre, 31 Aralık tarihinde yapılacak kayıt ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Finansman Giderleri hesabı 300 ₺ borçlandırılır.",
+        "B) Karşılık Giderleri hesabı 300 ₺ borçlandırılır.",
+        "C) Reeskont Faiz Giderleri hesabı 300 ₺ borçlandırılır.",
+        "D) Alacak Senetleri Reeskontu hesabı 300 ₺ borçlandırılır.",
+        "E) Reeskont Faiz Gelirleri hesabı 300 ₺ borçlandırılır."
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "T İşletmesi nominal değeri 20.000 ₺ olan borç senetlerinin 31.12.2016 tarihinde tasarruf değerleri 19.500 ₺ olarak hesaplanmıştır.<br><br>Buna göre T İşletmesi, bu olayla ilgili muhasebe kaydında,<br><br>I. Borç Senetleri Reeskont hesabı borçlu 500 ₺<br>II. Reeskont Faiz Gelirleri hesabı alacaklı 500 ₺<br>III. Borç Senetleri hesabı alacaklı 500 ₺<br>IV. Reeskont Faiz Giderleri hesabı borçlu 500 ₺<br>V. Borç Senetleri Reeskont hesabı alacaklı 500 ₺<br><br>Yukarıdaki hesaplardan hangilerini kullanır?",
+      "options": [
+        "A) I ve II",
+        "B) IV ve V",
+        "C) III ve IV",
+        "D) I ve III",
+        "E) II ve IV"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "ALACAK SENETLERİ REESKONTU HS. XXX<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REESKONT FAİZ GELİRLERİ HS. XXX<br><br>Bu kayıt aşağıdaki işlemlerden hangisine aittir?",
+      "options": [
+        "A) Alacak senetlerinin iskonto ettirilmesi",
+        "B) Alacak senetlerinin yenilenmesi",
+        "C) Alacak senetlerinin vadesinin uzatılması",
+        "D) Alacak senetlerine reeskont ayrılması",
+        "E) Alacak senetlerine ayrılan reeskontun iptali"
+      ],
+      "answer": 4
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Aşağıdaki hesaplardan hangisi borç kalanı vermez?",
+      "options": [
+        "A) Devreden KDV",
+        "B) İş Avansları",
+        "C) Dönem Net Zararı",
+        "D) Alacak Senetleri Reeskontu",
+        "E) Verilen Depozito ve Teminatlar"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletme ihale ettiği bir iş için teminat mektubu yoluyla 300.000 ₺, ipotek yoluyla 200.000 ₺ ve nakden 100.000 ₺ olmak üzere toplam 600.000 ₺ tutarında teminat sağlamıştır.<br><br>Bu işlemle ilgili Alınan Depozito ve Teminatlar hesabında izlenecek teminat tutarı kaç ₺'dir?",
+      "options": [
+        "A) 100.000",
+        "B) 300.000",
+        "C) 400.000",
+        "D) 500.000",
+        "E) 600.000"
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "T işletmesi yakın ilişkide olduğu E işletmesinden 20.000 ₺ değerinde hatır senedi almıştır.<br><br>Bu bilgilere göre E işletmesinin yapması gereken kayıtta aşağıdaki hesaplardan hangisinin kullanımı doğrudur?",
+      "options": [
+        "A) Alacak Senetleri Hesabı Alacaklı",
+        "B) Diğer Çeşitli Alacaklar Hesabı Borçlu",
+        "C) Borç Senetleri Hesabı Borçlu",
+        "D) Diğer Ticari Alacaklar Hesabı Borçlu",
+        "E) Diğer Çeşitli Borçlar Hesabı Alacaklı"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmenin şüpheli alacak olarak izlediği ve tamamı için karşılık ayırdığı 30.000 ₺ tutarındaki senetli alacağının tahsilinin imkansız olduğu tespit edilmiştir.<br><br>Buna göre, yapılacak kayıtla ilgili aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "A) Şüpheli Ticari Alacaklar hesabı alacaklandırılır.",
+        "B) Konusu Kalmayan Karşılıklar hesabı alacaklandırılır.",
+        "C) Alacak Senetleri hesabı alacaklandırılır.",
+        "D) Şüpheli Ticari Alacak Karşılığı hesabı alacaklandırılır.",
+        "E) Diğer Çeşitli Alacaklar hesabı alacaklandırılır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "129 ŞÜPHELİ TİCARİ ALACAKLAR KARŞILIĞI HS. XXX<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;128 ŞÜPHELİ TİCARİ ALACAKLAR HS. XXX<br><br>Bu yevmiye kaydı aşağıdaki işlemlerden hangisine aittir?",
+      "options": [
+        "A) Şüpheli alacak için ayrılan karşılığın iptaline",
+        "B) Alacağın şüpheli duruma düşmesine",
+        "C) Şüpheli duruma düşen alacağın tahsil olanağının kalmamasına",
+        "D) Şüpheli duruma düşen alacak için karşılık ayrılmasına",
+        "E) Şüpheli duruma düşen alacağın tahsiline"
+      ],
+      "answer": 2
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "I. Ödeme suresi geçmiş ve protesto edilmiş alacaklardır.<br>II. Yazı ile birden fazla istenmiş ve icra safhasındaki alacaklardır.<br>III. Sadece senetli alacaklardır.<br><br>Şüpheli ticari alacaklar ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+      "options": [
+        "A) Yalnız I",
+        "B) Yalnız II",
+        "C) Yalnız III",
+        "D) I ve II",
+        "E) I ve III"
+      ],
+      "answer": 3
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "İşletmenin dönem içi alışları 26.000 ₺; alış iadeleri 3.000 ₺; Dönem sonu stokların maliyeti 14.000 ₺; ve Satılan Malın Maliyeti 21.000 ₺'dir.<br><br>Bu bilgilere göre işletmenin dönem başı mallarının maliyeti kaç ₺'dir?",
+      "options": [
+        "A) 9.000",
+        "B) 12.000",
+        "C) 23.000",
+        "D) 35.000",
+        "E) 47.000"
+      ],
+      "answer": 1
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Stoklarını sürekli envanter yöntemiyle izleyen ve 8.000 ₺ maliyetli bir malı 12.000 ₺'ye kredili olarak satan işletme malın yarısını iade almıştır.<br><br>İade kaydıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        "A) Satılan Ticari Mal Maliyeti hesabı 6.000 alacaklandırılır.",
+        "B) Satılan Ticari Mal Maliyeti hesabı 4.000 alacaklandırılır.",
+        "C) Ticari Mal hesabı 4.000 borçlandırılır.",
+        "D) Satıştan İadeler hesabı 6.000 borçlandırılır.",
+        "E) Alıcılar hesabı 6.000 alacaklandırılır."
+      ],
+      "answer": 0
+    },
+    {
+      "ders": "Finansal Muhasebe",
+      "q": "Maliyeti 6.000 ₺, birikmiş amortismanı 4.800 ₺ olan bir demirbaş %18 KDV dahil 2.360 ₺'ye peşin olarak satılmıştır.<br><br>Bu bilgilere göre işletmenin kâr veya zararı kaç ₺'dir?",
+      "options": [
+        "A) 800 kâr",
+        "B) 1.200 kâr",
+        "C) 1.160 kâr",
+        "D) 3.640 zarar",
+        "E) 4.000 zarar"
+      ],
+      "answer": 0
+    }
   ]
 }
