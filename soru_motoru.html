@@ -3,6 +3,7 @@
 <head>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
+        
         /* MOBİL UYGULAMA (APP) GÖRÜNÜMÜ KODLARI */
         @media (max-width: 768px) {
             body:not(.mobil-soru-acik):not(.deneme-modu) .sidebar, body:not(.mobil-soru-acik):not(.deneme-modu) .bg-dark {
@@ -18,14 +19,44 @@
                 margin-left: 0 !important; padding: 15px !important; height: 100vh !important; overflow-y: auto !important;
             }
             #mobil-geri-btn { display: block !important; }
+
+            /* --- YENİ EKLENEN MOBİL DÜZELTMELER BURADAN BAŞLIYOR --- */
+            /* 1. Turuncu Butonun Şıkları Kapatmasını Engelleme */
+            .content, main, .question-area {
+                padding-bottom: 100px !important; 
+            }
+
+            /* 2. Test Bitişindeki Doğru/Yanlış Kutularını Alt Alta Dizme */
+            .row, .d-flex.justify-content-between {
+                flex-direction: column !important;
+                gap: 15px !important;
+            }
+            
+            .row > div, .col {
+                width: 100% !important;
+                max-width: 100% !important;
+                margin-bottom: 10px !important;
+            }
+
+            /* 3. Üst Taraftaki Soru Numarası ve İstatistik Kutusunu Rahatlatma */
+            .question-header-box { 
+                flex-direction: column !important;
+                align-items: center !important;
+                text-align: center !important;
+            }
+            /* --- YENİ EKLENEN MOBİL DÜZELTMELER BURADA BİTİYOR --- */
         }
 
         @media (min-width: 769px) { #mobil-geri-btn { display: none !important; } }
+    
     </style>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SMM AKADEMİ | Sınav Hazırlık Portalı</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0f172a">
+    <link rel="apple-touch-icon" href="ikon.png">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     
