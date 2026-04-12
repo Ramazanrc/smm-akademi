@@ -26,16 +26,18 @@
                 padding-bottom: 100px !important; 
             }
 
-            /* 2. Test Bitişindeki Doğru/Yanlış Kutularını Alt Alta Dizme */
-            .row, .d-flex.justify-content-between {
+            /* 2. Test Bitişindeki Doğru/Yanlış Kutularını Alt Alta Dizme (GÜNCELLENDİ) */
+            .score-box {
+                display: flex !important;
                 flex-direction: column !important;
-                gap: 15px !important;
+                gap: 12px !important;
+                width: 100% !important;
             }
             
-            .row > div, .col {
+            .score-item {
                 width: 100% !important;
-                max-width: 100% !important;
-                margin-bottom: 10px !important;
+                box-sizing: border-box !important;
+                margin-bottom: 0 !important;
             }
 
             /* 3. Üst Taraftaki Soru Numarası ve İstatistik Kutusunu Rahatlatma */
