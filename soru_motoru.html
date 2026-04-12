@@ -46,58 +46,58 @@
                 align-items: center !important;
                 text-align: center !important;
             }
-            /* --- 4. Yevmiye Kayıtları İçin Kesin Çözüm (GİYOTİN KALDIRILDI) --- */
-            .option-btn {
-                width: 100% !important;
-                max-width: 100% !important;
-                box-sizing: border-box !important;
-                display: block !important;
-                
-                /* Sihirli Kısım: Sığmayan boşlukları ve rakamları alta düşürür, asla kesmez */
-                white-space: pre-wrap !important; 
-                overflow-wrap: anywhere !important; /* Uzun boşluk zincirlerini zorla esnetir */
-                word-break: break-word !important;
-                
-                padding: 12px 10px !important; 
-                font-size: 11px !important; /* Rakamların yan yana sığma ihtimalini artırmak için tık küçülttük */
-                line-height: 1.5 !important;
-                margin-bottom: 10px !important;
-                text-align: left !important;
-            }
-
-            .option-btn * {
-                max-width: 100% !important;
-                white-space: pre-wrap !important;
-                overflow-wrap: anywhere !important;
-            }
-
-            /* --- 5. Ekranın Sağ/Sol Ölü Boşluklarını Genişletme (Bu Kalıyor!) --- */
-            body.mobil-soru-acik .content, body.mobil-soru-acik main {
-                padding-left: 4px !important;
-                padding-right: 4px !important;
-            }
+            /* --- MOBİL TÜM SORUNLARI ÇÖZEN NİHAİ PAKET --- */
             
-            .question-card, #soru-alani {
-                padding-left: 8px !important;
-                padding-right: 8px !important;
-                margin-left: 0 !important;
-                margin-right: 0 !important;
+            /* 4. Sayfa Kaydırma Kilidini Kaldırma ve Yatay Kaymayı Önleme */
+            html, body {
+                overflow-x: hidden !important;
+                overflow-y: visible !important; /* Dikey kaydırmayı garantiye alıyoruz */
+                height: auto !important;
                 width: 100% !important;
-                box-sizing: border-box !important;
+                position: relative !important;
             }
 
-            /* --- 6. Üst Taraftaki Sıkışan Doğru/Yanlış Kutusunu Alt Alta Dizme --- */
+            /* 5. Sıkışan Üst Bilgi Kutularını (Soru/Skor) Alt Alta Dizme */
             #soru-alani > div:first-child {
                 display: flex !important;
                 flex-direction: column !important;
                 align-items: center !important;
                 gap: 10px !important;
+                width: 100% !important;
             }
-            
             #soru-alani > div:first-child > div {
                 width: 100% !important;
-                justify-content: center !important;
                 margin: 0 !important;
+                justify-content: center !important;
+            }
+
+            /* 6. Yevmiye Kayıtları ve Şıklar İçin "Nükleer" Çözüm */
+            .option-btn {
+                width: 100% !important;
+                max-width: 100% !important;
+                display: block !important;
+                padding: 12px 10px !important;
+                font-size: 11px !important; /* Rakamlar sığsın diye boyut */
+                line-height: 1.5 !important;
+                text-align: left !important;
+                white-space: normal !important; /* TÜM GEREKSİZ BOŞLUKLARI OTOMATİK SİLER */
+                word-wrap: break-word !important;
+                height: auto !important;
+            }
+
+            /* Şık içindeki yevmiye kayıtlarını hizalı tut ama ekran dışına taşırma */
+            .option-btn p, .option-btn span, .option-btn div {
+                display: block !important;
+                width: 100% !important;
+                white-space: normal !important;
+            }
+
+            /* 7. Ekran Kenar Boşluklarını Ferahlatma */
+            .question-card, #soru-alani {
+                padding-left: 10px !important;
+                padding-right: 10px !important;
+                width: 100% !important;
+                box-sizing: border-box !important;
             }
             /* --- YENİ EKLENEN MOBİL DÜZELTMELER BURADA BİTİYOR --- */
         }
