@@ -812,7 +812,15 @@ function kilitAc() {
 
             s.options.forEach((metin, i) => {
                 const btn = document.createElement('button'); btn.className = 'option-btn';
+                
+                // 1. A, B, C gibi şık harflerini temizle
                 let temizMetin = metin.replace(/^[A-Ea-e]\)[\s]*/, "").replace(/^[A-Ea-e]\.[\s]*/, "");
+                
+                // --- İŞTE SİHİRLİ DOKUNUŞ BURASI ---
+                // 2. Yan yana 2 veya daha fazla boşluk varsa, onu TEK bir boşluğa çevir (Tıraşlama)
+                temizMetin = temizMetin.replace(/\s{2,}/g, ' '); 
+                // -----------------------------------
+
                 btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
                 let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
                 
@@ -833,7 +841,6 @@ function kilitAc() {
 
             document.getElementById('ilerleme-cubugu').style.width = (((mevcutSoruIndex + 1) / aktifSorular.length) * 100) + "%";
         }
-
         function cevapla(index, dogru, secilenBtn) {
             if(isDenemeMode) {
                 document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('selected-deneme'));
