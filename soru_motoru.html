@@ -46,25 +46,28 @@
                 align-items: center !important;
                 text-align: center !important;
             }
-            /* 4. Yevmiye Kayıtları İçin İçten Kaydırmasız Net Çözüm */
+            /* --- 4. Yevmiye Kayıtları ve Uzun Şıklar İçin Kesin Çözüm --- */
             .option-btn {
                 width: 100% !important;
                 max-width: 100% !important;
                 box-sizing: border-box !important;
                 display: block !important;
-                white-space: pre-wrap !important; /* Senin JSON'daki muhasebe boşluklarını korur */
+                white-space: pre-line !important; /* Devasa boşlukları tek boşluk yapar, rakamları kurtarır! */
                 word-wrap: break-word !important;
-                overflow-x: hidden !important; /* İÇTEN KAYDIRMAYI TAMAMEN İPTAL ETTİK */
-                padding: 12px 8px !important; /* Sağdan soldan nefes aldırıp yazıya daha çok yer açtık */
-                font-size: 11.5px !important; /* Muhasebe fişi mantığına uygun, ekrana sığacak optimal boyut */
+                overflow: hidden !important; 
+                padding: 12px 10px !important; 
+                font-size: 12px !important; 
                 line-height: 1.5 !important;
                 margin-bottom: 10px !important;
+                text-align: left !important;
             }
 
             .option-btn * {
                 max-width: 100% !important;
+                white-space: pre-line !important;
             }
-            /* 5. Ekranın Sağındaki ve Solundaki Ölü Boşlukları Kurtarıp Genişletme */
+
+            /* --- 5. Ekranın Sağ/Sol Ölü Boşluklarını Genişletme (Bu Kalıyor!) --- */
             body.mobil-soru-acik .content, body.mobil-soru-acik main {
                 padding-left: 4px !important;
                 padding-right: 4px !important;
@@ -77,6 +80,20 @@
                 margin-right: 0 !important;
                 width: 100% !important;
                 box-sizing: border-box !important;
+            }
+
+            /* --- 6. Üst Taraftaki Sıkışan Doğru/Yanlış Kutusunu Alt Alta Dizme --- */
+            #soru-alani > div:first-child {
+                display: flex !important;
+                flex-direction: column !important;
+                align-items: center !important;
+                gap: 10px !important;
+            }
+            
+            #soru-alani > div:first-child > div {
+                width: 100% !important;
+                justify-content: center !important;
+                margin: 0 !important;
             }
             /* --- YENİ EKLENEN MOBİL DÜZELTMELER BURADA BİTİYOR --- */
         }
