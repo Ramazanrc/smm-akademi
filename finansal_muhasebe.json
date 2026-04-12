@@ -4003,16 +4003,18 @@
       "answer": 3
     },
     {
+      
       "ders": "Finansal Muhasebe",
       "q": "Bir işletme 2024 yılı dönem sonu kontrolleri sırasında Gelecek Aylara Ait Gelirler hesabında izlenen tutarın 10.000 ₺'lik kısmının bu dönemin kira gelirine ait olduğunu tespit etmiştir.\n\nBuna göre işletme tarafından yapılacak kayıt aşağıdakilerden hangisidir?",
       "options": [
-        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>649 DİĞER OLAĞAN GELİR VE KÂRLAR<br>&nbsp;&nbsp;&nbsp;&nbsp;380 GELECEK AYLARA AİT GELİRLER</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>",
-        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>380 GELECEK AYLARA AİT GELİRLER<br>&nbsp;&nbsp;&nbsp;&nbsp;649 DİĞER OLAĞAN GELİR VE KÂRLAR</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>",
-        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>380 GELECEK AYLARA AİT GELİRLER<br>&nbsp;&nbsp;&nbsp;&nbsp;181 GELİR TAHAKKUKLARI</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>",
-        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>181 GELİR TAHAKKUKLARI<br>&nbsp;&nbsp;&nbsp;&nbsp;380 GELECEK AYLARA AİT GELİRLER</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>",
-        "<table style='width: auto; min-width: 400px; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 30px;'>380 GELECEK AYLARA AİT GELİRLER<br>&nbsp;&nbsp;&nbsp;&nbsp;690 DÖNEM KÂRI VEYA ZARARI</td><td style='text-align: right; padding-right: 20px; width: 80px;'>10.000<br><br></td><td style='text-align: right; width: 80px;'><br>10.000</td></tr></table>"
+        "<table style='width: 100%; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>649 DİĞER OLAĞAN GELİR VE KÂRLAR<br><span style='margin-left: 15px;'>380 GELECEK AYLARA AİT GELİRLER</span></td><td style='text-align: right; width: 60px;'>10.000<br><br></td><td style='text-align: right; width: 60px;'><br>10.000</td></tr></table>",
+        "<table style='width: 100%; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>380 GELECEK AYLARA AİT GELİRLER<br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KÂRLAR</span></td><td style='text-align: right; width: 60px;'>10.000<br><br></td><td style='text-align: right; width: 60px;'><br>10.000</td></tr></table>",
+        "<table style='width: 100%; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>380 GELECEK AYLARA AİT GELİRLER<br><span style='margin-left: 15px;'>181 GELİR TAHAKKUKLARI</span></td><td style='text-align: right; width: 60px;'>10.000<br><br></td><td style='text-align: right; width: 60px;'><br>10.000</td></tr></table>",
+        "<table style='width: 100%; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>181 GELİR TAHAKKUKLARI<br><span style='margin-left: 15px;'>380 GELECEK AYLARA AİT GELİRLER</span></td><td style='text-align: right; width: 60px;'>10.000<br><br></td><td style='text-align: right; width: 60px;'><br>10.000</td></tr></table>",
+        "<table style='width: 100%; border-collapse: collapse;'><tr style='vertical-align: top;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>380 GELECEK AYLARA AİT GELİRLER<br><span style='margin-left: 15px;'>690 DÖNEM KÂRI VEYA ZARARI</span></td><td style='text-align: right; width: 60px;'>10.000<br><br></td><td style='text-align: right; width: 60px;'><br>10.000</td></tr></table>"
       ],
       "answer": 1
+
     },
     {
       "ders": "Finansal Muhasebe",
