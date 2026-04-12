@@ -255,11 +255,28 @@
 </div>
 
 <script>
-  function kilitAc() {
+  // Sayfa açıldığında cihazın hafızasını kontrol eden yeni bölüm
+document.addEventListener("DOMContentLoaded", function() {
+    // Eğer kullanıcı daha önce doğru şifreyi girdiyse, kilit ekranını hiç gösterme
+    if (localStorage.getItem("dersOnayi") === "basarili") {
+        document.getElementById('kilit-ekrani').style.display = "none";
+    }
+});
+
+// Senin mevcut fonksiyonunun "hafıza" özelliği eklenmiş hali
+function kilitAc() {
     const girilenSifre = document.getElementById('giris-sifresi').value;
-    if (girilenSifre === "smm2026") { document.getElementById('kilit-ekrani').style.display = "none"; } 
-    else { document.getElementById('sifre-hata').style.display = "block"; }
-  }
+    
+    if (girilenSifre === "smm2026") { 
+        document.getElementById('kilit-ekrani').style.display = "none"; 
+        
+        // İŞTE SİHİRLİ DOKUNUŞ: Şifre doğruysa bunu cihazın hafızasına yazıyoruz
+        localStorage.setItem("dersOnayi", "basarili"); 
+    } 
+    else { 
+        document.getElementById('sifre-hata').style.display = "block"; 
+    }
+}
 </script>
 
     <aside class="sidebar" id="sol-sidebar">
