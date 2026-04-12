@@ -46,6 +46,15 @@
                 align-items: center !important;
                 text-align: center !important;
             }
+            /* 4. Uzun Şıkların ve Yevmiye Kayıtlarının Kutudan Taşmasını Engelleme */
+            .option-btn {
+                white-space: pre-wrap !important; /* Muhasebe boşluklarını koru ama sığmazsa alta at */
+                height: auto !important; /* Metin uzadıkça mavi kutu da aşağı doğru uzasın */
+                min-height: 50px !important;
+                word-wrap: break-word !important; /* Çok uzun rakamları/kelimeleri taşırmadan böl */
+                display: block !important; 
+                line-height: 1.5 !important; /* Satır aralarını biraz açıp okumayı kolaylaştıralım */
+            }
             /* --- YENİ EKLENEN MOBİL DÜZELTMELER BURADA BİTİYOR --- */
         }
 
