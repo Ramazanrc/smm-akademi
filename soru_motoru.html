@@ -46,17 +46,20 @@
                 align-items: center !important;
                 text-align: center !important;
             }
-            /* --- 4. Yevmiye Kayıtları ve Uzun Şıklar İçin Kesin Çözüm --- */
+            /* --- 4. Yevmiye Kayıtları İçin Kesin Çözüm (GİYOTİN KALDIRILDI) --- */
             .option-btn {
                 width: 100% !important;
                 max-width: 100% !important;
                 box-sizing: border-box !important;
                 display: block !important;
-                white-space: pre-line !important; /* Devasa boşlukları tek boşluk yapar, rakamları kurtarır! */
-                word-wrap: break-word !important;
-                overflow: hidden !important; 
+                
+                /* Sihirli Kısım: Sığmayan boşlukları ve rakamları alta düşürür, asla kesmez */
+                white-space: pre-wrap !important; 
+                overflow-wrap: anywhere !important; /* Uzun boşluk zincirlerini zorla esnetir */
+                word-break: break-word !important;
+                
                 padding: 12px 10px !important; 
-                font-size: 12px !important; 
+                font-size: 11px !important; /* Rakamların yan yana sığma ihtimalini artırmak için tık küçülttük */
                 line-height: 1.5 !important;
                 margin-bottom: 10px !important;
                 text-align: left !important;
@@ -64,7 +67,8 @@
 
             .option-btn * {
                 max-width: 100% !important;
-                white-space: pre-line !important;
+                white-space: pre-wrap !important;
+                overflow-wrap: anywhere !important;
             }
 
             /* --- 5. Ekranın Sağ/Sol Ölü Boşluklarını Genişletme (Bu Kalıyor!) --- */
