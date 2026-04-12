@@ -46,37 +46,38 @@
                 align-items: center !important;
                 text-align: center !important;
             }
-            /* 4. Uzun Şıkların ve Yevmiye Kayıtlarının Taşmasını KESİN Engelleme */
+            /* 4. Uzun Şıkların Sayfayı Bozmasını KESİN Engelleme ve İçi Kaydırılabilir Butonlar */
             
-            /* Sayfanın komple sağa sola kaymasını ve ekran dışına çıkmasını kilitler */
-            body, html, main, .content {
+            /* Sayfanın komple sağa sola kaymasını tamamen kilitler */
+            html, body {
+                overflow-x: hidden !important;
                 max-width: 100vw !important;
-                overflow-x: hidden !important; 
             }
-
-            .option-btn {
-                white-space: pre-wrap !important;
-                word-wrap: break-word !important;
-                overflow-wrap: anywhere !important; /* En inatçı uzun kelimeyi/sayıyı bile böler */
+            
+            #soru-alani, .question-card, .content, main {
                 max-width: 100% !important;
-                height: auto !important;
-                display: block !important; 
-                line-height: 1.4 !important;
-                font-size: 13px !important; /* Mobilde yevmiye kayıtlarının sığması için yazıyı bir tık küçülttük */
-                padding: 10px 15px !important;
+                overflow-x: hidden !important;
                 box-sizing: border-box !important;
             }
 
-            /* Eğer sistem arka planda şıkları kod (<pre>) içine alıyorsa onları da eziyoruz */
-            .option-btn pre, .option-btn code, .option-btn span, .option-btn div {
-                white-space: pre-wrap !important;
-                word-wrap: break-word !important;
-                overflow-wrap: anywhere !important;
+            /* Şık kutularının ayarı */
+            .option-btn {
+                width: 100% !important;
                 max-width: 100% !important;
-                background: transparent !important;
-                font-family: inherit !important;
-                padding: 0 !important;
-                margin: 0 !important;
+                box-sizing: border-box !important;
+                display: block !important;
+                /* Eğer normal sözel soruysa sığmadığında kibarca alta atar */
+                white-space: pre-wrap !important; 
+                word-wrap: break-word !important;
+                /* EĞER Yevmiye kaydı gibi devasa boşlukluysa sayfayı bozmaz, kendi içinde kayar */
+                overflow-x: auto !important; 
+                padding: 12px !important;
+                margin-bottom: 10px !important;
+            }
+
+            /* Sistem içerde başka etiket (<pre> vb.) üretiyorsa onu da dizginler */
+            .option-btn * {
+                max-width: 100% !important;
             }
             /* --- YENİ EKLENEN MOBİL DÜZELTMELER BURADA BİTİYOR --- */
         }
