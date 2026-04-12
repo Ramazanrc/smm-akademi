@@ -6,58 +6,55 @@
         
         /* MOBİL UYGULAMA (APP) GÖRÜNÜMÜ KODLARI */
         @media (max-width: 768px) {
-            body:not(.mobil-soru-acik):not(.deneme-modu) .sidebar, body:not(.mobil-soru-acik):not(.deneme-modu) .bg-dark {
-                width: 100% !important; min-width: 100% !important; height: 100vh !important;
-                overflow-y: auto !important; display: block !important;
+            
+            /* 1. Temel Ayarlar ve AŞAĞI İNEMEME (Scroll) Sorununun Kökten Çözümü */
+            body:not(.mobil-soru-acik):not(.deneme-modu) .sidebar, 
+            body:not(.mobil-soru-acik):not(.deneme-modu) .bg-dark {
+                width: 100% !important; min-width: 100% !important; 
+                height: auto !important; display: block !important;
             }
-            body:not(.mobil-soru-acik):not(.deneme-modu) .content, body:not(.mobil-soru-acik):not(.deneme-modu) main {
+            body:not(.mobil-soru-acik):not(.deneme-modu) .content, 
+            body:not(.mobil-soru-acik):not(.deneme-modu) main {
                 display: none !important;
             }
             body.mobil-soru-acik .sidebar, body.mobil-soru-acik .bg-dark { display: none !important; }
+            
+            /* İŞTE SUÇLU BURASIYDI: 100vh silindi, height:auto yapıldı. Artık yağ gibi kayacak! */
             body.mobil-soru-acik .content, body.mobil-soru-acik main {
                 display: block !important; width: 100% !important; max-width: 100% !important;
-                margin-left: 0 !important; padding: 15px !important; height: 100vh !important; overflow-y: auto !important;
+                margin-left: 0 !important; padding: 10px !important; /* Ferah kenar boşlukları */
+                height: auto !important; overflow-y: visible !important;
             }
             #mobil-geri-btn { display: block !important; }
 
-            /* --- YENİ EKLENEN MOBİL DÜZELTMELER BURADAN BAŞLIYOR --- */
-            /* 1. Turuncu Butonun Şıkları Kapatmasını Engelleme */
-            .content, main, .question-area {
-                padding-bottom: 100px !important; 
-            }
-
-            /* 2. Test Bitişindeki Doğru/Yanlış Kutularını Alt Alta Dizme (GÜNCELLENDİ) */
-            .score-box {
-                display: flex !important;
-                flex-direction: column !important;
-                gap: 12px !important;
-                width: 100% !important;
-            }
-            
-            .score-item {
-                width: 100% !important;
-                box-sizing: border-box !important;
-                margin-bottom: 0 !important;
-            }
-
-            /* 3. Üst Taraftaki Soru Numarası ve İstatistik Kutusunu Rahatlatma */
-            .question-header-box { 
-                flex-direction: column !important;
-                align-items: center !important;
-                text-align: center !important;
-            }
-            /* --- MOBİL TÜM SORUNLARI ÇÖZEN NİHAİ PAKET --- */
-            
-            /* 4. Sayfa Kaydırma Kilidini Kaldırma ve Yatay Kaymayı Önleme */
+            /* 2. Sayfanın Sağa-Sola Kaymasını Kilitleme */
             html, body {
-                overflow-x: hidden !important;
-                overflow-y: visible !important; /* Dikey kaydırmayı garantiye alıyoruz */
+                overflow-x: hidden !important; /* Sağa kaymayı engeller */
+                overflow-y: auto !important;   /* Dikey kaydırmayı tamamen serbest bırakır */
                 height: auto !important;
                 width: 100% !important;
-                position: relative !important;
             }
 
-            /* 5. Sıkışan Üst Bilgi Kutularını (Soru/Skor) Alt Alta Dizme */
+            /* 3. Yevmiye Kayıtları ve Rakamların Gizlenmesi Sorunu (Nihai Çözüm) */
+            .option-btn {
+                width: 100% !important;
+                max-width: 100% !important;
+                display: block !important;
+                padding: 12px 10px !important;
+                font-size: 11px !important; 
+                line-height: 1.5 !important;
+                text-align: left !important;
+                /* Devasa JSON boşluklarını tek boşluğa düşürüp, rakamları ekranın içine çeker */
+                white-space: normal !important; 
+                word-wrap: break-word !important;
+                height: auto !important;
+            }
+            .option-btn * {
+                white-space: normal !important;
+                max-width: 100% !important;
+            }
+
+            /* 4. Sıkışan Üst Bilgi Kutularını (Soru Numarası / Doğru-Yanlış) Alt Alta Dizme */
             #soru-alani > div:first-child {
                 display: flex !important;
                 flex-direction: column !important;
@@ -71,39 +68,26 @@
                 justify-content: center !important;
             }
 
-            /* 6. Yevmiye Kayıtları ve Şıklar İçin "Nükleer" Çözüm */
-            .option-btn {
+            /* 5. Test Bitişindeki Performans Analizi Kutularını Alt Alta Dizme */
+            .score-box {
+                display: flex !important;
+                flex-direction: column !important;
+                gap: 12px !important;
                 width: 100% !important;
-                max-width: 100% !important;
-                display: block !important;
-                padding: 12px 10px !important;
-                font-size: 11px !important; /* Rakamlar sığsın diye boyut */
-                line-height: 1.5 !important;
-                text-align: left !important;
-                white-space: normal !important; /* TÜM GEREKSİZ BOŞLUKLARI OTOMATİK SİLER */
-                word-wrap: break-word !important;
-                height: auto !important;
             }
-
-            /* Şık içindeki yevmiye kayıtlarını hizalı tut ama ekran dışına taşırma */
-            .option-btn p, .option-btn span, .option-btn div {
-                display: block !important;
-                width: 100% !important;
-                white-space: normal !important;
-            }
-
-            /* 7. Ekran Kenar Boşluklarını Ferahlatma */
-            .question-card, #soru-alani {
-                padding-left: 10px !important;
-                padding-right: 10px !important;
+            .score-item {
                 width: 100% !important;
                 box-sizing: border-box !important;
+                margin-bottom: 0 !important;
             }
-            /* --- YENİ EKLENEN MOBİL DÜZELTMELER BURADA BİTİYOR --- */
+
+            /* 6. Turuncu Kalem Butonunun Şıkları Kapatmasını Engelleme */
+            .content, main, .question-area {
+                padding-bottom: 100px !important; 
+            }
         }
 
         @media (min-width: 769px) { #mobil-geri-btn { display: none !important; } }
-    
     </style>
 
     <meta charset="UTF-8">
