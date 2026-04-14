@@ -8925,5 +8925,449 @@
       ],
       "answer": 1
     }
+  ],
+"Deneme Sınavı 01 (Genel Tarama)":   [
+  {
+    "q": "213 sayılı VUK'da yer alan \"Vergi kanunları lafzı ve ruhu ile hüküm ifade eder\" hükmündeki \"ruhu\" ifadesi aşağıdakilerden hangisiyle ilişkilendirilebilir?",
+    "options": [
+      "A) Amaçsal yorum",
+      "B) Sistematik yorum",
+      "C) Tarihsel yorum",
+      "D) Doktrin yorumu",
+      "E) Deyimsel yorum"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "12 yaşındaki M'ye, ABC limited şirketin hisselerinin tamamı miras kalmıştır. M'nın kanuni temsilcisi olan dayısı D aynı zamanda ABC limited şirketin müdürüdür. D, şirketin vergiye ilişkin ödevlerini eksik yerine getirerek vergi ziyaına sebep olmuş ve tüzel kişilik adına kesilen vergi ve cezanın ödemesini geciktirmiştir.\n\nBuna göre, vergi aslı ve cezasından kaynaklanan sorumlulukla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Vergi aslı ve cezası için ilk olarak mükellefin malvarlığına (ABC Ltd. Şti'ne) başvurulur, mükelleften tahsil edilemezse kanuni temsilcisi D'den talep edilir.",
+      "B) Vergi aslı mükelleften talep edilir, vergi cezası ise limited şirketin müdürü olduğundan D adına kesilir.",
+      "C) Vergi aslı M'den talep edilir, vergi cezası ise hem şirketin hem de küçüğün kanuni temsilcisi olduğundan D adına kesilir.",
+      "D) Vergi aslı ve cezası için ilk aşamada M'ya başvurulur, M'den alınamazsa hem M'nin hem de şirketin kanuni temsilcisi olduğundan ödenmeyen vergi aslı ve cezası D'den talep edilir.",
+      "E) Vergi aslı ve cezası için ilk aşamada M'ye başvurulur, M'den alınamazsa mükelleften talep edilir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mükellef M, sahibi olduğu konutundan 2025 yılında elde ettiği kira gelirini Mart 2026'da vermiş olduğu yıllık gelir vergisi beyannamesi ile 325.000 ₺ olarak beyan etmiştir. Ancak söz konusu gayrimenkulün emsal kira bedeli 600.000 ₺ olarak tespit edilmiştir.\n\n213 sayılı Vergi Usul Kanunu'na göre bu durumda vergi dairesince mükellef M adına hangi tür vergi tarhı yapılması gerekir?",
+    "options": [
+      "A) Beyana dayalı vergi tarhı",
+      "B) Resen vergi tarhı",
+      "C) Düzeltme yoluyla vergi tarhı",
+      "D) İkmalen vergi tarhı",
+      "E) İdarece vergi tarhı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre teminat olarak gösterilebilecek değerlerden hangisini tahsil dairesi kabul edip etmemekte serbesttir?",
+    "options": [
+      "A) Süresiz ve şartsız banka teminat mektubu",
+      "B) Şahsi kefalet",
+      "C) Para",
+      "D) Devlet iç borçlanma senetleri",
+      "E) Hacze konu edilebilen gayrimenkul mallar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mükellef E'nin beyan ettiği gelir vergisi matrahıyla ilgili 15.12.2026 tarihinde tam vergi incelemesi başlatılmıştır. İncelemede görevli olan vergi müfettişi, inceleme süresinde bitirilemeyeceği için bitiş tarihinden itibaren bağlı olduğu birimden ek süre talep etmiştir.\n\nBuna göre, üst sınırda verilen ek süre ile beraber yapılan vergi incelemesi en geç hangi tarihte bitirilmelidir?",
+    "options": [
+      "A) 15.07.2027",
+      "B) 15.12.2027",
+      "C) 15.06.2028",
+      "D) 15.04.2028",
+      "E) 15.01.2028"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki kişilerden hangisi 213 sayılı Vergi Usul Kanunu'nda vergi mahremiyetini ihlal suçuna sebebiyet verenler arasında sayılmamıştır?",
+    "options": [
+      "A) Vergi dairesi müdürü",
+      "B) Vergi dairesi müdür yardımcısı",
+      "C) Vergi inceleme elemanları",
+      "D) Bölge idare mahkemelerinde görevli hâkim",
+      "E) Vergi mükellefinin personeli"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'nda sayılan usulsüzlük cezalarından;<br><br>I. Vergi ve harç beyannamelerinin süresinde verilmemiş olması,<br>II. Tasdiki zorunlu defterlerin herhangi birinin tasdik ettirilmemiş olması,<br>III. İşe başlamanın zamanında bildirilmemesi<br><br>durumlarından hangilerinin gerçekleşmesi hâlinde usulsüzlük cezası iki kat olarak kesilir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre mükellefin aynı takvim yılı içinde aynı türden birden fazla birinci derece usulsüzlük eylemi işlemesi halinde uygulanacak cezaya ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Birden fazlasının her biri için, birincisine ait usulsüzlük cezası dörtte bir oranında arttırımlı uygulanır.",
+      "B) Birden fazlasının her biri için, birincisine ait usulsüzlük cezasının dörtte biri şeklinde uygulanır.",
+      "C) Birden fazlasının her biri için, birincisine ait usulsüzlük cezasının üçte biri kesilir.",
+      "D) Her bir fiil için aynı oranda usulsüzlük cezası ile cezalandırılır.",
+      "E) Her bir fiil için her seferinde ceza yüzde yirmibeş arttırımlı uygulanır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mükellef A'nın ticari faaliyetinden dolayı elde ettiği gelire ilişkin 2026 yılı gelir vergisi beyannamesini zamanında vermediğinden re'sen vergi tarhiyatı yapılması ayrıca aynı fiile ilişkin 250.000 ₺ vergi ziyaı cezası ve aynı zamanda 15.000 ₺ birinci derece usulsüzlük cezası kesilmesi gerektiği vergi inceleme raporu ile tespit edilmiştir.\n\n213 sayılı Vergi Usul Kanunu'na göre mükellef A'ya kesilecek toplam ceza tutarı kaç ₺'dir?",
+    "options": [
+      "A) 250.000",
+      "B) 125.000",
+      "C) 132.500",
+      "D) 265.000",
+      "E) 15.000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Hazine ve Maliye Bakanlığınca yayımlanan bir tebliğin iptali için açılan davada verilen yürütmeyi durdurma kararına itiraz mercii aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Danıştay Vergi Dava Daireleri Kurulu",
+      "B) Ankara Bölge İdare Mahkemesi",
+      "C) Ankara Vergi Mahkemesi",
+      "D) Danıştay'ın davaya bakan dairesi",
+      "E) Danıştay Başkanlık Kurulu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ali, 2026 yılında 1.800.000 ₺ maliyet bedeliyle satın aldığı kendi özel aracını bir şirkete kiraya vermek istiyor.\n\n193 sayılı Gelir Vergisi Kanunu'na göre Ali, yıllık olarak en az kaç ₺ emsal kira bedeli istemelidir?",
+    "options": [
+      "A) 40.000",
+      "B) 90.000",
+      "C) 120.000",
+      "D) 180.000",
+      "E) 240.000"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Tekstil işiyle uğraşan A Ticari İşletmesinin aktifine kayıtlı ve ticari işletmenin işlerinde kullanılan 1 adet otobüs, 1 adet kamyon ve 1 adet otomobil bulunmaktadır.\n\n197 sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre A Ticari İşletmesi, aktifine kayıtlı;<br><br>I. Otobüs<br>II. Kamyon<br>III. Otomobil<br><br>araçlarından hangilerine ödediği MTV'yi gider olarak gösterebilir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre hizmet sözleşmesi sona erdikten sonra; karşılıklı sonlandırma sözleşmesi veya ikale sözleşmesi kapsamında ödenen tazminatlar, iş kaybı tazminatları, iş sonu tazminatları, iş güvencesi tazminatları gibi çeşitli adlar altında yapılan ödemeler ve yardımlar aşağıdaki gelir unsurlarından hangisi kapsamında yer alır?",
+    "options": [
+      "A) Ücret",
+      "B) Serbest meslek kazancı",
+      "C) Ticari kazanç",
+      "D) Diğer kazanç ve irat",
+      "E) Menkul sermaye iradı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mükellef M, ticari faaliyetinin yanı sıra internet üzerinden içerik paylaşarak bu faaliyetinden yıllık 300.000 ₺ gelir elde etmiştir.\n\n193 sayılı Gelir Vergisi Kanunu'na göre M'nin sosyal içerik üreticiliğinde kazanç istisnasından yararlanmasıyla ilgili,<br><br>I. Bu faaliyetine ilişkin tüm hasılatını münhasıran Türkiye'de kurulu bir banka hesabı aracılığıyla tahsil etmesi şarttır.<br>II. Bankalar ilgili faaliyetten elde edilen hasılat tutarı üzerinden %15 oranında gelir vergisi tevkifatı yapmak ve beyan edip ödemekle yükümlüdür.<br>III. M'nin başka faaliyetlerden gelir elde etmesi istisnadan faydalanmasına engeldir.<br><br>ifadelerinden hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumlar vergisi mükellefi K Anonim Şirketinin 2025 yılı vergilendirme dönemine ait bazı bilgiler aşağıdaki gibidir:\n\nÖz sermaye: 1.000.000 ₺<br>Ortak A gerçek kişisinden alınan borç miktarı: 800.000 ₺<br>Ortak B Limited Şirketinden alınan borç miktarı: 2.000.000 ₺<br>Ortak B'nin ortağı olan ve K Anonim Şirketinin dolaylı olarak %20 ortağı olan C gerçek kişisinden alınan borç miktarı: 500.000 ₺<br><br>5520 sayılı Kurumlar Vergisi Kanunu'na göre 2025 yılı için K Anonim Şirketinin örtülü sermaye miktarı kaç ₺'dir?",
+    "options": [
+      "A) 140.000",
+      "B) 300.000",
+      "C) 800.000",
+      "D) 1.300.000",
+      "E) 2.300.000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "I. İkmalen tarh edilen gelir vergisi ve buna ilişkin ceza<br>II. Re'sen tarh edilen katma değer vergisi ve buna ilişkin ceza<br>III. Beyan yoluyla tarh edilen kurumlar vergisi<br><br>213 sayılı Vergi Usul Kanunu'na göre mükellef A adına tarh edilen yukarıdaki vergi ve cezalardan hangileri için kanunun öngördüğü şartlar dahilinde tahakkuktan vazgeçebilir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I,II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mükellef (A), 2026 yılında tamamı tevkif yoluyla (stopajla) vergilendirilmiş 600.000 ₺ iş yeri kira geliri elde etmiş bu kiraya 120.000 ₺ stopaj uygulanmıştır. Ankara'daki konutundan 300.000 ₺ tutarında konut kirası elde etmiştir. Aynı zamanda 650.000 ₺ repo geliri elde etmiştir. Mükellef bu gelirlerin tamamını 2026 yılında tahsil etmiştir ve başka bir geliri bulunmamaktadır.<br><br>Kira gelirinin tespitinde götürü gider yöntemini tercih etmiştir.<br>2026 yılı için uygulanan konut kira istisnası 58.000 ₺'dir.<br><br><b>2026 yılı gelir vergisi tarifesi:</b><br><table style='width: 100%; max-width: 650px; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px;'><tr><td style='border: 1px solid #ccc; padding: 6px;'>190.000 ₺'ye kadar</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center; width: 60px;'>% 15</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>400.000 ₺'nin 190.000 ₺'si için 28.500 ₺, fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 20</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>1.000.000 ₺'nin 400.000 ₺'si için 70.500 ₺ (ücret gelirlerinde 1.500.000 ₺'nin 400.000 ₺'si için 70.500 ₺), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 27</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 ₺'nin 1.000.000 ₺'si için 232.500 ₺ (ücret gelirlerinde 5.300.000 ₺'nin 1.500.000 ₺'si için 367.500 ₺), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 35</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 ₺'den fazlasının 5.300.000 ₺'si için 1.737.500 ₺ (ücret gelirlerinde 5.300.000 ₺'den fazlasının 5.300.000 ₺'si için 1.697.500 ₺), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 40</td></tr></table>Bu durumda Mükellef (A)'nın 2026 yılı için beyan etmesi gereken gelir tutarı ne kadardır?",
+    "options": [
+      "A) 1.415.000 ₺",
+      "B) 765.000 ₺",
+      "C) 255.000 ₺",
+      "D) 205.700 ₺",
+      "E) Yıllık gelir vergisi beyannamesi verme yükümlülüğü yoktur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mükellef (A), 2026 yılında tamamı tevkif yoluyla (stopajla) vergilendirilmiş 600.000 ₺ iş yeri kira geliri elde etmiş bu kiraya 120.000 ₺ stopaj uygulanmıştır. Ankara'daki konutundan 300.000 ₺ tutarında konut kirası elde etmiştir. Aynı zamanda 650.000 ₺ repo geliri elde etmiştir. Mükellef bu gelirlerin tamamını 2026 yılında tahsil etmiştir ve başka bir geliri bulunmamaktadır.<br><br>Kira gelirinin tespitinde götürü gider yöntemini tercih etmiştir.<br>2026 yılı için uygulanan konut kira istisnası 58.000 ₺'dir.<br><br><b>2026 yılı gelir vergisi tarifesi:</b><br><table style='width: 100%; max-width: 650px; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px;'><tr><td style='border: 1px solid #ccc; padding: 6px;'>190.000 ₺'ye kadar</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center; width: 60px;'>% 15</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>400.000 ₺'nin 190.000 ₺'si için 28.500 ₺, fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 20</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>1.000.000 ₺'nin 400.000 ₺'si için 70.500 ₺ (ücret gelirlerinde 1.500.000 ₺'nin 400.000 ₺'si için 70.500 ₺), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 27</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 ₺'nin 1.000.000 ₺'si için 232.500 ₺ (ücret gelirlerinde 5.300.000 ₺'nin 1.500.000 ₺'si için 367.500 ₺), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 35</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 ₺'den fazlasının 5.300.000 ₺'si için 1.737.500 ₺ (ücret gelirlerinde 5.300.000 ₺'den fazlasının 5.300.000 ₺'si için 1.697.500 ₺), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 40</td></tr></table>Bu durumda Mükellef (A)'nın 2026 yılı için ödemesi gereken vergi tutarı ne kadardır?",
+    "options": [
+      "A) 377.750 ₺",
+      "B) 169.050 ₺",
+      "C) 49.050 ₺",
+      "D) 41.500 ₺",
+      "E) 31.640 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A AŞ'nin 2026 yılı kurum kazancı 300.000 ₺'dir. Kızılay'a şirket tarafından 90.000 ₺ makbuz karşılığı bağış yapılmıştır. Ayrıca şirket tarafından aynı yıl içinde 15.000 ₺ geçici vergi ödenmiştir.\n\n5520 sayılı Kurumlar Vergisi Kanunu'na göre ödenecek vergi kaç ₺'dir? (Kurumlar vergisi oranı %25 kabul edilecektir.)",
+    "options": [
+      "A) 75.000",
+      "B) 73.850",
+      "C) 70.000",
+      "D) 37.500",
+      "E) 10.000"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre aşağıdakilerden hangisi matraha dahil olan unsurlardan değildir?",
+    "options": [
+      "A) Ambalaj giderleri, sigorta, komisyon ve benzeri gider karşılıkları",
+      "B) Teslim alanın gösterdiği yere kadar satıcı tarafından yapılan taşıma giderleri",
+      "C) Resim, harç, pay ve fon karşılığı gibi unsurlar",
+      "D) Faturada gösterilen ticari teamüllere uygun miktarda yapılan iskontolar",
+      "E) Vade farkı, kur farkı, faiz, prim gibi çeşitli gelirler"
+    ],
+    "answer": 3
+  }
+],
+"Deneme Sınavı 02 (Genel Tarama)":  [
+  {
+    "q": "A, 5 Mayıs 2025 tarihinde vefat etmiştir. A'nın vefat tarihi itibariyle 2025 yılı hesaplarının incelenmesinden ziyaa uğratılan 100.000 ₺ gelir vergisi, 300.000 ₺ vergi ziyaı cezası ile ayrıca gecikme faizi borcu bulunmaktadır.\n\nBuna göre A'nın mirası kabul eden mirasçılarının sorumluluğuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Mirasçılar vergi ve gecikme faizinden sorumludur.",
+      "B) Mirasçılar sadece vergiden sorumludur.",
+      "C) Mirasçılar, ölen mükellefin ceza dahil bütün borçlarından sorumludur.",
+      "D) Mirasçılar sadece gecikme faizinden sorumludur.",
+      "E) Mirasçılar, ölen mükellefin ceza dahil herhangi bir borcundan sorumlu değildir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mükellef Z'ye 400.000 ₺ özel usulsüzlük cezası kesilmiştir. Z'nin yurt dışına kaçması ve Türkiye'de bilinen bir adresinin bulunmaması nedeniyle diğer tebliğ usullerinden sonuç alınamamıştır. Gerekli şartların oluşması üzerine cezanın ilanen tebliğ edilmesine karar verilmiştir. İlan, vergi dairesi panosuna 13.03.2026 tarihinde asılmış ve gerekli duyurular yapılmıştır.\n\n213 sayılı Vergi Usul Kanunu'na göre söz konusu cezanın mükellefe tebliğ edildiği sayılan tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 04.05.2026",
+      "B) 19.05.2026",
+      "C) 04.06.2026",
+      "D) 28.04.2026",
+      "E) 31.12.2026"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre tahsil zamanaşımının hesaplanmasında esas alınan temel unsur aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Verginin vadesi",
+      "B) Verginin beyan süresi",
+      "C) Verginin tahakkuk süresi",
+      "D) Vergiyi doğuran olay",
+      "E) Verginin tebliği"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Hazine ve Maliye Bakanlığı personeli, şehirler arası yük taşıma faaliyetiyle uğraşan D'nin Mersin'den Ankara'ya gitmekte olan kamyonu durdurarak araçta sevk irsaliyesinin olup olmadığını kontrol etmişlerdir.\n\n213 sayılı Vergi Usul Kanunu'na göre Hazine ve Maliye Bakanlığı görevlilerinin yapmış oldukları bu işlem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Yoklama",
+      "B) Vergi incelemesi",
+      "C) Arama",
+      "D) Bilgi toplama",
+      "E) Kovuşturma"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mükellef T'nin 01.02.2026 tarihinde vergi muafiyeti kalkmıştır. Fakat zor durumda bulunan mükellef T, defter tasdiki ödevini zamanında yerine getiremeyeceği için aynı tarihte Hazine ve Maliye Bakanlığına yazı ile mühlet isteminde bulunmuş ve Hazine ve Maliye Bakanlığı, verginin alınması tehlikeye girmeyeceğinden gösterilen mazereti kabule layık görmüştür.\n\n213 sayılı Vergi Usul Kanunu'na göre Hazine ve Maliye Bakanlığı tarafından mükellef T'ye en geç hangi tarihe kadar mühlet verilebilir?",
+    "options": [
+      "A) 11.02.2026",
+      "B) 21.02.2026",
+      "C) 01.03.2026",
+      "D) 11.03.2026",
+      "E) 31.12.2026"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre aşağıdaki eylemlerden hangisi için hapis cezası öngörülmemiştir?",
+    "options": [
+      "A) Defter ve kayıtlarda muhasebe hilesi yapmak",
+      "B) Kayda konu olmayan kişiler adına hesap açmak",
+      "C) Sahte belge kullanmak",
+      "D) Tasdiki mecburi defterleri tasdik ettirmemek",
+      "E) Muhteviyatı itibariyle yanıltıcı belge düzenlemek"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Mükellef K hakkında 2026 yılında vergi incelemesi yapılmış ve yapılan re'sen vergi tarhı sonucunda kendisine 200.000 ₺ vergi ziyaı cezası kesilmiştir. Mükellef K, ihbarnamenin tebliğini takip eden 30 gün içinde vergi dairesine başvurarak cezalarda indirim uygulamasından yararlanmıştır.\n\n213 sayılı Vergi Usul Kanunu'na göre mükellef K'nin cezalarda indirim müessesinden yararlanması sonucunda ödemesi gereken ceza tutarı kaç ₺'dir?",
+    "options": [
+      "A) 100.000",
+      "B) 50.000",
+      "C) 25.000",
+      "D) 10.000",
+      "E) 5.000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre aşağıdakilerden hangisi vergi hatalarının meydana çıkarılması yollarından biri değildir?",
+    "options": [
+      "A) İlgili memurun hatayı bulması",
+      "B) Hatanın iç teftiş sırasında meydana çıkarılması",
+      "C) Vergi incelemesi sırasında hatanın görülmesi",
+      "D) Hatanın dava aşamasında hâkim tarafından fark edilmesi",
+      "E) Mükellefin başvurması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre vergiye uyumlu mükelleflere gelir vergisi indirimi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Şartları taşıyanların yıllık gelir vergisi beyannamesi üzerinden hesaplanan verginin %5'i ödenmesi gereken gelir vergisinden indirilir.",
+      "B) İndirimin hesaplanacağı beyannamenin ait olduğu yıl ile bu yıldan önceki son iki yıla ait vergi beyannamelerinin kanuni süresinde verilmiş olması gerekir.",
+      "C) İndirimin hesaplanacağı beyannamenin ait olduğu yıl ile bu yıldan önceki son iki yıl içerisinde kesinleşmiş olması koşuluyla vergi beyannamelerindeki vergi türleri itibarıyla ikmalen, resen veya idarece yapılmış bir tarhiyat bulunmaması gerekir.",
+      "D) İndirimin hesaplanacağı beyannamenin ait olduğu yıl ile bu yıldan önceki son on yıl içerisinde sahte belge düzenlenmemiş olması gerekir.",
+      "E) İndirilecek tutarın ödenmesi gereken vergiden fazla olması durumunda kalan tutar, yıllık gelir vergisi beyannamesinin verilmesi gereken tarihi izleyen bir tam yıl içinde mükellefin beyanı üzerine tahakkuk eden diğer vergilerinden mahsup edilebilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ahmet, X Anonim Şirketinin yönetim kurulu başkanıdır ve şirket kârından her yıl kendisine %26 pay verilmektedir.\n\n193 sayılı Gelir Vergisi Kanunu'na göre Ahmet'in şirket kârından aldığı pay aşağıdaki gelir unsurlarından hangisinin kapsamındadır?",
+    "options": [
+      "A) Ücret",
+      "B) Serbest meslek kazancı",
+      "C) Menkul sermaye iradı",
+      "D) Ticari kazanç",
+      "E) Gayrimenkul sermaye iradı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Zirai kazancın vergilendirilmesine ilişkin aşağıda yer alan ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Stopaj sadece küçük çiftçilerin elde etmiş olduğu gelire uygulanır.",
+      "B) Büyük çiftçiler stopajla ödemiş olduğu vergiyi yıllık beyanname ile hesaplanan vergiden mahsup edilemez.",
+      "C) Büyük çiftçiler için stopaj öne vergilendirme olarak kabul edilirken, küçük çiftçilerin için nihai vergilendirme olarak kabul edilir.",
+      "D) Küçük çiftçilerin defter tutma yükümlülüğünün yanı sıra yapmış olduğu işlemler için fatura düzenleme yükümlülüğü bulunmaktadır.",
+      "E) Büyük çiftçilerin yapmış olduğu satışlara ilişkin fatura düzenleme yükümlülüğü bulunmamaktadır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A. A.Ş., maliyet bedeli 400 ₺, emsal satış bedeli 600 ₺ olan 1 kg demiri, ortağı olduğu ve (Y)'ye 180 ₺'ye satmıştır.\n\nBu olayda transfer fiyatlandırması yoluyla örtülü kazanç dağıtımı tutarı kaç ₺'dir?",
+    "options": [
+      "A) 420",
+      "B) 400",
+      "C) 220",
+      "D) 200",
+      "E) 180"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre aşağıdakilerden hangisi kurum kazancının tespitinde kabul edilen giderlerden biridir?",
+    "options": [
+      "A) Öz sermaye üzerinden ödenen faizler",
+      "B) Transfer fiyatlandırması yoluyla örtülü olarak dağıtılan kazançlar",
+      "C) Hisse senedi ihraç giderleri",
+      "D) Her ne şekilde ve ne isimle olursa olsun ayrılan yedek akçeler",
+      "E) Örtülü sermaye üzerinden ödenen veya hesaplanan faiz ve benzeri giderler"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre aşağıdaki işlemlerden hangisi katma değer vergisine tabi değildir?",
+    "options": [
+      "A) Ticari faaliyet kapsamında yapılan teslim ve hizmetler",
+      "B) Posta, telefon, telgraf, teleks ve bunlara benzer hizmetler ile radyo ve televizyon hizmetleri",
+      "C) Profesyonel sanatçıların yer aldığı gösteriler ve konserler ile profesyonel sporcuların katıldığı sportif faaliyetler, maçlar, yarışlar ve yarışmalar tertiplenmesi, gösterilmesi",
+      "D) Her türlü mal ve hizmet ithalatı",
+      "E) Bankalar tarafından yapılan faiz, kâr payı vb. yapılan ödeme"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Katma değer vergisinde götürü usulde vergilendirilenler açısından vergilendirme dönemi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 7 gün",
+      "B) 15 gün",
+      "C) 1 ay",
+      "D) 3 ay",
+      "E) 1 yıl"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Ticari faaliyeti gerçek usulde vergilendirilen T, vermiş olduğu yıllık gelir vergisi beyannamesi üzerinden beyan ettiği kazancı için 2026 yılında 2.000.000 ₺ gelir vergisi hesaplamıştır. Mükellef T, vergiye uyumlu mükelleflere yönelik vergi indiriminden faydalanmaktadır. Ayrıca mükellefin yıl içinde ödemiş olduğu geçici vergi 400.000 ₺'dir.\n\n193 sayılı Gelir Vergisi Kanunu'na göre T'nin ödemesi gereken vergi kaç ₺'dir?",
+    "options": [
+      "A) 1.900.000",
+      "B) 1.800.000",
+      "C) 1.600.000",
+      "D) 1.500.000",
+      "E) 2.280.000"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bilanço esasına göre defter tutan pastane işletmecisi Gelir Vergisi Mükellefi K, 2026 takvim yılında bu faaliyetinden dolayı 2.000.000 ₺ kâr elde etmiştir.<br><br>Mükellef yıl içinde;<br>- Kendisi için 100.000 ₺ Bağ-Kur primi ödemiştir.<br>- Yıl içinde 200.000 TL geçici vergi ödemiştir.<br>- Çalışmayan eşi adına 500.000 ₺ analık sigorta primi ödemiştir.<br>- 14 yaşındaki çocuğu için KDV dahil 400.000 ₺ özel okul harcaması yapmıştır.<br><br><b>2026 yılı gelir vergisi tarifesi</b><br><table style='width: 100%; max-width: 650px; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px;'><tr><td style='border: 1px solid #ccc; padding: 6px;'>190.000 TL'ye kadar</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center; width: 60px;'>% 15</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>400.000 TL'nin 190.000 TL'si için 28.500 TL, fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 20</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>1.000.000 TL'nin 400.000 TL'si için 70.500 TL (ücret gelirlerinde 1.500.000 TL'nin 400.000 TL'si için 70.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 27</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 TL'nin 1.000.000 TL'si için 232.500 TL (ücret gelirlerinde 5.300.000 TL'nin 1.500.000 TL'si için 367.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 35</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 TL'den fazlasının 5.300.000 TL'si için 1.737.500 TL (ücret gelirlerinde 5.300.000 TL'den fazlasının 5.300.000 TL'si için 1.697.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 40</td></tr></table>Bu bilgilere göre, Mükellef K'nin 2026 yılı gelir vergisi beyannamesi düzenlenirken eşi için ödemiş olduğu analık sigortasının ne kadarı indirime konu edilebilir?",
+    "options": [
+      "A) 500.000",
+      "B) 285.000",
+      "C) 250.000",
+      "D) 190.000",
+      "E) 95.000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bilanço esasına göre defter tutan pastane işletmecisi Gelir Vergisi Mükellefi K, 2026 takvim yılında bu faaliyetinden dolayı 2.000.000 ₺ kâr elde etmiştir.<br><br>Mükellef yıl içinde;<br>- Kendisi için 100.000 ₺ Bağ-Kur primi ödemiştir.<br>- Yıl içinde 200.000 TL geçici vergi ödemiştir.<br>- Çalışmayan eşi adına 500.000 ₺ analık sigorta primi ödemiştir.<br>- 14 yaşındaki çocuğu için KDV dahil 400.000 ₺ özel okul harcaması yapmıştır.<br><br><b>2026 yılı gelir vergisi tarifesi</b><br><table style='width: 100%; max-width: 650px; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px;'><tr><td style='border: 1px solid #ccc; padding: 6px;'>190.000 TL'ye kadar</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center; width: 60px;'>% 15</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>400.000 TL'nin 190.000 TL'si için 28.500 TL, fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 20</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>1.000.000 TL'nin 400.000 TL'si için 70.500 TL (ücret gelirlerinde 1.500.000 TL'nin 400.000 TL'si için 70.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 27</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 TL'nin 1.000.000 TL'si için 232.500 TL (ücret gelirlerinde 5.300.000 TL'nin 1.500.000 TL'si için 367.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 35</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 TL'den fazlasının 5.300.000 TL'si için 1.737.500 TL (ücret gelirlerinde 5.300.000 TL'den fazlasının 5.300.000 TL'si için 1.697.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 40</td></tr></table>Bu bilgilere göre, Mükellef K'nin 2026 yılı gelir vergisi beyannamesi düzenlenirken 14 yaşındaki çocuğu için ödemiş olduğu özel okul harcamasının ne kadarı indirime konu edilebilir?",
+    "options": [
+      "A) 400.000",
+      "B) 285.000",
+      "C) 250.000",
+      "D) 190.000",
+      "E) 95.000"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bilanço esasına göre defter tutan pastane işletmecisi Gelir Vergisi Mükellefi K, 2026 takvim yılında bu faaliyetinden dolayı 2.000.000 ₺ kâr elde etmiştir.<br><br>Mükellef yıl içinde;<br>- Kendisi için 100.000 ₺ Bağ-Kur primi ödemiştir.<br>- Yıl içinde 200.000 TL geçici vergi ödemiştir.<br>- Çalışmayan eşi adına 500.000 ₺ analık sigorta primi ödemiştir.<br>- 14 yaşındaki çocuğu için KDV dahil 400.000 ₺ özel okul harcaması yapmıştır.<br><br><b>2026 yılı gelir vergisi tarifesi</b><br><table style='width: 100%; max-width: 650px; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px;'><tr><td style='border: 1px solid #ccc; padding: 6px;'>190.000 TL'ye kadar</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center; width: 60px;'>% 15</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>400.000 TL'nin 190.000 TL'si için 28.500 TL, fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 20</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>1.000.000 TL'nin 400.000 TL'si için 70.500 TL (ücret gelirlerinde 1.500.000 TL'nin 400.000 TL'si için 70.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 27</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 TL'nin 1.000.000 TL'si için 232.500 TL (ücret gelirlerinde 5.300.000 TL'nin 1.500.000 TL'si için 367.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 35</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 TL'den fazlasının 5.300.000 TL'si için 1.737.500 TL (ücret gelirlerinde 5.300.000 TL'den fazlasının 5.300.000 TL'si için 1.697.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 40</td></tr></table>Bu bilgilere göre, Mükellef K'nin 2026 yılı gelir vergisi beyannamesinde esas alınacak vergi matrahı kaç ₺'dir?",
+    "options": [
+      "A) 1.260.000",
+      "B) 1.425.000",
+      "C) 1.460.000",
+      "D) 1.550.000",
+      "E) 1.630.000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bilanço esasına göre defter tutan pastane işletmecisi Gelir Vergisi Mükellefi K, 2026 takvim yılında bu faaliyetinden dolayı 2.000.000 ₺ kâr elde etmiştir.<br><br>Mükellef yıl içinde;<br>- Kendisi için 100.000 ₺ Bağ-Kur primi ödemiştir.<br>- Yıl içinde 200.000 TL geçici vergi ödemiştir.<br>- Çalışmayan eşi adına 500.000 ₺ analık sigorta primi ödemiştir.<br>- 14 yaşındaki çocuğu için KDV dahil 400.000 ₺ özel okul harcaması yapmıştır.<br><br><b>2026 yılı gelir vergisi tarifesi</b><br><table style='width: 100%; max-width: 650px; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px;'><tr><td style='border: 1px solid #ccc; padding: 6px;'>190.000 TL'ye kadar</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center; width: 60px;'>% 15</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>400.000 TL'nin 190.000 TL'si için 28.500 TL, fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 20</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>1.000.000 TL'nin 400.000 TL'si için 70.500 TL (ücret gelirlerinde 1.500.000 TL'nin 400.000 TL'si için 70.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 27</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 TL'nin 1.000.000 TL'si için 232.500 TL (ücret gelirlerinde 5.300.000 TL'nin 1.500.000 TL'si için 367.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 35</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>5.300.000 TL'den fazlasının 5.300.000 TL'si için 1.737.500 TL (ücret gelirlerinde 5.300.000 TL'den fazlasının 5.300.000 TL'si için 1.697.500 TL), fazlası</td><td style='border: 1px solid #ccc; padding: 6px; text-align: center;'>% 40</td></tr></table>Bu bilgilere göre, Mükellef K'nin 2026 yılı ödemesi gereken gelir vergisi kaç ₺'dir?",
+    "options": [
+      "A) 381.250",
+      "B) 181.250",
+      "C) 425.000",
+      "D) 225.000",
+      "E) 453.000"
+    ],
+    "answer": 1
+  }
   ]
 }
