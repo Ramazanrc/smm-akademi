@@ -9369,5 +9369,227 @@
     ],
     "answer": 1
   }
-  ]
+  ],
+  "Deneme Sınavı 03 (Genel Tarama)":  [
+  {
+    "q": "Sahibi olduğu apartman dairesini 2025 yılında mesken olarak kiraya veren ve istisna haddinin üzerinde kira geliri elde eden Ali, bu gelirini kanuni süresi içinde beyan etmiştir. Vergi dairesi 2026 yılında yaptığı inceleme neticesinde kira gelirlerinin eksik beyan edildiğini tespit etmiş ve bulunan matrah farkı üzerinden mükellefe gelir vergisi tarhiyatı yapılmıştır.\n\n213 sayılı Vergi Usul Kanunu'na göre Mükellef Ali adına yapılan tarhiyat türü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Düzeltme yoluyla tarhiyat",
+      "B) Beyana dayalı tarhiyat",
+      "C) Resen tarhiyat",
+      "D) İkmalen tarhiyat",
+      "E) İdarece tarhiyat"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre ödeme emrinde aşağıdaki bilgilerden hangisi yer almaz?",
+    "options": [
+      "A) Borcun mahiyet ve miktarı",
+      "B) Borcun nereye ödeneceği",
+      "C) Tebliğ tarihinden itibaren 15 gün içinde borçların ödenmesi veya mal bildiriminde bulunulması gerektiği",
+      "D) Gerçeğe aykırı bildirimde bulunanların hapisle cezalandırılacağı",
+      "E) Tebliğ tarihinden itibaren 30 gün içinde dava konusu yapılabileceği"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre<br><br>I. Usulsüzlük cezası<br>II. İzah zammı<br>III. Gecikme faizi<br><br>uygulamalarından hangileri ferî nitelikte bir kamu alacağıdır?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "I. Mükellef sürenin bitmesinden önce yazı ile talepte bulunmalıdır<br>II. Talepte gösterilecek mazeret, Hazine ve Maliye Bakanlığı tarafından onaylanmalıdır<br>III. Mühletin verilmesi halinde vergi alacağının tahsili tehlikeye girmemelidir<br><br>213 sayılı Vergi Usul Kanunu'na göre yukarıdakilerden hangileri Hazine ve Maliye Bakanlığınca zor durumda olanlara vergi ödevlerini yerine getirmeleri için münasip bir mühlet verilebilmesinde gerekli koşullardandır?",
+    "options": [
+      "A) Yalnız III",
+      "B) II ve III",
+      "C) I ve III",
+      "D) I ve II",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Zirai faaliyetle uğraşan gelir vergisi mükellefi A'nın 2026 yılı beyanının vergi incelemesine tabi tutulması sonucunda defter, kayıt ve belgelerini tahrif ettiği gerekçesiyle 600.000 ₺ vergi ziyaına sebebiyet verdiği, işletmesinde çalışan personelin de menfaat temin etmeksizin bu suça iştirak ettiği tespit edilmiştir.\n\nBuna göre personele kesilecek vergi ziyaı cezası kaç ₺'dir?",
+    "options": [
+      "A) 300.000",
+      "B) 450.000",
+      "C) 600.000",
+      "D) 900.000",
+      "E) 1.800.000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mesleki faaliyeti dolayısıyla gelir vergisi mükellefi P'nin, hakkında yapılan ön tespitler neticesinde kaçakçılık suçu oluşturmayan fiil ile 120.000 ₺ vergi ziyaına sebebiyet verdiği tespit edilmiş ve koşulları sağlayarak izaha davet edilen P, süresi içinde izahta bulunmuştur.\n\n213 sayılı Vergi Usul Kanunu'na göre izahı yeterli bulunmaması hâlinde süresi içinde düzeltme beyannamesi veren P'nin ödemesi gereken vergi ziyaı cezası tutarı kaç ₺'dir?",
+    "options": [
+      "A) 12.000",
+      "B) 24.000",
+      "C) 36.000",
+      "D) 48.000",
+      "E) 96.000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre<br><br>I. Uzlaşma<br>II. Pişmanlık ve Islah<br>III. Yanılma<br><br>hallerinin hangilerinden yararlanılması durumunda vergi ziyaı cezası kesilmez?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "(X) A.Ş.'nin 2025 hesap dönemi 4. geçici vergi dönemi ticari kazancı 100.000 ₺, kanunen kabul edilmeyen gider niteliğinde olan giderleri 50.000 ₺, indirebileceği geçmiş yıl zararı tutarı ise 10.000 ₺'dir. (X) A.Ş.'nin 2025 yılı birinci geçici vergi döneminde 5.000 ₺ geçici vergi ödemiş olup, ikinci ve üçüncü geçici vergi dönemlerinde ödenecek geçici vergi tutarı oluşmamıştır.\n\nYukarıda yer alan veriler doğrultusunda (X) A.Ş.'nin 2025 yılı 4. geçici vergi döneminde ödemesi gereken geçici vergi tutarını hesaplayınız? (Kurumlar vergisi oranı %25 olarak kabul edilecektir)",
+    "options": [
+      "A) 40.000",
+      "B) 35.000",
+      "C) 30.000",
+      "D) 25.000",
+      "E) 20.000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Otel işletmeciliği faaliyetinde bulunan A Anonim Şirketi 01.06.2025 - 31.05.2026 tarihleri arasında özel hesap dönemine tabidir.\n\n5520 sayılı Kurumlar Vergisi Kanunu'na göre A Anonim Şirketi, kurumlar vergisini en geç hangi tarihe kadar ödemelidir?",
+    "options": [
+      "A) 31.03.2026",
+      "B) 30.04.2026",
+      "C) 30.04.2027",
+      "D) 30.09.2026",
+      "E) 31.12.2026"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi katma değer vergisi uygulamasında tam tevkifat uygulanacak işlemlerden biri değildir?",
+    "options": [
+      "A) İkametgahı, işyeri, kanuni merkezi ve iş merkezi Türkiye'de bulunmayanlar tarafından yapılan işlemler",
+      "B) Yapım işleri ile bu işlerle birlikte ifa edilen mühendislik - mimarlık ve etüt - proje hizmetleri",
+      "C) Serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetler",
+      "D) Kiralama işlemleri",
+      "E) Reklam verme işlemleri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Vergilendirme dönemi takvim yılı olan ticari kazanç sahibi mükellef M'nin geçici vergi dönemlerine ilişkin kazancı aşağıdaki tabloda verilmiştir.<br><br><table style='width: 100%; max-width: 500px; border-collapse: collapse; margin-top: 10px; margin-bottom: 15px;'><tr><td style='border: 1px solid #ccc; padding: 6px; font-weight: bold;'>Vergilendirme Dönemleri</td><td style='border: 1px solid #ccc; padding: 6px; font-weight: bold; text-align: right;'>Ticari Kazanç</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>1. Dönem (Ocak - Mart)</td><td style='border: 1px solid #ccc; padding: 6px; text-align: right;'>50.000 ₺</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>2. Dönem (Nisan - Haziran)</td><td style='border: 1px solid #ccc; padding: 6px; text-align: right;'>100.000 ₺</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>3. Dönem (Temmuz - Eylül)</td><td style='border: 1px solid #ccc; padding: 6px; text-align: right;'>150.000 ₺</td></tr><tr><td style='border: 1px solid #ccc; padding: 6px;'>4. Dönem (Ekim - Aralık)</td><td style='border: 1px solid #ccc; padding: 6px; text-align: right;'>200.000 ₺</td></tr></table>Yıl sonunda mükellef M'nin yıllık gelir vergisi beyannamesi üzerinden 34.000 ₺ gelir vergisi hesaplanmıştır.\n\n193 sayılı Gelir Vergisi Kanunu'na göre mükellef M'nin ödemesi gereken gelir vergisi kaç ₺'dir?",
+    "options": [
+      "A) 7.500",
+      "B) 4.400",
+      "C) 3.500",
+      "D) 4.000",
+      "E) 14.000"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 193 sayılı Gelir Vergisi Kanunu'nda düzenlenmiş olan bir istisna değildir?",
+    "options": [
+      "A) Özel okul istisnası",
+      "B) Telif kazançları istisnası",
+      "C) Genç girişimcilerde kazanç istisnası",
+      "D) Sergi ve panayır istisnası",
+      "E) Risturn istisnası"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre vergiye uyumlu mükelleflere vergi indirimi uygulamasından yararlanmak için indirimin hesaplanacağı beyannamenin ait olduğu yıl ile bu yıldan önceki son kaç yıla ait vergi beyannamelerinin kanuni süresinde verilmiş olması gerekir?",
+    "options": [
+      "A) Bir",
+      "B) İki",
+      "C) Üç",
+      "D) Dört",
+      "E) Beş"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, telif haklarının müellifleri veya bunların kanuni mirasçıları dışındaki kişiler tarafından kiralanmasından elde edilen gelirler aşağıdaki hangi gelir unsuru kapsamında vergilendirilir?",
+    "options": [
+      "A) Gayrimenkul sermaye iradı",
+      "B) Menkul sermaye iradı",
+      "C) Ücret",
+      "D) Serbest meslek kazancı",
+      "E) Ticari kazanç"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 193 sayılı Gelir Vergisi Kanunu uyarınca düzenlenmiş olan bir istisna değildir?",
+    "options": [
+      "A) Genç girişimcilerde kazanç istisnası",
+      "B) Kreş ve gündüz bakımevleri işletmelerinde kazanç istisnası",
+      "C) Ücret İstisnası",
+      "D) İthalat istisnası",
+      "E) Serbest meslek kazançlarında istisna"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Emekli A, serbest meslek faaliyetiyle uğraşan B'ye senet karşılığı 100.000 ₺ borç vermiştir. B süre dolamasına rağmen borcunu ödememiş, A alacağını tahsil etmek için icra müdürlüğüne başvurmuştur. İcra müdürlüğü iki ay sonra 100.000 ₺ anapara ve 2.000 ₺ alacak faizini borçludan tahsil ederek A'ya ödemiştir.\n\n193 sayılı GVK'ye göre, A'nın elde ettiği 2.000 ₺ alacak faizi aşağıdaki kazanç ve iratlardan hangisi kapsamındadır?",
+    "options": [
+      "A) Ticari kazanç",
+      "B) Ücret",
+      "C) Menkul sermaye iradı",
+      "D) Arızi kazanç",
+      "E) Serbest meslek kazancı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, aşağıdakilerden hangisi ticari kazancın vergilendirilmesinde safi kazancın tespit edilmesi için indirimi kabul edilen giderler arasında değildir?",
+    "options": [
+      "A) Ticari kazancın elde edilmesi ve idame ettirilmesi için yapılan genel giderler",
+      "B) İşletme ile ilgili olmak şartıyla; bina, arazi, gider, istihlak, damga, belediye vergileri, harçlar ve kaydiyeler gibi ayni vergi, resim ve harçlar",
+      "C) İşle ilgili olmak şartıyla, mukavelenameye veya ilama veya kanun emrine istinaden ödenen zarar, ziyan ve tazminatlar",
+      "D) Teşebbüs sahibinin kendisine işletmeden ödenen aylıklar, ücretler, ikramiyeler, komisyonlar ve tazminatlar",
+      "E) İşverenler tarafından ücretliler adına bireysel emeklilik sistemine ödenen katkı payları"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre aşağıdakilerden hangisi katma değer vergisinde vergiyi doğuran olay ile ilgili olarak yanlıştır?",
+    "options": [
+      "A) Mal teslimi ve hizmet ifası hâllerinde, malın teslimi veya hizmetin yapılması",
+      "B) Malın tesliminden veya hizmetin yapılmasından önce fatura veya benzeri belgeler verilmesi hâllerinde, bu belgelerde gösterilen miktarla sınırlı olmak üzere fatura veya benzeri belgelerin düzenlenmesi",
+      "C) Kısım kısım mal teslimi veya hizmet yapılması mutad olan veya bu hususlarda mutabık kalınan hâllerde, teslimin veya hizmetin tamamının yapılması",
+      "D) Komisyoncular vasıtasıyla yapılan satışlarda, malların alıcıya teslimi",
+      "E) Malın alıcıya veya onun adına hareket edenlere gönderilmesi hâlinde, malın nakliyesine başlanması veya nakliyeci veya sürücüye tevdii"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanunu'na göre, bir malın alıcı veya onun adına hareket edenlerin gösterdiği yere veya kişilere tevdii hukuken aşağıdakilerden hangisi hükmündedir?",
+    "options": [
+      "A) Hizmet",
+      "B) Teslim",
+      "C) İlk iktisap",
+      "D) Kayıt",
+      "E) Tescil"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, vergiden istisna edilmiş işlemleri yapanların, istisnadan vazgeçeceklerine ilişkin talepleri üzerine, vergi dairesince, vergi mükellefiyetleri talep tarihinden itibaren tesis olunur.\n\n3065 sayılı Katma Değer Vergisi Kanunu'na göre, bu şekilde mükellef olanlar kaç yıl geçmedikçe mükellefiyetten çıkamazlar?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 4 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 2
+  }
+]
 }
