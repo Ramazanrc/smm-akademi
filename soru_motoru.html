@@ -416,16 +416,6 @@ function kilitAc() {
     </div>
 
     <script>
-        // 1. GÜVENLİK
-        (function(){
-            const k = "KR-NGO-2026-VIP";
-            if(localStorage.getItem("license_key") !== k){
-                let p = prompt("SMM Akademi Portalı Lisans Şifresini Giriniz:");
-                if(p === k) { localStorage.setItem("license_key", k); } 
-                else { document.body.innerHTML = "<h1 style='padding:50px; text-align:center;'>Erişim Reddedildi.</h1>"; }
-            }
-        })();
-
         let tumKategoriler = {}; let aktifSorular = []; let mevcutSoruIndex = 0; let aktifKategoriAdi = ""; 
         let dogruSayisi = 0; let yanlisSayisi = 0; let bosSayisi = 0;
         let isIncelemeMode = false; 
