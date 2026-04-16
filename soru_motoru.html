@@ -580,11 +580,14 @@ function kilitAc() {
             let denemeKonular = []; // YENİ: Denemeleri en sona almak için özel dizi
 
             Object.keys(tumKategoriler).forEach((konuAdi) => { 
+                const kucukHarf = konuAdi.toLowerCase();
                 if (konuAdi.includes('||')) { 
                     let parcalar = konuAdi.split('||'); 
                     if (!gruplar[parcalar[0]]) gruplar[parcalar[0]] = []; 
                     gruplar[parcalar[0]].push({ tamAd: konuAdi, altBaslik: parcalar[1] }); 
-                } else if (konuAdi.toLowerCase().includes('deneme') || konuAdi.toLowerCase().includes('tarama')) {
+                } 
+                // BURASI SİHİRLİ BÖLÜM: Deneme veya Tarama yazanları yakalayıp özel diziye atıyoruz
+                else if (kucukHarf.includes('deneme') || kucukHarf.includes('tarama') || kucukHarf.includes('genel tarama') || kucukHarf.includes('simülasyon')) {
                     denemeKonular.push(konuAdi);
                 } else { 
                     normalKonular.push(konuAdi); 
@@ -593,14 +596,15 @@ function kilitAc() {
 
             let isFirst = true;
 
-            // 1. Normal Konuları Bas
+            // 1. Normal Konuları Bas (SARI KLASÖR İKONU)
             normalKonular.forEach((konuAdi) => { 
                 const btn = document.createElement('div'); 
                 btn.className = 'nav-item ' + (isFirst ? 'active' : ''); 
                 isFirst = false;
                 
                 const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
-                let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-folder-open"; let ikonRenk = ""; let ekstraStil = "";
+                let kayitRozeti = ""; let bitisRozeti = ""; 
+                let ikon = "fa-folder"; let ikonRenk = "color:#f97316;"; let ekstraStil = "";
                 
                 let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + konuAdi); 
                 let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
@@ -691,14 +695,15 @@ function kilitAc() {
                 listeDiv.appendChild(altKonuKutusu);
             });
 
-            // 3. Denemeleri Bas (En Alta ve Şık Bir Vurguyla)
+            // 3. Denemeleri Bas (EN ALTA YILDIZLI VE VURGULU OLARAK)
             denemeKonular.forEach((konuAdi) => { 
                 const btn = document.createElement('div'); 
                 btn.className = 'nav-item ' + (isFirst ? 'active' : ''); 
                 isFirst = false;
                 
                 const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
-                let kayitRozeti = ""; let bitisRozeti = ""; let ikon = "fa-star"; let ikonRenk = "color:#f97316;"; 
+                let kayitRozeti = ""; let bitisRozeti = ""; 
+                let ikon = "fa-star"; let ikonRenk = "color:#f97316;"; 
                 
                 let ekstraStil = "border: 1px solid rgba(249, 115, 22, 0.4); margin-top: 15px; background: rgba(249, 115, 22, 0.05); box-shadow: 0 4px 6px rgba(0,0,0,0.1);";
                 
