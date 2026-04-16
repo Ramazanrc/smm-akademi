@@ -7988,5 +7988,832 @@
       ],
       "answer": 4
     }
-  ]
+  ],
+  "Hukuk Karma Denemesi (Çıkmış Sorular Klasik)": [
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre aşağıdakilerden hangisi \"sebepsiz zenginleşmenin\" unsurlarından biri değildir?",
+    "options": [
+      "A) Zenginleşme",
+      "B) Yoksullaşma",
+      "C) Kusur",
+      "D) Nedensellik bağı",
+      "E) Haklı bir sebebin bulunmaması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre anonim şirketlerin zorunlu organları aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+    "options": [
+      "A) Yönetim Kurulu - Denetim Kurulu",
+      "B) Genel Kurul - Denetim Kurulu",
+      "C) Ortaklar Kurulu - Müdür",
+      "D) Yönetim Kurulu - Ortaklar Kurulu",
+      "E) Yönetim Kurulu - Genel Kurul"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Ticari işletmede tacir adına faaliyet gösteren yardımcılar \"bağımlı\" ve \"bağımsız\" olarak ikiye ayrılır. Buna göre aşağıdakilerden hangisi tacirin \"bağımlı\" yardımcılarından biri değildir?",
+    "options": [
+      "A) Ticari temsilci",
+      "B) Acente",
+      "C) Ticari vekil",
+      "D) Pazarlamacı",
+      "E) Seyyar tacir memuru"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu uyarınca kural olarak iş sözleşmeleri şekil şartına tabi olmamakla birlikte, bazı sözleşmelerin yazılı yapılması zorunludur. Aşağıdakilerden hangisi yazılı yapılması kanunen zorunlu olan iş sözleşmelerinden biri değildir?",
+    "options": [
+      "A) Belirli süreli iş sözleşmesi (Süresi 1 yıl ve daha fazla olan)",
+      "B) Takım sözleşmesi",
+      "C) Çağrı üzerine çalışmayı öngören iş sözleşmesi",
+      "D) Süresi 6 aydan az olan belirsiz süreli iş sözleşmesi",
+      "E) Deneme süreli iş sözleşmesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Borçlar hukukuna göre hukuksal işlemler çeşitli kriterlere göre sınıflandırılır. Aşağıdakilerden hangisi bu sınıflandırma kriterlerinden biri değildir?",
+    "options": [
+      "A) Hüküm ve sonuçlarını doğurdukları ana göre",
+      "B) Malvarlığına etkilerine göre",
+      "C) İspat yükümlülüğünün kime ait olduğuna göre",
+      "D) Sebebe bağlı olup olmadıklarına göre",
+      "E) Taraf sayısına göre"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre ticaret şirketleri nitelikleri bakımından şahıs ve sermaye şirketleri olarak ayrılır. Aşağıdakilerden hangisi TTK'da düzenlenen bir \"sermaye\" şirketi türüdür?",
+    "options": [
+      "A) Kollektif şirket",
+      "B) Adi komandit şirket",
+      "C) Adi şirket",
+      "D) Sermayesi paylara bölünmüş komandit şirket",
+      "E) Kooperatif"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İş Kanunu'na göre aşağıdakilerden hangisi işçinin işverene karşı yerine getirmekle yükümlü olduğu temel borçlardan biri değildir?",
+    "options": [
+      "A) İş görme borcu",
+      "B) İtaat borcu",
+      "C) İş araç ve malzemelerini temin etme borcu",
+      "D) Sadakat borcu",
+      "E) İşverenin talimatlarına uyma borcu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre aşağıdakilerden hangisi bir faaliyetin \"ticari işletme\" sayılabilmesi için aranan unsurlardan biri değildir?",
+    "options": [
+      "A) Gelir sağlamayı hedef tutmak",
+      "B) Esnaf işletmesi düzeyini aşacak şekilde faaliyet göstermek",
+      "C) Devamlılık",
+      "D) Bağımsızlık",
+      "E) Tüzel kişiliğe sahip olmak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Komandit şirketlerle ilgili aşağıdaki ifadelerden hangisi kesinlikle yanlıştır?",
+    "options": [
+      "A) Komandite ortakların gerçek kişi olmaları zorunludur.",
+      "B) Tüzel kişiler komandit şirkette ancak komanditer ortak olabilirler.",
+      "C) Komanditer ortaklar, ortak sıfatıyla şirketi temsile kural olarak yetkilidirler.",
+      "D) Şirket sözleşmesinde aksine hüküm bulunmamak şartıyla, komanditer ortak ticari vekil olarak atanabilir.",
+      "E) Komandit şirketler, kural olarak komandite ortaklar tarafından temsil edilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre \"Tüketim Ödüncü Sözleşmesi\"nde faiz istenebilmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Ticari olmayan tüketim ödüncü sözleşmelerinde taraflarca kararlaştırılmamış olsa bile faiz istenebilir.",
+      "B) Ticari tüketim ödüncü sözleşmelerinde, taraflarca kararlaştırılmamış olsa bile faiz istenebilir.",
+      "C) Hiçbir tüketim ödüncü sözleşmesinde faiz talep edilemez.",
+      "D) Faiz sadece bankalar aracılığıyla yapılan ödünç işlemlerinde istenebilir.",
+      "E) Ticari ödünç sözleşmelerinde faiz istenebilmesi için faiz oranının sözleşmede mutlaka yazılı olarak belirtilmesi şarttır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre, idari işlemlerin menfaatleri ihlal edilenler tarafından iptali istemiyle açılan iptal davalarında, işlem aşağıdaki yönlerden hangisi bakımından hukuka aykırılık gerekçesiyle incelenmez?",
+    "options": [
+      "A) Yetki",
+      "B) Şekil",
+      "C) Sebep",
+      "D) Kusur",
+      "E) Maksat"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türk Borçlar Kanunu'nda \"kusura dayalı sorumluluk\" ana kural olmakla birlikte bazı istisnai durumlarda \"kusursuz sorumluluk\" halleri düzenlenmiştir. Aşağıdakilerden hangisi kanunda düzenlenen kusursuz sorumluluk hallerinden biri değildir?",
+    "options": [
+      "A) Adam çalıştıranın sorumluluğu",
+      "B) Yapı malikinin sorumluluğu",
+      "C) Hayvan bulunduranın sorumluluğu",
+      "D) Tehlike sorumluluğu",
+      "E) Haksız fiil sorumluluğu"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Türk Ticaret Kanunu'nda yer alan \"kambiyo senetlerinin\" (Poliçe, Bono, Çek) genel özellikleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bir alacak hakkını içerir ve bir borç ilişkisini kurucu niteliktedir.",
+      "B) İmzaların ve beyanların bağımsızlığı (istiklali) ilkesi geçerlidir.",
+      "C) Temelindeki asıl borç ilişkisine (sebebe) sıkı sıkıya bağlı (illî) senetlerdir.",
+      "D) Kanun gereği emre yazılı senetler olarak kabul edilirler.",
+      "E) Senedi imzalayanlar, kefil sıfatı ile imzalamış olsalar dahi müteselsil borçlu durumundadır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre aşağıdakilerden hangisi geçerli bir poliçede bulunması gereken zorunlu unsurlardan biri değildir?",
+    "options": [
+      "A) Metinde \"poliçe\" kelimesinin (veya o dildeki karşılığının) bulunması",
+      "B) Belli bir paranın kayıtsız şartsız ödenmesi için havale",
+      "C) Ödeyecek olanın (muhatabın) adı ve soyadı/unvanı",
+      "D) Vade tarihi",
+      "E) Tanzim (düzenleme) yeri ve tarihi ile keşidecinin imzası"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'nun 8. maddesinde yer alan tanıma göre, aşağıdakilerden hangisi bir iş sözleşmesinin kurucu (temel) unsurları arasında yer almaz?",
+    "options": [
+      "A) İş görme",
+      "B) Ücret",
+      "C) Bağımlılık",
+      "D) Zaman",
+      "E) Denetim altinda olma"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sözleşme özgürlüğü sınırlarının aşılması, örneğin zamanaşımına tabi bir alacağın kanunun öngördüğünden farklı bir zamanaşımı süresine bağlanması veya ahlaka, kamu düzenine aykırı şartlar içermesi durumunda sözleşmenin hukuki durumu (yaptırımı) aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İptal edilebilirlik",
+      "B) Nispi butlan",
+      "C) Tek taraflı bağlamazlık",
+      "D) Kesin hükümsüzlük (Mutlak butlan)",
+      "E) Yokluk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki durumlardan hangisinde Borçlar Kanunu'na göre \"Sebepsiz Zenginleşme\" davası açılamaz?",
+    "options": [
+      "A) Borcu olmadığı halde hataen (yanlışlıkla) yapılan ödemenin geri istenmesinde",
+      "B) Haksız veya ahlaka aykırı bir amaç elde etmek için yapılan ödemenin geri istenmesinde",
+      "C) Geçerli olmayan bir sözleşmeye dayanılarak verilen peşinatın geri istenmesinde",
+      "D) İleride gerçekleşmesi beklenen ancak gerçekleşmeyen bir sebeple yapılan ödemenin geri istenmesinde",
+      "E) Sebebi sonradan ortadan kalkan bir işlem dolayısıyla verilenlerin geri istenmesinde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kollektif bir şirketin, ticaret siciline tescil işlemi yapılmadan şirket adına ticari işlemlere ve faaliyetlere başlanması halinde; bu dönemde yapılan işlerden dolayı ortakların üçüncü kişilere karşı sorumluluk türü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Sınırlı sorumluluk",
+      "B) İkinci dereceden (tali) sorumluluk",
+      "C) Yalnızca şirkete koymayı taahhüt ettikleri sermaye kadar sorumluluk",
+      "D) Müteselsil (sınırsız / tacir gibi) sorumluluk",
+      "E) Kusur oranında şahsi sorumluluk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre, vergi mahkemelerinde dava açılması kural olarak tarh edilen vergi, resim ve harçların tahsil işlemlerini kendiliğinden durdurur. Ancak aşağıdaki durumlardan hangisinde dava açılması tahsil işlemini durdurmaz?",
+    "options": [
+      "A) İkmalen yapılan vergi tarhiyatlarına karşı açılan davalar",
+      "B) Re'sen yapılan vergi tarhiyatlarına karşı açılan davalar",
+      "C) İhtirazi kayıtla verilen beyannameler üzerine yapılan işlemlerden dolayı açılan davalar",
+      "D) İdarece yapılan tarhiyatlara karşı açılan davalar",
+      "E) Vergi ziyaı ve usulsüzlük cezalarına karşı süresi içinde açılan iptal davaları"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'nun (İYUK) 10. maddesinde yapılan güncel değişikliğe göre; ilgililerin idari davaya konu olabilecek bir işlem veya eylemin yapılması için idari makamlara yaptıkları başvurularda, idarenin cevap vermemesi halinde bekleme süresi (istemin zımnen reddedilmiş sayılma süresi) kaç güne indirilmiştir?",
+    "options": [
+      "A) 15 gün",
+      "B) 30 gün",
+      "C) 45 gün",
+      "D) 60 gün",
+      "E) 90 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu uyarınca, sermaye şirketlerinden \"limited şirket\" ortaklarının 4/b (Bağ-Kur) kapsamındaki sigortalılığı aşağıda belirtilen anların hangisinden itibaren başlar?",
+    "options": [
+      "A) Şirket ana sözleşmesinin noterde onaylandığı tarihten itibaren",
+      "B) Ortaklık pay defterine kayıt edildikleri tarihten itibaren",
+      "C) Şirketin ticaret sicili memurluklarınca tescil edildikleri tarihten itibaren",
+      "D) Şirketin vergi levhasını aldığı tarihten itibaren",
+      "E) Şirketin ilk faturasını kestiği tarihten itibaren"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Borçlar Hukuku doktrinine göre aşağıdakilerden hangisi \"doğuştan eksik kabul edilen borçlar\" (eksik borç) arasında yer almaz?",
+    "options": [
+      "A) Kumar ve bahisten doğan borçlar",
+      "B) Evlenme tellallığından doğan ücret borçları",
+      "C) Ahlaki ödevlerin yerine getirilmesinden doğan borçlar",
+      "D) Sözleşmeden doğan eksik borçlar",
+      "E) Zamanaşımına uğramış alacaklardan doğan borçlar"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre aşağıdakilerden hangisi sigortalının vefatı halinde \"Ölüm Sigortasından\" sağlanan haklardan biri değildir?",
+    "options": [
+      "A) Hak sahiplerine ölüm aylığı bağlanması",
+      "B) Hak sahiplerine ölüm toptan ödemesi yapılması",
+      "C) Aylık almakta olan kız çocuklarına evlenme ödeneği verilmesi",
+      "D) Geride kalan eşe işsizlik ödeneği verilmesi",
+      "E) Cenaze ödeneği verilmesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, aynı işverenin işyerinde 8 yıldır aralıksız çalışan 40 yaşındaki bir işçinin hak edeceği yıllık ücretli izin süresi en az kaç gün olmalıdır?",
+    "options": [
+      "A) 14 gün",
+      "B) 16 gün",
+      "C) 20 gün",
+      "D) 24 gün",
+      "E) 26 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre, idareye yapılan başvurularda idarenin verdiği cevap süresinde olmakla birlikte \"kesin değilse\", ilgili kişi bu cevabı istemin reddi sayarak dava açabileceği gibi kesin cevabı da bekleyebilir. Kanuna göre ilgilinin bu kesin cevabı bekleme süresi en fazla ne kadardır?",
+    "options": [
+      "A) 1 ay",
+      "B) 3 ay",
+      "C) 4 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İş Kanunu'na göre bir işçinin bir yıldaki fazla çalışma süresinin kanuni azami miktarı ne kadardır?",
+    "options": [
+      "A) 90 saat",
+      "B) 120 saat",
+      "C) 270 saat",
+      "D) 300 saat",
+      "E) 360 saat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İş Kanunu'na göre, mücbir bir neden olmaksızın ücreti ödeme gününden itibaren kaç gün içinde ödenmeyen işçi, iş görme borcunu yerine getirmekten kaçınabilir?",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 20 gün",
+      "E) 30 gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre, mahkeme kararlarının süresi içinde kamu görevlilerince yerine getirilmemesi halinde maddi ve manevi tazminat davası kime karşı açılabilir?",
+    "options": [
+      "A) Sadece kararı yerine getirmeyen kamu görevlisine",
+      "B) Kamu görevlisine ve idareye müştereken",
+      "C) Ancak ilgili idare aleyhine",
+      "D) Hazine ve Maliye Bakanlığı'na",
+      "E) İlgili bakanlığa şahsen"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari mahkemelerin esasa ve yürütmenin durdurulmasına ilişkin kararlarının icaplarına göre idarenin gecikmeksizin işlem tesis etmesi zorunludur. Bu süre hiçbir şekilde kararın idareye tebliğinden başlayarak en fazla ne kadar olabilir?",
+    "options": [
+      "A) 15 gün",
+      "B) 30 gün",
+      "C) 60 gün",
+      "D) 90 gün",
+      "E) 6 ay"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu, kural olarak hangi temel kanunun ayrılmaz bir parçası olarak kabul edilir?",
+    "options": [
+      "A) Türk Borçlar Kanunu",
+      "B) Türk Medeni Kanunu",
+      "C) Hukuk Muhakemeleri Kanunu",
+      "D) İcra ve İflas Kanunu",
+      "E) Vergi Usul Kanunu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ticari davalarda dava şartı olan arabuluculuk sürecinde, arabulucu görevlendirildiği tarihten itibaren kural olarak kaç hafta içinde başvuruyu sonuçlandırır ve bu süre zorunlu hallerde en fazla ne kadar uzatılabilir?",
+    "options": [
+      "A) 4 hafta + 1 hafta uzatma",
+      "B) 4 hafta + 2 hafta uzatma",
+      "C) 6 hafta + 2 hafta uzatma",
+      "D) 8 hafta + 2 hafta uzatma",
+      "E) 8 hafta + 4 hafta uzatma"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre, kanunda aksine bir hüküm bulunmadıkça, her alacak genel kural olarak kaç yıllık zamanaşımına tabidir?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 5 yıl",
+      "D) 10 yıl",
+      "E) 20 yıl"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre inşaat, balıkçılık ve tarım işyerlerinde hizmet akdiyle işe başlatılacak sigortalılar için işe giriş bildirgesi en geç ne zaman Kuruma verilmelidir?",
+    "options": [
+      "A) İşe başlamadan en az 1 gün önce",
+      "B) En geç çalışmaya başlatıldığı gün",
+      "C) Çalışmaya başlandığı tarihi takip eden 15 gün içinde",
+      "D) Çalışmaya başlandığı ayı takip eden ayın sonuna kadar",
+      "E) İşe başlamadan en az 3 gün önce"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5510 sayılı Kanun uyarınca 4/1-a (SSK) kapsamında sigortalı sayılanlar için işten ayrılış bildirgesi, hizmet akdinin sona erdiği tarihi takip eden kaç gün içinde verilmelidir?",
+    "options": [
+      "A) 3 gün",
+      "B) 5 gün",
+      "C) 10 gün",
+      "D) 15 gün",
+      "E) 30 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Konut ve çatılı işyeri kiralarında, kiracı belirli süreli sözleşmelerin süresinin bitiminden en az ne kadar süre önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl için uzatılmış sayılır?",
+    "options": [
+      "A) 15 gün",
+      "B) 1 ay",
+      "C) 2 ay",
+      "D) 3 ay",
+      "E) 6 ay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdaki mahkemelerden hangisinin görev alanına giren uyuşmazlıkların çözümünde İdari Yargılama Usulü Kanunu (İYUK) uygulanmaz?",
+    "options": [
+      "A) Danıştay",
+      "B) Bölge İdare Mahkemeleri",
+      "C) İdare Mahkemeleri",
+      "D) Vergi Mahkemeleri",
+      "E) Sayıştay"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "18 yaşından küçük olan A'ya bir ticari işletme miras kalmış ve yasal temsilcisi (velisi) işletmeyi A adına işletmeye başlamıştır. TTK'ya göre bu durumda tacir sıfatı kime aittir ve ceza hükümleri kime uygulanır?",
+    "options": [
+      "A) Tacir sıfatı veliye aittir, cezalar veliye uygulanır.",
+      "B) Tacir sıfatı A'ya aittir, cezalar da A'ya uygulanır.",
+      "C) Tacir sıfatı A'ya aittir, ancak ceza hükümleri yönünden yasal temsilci tacir gibi sorumlu olur.",
+      "D) Tacir sıfatı her ikisine aittir, cezalar müteselsilen uygulanır.",
+      "E) Reşit olana kadar işletme askıya alınır, kimse tacir sayılmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre, kural olarak bir ticari işletmenin açıldığı günden itibaren ticaret siciline tescil ve ilan ettirilmesi için tanınan genel yasal süre ne kadardır?",
+    "options": [
+      "A) 7 gün",
+      "B) 15 gün",
+      "C) 30 gün",
+      "D) 1 ay",
+      "E) 3 ay"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre, özel kanunlarında ayrı süre gösterilmeyen hallerde \"Vergi Mahkemelerinde\" dava açma süresi kaç gündür?",
+    "options": [
+      "A) 7 gün",
+      "B) 15 gün",
+      "C) 30 gün",
+      "D) 45 gün",
+      "E) 60 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre konut ve çatılı işyerlerinin kira bedeli sözleşmede yabancı para olarak kararlaştırılmışsa, kural olarak ne kadarlık bir süre geçmedikçe kira bedelinde bir değişiklik yapılamaz?",
+    "options": [
+      "A) 1 yıl",
+      "B) 3 yıl",
+      "C) 5 yıl",
+      "D) 8 yıl",
+      "E) 10 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kiraya veren, gereksinim (ihtiyaç) amacıyla kiralananın boşaltılmasını sağladığında, haklı sebep olmaksızın kiralananı kaç yıl geçmedikçe eski kiracısından başkasına kiralayamaz?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 4 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TTK'ya göre aşağıdaki ticari uyuşmazlıkların hangisinde dava açılmadan önce arabulucuya başvurulmuş olması bir zorunlu dava şartı değildir?",
+    "options": [
+      "A) Konusu bir miktar para olan alacak davaları",
+      "B) Tazminat davaları",
+      "C) İtirazın iptali davaları",
+      "D) Menfi tespit davaları",
+      "E) Ticaret sicilinden terkin davaları"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre, kural olarak (şirket kuruluşu hariç) bir işveren işyeri bildirgesini Kuruma en geç ne zaman vermekle yükümlüdür?",
+    "options": [
+      "A) İşçi çalıştırmaya başlamadan 1 ay önce",
+      "B) İşçi çalıştırmaya başlamadan en az 1 gün önce",
+      "C) Sigortalı çalıştırmaya başladığı tarihte",
+      "D) Sigortalı çalıştırılmaya başlanılan ayı takip eden 15 gün içinde",
+      "E) İlk prim ödeme döneminin sonuna kadar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dava açıldıktan sonra posta ücretinde tebliğ işlemlerini engelleyecek şekilde azalma olması halinde, yetkili mahkeme görevlisi tarafından ilgiliye eksikliğin tamamlanması için tebliğ edilecek süre ne kadardır?",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre genel olarak zamanaşımı süresi hangi andan itibaren işlemeye başlar?",
+    "options": [
+      "A) Sözleşmenin kurulduğu andan itibaren",
+      "B) Alacağın muaccel olmasıyla",
+      "C) Zararın öğrenildiği andan itibaren",
+      "D) Temerrüt ihtarı yapıldığı andan itibaren",
+      "E) İfa imkansızlığının ortaya çıktığı andan itibaren"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Komandit şirketlerin ticaret unvanının oluşturulmasıyla ilgili aşağıdaki ifadelerden hangisi kesinlikle doğrudur?",
+    "options": [
+      "A) Tüm ortakların ad ve soyadlarının unvanda yer alması zorunludur.",
+      "B) Komanditer ortakların adları ve soyadları unvanda bulunamaz.",
+      "C) Şirketin faaliyet konusunun unvanda yer alması zorunlu değildir.",
+      "D) Unvanda her durumda \"Sermayesi Paylara Bölünmüş\" ibaresi bulunmalıdır.",
+      "E) Sadece tüzel kişi ortakların ticaret unvanları kullanılabilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre malullük aylığı bağlanabilmesi için genel kural olarak en az kaç yıldan beri sigortalı olunması ve kaç gün malullük, yaşlılık ve ölüm sigortaları primi bildirilmiş olması şarttır?",
+    "options": [
+      "A) 5 yıl sigortalılık, 900 gün prim",
+      "B) 10 yıl sigortalılık, 1800 gün prim",
+      "C) 15 yıl sigortalılık, 3600 gün prim",
+      "D) 20 yıl sigortalılık, 5000 gün prim",
+      "E) 25 yıl sigortalılık, 4500 gün prim"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, işi \"bir buçuk yıldan üç yıla kadar\" sürmüş olan bir işçi için yapılacak fesih bildirimlerinde sözleşme, bildirimin diğer tarafa yapılmasından başlayarak ne kadar süre sonra feshedilmiş sayılır?",
+    "options": [
+      "A) 2 hafta",
+      "B) 4 hafta",
+      "C) 6 hafta",
+      "D) 8 hafta",
+      "E) 12 hafta"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Ticaret Kanunu'nda yer alan \"ticari iş karinesi\" kavramını en doğru şekilde ifade eden seçenek aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Sadece ticaret siciline kayıtlı şirketlerin yaptıkları işlemlerin ticari sayılmasıdır.",
+      "B) Tacirin yaptığı her türlü işin, kural olarak ticari iş sayılmasıdır.",
+      "C) Esnaf faaliyeti sınırını aşmayan işlemlerin her durumda adi iş sayılmasıdır.",
+      "D) Taraflardan her ikisinin de tacir olduğu durumlarda sözleşmenin ticari sayılmasıdır.",
+      "E) Tüketici işlemleri dışındaki tüm sözleşmelerin ticari iş olarak nitelendirilmesidir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre, tahakkuku tahsile bağlı olan vergilerde, tevkif yoluyla alınan vergilerde ve tescile bağlı vergilerde dava açma süresi kural olarak hangi tarihten itibaren başlar?",
+    "options": [
+      "A) Verginin beyan edildiği tarihi izleyen günden itibaren",
+      "B) İdarenin tebligat yaptığı tarihi izleyen günden itibaren",
+      "C) Tahsilatın, ödemenin veya tescilin yapıldığı tarihi izleyen günden itibaren",
+      "D) Verginin kanuni ödeme süresinin son gününden itibaren",
+      "E) Uzlaşma tutanağının imzalandığı tarihten itibaren"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Komandit şirketlerin ticaret unvanının oluşturulmasıyla ilgili aşağıdaki ifadelerden hangisi kanuna göre kesinlikle doğrudur?",
+    "options": [
+      "A) Tüm ortakların (komandite ve komanditer) ad ve soyadlarının unvanda yer alması zorunludur.",
+      "B) Yalnızca sermaye payı en yüksek olan komanditerin adı unvanda yer alabilir.",
+      "C) Komanditer ortakların adları, soyadları veya ticaret unvanları ticaret unvanında bulunamaz.",
+      "D) Unvanda \"komanditer\" ibaresiyle birlikte gizli ortakların isimlerine de yer verilebilir.",
+      "E) Yalnızca tüzel kişi komanditerlerin unvanları ticaret unvanına eklenebilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ticaret şirketlerinin sicile tescili ile tüzel kişilik kazanmaları ve şirket ana sözleşmesinin ancak ticaret siciline tescil edilmesiyle değiştirilebilmesi durumu, ticaret sicil kayıtlarının hangi etkisine/özelliğine örnektir?",
+    "options": [
+      "A) Açıklayıcı (Bildirici) etki",
+      "B) İyiniyeti ortadan kaldıran etki",
+      "C) Kurucu (İhdasi / Yaratıcı) etki",
+      "D) İyileştirici etki",
+      "E) Düzenleyici etki"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre şirket kuruluşunun ticaret sicili memurluklarına bildirilmesi halinde, \"işyeri bildirgesinin\" SGK'ya verilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Şirket ortakları 1 ay içinde ayrıca Kuruma işyeri bildirgesi vermek zorundadır.",
+      "B) Bildirim yükümlülüğü tamamen ortadan kalkar, SGK resen ve bildirimsiz kayıt açar.",
+      "C) Ticaret sicili memurlukları kendilerine yapılan bu bildirimi en geç 10 gün içinde Kuruma bildirmek zorundadır, ilgililerce ayrıca işyeri bildirgesi düzenlenmez.",
+      "D) Mali müşavir tarafından şirket kuruluşunu takip eden 15 gün içinde e-bildirge verilmelidir.",
+      "E) Bildirim ticaret siciline yapılsa dahi, SGK'ya ıslak imzalı işyeri bildirgesi teslimi zorunludur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre, dava açıldıktan sonra posta ücretinde tebliğ işlemlerini engelleyecek şekilde azalma olması halinde otuz gün içinde tamamlanması istenir. Verilen sürede bu ücretin tamamlanmaması halinde dosya işlemden kaldırılır. \n\nİşlemden kaldırılan dosyanın, bu kararın tebliğinden başlayarak ne kadarlık süre içinde noksanı tamamlanarak yeniden işleme konulması istenmezse \"davanın açılmamış sayılmasına\" karar verilir?",
+    "options": [
+      "A) 1 ay",
+      "B) 2 ay",
+      "C) 3 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre sebepsiz zenginleşmeden doğan istem hakkı, hak sahibinin geri isteme hakkı olduğunu öğrendiği tarihten başlayarak kaç yılın ve her hâlde zenginleşmenin gerçekleştiği tarihten başlayarak kaç yılın geçmesiyle zamanaşımına uğrar?",
+    "options": [
+      "A) 1 yıl / 5 yıl",
+      "B) 2 yıl / 10 yıl",
+      "C) 5 yıl / 10 yıl",
+      "D) 2 yıl / 5 yıl",
+      "E) 1 yıl / 10 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'nun kapsamı ve istisnaları düşünüldüğünde, aşağıdaki iş ve iş ilişkilerinden hangisinde İş Kanunu hükümleri uygulanır?",
+    "options": [
+      "A) Deniz ve hava taşıma işlerinde",
+      "B) Ev hizmetlerinde",
+      "C) Sporcular hakkında",
+      "D) 50'den fazla işçi çalıştıran tarım ve orman işyerlerinde",
+      "E) Bir ailenin üyeleri ve 3 üncü dereceye kadar hısımları arasında dışardan başka biri katılmayarak evlerde yapılan el sanatlarında"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre konut ve çatılı işyerlerinin kira bedeli sözleşmede \"yabancı para\" olarak kararlaştırılmışsa, (Aşırı ifa güçlüğü vb. istisnalar saklı kalmak kaydıyla) kural olarak ne kadarlık bir süre geçmedikçe kira bedelinde bir değişiklik yapılamaz?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 5 yıl",
+      "E) 10 yıl"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kiraya veren, \"gereksinim (ihtiyaç) amacıyla\" kiralananın boşaltılmasını sağladığında, haklı sebep olmaksızın kiralananı 3 yıl geçmedikçe eski kiracısından başkasına kiralayamaz. Bu yasak hükmüne aykırı davranan kiraya veren, eski kiracısına ne miktarda tazminat ödemekle yükümlüdür?",
+    "options": [
+      "A) Yeni kiracıdan aldığı bir yıllık kira bedeli tutarında",
+      "B) Eski kiracının taşınma ve emlak komisyonu masrafları toplamı kadar",
+      "C) Son kira yılında ödenmiş olan bir yıllık kira bedelinden az olmamak üzere",
+      "D) 6 aylık kira bedeli tutarında",
+      "E) Mahkemenin hakkaniyete göre belirleyeceği maktu bir miktar kadar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre, yetkili mahkemenin bir davaya bakmasına engel çıkması veya iki mahkemenin yetki sınırlarında tereddüt edilmesi halinde, uyuşmazlık \"aynı yargı çevresindeki mahkemeler arasında çıkmamışsa\" (sair hallerde), merci tayini istemiyle dava dosyaları nereye gönderilir?",
+    "options": [
+      "A) Uyuşmazlık Mahkemesi'ne",
+      "B) Yargıtay Hukuk Genel Kurulu'na",
+      "C) Danıştay'a",
+      "D) Bölge İdare Mahkemesi'ne",
+      "E) Adalet Bakanlığı'na"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre aşağıdaki ticari davalardan hangisinde dava açılmadan önce arabulucuya başvurulmuş olması bir kanuni zorunluluk (dava şartı) değildir?",
+    "options": [
+      "A) Konusu bir miktar para olan alacak davası",
+      "B) Tazminat davası",
+      "C) İtirazın iptali davası",
+      "D) Menfi tespit davası",
+      "E) Ticaret sicilinden terkin davası"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre Anonim Şirket yönetim kurulu üyeleri, genel kurul tarafından kural olarak en çok kaç yıl süreyle görev yapmak üzere seçilebilirler?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 4 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre 4/1-b (Bağ-Kur) kapsamında sigortalı sayılanların malullük aylığı bağlatabilmesi için, genel şartların yanı sıra yerine getirmeleri gereken ek zorunluluk aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İşyerlerini tamamen kapatmış veya devretmiş olmaları",
+      "B) Vergi mükellefiyetlerini terkin ettirmeleri",
+      "C) Kendi sigortalılığı nedeniyle genel sağlık sigortası primi dâhil, prim ve prime ilişkin hiçbir borcunun bulunmaması",
+      "D) Son 3 yıl içinde primlerini düzenli (kesintisiz) ödemiş olmaları",
+      "E) Ticaret sicilinden ve meslek odasından kayıtlarını sildirmeleri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre 4/1-a (SSK) kapsamında olanlar için kural olarak işe giriş bildirgesi işe başlamadan en az 1 gün önce verilir. Ancak kanunda sayılan bazı özel işkollarında bildirgenin \"en geç çalışmaya başlatıldığı gün\" verilmesi kabul edilmiştir. \n\nAşağıdakilerden hangisi bu istisnai işkollarından biri değildir?",
+    "options": [
+      "A) İnşaat işyerleri",
+      "B) Tarım işyerleri",
+      "C) Balıkçılık işyerleri",
+      "D) Turizm ve otelcilik işyerleri",
+      "E) Tarım ve Balıkçılık işyerleri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre Danıştay veya idare mahkemelerinde \"yürütmenin durdurulması\" kararı verilebilmesi için hangi iki şartın birlikte gerçekleşmesi kanunen zorunludur?",
+    "options": [
+      "A) İşlemin telafisi güç veya imkânsız zararlar doğurması ve işlemin açıkça hukuka aykırı olması",
+      "B) Davacının teminat yatırması ve işlemin hukuka aykırı olması",
+      "C) İdarenin savunmasının alınmış olması ve davacının maddi mağduriyeti",
+      "D) Davanın 15 gün içinde açılmış olması ve kamu yararının zedelenmesi",
+      "E) İşlemin açıkça hukuka aykırı olması ve idarenin açıkça kusurlu bulunması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, işi \"üç yıldan fazla\" sürmüş olan bir işçi için belirsiz süreli iş sözleşmesinin feshinde uyulması gereken asgari kanuni bildirim (ihbar) süresi ne kadardır?",
+    "options": [
+      "A) 2 hafta",
+      "B) 4 hafta",
+      "C) 6 hafta",
+      "D) 8 hafta",
+      "E) 12 hafta"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na göre, yürütmenin durdurulması istemleri hakkında verilen kararlara karşı, kararın tebliğini izleyen günden itibaren kaç gün içinde \"bir defaya mahsus olmak üzere\" itiraz edilebilir?",
+    "options": [
+      "A) 3 gün",
+      "B) 7 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Türk Borçlar Kanunu'nda kural olarak genel zamanaşımı süresi 10 yıl olmakla birlikte, kanunda tahdidi olarak sayılan bazı alacaklar için 5 yıllık zamanaşımı süresi öngörülmüştür. \n\nAşağıdakilerden hangisi 5 yıllık zamanaşımına tabi alacaklardan biri değildir?",
+    "options": [
+      "A) Dönemsel edimlerden doğan alacaklar (Kira, faiz vb.)",
+      "B) Yeme-içme bedellerinden doğan alacaklar",
+      "C) Küçük nitelikteki perakende satışlardan doğan alacaklar",
+      "D) Sebepsiz zenginleşmeden doğan asli iade alacakları",
+      "E) Otel ve pansiyon konaklama bedellerinden doğan alacaklar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Türk Ticaret Kanunu'nda düzenlenen \"Tacir Olmanın Hükümleri\" arasında yer almaz?",
+    "options": [
+      "A) Tacirin basiretli bir iş adamı gibi davranma yükümlülüğü",
+      "B) Tacirin ticari işletmesiyle ilgili durumlarda ceza indirimini (tenkis) mahkemeden isteyememesi",
+      "C) Tacirin ticari işletmesine ilişkin sözleşmelerde kararlaştırılan ücret ve faizi talep etme hakkı",
+      "D) Tacirin dilerse ticaret unvanı kullanmak zorunda olmaması, işletme adının yeterli sayılması",
+      "E) Tacirin kural olarak ticari örf ve âdete tabi olması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İş Kanunu'na göre, on sekiz ve daha küçük yaştaki işçilerle, elli ve daha yukarı yaştaki işçilere verilecek yıllık ücretli izin süresi, işçinin kıdemi ne olursa olsun kural olarak en az kaç gün olmak zorundadır?",
+    "options": [
+      "A) 14 gün",
+      "B) 16 gün",
+      "C) 20 gün",
+      "D) 24 gün",
+      "E) 26 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre \"ticari örf ve âdetin\", tacir sıfatını haiz bulunmayan bir kişi hakkında uygulanabilmesinin temel şartı nedir?",
+    "options": [
+      "A) Taraflar arasındaki uyuşmazlığın Asliye Ticaret Mahkemesinde görülmesi",
+      "B) Sözleşmede bu hususun yazılı olarak ayrıca kabul edilmesi",
+      "C) Karşı tarafın mutlaka tacir olması",
+      "D) Tacir olmayan kişi tarafından bu örf ve âdetin bilindiği veya bilinmesi gerektiği takdirde",
+      "E) Ticari örf ve âdetin ilgili bölge ticaret odasınca resmi olarak tescil edilmiş olması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "18 yaşından küçük olan A'ya bir ticari işletme miras kalmıştır. Yasal temsilcisi (velisi), işletmeyi A adına işletmektedir. \n\nBu durumda Türk Ticaret Kanunu'na göre tacir sıfatı ve cezai müeyyidelerin muhatabı hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Tacir sıfatı veliye aittir, tüm cezai sorumluluk da velinindir.",
+      "B) Tacir sıfatı A'ya aittir, cezai yaptırımlar yönünden yasal temsilci (veli) tacir gibi sorumlu olur.",
+      "C) Hem A hem de velisi müteselsilen tacir sayılır, cezalar ortak kesilir.",
+      "D) Küçükler tacir olamayacağı için tacir sıfatı doğmaz, işletme adi şirket hükmündedir.",
+      "E) İşletme reşit olana kadar ticaret sicilinden askıya alınır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre, kesin hükümsüz (mutlak butlan) sayılacak bir sözleşmenin içerdiği hükümlerden sadece bir kısmının hükümsüz olması kural olarak diğerlerinin geçerliliğini etkilemez. \n\nAncak kanun, hangi özel durumda sözleşmenin tamamının kesin olarak hükümsüz sayılacağını belirtmiştir?",
+    "options": [
+      "A) Hükümsüz kısmın sözleşme ana bedelinin yarısından fazlasını oluşturması durumunda",
+      "B) Hükümsüzlüğün doğrudan kamu düzenine aykırılıktan kaynaklanması durumunda",
+      "C) Bu hükümler (hükümsüz sayılan kısımlar) olmaksızın sözleşmenin yapılmayacağı açıkça anlaşılırsa",
+      "D) Hükümsüzlüğün hile veya gabin sonucu ortaya çıktığının ispatlanması durumunda",
+      "E) Yargıcın takdirine bağlı olarak tarafların iyi niyetli olmaması durumunda"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre aşağıdakilerden hangisi bir olayın \"İş Kazası\" sayılabilmesi için kanunda bizzat sayılan durumlardan biri değildir?",
+    "options": [
+      "A) Sigortalının işyerinde bulunduğu sırada meydana gelmesi",
+      "B) İşveren tarafından yürütülmekte olan iş nedeniyle meydana gelmesi",
+      "C) Sigortalının, görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda meydana gelmesi",
+      "D) Emziren kadın sigortalının, çocuğuna süt vermek için ayrılan zamanlarda meydana gelmesi",
+      "E) Sigortalının kendi şahsi aracıyla ikametgahından işe gidiş gelişi sırasında meydana gelmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre aşağıdakilerden hangisi sigortalının vefatı halinde \"Ölüm Sigortasından\" hak sahiplerine sağlanan haklardan biri değildir?",
+    "options": [
+      "A) Hak sahiplerine ölüm aylığı bağlanması",
+      "B) Hak sahiplerine ölüm toptan ödemesi yapılması",
+      "C) İşsiz kalan ve geçimi tehlikeye düşen eşe geçici işsizlik ödeneği bağlanması",
+      "D) Aylık almakta olan kız çocuklarına evlenme ödeneği verilmesi",
+      "E) Cenaze ödeneği verilmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4857 sayılı İş Kanunu uygulamaları kapsamında, aşağıdakilerden hangisi SGK'ya \"İşyeri bildirimi\" yapmakla yükümlü olan kanuni aktörler arasında yer almaz?",
+    "options": [
+      "A) İşveren",
+      "B) İşveren Vekili",
+      "C) Alt İşveren",
+      "D) İş Sağlığı ve Güvenliği (İSG) Uzmanı",
+      "E) İşyerini devralan yeni İşveren"
+    ],
+    "answer": 3
+  }
+]
 }
