@@ -199,6 +199,1198 @@
       "correct": 2
     }
   ],
-  "Vergi Hukuku (SGS Çıkmış)": [],
-  "Maliyet Muhasebesi (SGS Çıkmış)": []
+  "Vergi Hukuku (SGS Çıkmış)": [
+    {
+    "q": "Aşağıdakilerden hangisi 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre limited şirket ortaklarının kamu borçlarından doğan sorumluluğuna ilişkin doğru bir ifadedir? (2025/3. Dönem)",
+    "options": [
+      "A) Limited şirket ortakları, kamu borçlarından sadece koydukları sermaye ile sınırlı olarak sorumludur.",
+      "B) Limited şirket ortakları, kamu borçlarından hiçbir şekilde sorumlu tutulamaz; sorumluluk sadece şirket tüzel kişiliğine aittir.",
+      "C) Limited şirket ortakları, şirketten ayrıldıklarında geçmiş kamu borçlarından hiçbir şekilde sorumlu tutulmaz.",
+      "D) Limited şirket ortakları, şirketin ödenmeyen kamu borçlarından sermaye payları oranında ve tüm malvarlıklarıyla müteselsilen sorumludur.",
+      "E) Limited şirket ortaklarının kamu borçlarından sorumluluğu, sadece şirket müdürlerinin kusuru hâlinde doğar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre mükellefiyet ve vergi ödevi ile ilgili aşağıdakilerden hangisi yanlıştır? (2025/3. Dönem)",
+    "options": [
+      "A) Vergi sorumlusu, verginin ödenmesi bakımından, alacaklı vergi dairesine karşı muhatap olan kişidir.",
+      "B) Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet şart değildir.",
+      "C) Vergiyi doğuran olayın kanunlarla yasak edilmiş olması vergi sorumluluğunu kaldırır.",
+      "D) Ölüm halinde mükelleflerin ödevleri, mirası reddetmemiş kanuni ve mansup mirasçılarına geçer.",
+      "E) Vergi muamelelerinde süreler vergi kanunları ile belli edilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "I. Adi şirketler tarafından yapılan serbest meslek faaliyeti dolayısıyla ortakların elde ettiği kazançlar<br>II. Tahkim işleri dolayısıyla hakemlerin aldıkları ücretler<br>III. Avukatların avukatlık bürosunda işverene tabi olarak çalışması neticesinde elde ettiği gelirler<br><br>193 sayılı Gelir Vergisi Kanunu'na göre yukarıdakilerden hangileri serbest meslek kazancıdır? (2025/3. Dönem)",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanunu'na göre aşağıdaki işlemlerden hangisi vergiye tabidir? (2025/3. Dönem)",
+    "options": [
+      "A) Yurtdışından yapılan otomobil ithalatı",
+      "B) KDV'ye tabi olmayan ikinci el konut satışı",
+      "C) Menkul kıymet alım satım işlemi",
+      "D) Hizmet sektöründe verilen danışmanlık hizmeti",
+      "E) Yurtdışına motorlu taşıt satışı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre aşağıdakilerden hangisi kurumlar vergisi mükellefleri arasında yer almaz? (2025/3. Dönem)",
+    "options": [
+      "A) Dernek",
+      "B) İş ortaklığı",
+      "C) Anonim şirket",
+      "D) Limited şirket",
+      "E) İktisadi kamu kuruluşu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 3065 sayılı Katma Değer Vergisi Kanunu'na göre vergiyi doğuran olaydır? (2025/3. Dönem)",
+    "options": [
+      "A) Yurtdışında yerleşik müşteriye verilen hizmetin ifası",
+      "B) Malın alıcıya teslimi",
+      "C) Fatura düzenlenmeksizin sipariş avansının alınması",
+      "D) Malın üretilip depoya konulması",
+      "E) Malın üretilmesi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre aşağıdaki sürelerden hangisi geçtikten sonra vergi ziyaı cezası kesilmez? (2025/2. Dönem)",
+    "options": [
+      "A) Cezanın bağlı olduğu vergi alacağının doğduğu yılı takip eden yılın birinci gününden başlayarak beş yıl",
+      "B) Fiilin gerçekleştiği tarihi izleyen günden itibaren beş yıl",
+      "C) Cezanın bağlı olduğu vergi alacağının doğduğu yılı takip eden yılın birinci gününden başlayarak üç yıl",
+      "D) Fiilin gerçekleştiği tarihi izleyen günden itibaren üç yıl",
+      "E) Cezanın bağlı olduğu vergi alacağının doğduğu yılı takip eden yılın birinci gününden başlayarak altı ay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu düzenlemeleri dikkate alınarak hesaplanan yurt içi asgari kurumlar vergisi, mükelleflerin indirim ve istisnalar düşülmeden önceki kurum kazancının yüzde kaçından az olamaz? (2025/2. Dönem)",
+    "options": [
+      "A) 5",
+      "B) 10",
+      "C) 15",
+      "D) 20",
+      "E) 25"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre aşağıdakilerden hangisi katma değer vergisinde vergiyi doğuran olay ile ilgili olarak yanlıştır? (2025/2. Dönem)",
+    "options": [
+      "A) Mal teslimi ve hizmet ifası hâllerinde, malın teslimi veya hizmetin yapılması",
+      "B) Malın tesliminden veya hizmetin yapılmasından önce fatura veya benzeri belgeler verilmesi hâllerinde, bu belgelerde gösterilen miktarla sınırlı olmak üzere fatura veya benzeri belgelerin düzenlenmesi",
+      "C) Kısım kısım mal teslimi veya hizmet yapılması mutad olan veya bu hususlarda mutabık kalınan hâllerde, teslimin veya hizmetin tamamının yapılması",
+      "D) Komisyoncular vasıtasıyla yapılan satışlarda, malların alıcıya teslimi",
+      "E) Malın alıcıya veya onun adına hareket edenlere gönderilmesi hâlinde, malın nakliyesine başlanması veya nakliyeci veya sürücüye tevdii"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre amme alacağını ödememiş borçlulardan, müddetinde veya hapsen tazyikına rağmen mal beyanında bulunmayanlarla, malı bulunmadığını bildiren veyahut beyan ettiği malların borcuna kifayetsizliği anlaşılanların ödeme müddetinin başladığı tarihten geriye doğru kaç yıl içinde yaptıkları bağışlamalar ve ivazsız tasarruflar hükümsüzdür? (2025/2. Dönem)",
+    "options": [
+      "A) Bir",
+      "B) İki",
+      "C) Üç",
+      "D) Dört",
+      "E) Beş"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir İdaresi Başkanlığı sistemlerinde yer alan ve 213 sayılı Vergi Usul Kanunu'na göre üçüncü kişilerle paylaşılabilen bilgilerin, genel yönetim kapsamındaki kamu idareleri dışındaki kamu kurum ve kuruluşları ve tüzel kişilerle paylaşılması karşılığında sorgu veya dönen kayıt başına 0,35 kuruştan az olmamak üzere alınan bedele ne ad verilir? (2025/2. Dönem)",
+    "options": [
+      "A) Katılma payı",
+      "B) Harç",
+      "C) Şerefiye",
+      "D) Maliyet bedeli",
+      "E) Satınalma bedeli"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre vergiye uyumlu mükelleflere vergi indirimi uygulamasından yararlanmak için indirimin hesaplanacağı beyannamenin ait olduğu yıl ile bu yıldan önceki son kaç yıla ait vergi beyannamelerinin kanuni süresinde verilmiş olması gerekir? (2025/2. Dönem)",
+    "options": [
+      "A) Bir",
+      "B) İki",
+      "C) Üç",
+      "D) Dört",
+      "E) Beş"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanununa göre zirai faaliyet ile iştigal eden komandit şirketlerin komandite ortaklarının şirket kârından aldıkları paylar aşağıdaki gelir unsurlarından hangisinin konusunu oluşturur? (2025/1. Dönem)",
+    "options": [
+      "A) Ticari kazanç",
+      "B) Ücret",
+      "C) Serbest meslek kazancı",
+      "D) Menkul sermaye iradı",
+      "E) Gayrimenkul sermaye iradı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre hasıl olan veya husulü beklenen fakat miktarı katiyetle kestirilemeyen ve teşebbüs için bir borç mahiyetini arz eden belli bazı zararları karşılamak maksadıyla hesaben ayrılan meblağlar aşağıdakilerden hangisi ile ifade edilir? (2025/1. Dönem)",
+    "options": [
+      "A) Mukayyet değer",
+      "B) Zarar",
+      "C) Değerleme",
+      "D) Karşılık",
+      "E) İtibari değer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanununa göre yurt içi asgari kurumlar vergisi açısından aşağıdakilerden hangisi yanlıştır? (2025/1. Dönem)",
+    "options": [
+      "A) Asgari kurumlar vergisinin mükellefleri, Kanun'da sayılan mükelleflerdir.",
+      "B) Türkiye'de elde ettikleri ticari kazançlarını kurumlar vergisi beyannamesi ile beyan etmek zorunda olan dar mükellef kurumlar, asgari kurumlar vergisine tabidir.",
+      "C) Kurumlar vergisinden muaf olan kurumlar vergisi mükellefleri hakkında asgari vergi hükümleri uygulanmaz.",
+      "D) İlk defa faaliyete başlayan kurumlar hakkında faaliyete başlanılan hesap döneminden itibaren üç hesap dönemi boyunca asgari vergi hükümleri uygulanmaz.",
+      "E) Geçici vergi dönemlerinde asgari kurumlar vergisi hesaplaması yapılmaz."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanununa göre engellilerin kullandığı istisnaya tabi kayıt ve tescile tabi binek otomobillerde, istisnadan yararlanma şartı kaç yılda bir defaya mahsus olmak üzere düzenlenmiştir? (2025/1. Dönem)",
+    "options": [
+      "A) 2",
+      "B) 4",
+      "C) 6",
+      "D) 10",
+      "E) 15"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre yevmiye defterine geçirilmiş olan muameleleri buradan alarak usulüne göre hesaplara dağıtan ve tasnifli olarak bu hesaplarda toplayan deftere ne ad verilir? (2025/1. Dönem)",
+    "options": [
+      "A) Defterikebir",
+      "B) Muazene defteri",
+      "C) Envanter defteri",
+      "D) Günlük kasa defteri",
+      "E) İşletme hesabı defteri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanununa göre vergi incelemesi sırasında belgesiz mal bulundurdukları veya hizmet satın aldıkları tespit edilen mükelleflere, bu mal ve hizmetlere ait alış belgelerinin ibrazı için tespit tarihinden itibaren kaç gün süre verilir? (2025/1. Dönem)",
+    "options": [
+      "A) 3",
+      "B) 5",
+      "C) 10",
+      "D) 15",
+      "E) 30"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre yurt dışında yapılan inşaat, onarım, montaj işleri ile teknik hizmetlerden sağlanarak Türkiye'de genel sonuç hesaplarına intikal ettirilen kazançların yüzde kaçı kurumlar vergisinden müstesnadır? (2024/3. Dönem)",
+    "options": [
+      "A) 100",
+      "B) 75",
+      "C) 50",
+      "D) 25",
+      "E) 10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6802 sayılı Gider Vergileri Kanunu'nda özel iletişim vergisine ilişkin hüküm bulunmayan hâllerde hangi kanun hükümleri uygulanır? (2024/3. Dönem)",
+    "options": [
+      "A) Vergi Usul Kanunu",
+      "B) Gelir Vergisi Kanunu",
+      "C) Kurumlar Vergisi Kanunu",
+      "D) Katma Değer Vergisi Kanunu",
+      "E) Harçlar Kanunu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre elektronik ortamda tebligat, aşağıdaki hangi tarihte muhatabına yapılmış sayılır? (2024/3. Dönem)",
+    "options": [
+      "A) Elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda",
+      "B) Elektronik adresine ulaştığı tarihte",
+      "C) Elektronik adresine ulaştığı tarihi izleyen yedinci günün sonunda",
+      "D) Elektronik adresine gönderildiği tarihi izleyen üçüncü günün sonunda",
+      "E) Elektronik adresine gönderildiği tarihte"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "I. Kiraya verilen mal ve hakların kira bedelleri emsal kira bedelinden düşük olamaz.<br>II. Bedelsiz olarak başkalarının intifaına bırakılan mal ve hakların emsal kira bedeli, bu mal ve hakların kirası sayılır.<br>III. Boş kalan gayrimenkullerin muhafazaları maksadıyla bedelsiz olarak başkalarının ikametine bırakılması hâlinde emsal kira bedeli esası uygulanır.<br>IV. Binaların mal sahiplerinin usul, füru veya kardeşlerinin ikametine tahsis edilmesi hâlinde emsal kira bedeli esası uygulanmaz.<br><br>193 sayılı Gelir Vergisi Kanunu'na göre emsal kira bedeli esası ile ilgili yukarıdakilerden hangisi/hangileri doğrudur? (2024/3. Dönem)",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve IV",
+      "C) II ve IV",
+      "D) I, II ve III",
+      "E) I, II ve IV"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre aşağıdakilerden hangisi kurumlar vergisi mükellefleri arasında yer almaz? (2024/3. Dönem)",
+    "options": [
+      "A) Şahıs şirketleri",
+      "B) Kooperatifler",
+      "C) İş ortaklıkları",
+      "D) Derneklere ait iktisadi işletmeler",
+      "E) İktisadi kamu kuruluşları"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre amme borcunun vadesinde ödenmesi amme borçlusunu çok zor duruma düşürecekse, borçlu tarafından yazı ile istenmiş ve teminat gösterilmiş olmak şartıyla, alacaklı amme idaresince; amme alacağının 36 ayı geçmemek üzere ve faiz alınarak ertelenmesi aşağıdaki hangi kavram ile ifade edilir? (2024/3. Dönem)",
+    "options": [
+      "A) Terkin",
+      "B) Teminat",
+      "C) Tecil",
+      "D) İptal",
+      "E) Silinme"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, faaliyeti durdurulan bir işletmenin tamamen elden çıkarılmasından doğan kazançlar aşağıdaki hangi gelir unsurunun konusuna girer? (2024/2. Dönem)",
+    "options": [
+      "A) Ücret",
+      "B) Zirai kazanç",
+      "C) Gayrimenkul sermaye iradı",
+      "D) Serbest meslek kazancı",
+      "E) Değer artış kazancı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu uygulamasında aşağıdakilerden hangisi yanlıştır? (2024/2. Dönem)",
+    "options": [
+      "A) Kurumların tam mükellefiyete tabi başka bir kurumun sermayesine katılımlarından elde ettikleri kazançları vergiden istisnadır.",
+      "B) Kurumların yurt dışında yapılan inşaat, onarım, montaj işleri ile teknik hizmetlerden sağlanarak Türkiye'de genel sonuç hesaplarına intikal ettirilen kazançları vergiden istisnadır.",
+      "C) Kurumlar vergisi, mükelleflerin bir hesap dönemi içinde elde ettikleri safî kurum kazancı üzerinden hesaplanır.",
+      "D) Safi kurum kazancının tespitinde, Gelir Vergisi Kanunu'nun ticarî kazanç hakkındaki hükümleri uygulanmaz.",
+      "E) Kurumların tam mükellefiyete tabi başka bir kurumun kârına katılma imkânı veren kurucu senetleri ile diğer intifa senetlerinden elde ettikleri kâr payları kurumlar vergisinden istisnadır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi söylenemez? (2024/2. Dönem)",
+    "options": [
+      "A) Türkiye sınırları içinde bulunan işyeri niteliğindeki taşınmazlardan belli değerin üzerinde bina vergi değeri olanlar değerli konut vergisine tabidir.",
+      "B) Bina, arsa ya da arazi gibi taşınmazlara ilişkin vergiler belediyeler tarafından tahsil edilir.",
+      "C) Emlak vergisi birinci taksidi Mart, Nisan ve Mayıs aylarında, ikinci taksidi Kasım ayı içinde olmak üzere iki eşit taksitte ödenir.",
+      "D) Bina vergisini binanın maliki, varsa intifa hakkı sahibi, her ikisi de yoksa binaya malik gibi tasarruf edenler öder.",
+      "E) Elbirliği mülkiyette malikler vergiden müteselsilen sorumlu olurlar."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, aşağıdakilerden hangisi vergi tarhı ön işlemlerinden biri değildir? (2024/2. Dönem)",
+    "options": [
+      "A) Yoklama",
+      "B) Uzlaşma",
+      "C) Arama",
+      "D) İzaha davet",
+      "E) İnceleme"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıdakilerden hangisi matraha dahil unsurlar içinde yer almaz? (2024/2. Dönem)",
+    "options": [
+      "A) Prim",
+      "B) Kur farkı",
+      "C) Komisyon",
+      "D) İskonto",
+      "E) Vade farkı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, asgari ücreti aşmayan aylık gelirlerin ne kadarlık kısmından fazlası haczolunamaz? (2024/2. Dönem)",
+    "options": [
+      "A) Onda birinden",
+      "B) Dörtte birinden",
+      "C) Yarısından",
+      "D) Üçte ikisinden",
+      "E) Dörtte üçünden"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, değerli konut vergisi ile ilgili aşağıdakilerden hangisi yanlıştır? (2024/1. Dönem)",
+    "options": [
+      "A) Değerli konut vergisini taşınmazların maliki, varsa intifa hakkı sahibi, her ikisi de yoksa taşınmaza malik gibi tasarruf edenler öder.",
+      "B) Gerek mesken nitelikli gerekse kayıtlarda işyeri olarak gözüküp fiilen de işyeri olarak kullanılan taşınmazlar değerli konut vergisinin konusunu oluşturur.",
+      "C) Taşınmaza paylı mülkiyet hâlinde malik olanlar, hisseleri oranında mükelleftirler.",
+      "D) Taşınmaza elbirliği mülkiyeti şeklinde malik olan kişiler vergiden müteselsilen sorumlu olurlar.",
+      "E) Türkiye sınırları içinde mesken nitelikli tek taşınmazı olanların bu taşınmazı değerli konut vergisinden muaftır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 4760 sayılı Özel Tüketim Vergisi Kanunu'nda düzenlenmemiştir? (2024/1. Dönem)",
+    "options": [
+      "A) İhracat istisnası",
+      "B) Diplomatik istisna",
+      "C) Vergi indirimi",
+      "D) Vergiyi doğuran olay",
+      "E) Kontrol edilen yabancı kurum kazancı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 488 sayılı Damga Vergisi Kanunu'na ekli (1) sayılı tabloda yer alan ve damga vergisine tabi tutulacak kâğıtlardan biri değildir? (2024/1. Dönem)",
+    "options": [
+      "A) Bilançolar",
+      "B) Konşimentolar",
+      "C) Hisse senetleri ve her türlü tahvillerin temettü ve faiz kuponları",
+      "D) Gelir tabloları",
+      "E) Katma değer vergisi beyannameleri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre aşağıdakilerden hangisi tahsil zamanaşımını kesen hallerden biri değildir? (2024/1. Dönem)",
+    "options": [
+      "A) Ödeme emri tebliği",
+      "B) Haciz tatbiki",
+      "C) Kamu alacağının teminata bağlanması",
+      "D) Mal bildirimi, mal edinme ve mal artmalarının bildirilmesi",
+      "E) Borçlunun ölmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu’na göre, mükellefin dava açma süresinin 26’ncı günü tarhiyat sonrası uzlaşmaya başvurması durumunda ancak uzlaşmanın vaki olmaması hâlinde, mükellef kaç gün içinde dava açabilir? (2024/1. Dönem)",
+    "options": [
+      "A) 4",
+      "B) 9",
+      "C) 15",
+      "D) 26",
+      "E) 30"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, \"iştirak hissesi\" deyimi aşağıdakilerden hangisini kapsamaz? (2024/1. Dönem)",
+    "options": [
+      "A) Anonim şirketlerin hisse senetleri",
+      "B) Limited şirketlere ait iştirak payları",
+      "C) İş ortaklıklarına ait ortaklık payları",
+      "D) Anonim şirketlerin tahvilleri",
+      "E) Kooperatiflere ait ortaklık payları"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, aşağıdakilerden hangisi kurum kazancının tespitinde gider olarak indirim konusu yapılamaz? (2023/3. Dönem)",
+    "options": [
+      "A) Kuruluş ve örgütlenme giderleri",
+      "B) Genel kurul toplantıları için yapılan giderler",
+      "C) Sermayesi paylara bölünmüş komandit şirketlerde komandite ortağın kâr payı",
+      "D) Menkul kıymet ihraç giderleri",
+      "E) Transfer fiyatlandırması yoluyla örtülü olarak dağıtılan kazançlar"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, vergi muamelelerinde süreler vergi kanunları ile belli edilir. Kanunda açıkça yazılı olmayan hâllerde kaç günden aşağı olmamak şartıyla bu süreyi, tebliği yapacak olan idarenin belirleme ve ilgiliye tebliğ etme yetkisi vardır? (2023/3. Dönem)",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, haklarında ihtiyati haciz tatbik olunanlar haczin tatbik tarihinden itibaren kaç gün içinde alacaklı tahsil dairesine ait itiraz işlerine bakan vergi itiraz komisyonu nezdinde ihtiyati haciz sebebine itiraz edebilirler? (2023/3. Dönem)",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, bir iktisadi kıymetin muhasebe kayıtlarında gösterilen hesap değerine verilen ad aşağıdakilerden hangisidir? (2023/3. Dönem)",
+    "options": [
+      "A) Borsa rayici",
+      "B) Tasarruf değeri",
+      "C) İtibari değer",
+      "D) Mukayyet değer",
+      "E) Rayiç bedel"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, telif haklarının müellifleri veya bunların kanuni mirasçıları dışındaki kişiler tarafından kiralanmasından elde edilen gelirler aşağıdaki hangi gelir unsuru kapsamında vergilendirilir? (2023/3. Dönem)",
+    "options": [
+      "A) Gayrimenkul sermaye iradı",
+      "B) Menkul sermaye iradı",
+      "C) Ücret",
+      "D) Serbest meslek kazancı",
+      "E) Ticari kazanç"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanunu'na göre, bir malın alıcı veya onun adına hareket edenlerin gösterdiği yere veya kişilere tevdii hukuken aşağıdakilerden hangisi hükmündedir? (2023/3. Dönem)",
+    "options": [
+      "A) Hizmet",
+      "B) Teslim",
+      "C) Tüketim",
+      "D) Kayıt",
+      "E) Tescil"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre yoklama, vergi idaresinin yükümlüleri ve yükümlülükle ilgili maddi olayları, kayıtları ve konuları saptamaya yönelik araştırma işlemidir.<br><br>Buna göre aşağıdaki seçeneklerde sayılanlardan hangisi vergi idaresince yapılan yoklama işlemine örnek teşkil etmez? (2023/2. Dönem)",
+    "options": [
+      "A) Veraset ve intikal vergisinde beyan konusu bir gayrimenkulün varlığının yerinde saptanması",
+      "B) Gelir vergisinde serbest meslek erbabının işe başladığının işyerinde araştırılması",
+      "C) İşi bırakma bildiriminin doğruluğunun işyerinde araştırılması",
+      "D) Faturasız mal bulunup bulunmadığının iş yerinde araştırılması",
+      "E) Vergi kaçırdığı yolunda kuvvetli şüpheler bulunan kişinin işyerinde vergi suçuna ilişkin delillerin toplanması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 193 sayılı Gelir Vergisi Kanunu hükümlerine göre menkul sermeye iradı olarak nitelendirilemez? (2023/2. Dönem)",
+    "options": [
+      "A) Hisse senetlerinden elde edilen kâr payları",
+      "B) İştirak hisselerinden doğan kazançlar",
+      "C) Mevduat faizleri",
+      "D) Repo gelirleri",
+      "E) Değer artışı kazançları"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Katma Değer Vergisi (KDV) uygulamasında teslim veya hizmet bedeli üzerinden hesaplanan verginin teslim veya hizmeti yapanlar tarafından değil, bu işlemlere muhatap olanlar tarafından kısmen veya tamamen vergi sorumlusu sıfatıyla beyan edilip ödenmesine ne ad verilir? (2023/2. Dönem)",
+    "options": [
+      "A) KDV tevkifatı",
+      "B) KDV istisnası",
+      "C) KDV indirimi",
+      "D) KDV iadesi",
+      "E) KDV muafiyeti"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, vergi matrahının tespitinde kurumlar vergisi beyannamesinde her yıla ilişkin tutarlar ayrı ayrı gösterilmek şartıyla, geçmiş yılların beyannamelerinde yer alan zararlar kaç yıldan fazla nakledilmemek şartıyla indirim konusu yapılır? (2023/2. Dönem)",
+    "options": [
+      "A) 5",
+      "B) 6",
+      "C) 7",
+      "D) 8",
+      "E) 10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisinden müstesna değildir? (2023/2. Dönem)",
+    "options": [
+      "A) Cumhurbaşkanınca vergi muafiyeti tanınan vakıflara kuruluşu için veya kurulduktan sonra tahsis olunan mallar",
+      "B) Genel bütçeye dahil dairelerle katma bütçeli idareler bütçelerinden kamu iktisadi teşebbüslerine yapılacak iktisadi transferler ve yardımlar",
+      "C) Bilumum sadakalar",
+      "D) Örf ve âdete göre verilmesi mutat bulunan gayrimenkuller",
+      "E) Veraset tariki ile intikal eden ev eşyası ile murise ait zat eşyası"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "488 sayılı Damga Vergisi Kanunu'na göre, damga vergisi hakkında aşağıdakilerden hangisi yanlıştır? (2023/2. Dönem)",
+    "options": [
+      "A) Damga vergisinin mükellefi Kanuna ekli tabloda yazılı kâğıtları imza edenlerdir.",
+      "B) Resmî dairelerle kişiler arasındaki işlemlere ait kâğıtlardan damga vergisi alınmaz.",
+      "C) Bir kâğıtta birbirinden tamamen ayrı birden fazla akit ve işlem bulunduğu takdirde bunların her birinden ayrı ayrı vergi alınır.",
+      "D) Bir kâğıdın tabi olacağı verginin tayini için o kâğıdın mahiyetine bakılır ve buna göre tabloda yazılı vergisi bulunur.",
+      "E) Pey akçesi, cayma tazminatı, ücret tevkifi, cezai şart gibi bir sözleşmenin müeyyidesi mahiyetinde olan taahhütlerden, başlı başına bir sözleşmeye konu olmadıkça damga vergisi alınmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 488 sayılı Damga Vergisi Kanunu uygulamasında resmî daire sayılmaz? (2023/1. Dönem)",
+    "options": [
+      "A) İl özel idaresi",
+      "B) Yatırım İzleme ve Koordinasyon Başkanlığı",
+      "C) Resmî daireye bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletme",
+      "D) Özel bütçeli idare",
+      "E) Genel bütçeli idare"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu’na göre, aşağıdakilerden hangisi menkul sermaye iradı niteliğinde bir kazanç türü değildir? (2023/1. Dönem)",
+    "options": [
+      "A) Hisse senetlerinin kâr payları",
+      "B) İştirak hisselerinden doğan kazançlar",
+      "C) Mevduat faizleri",
+      "D) Değer artışı kazançları",
+      "E) Kurumların yönetim kurulu başkan ve üyelerine verilen kâr payları"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkında Kanun'a göre, vadesinde ödenmeyen kamu alacağına ilişkin cebren tahsil süreci aşağıdakilerden hangisi ile başlar? (2023/1. Dönem)",
+    "options": [
+      "A) Kamu alacağına ilişkin ödeme emrinin borçluya tebliğ edilmesi",
+      "B) Borçlunun borcu için hata düzeltme yoluna başvurması",
+      "C) Borçlunun borcunun terkini için yargı yoluna başvurması",
+      "D) Borçlunun borca karşılık gelen malvarlığının haczedilmesi",
+      "E) Borçlunun iflas etmesi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, sürelere yönelik olarak aşağıdakilerden hangisi yanlıştır? (2023/1. Dönem)",
+    "options": [
+      "A) Sonu belli bir gün ile tayin edilen sürelerde, süre o günün tatil saatinde biter.",
+      "B) Kanunda açıkça yazılı olmayan hâllerde 45 günden aşağı olmamak şartıyla bu süreyi, tebliği yapacak olan idare belirler ve ilgiliye tebliğ eder.",
+      "C) Vergi muamelelerinde süreler vergi kanunları ile belli edilir.",
+      "D) Vergi kanunlarında hüküm bulunmayan hâllerde ölüm dolayısıyla mirasçılara geçen ödevlerin yerine getirilmesinde bildirme ve beyanname verme sürelerine üç ay eklenir.",
+      "E) Resmî tatil günleri süreye dâhildir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu’na göre, kurumlar vergisi aşağıdakilerin hangisi üzerinden hesaplanır? (2023/1. Dönem)",
+    "options": [
+      "A) Bir hesap dönemi içinde elde edilen safi kurum kazancı",
+      "B) Bir hesap dönemi içinde elde edilen satış gelirleri",
+      "C) Bir hesap dönemi içinde elde edilen alış maliyetleri",
+      "D) Hesap dönemi sonunda elde edilen dönem zararları",
+      "E) Bir hesap dönemi içinde ortaya çıkan istisnalar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, arsa ve araziler için takdir komisyonlarınca takdir olunan birim değeri, binalar için metrekare normal inşaat maliyetleriyle arsa veya arsa payı değeri esas alınarak hesaplanan bedele verilen ad aşağıdakilerden hangisidir? (2023/1. Dönem)",
+    "options": [
+      "A) İtibari değer",
+      "B) Tasarruf değeri",
+      "C) Mukayyet değer",
+      "D) Vergi değeri",
+      "E) Rayiç değer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, vergi matrahlarının hesaplanması ile ilgili iktisadi kıymetlerin takdir ve tesbitinde borçlar, değerleme ölçülerinden hangisi ile değerlenir? (2022/3. Dönem)",
+    "options": [
+      "A) Nominal değer",
+      "B) Rayiç bedel",
+      "C) Mukayyet değer",
+      "D) Alış bedeli",
+      "E) Borsa rayici"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, gecikme zammı ile ilgili aşağıdakilerden hangisi yanlıştır? (2022/3. Dönem)",
+    "options": [
+      "A) Amme alacağının ödeme müddeti içinde ödenmeyen kısmına vadenin bitim tarihinden itibaren her ay için ayrı ayrı kanuni olarak belirlenen oranda gecikme zammı tatbik olunur.",
+      "B) Ay kesirlerine isabet eden gecikme zammı günlük olarak hesap edilir.",
+      "C) Aslın ödenmiş olması gecikme zammının takip ve tahsiline mani değildir.",
+      "D) Gecikme zammının tatbik müddeti, amme alacağının tecilinde tecilin yapıldığı, iflas halinde iflasın açıldığı, aciz halinde bu durumun sabit olduğu güne kadar olan müddettir.",
+      "E) Gecikme zammının önceden borçluya bildirilmesi şarttır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "7338 sayılı Veraset ve İntikal Vergisi Kanunu uyarınca, bilanço esasına göre defter tutanlarda ölüm tarihine takaddüm eden takvim yılı bilançosuna göre bulunacak öz sermaye aşağıdaki hangisi ile ifade edilir? (2022/3. Dönem)",
+    "options": [
+      "A) Esham",
+      "B) Ticari sermaye",
+      "C) Tahvilat",
+      "D) Ticari zarar",
+      "E) Ticari kazanç"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, tarh yeri konusunda aşağıdakilerden hangisi yanlıştır? (2022/3. Dönem)",
+    "options": [
+      "A) Gayrimenkul teslimlerinde mükellefin talebi halinde, katma değer vergisi beyan üzerine gayrimenkulün bulunduğu yer vergi dairesince tarh olunur.",
+      "B) İthalde alınan katma değer vergisi ilgili gümrük idaresince tarh olunur.",
+      "C) Mükellefin, ayrı ayrı vergi dairelerinin faaliyet bölgelerinde iş yerleri varsa, katma değer vergisi, gelir veya kurumlar vergisi yönünden bağlı olduğu vergi dairesi tarafından tarh olunur.",
+      "D) İkametgahı, kanuni merkezi ve iş merkezi Türkiye'de bulunmayanlar tarafından motorlu kara taşıtlarıyla Türkiye ile yabancı ülkeler arasında yapılan taşımacılık ile transit taşımacılığa ait katma değer vergisi Gelir İdaresi Başkanlığınca tarh olunur.",
+      "E) Katma değer vergisi, kural olarak, mükellefin iş yerinin bulunduğu yer vergi dairesince tarh olunur."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu kapsamında gayrimenkullerin, ayrı olarak kiraya verilen mütemmim cüzilerinden elde edilen gelirler hangi gelir unsuru içinde değerlendirilir? (2022/3. Dönem)",
+    "options": [
+      "A) Gayrimenkul sermaye iradı",
+      "B) Menkul sermaye iradı",
+      "C) Ticari kazanç",
+      "D) Serbest meslek kazancı",
+      "E) Diğer kazanç ve iratlar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dijital Hizmet Vergisinin de düzenlendiği 7194 sayılı Kanun’a göre dijital hizmet vergisi mükellefleri, beyannamelerini ne zamana kadar vermelidir? (2022/3. Dönem)",
+    "options": [
+      "A) Vergilendirme dönemini takip eden 3. ayın sonuna kadar",
+      "B) Vergilendirme dönemini takip eden 2. ayın sonuna kadar",
+      "C) Vergilendirme dönemini takip eden ayın sonuna kadar",
+      "D) Vergilendirme dönemini takip eden ayın 20. günü akşamına kadar",
+      "E) Vergilendirme dönemini takip eden ayın 10. günü akşamına kadar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'nda düzenlenen vergi cezalarına karşı vergi mahkemesinde dava açılmamışsa dava açma süresinin bittiği tarihten başlayarak ne kadar süre içinde cezanın ödenmesi gerektiği öngörülmüştür? (2022/2. Dönem)",
+    "options": [
+      "A) 7 gün",
+      "B) 15 gün",
+      "C) 60 gün",
+      "D) 1 ay",
+      "E) 3 ay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, (gıyapta yapılan hacizler hariç olmak üzere) haklarında ihtiyati haciz tatbik olunanlar, haczin tatbiki tarihinden itibaren kaç gün içinde alacaklı tahsil dairesine ait itiraz işlerine bakan vergi itiraz komisyonu nezdinde ihtiyati haciz sebebine itiraz edebilirler? (2022/2. Dönem)",
+    "options": [
+      "A) 7 gün",
+      "B) 15 gün",
+      "C) 30 gün",
+      "D) 60 gün",
+      "E) 90 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu kapsamında dar mükellefiyete tabi olanların yıllık beyanname ile bildirmeye mecbur olmadıkları kazanç ve iratlardan, vergisi tevkif suretiyle alınmamış olanların bildirilmesine mahsus beyanname aşağıdakilerden hangisidir? (2022/2. Dönem)",
+    "options": [
+      "A) Yıllık beyanname",
+      "B) Muhtasar beyanname",
+      "C) Münferit beyanname",
+      "D) Düzeltme beyannamesi",
+      "E) İhtirazi kayıtlı beyanname"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu’na göre, vergiden istisna edilmiş işlemleri yapanların, istisnadan vazgeçeceklerine ilişkin talepleri üzerine, vergi dairesince, vergi mükellefiyetleri talep tarihinden itibaren tesis olunur. \n3065 sayılı Katma Değer Vergisi Kanunu’na göre, bu şekilde mükellef olanlar kaç yıl geçmedikçe mükellefiyetten çıkamazlar? (2022/2. Dönem)",
+    "options": [
+      "A) 1 Yıl",
+      "B) 2 Yıl",
+      "C) 3 Yıl",
+      "D) 4 Yıl",
+      "E) 5 Yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu’na göre, kurumların, ortaklarından veya ortaklarla ilişkili olan kişilerden doğrudan veya dolaylı olarak temin ederek işletmede kullandıkları borçların, hesap dönemi içinde herhangi bir tarihte kurumun öz sermayesinin üç katını aşan kısmı, ilgili hesap dönemi için aşağıdakilerden hangisi sayılır? (2022/2. Dönem)",
+    "options": [
+      "A) Örtülü Sermaye",
+      "B) Kurumlar Vergisi",
+      "C) Gelir Vergisi",
+      "D) Kyıtlı Sermaye",
+      "E) Kurum Kazancı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu’nda düzenlenen kaçakçılık suçlarına iştirak eden suç ortaklarının bu suçların işlenmesinde menfaatinin bulunmaması hâlinde, Türk Ceza Kanunu’nun suça iştirak hükümlerine göre haklarında verilecek ceza aşağıdaki hangi oranda uygulanır? (2022/2. Dönem)",
+    "options": [
+      "A) Bir kat artırılır.",
+      "B) Yarı oranında artırılır.",
+      "C) Yarı oranında indirilir.",
+      "D) Üçte bir oranında indirilir.",
+      "E) %25 oranında indirilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dijital Hizmet Vergisinin de düzenlendiği 7194 sayılı Kanun'a göre dijital hizmet vergisi oranı kaçtır? (2022/1. Dönem)",
+    "options": [
+      "A) % 0,5",
+      "B) % 1",
+      "C) % 3",
+      "D) % 5",
+      "E) % 7,5"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, mükellefiyet ve vergi sorumluluğuna ilişkin aşağıdakilerden hangisi yanlıştır? (2022/1. Dönem)",
+    "options": [
+      "A) Mükellef, vergi kanunlarına göre kendisine vergi borcu terettübeden gerçek veya tüzel kişidir.",
+      "B) Vergi dairesi mükellefi tespit eden, vergi tarh eden, tahakkuk ettiren ve tahsil eden dairedir.",
+      "C) Vergi kanunlarıyla kabul edilen hâller müstesna olmak üzere, mükellefiyete veya vergi sorumluluğuna mütaallik özel mukaveleler vergi dairelerini bağlamaz.",
+      "D) Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet şarttır.",
+      "E) Vergi sorumlusu, verginin ödenmesi bakımından, alacaklı vergi dairesine karşı muhatap olan kişidir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, faaliyeti durdurulan bir işletmenin kısmen veya tamamen elden çıkarılmasından doğan kazançlar aşağıdaki kazanç ve iratlardan hangisine girmektedir? (2022/1. Dönem)",
+    "options": [
+      "A) Değer artış kazancı",
+      "B) Gayrimenkul sermaye iradı",
+      "C) Arızi kazanç",
+      "D) Menkul sermaye iradı",
+      "E) Ücret"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre, bu vergiye mevzu olacak mallar için, miras yoluyla vukubulan intikallerde mirasın açıldığı, diğer suretle vaki intikallerde malların hukuken iktisabedildiği gün aşağıdakilerden hangisi ile ifade edilir? (2022/1. Dönem)",
+    "options": [
+      "A) Tahakkuk günü",
+      "B) Zamanaşımı başlangıç günü",
+      "C) Değerleme günü",
+      "D) Ödeme günü",
+      "E) Tahsil günü"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6802 sayılı Gider Vergileri Kanunu'na göre, konaklama vergisinin kanuni oranı kaçtır? (2022/1. Dönem)",
+    "options": [
+      "A) % 1",
+      "B) % 2",
+      "C) % 3",
+      "D) % 5",
+      "E) % 10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, kurumlar vergisi matrahının tespitinde, kurumlar vergisi beyannamesinde her yıla ilişkin tutarlar ayrı ayrı gösterilmek suretiyle kaç yıldan fazla nakledilmemek şartıyla geçmiş yılların beyannamelerinde yer alan zararlar indirim konusu yapılır? (2022/1. Dönem)",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 5"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "I. Ticari kazanç<br>II. Zirai kazanç<br>III. Serbest meslek kazancı<br>IV. Gayrimenkul sermaye iradı<br><br>193 sayılı Gelir Vergisi Kanunu'nda sayılan yukarıdaki gelir unsurlarından hangileri için gelirin elde edilmesi tahsil esasına bağlanmıştır? (2021/3. Dönem)",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) III ve IV",
+      "D) I, II ve IV",
+      "E) II, III ve IV"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'nun beyan esasına ilişkin düzenlemelerine göre, aşağıdakilerden hangisi yanlıştır? (2021/3. Dönem)",
+    "options": [
+      "A) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.",
+      "B) Mükelleflerin şubeleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri varsa, ayrı beyanname verilir.",
+      "C) Tüzel kişiliği bulunmayan vakıflara ait iktisadi işletmelerden her biri için, bağlı olduğu vakıflar tarafından ayrı beyanname verilir.",
+      "D) Kooperatiflerin gelirlerinin vergi kesintisine tabi tutulan taşınmaz kira gelirlerinden ibaret olması hâlinde, bu gelirler için beyanname verilmez.",
+      "E) Mükellefin bağlı olduğu vergi dairesi, kurumun kanuni veya iş merkezinin bulunduğu yerin vergi dairesidir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, vergi incelemesine başlanılmasından veya takdir komisyonuna sevk edilmesinden sonra verilenler hariç olmak üzere, kanuni süresi geçtikten sonra verilen vergi beyannameleri için kesilecek vergi ziyaı cezası hangi oranda uygulanır? (2021/3. Dönem)",
+    "options": [
+      "A) %25",
+      "B) %40",
+      "C) %50",
+      "D) %75",
+      "E) %100"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, büyükşehir belediyesi sınırları dışında olan yerlerde bulunan vergiye tabi meskenler için bina vergisinin kanuni oranı binde kaçtır? (2021/3. Dönem)",
+    "options": [
+      "A) Bir",
+      "B) İki",
+      "C) Üç",
+      "D) Dört",
+      "E) Beş"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, kazai bir hükme veya kanaat verici bir vesikaya göre tahsiline artık imkân kalmayan bir alacak aşağıdakilerden hangisi ile ifade edilir? (2021/3. Dönem)",
+    "options": [
+      "A) Değersiz alacak",
+      "B) Seçimlik alacak",
+      "C) Vazgeçilen alacak",
+      "D) Amortismana tabi alacak",
+      "E) Karşılık alacak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre, aşağıdakilerden hangisi yanlıştır? (2021/3. Dönem)",
+    "options": [
+      "A) Veraset ve intikal vergisinin mükellefi, veraset tarikiyle veya ivazsız bir tarzda mal iktisabeden şahıstır.",
+      "B) Veraset tarikiyle mal iktisap edenler, muafiyet ve istisna koşullarını dikkate alarak iktisap ettikleri malları bir beyanname ile bildirmek zorundadır.",
+      "C) Veraset tabiri; hibe yolu ile veya herhangi bir tarzda olan ivazsız iktisapları ifade eder.",
+      "D) Gayrimenkul hariç, örf ve âdete göre verilmesi mutat bulunan hediye, veraset ve intikal vergisinden istisnadır.",
+      "E) Veraset ve intikal vergisinin matrahı, intikal eden malların Vergi Usul Kanunu'na göre bulunan değerleridir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, yönetim ve denetim kurulları başkanı ve üyeleriyle tasfiye memurlarına bu sıfatları dolayısıyla ödenen veya sağlanan para, ayın ve menfaatler aşağıda sayılan hangi gelir unsurunun kapsamına girer? (2021/2. Dönem)",
+    "options": [
+      "A) Ücret",
+      "B) Gayrimenkul sermaye iradı",
+      "C) Serbest meslek kazancı",
+      "D) Zirai kazanç",
+      "E) Menkul sermaye iradı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, vergi incelemesi yapanların katma değer vergisi iade incelemelerini, başlanıldığı tarihten itibaren en fazla kaç ay içinde bitirmeleri esastır? (2021/2. Dönem)",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 6"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, usulsüzlükten dolayı ceza kesilen ve cezası kesinleşenlere, cezanın kesinleştiği tarihi takip eden yılın başından başlamak üzere kaç yıl içinde tekrar ceza kesilmesi durumunda, usulsüzlük cezası yüzde kaç oranında artırılmak suretiyle uygulanır? (2021/2. Dönem)",
+    "options": [
+      "A) 1 yıl - %15",
+      "B) 2 yıl - %25",
+      "C) 3 yıl - %30",
+      "D) 4 yıl - %10",
+      "E) 5 yıl - %50"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, aşağıdakilerden hangisinin kurumlar vergisi mükellefiyeti ihtiyaridir? (2021/2. Dönem)",
+    "options": [
+      "A) Sermaye şirketi",
+      "B) Kooperatif",
+      "C) Kamu iktisadi teşebbüsü",
+      "D) Derneğe ait iktisadi işletme",
+      "E) İş ortaklığı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, ülkemizde katma değer vergisi uygulaması bakımından aşağıdakilerden hangisi benimsenmiştir? (2021/2. Dönem)",
+    "options": [
+      "A) Gelir tipi",
+      "B) Gayrisafi hasıla tipi",
+      "C) Tüketim tipi",
+      "D) Ücret tipi",
+      "E) Safi ücret tipi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanunu’na göre, benzin ve mazot gibi ürünlerin yer aldığı Kanun’a ekli (I) sayılı listedeki malları teslim alanların, bu malları daha yüksek tutarda vergiye tabi bir mal olarak kullanmaları hâlinde, aradaki vergi farkı açısından aşağıdaki vergi kabahatleri veya cezalarından hangisi uygulanır? (2021/2. Dönem)",
+    "options": [
+      "A) Birinci derece usulsüzlük",
+      "B) İkinci derece usulsüzlük",
+      "C) Özel usulsüzlük",
+      "D) Vergi ziyaı",
+      "E) Kaçakçılık"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, yetkili makamların mükellefin kendisine yazı ile yanlış izahat vermiş olmaları veya bir hükmün uygulanma tarzına ilişkin bir içtihadın değişmiş olması durumunda vergi cezası kesilmemesi hâli aşağıdakilerden hangisi ile ifade edilir? (2021/1. Dönem)",
+    "options": [
+      "A) Mücbir sebep",
+      "B) Yanılma",
+      "C) Vergi ehliyeti",
+      "D) Vergi sorumluluğu",
+      "E) İzaha davet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 193 sayılı Gelir Vergisi Kanunu uyarınca düzenlenmiş olan bir istisna değildir? (2021/1. Dönem)",
+    "options": [
+      "A) Genç girişimcilerde kazanç istisnası",
+      "B) Kreş ve gündüz bakımevleri işletmelerinde kazanç istisnası",
+      "C) Ücret İstisnası",
+      "D) İthalat istisnası",
+      "E) Serbest meslek kazançlarında istisna"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu aşağıdakilerden hangisi için uygulanmaz? (2021/1. Dönem)",
+    "options": [
+      "A) Motorlu taşıtlar vergisi",
+      "B) İl özel idarelerine ait resim ve harçlar",
+      "C) Belediyelere ait vergiler",
+      "D) Değerli konut vergisi",
+      "E) Gümrük idareleri tarafından alınan vergiler"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi özel tüketim vergisi için söylenemez? (2021/1. Dönem)",
+    "options": [
+      "A) ÖTV, bütün tüketim mallarından alınan bir vergi değildir.",
+      "B) ÖTV'de belirli şartlarda ihracat istisnası mevcuttur.",
+      "C) ÖTV'de verginin kanuni oranı her zaman %18'dir.",
+      "D) ÖTV'ye tâbi malların, yer aldığı listedeki başka bir malın imalinde kullanılması hâlinde ödenen vergi, Maliye Bakanlığı'nca belirlenen esaslara göre ödenecek vergiden indirilir.",
+      "E) ÖTV harcamalardan alınan vergi niteliğindedir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu’na göre, aşağıdakilerden hangisi yanlıştır? (2021/1. Dönem)",
+    "options": [
+      "A) Vade farkı matraha dâhil unsurlardandır.",
+      "B) Hesaplanan katma değer vergisi matraha dâhil olmayan unsurlardandır.",
+      "C) Teslim alanın gösterdiği yere kadar satıcı tarafından yapılan taşıma, yükleme ve boşaltma giderleri matraha dâhil unsurlardandır.",
+      "D) Vergiden istisna edilmiş işlemleri yapanlar, ilgili vergi dairesine yazılı başvuruda bulunarak, belirtecekleri işlem türleri için vergiye tabi tutulmalarını talep edebilirler.",
+      "E) Uluslararası anlaşmalar gereğince vergi muafiyeti tanınan uluslararası kuruluşların mensuplarına yapılan teslimler vergiye tabidir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu’na göre, aşağıdakilerden hangisi kurumlar vergisi mükellefi değildir? (2021/1. Dönem)",
+    "options": [
+      "A) Limited şirket",
+      "B) Vakıf",
+      "C) İş ortaklığı",
+      "D) Anonim şirket",
+      "E) Dernek iktisadi işletmesi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi genç girişimcilerde kazanç istisnasından yararlanma şartları arasında yer almaz? (2020/3. Dönem)",
+    "options": [
+      "A) Faaliyetin adi ortaklık bünyesinde yapılması hâlinde tüm ortakların işe başlama tarihi itibarıyla kanunda belirtilen şartları taşıması",
+      "B) Faaliyetten elde edilecek kazancın 50.000 'yi aşmaması",
+      "C) Kendi işinde bilfiil çalışılması veya işin kendisi tarafından sevk ve idare edilmesi",
+      "D) İşe başlamanın kanuni süresi içinde bildirilmiş olması",
+      "E) Mevcut bir işletmeye sonradan ortak olunmaması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi vergi hukukunun yürütme organından doğan kaynaklarından değildir? (2020/3. Dönem)",
+    "options": [
+      "A) Genel tebliğ",
+      "B) Mukteza",
+      "C) Sirküler",
+      "D) Yönetmelik",
+      "E) Uluslararası vergi anlaşması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıdakilerden hangisi teslim sayılmaz? (2020/3. Dönem)",
+    "options": [
+      "A) İşletme sahibinin ticaretini yaptığı dayanıklı tüketim mallarından bir kısmını ücret, ikramiye, hediye, teberru gibi adlarla işletme personeline vermesi",
+      "B) Su, elektrik, gaz, ısıtma, soğutma ve benzeri yapılması",
+      "C) Çiftçilerin şeker fabrikalarına teslim ettikleri şeker pancarı karşılığında fabrikanın pancar bedeli dışında çiftçiye ayrıca bedelsiz küspe vermesi",
+      "D) İşletme sahibinin ticaretini yaptığı dayanıklı tüketim mallarından bir kısmını kendi şahsi ihtiyacında kullanmak üzere işletmeden çekmesi",
+      "E) Akaryakıt ticareti ile uğraşan bir şahsın, satmak amacıyla aldığı akaryakıtın bir kısmını özel otomobilinde kullanması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, aşağıdakilerden hangisi vergiden istisna değildir? (2020/3. Dönem)",
+    "options": [
+      "A) Tam mükellefiyete tabi girişim sermayesi yatırım ortaklarının hisse senetlerinden elde ettikleri kâr payları",
+      "B) Kurumun yurt dışında bulunan ve ödenmiş sermayesinin %5'ine sahip olunan kurumdan elde ettiği iştirak kazancı",
+      "C) Kurumların tam mükellefiyete tabi başka bir kuruma iştirak etmeleri nedeniyle bu kurumun yönetim kurulunda bulunan temsilcileri vasıtasıyla elde etmiş oldukları kâr payları",
+      "D) Kurumların tam mükellefiyete tabi başka bir kurumun sermayesine bir yıldır katılımlarından elde ettikleri kazançlar",
+      "E) Kurumların tam mükellefiyete tabi başka bir kurumun sermayesine %5 oranında katılımlarından elde ettikleri kazançlar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu’na göre, amortisman konusuna ilişkin olarak aşağıdakilerden hangisi yanlıştır? (2020/3. Dönem)",
+    "options": [
+      "A) Amortismana tabi iktisadi kıymetlerin satılması hâlinde alınan bedel ile bunların envanter defterinde kayıtlı değerleri arasındaki fark, kâr ve zarar hesabına geçirilir.",
+      "B) Amortisman süresi, kıymetlerin aktife girdiği yıldan başlar.",
+      "C) Her yılın amortismanı o yıla veya diğer herhangi bir yıla ait değerlemede nazara alınabilir.",
+      "D) Amortismanın ilk uygulanan nispetten düşük bir hadle yapılmasından dolayı amortisman süresi uzatılamaz.",
+      "E) Amortisman süresinin yıl olarak hesaplanması için (1) rakamı mükellefçe uygulanan nispete bölünür."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanunu’na göre, aşağıdakilerden hangisi yanlıştır? (2020/3. Dönem)",
+    "options": [
+      "A) Bir mal üzerindeki tasarruf hakkının malik veya adına hareket edenlerce, alıcıya veya adına hareket edenlere devredilmesi teslimi ifade eder.",
+      "B) Mal teslimi veya ilk iktisap hâllerinde, malın teslimi veya ilk iktisabı vergiyi doğuran olaydır.",
+      "C) Malın konsinyasyon suretiyle satışında vergiyi doğuran olay, imalatçı tarafından bu malların konsinyi işletmelere verildiği anda doğar.",
+      "D) Özel tüketim vergisi, Kanun’a ekli listelerde yazılı malların karşılarında gösterilen tutar ve/veya oranlarda alınır.",
+      "E) Özel tüketim vergisi, mükelleflerin yazılı beyanları üzerine tarh olunur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türkiye'de uygulanmakta olan aşağıdaki vergilerden hangisinin tarifesi çifte artan oranlılık özelliği taşımaktadır? (2020/2. Dönem)",
+    "options": [
+      "A) Gelir vergisi",
+      "B) Kurumlar vergisi",
+      "C) Veraset ve intikal vergisi",
+      "D) Katma değer vergisi",
+      "E) Dijital hizmet vergisi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Belirli mal grubu üzerinden alındığı için Devlet'e gelir sağlama amacı dışında ayrıca fiyatı değiştiren vergiler olarak bilinen, yaygın olarak uygulanma nedeni fiyat ayarlamaları yolu ile tüketici tercihlerini değiştirmek olan vergi türü aşağıdakilerden hangisidir? (2020/2. Dönem)",
+    "options": [
+      "A) Kurumlar vergisi",
+      "B) Damga vergisi",
+      "C) Veraset ve intikal vergisi",
+      "D) Özel tüketim vergisi",
+      "E) Gelir vergisi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, aşağıdakilerden hangisi vergi matrahlarının hesaplanmasıyla ilgili iktisadi kıymetlerin takdir ve tespiti için kullanılan değerleme ölçülerinden biri değildir? (2020/2. Dönem)",
+    "options": [
+      "A) Borsa rayici",
+      "B) Mukayyet değer",
+      "C) İtibari değer",
+      "D) Emsal bedeli ve ücreti",
+      "E) Satış değeri"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "I. Kuruluş ve örgütlenme giderleri<br>II. Sermayesi paylara bölünmüş komandit şirketlerde komandite ortakların kâr payları<br>III. Menkul kıymetlerin itibari değerinin altında satışından doğan zararlar<br>IV. Katılım bankalarınca katılma hesabı karşılığında ödenen kâr payları<br><br>5520 sayılı Kurumlar Vergisi Kanunu'na göre, yukarıdakilerden hangileri kurum kazancının tespitinde indirilecek giderler arasında yer almaktadır? (2020/2. Dönem)",
+    "options": [
+      "A) III ve IV",
+      "B) I, II ve III",
+      "C) I, II ve IV",
+      "D) I, II, III ve IV",
+      "E) I, III ve IV"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu’na göre, aşağıdaki mal ve haklardan hangisinin kiraya verilmesinden elde edilecek gelir gayrimenkul sermaye iradı sayılmaz? (2020/2. Dönem)",
+    "options": [
+      "A) İhtira beratının mucidinin bunu kiraya vermesinden elde edeceği gelir",
+      "B) Arama hakkı sahibinin bunu kiraya vermesinden elde edeceği gelir",
+      "C) Madenin sahibi tarafından kiraya verilmesinden elde edilecek gelir",
+      "D) Voli mahallinin sahibi tarafından kiraya verilmesinden elde edilecek gelir",
+      "E) Sahibi tarafından gayrimenkulden ayrı kiraya verilen mütemmim cüzilerden elde edilecek gelir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi katma değer vergisi uygulamasında tam tevkifat uygulanacak işlemlerden biri değildir? (2020/2. Dönem)",
+    "options": [
+      "A) İkametgâhı, işyeri, kanuni merkezi ve iş merkezi Türkiye'de bulunmayanlar tarafından yapılan işlemler",
+      "B) Yapım işleri ile bu işlerle birlikte ifa edilen mühendislik - mimarlık ve etüt - proje hizmetleri",
+      "C) Serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetler",
+      "D) Kiralama işlemleri",
+      "E) Reklam verme işlemleri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıdakilerden hangisi matraha dâhil değildir? (2020/1. Dönem)",
+    "options": [
+      "A) Kur farkı gelirleri",
+      "B) Ambalaj giderleri",
+      "C) Vade farkı gelirleri",
+      "D) Hesaplanan katma değer vergisi",
+      "E) Faiz gelirleri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre, aşağıdakilerden hangisi yanlıştır? (2020/1. Dönem)",
+    "options": [
+      "A) Kurumlar vergisi, mükelleflerin bir hesap dönemi içinde elde ettikleri safî kurum kazancı üzerinden hesaplanır.",
+      "B) Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen beşinci ayın birinci gününden yirmibeşinci günü akşamına kadar verilir.",
+      "C) Kooperatiflerin kazançları kurumlar vergisine tabidir.",
+      "D) Öz sermaye üzerinden ödenen veya hesaplanan faizler kurum kazancının tespitinde indirim konusu yapılamaz.",
+      "E) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, iktisadi işletmelere dâhil bütün gayrimenkuller hangi değerleme ölçüsüyle değerlenir? (2020/1. Dönem)",
+    "options": [
+      "A) Borsa rayici",
+      "B) Tasarruf değeri",
+      "C) Emsal bedeli",
+      "D) Rayiç bedel",
+      "E) Maliyet bedeli"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, aşağıdakilerden hangisi vergi incelemesi yapmaya yetkili değildir? (2020/1. Dönem)",
+    "options": [
+      "A) İlin en büyük mal memuru",
+      "B) Vergi dairesi müdürü",
+      "C) Vergi müfettişi",
+      "D) Gelir uzmanı",
+      "E) Vergi müfettiş yardımcısı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, çalışma ve oturma izni alarak yurt dışında çalışan Türk işçiler; hangi mükellefiyet şekline tabidir ve hangi gelirleri üzerinden vergilendirilir? (2020/1. Dönem)",
+    "options": [
+      "A) Dar mükellefiyete tabidir ve sadece yurt dışında elde ettikleri gelirleri üzerinden vergilendirilir.",
+      "B) Tam mükellefiyete tabidir ve dışında elde ettikleri gelirleri üzerinden vergilendirilir.",
+      "C) Tam mükellefiyete tabidir ve Türkiye'de elde ettikleri gelirler üzerinden vergilendirilir.",
+      "D) Dar mükellefiyete tabidir ve Türkiye içinde ve dışında elde ettikleri gelirleri üzerinden vergilendirilir.",
+      "E) Dar mükellefiyete tabidir ve sadece Türkiye'de elde ettikleri gelirleri üzerinden vergilendirilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanunu'na göre, \"mülkiyeti muhafaza kaydıyla yapılan satışlarda zilyetliğin devri\" aşağıdakilerden hangisi sayılır? (2020/1. Dönem)",
+    "options": [
+      "A) İstisna",
+      "B) Teslim",
+      "C) Vergi İndirimi",
+      "D) Hizmet İfası",
+      "E) Muafiyet"
+    ],
+    "answer": 1
+  }
+],  
+  
+  "Maliyet Muhasebesi (SGS Çıkmış)": [
+    
+  ]
 }
