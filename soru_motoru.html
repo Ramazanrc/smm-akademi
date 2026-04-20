@@ -1060,8 +1060,9 @@ function kilitAc() {
         
         document.addEventListener("mousemove", (e) => { 
             if (!isDragging) return; 
-            tahta.style.left = (initialX + (e.clientX - startX)) + "px"; 
-            tahta.style.top = (initialY + (e.clientY - startY)) + "px"; 
+            // !important ekleyerek CSS'in sabitlemesini eziyoruz
+            tahta.style.setProperty("left", (initialX + (e.clientX - startX)) + "px", "important"); 
+            tahta.style.setProperty("top", (initialY + (e.clientY - startY)) + "px", "important"); 
         }); 
         
         document.addEventListener("mouseup", () => { isDragging = false; });
@@ -1074,13 +1075,16 @@ function kilitAc() {
             const rect = tahta.getBoundingClientRect(); 
             initialX = rect.left; 
             initialY = rect.top; 
-        }, { passive: true }); 
+        }, { passive: false }); 
         
         document.addEventListener("touchmove", (e) => { 
             if (!isDragging) return; 
-            tahta.style.left = (initialX + (e.touches[0].clientX - startX)) + "px"; 
-            tahta.style.top = (initialY + (e.touches[0].clientY - startY)) + "px"; 
-        }, { passive: true }); 
+            e.preventDefault(); // Sürüklerken arkadaki sayfanın kaymasını engeller!
+            
+            // !important ekleyerek CSS'in sabitlemesini eziyoruz
+            tahta.style.setProperty("left", (initialX + (e.touches[0].clientX - startX)) + "px", "important"); 
+            tahta.style.setProperty("top", (initialY + (e.touches[0].clientY - startY)) + "px", "important"); 
+        }, { passive: false }); 
         
         document.addEventListener("touchend", () => { isDragging = false; });
 
