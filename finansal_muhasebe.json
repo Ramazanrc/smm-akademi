@@ -5156,8 +5156,372 @@
         "E) Kıdem tazminat"
       ],
       "answer": 1
-    }
+    },
+    {
+    "q": "TMS 7 Nakit Akış Tablosu standardına göre; \"tutarı belirli bir nakde kolayca çevrilebilen ve değerindeki değişim riski önemsiz olan yüksek likiditeye sahip kısa vadeli yatırımlar\" aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Serbest nakit akışı",
+      "B) Nakit",
+      "C) Nakit akışları",
+      "D) Nakit benzerleri",
+      "E) Finansman faaliyetleri"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "TMS 7 Nakit Akış Tablosu standardına göre, \"Esas faaliyetlerden kaynaklanan nakit akışları\"nın raporlanmasına ilişkin farklı iki yöntem sunulmuştur.<br><br>\"Dönem kârı veya zararının; nakit akışı yaratmayan işlemlerin, esas faaliyetlerden kaynaklanan geçmiş veya gelecek nakit giriş veya çıkışlarına ilişkin ertelemeler ile tahakkukların ve yatırım veya finansman faaliyetlerinden nakit akışlarıyla ilgili gelir veya gider kalemlerinin etkilerine göre düzeltilmesi\" suretiyle ilgili tutara ulaşılmasını sağlayan yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Düzeltme yöntemi",
+      "B) Doğrudan yöntem",
+      "C) Dolaylı yöntem",
+      "D) Gerçeğe uygun değer yöntemi",
+      "E) Nakit akışı yöntemi"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "TMS 7 Nakit Akış Tablosu standardına göre, aşağıdakilerden hangisi nakit akış tablosunun İşletme Faaliyetlerinden Kaynaklanan Nakit Akışları bölümünde yer alan kalemlerden biri değildir?",
+    "options": [
+      "A) Çalışanlara ve çalışanlar adına yapılan ödemelerden kaynaklanan nakit çıkışları",
+      "B) Satılan mallardan ve verilen hizmetlerden (satışlardan) elde edilen nakit girişleri",
+      "C) Alım satım amaçlı elde bulundurulan sözleşmelerle ilgili nakit girişleri ve çıkışları",
+      "D) Sigorta şirketlerine ödenen primler nedeniyle oluşan nakit çıkışları",
+      "E) Finansal kurumların yaptıkları işlemler hariç olmak üzere, üçüncü kişilere verilen avans ve borçlara ilişkin nakit çıkışları"
+    ],
+    "answer": 4
+   },
+   {
+    "q": "I. İşletmenin üretimde kullanmak üzere satın aldığı makineler nedeniyle oluşan nakit çıkışları<br>II. Mal ve hizmetler için tedarikçilere yapılan nakit ödemeler<br>III. Fikri mülkiyet lisansından elde edilen nakit tahsilatlar<br>IV. İşletmenin bankadan aldığı krediye ilişkin anapara ödemesi<br><br>TMS 7 Nakit Akış Tablosu'na göre aşağıdakilerden hangileri \"Esas faaliyetlerden nakit akışları\" olarak tanımlanmaktadır?",
+    "options": [
+      "A) II ve III",
+      "B) I, II ve III",
+      "C) I, II, III ve IV",
+      "D) I, III ve IV",
+      "E) II ve IV"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "TMS 7 Nakit Akış Tablosu'na göre bir işletmenin yaptığı aşağıdaki işlemlerden hangisi yatırım faaliyetlerinden kaynaklanan bir nakit akışı olarak sınıflandırılmalıdır?",
+    "options": [
+      "A) İşletmenin finansal borçlarının faiz ödemelerini gerçekleştirmesi",
+      "B) İşletmenin tahsil ettiği müşteri ödemeleri",
+      "C) İşletmenin tedarikçilere yaptığı hammadde ödemeleri",
+      "D) İşletmenin eski üretim makinelerini satarak elde ettiği nakit",
+      "E) İşletmenin çalışanlara ödediği maaşlar"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "E Şirketi, 100.000 ₺ maliyet bedeli ve 70.000 ₺ birikmiş amortismanı olan deposunu, F Şirketinin gerçeğe uygun değeri 50.000 ₺ olan deposu ile takas etmiştir. Aradaki fark E Şirketi tarafından F Şirketine nakden ödenmiştir.<br><br>E Şirketinin doğrudan yönteme göre düzenleyeceği nakit akış tablosunda bu takas işlemi ne şekilde raporlanır?",
+    "options": [
+      "A) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 20.000 ₺ nakit çıkışı olarak",
+      "B) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 20.000 ₺ nakit girişi olarak",
+      "C) Yatırım faaliyetlerinden kaynaklanan nakit akışları bölümünde 30.000 ₺ nakit girişi olarak",
+      "D) Finansman faaliyetlerinden kaynaklanan nakit akışları bölümünde 30.000 ₺ nakit çıkışı olarak",
+      "E) Finansman faaliyetlerinden kaynaklanan nakit akışları bölümünde 50.000 ₺ nakit girişi olarak"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "A tekstil şirketi faaliyetlerinde kullanmak üzere bir dokuma makinesi satın almış ve bedelini peşin olarak ödemiştir.<br><br>Söz konusu nakit çıkışı, TMS 7 Nakit Akış Tablosu standardına göre, nakit akış tablosunun hangi bölümünde raporlanır?",
+    "options": [
+      "A) Esas faaliyetlerden kaynaklanan nakit akışları",
+      "B) Finansman faaliyetlerinden kaynaklanan nakit akışları",
+      "C) Yatırım faaliyetlerinden kaynaklanan nakit akışları",
+      "D) Esas faaliyetlerden kaynaklanan nakit akışları veya finansman faaliyetlerinden kaynaklanan nakit akışları",
+      "E) Esas faaliyetlerden kaynaklanan nakit akışları veya yatırım faaliyetlerinden kaynaklanan nakit akışları"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Türkiye Finansal Raporlama Standartları'na göre, aşağıdakilerden hangisi nakit akış tablosunun \"finansman faaliyetlerine ilişkin nakit akışları\" kısmında yer almaz?",
+    "options": [
+      "A) Finansal kiralama sözleşmelerinden kaynaklanan borç ödemelerine ilişkin nakit çıkışları",
+      "B) Hisse senedi ve diğer özsermaye araçlarının ihracından sağlanan nakit girişleri",
+      "C) Sermayenin azaltılması veya işletmenin kendi hisse senetlerini almasıyla ilgili nakit çıkışları",
+      "D) Maddi ve maddi olmayan duran varlıklar ve diğer uzun vadeli varlıkların satışı ile ilgili nakit girişleri",
+      "E) Borçlanma araçları ihracı ve diğer uzun ve kısa vadeli krediler ile sağlanan nakit girişleri"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Bir işletmenin 31.12.2023 ve 31.12.2024 tarihli finansal durum tablolarında yer alan bazı hesaplara ilişkin bilgiler aşağıdaki gibidir:\n\n| | 31.12.2023 | 31.12.2024 |\n|---|---|---|\n| Ödenecek Vergi ve Fonlar | 50.000 ₺ | 65.000 ₺ |\n| Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları | 120.000 ₺ | 175.000 ₺ |\n| Dönem Kârının Peşin Ödenen Vergi ve Diğer Yükümlülükleri (-) | 80.000 ₺ | 140.000 ₺ |\n\nİşletmenin TMS 7 Nakit Akış Tablosu'na göre 31.12.2024 dönemine ilişkin düzenleyeceği tabloda dönem kârı vergileriyle ilgili raporlayacağı nakit çıkışı tutarı kaç ₺'dir?",
+    "options": [
+      "A) 95.000",
+      "B) 100.000",
+      "C) 130.000",
+      "D) 155.000",
+      "E) 180.000"
+    ],
+    "answer": 4
+   },
+   {
+    "q": "TMS 16 Maddi Duran Varlıklar standardına göre, aşağıdakilerden hangisi maddi duran varlık kaleminin maliyetine girmeyen unsurlardan birisidir?",
+    "options": [
+      "A) Varlığın yerleştirileceği yerin hazırlanmasına ilişkin maliyetler",
+      "B) Kurulum ve montaj maliyetleri",
+      "C) Taşıma maliyetleri",
+      "D) Personel eğitim masrafları",
+      "E) Test maliyetleri"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "A şirketi 50.000 ₺'ye bir dokuma makinesi satın almıştır. Makinenin montajı için 5.000 ₺ ödemiştir.<br><br>Makinenin dokuduğu kumaşları test etmek için üretim öncesinde makine çalıştırılmış ve 500 ₺'lik test maliyetine katlanılmıştır. Test sonrasında üretilen numune kumaşlar 1.000 ₺'ye satılmıştır.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, makinenin maliyet bedeli aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 50.000",
+      "B) 50.500",
+      "C) 54.500",
+      "D) 55.000",
+      "E) 55.500"
+    ],
+    "answer": 4
+   },
+   {
+    "q": "Ankara'da faaliyet gösteren bir işletme Samsun'daki fuardan %18 KDV dâhil 236.000 ₺ bedelle bir makine satın almış ve finansmanını bankadan aldığı kredi ile sağlamıştır.<br><br>Makinenin firmaya getirilmesi için 24.000 ₺ ödenmiş ve kurulum ile test üretimleri için ayrıca 6.000 ₺ maliyete katlanılarak makine Aralık ayının başında kullanıma hazır hale getirilmiştir. Bu süreçte işletme adına bankadaki kredi için 2.000 ₺ faiz tahakkuk etmiştir.<br><br>Yukarıdaki veriler ışığında Türkiye Muhasebe Standartlarına göre makinenin aktifleştirileceği tutar kaç ₺'dir?",
+    "options": [
+      "A) 200.000",
+      "B) 224.000",
+      "C) 230.000",
+      "D) 266.000",
+      "E) 268.000"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "A üretim işletmesi, üretim faaliyetinde kullanmak üzere bir makine satın almıştır. Makinenin satın alma bedeli 20.000 ₺'dir.<br><br>Makinenin fabrika binasına taşınması için 1.000 ₺ nakliye ücretine katlanılmıştır. Montaj bedeli olarak 2.000 ₺ ödenmiştir.<br><br>Makinenin test edilmesi esnasında 1.000 ₺ test gideri ortaya çıkmıştır. Test aşamasında üretilen numunelerin satışından 500 ₺ elde edilmiştir. Üretilen numunelerin yeni bir pazarda tanıtımı için 1.000 ₺ reklam gideri yapılmıştır.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, makinenin maliyet bedeli kaç ₺'dir?",
+    "options": [
+      "A) 23.000",
+      "B) 23.500",
+      "C) 24.000",
+      "D) 24.500",
+      "E) 25.500"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "İşletme, 1 Temmuz 2013 tarihinde işletmede kullanmak üzere 50.000 ₺'ye bir kamyonet satın almıştır. Vergi düzenlemelerine göre kamyonetler için 4 yıllık bir amortisman süresi öngörülmesine rağmen İşletme bu kamyoneti ekonomik olarak 250.000 km kullanabileceğini, bu km'yi de 5 yılda yapabileceğini ve 5 yıl sonra da bu aracı 20.000 ₺'ye satabileceğini tahmin etmektedir.<br><br>İşletme Doğrusal Amortisman Yöntemi'ni uygulamaktadır. İşletme 2013 yılı sonu itibariyle bu kamyonet için Türkiye Muhasebe Standartları'na göre kaç ₺ amortisman ayıracaktır?",
+    "options": [
+      "A) 3.000",
+      "B) 3.600",
+      "C) 6.000",
+      "D) 6.250",
+      "E) 6.750"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "I. Bir varlığın defter değeri yeniden değerleme sonucunda artmışsa, bu artış özkaynak hesap grubunda yeniden değerleme değer artışı adı altında toplanır.<br>II. Bir varlığın defter değeri yeniden değerleme sonucunda artmışsa ve aynı varlığın daha önce kayıtlanmış olan bir yeniden değerleme değer azalışı mevcutsa; bu azalışı tersine çevirdiği ölçüde muhasebeleştirilir.<br>III. Bir varlığın defter değeri yeniden değerleme sonucunda azalmışsa, bu azalma gider olarak muhasebeleştirilir.<br>IV. Bir varlığın defter değeri yeniden değerleme sonucunda azalmışsa ve aynı varlığın daha önce kayıtlanmış olan bir yeniden değerleme artışı mevcutsa, bu artış tersine çevrilmez.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, yeniden değerleme modelinin uygulanmasına ilişkin yukarıdakilerden hangileri doğrudur?",
+    "options": [
+      "A) I ve III",
+      "B) II ve IV",
+      "C) I, II ve III",
+      "D) I, III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "TMS 16 Maddi Duran Varlıklar standardına göre bir maddi duran varlık kalemine ilişkin özkaynak hesap grubunda yer alan yeniden değerleme değer artışı, ilgili varlık finansal durum tablosu (bilanço) dışı bırakıldığında aşağıda verilen hangi kaleme aktarılır?",
+    "options": [
+      "A) Geçmiş Yıllar Kârları",
+      "B) Geçmiş Yıllar Zararları",
+      "C) Dönem Kârı veya Zararı",
+      "D) Sermaye",
+      "E) Ortaklara Borçlar"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Bulut İşletmesi ürünlerinin dağıtımında kullandığı ve 2019 yılının başında 100.000 ₺ maliyete katlanarak edindiği bir taşıtı, araç fiyatlarındaki genel artışı göz önünde bulundurarak, 2021 yıl sonu itibarıyla yeniden değerlemeye tabi tutma kararı almıştır.<br><br>Edinme tarihinde ekonomik ömrü 5 yıl olarak belirlenen taşıtın bu sürenin sonunda hiçbir değeri olmayacağı düşünülmektedir. An itibarıyla piyasadaki satış fiyatı 45.000 ₺ olmasına rağmen, satılabilmesi için öncelikle 8.000 ₺ maliyete katlanılarak çiziklerinin giderilmesi ve bazı parçalarının yenilenmesi gerekmektedir.<br><br>Taşıtın işletme içinde kullanımına devam edilmesi durumunda ise 2021 yılındaki değeri ile 38.000 ₺ tutarında nakit akışı sağlayacağı düşünülmektedir.<br><br>İşletmenin taşıtlar için doğrusal amortisman yöntemi kullandığı durumda, 2021 yıl sonunda aşağıda verilen hangi şekilde muhasebeleştirme işleminin yapılması gerekmektedir?",
+    "options": [
+      "A) 2.000 ₺ değer düşüklüğü ayrılır.",
+      "B) 3.000 ₺ değer düşüklüğü ayrılır.",
+      "C) 5.000 ₺ değer düşüklüğü ayrılır",
+      "D) 5.000 ₺ yeniden değerleme artışı kaydı yapılır.",
+      "E) 60.000 ₺ amortisman gideri kaydı yapılır."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "TMS-21 Kur Değişiminin Etkileri standardına göre, işletmenin faaliyet gösterdiği temel ekonomik çevrenin para birimine ne denir?",
+    "options": [
+      "A) Kayıtlı para birimi",
+      "B) Bağlı ortaklığın para birimi",
+      "C) Yabancı para birimi",
+      "D) Efektif para birimi",
+      "E) Geçerli para birimi"
+    ],
+    "answer": 4
+   },
+   {
+    "q": "TMS 21 Kur Değişiminin Etkileri'ne göre bir işletme, geçerli para biriminin tespitinde aşağıdaki faktörlerden hangisini dikkate almaz?",
+    "options": [
+      "A) İşletmenin yıllık bütçesini hazırladığı para birimi",
+      "B) Mal ve hizmetlerin satış fiyatlarını en çok etkileyen para birimi",
+      "C) Mal ve hizmetlere ilişkin işçilik, hammadde ve diğer maliyetleri en çok etkileyen para birimi",
+      "D) Finansman faaliyetlerinden (borçlanma, özkaynak araçları vb.) yaratılan fonların para birimi",
+      "E) İşletme faaliyetlerine ilişkin tahsilatların tutulduğu para birimi"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "TMS 21 Kur Değişiminin Etkileri'ne göre aşağıdakilerden hangisi geçerli para biriminin tespitinde dikkate alınacak faktörlerden biri değildir?",
+    "options": [
+      "A) Mal ve hizmetlere ilişkin maliyetleri en çok etkileyen para birimi",
+      "B) Mal ve hizmetlerin satış fiyatlarını en çok etkileyen para birimi",
+      "C) İşletmenin yerleşik bulunduğu ülkenin para birimi",
+      "D) Finansman faaliyetlerinden yaratılan fonların para birimi",
+      "E) İşletme faaliyetlerine ilişkin tahsilatların tutulduğu para birimi"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "I. Mal ve hizmetlerin satış fiyatlarını en çok etkileyen para birimi<br>II. Mal ve hizmetlere ilişkin işçilik, ham madde ve diğer maliyetleri en çok etkileyen para birimi<br>III. Finansman faaliyetlerinden yaratılan fonların para birimi<br>IV. İşletme faaliyetlerine ilişkin tahsilatların tutulduğu para birimi<br><br>TMS 21 Kur Değişiminin Etkileri standardına göre, yukarıdakilerden hangileri bir işletmenin geçerli para biriminin tespitinde dikkate alınması gereken faktörlerdendir?",
+    "options": [
+      "A) I ve II",
+      "B) I ve IV",
+      "C) I, II ve III",
+      "D) I, III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "answer": 4
+   },
+   {
+    "q": "TMS 21 Kur Değişiminin Etkileri standardına göre, yabancı paralı işlemlerin ilk kayda alınmasından sonraki raporlama dönemi sonundaki çevrim işlemlerine ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Tarihî maliyet ile değerlenen yabancı para birimindeki parasal olmayan kalemler kapanış kurundan çevrilir.",
+      "B) Gerçeğe uygun değer ile değerlenen yabancı para birimindeki parasal olmayan kalemler gerçeğe uygun değerin ölçüldüğü tarihteki döviz kurları kullanılarak çevrilir.",
+      "C) Parasal olmayan bir kalemden kaynaklanan kazanç ya da zarar diğer kapsamlı gelirde muhasebeleştirilirse, bu kazanç ya da zararın kurdan kaynaklanan kısmı da diğer kapsamlı gelirde muhasebeleştirilir.",
+      "D) Parasal olmayan bir kalemden kaynaklanan kazanç ya da zarar, kâr ya da zararda muhasebeleştirilirse, bu kazanç ya da zararın kurdan kaynaklanan kısmı da kâr ya da zararda muhasebeleştirilir.",
+      "E) Yabancı paralı parasal kalemler kapanış kurundan çevrilir."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "TMS 21 Kur Değişim Etkileri standardına göre, her raporlama dönemi sonunda gerçekleştirilen çevrim işlemleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Yabancı paralı parasal kalemler, işlem tarihindeki kurdan çevrilir.",
+      "B) Yabancı paralı parasal kalemler, kapanış kurundan çevrilir.",
+      "C) Gerçeğe uygun değerden ölçülen yabancı paralı parasal kalemler, gerçeğe uygun değerin ölçüldüğü tarihteki döviz kurları kullanılarak çevrilir.",
+      "D) Tarihi maliyet cinsinden ölçülen yabancı paralı parasal kalemler, işlem tarihindeki döviz kuru kullanılarak çevrilir.",
+      "E) Yabancı paralı parasal olmayan kalemler, bilanço tarihindeki kurdan çevrilir."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "TMS 21 Kur Değişiminin Etkileri Standardına göre, ilk muhasebeleştirme sırasında ve raporlama dönemi sonunda gerçekleştirilecek çevrim işlemlerine ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Raporlama dönemi sonunda, tarihi maliyet cinsinden ölçülen yabancı para birimindeki parasal olmayan kalemler işlem tarihindeki döviz kuru kullanılarak çevrilir.",
+      "B) İşletmenin geçerli para birimi, yüksek enflasyonlu bir ekonominin para birimi ise işletme çevirme yöntemini kullanmadan önce, finansal tabloları TMS 29 Yüksek Enflasyonlu Ekonomilerde Finansal Raporlama Standardına göre, düzeltir.",
+      "C) Raporlama dönemi sonunda, yabancı para birimindeki parasal kalemler işlem tarihindeki kurdan çevrilir.",
+      "D) Bir yabancı para işlemi, ilk muhasebeleştirme sırasında; yabancı para birimindeki tutara, geçerli para birimi ile işlem tarihindeki yabancı para birimi arasındaki geçerli kur uygulanarak geçerli para biriminden kaydedilir.",
+      "E) Raporlama dönemi sonunda, gerçeğe uygun değerden ölçülen yabancı para birimindeki parasal olmayan kalemler, gerçeğe uygun değerin ölçüldüğü tarihteki döviz kurları kullanılarak çevrilir."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "TMS 38 Maddi Olmayan Duran Varlıklar standardına göre, aşağıdakilerden hangisi varlık olarak muhasebeleştirilmez?",
+    "options": [
+      "A) Patentler",
+      "B) Bilgisayar yazılımları",
+      "C) Lisanslar",
+      "D) İşletme içi yaratılan şerefiye",
+      "E) Markalar"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "I. İşletme içinde yaratılan şerefiye<br>II. Araştırma Giderleri<br>III. Geliştirme Giderleri<br>IV. Müşteri Listeleri<br>V. Marka Değeri<br><br>TMS 38 Maddi Olmayan Duran Varlık standardına göre, yukarıda sıralanan ve işletme içinde yaratılan unsurlardan hangisinin/hangilerinin aktifleştirilmesine izin verilmektedir?",
+    "options": [
+      "A) Yalnız II",
+      "B) Yalnız III",
+      "C) II ve IV",
+      "D) I, II ve III",
+      "E) I, III ve V"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "TMS 38 Maddi Olmayan Duran Varlıklar standardına göre, maddi olmayan duran varlıklara ilişkin olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Sınırlı yararlı ömrü olan maddi olmayan duran varlıklar itfaya tabi tutulur, değer düşüklüğü testi yapılmaz.",
+      "B) Sınırlı yararlı ömrü olan maddi olmayan duran varlıklar itfaya tabi tutulmaz, değer düşüklüğü testi yapılır.",
+      "C) Sınırsız yararlı ömrü olan maddi olmayan duran varlıklar itfaya tabi tutulmaz, değer düşüklüğü testi yapılır.",
+      "D) Sınırsız yararlı ömrü olan maddi olmayan duran varlıklar itfaya tabi tutulur, değer düşüklüğü testi yapılır.",
+      "E) Sınırsız yararlı ömrü olan maddi olmayan duran varlıklar itfaya tabi tutulur, değer düşüklüğü testi yapılmaz."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "TMS 38 Maddi Olmayan Duran Varlıklar Standardı dikkate alındığında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Araştırma harcamaları gerçekleştiğinde gider olarak muhasebeleştirilir.",
+      "B) İşletme içi yaratılan şerefiye, varlık olarak muhasebeleştirilmez.",
+      "C) Maddi olmayan duran varlıkların ilk muhasebeleştirilmeleri sonrası ölçümlerinde maliyet yöntemi veya yeniden değerleme yöntemi uygulanabilir.",
+      "D) Sınırsız bir yararlı ömre sahip olan maddi olmayan duran varlıklar, itfaya tabi tutulmaz ancak değer düşüklüğü testine tabi tutulur.",
+      "E) İşletme içi bir maddi olmayan duran varlık yaratılmasına ilişkin olarak araştırma ve geliştirme safhalarının birbirinden ayırt edilememesi durumunda, yapılan tüm harcamalar geliştirme safhasında yapılmış gibi dikkate alınır."
+    ],
+    "answer": 4
+   },
+   {
+    "q": "TMS-38 Maddi Olmayan Duran Varlıklar standardına göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bir maddi olmayan duran varlık ilk muhasebeleştirilmesi sırasında maliyet bedeli ile ölçülür.",
+      "B) Maddi olmayan duran varlık oluşumuna ilişkin araştırma harcamaları gerçekleştiğinde gider olarak muhasebeleştirilir.",
+      "C) Özellikli varlık niteliğindeki maddi olmayan duran varlık maliyetine borçlanma maliyeti eklenir.",
+      "D) Maddi olmayan duran varlığın ilk muhasebeleştirilmesi sonrası ölçümünde kullanılabilecek tek yöntem, maliyet modelidir.",
+      "E) Maddi olmayan duran varlığın itfa edilmesi için sınırlı yararlı ömrünün olması gerekir."
+    ],
+    "answer": 3
+   },
+   {
+    "q": "TMS 38 Maddi Olmayan Duran Varlıklar standardına göre bir yazılım şirketi kendi işletmesinde kullanılmak üzere yeni bir yazılım çalışması başlatmış ve aşağıdaki harcamaları yapmıştır:<br><br>• Alternatif yazılım dillerinin araştırılması: 2.000 ₺<br>• Yazılımın içeriğinin tasarlanması ve kodlanması: 25.000 ₺<br>• Siber saldırı testlerinin yapılması: 5.000 ₺<br>• Personele yazılımdaki modüllerin kullanılmasıyla ilgili eğitim verilmesi: 8.000 ₺<br><br>Buna göre bu işletmenin araştırma ve geliştirme faaliyetleri kapsamında yaptığı harcamalardan aktifleştireceği tutar kaç TL'dir?",
+    "options": [
+      "A) 25.000",
+      "B) 30.000",
+      "C) 33.000",
+      "D) 38.000",
+      "E) 40.000"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Maddi olmayan duran varlıklarının ilk muhasebeleştirme sonrasında ölçümünde maliyet modelini uygulayan bir film yapım şirketinin sahibi olduğu bir telif hakkının maliyet bedeli 500.000 ₺, tüm birikmiş itfa payı 150.000 ₺ ve birikmiş değer düşüklüğü zararları 50.000 ₺'dir.<br><br>TMS 38 Maddi Olmayan Duran Varlıklar'a göre, film yapım şirketi bu telif hakkını dönem sonunda finansal durum tablosunda hangi tutarla ölçer?",
+    "options": [
+      "A) 300.000",
+      "B) 350.000",
+      "C) 400.000",
+      "D) 450.000",
+      "E) 500.000"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "X kozmetik firması bir AR-GE merkezinden yaşlıların kullanımına uygun yeni bir şampuanın üretim patentini satın almıştır.<br><br>Patent alımı için avukatlık ödemesi gerçekleştirmiş, ayrıca yaşlı müşterilere yönelik yeni bir reklam kampanyası başlatmıştır.<br><br>TMS 38 Maddi Olmayan Duran Varlıklar standardına göre patentin maliyeti aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Patentin satın alma bedeli + reklam giderleri",
+      "B) Patentin satın alma bedeli + avukatlık ücreti",
+      "C) Patentin satın alma bedeli + avukatlık ücreti + reklam giderleri",
+      "D) Patentin satın alma bedeli - avukatlık ücreti",
+      "E) Patentin satın alma bedeli + avukatlık ücreti - reklam giderleri"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Ünlü bir yazarın ödüllü bir kitabının telif hakkını satın alan F yayınevi şirketi, söz konusu hakkı TMS 38 Maddi Olmayan Duran Varlıklar standardına göre maliyet bedeli ile finansal durum tablosuna almıştır. Telif hakkının sınırsız yararlı ömre sahip olduğu belirlenmiştir.<br><br>Bu durumda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Telif hakkı amortismana ve değer düşüklüğü testine tabi tutulmaz.",
+      "B) Telif hakkının yararlı ömrü 10 yıl olarak kabul edilerek amortisman ayrılır; değer düşüklüğü testine tabi tutulmaz.",
+      "C) Telif hakkı amortismana tabi tutulmaz; yıllık olarak değer düşüklüğü testine tabi tutulur.",
+      "D) Telif hakkının yararlı ömrü 10 yıl olarak kabul edilerek amortisman ayrılır ve 10 yıllık sürelerle değer düşüklüğü testine tabi tutulur.",
+      "E) Telif hakkı amortismana tabi tutulmaz; 10 yıllık sürelerle değer düşüklüğü testine tabi tutulur."
+    ],
+    "answer": 2
+   }
   ],
+    
   "Çalışma Soruları (Kamp)": [
     {
       "ders": "Finansal Muhasebe",
