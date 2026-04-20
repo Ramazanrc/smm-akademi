@@ -79,6 +79,15 @@
             .content, main, .question-area {
                 padding-bottom: 100px !important; 
             }
+
+            /* 7. MOBİL SORU ÇÖZME ALANI BOYUT DÜZELTMESİ */
+            /* Panel mobilde ekranın dışına taşmasın diye ilk açılış konumunu düzeltiyoruz. */
+            #karalama-tahtasi {
+                width: 90% !important;
+                left: 5% !important;
+                top: 15% !important;
+                max-width: 350px !important;
+            }
         }
         @media (min-width: 769px) { #mobil-geri-btn { display: none !important; } }
     </style>
@@ -410,7 +419,7 @@ function kilitAc() {
             </div>
         </div>
         <div style="position: relative; width: 350px; height: 400px; background: #f8fafc;">
-            <textarea id="karalama-metin" placeholder="Hesaplamalarınızı klavye ile buraya yazabilirsiniz..." style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; padding: 15px; font-size: 15px; font-family: monospace; resize: none; outline: none; background: transparent; z-index: 2; line-height: 1.5; color: #0f172a; box-sizing: border-box;"></textarea>
+            <textarea id="karalama-metin" placeholder="Hesaplamalarınızı klavye veya dokunmatik ile buraya yazabilirsiniz..." style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; padding: 15px; font-size: 15px; font-family: monospace; resize: none; outline: none; background: transparent; z-index: 2; line-height: 1.5; color: #0f172a; box-sizing: border-box;"></textarea>
             <canvas id="karalama-canvas" width="350" height="400" style="position: absolute; top: 0; left: 0; cursor: crosshair; touch-action: none; z-index: 1; display: none;"></canvas>
         </div>
     </div>
@@ -1038,6 +1047,8 @@ function kilitAc() {
         }
         
         let isDragging = false, startX, startY, initialX, initialY; 
+
+        // === FARE (MOUSE) İLE SÜRÜKLEME KODLARI (MASAÜSTÜ) ===
         baslik.addEventListener("mousedown", (e) => { 
             isDragging = true; 
             startX = e.clientX; 
@@ -1055,7 +1066,28 @@ function kilitAc() {
         
         document.addEventListener("mouseup", () => { isDragging = false; });
         
+        // === DOKUNMATİK (TOUCH) İLE SÜRÜKLEME KODLARI (MOBİL) ===
+        baslik.addEventListener("touchstart", (e) => { 
+            isDragging = true; 
+            startX = e.touches[0].clientX; 
+            startY = e.touches[0].clientY; 
+            const rect = tahta.getBoundingClientRect(); 
+            initialX = rect.left; 
+            initialY = rect.top; 
+        }, { passive: true }); 
+        
+        document.addEventListener("touchmove", (e) => { 
+            if (!isDragging) return; 
+            tahta.style.left = (initialX + (e.touches[0].clientX - startX)) + "px"; 
+            tahta.style.top = (initialY + (e.touches[0].clientY - startY)) + "px"; 
+        }, { passive: true }); 
+        
+        document.addEventListener("touchend", () => { isDragging = false; });
+
+        
         let isDrawing = false; 
+
+        // === FARE (MOUSE) İLE ÇİZİM KODLARI (MASAÜSTÜ) ===
         canvas.addEventListener("mousedown", (e) => { 
             isDrawing = true; 
             ctx.beginPath(); 
@@ -1073,6 +1105,29 @@ function kilitAc() {
         
         canvas.addEventListener("mouseup", () => { isDrawing = false; }); 
         canvas.addEventListener("mouseleave", () => { isDrawing = false; });
+
+        // === DOKUNMATİK (TOUCH) İLE ÇİZİM KODLARI (MOBİL) ===
+        canvas.addEventListener("touchstart", (e) => { 
+            e.preventDefault(); // Sayfanın kaymasını engeller
+            isDrawing = true; 
+            const rect = canvas.getBoundingClientRect();
+            ctx.beginPath(); 
+            ctx.moveTo(e.touches[0].clientX - rect.left, e.touches[0].clientY - rect.top); 
+        }, { passive: false }); 
+        
+        canvas.addEventListener("touchmove", (e) => { 
+            if (!isDrawing) return; 
+            e.preventDefault(); // Sayfanın kaymasını engeller
+            const rect = canvas.getBoundingClientRect();
+            ctx.lineTo(e.touches[0].clientX - rect.left, e.touches[0].clientY - rect.top); 
+            ctx.strokeStyle = "#f97316"; 
+            ctx.lineWidth = 3; 
+            ctx.lineCap = "round"; 
+            ctx.stroke(); 
+        }, { passive: false }); 
+        
+        canvas.addEventListener("touchend", () => { isDrawing = false; });
+
     </script>
 </body>
 </html>
