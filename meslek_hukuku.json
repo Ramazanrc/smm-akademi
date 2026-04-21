@@ -4902,8 +4902,1812 @@
       ],
       "answer": 1
     }
-  ]
-}
-
-
-
+  ],
+  "Genel Çalışma (SGS Kamp Soruları)":  [
+  
+  {
+    "q": "Aşağıdakilerden hangisi meslek kanunun çıkarılış amaçları arasında yer almaz?",
+    "options": [
+      "A) İşletmelerde faaliyetlerin sağlıklı ve güvenilir olmasını sağlamak",
+      "B) İşletmelerin faaliyet sonuçlarını denetlemeye tabi tutarak ilgilerin ve resmi mercilerin istifadesine tarafsız şekilde sunmak",
+      "C) Yüksek Mesleki standartlar geliştirmek",
+      "D) Meslek Mensuplarına oda ve birlik kurmak bunlara ait teşkilat, organları oluşturmak",
+      "E) Mali tabloların muhasebe standartlarına uygunluğunu sağlamak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Meslek Mensuplarının meslek unvanlarını haksız kullanmaları durumunda bu konu nereye bildirilir?",
+    "options": [
+      "A) Maliye Bakanlığı",
+      "B) Cumhuriyet Savcılığı",
+      "C) Asliye Hukuk Mahkemesi",
+      "D) Asliye Ticaret Makemesi",
+      "E) Sulh ceza Mahkemesi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi meslek mensubu olmanın genel şartlarından değildir?",
+    "options": [
+      "A) Kamu Haklarından mahrum olmamak",
+      "B) Medeni Hakları Kullanma Ehliyetine sahip olmak",
+      "C) Ceza sonucu Memuriyetten çıkarılmama",
+      "D) T.C.K Kasten işlenen suçlardan dolayı 5 yıl ve daha fazla hapis cezasına yada affa uğramış olsa bile kaçakçılık, ihaleye fesat karıştırma, sahtecilik, dolandırıcılık gibi suçlardan ötürü ceza almamış olmak",
+      "E) Meslek şeref ve haysiyetine uymayan davranışlarda bulunmama"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisinde sınavsız smmm olan kişiler ve hizmet süreleri doğru olarak verilmiştir?",
+    "options": [
+      "A) Vergi Müfettişi-Öğretim Üyesi-Kamu bankasındaki Banka Müfettişi (5Yıl)",
+      "B) Vergi İnceleme Elemanı-Öğretim Üyesi-Kamu bankasındaki Banka Müfettişi (3Yıl)",
+      "C) Vergi İnceleme Elemanı-Kamu bankasındaki Banka Müfettişi (8Yıl)",
+      "D) Vergi Müfettişi-Öğretim Üyesi-Kamu bankasındaki Banka Müfettişi (2Yıl)",
+      "E) Vergi İnceleme Elemanı-Öğretim Üyesi-Kamu bankasındaki Banka Müfettişi (4Yıl)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "SMMM sınav komisyonu ile ilgili hangisi yanlıştır?",
+    "options": [
+      "A) Üyelerden 2'si Maliye Bakanlığını, 3 üye Yök, 2 si birliği temsil eder.",
+      "B) Komisyon 7 kişidir.",
+      "C) Üyeler Birlik tarafından seçilir.",
+      "D) Üyelerin 15 yıl alanında uzman meslek mensubu yada öğretim üyeliği yapmış olması gerekir.",
+      "E) Üyelerin 4 yıllık ilgili alanlarda lisans yada lisansüstü diploma şartı aranır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 10 yıl SMMM'likte geçen sürelerden sayılmaz?",
+    "options": [
+      "A) Vergi İnceleme elemanlarının kamu kurum ve kuruluşlarında geçen süreleri",
+      "B) Bilanço usulüne göre defter tutan kuruluşlarda 1.derecede imza yetkilisine sahip veya muhasebenin sevk ve idaresinden sorumlu olanlar",
+      "C) YMM ve SMMM şirketlerinde geçen süreler",
+      "D) SMMM bağımlı geçen süreler",
+      "E) Kanunları uyarınca vergi inceleme yetkisini almış ama mesleki yeterlilik sınavında başarılı olamayanların sınav tarihinden sonra vergi inceleme yetkisini almaksızın kamu kurum ve kuruluşlarında geçen süreler"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi odanın kuruluş amacı dışındadır?",
+    "options": [
+      "A) Meslek mensuplarının ihtiyaçlarını karşılamak",
+      "B) Meslek mensuplarının faaliyetlerini kolaylaştırmak",
+      "C) Meslek mensuplarının birbiriyle ve iş sahipleriyle olan ilişkilerinde güveni hakim kılmak",
+      "D) Bu mesleklerin genel menfaatlerine uygun gelişimini sağlamak",
+      "E) Odanın sorumlu organlarının görev alanlarını tanımlamak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Odalarla ilgili durumlardan hangisi yanlıştır?",
+    "options": [
+      "A) Bölgesi içinde 250 meslek mensubu olan il ve bölgesi içinde 250 meslek mensubu olan ilçelerde oda kurulur.",
+      "B) Sadece ilçelerde oda kurulması için 100 meslek mensubu yazılı başvuruda bulunmalıdır.",
+      "C) Yeterli sayıda meslek mensubu olmayan veya oda kurulmayan yerlerin en yakın odaya bağlanmasına ya da yeni oda kurmaya Maliye Bakanlığı karar verir.",
+      "D) Odalar kuruluşlarını Birlik Yönetim kurulu aracılığıyla Maliye Bakanlığına bildirimle Tüzel kişilik kazanırlar.",
+      "E) Amaçları dışında faaliyette bulunan oda varsa Asliye hukuk mahkemesinde odanın görevine son verilmesine karar verilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Odanın sorumlu organlarının görevine son verilmesinde usul açısından hangisi yanlıştır?",
+    "options": [
+      "A) Oda yönetim kurulu için oda genel kurulu üyeleri arasından Birlik yönetim kurulu için Birlik genel kurulu üyeleri arasından 5 kişi görevlendirilir.",
+      "B) Görevlendirilen bu 5 kişi görevine son verilen organlar gibi aynı şekilde sorumludurlar.",
+      "C) Görevine son verilen organların yerine 2 ay içinde yenileri seçilir.",
+      "D) Görevine son verilen organ üyelerinin cezai sorumlulukları saklıdır.",
+      "E) Ancak milli güvenliğin, kamu düzenine ve yakalamada gecikmede sakınca varsa Vali odayı faaliyetten men edebilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler odalarının organlarının genel kurulunun toplantı usulüyle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Oda Genel Kurulu üye tam sayısının salt çoğunluğu ile toplanır.",
+      "B) İlk toplantıda yeterli çoğunluk sağlanamazsa ikinci toplantıda çoğunluk aranmaz.",
+      "C) İkinci toplantı sayısı; Yönetim, Disiplin ve Denetleme Kurulları asıl üyelerinin toplamının iki katından aşağı olamaz.",
+      "D) Oda Genel Kurulu üye tam sayısının 2/3 çoğunluğu ile toplanır.",
+      "E) Genel Kurul toplantılarında kararlar hazır bulunanların salt çoğunluğu ile alınır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve yeminli mali müşavirler odalarının organlarından biri olan yönetim kurulu kaç üyeden oluşur?",
+    "options": [
+      "A) Yönetim Kurulu, 4 asıl ve 5 yedek üyeden oluşur.",
+      "B) Yönetim Kurulu, 5 asıl ve 5 yedek üyeden oluşur.",
+      "C) Yönetim Kurulu, 6 asıl ve 5 yedek üyeden oluşur.",
+      "D) Yönetim Kurulu, 6 asıl ve 5 yedek üyeden oluşur.",
+      "E) Yönetim Kurulu, 9 asıl ve 5 yedek üyeden oluşur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler odalarının organlarından biri olan yönetim kurulunun görevlerinden biri değildir?",
+    "options": [
+      "A) Odanın bütçe teklifini düzenlemek",
+      "B) Oda Genel Kuruluna çalışmaları hakkında rapor vermek",
+      "C) Genel Kurul kararlarını yerine getirmek.",
+      "D) Oda adına taşınır ve taşınmaz mal almak, satmak",
+      "E) Disiplin Kurulu üyelerini belirlemek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve yeminli mali müşavirler odalarının organlarından biri olan \"Oda Disiplin Kurulu\"nun görevleri ve işleyiş usulü ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Üyeler hakkında disiplin soruşturması yapmak",
+      "B) Üyeler hakkında yönetim kurulunun isteği üzerine disiplin incelemesi yapmak",
+      "C) Üyeler hakkında disiplinle ilgili kararları vermek",
+      "D) Üyeler hakkında disiplin cezaları vermek.",
+      "E) Üye adayları hakkında üyelik kararını vermek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Birlik Yönetim Kurulunun kuruluş yapısına ilişkin olarak aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yönetim Kurulu dokuz asıl ve dokuz yedek üyeden oluşur",
+      "B) Yönetim Kurulu üyelerinden beşinin yeminli mali müşavir olması zorunludur.",
+      "C) Yönetim Kurulu üyelerinden yalnızca yeminli mali müşavir olanlar oy kullanabilir.",
+      "D) Yönetim Kurulu kendi üyeleri arasından bir başkan, bir genel sekreter ile bir muhasip seçer.",
+      "E) Yönetim Kurulu Başkanı yeminli mali müşavirler arasından seçilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Birlik Yönetim Kurulunun görevlerine ilişkin olarak aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Genel Kurul kararlarını yerine getirmek.",
+      "B) Birlik adına taşınır ve taşınmaz mal almak, satmak,",
+      "C) Bütçeyi yapmak ve uygulamak.",
+      "D) Asgari ücret tarifesini Maliye ve Gümrük Bakanlığının tasdikine sunmak.",
+      "E) Oda Disiplin kurullarının kararlarına karşı yapılacak itirazları incelemek ve bu konularda gerekli kararları vermek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Birlik Yönetim Kurulunun görevlerine ilişkin olarak aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Asgari ücret tarifelerini Maliye ve Gümrük Bakanlığının tasdikine sunmak.",
+      "B) Sınavları yapmak.",
+      "C) Mesleki ruhsatları vermek.",
+      "D) Birliğin işlem ve hesaplarını denetlemek",
+      "E) Bütçeyi yapmak ve uygulamak."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi odanın gelirlerinden değildir?",
+    "options": [
+      "A) Yıllık üye aidatı",
+      "B) Yardım ve Bağışlar",
+      "C) Kurs, staj seminer ücretleri",
+      "D) Odaya giriş ücreti",
+      "E) Birlik Payı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi oda aidatları ve ödeme zamanlarıyla ilgili yanlış ifadedir?",
+    "options": [
+      "A) Maktu Aidat: Ocak ayı içinde ödenir.",
+      "B) Nispi Aidat: Mayıs ve Ekim aylarında ödenir.",
+      "C) Diğer Maktu ödentiler: Talepte bulundukları hizmetlerden yararlanmadan önce",
+      "D) Diğer Nispi Ödentiler: Odaca sağlanan menfaatlerin neticelenmesini takiben 2 ay içinde",
+      "E) Odaya giriş aidatı: Odaya kayıt için müracaatta ödenir. Odadan nakilde %50 indirimli ödenir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi aidatlarla ilgili yanlış ifadedir?",
+    "options": [
+      "A) Maktu aidat odaya kayıtlı tüm üyeler tarafından ödenir.",
+      "B) Nispi Aidat Çalışanlar Listesine kayıtlı olanlardan kazancın %2 si üzerinden ödenir.",
+      "C) Şirket ortaklarının her birince ödenen nispi aidat G.V Mükellefi olan meslek mensubunun en az nispi aidat ödeyeninden daha düşük olamaz.",
+      "D) Aidatlar 200 rakamının bütçe memur taban aylığı katsayısının çarpımı ile bulunacak tutardan az olamaz.",
+      "E) Maktu ve Nispi aidatlar Odanın genel kurulunda belirlenir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisinde oda organları teşekkülü yanlış şekilde verilmiştir?",
+    "options": [
+      "A) Odanın genel kurulu Odaya kayıtlı tüm üyelerin katılımıyla oluşur.",
+      "B) Yönetim kurulu üye sayısı 1000 den az olan odalarda 5A+5Y üyeden oluşur.",
+      "C) Disiplin Kurulu Üye sayısı 50 Den az olan odalarda 3A+1Y Üye vardır.",
+      "D) Disiplin Kurulu Üye sayısı 100 Den az olan odalarda 3A+1Y Üye vardır.",
+      "E) Denetleme Kurulu üye sayısı 3A+1Y üyeden oluşur."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Oda Yönetim Kurulu ile ilgili hangisi yanlış ifadedir?",
+    "options": [
+      "A) Odanın hukuki temsilcisi Yönetim Kurulu başkanıdır.",
+      "B) Odalarda üst üste 2 defa yönetim kurulu başkanı olanlar aradan 3 seçim dönemi geçmeden yönetim kuruluna üye olamazlar.",
+      "C) Yönetim Kurulu üyeleri kayıtlı olduğu meslek odasında 3 yıl kıdemli serbest veya bağımlı fiili çalışan meslek mensupları arasından seçilir.",
+      "D) Yönetim Kurulu 3 yıl için seçilir.",
+      "E) Yönetim Kurulu toplu olarak görevden ayrılması veya asıl üye sayısının yarıdan aşağı düşmesi ve yedeklerin kalmaması halinde Oda Genel Kurulu oda denetçileri veya Maliye Gümrük Bakanlığı tarafından olağanüstü toplantıya çağırılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Yönetim Kurulu Başkanın görevlerinden değildir?",
+    "options": [
+      "A) Odayı hukuki bakımdan temsil etmek",
+      "B) Yönetim kurulunu olağan ve olağanüstü toplantıya davet etmek.",
+      "C) Odanın sevk ve idaresini sağlamak",
+      "D) Yönetim kurulunca alınan kararların yerine getirilip getirilmediğini denetlemek.",
+      "E) Odanın işlem ve hesaplarını denetlemek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Oda organlarının toplantılarıyla ilgili hangisi yanlış bir ifadedir?",
+    "options": [
+      "A) Genel kurul Üye tamsayısının salt çoğunluğu ile toplanır kararlar hazır bulunanların salt çoğunluğu ile verilir.",
+      "B) Yönetim Kurulu salt çoğunlukla toplanır, Üye tamsayısının salt çoğunluğu ile karar verilir.",
+      "C) Disiplin Kurulu en az 10 kişinin hazır bulunmasıyla toplanır, üye tamsayısının salt çoğunluğu ile karar verilir.",
+      "D) Disiplin Kurulu toplantısında oylarda eşitlik varsa başkanın bulunduğu taraf üstün seçilir.",
+      "E) Disiplin Kurulu toplantısında başkanın bulunmadığı zaman meslekte en kıdemli üye kurula başkanlık eder."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi oda genel kurulu toplantısıyla ilgili doğru olan ifadedir?",
+    "options": [
+      "A) Genel Kurul Üye tamsayısının salt çoğunluğu ile toplanır. İlk toplantıda yeterli çoğunluk sağlanmazsa ikinci toplantıda çoğunluk aranmaz.<br>İkinci toplantı yeter sayısı yönetim, disiplin, denetleme kurulu asıl üyelerinin toplamının iki katından aşağı olamaz.",
+      "B) Genel Kurul Üye tamsayısının salt çoğunluğu ile toplanır. İlk toplantıda yeterli çoğunluk sağlanmazsa ikinci toplantıda çoğunluk aranmaz.<br>İkinci toplantı yeter sayısı yönetim, disiplin, denetleme kurulu asıl üyelerinin toplamının üç katından aşağı olamaz.",
+      "C) Genel Kurul Üye tamsayısının salt çoğunluğu ile toplanır. İlk toplantıda yeterli çoğunluk sağlanmazsa ikinci toplantıda çoğunluk aranır.",
+      "D) Genel Kurul Üye tamsayısının salt çoğunluğu ile toplanır. İlk toplantıda yeterli çoğunluk sağlanmazsa ikinci toplantıda çoğunluk aranmaz.<br>İkinci toplantı yeter sayısı yönetim, disiplin, denetleme kurulu asıl üyelerinin toplamının dört katından aşağı olamaz.",
+      "E) Genel Kurul Üye tamsayısının salt çoğunluğu ile toplanır. İlk toplantıda yeterli çoğunluk sağlanmazsa ikinci toplantı yapılmaz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Oda Genel Kurulunun görevi değildir?",
+    "options": [
+      "A) Oda Yönetim, Disiplin, Denetleme Kurulu üye seçimi",
+      "B) Uyulması mecburi mesleki kararlar alınması konusunda Birlik Genel Kuruluna teklifte bulunmak",
+      "C) Oda giriş ücreti, Yıllık üye aidatlarıyla ilgili tarife hazırlamak",
+      "D) Oda Disiplin Kurulu kararlarını uygulamak",
+      "E) Odanın taşınmazlarıyla ilgili Yönetim kuruluna yetki vermek."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Oda Yönetim Kurulu görevleri arasında değildir?",
+    "options": [
+      "A) Taşınmazlarla ilgili yönetim kurulu başkan ve üyelerine yetki vermek",
+      "B) Genel Kurula Çalışma raporu teklif hazırlamak",
+      "C) Meslek mensupları hakkında disiplin soruşturması başlatmak",
+      "D) Asgari ücret tarifesini Birlik Yönetim Kurulu onayına sunmak",
+      "E) Uyulması mecburi mesleki kararlar alınması konusunda Birlik Genel Kuruluna teklifte bulunmak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Oda Disiplin Kurulu toplantısıyla ilgili yanlış ifadedir?",
+    "options": [
+      "A) En az 3 kişinin hazır bulunmasıyla toplanırlar.",
+      "B) Kararlar Üye tamsayısının salt çoğunluğu ile verilir.",
+      "C) Oylarda eşitlik varsa başkanın bulunduğu taraf üstün seçilir.",
+      "D) Başkan yoksa meslekte en kıdemli üye başkanlık eder.",
+      "E) Oda Disiplin Kurulu kararlarına karşı 15 gün içinde Birliğe itiraz edilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Yönetim Kurulu başkan ve üyeleri hakkında yanlış bir bilgidir?",
+    "options": [
+      "A) Yönetim Kurulu hakkında verilen kararları başkan ve üyelerde imzalar.",
+      "B) Ardı ardına 3 defa mazeretsiz toplantıya katılmayanlar yönetim kurulu kararıyla istifa etmiş sayılırlar.",
+      "C) Başkan ve üyeler kendileriyle alakalı toplantılara katılamazlar.",
+      "D) Yönetim Kurulunun görevi olan taşınmazlarla ilgili yetkiyi başkan ve üyelerde imzalar.",
+      "E) Başkan ve üyeler hakkındaki disiplin soruşturmasını Denetleme Kurulu yürütür."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Birlik payı ödeme zamanı ve oranı hakkında doğru olan seçenektir?",
+    "options": [
+      "A) Birlik payı izleyen ayın 20 sine kadar odaların brüt gelirinin %15 ini aşmayacak şekilde odadan alınır.",
+      "B) Birlik payı izleyen ayın 15 ine kadar odaların brüt gelirinin %15 ini aşmayacak şekilde odadan alınır.",
+      "C) Birlik payı izleyen ayın 10 nuna kadar odaların brüt gelirinin %15 ini aşmayacak şekilde odadan alınır.",
+      "D) Birlik payı izleyen ayın 15 ine kadar odaların brüt gelirinin %10 nunu aşmayacak şekilde odadan alınır.",
+      "E) Birlik payı izleyen ayın 25 ine kadar odaların brüt gelirinin %15 ini aşmayacak şekilde odadan alınır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Birlik Yönetim Kurulu görevlerinden değildir?",
+    "options": [
+      "A) Odalarca önerilen giriş ücreti ve yıllık üye aidatlarını Kurs staj ücretlerini Maliye Bakanlığının tasdikine sunmak",
+      "B) Odaların hazırladığı asgari ücret tarifesini Maliye Bakanlığı onayına sunmak",
+      "C) Taşınmaz mallarla ilgili Yönetim Kurulu başkan ve üyelerine yetki vermek",
+      "D) Bütçeyi yapmak",
+      "E) Denetim Kurulu kararlarını yerine getirmek."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Birlik Genel Kurulunun teşekkülünü ifade eder?",
+    "options": [
+      "A) Üye sayısına bağlı olmaksızın seçeceği 2 temsilciye ilave olarak üyelerin 1/75 oranında temsilci ve aynı sayıya kadar yedek temsilciden oluşur",
+      "B) Üye sayısına bağlı olmaksızın seçeceği 5 temsilciye ilave olarak üyelerin 1/60 oranında temsilci ve aynı sayıya kadar yedek temsilciden oluşur",
+      "C) Üye sayısına bağlı olmaksızın seçeceği 3 temsilciye ilave olarak üyelerin 1/75 oranında temsilci ve aynı sayıya kadar yedek temsilciden oluşur",
+      "D) Üye sayısına bağlı olmaksızın seçeceği 1 temsilciye ilave olarak üyelerin 1/75 oranında temsilci ve aynı sayıya kadar yedek temsilciden oluşur",
+      "E) Üye sayısına bağlı olmaksızın seçeceği 3 temsilciye ilave olarak üyelerin 1/70 oranında temsilci ve aynı sayıya kadar yedek temsilciden oluşur"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Birlik Yönetim Kurulu ile ilgili yanlış ifadedir?",
+    "options": [
+      "A) Birliğin hukuki temsilcisi yönetim kurulu başkanıdır.",
+      "B) Yönetim Kurulu başkanı en az 3 yıl süreyle YMM olanlar arasından seçilir.",
+      "C) Yönetim Kurulu üyelerinden 5 inin YMM olması gerekir.",
+      "D) Üst üste iki defa yönetim kurulu başkanı olanlar aradan iki seçim dönemi geçmeden yönetim kuruluna üye olamazlar.",
+      "E) Birlik genel kurulu üyeleri arasından 3 yıl için dokuz asıl dokuz yedek üyeden oluşur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Birliğin görevleri arasında yer almaz?",
+    "options": [
+      "A) Mesleğin gelişmesiyle ilgili çalışmalar yapmak",
+      "B) Odaları ilgilendiren konularda çeşitli mercilere görüş bildirmek",
+      "C) Odalar arası mesleki anlaşmazlıkları çözmek",
+      "D) Maliye ve Gümrük Bakanlığınca verilecek görevleri yerine getirmek",
+      "E) Meslek Mensuplarının ihtiyaçlarını karşılamak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, oda yönetim kurulu başkanının görevlerinden biri değildir?",
+    "options": [
+      "A) Tutanakların sağlıklı bir bicimde düzenlenmesini sağlamak",
+      "B) Yönetim kurulunca alınan kararların yerine getirilmesini sağlamak ve izlemek",
+      "C) Yönetim Kurulu toplantılarına başkanlık etmek",
+      "D) Oda denetleme kurulunun toplantılarına katılmak",
+      "E) Yönetim kurulunu olağan ve olağanüstü toplantıya çağırmak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirler Odası Genel Kurulunun görevlerinden biri değildir?",
+    "options": [
+      "A) Oda amaçlarının gerçekleştirilmesi için gereken kararları ve tedbirleri almak",
+      "B) Oda'nın bütçe teklifini hazırlamak",
+      "C) Oda'ya yazılacak adayların giriş ücretlerini ve Oda'ya yazılı olan üyelerin yıllık aidat miktarlarını tespit etmek",
+      "D) Oda yönetim kurulu tarafından yapılan teklifleri incelemek ve karara bağlamak",
+      "E) Oda yönetim kurulunun çalışma raporunu incelemek ve kabul etmek"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Birlik Genel Kurulu'nun oluşumu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Odaların üye sayısına bağlı olmaksızın seçeceği dört temsilciye ilave olarak, üyelerinin yetmişbeşte biri oranında seçeceği temsilcilerden oluşur.",
+      "B) Odaların üye sayısına bağlı olmaksızın seçeceği üç temsilciye ilave olarak, üyelerinin yetmişbeşte biri oranında seçeceği temsilcilerden oluşur.",
+      "C) Odaların üye sayısına bağlı olmaksızın seçeceği beş temsilciye ilave olarak, üyelerinin yetmişbeşte biri oranında seçeceği temsilcilerden oluşur.",
+      "D) Odaların üye sayısına bağlı olmaksızın seçeceği altı temsilciye ilave olarak, üyelerinin yetmişbeşte biri oranında seçeceği temsilcilerden oluşur.",
+      "E) Odaların üye sayısına bağlı olmaksızın seçeceği iki temsilciye ilave olarak, üyelerinin yetmişbeşte biri oranında seçeceği temsilcilerden oluşur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Oda Denetleme Kurulu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Üyeler Genel Kurul üyeleri arasından seçilir.",
+      "B) Üyeler ilk toplantılarında kendi aralarından bir başkan seçer.",
+      "C) Oda'nın işlem ve hesaplarını denetleyerek bu konuda Genel Kurul'a rapor sunmakla görevlidir.",
+      "D) Üyeler 2 yıl için seçilir.",
+      "E) Yönetim Kurulu ve Disiplin Kurulu üyeleri, Denetleme Kurulu'na seçilemezler."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "3568 Sayılı Kanun'a göre, aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirler Odası denetleme kurulunun görevidir?",
+    "options": [
+      "A) Oda'nın işlem ve hesaplarını denetlemek ve bu konuda Genel Kurul'a rapor vermek",
+      "B) Yönetim Kurulu ile birlikte odanın bütçe teklifini hazırlamak",
+      "C) Oda üyeleri hakkında disiplin soruşturması yaparak disiplinle ilgili kararları ve cezaları vermek",
+      "D) Oda üyeleri hakkındaki disiplin soruşturmalarının yerindeliğini denetlemek",
+      "E) Meslek mensuplarının uyulması zorunlu olan mesleki kararlara uyup uymadığını denetlemek"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "I. Oda'nın bütçe teklifini hazırlamak<br>II. Oda'nın amaçlarının gerçekleştirilmesi için gereken karları ve tedbirleri almak<br>III. Meslek mensuplarınca uyulması zorunlu mesleki kararlar alınması konusunda TÜRMOB'a (Birlik) tekliflerde bulunmak<br>IV. Oda'ya yazılacak adayların giriş ücretlerini veya Oda'ya yazılı üyelerin yıllık aidatlarını tespit etmek ve bunların ödeneceği tarihleri belirlemek<br><br>Yukarıdakilerden hangileri Serbest Muhasebeci Mali Müşavirler ve Yeminler Mali Müşavirler Odası Genel Kurulu'nun görevleri arasında yer alır?",
+    "options": [
+      "A) Yalnız II",
+      "B) I ve II",
+      "C) I ve IV",
+      "D) II ve III",
+      "E) II, III ve IV"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdaki ifadelerden hangisi 3568 sayılı Kanun'a göre, Serbest Muhasebeci Mali Müşavirler Odası Yönetim Kurulu üyelerinin seçilme yeterliliğini tam olarak açıklar?",
+    "options": [
+      "A) Kayıtlı oldukları meslek odasında en az beş yıldır kayıtlı olanlar arasından seçilirler ve mesleki faaliyette bulunmaları şart değildir.",
+      "B) Meslek odasına kayıtlı olmaları şart değildir, serbest muhasebeci mali müşavir ruhsatlarının bulunması yeterlidir.",
+      "C) Kayıtlı oldukları meslek odasında en az üç yıl kıdemli olup, serbest veya bir işyerine bağlı olarak bu Kanun hükümlerine göre fiilen mesleki faaliyette bulunanlar arasında seçilirler.",
+      "D) Kayıtlı oldukları meslek odasında en az beş yıl kıdemli olup, serbest veya bir işyerine bağlı olarak bu Kanun hükümlerine göre fiilen mesleki faaliyette bulunanlar arasından seçilirler.",
+      "E) Kayıtlı oldukları meslek odasında en az üç yıldır kayıtlı olanlar arasından seçilirler ve fiilen mesleki faaliyette bulunmaları şart değildir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Odalar, kuruluşlarını Birlik Yönetim Kurulu aracılığıyla Maliye Bakanlığı'na bildirmekle tüzel kişilik kazanırlar.",
+      "B) Yeterli sayıda meslek mensubu bulunmayan ve oda kurulamayan yerlerin en yakın odaya bağlanmasına veya bölge odaları kurulmasına Maliye Bakanlığı'nca karar verilir.",
+      "C) Ayrı ayrı kurulan Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları, bulundukları ilin veya ilçenin adıyla anılır.",
+      "D) Bölgesi içinde kendi mesleği konusunda en az 250 meslek mensubu bulunan il merkezlerinde ve İlçelerde (Büyükşehir belediyesi sınırları içindeki ilçeler hariç) bir oda kurulur.",
+      "E) İlçelerde oda kurulabilmesi için o ilçedeki en az 100 meslek mensubunun yazılı başvurusu aranır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Disiplin Kurulu (SMMMO-DK) ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) SMMMO-DK, üye sayısı 50'ye kadar olan odalarda beş, 50'den fazla olan odalarda yedi üyeden oluşur.",
+      "B) SMMMO-DK üyeleri, kayıtlı olduğu meslek odasında en az üç yıl kıdemli olup fiilen mesleki faaliyette bulunanlar arasından beş yıl için seçilir.",
+      "C) SMMMO-DK en az beş kişinin hazır bulunmasıyla toplanır. Kararlar üye tam sayısının salt çoğunluğu ile verilir.",
+      "D) SMMMO-DK'nun kararlarına karşı tebliğ tarihinden itibaren otuz gün içinde Birlik Disiplin Kurulu'na itiraz edilebilir.",
+      "E) SMMMO-DK toplantılarında oylarda eşitlik olması halinde, başkanın bulunduğu taraf üstün tutulamaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu'nda, \"meslek mensuplarınca uyulması zorunlu mesleki kararlar alınması konusunda Birliğe (TÜRMOB) tekliflerde bulunmak\" odanın hangi organının görevi olarak düzenlenmiştir?",
+    "options": [
+      "A) Denetleme Kurulu",
+      "B) Disiplin Kurulu",
+      "C) İç Koordinasyon Kurulu",
+      "D) Yönetim Kurulu",
+      "E) Genel Kurul"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "3568 sayılı \"Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununa göre, oda yönetim kurulu ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Üye sayısı yüzden fazla olan odalarda yönetim kurulu üyesi seçebilmek için kayıtlı olunan meslek odasında en az yedi yıl kıdemli olmak gerekir.",
+      "B) Yönetim Kurulu, genel kurulca kendi üyeleri arasından seçilen üye sayısı binin altında olan odalarda beş asıl ve beş yedek üyeden oluşur.",
+      "C) Yönetim Kurulu, kendi üyeleri arasından gizli oyla bir başkan, bir başkan yardımcısı, bir muhasip ile oda sekreterini seçer.",
+      "D) Odanın hukuki temsilcisi yönetim kurulu başkanıdır.",
+      "E) Yönetim Kurulu üyeleri üç yıl için seçilirler."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "I. Oda Yönetim Kurulu Başkanı<br>II. Yönetim Kurulu<br>III. Odaya kayıtlı üyelerin onda biri<br>IV. Disiplin Kurulu<br>V. Denetleme Kurulu<br><br>Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu'na göre, yukarıdakilerden hangilerinin Oda Genel Kurulunu toplantıya çağırma yetkisi vardır?",
+    "options": [
+      "A) I, II ve III",
+      "B) I, II ve V",
+      "C) I, III ve V",
+      "D) II, III ve IV",
+      "E) III, IV ve V"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Birden çok meslek mensubunun çalışmalarını ortaklık bürosu veya şirket şeklinde birleştirmeleri durumunda yapılan işlerden doğacak cezaî sorumluluklar kime aittir?",
+    "options": [
+      "A) Şirket sahip ve ortaklarına",
+      "B) Şirket yöneticilerine",
+      "C) İşi yapan meslek mensubuna",
+      "D) Şirket bünyesinde bulunan tüm meslek mensuplarına",
+      "E) Şirket bünyesinde bulunan en yüksek yetkili ve kıdemli meslek mensubuna"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Muhasebecilik mesleği mensuplarının uyması gereken kurallardan biri değildir?",
+    "options": [
+      "A) Meslek mensupları iş elde etmek için reklam sayılabilecek faaliyetlerde bulunamazlar.",
+      "B) Meslek mensupları basılı kâğıtlarında meslekî ve akademik unvanları dışında başka sıfat kullanamazlar.",
+      "C) Meslek mensupları sahip oldukları unvanlarla birlikte ticarî faaliyette bulunamazlar",
+      "D) Meslek mensuplarının ücret tarifesinin altında ücret karşılığında iş kabulü yasaktır",
+      "E) Meslek mensupları için aşırı içki ve kumar düşkünlüğünün herhangi bir yasağı yoktur."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Meslek mensuplarının kendilerine tevdi edilen defter ve belgelerin geri alınmasını sahibine yazı ile bildirmiş olduğu hallerde, saklama mükellefiyeti, bildirme tarihinden itibaren ne kadar süre içinde sona erer?",
+    "options": [
+      "A) 15 gün",
+      "B) 1 ay",
+      "C) 3 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "\"Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik\" hükümlerine göre, aşağıdakilerden hangisi serbest muhasebeci mali müşavirlerin çalışma konularından birisi değildir?",
+    "options": [
+      "A) Hesapların denetim standartlarına göre incelendiğini tasdik etmek",
+      "B) Gerçek ve tüzel kişilere ait teşebbüs ve işletmelerin mali mevzuat ve bunların uygulamaları ile ilgili işlerini düzenlemek",
+      "C) Mali tablo ve beyannamelerle ilgili konularda derecelendirme yapmak",
+      "D) Mali tablo ve beyannamelerle ilgili konularda yazılı görüş vermek",
+      "E) Mali tablo ve beyannamelerle ilgili konularda değerleme yapmak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi \"Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik\" hükümlerinde \"meslekle bağdaşan işler\" arasında yer almaz?",
+    "options": [
+      "A) Hayri ve ilmi kuruluşların yönetim kurulu üyeliği görevlerinde bulunmak",
+      "B) Anonim şirkete ortak olmak",
+      "C) Bilirkişilik yapmak",
+      "D) Ticari işletme işleten adi şirkete ortak olmak",
+      "E) Tasfiye memurluğu yapmak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "\"Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik\" hükümlerine göre, meslek mensuplarının hizmet verdikleri müşterilerini kayıtlı oldukları odalara bildirme sıklıkları, aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Altı ayda bir",
+      "B) Dokuz ayda bir",
+      "C) On iki ayda bir",
+      "D) Üç yılda bir",
+      "E) Beş yılda bir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik hükümlerine göre, aşağıdakilerden hangisi \"Meslekle ve Meslek Onuru ile Bağdaşmayan Hâller\" arasında yer almaz?",
+    "options": [
+      "A) Mesleki etik ve mesleki bağımsızlık kurallarını ihlal etmek",
+      "B) Yanında çalıştırdığı kişilere karşı uygunsuz davranışlarda bulunmak",
+      "C) Aşırı içki ve kumar düşkünlüğü ile tanınmak",
+      "D) İlgili mevzuat gereğince meslektaşlarına, müşterilerine ve kanunlara göre bilgi vermek zorunda olduğu kişi ve kuruluşlara bilgi vermemek veya kasten yanıltıcı bilgi vermek",
+      "E) Ücret tarifesinde belirtilen miktarlardan yüksek bir ücretle iş kabul etmek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik'te yer alan iş kabulü düzenlemesine göre aşağıdaki seçeneklerden hangisi yanlıştır?",
+    "options": [
+      "A) Meslek mensupları getirilen iş teklifini, gerekçe göstermek kaydı ile reddedebilirler.",
+      "B) Staj ve sınav sürecini tamamlayarak, mesleği yapmaya hak kazanan meslek mensupları, meslek ruhsatlarını aldığı tarihten iki yıl geçmedikçe, staj yaptıkları meslek mensuplarının rızası olmadan onların müşterilerine hizmet vermezler.",
+      "C) İşin kabul edilmemesine ilişkin red kararı gecikmeden iş sahibine bildirilir.",
+      "D) İş kabulü ve reddi ile ilgili uygulama esasları, Birlik tarafından mecburi meslek kararı ile belirlenir.",
+      "E) İki meslek mensubu tarafından red edilen iş sahibi ilgili odaya müracaat eder. Oda kendisine meslek mensubu belirler."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik' de, \"büro edinme zorunluluğu\" başlığı ile yapılmış düzenlemeye göre aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Büro standartları ve buna ilişkin usul ve esaslar Birlik Genel Kurulu'nda belirlenir.",
+      "B) Açılan işyerleri bağımsız büro şeklinde olmalıdır.",
+      "C) Açılan işyeri, başka bir serbest meslek faaliyeti veya ticarethane ile iç içe olamaz.",
+      "D) Meslek mensuplarının Türk Ticaret Kanunu'na göre bir meslek şirketi kurmaları halinde, şirket; kayıtlı olduğu odanın bulunduğu ilin sınırları içinde şube ve irtibat bürosu açabilir.",
+      "E) Meslekî faaliyetler aynı zamanda ev olarak kullanılan ikametgahlarda yürütülemez."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Çalışma Usul ve Esasları Yönetmeliği'ne göre, meslek mensupları, başka bir meslek mensubu ile mesleki sözleşmesi devam eden gerçek ve tüzel kişilere mesleki hizmet vermeye girişirlerse, aşağıdaki konulardan hangisindeki mesleki standart ihlal edilmiş olur?",
+    "options": [
+      "A) Haksız rekabet",
+      "B) Meslektaşlara karşı sorumluluk",
+      "C) İşletme sahip ve yöneticilerine karşı sorumluluk",
+      "D) Bağımsızlık",
+      "E) Dürüstlük, güvenilirlik ve tarafsızlık"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Çalışma Usul ve Esasları Hakkındaki Yönetmeliğe göre reklam yasağı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Meslek mensupları, unvanlarını kullanarak mesleki konularda ve bilimsel nitelikte gazete ve dergilerde devamlılık arz etmemek üzere yazı yazabilirler.",
+      "B) Sadece iş tekliflerinde kullanılmak ve yazılı, sözlü ve görüntülü yayın araçları ile yayınlanmamak üzere kendilerinin, ortaklık veya şirket kuruluşlarında görev yapan diğer meslek mensuplarının özgeçmişlerini kapsayan tanıtıcı broşür bastırabilirler.",
+      "C) Meslek mensuplarının, tabelalarına, kartvizit, rapor ve bunlara benzer diğer yazışma kağıtlarına, meslek unvanlarını, iletişim araçlarının numaralarını, açık adreslerini yazmaları reklam sayılır ve yasaktır.",
+      "D) Meslek mensupları iş elde etmek için, açık ve kapalı dolaylı ya da dolaysız yöntemlerle reklamlarını yapamazlar ve yaptıramazlar.",
+      "E) Kendileri veya mesleki ortaklık veya şirketleri adına işin gerektirdiği ciddiyet ve boyutta eleman ilanı verebilirler."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Çalışma Usul ve Esasları Hakkındaki Yönetmeliğe göre, meslek mensubu, denetim sırasında incelenen yerlerin ve kuruluşların gerçek durumlarını yansıtmadığı kanaatine varırsa, aşağıdaki denetim raporlarından hangisini düzenler?",
+    "options": [
+      "A) Olumsuz rapor",
+      "B) Olumlu rapor",
+      "C) Şartlı denetim raporu",
+      "D) Geçici rapor",
+      "E) İtiraz raporu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkındaki Yönetmelik hükümlerine göre meslek mensupları aşağıdaki işlerden hangisi için sözleşme yapmak zorunda değildir?",
+    "options": [
+      "A) Bilirkişilik yapmak",
+      "B) İnceleme, tahlil ve denetim yapma ve bunlarla ilgili, rapor ve benzerlerini düzenlemek",
+      "C) Defter tutmak",
+      "D) Süreklilik arz eden müşavirlik hizmetleri",
+      "E) Yeminli Mali Müşavirlerin tasdik işlemleri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Birden çok meslek mensubunun kendi aralarında meslek şirketi şeklinde çalışmalarını düzenleyen mecburi meslek kararına göre, aşağıdakilerden hangisi meslek mensuplarının kendi aralarında kurabilecekleri şirket türleri arasında gösterilmemiştir?",
+    "options": [
+      "A) Kollektif şirket",
+      "B) Ortaklık bürosu (adi şirket)",
+      "C) Sermayesi paylara bölünmüş komandit şirket",
+      "D) Anonim şirket",
+      "E) Limited şirket"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkındaki Yönetmeliğe göre, aşağıdakilerden hangisi meslek mensubunun çalışanlar listesinden silinmesini gerektiren durumlardan biri değildir?",
+    "options": [
+      "A) Mesleki faaliyette bulunmayacağını yazılı olarak bildirmesi",
+      "B) Çalışma bürosunu oda bölgesi dışına nakletmiş olması",
+      "C) Ruhsatnamenin verildiği tarihte, verilmemesini gerekli kılan sebeplerin varlığının sonradan tespit edilmiş olması",
+      "D) Çalışma bürosunu kapatmış olması",
+      "E) 3568 sayılı Kanun'a göre kınama cezası almış olması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Çalışma Usul ve Esasları Yönetmeliğine göre meslekle ve meslek onuruyla bağdaşmayan hallerden biri değildir?",
+    "options": [
+      "A) Yanında çalıştırdığı kişilere uygunsuz davranışlarda bulunmak",
+      "B) Aşırı içki ve kumar düşkünlüğü ile tanınmak",
+      "C) Meslektaşlarına, müşterilerine ve kanunlara göre bilgi vermek zorunda olduğu kişi ve kuruluşlara bilgi vermemek",
+      "D) Müşterilerden, ücret tarifesinde yazılı olan asgari ücretin üzerinde bir ücret talep etmek",
+      "E) Kanunlara göre yapılması yasak olan işlerden herhangi birini yapmak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi genel mesleki standartlar açısından, serbest muhasebeci, serbest muhasebeci mali müşavir ve yeminli mali müşavirlik mesleğinin temelini oluşturur?",
+    "options": [
+      "A) İşletme sahip ve yöneticilerine karşı taahhüt altına girmek",
+      "B) Sır saklamak",
+      "C) Sorumluluk sahibi olmak",
+      "D) Dürüst, güvenilir ve tarafsız olmak",
+      "E) Mesleki dayanışmada bulunmak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Çalışma Usul ve Esasları Hakkındaki Yönetmeliğe göre, aşağıdakilerden hangisi meslekle bağdaşan işlerden biri değildir?",
+    "options": [
+      "A) Kadrolu olarak çalışmak suretiyle öğretim ve eğitim amacı ile ders vermek",
+      "B) Tasfiye memurluğu yapmak",
+      "C) Seminer ve konferanslara katılmak",
+      "D) Anonim şirketlere ortak olmak",
+      "E) Bilirkişilik yapmak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Çalışma Usul ve Esasları Hakkındaki Yönetmeliğe göre, aşağıdakilerden hangisi Genel mesleki standartlar arasında yer alır?<br><br>I. Dürüstlük, Güvenilirlik, Tarafsızlık<br>II. Asgari ücretin üzerinde iş kabul etmek<br>III. Haksız Rekabet<br>IV. Mesleki Unvan ve Yeterlilik ilkesi<br>V. Mesleki Eğitim ve Bilgi<br>VI. Meslekte reklam yasağının ihlal edilmemesi",
+    "options": [
+      "A) I-II-III",
+      "B) I-III-IV-V",
+      "C) IV-V-VI",
+      "D) I-VI-IV",
+      "E) II-III-I-V"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Büro standartlarıyla ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Büro standartları Birlik genel kurulu tarafından belirlenir.",
+      "B) Büro tescil belgesi 2 ay, vize 3 yılda bir yapılır.",
+      "C) Aynı ilin sınırları içinde şube veya irtibat bürosu açılmaz.",
+      "D) Adres değişikliğinin 15 gün içinde odaya bildirilmesi gerekir.",
+      "E) Mesleki faaliyette bulunmayanlar ikametgahının bulunduğu bölgenin odasına kaydolurlar."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdaki konulardan hangisinde sözleşme yapılması zorunludur?<br><br>I) Süreklilik arz eden müşavirlik hizmetleri<br>II) İnceleme, Tahlil<br>III) Denetim ve Rapor düzenleme işleri<br>IV) Tasdik<br>V) Kar-Zarar Tablosu düzenlemek",
+    "options": [
+      "A) I-II-III-IV",
+      "B) II-III-V",
+      "C) I-II-III-IV",
+      "D) IV-V",
+      "E) II-IV-V"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi meslek mensuplarının sözleşmeleriyle ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Meslek mensubu ücretin ödenmemesi ve getirilen belgelerin sağlıklı olmaması durumunda tek taraflı sözleşme fesih edilebilir.",
+      "B) Meslek mensubu İnceleme, Tahlil, Denetim ve rapor düzenleme işlerinde sözleşme yapmak zorundadır.",
+      "C) Süreli ücret sözleşmesinin en az 1 yıllık olması gerekir.",
+      "D) Sözleşmelerde ücret yabancı para cinsinden ve yabancı dilde yapılabilir.",
+      "E) YMM Sözleşmelerini imzalarken ve fesih ederken 15 gün içinde Maliye Bakanlığına bildirim yaparlar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi defter ve belgelerin saklanması ve iadesiyle ilgili yanlış ifadedir?",
+    "options": [
+      "A) Meslek Mensupları iş bitiminde defter ve belgeleri iade etmek zorundadır.",
+      "B) İş bitiminden sonra bir dilekçe ile iş sahibine defter ve belgeler geri verilir.",
+      "C) Saklama mükellefiyeti bildirim tarihinden itibaren 1 ay içinde sona erer.",
+      "D) Sahipleri tarafından alınmayan defter ve belgeler Mükellefin bağlı olduğu vergi dairesine teslim edilir.",
+      "E) Sahipleri tarafından alınmayan defter ve belgeler Mükellefin bağlı olduğu odaya teslim edilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Çalışma Usul ve Esasları Hakkındaki Yönetmeliğe göre, aşağıdakilerden hangisi ticari faaliyet yasağı ile ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Meslek Mensupları tacirlik veya esnaflık yapamazlar.",
+      "B) Meslek Mensupları Ticari Mümessillik, Ticari vekillik, acentacılık yapamazlar.",
+      "C) Meslek Mensupları başka bir serbest mesleki faaliyette bulunamazlar.",
+      "D) Meslek Mensupları A.Ş ve LTD şirketlerde ortak olamazlar. Ama Yönetim kurulu üyeliği ve başkanlığı yapabilirler.",
+      "E) Adi ve kollektif şirketlerde ortak komandit şirketlerde komandite ortak olamazlar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik hükümlerine göre, aşağıdakilerden hangisi serbest muhasebeci mali müşavirlerin ortaklık bürosu ve şirket şeklinde faaliyette bulunma ile ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Ortaklık bürosu ve şirket şeklinde faaliyette bulunma ticari faaliyet sayılmaz.",
+      "B) Aynı unvana sahip meslek mensupları arasında kurulmalıdır.",
+      "C) Cezai sorumluluk işi yapan meslek mensubuna aittir.",
+      "D) Varislere intikal eden hisselerin 3 yıl içinde tasfiye edilmesi gerekir.",
+      "E) Yabancı isim ve unvanlar kullanılamaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik hükümlerine göre, aşağıdakilerden hangisi serbest muhasebeci mali müşavirlerin sır saklama ile ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Meslek mensupları yanında çalışanlar mesleki faaliyetleri dolayısıyla öğrendiği bilgi ve sırları açıklayamazlar.",
+      "B) Çeşitli kanunlarla muhbirlere tanınan hak ve menfaatlerden yararlanabilirler.",
+      "C) Adli ve idari her türlü inceleme ve soruşturma bu durumun istisnasıdır.",
+      "D) Tanıklık sırrın ifşası sayılmaz.",
+      "E) Meslek mensupları mesleki faaliyetleri dolayısıyla öğrendiği bilgi ve sırları açıklayamazlar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik hükümlerine göre, aşağıdakilerden hangisi nakil ile ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Meslek Mensupları bağlı olduğu oda yönetim kuruluna başvururlar.",
+      "B) Mesleki faaliyette bulunmayan meslek mensuplarının nakil suretiyle kayıt yaptırmaları ihtiyaridir.",
+      "C) Kayıt günü birliğe ve eski kayıtlı olduğu odaya bildirilir.",
+      "D) Varsa devam eden disiplin soruşturması eski odaca sürdürülür.",
+      "E) Nakil talebi odaya varış tarihinden itibaren 2 ay içinde incelenmezse otomatik kabul edilmiş sayılır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Staj Yönetmeliğine göre aşağıdakilerden hangisi stajdan sayılan sürelerden biri değildir?",
+    "options": [
+      "A) Doktoranın 18 ay'ı",
+      "B) Hukuk, iktisat, maliye, işletme, muhasebe bankacılık, kamu yönetimi ve siyasal bilimler dallarında eğitim veren fakülte ve yüksekokulların bu alanlarında öğretim üyesi veya görevlisi olarak çalışanların çalışma süreleri",
+      "C) Resmi tatil ve izinlerle, TURMOB ve TESMER'ce yapılan eğitim veya değerlendirmelerde gecen sureler",
+      "D) Kanunları uyarınca vergi inceleme yetkisine sahip olanların bu yetkiyi aldıktan sonra kamu hizmetlerinde gecen sureleri",
+      "E) Lisansüstü diploma ve tezinin ibraz edilmesi şartıyla iktisat, maliye, işletme, muhasebe, finansman, denetim ve vergi ile ilgili alanlarda lisansustu eğitim görenlerin bu eğitimde gecen surelerinin tamamı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "23.08.1997 tarihli Staj Yönetmeliğine göre aşağıdakilerden hangisi staj ilkelerinden biri değildir?",
+    "options": [
+      "A) Stajın amacı, mesleki disiplin, bilgi, deneyim ve yeterliliğe sahip meslek mensubu yetiştirmektir.",
+      "B) Aday meslek mensuplarının kendilerini yetiştirmelerine imkân sağlayacak ve yanında veya gözetim ve denetiminde staj yapılan meslek mensubunun mesleki faaliyetlerini aksatmayacak bir staj uygulaması esastır.",
+      "C) Staja giriş sınavını kazananların stajı tamamlayabilmesi için, TESMER tarafından düzenlenen eğitim programlarını tamamlayıp eğitim programı sonunda yapılacak sınavlarda başarılı olması ve staja ilişkin meslek mensubunca düzenlenecek tezkiyelerde olumlu değerlendirme almış olması şarttır.",
+      "D) Tezkiye olumlu değerlendirme ölçütü, 100 üzerinden yapılacak değerlendirmede 80 ve üzeri notu ifade eder.",
+      "E) Staj sonunda aday meslek mensuplarına staj katılım belgesi duzenleyip vermek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Staj Yönetmeliğine göre, yapılan denetlemelerde 1 yıl icinde kac kez mucbir sebep olmaksızın staj mahallinde bulunmayanların stajları iptal edilir?",
+    "options": [
+      "A) 6",
+      "B) 5",
+      "C) 4",
+      "D) 3",
+      "E) 2"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sınav Yönetmeliğine göre, aşağıdakilerden hangisi sınav sonuçlarına itirazın süresini, yapılacağı yeri ve şeklini göstermektedir?",
+    "options": [
+      "A) Sınav sonuçlarının Odalarda ilan tarihinden itibaren 30 gün içinde sözlü olarak ilgili Meslek Odasına yapılır.",
+      "B) Sınav sonuçlarının Odalarda ilan tarihinden itibaren 15 gün içinde sözlü olarak ilgili Meslek Odasına yapılır.",
+      "C) Sınav sonuçlarının Odalarda ilan tarihinden itibaren 15 gün içinde bir dilekçe ile TÜRMOB'a (Birlik) yapılır.",
+      "D) Sınav sonuçlarının Odalarda ilan tarihinden itibaren 30 gün içinde bir dilekçe ile TÜRMOB'a (Birlik) yapılır.",
+      "E) Sınav sonuçlarının Odalarda ilan tarihinden itibaren 30 gün içinde bir dilekçe ile ilgili Meslek Odasına yapılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Staj Yönetmeliği'ne göre, yıl içinde staj başvurusunun yapıldığı aylar aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
+    "options": [
+      "A) Nisan - Temmuz - Kasım",
+      "B) Mart - Ağustos - Aralık",
+      "C) Mayıs - Temmuz - Aralık",
+      "D) Mart - Temmuz - Kasım",
+      "E) Nisan - Ağustos - Aralık"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Temel Eğitim ve Staj Merkezi (TESMER) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) TESMER yönetim kurulu tarafından gerekli görülen illerde TESMER'in şubeleri açılır.",
+      "B) TESMER, aday meslek mensuplarının mesleki yayınlardan yararlanabilmesi için gerekli tedbirleri alır.",
+      "C) Odalar, TESMER'in taleplerine uygun staj uygulamalarının yapılmasını sağlamakla yükümlüdür.",
+      "D) TESMER, TÜRMOB'un staj programlarının hazırlanması, uygulanması ve denetlenmesi ile görevlidir.",
+      "E) TESMER, TÜRMOB yönetim kurulu tarafından meslek mensupları arasından seçilen yedi üye tarafından yönetilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "3568 sayılı Kanun'a göre, serbest muhasebeci mali müşavirlik sınav komisyonu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Sınav komisyonu 7 üyeden oluşur. Bu üyelerden 2'si Maliye Bakanlığı'nı, 3'ü Yüksek Öğretim Kurulu'nu, diğer 2 üye ise Birliği temsil eder.",
+      "B) Sınav komisyonu 7 üyeden oluşur. Bu üyelerden 5'i Maliye Bakanlığı'nı, 1'i Yüksek Öğretim Kurulu'nu, diğer 1 üye ise Birliği temsil eder.",
+      "C) Sınav komisyonu 9 üyeden oluşur. Bu üyelerden 5'i Maliye Bakanlığı'nı, 2'si Yüksek Öğretim Kurulu'nu, diğer 2 üye ise Birliği temsil eder.",
+      "D) Sınav komisyonu 9 üyeden oluşur. Bu üyelerden 4'ü Maliye Bakanlığı'nı, 3'ü Yüksek Öğretim Kurulu'nu, diğer 2 üye ise Birliği temsil eder.",
+      "E) Sınav komisyonu 5 üyeden oluşur. Bu üyelerden 2'si Maliye Bakanlığı'nı, 1'i Yüksek Öğretim Kurulu'nu, diğer 2 üye ise Birliği temsil eder."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Serbest Muhasebecilik Staj yönetmeliği hükümlerine göre aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Serbest Muhasebeci Mali Müşavir adayları için staj süresi 3 yıldır.",
+      "B) Staja ilişkin meslek mensubunca düzenlenen tezkiyelerde olumlu değerlendirme ölçütü, 100 üzerinden yapılacak değerlendirmede 80 ve üzeri notu ifade eder.",
+      "C) Staj programına uyulmadığı ya da yanında veya gözetim ve denetiminde staj yapılan meslek mensubunun uygun olmayan davranışlarda bulunduğu kanaatine varan aday meslek mensubu kendiliğinden stajını kesemez.",
+      "D) Resmi tatil ve izinlerle, Birlik ve TESMER'ce yapılan eğitim veya değerlendirmelerde geçen süreler stajdan sayılmaz.",
+      "E) Aday meslek mensupları, kendi nam ve hesaplarına meslek mensuplarının yapabilecekleri işleri yapamazlar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Serbest Muhasebecilik Staj yönetmeliği hükümlerine göre aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Staj, mücbir sebepler ve yurt dışı eğitim ile yurt dışı çalışma dışında kesintisiz olarak yapılır. Stajın yapıldığı işyerinin kapanması, askerlik sonrası staja başlama, nakil, işten çıkma ya da çıkarılma gibi durumlar nedeniyle staja toplamda en fazla bir yıl ara verilebilir.",
+      "B) Aday Meslek Mensubu; aleyhine verilmiş oda kararının tebliğ tarihinden itibaren on beş gün içinde Birliğe itiraz edebilir.",
+      "C) Staja her yılın Mayıs, Eylül ve Ocak aylarında başlanır. Staj kesintisiz yapılır. Yapılan denetlemelerde 1 yılda 3 defa mücbir sebep olmaksızın staj mahallinde bulunmayanların stajı iptal edilir.",
+      "D) Kanunun ve ilgili yönetmeliğin meslek mensupları hakkında düzenlemiş olduğu disiplin esasları, aday meslek mensuplarına da uygulanır.",
+      "E) Aday meslek mensupları Ticari faaliyet yasağı kapsamında değillerdir. Staj sırasında miras yolu ile gelen edinimler bir yıl içerisinde devredilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Disiplin Yönetmeliğine göre, aşağıdakilerden hangisi kınama cezası uygulanacak durumlardan biridir?",
+    "options": [
+      "A) Başka bir meslek mensubu ile sözleşmesi bulunan müşterilere bu durumu bilerek iş önerilmesi ve diğer meslek mensubu hakkında olumsuz yorumlarda bulunulması",
+      "B) Ticari faaliyet yasağına uyulmaması",
+      "C) Müşterilerin işlerine karşı ilgisiz kalınması",
+      "D) Müşteri bildirim listelerinin Oda'ya verilmemesi",
+      "E) Yasal düzenlemelere uygun tabela asılmaması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Disiplin Yönetmeliği'ne göre, meslek mensubuna görevinde ve davranışlarında kusurlu olduğunun yazı ile bildirilmesini iceren disiplin cezası aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Yeminli sıfatını kaldırma",
+      "B) Meslekten çıkarma",
+      "C) Uyarma",
+      "D) Kınama",
+      "E) Geçici olarak faaliyetten alıkoyma"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Disiplin Yönetmeliği'ne göre, Oda Disiplin Kurulu, disiplin soruşturması ile ilgili incelemeyi, Yönetim Kurulu'nun disiplin kovuşturması açılmasına dair kararının kendisine geliş tarihinden itibaren en geç ne kadar süre içinde sonuçlandırmak zorundadır?",
+    "options": [
+      "A) 1 yıl",
+      "B) 9 ay",
+      "C) 7 ay",
+      "D) 3 ay",
+      "E) 1 ay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Disiplin Yönetmeliği'ne göre, aday meslek mensubunun mesleğin vakar ve onuru ile bağdaşmayan işler yapmasına neden olunması veya bilerek izin verilmesi ya da bu eyleme göz yumulması, aşağıdaki disiplin cezalarından hangisinin verilmesini gerektirir?",
+    "options": [
+      "A) Kınama",
+      "B) Uyarma",
+      "C) Yeminli sıfatını kaldırma",
+      "D) Geçici olarak mesleki faaliyetten alıkoyma",
+      "E) Meslekten çıkarma"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre aşağıdaki durumlardan hangisinde \"Geçici Olarak Mesleki Faaliyetten Alıkoyma Cezası\" uygulanır?",
+    "options": [
+      "A) Yeminli Mali Müşavirlerin, tasdik yetkilerini mükerreren kasten gerçeğe aykırı kullandıklarının anlaşılması ve bu durumun mahkeme kararı ile kesinleşmesi",
+      "B) Meslek mensuplarının kasten vergi ziyaına sebebiyet verdiklerinin mahkeme kararı ile kesinleşmesi",
+      "C) Meslek mensubu olmayan veya mesleği yapması yasaklanmış kişilerle ilgili kanun ve yönetmelik hükümlerine aykırı olarak işbirliği yapılması",
+      "D) Çalışanlar listesine kaydolmadan unvan kullanarak, mesleki faaliyette bulunulması",
+      "E) Mesleğin yürütülmesi esnasında, görev ile ilgisi olmayan konularda, çıkar çatışmalarına taraf olunması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliğine göre aşağıdakilerden hangisi \"meslekten çıkarma cezası\"nı gerektiren hallerden biri değildir?",
+    "options": [
+      "A) Mesleğin yürütülmesi sırasında, meslek dolayısıyla işlenen suçlardan dolayı ağır hapis cezası ile cezalandırılmış olunması",
+      "B) Meslek mensuplarının kasten vergi ziyaına sebebiyet verdiklerinin mahkeme kararı ile kesinleşmesi",
+      "C) Başka bir meslek mensubu hakkında, ilgili kuruluşlara asılsız ihbar veya şikâyette bulunulması",
+      "D) Başka meslek mensuplarının ad ve unvanları kullanılarak, beyanname düzenlenmesi ve imzalanması",
+      "E) Meslek ruhsatnamesinin bir başkasına kiraya verilmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre aşağıdaki ifadelerden hangisi \"kınama cezasını\" gerektiren hallerden biri değildir?",
+    "options": [
+      "A) Meslek mensuplarınca asgari ücret tarifesinde yer alan ücretlerin altında iş kabul edilmesi",
+      "B) Çalışanlar listesine kaydolmadan unvan kullanarak mesleki faaliyette bulunulması",
+      "C) Müşteri bildirim listelerinin tam ve doğru olarak, odaya süresinde verilmemesi",
+      "D) Meslek mensuplarınca reklam yasağına uyulmaması",
+      "E) Meslek mensuplarınca sahip olunmayan unvanların kullanılması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "\"Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği\"ne göre, aşağıdakilerden hangisi \"meslekten çıkarma\" cezasını gerektiren hållerden birisi olarak düzenlenmiştir?",
+    "options": [
+      "A) Ticari faaliyet yasağına uyulmaması",
+      "B) Üçüncü kişilere ücret ya da herhangi bir çıkar sağlanması veya vaat edilmesi sureti ile iş alınması",
+      "C) Büro Tescil Belgesinin alınmaması, süresinde vize ettirilmemesi",
+      "D) Başka meslek mensuplarının ad ve unvanları kullanılarak beyanname düzenlenmesi ve imzalanması",
+      "E) Müşterilerden makbuz düzenlenmesi veya her türlü yöntem ile toplanılan para veya para hükmündeki değerlerin kendisine veya bir başkasına mal edilmesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre, aşağıdakilerden hangisi \"meslekten çıkarma cezası\"nı gerektiren hâllerden birisidir?",
+    "options": [
+      "A) Diğer bir meslek mensubu hakkında ilgili kuruluşlara asılsız ihbar veya şikâyette bulunulması",
+      "B) Büro tescil belgesi alınmaması",
+      "C) Başka meslek mensuplarının ad ve unvanları kullanılarak beyanname düzenlenmesi ve imzalanması",
+      "D) Reklam yasağına uyulmaması",
+      "E) En az iki kez yazı ile istenmesine rağmen, oda aidat borçlarının haklı gerekçe olmaksızın ödenmemesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Disiplin Yönetmeliğine göre aşağıdakilerden hangisi uyarma cezası uygulanacak durumlardan biridir?",
+    "options": [
+      "A) Meslek mensuplarınca asgari ücret tarifesinde yer alan ücretlerin altında iş kabul edilmesi",
+      "B) Yasal düzenlemelere uygun tabela asılmaması",
+      "C) Çalışanlar listesine kaydolmadan unvan kullanarak mesleki faaliyette bulunulması",
+      "D) Meslek mensuplarınca sahip olunmayan unvanların kullanılması",
+      "E) Meslek mensuplarınca reklam yasağına uyulmaması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre, aşağıdakilerden hangisi meslek mensubuna kınama cezası verilmesini gerektiren haller arasında yer almaz?",
+    "options": [
+      "A) Diğer bir meslek mensubu hakkında, ilgili kuruluşlara asılsız ihbar veya şikâyette bulunulması",
+      "B) Büro Tescil Belgesinin süresinde vize ettirilmemesi",
+      "C) Meslek mensuplarınca, reklam yasağına uyulmaması",
+      "D) Müşteri bildirim listelerinin tam ve doğru olarak Odaya süresinde verilmemesi",
+      "E) Çalışanlar listesine kaydolmadan unvan kullanarak mesleki faaliyette bulunulması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Geçici olarak mesleki faaliyetten alıkoyma<br>II. Uyarma<br>III. Meslekten çıkarma<br>IV. Kınama<br>V. Yeminli sıfatının kaldırılması<br><br>\"Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği\"ne göre, yukarıdaki disiplin cezalarından hangisi/hangileri Resmî Gazete'de yayımlanır?",
+    "options": [
+      "A) Yalnız III",
+      "B) Yalnız V",
+      "C) I, III ve IV",
+      "D) I, III ve V",
+      "E) III, IV ve V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre, aşağıdakilerden hangisi meslek mensuplarının disiplin cezası alınca uygulanacak durumlardan biri değildir?",
+    "options": [
+      "A) Geçici mesleki faaliyetten alıkoyma, meslekten men, yeminli sıfatının kaldırılması cezasını alan meslek mensupları Maliye bakanlığına, diğer resmi kuruluşlara, internet sitesinde ve resmi gazetede yayınlanır.",
+      "B) Geçici mesleki faaliyetten alıkoyma, meslekten men, yeminli sıfatının kaldırılması cezasını alan meslek mensupları elindeki defter ve belgeleri 30 gün içinde odaya teslim ederler.",
+      "C) Bu süre içinde iş kabul edemezler.",
+      "D) Meslek mensupları mühür ve kaşelerini kullanamazlar.",
+      "E) Yasaklara uymayanlar Cumhuriyet savcılığına bildirim yapılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre, aşağıdakilerden hangisi disiplin ile ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Meslek mensubuna her yeni suçu için bir üst ceza verilebilir. Ama bir derece hafif bir derece ağır disiplin cezası da verilebilir.",
+      "B) Disiplin cezasını gerektiren eylemin işlenmesinden itibaren 10 yıl geçmişse kovuşturma yapılmaz.",
+      "C) Meslek mensubunun meslekten ayrılması, Odadan kaydının silinmesi mesleği ifa sırasındaki eylem ve davranışından dolayı disiplin kovuşturması yapılmasına engel değildir.",
+      "D) Oda başkanı için oda genel kurulu soruşturmayı başlatır bu karar üzerine de oda disiplin kurulu disiplin cezasını verir.",
+      "E) Oda Disiplin kurulu kararına karşı 30 gün içinde Birlik Disiplin kuruluna itiraz edilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre, fiili ceza davasına konu olsun veya olmasın Geçici mesleki faaliyetten alıkoyma, meslekten men, cezasını gerektirecek eylemden dolayı kovuşturma yapılacak meslek mensubuna disiplin kurulunun isteği üzerine tedbir niteliğinde hangi ceza verilebilir?",
+    "options": [
+      "A) Uyarma",
+      "B) Kınama",
+      "C) Geçici mesleki faaliyetten alıkoyma",
+      "D) Meslekten Men",
+      "E) Yeminli sıfatının kaldırılması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre, aşağıdakilerden hangisi disiplin ile ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Kişi hangi odanın çalışanlar listesine ve meslek kütüğüne kayıtlı ise disiplin kovuşturmasına karar verme ve yürütme yetkisi o odaya aittir.",
+      "B) Disiplin cezasını gerektiren eylem aynı zamanda suç teşkil ediyorsa ve bu suç için kanun daha uzun bir zamanaşımı öngörmüşse Disiplin sürecindeki zamanaşımı süresi uygulanır.",
+      "C) Oda başkanları yönetim ve disiplin kurulu üyeleri hakkında başlatılan görüşmelere kendileri katılamazlar.",
+      "D) Meslek mensubuna savunması alınmadan disiplin cezası verilmez.",
+      "E) Disiplin cezasında ihbar veya şikayette bulunanın kimliği, adresi, imzası bulunmayan ihbar veya şikayetler işleme konmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Disiplin Yönetmeliği'ne göre, İlk inceleme, soruşturma, kovuşturma yetkisi kime aittir ve hangi sürelerde tamamlanması gerekir?",
+    "options": [
+      "A) İlk inceleme oda yönetim kurulu 3 ay, Soruşturma Oda yönetim kurulu 7 ay, Kovuşturma Oda Disiplin kurulu 1 Yıl",
+      "B) İlk inceleme oda Disiplin kurulu 3 ay, Soruşturma Oda yönetim kurulu 7 ay, Kovuşturma Oda Disiplin kurulu 1 Yıl",
+      "C) İlk inceleme oda yönetim kurulu 2 ay, Soruşturma Oda yönetim kurulu 6 ay, Kovuşturma Oda Disiplin kurulu 1 Yıl",
+      "D) İlk inceleme oda yönetim kurulu 3 ay, Soruşturma Oda yönetim kurulu 6 ay, Kovuşturma Oda Yönetim kurulu 1 Yıl",
+      "E) İlk inceleme oda yönetim kurulu 2 ay, Soruşturma Oda Disiplin kurulu 5 ay, Kovuşturma Oda Disiplin kurulu 1 Yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki durumlardan hangisinin varlığı halinde Yeminli Mali Müşavirlere \"yeminli sıfatını kaldırma\" cezası verilebilir?",
+    "options": [
+      "A) Başka meslek mensuplarının ad ve unvanlarını kullanarak beyanname düzenlenmesi ve imzalanması",
+      "B) Beyanname imzalama yetkisini kasten gerçeğe aykırı olarak kullanılması",
+      "C) Tasdik yetkilerini mükerrere kasten gerçeğe aykırı olarak kullandıklarının anlaşılması ve bu durumun mahkeme kararı ile kesinleşmesi halinde",
+      "D) Ticaret faaliyet yasağına uyulamaması",
+      "E) Tasdik yetkisinin kasten gerçeğe aykırı olarak kullanılması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mükellefle birlikte kasten vergi ziyanına sebebiyet verdikleri mahkeme kararı ile kesinleşen meslek mensuplarına hangi disiplin cezası uygulanır?",
+    "options": [
+      "A) Uyarma",
+      "B) Kınama",
+      "C) Yeminli sıfatını kaldırma",
+      "D) Geçici olarak meslekî faaliyetten alıkoyma",
+      "E) Meslekten çıkarma"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "I. Meslekten çıkarma<br>II. Geçici olarak meslekî faaliyetten alıkoyma<br>III. Kınama<br>IV. Yeminli sıfatını kaldırma<br>V. Uyarma<br><br>Yukarıda belirtilen disiplin cezalarının en hafifinden en ağırına doğru sıralaması aşağıdakilerden hangisidir?",
+    "options": [
+      "A) I, II, III, IV, V",
+      "B) I, III, II, IV, V",
+      "C) V, III, II, IV, I",
+      "D) III, I, II, V, IV",
+      "E) IV, I, II, III, V"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde uyarma cezası verilmez?",
+    "options": [
+      "A) Müşterilerin işlerine karşı kayıtsız kalınması",
+      "B) Meslek disiplinini bozucu hareketlerde bulunulması",
+      "C) Meslek mensuplarının mesleğin onurunu zedeleyici işler yapması",
+      "D) Müşteri bildirim listelerini zamanında vermemek",
+      "E) Meslek mensuplarınca, sahip olunmayan unvanların kullanılması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde uyarma cezası verilmez?",
+    "options": [
+      "A) Yasal düzenlemelere uygun tabela asılmaması",
+      "B) Müşteri bildirim listelerinin odaya bildirilmemesi",
+      "C) Sosyal sorumluluk ilkelerine uyulmaması",
+      "D) Oda aidat borçların iki kez yazı ile istenmesine rağmen ödenmemesi",
+      "E) Çalışanlar listesine kaydolmadan mesleki faaliyette bulunma"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde uyarma cezası verilmez?",
+    "options": [
+      "A) Müşterilerin işlerine karşı kayıtsız kalınması",
+      "B) Sosyal sorumluluk ilkelerine uyulmaması",
+      "C) Adres değişikliklerinin bildirilmemesi",
+      "D) Yeminli mali müşavirlerce defter tutulması",
+      "E) Meslek mensuplarının mesleğin onurunu zedeleyici işler yapması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde uyarma cezası verilmez?",
+    "options": [
+      "A) Başka bir meslek mensubunun müşterilerine aynı konuda iş önerilmesi",
+      "B) Müşteri bildirim listelerinin odaya bildirilmemesi",
+      "C) Meslek disiplinini bozucu hareketlerde bulunulması",
+      "D) Adres değişikliklerinin bildirilmemesi",
+      "E) Yasal düzenlemelere uygun tabela asılmaması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde uyarma cezası verilmez?",
+    "options": [
+      "A) Meslek mensuplarının mesleğin onurunu zedeleyici işler yapması",
+      "B) Diğer meslek mensupları hakkında asılsız ihbar ve şikayette bulunulması",
+      "C) Sosyal sorumluluk ilkelerine uyulmaması",
+      "D) Meslek mensuplarınca reklam yasağına uyulmaması",
+      "E) Oda aidat borçların iki kez yazı ile istenmesine rağmen ödenmemesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde kınama cezası uygulanır?",
+    "options": [
+      "A) Meslek mensuplarının mesleğin onurunu zedeleyici işler yapması",
+      "B) Çıkar çatışmalarına taraf olunması",
+      "C) Sosyal sorumluluk ilkelerine uyulmaması",
+      "D) Meslek mensuplarınca reklam yasağına uyulmaması",
+      "E) Oda aidat borçların iki kez yazı ile istenmesine rağmen ödenmemesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde kınama cezası uygulanamaz?",
+    "options": [
+      "A) Meslek mensuplarınca sahip olunmayan ünvanların kullanılması",
+      "B) Meslek mensuplarınca hizmet sözleşmesi yapılmadan iş kabul edilmesi",
+      "C) Yanıltıcı belge düzenlediği resmi kurumlarca saptanan iş sahiplerinin işlerini görmek",
+      "D) Meslek mensuplarınca asgari ücret tarifesinin altında iş kabul edilmesi",
+      "E) Oda aidat borçların iki kez yazı ile istenmesine rağmen ödenmemesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde kınama cezası uygulanamaz?",
+    "options": [
+      "A) Meslek mensuplarınca reklam yasağına uyulmaması",
+      "B) Başka bir meslek mensubunun müşterilerine aynı konuda iş önerilmesi",
+      "C) Ticaret faaliyet yasağına uyulamaması",
+      "D) Çalışanlar listesine kaydolmadan mesleki faaliyette bulunma",
+      "E) Yeminli mali müşavirlerce kendi defterleri hariç defter tutulması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde kınama cezası uygulanamaz?",
+    "options": [
+      "A) Çalışanlar listesine kaydolmadan mesleki faaliyette bulunma",
+      "B) Meslek mensuplarınca reklam yasağına uyulmaması",
+      "C) Müşteri bildirim listelerinin odaya bildirilmemesi",
+      "D) Meslek mensuplarınca hizmet sözleşmesi yapılmadan iş kabul edilmesi",
+      "E) Meslek mensuplarınca asgari ücret tarifesinin altında iş kabul edilmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde geçici olarak mesleki faaliyetten alıkoyma cezası uygulanır?",
+    "options": [
+      "A) Meslek mensuplarınca sahip olunmayan ünvanların kullanılması",
+      "B) Meslek mensuplarınca hizmet sözleşmesi yapılmadan iş kabul edilmesi",
+      "C) Ticari faaliyet yasağına uyulmaması",
+      "D) Çalışanlar listesine kaydolmadan mesleki faaliyette bulunma",
+      "E) Yeminli mali müşavirlerce kendi defterleri hariç defter tutulması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde meslekten çıkarma cezası uygulanamaz?",
+    "options": [
+      "A) Yanıltıcı belge düzenlediği saptanan iş sahiplerinin işlerini görmek",
+      "B) Mesleki suçlardan dolayı ağır hapis cezası almış olmak",
+      "C) Mahkeme kararıyla Kasten vergi ziyanına sebebiyet verilmesi",
+      "D) Meslek ruhsatnamelerinin başkalarına kiraya verilmesi",
+      "E) Başka meslek mensuplarının adlarını kullanarak beyanname düzenlenmesi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde meslekten çıkarma cezası uygulanır?",
+    "options": [
+      "A) Oda aidat borçların iki kez yazı ile istenmesine rağmen ödenmemesi",
+      "B) Meslek mensuplarınca reklam yasağına uyulmaması",
+      "C) Yasal düzenlemelere uygun tabela asılmaması",
+      "D) Mahkeme kararıyla kasten vergi ziyanına sebebiyet verilmesi",
+      "E) Diğer meslek mensupları hakkında asılsız ihbar ve şikayette bulunulması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki hallerden hangisinin varlığı halinde meslekten çıkarma cezası uygulanır?",
+    "options": [
+      "A) Başka meslek mensuplarının adlarını kullanarak beyanname düzenlenmesi",
+      "B) Müşteri bildirim listelerinin odaya bildirilmemesi",
+      "C) Sosyal sorumluluk ilkelerine uyulmaması",
+      "D) Oda aidat borçların iki kez yazı ile istenmesine rağmen ödenmemesi",
+      "E) Adres değişikliklerinin bildirilmemesi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Meslekten çıkarılanlar, yeminli sıfatı kaldırılanlar ve geçici olarak mesleki faaliyetten ya da geçici olarak meslekten alıkonulanlar bu işlemlerin gereğini yerine getirmezlerse odalar ve birlik tarafından ne tür bir işlem yapılır?",
+    "options": [
+      "A) Cumhuriyet savcılığına başvurulur",
+      "B) Maliye bakanlığına başvurulur",
+      "C) Yargıtay'a başvurulur",
+      "D) İç işleri bakanlığına başvurulur",
+      "E) Danıştay'a başvurulur"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tarife tespit edilirken hangi kriterlere göre değerlendirme yapılır?<br><br>I- Genel Ücret Düzeyi<br>II- O Bölgedeki yaşam standartı<br>III- Meslek mensubunun mükellef sayısı<br>IV- Eleman/Saat esasına göre hizmet maliyeti<br>V- O bölgedeki Meslek mensubu sayısı",
+    "options": [
+      "A) Yalnız I",
+      "B) II-III",
+      "C) Yalnız III",
+      "D) I-II-IV",
+      "E) Hepsi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ücret tarifesi hazırlanma sırası hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Oda Y.K (Eylül) - Birlik Y.K'na (Ekim sonuna kadar) - Maliye Bakanlığına (Kasım sonuna kadar) - Resmi gazete (Aralık 20'sine kadar)",
+      "B) Oda Y.K (Eylül) - Birlik G.K'na (Ekim sonuna kadar) - Maliye Bakanlığına (Kasım sonuna kadar) - Resmi gazete (Aralık 20'sine kadar)",
+      "C) Oda G.K (Eylül) - Birlik G.K'na (Ekim sonuna kadar) - Maliye Bakanlığına (Kasım sonuna kadar) - Resmi gazete (Aralık 20'sine kadar)",
+      "D) Oda Denetleme.K (Eylül) - Birlik Y.K'na (Ekim sonuna kadar) - Maliye Bakanlığına (Kasım sonuna kadar) - Resmi gazete (Aralık 20'sine kadar)",
+      "E) Oda Y.K (Ekim) - Birlik Y.K'na (Kasım sonuna kadar) - Maliye Bakanlığına (Aralık sonuna kadar) - Resmi gazete (Aralık 20'sine kadar)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Asgari ücret tarifesinin ilanı hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Maliye Bakanlığı tarafından Aralık ayının 10'una kadar resmi gazetede yayınlanır.",
+      "B) Birlik tarafından Aralık ayının 20'sine kadar resmi gazetede yayınlanır.",
+      "C) Maliye Bakanlığı tarafından Aralık ayının 20'sine kadar resmi gazetede yayınlanır.",
+      "D) Türmob tarafından Aralık ayının 20'sine kadar resmi gazetede yayınlanır.",
+      "E) Maliye Bakanlığı tarafından Aralık ayının 15'ine kadar resmi gazetede yayınlanır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ücret ile ilgili hangi bilgi yanlış bir ifadedir?",
+    "options": [
+      "A) Ücretler Oda Y.K - Birlik Y.K vasıtasıyla belirlenir.",
+      "B) Ücret yüzde oranı biçiminde belirlenebilir.",
+      "C) Danışmanlık, Denetim, Tasdik ve Belge düzenleme için ayrı ayrı tarife belirlenir.",
+      "D) Ücret iş yapıldıkça taksit taksitte ödenebilir.",
+      "E) Tahkim, Bilirkişilik, Tasfiye memurluğu ve yargının vereceği görevler için tarifedeki ücretler esas alınır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ücret sözleşmesiyle ilgili hangisi doğrudur?",
+    "options": [
+      "A) Sözleşme yazılı yapılır. Sözlü yapılırsa kınama cezası verilir.",
+      "B) Sözleşme münferit yada süreli yapılabilir. Süreli Sözleşmelerin en az 3 yıllık olması şarttır.",
+      "C) Sözleşme ait olduğu süreleri kapsamaz, diğer işlem ve sürelere de uygulanabilir.",
+      "D) Sözleşmeye avans verileceğine dair hüküm konmaz.",
+      "E) Sözleşme yabancı dilde ve yabancı para cinsinden yapılmaz. TL olarak yapılması zorunludur."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ücretle ilgili hangisi yanlıştır?",
+    "options": [
+      "A) Meslek Mensubu işyeri dışındaki işleri anlaştığı o yerdeki diğer meslek mensubuna yaptırabilir. Tarifede meslek mensubunun alacağı ücret de yazar.",
+      "B) Meslek Mensubu başka ilde yaptırılan işe karşılık iş sahibinden ek ücret talep edemez.",
+      "C) İş sahibi zorunlu durumda işletmesine başka meslek mensubunu katmak isterse sözleşme yaptığı meslek mensubunun olurunu almak zorundadır.",
+      "D) Eğer meslek mensubu talebe 4 gün içinde cevap vermezse veya bu süre cevapsız geçerse sözleşme sona erer ve iş sahibi başka meslek mensubu ile yeni sözleşme yapabilir.",
+      "E) Ücret serbestçe kararlaştırılabilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ücret tarifesi hazırlanırken hangi kriterlere göre değerlendirme yapılmaz?",
+    "options": [
+      "A) Münferit yada şirket şeklinde firmaya göre",
+      "B) İşyeri ve şube sayısına göre",
+      "C) Hizmetin işyeri yada çalışma bürosunda yapılmasına göre",
+      "D) Hizmet - İnşaat - İmalat faaliyetine göre",
+      "E) Meslek Mensubunun defter ve mükellef sayısına göre"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Muhasebecilik mesleği mensuplarının ücret tarifelerinin belirlenmesi ve uygulanmasına ait kurallardan biri değildir?",
+    "options": [
+      "A) Meslek mensuplarının ücret tarifesinin altında ücret karşılığında iş kabulü yasaktır",
+      "B) Tarifeler Resmî Gazete'de yayımlanarak yürürlüğe girer",
+      "C) Maliye ve Gümrük Bakanlığı tarifeyi aynen tasdik etmez.",
+      "D) Her odanın yönetim kurulu, her yıl bir tarife hazırlayarak Birliğe gönderir.",
+      "E) Birlik yönetim kurulu, gruplarda uygulanacak tarifeleri hazırlayarak Maliye ve Gümrük Bakanlığına gönderir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Muhasebecilik mesleği mensuplarının ücret tarifelerinin belirlenmesi ve uygulanmasına ait kurallardan biri değildir?",
+    "options": [
+      "A) Her odanın yönetim kurulu, her yıl bir tarife hazırlayarak Maliye Bakanlığına gönderir.",
+      "B) Birlik yönetim kurulu, tarifeleri hazırlayarak Maliye ve Gümrük Bakanlığına gönderir.",
+      "C) Maliye ve Gümrük Bakanlığı tarifeleri aynen yada değişikliklerle tasdik eder.",
+      "D) Tarifeler Resmî Gazete'de yayımlanarak yürürlüğe girer",
+      "E) Yeni tarifenin tasdikine kadar mevcut tarife hükmü uygulanır."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği\" hükümlerine göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Meslek mensubu, mesleki konularda hazırlayacağı kitap, makale ve benzeri bilimsel çalışmalarda çalıştığı büro, şirket veya kurumun ad ve unvanını kullanabilir.",
+      "B) Meslek mensubu, istihdam ettiği personel tarafından gerçekleştirilen haksız rekabet eylemleri ve uygulamaları sebebiyle bağlı bulunduğu odaya ve zarar görenlere karşı sorumludur.",
+      "C) Meslek mensubu bilimsel, düşünsel tartışmalar, seminerler ve eğitim programları organize edebilir ancak bu faaliyetleri basın ve yayın yoluyla üçüncü kişilere duyuramaz.",
+      "D) Meslek mensubu veya mesleki şirketin yayınladığı sirküler, bülten ve işe alma broşürlerinin mesleki ilişkilerin sürdürüldüğü kimselere gönderilmesi reklam sayılmaz.",
+      "E) Meslek mensubunun, mesleki faaliyet ve meslek alanı dışında yerel, ulusal veya uluslararası düzeydeki herhangi bir faaliyetinin tanıtılması veya aldığı bir ödülün kamuya duyurulması reklam sayılmaz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği'ne göre, aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Akademik unvana sahip meslek mensupları tabelalarında akademik unvanlarını kullanabilirler",
+      "B) Odalar, haksız rekabetin varlığı hâlinde Türk Ticaret Kanunu hükümlerine göre haksız rekabetin neticesi olan maddi durumun ortadan kaldırılması davası açmaya yetkili değildir.",
+      "C) Meslek mensuplarının çalışanlarını meslek mensuplarının veya iş sahiplerinin sırlarını açıklamaya yöneltmek haksız rekabet teşkil etmez.",
+      "D) Ortak sıfatı taşıyan meslek mensuplarının başlıklı kağıtlarında, kartvizitlerinde ve diğer basılı kağıtlarında ortaklığın adı yanında kendi ad ve soyadlarını kullanmaları zorunlu değildir.",
+      "E) Başlıklı kağıtlarda kamu ve özel kurum ve kuruluşlar ile siyasi partilerdeki geçmiş ve mevcut görevler belirtilebilir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi \"Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği\"ndeki \"reklam yoluyla haksız rekabet\" hâlleri arasında yer almaz?",
+    "options": [
+      "A) Diğer meslek mensupları hakkında asılsız ihbar ve şikayette bulunulması",
+      "B) Diğer meslek mensuplarının hizmetlerini ve faaliyetlerini yanlış ve yanıltıcı açıklamalarla kötülemesi",
+      "C) Mesleki şirketin yayınladığı sirküler, bülten ve işe alma broşürlerinin mesleki ilişkilerin sürdürüldüğü kimselere gönderilmesi",
+      "D) Meslek mensuplarının kendisi, hizmetleri ve faaliyetleri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunması",
+      "E) Meslek mensuplarının sahip olmadıkları meslek unvanını kullanması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi \"Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği\"ndeki \"ücret ve diğer mali nitelikteki uygulamalar ile haksız rekabet\" hållerinden birisi değildir?",
+    "options": [
+      "A) Bir meslek mensubuna olan ücret borcunu ödememiş iş sahibine hizmet vermek",
+      "B) İş sahiplerine menfaat sağlamayı vaat etmek suretiyle iş almak",
+      "C) Ekonomik durumunun uygun olmadığını kanıtlayan kişilere ücretsiz hizmet vermek",
+      "D) Üçüncü kişilere menfaat sağlamayı vaat etmek suretiyle iş almak",
+      "E) Ücret tarifesindeki bedellerin yüzde yüz fazlasını aşan miktarda ücret talep etmek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği'nde yer alan reklam kurallarına göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Meslek mensupları büro açılışlarını basın ve yayın yoluyla duyuramaz.",
+      "B) Meslek mensuplarının kullandıkları başlıklı kâğıtlar, kartvizitler ve diğer basılı evrak, reklam niteliği taşıyacak şekilde düzenlenemez.",
+      "C) Meslek mensubu sunduğu mesleki faaliyetlerin tanıtımı için hazırlayacağı kitapçık ve broşürlerde, mevcut ve geçmiş müşterilerinin isim ve unvanlarını açıklayamaz.",
+      "D) Serbest muhasebeci mali müşavirlik ve yeminli mali müşavirlik hizmeti, hiçbir sıfat altında marka olarak tescil ettirilemez.",
+      "E) İş ilişkisinde bulundukları firmalar adına eleman arama ilanı verebilirler."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, Birlik Haksız Rekabetle Mücadele Kurulu'nun görev ve yetkilerinden biri değildir?",
+    "options": [
+      "A) Odalarda kurulan haksız rekabetle mücadele kurulları arasında işbirliği ve koordinasyonu sağlamak",
+      "B) Yıl sonu itibariyle, Oda haksız rekabetle mücadele kurulları tarafından hazırlanan faaliyet raporları ile görüş ve tavsiyeleri değerlendirmek",
+      "C) Oda haksız rekabetle mücadele kurullarının uygulamalarında yeknesaklığı gözetmek",
+      "D) Oda haksız rekabetle mücadele kurulları tarafından hazırlanan faaliyet raporları ile görüş ve tavsiyeleri değerlendirerek Birlik Yönetim Kurulu'na sunmak",
+      "E) Oda Yönetim Kurulları tarafından görevlendirilmek kaydıyla, meslek mensuplarının haksız rekabete ve reklam ilkelerine ilişkin meslek kurallarını ihlal edip etmedikleri konusunda denetim ve soruşturma yapmak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği'ne göre aşağıdakilerden hangisi haksız rekabet sayılmaz?",
+    "options": [
+      "A) Kendisi, hizmetleri ve faaliyetleri hakkında gerçek dışı ya da yanıltıcı açıklamalarda bulunmak",
+      "B) Başlıklı kağıtlarda, kartvizitlerde ve diğer basılı evrakta, mesleki unvan, varsa akademik unvan, ad ve soyad, iletişim bilgileri ve adres gibi bilgilere yer vermek",
+      "C) Meslek mensuplarının hizmetlerini ve faaliyetlerini yanlış ya da yersiz açıklamalarla kötülemek",
+      "D) Meslek mensuplarının dürüstlüğü, güvenirliği ve tarafsızlığı hakkında yanlış ve asılsız beyanlarda bulunmak",
+      "E) Meslek mensupları hakkında asılsız ihbar ve şikayette bulunmak"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Haksız Rekabet ve Reklam Yasağı Yönetmeliği'ne göre, aşağıdakilerden hangisinde reklam yoluyla haksız rekabet yoktur?",
+    "options": [
+      "A) Meslek mensubunun veya mesleki şirketin yayınladığı; sirküler, bülten ve işe alma broşürlerinin mesleki ilişkilerin sürdürüldüğü kimselere gönderilmesi",
+      "B) Meslek mensuplarının hizmetlerini ve faaliyetlerini yanlış ve yanıltıcı veya yersiz açıklamalarla kötülemek",
+      "C) Meslek mensupları hakkında asılsız ihbar ve şikayette bulunmak",
+      "D) Meslek mensubunun; kendisi, hizmetleri ve faaliyetleri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunması",
+      "E) Mesleki ve akademik unvan dışında sahip olunan başka unvanları kullanmak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "I. Haksız rekabetin önlenmesi, bu suretle dürüst ve bozulmamış rekabetin sağlanması<br>II. Meslek mensuplarının iş elde etmek için reklam sayılabilecek eylem ve işlemlerinin kapsam, sınır ve esaslarının belirlenmesi<br>III. Meslek mensuplarının verdikleri hizmetlere ilişkin ücretlerin tahsil edilmesinin sağlanması<br><br>Yukarıdaki verilere göre aşağıdaki şıklardan hangisi Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine ilişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği'nin amaç maddesini tam olarak ifade etmektedir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I-II",
+      "D) II-III",
+      "E) I-II-III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "\"Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği\"ne göre haksız rekabetin varlığı halinde odalar aşağıdaki davalardan hangisini açmaya yetkili değildir?",
+    "options": [
+      "A) Fiilin haksız olup olmadığının tespiti davası",
+      "B) Haksız rekabetin men'i davası",
+      "C) Haksız rekabetin neticesi olan maddi durumun ortadan kaldırılması davası",
+      "D) Haksız rekabet yanlış veya yanıltıcı beyanlarla yapılmışsa bu beyanların düzeltilmesi davası",
+      "E) Tazminat davası"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "I. Maddi tazminat davası<br>II. Manevi tazminat davası<br>III. Fiilin haksız olup olmadığının tespiti davası<br>IV. Haksız rekabetin men'i davası<br>V. Haksız rekabetin neticesi olan maddi durumun ortadan kaldırılması davası<br><br>\"Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği\"ne göre, Odalar haksız rekabete dayalı olarak yukarıdaki davalardan hangilerini açma yetkisine sahip değildir?",
+    "options": [
+      "A) I ve II",
+      "B) I ve IV",
+      "C) II ve III",
+      "D) II ve V",
+      "E) III ve V"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği'ne göre aşağıdakilerden hangisi meslek mensuplarının birbiriyle ve iş sahipleriyle olan ilişkilerinde haksız rekabet halleri arasında yer almaz?",
+    "options": [
+      "A) Muhasebe ve denetim standartlarına uymamak, mesleki faaliyetlerin yürütülmesinde gereken mesleki özeni göstermemek.",
+      "B) Bir diğer meslek mensubu ile sözleşmesi bulunan iş sahiplerini sözleşme yapmak amacıyla mevcut sözleşmelere aykırı davranmaya veya bu sözleşmeleri feshetmeye yöneltmek.",
+      "C) Yetki belgeleri ve ruhsatları iptal olduğu veya faaliyetleri geçici olarak durdurulduğu halde unvanlarında, ilan ve reklamlarında, mesleki faaliyette bulundukları intibaını yaratacak kelime veya ibareler kullanmak.",
+      "D) Meslek ruhsatının kiralanması veya çeşitli menfaatler sağlayarak meslek mensubu olmayan kişilere faaliyette bulunma imkanı sağlamak.",
+      "E) Üçüncü kişilere ücret ya da herhangi bir menfaat sağlamak veya vaat etmek suretiyle iş almak."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "\"Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği\"ne göre aşağıdakilerden hangisi meslek mensuplarının ücret açısından haksız rekabet halleri arasında yer almaz?",
+    "options": [
+      "A) Bir meslek mensubuna olan ücret borcunu ödememiş iş sahibine hizmet vermek.",
+      "B) İş sahiplerinden emanet para toplamak, alınan ücrete karşılık olmak üzere gerçeğe aykırı serbest meslek makbuzu veya fatura düzenlemek.",
+      "C) Sözleşme değerinin altında serbest meslek makbuzu veya fatura düzenlemek veya hiç düzenlememek; mali yükümlülüklerini yerine getirmemek.",
+      "D) Üçüncü kişilere ücret ya da herhangi bir menfaat sağlamak veya vaat etmek suretiyle iş almak.",
+      "E) Meslek mensuplarının hizmetlerini ve faaliyetlerini yanlış ve yanıltıcı veya yersiz açıklamalarla kötülemek."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "\"Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği\"ne göre aşağıdakilerden hangisi meslek mensuplarının reklam açısından haksız rekabet halleri arasında yer almaz?",
+    "options": [
+      "A) Meslek mensuplarının dürüstlüğü, güvenirliği ve tarafsızlığı hakkında yanlış ve asılsız beyanlarda bulunmak.",
+      "B) Kendisi, hizmetleri ve faaliyetleri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunmak.",
+      "C) Sahip olmadığı meslek unvanını kullanmak.",
+      "D) Mesleki ve akademik unvan dışında sahip olunan başka unvanları kullanmak.",
+      "E) İş sahiplerine ait veya iş sahiplerinden elde edilen bilgileri kullanmak suretiyle ekonomik çıkar sağlama"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği'ne göre aşağıdakilerden hangisi haksız rekabet sayılır?",
+    "options": [
+      "A) Toplumun ilgilendiği konularda meslek mensubunun yaptığı yayınlara ve demeçlere haber programlarında yer verilmesi veya bunlar hakkında meslek mensubunca veya diğer kişilerce yazı ve haber yazılması",
+      "B) Meslek mensupları büroları veya ortağı olduğu şirketlerin veya müşterilerinin mesleki personel ihtiyacı için ilan vermesi",
+      "C) Meslek mensupları, mesleki konularda hazırlayacağı kitap, makale ve benzeri bilimsel çalışmalarda mesleki ve akademik unvanlarını kullanması",
+      "D) Yaşamları, kazançları, mesleki faaliyeti hakkında reklam niteliğinde yayınlarda bulunması, işlerine baktıkları veya eskiden hizmet verdikleri müşterileri hakkında tekzip yayınlaması; zorunlu haller dışında gazete, radyo ve televizyonlara ve internete görüntü, bilgi, demeç vermesi, açıklama yapması",
+      "E) Meslek mensubu, bürosunun tanıtımı için broşür bastırabilir. Meslek mensubu veya mesleki şirketin yayınladığı, sirküler, bülten ve işe alma broşürlerinin mesleki ilişkilerin sürdürüldüğü kimselere gönderilmesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, Oda Haksız Rekabetle Mücadele Kuruluyla ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Kurul üyelerinin görev süresi birlik yönetim kurulunun görev süresi kadardır.",
+      "B) Kurul, biri Başkan olmak üzere en az üç üyeden oluşur. Üye sayısı binden fazla olan odalarda kurul üye sayısı oda yönetim kurulu tarafından belirlenir.",
+      "C) Kurul üyeleri en az beş yıl kıdemli meslek mensupları arasından oda yönetim kurulu tarafından görevlendirilir",
+      "D) Oda yönetim kurulu tarafından görevlendirilmek kaydıyla, meslek mensuplarının haksız rekabete ve reklam ilkelerine ilişkin meslek kurallarını ihlal edip etmedikleri konusunda denetim ve soruşturma yapmak.",
+      "E) Meslek mensuplarının haksız rekabet veya reklam ilke ve kurallarına aykırılık teşkil eden davranış ve uygulamalarının tespiti halinde, bundan sorumlu olanlar için uygun görülen yaptırım önerisi ile birlikte durumu ilgili oda yönetim kuruluna sunmak."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, Birlik Haksız Rekabetle Mücadele Kuruluyla ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Kurul, biri başkan olmak üzere en az beş üyeden oluşur.",
+      "B) Kurul üyeleri, en az beş yıl kıdemli meslek mensupları arasından Birlik Yönetim Kurulu tarafından görevlendirilir",
+      "C) Odalarda kurulan haksız rekabetle mücadele kurulları arasında işbirliği ve koordinasyonu sağlar, uygulamada yeknesaklığı gözetir.",
+      "D) Yıl sonu itibariyle, oda haksız rekabetle mücadele kurulları tarafından hazırlanan faaliyet raporları ile görüş ve tavsiyeleri değerlendirir ve bunları Birlik Yönetim Kuruluna sunar.",
+      "E) Kurul tarafından meslek mensubundan talep edilen ve kendisine veya müşterisine ait defter, evrak, dosya, kayıt ve diğer belgelerin meslek mensubu tarafından ibraz veya teslim edilmemesi halinde, gerektiğinde mahkemeye başvurulmasını, bunların ibraz veya tesliminin sağlanmasını oda yönetim kuruluna teklif etmek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "\"Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği\"ne göre aşağıdakilerden hangisi meslek mensuplarının birbiriyle ve iş sahipleriyle olan ilişkilerinde haksız rekabet halleri arasında yer almaz?",
+    "options": [
+      "A) Üçüncü şahısları yanıltacak şekilde gerçeğe aykırı belge düzenlemek ve onaylamak,",
+      "B) Bir diğer meslek mensubunun çalışanlarına ve diğer yardımcı kişilere işlerini yerine getirirken yükümlülüklerine aykırı davranmaya yöneltebilecek şekilde doğrudan veya dolaylı menfaat sağlamak veya önermek.",
+      "C) Bir diğer meslek mensubunun çalışanlarını ve diğer yardımcı kişileri her türlü vasıtayla meslek mensuplarının veya iş sahiplerinin iş sırlarını ele geçirmeye veya açıklamaya yöneltmek.",
+      "D) Bağımlı çalışan meslek mensupları bakımından aynı anda birden çok işletmede mesleki sorumluluk üstlenmek.",
+      "E) Bir meslek mensubuna olan ücret borcunu ödememiş iş sahibine hizmet vermek."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "\"Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkında Yönetmelik\" ekinde yer alan \"Etik İlkeler\"e göre, aşağıdakilerden hangisi meslek mensubunun sahip olduğu gizli bilgileri açıklamasının gerekli veya uygun olduğu düzenlenen haller arasında yer almaz?",
+    "options": [
+      "A) Müşteri izni ile açıklama yapmak",
+      "B) Bir başka meslek mensubuna mesleki çalışmalarında yol gösterici emsal veriler sunmak",
+      "C) Muhasebe veya denetim standartlarını ve etik gerekliliklerini karşılamak amacıyla açıklama yapmak",
+      "D) Kanuna aykırı bir durumu ortaya çıkarmak için ilgili kamu otoritesine açıklama yapmak",
+      "E) Yasal süreç esnasında belge veya diğer kanıtları sağlamak amacıyla açıklama yapmak"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi \"Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliği'ndeki \"reklam yoluyla haksız rekabet\" hålleri arasında yer alır?",
+    "options": [
+      "A) Bir meslek mensubu bilimsel, düşünsel tartışmalar, seminerler ve eğitim programları organize etmesi,",
+      "B) Toplumun ilgilendiği konularda meslek mensubunun yaptığı yayınlara ve demeçlere haber programlarında yer verilmesi veya bunlar hakkında meslek mensubunca veya diğer kişilerce yazı ve haber yazılması",
+      "C) Meslek mensubu, bürosunun tanıtımı için broşür bastırabilir. Meslek mensubu veya mesleki şirketin yayınladığı, sirküler, bülten ve işe alma broşürlerinin mesleki ilişkilerin sürdürüldüğü kimselere gönderilmesi",
+      "D) Bağlı bulunulan büro, şirket veya kurumun faaliyetleri hakkında reklam sayılacak açıklama yapması",
+      "E) Meslek mensubunun mesleki faaliyet ve meslek alanı dışında yerel, ulusal veya uluslararası düzeydeki herhangi bir faaliyetinin tanıtılması veya aldığı bir ödülün kamuya duyurulması veya üyesi olduğu bir kurumdaki üyeliğini açıklaması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkında Yönetmeliğe ekli Etik İlkelere göre, aşağıdakilerden hangisi bağımsız çalışan meslek mensubu için kişisel çıkar tehdidi yaratabilecek durumlara verilebilecek örnekler arasında yer almaz?",
+    "options": [
+      "A) Müşteri ile ortak bir finansal çıkarın paylaşılması",
+      "B) Güvence sağlama müşterisine borç verilmesi",
+      "C) Güvence sağlama müşterisinden borç alınması",
+      "D) Müşteri tarafından istihdam edilme olasılığı",
+      "E) Müşterisine verdiği hizmet karşılığında ücret tarifesinin üstünde bir ücret alınması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "\"Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik\"e göre, aşağıdakilerden hangisi teşvik teklifi alan bağımlı çalışan meslek mensubunun alması öngörülen önlemler arasında bulunmamaktadır?",
+    "options": [
+      "A) İç ve dış denetim süreçlerinden yararlanır.",
+      "B) Üst yönetime veya yönetişimden sorumlu olanlara bilgi verir.",
+      "C) Meslek örgütüne veya teklifi yapan kişinin işverenine teklifle ilgili bilgi verir.",
+      "D) Teşvik teklifi alabilecek durumda bulunan yakın aile üyelerine tehditler ve önlemler hakkında bilgi verir.",
+      "E) Yakın aile üyelerinin işveren işletmenin rakipleri ya da potansiyel tedarikçileri tarafından istihdam edilmeleri ile ilgili üst yönetime bilgi verir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, \"Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik'e göre, tehditleri ortadan kaldırmaya veya kabul edilebilir düzeye indirmeye yönelik olarak \"mevzuat ile oluşturulabilecek önlemler\" arasında sayılmamıştır?",
+    "options": [
+      "A) Mesleğe giriş için gerekli eğitim, mesleki eğitim ve tecrübe gereksinimleri",
+      "B) Mesleki veya düzenleyici izleme ve disiplin prosedürleri",
+      "C) İş çevresinden sağlanacak önlemler",
+      "D) Kurumsal yönetim gereksinimleri",
+      "E) Mesleki standartlar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik hükümlerine göre \"etik çatışmanın çözümünde\" aşağıdakilerden hangisi dikkate alınmaz?",
+    "options": [
+      "A) Çatışma konusu ile ilgili veriler",
+      "B) Çatışma konusu ile ilgili etik sorular",
+      "C) Etik ilkeler",
+      "D) Çatışmanın çözümü ile ilgili alternatif hareket biçimleri",
+      "E) Çatışmanın çözümünün getireceği ek iş yükü"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Çalışanın bilerek fazla ödeme veya tahsilat yapmasına etik terminolojisinde ne ad verilir?",
+    "options": [
+      "A) Yolsuzluk",
+      "B) Hırsızlık",
+      "C) Yasadışı tutum",
+      "D) Etik sapma",
+      "E) Etik ikilem"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkında Yönetmelik'e göre, aşağıdakilerden hangisi temel etik ilkelerine yönelik bir tehdit değildir?",
+    "options": [
+      "A) Müşteri ile ilgili bilgilerin gizliliğini sağlayamama tehdidi",
+      "B) Yeniden değerlendirme tehdidi",
+      "C) Taraf tutma tehdidi",
+      "D) Kişisel çıkar tehdidi",
+      "E) Yakınlık tehdidi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik\"te yer alan, kavramsal çerçeve hakkında aşağıdaki seçeneklerden hangisi yanlıştır?",
+    "options": [
+      "A) Temel prensiplere uyumla ilgili tehditleri yaratan tüm durumlar tanımlanmıştır.",
+      "B) Profesyonel muhasebecinin, temel prensiplere uyumla ilgili tehditleri belirlemesini gerektiren bir kavramsal çerçeve kurar.",
+      "C) Etik ilkelere uyumlu olmada profesyonel muhasebecilere yardımcı olur.",
+      "D) Kamu çıkarına hareket etme sorumluluklarını yerine getirmelerinde profesyonel muhasebecilere yardımcı olur.",
+      "E) Temel mesleki etik kuralları ortaya koyar."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkında Yönetmeli'ğe göre, meslek mensubunun mevcut yasa ve yönetmeliklere uyması ve mesleğin itibarını zedeleyecek her türlü davranıştan kaçınması aşağıdaki ilkelerden hangisini ifade eder?",
+    "options": [
+      "A) Dürüstlük",
+      "B) Mesleki yeterlilik ve özen",
+      "C) Gizlilik",
+      "D) Mesleki davranış",
+      "E) Tarafsızlık"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "\"Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmeliğinin çıkarılış amacı arasında yer almaz?",
+    "options": [
+      "A) Tüm üyeleri en üst derecede meslekî bilgiye sahip olması",
+      "B) Sosyal sorumluluk bilinci olan, etik değerlere bağlı olması",
+      "C) Rekabet anlayışı daha kaliteli hizmet sunumu biçiminde oluşmuş olması",
+      "D) Güvenilir ve saygın bir meslek mensupları kitlesi oluşturma",
+      "E) İş elde etmek için reklam sayılabilecek faaliyetlerden kaçınma"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmeliğinde aşağıdakilerden hangisi etik komitesi ile ilgili yanlış bir ifadedir?",
+    "options": [
+      "A) Etik Komitesi, meslek mensupları arasından Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Yönetim Kurulu tarafından atanacak biri Başkan, biri Başkan Yardımcısı olmak üzere en az yedi en fazla 11 üyeden oluşur",
+      "B) Etik Komitesi düzenli olarak yılda altı kez toplanır.",
+      "C) Komite başkanı veya Türkiye Serbest Muhasebeci Malî Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Yönetim Kurulu gerekli gördüğü takdirde Etik Komitesini toplantıyla çağırabilir.",
+      "D) Etik Komitesinin görevi; bu Yönetmelikle ilgili değişiklik önerileri ile yorum, sirküler ve benzeri konularda çalışmalar yaparak Yönetim Kuruluna sunmaktır.",
+      "E) Etik komitesi haksız rekabet yapanları tespit eder. Oda yönetim kuruluna bu durumu bildirir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmeliğine göre Meslek mensubunun bir durum ya da fikri, tarafsızlığını tehlikeye düşürecek bir noktaya taşıması sonucu oluşan tehdit tanımı hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Kişisel çıkar tehditi",
+      "B) Taraf tutma tehditi",
+      "C) Yıldırma amaçlı tehdit",
+      "D) Yeniden değerlendirme tehditi",
+      "E) Yakınlık tehditi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkında Yönetmeliğe ekli Etik İlkelere göre, aşağıdakilerden hangisi bağımsız çalışan meslek mensubu için kişisel çıkar tehdidi yaratabilecek durumlara verilebilecek örnekler arasında yer almaz?",
+    "options": [
+      "A) Müşteriyi kaybetme olasılığını dikkate alma.",
+      "B) Müşteri tarafından istihdam edilme olasılığı.",
+      "C) Güvence sağlama sözleşmesi ile ilgili şarta bağlı ücretler.",
+      "D) Güvence sağlama müşterisinden veya yöneticilerden borç alınması ya da güvence sağlama müşterisine/yöneticilerine borç verilmesi.",
+      "E) Bir finansal sistemin tasarım ve uygulamasına katıldıktan sonra sistemin işleyişi hakkında rapor verilmesi,"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkında Yönetmeliğe ekli Etik İlkelere göre, aşağıdakilerden hangisi bağımsız çalışan meslek mensubu için tekrar değerlendirme tehdidi yaratabilecek durumlara verilebilecek örnekler arasında yer almaz?",
+    "options": [
+      "A) Bağımsız çalışan meslek mensubunun yaptığı bir işin tekrar değerlendirilmesi sırasında önemli bir hatanın tespit edilmesi.",
+      "B) Bir finansal sistemin tasarım ve uygulamasına katıldıktan sonra sistemin işleyişi hakkında rapor verilmesi,",
+      "C) Bir sözleşmenin esas konusu olan kayıtların üretilmesinde kullanılan ilk verilerin bağımsız çalışan meslek mensubu tarafından hazırlamış olması.",
+      "D) Güvence sağlama sözleşmesi ekibinin bir üyesinin daha önceden o müşterinin çalışanı olması.",
+      "E) Müşteriyi kaybetme olasılığını dikkate alma"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkında Yönetmeliğe ekli Etik İlkelere göre, aşağıdakilerden hangisi bağımsız çalışan meslek mensubu için yakınlık tehdidi yaratabilecek durumlara verilebilecek örnekler arasında yer almaz?",
+    "options": [
+      "A) Sözleşme ekibinin bir üyesinin, müşteri işletmenin bir yöneticisi veya memuru ile yakın veya birinci derece ailevi ilişkiye sahip olması.",
+      "B) Sözleşme ekibinin bir üyesinin, müşteri işletme ile yapılan sözleşmenin esas konusu üzerinde doğrudan ve önemli etki yapabilecek bir çalışanı ile yakın ya da birinci derece ailevi ilişkisinin olması.",
+      "C) Firmanın eski bir ortağının, müşterinin yöneticisi veya sözleşme konusu üzerinde direkt ve önemli bir etki yapabilecek çalışanı olması.",
+      "D) Üst düzey personel ile güvence sağlama müşterisi arasında uzun süreli arkadaşlık ilişkisinin olması",
+      "E) Borsaya kote olan finansal tablo denetimi müşterisinin kurucu hisse senedini almak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, \"Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik'e göre, tehditleri ortadan kaldırmaya veya kabul edilebilir düzeye indirmeye yönelik olarak \"iş çevresi ile firma çapında oluşturulabilecek önlemler\" arasında sayılmamıştır",
+    "options": [
+      "A) Firmanın temel etik ilkelere uyumun önemini vurgulamak.",
+      "B) Güvence sağlama sözleşmesi ekibinin kamu çıkarına uygun hareket edeceği yönünde bir beklentinin oluşmasını sağlamak.",
+      "C) Sözleşmelerde kalite kontrolü uygulanması ve izlenmesini sağlayacak politika ve süreçler.",
+      "D) Tehditlerin belirlenmesi, bu tehditlerin önem derecesinin değerlendirilmesi, önemsiz olanlar dışındaki tehditleri ortadan kaldıracak veya kabul edilebilir düzeye indirecek önlemlerin belirlenmesi ve uygulanmasına ilişkin belgeye dayalı politikalar.",
+      "E) Mevzuat ile alınacak önlemler"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, \"Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik'e göre, tehditleri ortadan kaldırmaya veya kabul edilebilir düzeye indirmeye yönelik olarak \"iş çevresi ile firma çapında oluşturulabilecek önlemler\" arasında sayılmamıştır",
+    "options": [
+      "A) Güvence sağlama sözleşmelerini kullanan firmalar için bağımsızlığa yönelik tehditlerin ve bu tehditlerin önem derecesinin belirlenmesi, tehditleri (önemsiz olanlar dışındaki) yok edecek veya kabul edilebilir düzeye indirecek önlemlerin değerlendirilmesi ve uygulanmasına yönelik belgeye dayalı bağımsızlık politikaları.",
+      "B) Temel etik ilkelere uyum gerektiren belgeye dayalı iç politika ve süreçler.",
+      "C) Firma veya sözleşme ekibi üyeleri ve müşteriler arasındaki çıkar ilişkilerinin belirlenmesini sağlayacak politika ve süreçler.",
+      "D) Tek bir müşteriden elde edilen gelirin izlenmesi ve gerektiğinde bu gelire olan bağımlılığın yönetilmesini sağlayacak politika ve süreçler",
+      "E) Disiplin prosedürleri"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, \"Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik'e göre, tehditleri ortadan kaldırmaya veya kabul edilebilir düzeye indirmeye yönelik olarak \"iş çevresi ile sözleşmeye özgü oluşturulabilecek önlemler\" arasında sayılmamıştır?",
+    "options": [
+      "A) Başka bir meslek mensubunun yapılan işi gözden geçirmesi veya gerekiyorsa tavsiyelerde bulunmasını sağlamak.",
+      "B) Bağımsız bir üçüncü gruba danışmak (örneğin, bağımsız yöneticilerden oluşan bir komite, mesleği düzenleyici bir organ veya başka bir meslek mensubu).",
+      "C) Etik konuların, müşterinin yönteminden sorumlu kişilerle tartışmak.",
+      "D) Sözleşme konusu hizmetin bir kısmının başka bir firma tarafından ifa edilmesi veya yeniden yerine getirilmesini sağlamak",
+      "E) Firma veya sözleşme ekibi üyeleri ve müşteriler arasındaki çıkar ilişkilerinin belirlenmesini sağlayacak politika ve süreçler"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik\"e göre, aşağıdakilerden hangisi Bağımlı çalışan meslek mensubunun görevlerini uygun meslekî yeterlilik ve özen içinde yerine getirmesini tehdit eden durumlara verilebilecek örnekler arasında sayılmaz?",
+    "options": [
+      "A) Görevlerin uygun şekilde yerine getirilmesi için yeterli zaman verilmemesi,",
+      "B) Görevlerin uygun şekilde yerine getirilmesi için gerekli bilgilerin eksik, yetersiz veya sınırlı olması,",
+      "C) Yetersiz deneyim ve eğitim,",
+      "D) Görevlerin yerine getirilmesinde kullanılacak kaynakların yetersizliği.",
+      "E) İlave danışmanlık veya eğitim sağlanması,"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik\"e göre, aşağıdakilerden hangisi Bağımlı çalışan meslek mensubunun görevlerini uygun meslekî yeterlilik ve özen içinde yerine getirmesini tehdit eden durumlara verilebilecek önlemler arasında sayılmaz?",
+    "options": [
+      "A) İlave danışmanlık veya eğitim sağlanması,",
+      "B) Görevlerin yerine getirilmesi için yeterli zamanın garanti edilmesi,",
+      "C) Konuyla ilgili uzmanlığa sahip bir kişiden destek alınması,",
+      "D) Uygun olduğunda işletme içindeki üstlerden, bağımsız uzmanlardan veya meslek örgütünden danışmanlık sağlanması",
+      "E) Görevlerin uygun şekilde yerine getirilmesi için yeterli zaman verilmemesi,"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkındaki Yönetmelik\"e göre, aşağıdakilerden hangisi Bağımlı çalışan meslek mensubu için kişisel çıkar tehdidi yaratabilecek durumlara verilebilecek örnekler arasında yer almaz?",
+    "options": [
+      "A) Finansal çıkar, krediler ve garantiler,",
+      "B) Şirket varlıklarının uygunsuz biçimde kişisel amaçlar için kullanımı,",
+      "C) İstihdam güvenliği ile ilgili endişeler,",
+      "D) İşveren dışından gelen ticari baskılar.",
+      "E) Meslekî kararlarını etkileyen taraflarla uzun süreli ilişki"
+    ],
+    "answer": 4
+  }
+ ]  
+}  
