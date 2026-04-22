@@ -2390,6 +2390,492 @@
       ],
       "answer": 3
     }
-  ]
+  ],
+  "Deneme Sınavı 02 (Genel Tarama)": [
+    
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Standart maliyet yöntemini uygulayan bir üretim işletmesinin Eylül 2025 dönemine ilişkin fiili direkt işçilik giderleri toplamı 800.000 ₺, standart direkt işçilik giderleri toplamı ise 750.000 ₺'dir. Söz konusu giderlerle ilgili olarak 20.000 ₺'lik olumlu ücret farkı ve 70.000 ₺'lik olumsuz süre farkı ortaya çıkmıştır.<br><br>Buna göre dönem sonunda yapılacak kapanış kaydıyla ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) 720 Direkt İşçilik Giderleri hesabına 800.000 ₺ alacak kaydedilir.",
+      "B) 721 Direkt İşçilik Giderleri Yansıtma Hesabına 750.000 ₺ borç kaydedilir.",
+      "C) 791 İşçi Ücret ve Giderleri hesabına 50.000 ₺ borç kaydedilir.",
+      "D) 723 Direkt İşçilik Süre (Zaman) Farkları hesabına 70.000 ₺ borç kaydedilir.",
+      "E) 722 Direkt İşçilik Ücret Farkları hesabına 20.000 ₺ alacak kaydedilir."
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir üretim işletmesinde M1, M2 ve M3 olmak üzere 3 ortak ürün üretilmektedir. Bunların üretilmesi sırasında bir esas üretim gider yerinde toplanan birleşik giderler toplamı 400.000 ₺'dir. Çeşitli özelliklerine göre bu ürünler için belirlenen katsayılar (ağırlıklar) ise sırasıyla 2, 3 ve 5'tir. M1 ürününden 8.000 adet, M2 ürününden 10.000 adet ve M3 ürününden 2.000 adet üretilmiştir.<br><br>İşletme birleşik giderlerin dağıtımında öncelikle birleşik giderin %30'unu mamullere eşit olarak dağıtıp sonrasında kalanı katsayı yöntemiyle dağıttığına göre M3 ürününün birleşik gider payı kaç TL'dir?",
+    "options": [
+      "A) 90.000",
+      "B) 96.000",
+      "C) 108.000",
+      "D) 116.000",
+      "E) 124.000"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "<table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>300.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>450.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Giderleri (%50'si değişken)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>500.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Faaliyet Giderleri (tamamı sabit)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>200.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Üretim kapasitesi</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10.000 adet</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönemde üretilen miktar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>8.000 adet</td></tr></table><br>Yukarıdaki bilgilere göre normal maliyet yöntemini uygulayan bir işletmenin birim üretim maliyeti kaç TL'dir?",
+    "options": [
+      "A) 181,25",
+      "B) 170",
+      "C) 156,25",
+      "D) 150",
+      "E) 125"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "İki evrede (safhada) üretim yapan bir işletmenin adet cinsinden miktar bilgileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>I. Evre</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>II. Evre</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem başı yarı mamul stokları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>12.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>15.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem sonu yarı mamul stokları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>8.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>5.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönemde üretime alınan miktar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>88.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönemde üretimi tamamlanan miktar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>92.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td></tr></table><br>Üretim sürecinde fire meydana gelmediğine göre II. Evre'de üretime alınan miktar ile üretimi tamamlanan miktar bilgileri aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?",
+    "options": [
+      "A) 92.000-102.000",
+      "B) 92.000-88.000",
+      "C) 102.000-88.000",
+      "D) 92.000-83.000",
+      "E) 102.000-83.000"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Stoklarını hareketli ortalama maliyet yöntemi ile değerleyen işletmede K malzemesine ait stok kartının kalanlar kısmı aşağıdaki gibidir:<br><br><b>KALANLAR</b><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Tarih</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Miktar (ad)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Fiyat (₺)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Tutar (₺)</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>5 Mart</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>150</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>60</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>9.000</td></tr></table><br>25 Mart tarihinde de 150 adet malzeme alındığı ancak stok kartına işlenmesinin unutulduğu bilinmektedir. 30 Mart tarihinde 200 adet malzeme üretime sevk edilmiş ve üretime sevk maliyeti 11.500 ₺ olarak hesaplanmıştır.<br><br>Buna göre 25 Mart tarihinde alınan 150 adet malzemenin birim maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 50,25",
+      "B) 52,5",
+      "C) 55",
+      "D) 57,5",
+      "E) 58"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Tek tip mamul üretimi yapan işletmede üretilen 9.000 kg mamulün 7.000 kg'lik kısmı dönemde satılmıştır. Üretim dönemi başında mamul stoku bulunmayan işletmenin üretim dönemine ait maliyet verileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt üretim maliyetleri (%30'u direkt işçilik)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>15.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem başı yarı mamul stok maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>2.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Endirekt üretim maliyetleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>5.500 ₺</td></tr></table><br>Mamul maliyetlerinin saptanmasında tam maliyet yönteminin uygulandığı dönemde satılan mamullerin üretim maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 10.500",
+      "B) 13.500",
+      "C) 14.000",
+      "D) 17.500",
+      "E) 22.500"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Aylık raporlama yapan ve standart maliyet yöntemini uygulayan bir üretim işletmesi direkt işçilik giderleriyle ilgili aşağıdaki kaydı yapmıştır:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>721 Direkt İşçilik Giderleri Yansıtma Hesabı<br>722 Direkt İşçilik Ücret Farkları<br><span style='margin-left: 15px;'>720 Direkt İşçilik Giderleri</span><br><span style='margin-left: 15px;'>723 Direkt İşçilik Süre (Zaman) Farkları</span></td><td style='text-align: right; width: 70px;'>650.000<br>75.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>700.000<br>25.000</td></tr></table><br>Buna göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Dönemde fiili olarak gerçekleşen işçilik maliyetleri 650.000 ₺'dir.",
+      "B) Döneme ilişkin standart işçilik maliyetleri 700.000 ₺'dir.",
+      "C) Direkt işçiliklere ilişkin olumsuz süre (zaman) farkı 25.000 ₺'dir.",
+      "D) Direkt işçiliklere ilişkin olumlu ücret farkı 75.000 ₺'dir.",
+      "E) Direkt işçiliklere ilişkin toplam olumsuz fark 50.000 ₺'dir."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "<table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>350.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>225.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Değişken Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>125.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Sabit Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>200.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Finansman Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>25.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Üretim kapasitesi</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>50.000 adet</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönemde üretilen miktar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>40.000 adet</td></tr></table><br>Bu bilgilerle tam maliyet ve normal maliyet yöntemlerine göre hesaplanacak toplam üretim maliyetleri arasındaki fark kaç ₺'dir?",
+    "options": [
+      "A) 25.000",
+      "B) 40.000",
+      "C) 50.000",
+      "D) 65.000",
+      "E) 100.000"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Sipariş maliyet yöntemini uygulayan XYZ İşletmesi genel üretim giderlerini makine saati (m/s) ölçüsüyle tahmini olarak ürünlere yüklemektedir. Temmuz 2024 döneminde 101 nolu sipariş için 200 m/s, 202 nolu sipariş için 300 m/s çalışılacağı öngörülmüştür. Temmuz ayı için öngörülen genel üretim giderleri toplamı ise 120.000 ₺'dir.<br><br>Temmuz ayında öngörülen süreler kadar m/s çalışması yapılmış ancak gerçekleşen genel üretim giderlerinin toplamı 150.000 ₺ olmuştur.<br><br>Buna göre aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) 202 nolu siparişe tahmini olarak yüklenen genel üretim gideri tutarı 72.000 ₺'dir.",
+      "B) 202 nolu siparişte dönem sonunda 18.000 ₺ eksik yükleme söz konusudur.",
+      "C) 101 nolu siparişe tahmini olarak yüklenen genel üretim gideri tutarı 48.000 ₺'dir.",
+      "D) 101 nolu siparişte dönem sonunda 12.000 ₺ fazla yükleme söz konusudur.",
+      "E) Genel üretim giderleri her iki siparişte makine saati başına 60 ₺ eksik yüklenmiştir."
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Tek safhada tek tip mamul üreten bir işletmede ürün maliyetlerinin hesaplanmasında İlk Giren İlk Çıkar yöntemi kullanılmaktadır. Dönem başında 500 ton yarı mamulü olan işletmede üretim döneminde 5.000 ton mamulün üretimine başlanmış, dönem sonu itibarıyla 4.500 ton mamulün üretimi tamamlanmıştır.<br><br>Dönemde üretim kaybı bulunmayan işletmenin üretim dönemine ait maliyet bilgileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Dönem Başı Yarı Mamul Maliyetleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Dönemin Üretim Maliyetleri</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>15.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>52.500 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>3.500 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>25.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>4.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>50.000 ₺</td></tr></table><br>Dönem sonu yarı mamullerin şekillendirme açısından tamamlanma derecesi %60 olduğuna ve şekillendirme açısından dönemin eşdeğer birim maliyeti 15 ₺ olarak hesaplandığına göre dönem başı yarı mamullerin şekillendirme açısından önceki dönemdeki tamamlanma derecesi % kaçtır?",
+    "options": [
+      "A) 20",
+      "B) 40",
+      "C) 60",
+      "D) 80",
+      "E) 90"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Dönem başında 40 ton mamul stoku bulunan bir üretim işletmesinde üretim döneminde 160 ton mamulün üretimi tamamlanmıştır. Stok maliyetlerinin tespitinde İlk Giren İlk Çıkar yöntemini kullanan işletmede döneme ilişkin maliyet bilgileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Dönemin Üretim Maliyetleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Dönem Başı Stok Maliyetleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Dönem Sonu Stok Maliyetleri</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>40.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;' rowspan='2'>Yarı Mamul: 5.000 ₺<br>Mamul: 12.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;' rowspan='2'>Yarı Mamul: 6.000 ₺<br>Mamul: ?</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Şekillendirme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>25.000 ₺</td></tr></table><br>Üretim döneminde 180 ton mamulün satışı gerçekleştirildiğine göre satılan mamullerin maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 50.750",
+      "B) 52.000",
+      "C) 62.750",
+      "D) 68.000",
+      "E) 76.000"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "ABC İşletmesinin üretim dönemi başında yarı mamul ve mamul stoku, dönem sonunda ise yarı mamul stoku bulunmamaktadır. Kilogram başına direkt hammadde maliyeti 250 ₺ olarak hesaplanan işletmenin döneme ilişkin bazı maliyet verileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>20.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Satılan Mamuller Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>60.000 ₺</td></tr></table><br>Dönemde üretimi tamamlanan 40 adet mamulün 3/4'ü satıldığına göre üretimde kullanılan direkt hammadde miktarı kaç kilogramdır?",
+    "options": [
+      "A) 120",
+      "B) 200",
+      "C) 240",
+      "D) 250",
+      "E) 320"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Mamul maliyetlerinin hesaplanmasında tam maliyet yöntemini benimseyen ve üretim döneminde %60 kapasiteyle çalışarak 300 ton mamul üreten işletmede birim direkt ilk madde ve malzeme gideri 100 ₺, birim şekillendirme gideri ise 60 ₺ hesaplanmıştır. İşletmenin değişken maliyet yöntemini benimsemiş olması hâlinde ise tamamlanan mamullerin maliyeti 42.000 ₺ olarak hesaplanmaktadır.<br><br>Dönem başı ve sonunda mamul veya yarı mamul stoku bulunmayan işletmede normal maliyet yönteminin benimsenmesi hâlinde ton başına mamul maliyeti kaç ₺ olur?",
+    "options": [
+      "A) 96",
+      "B) 140",
+      "C) 152",
+      "D) 160",
+      "E) 200"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Üretim döneminde 25.000 ₺ genel üretim giderine katlanılarak 25 adet A siparişi, 10 adet B siparişi ve 15 adet C siparişinin üretimini tamamlayan işletmede Kesim EÜGY ve Dikim EÜGY'nin genel üretim gideri payları sırasıyla 15.000 ₺ ve 10.000 ₺ olarak hesaplanmıştır. Üretici işçilerin ve makinelerin çalışma süreleri ile dağıtım anahtarları aşağıda verilmiştir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;' rowspan='2'>SİPARİŞ</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;' colspan='2'>KESİM EÜGY</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;' colspan='2'>DİKİM EÜGY</td></tr><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Makine Saati</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Direkt İşçilik Saati</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Makine Saati</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Direkt İşçilik Saati</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>A Siparişi</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>150</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>35</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>80</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>160</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>B Siparişi</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>400</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>40</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>70</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>100</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>C Siparişi</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>200</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>25</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>100</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>140</td></tr></table><br>Dağıtım Anahtarları<br>Kesim EÜGY - Makine Saati<br>Dikim EÜGY - Direkt İşçilik Saati<br><br>Buna göre, B siparişine yüklenecek genel üretim gideri birim başına kaç ₺'dir?",
+    "options": [
+      "A) 35",
+      "B) 45",
+      "C) 450",
+      "D) 500",
+      "E) 1.050"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "AB İşletmesinin maliyet dönemine ait bazı üretim verileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Endirekt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>7.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Yardımcı Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Memur Ücret ve Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Amortisman Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>8.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Çeşitli Giderler</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>5.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>20.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Vergi, Resim ve Harç Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>4.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>40.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dışarıdan Sağlanan Fayda ve Hizmetler</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>5.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>İşletme Malzemesi Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>6.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Başı Yarı Mamul</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>5.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Sonu Yarı Mamul</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>7.000 ₺</td></tr></table><br>Dönem başı ve dönem sonu mamul stoku bulunmayan işletme, üretim döneminde 1000 adet mamulün üretimini tamamladığına göre birim başına şekillendirme maliyeti kaç ₺ olur?",
+    "options": [
+      "A) 75",
+      "B) 85",
+      "C) 90",
+      "D) 91",
+      "E) 95"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir işletme tam maliyetleme sistemini benimsediğinde toplam maliyet 70.000 ₺; direkt giderler toplamı ise 40.000 ₺ olmaktadır.<br><br>%80 kapasite ile çalışan bu işletmede normal maliyetleme sistemi benimsendiğinde ise toplam maliyet 66.000 ₺ olmaktadır.<br><br>Verilenlere göre, işletmede değişken maliyetleme sistemi kullanılır ve 2500 birim üretim yapılırsa birim maliyet kaç ₺ olur?",
+    "options": [
+      "A) 10",
+      "B) 20",
+      "C) 25",
+      "D) 30",
+      "E) 35"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Dönem başı ve dönem sonu yarı mamulü bulunmayan ve net satışları 180.000 ₺ olan bir işletmenin üretim dönemine ilişkin bazı maliyet bilgileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Sonu Mamul</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>20.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Brüt Satış Kârı</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>130.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>7.500 ₺</td></tr></table><br>Verilenlere göre, işletmenin Direkt İlk Madde Malzeme Giderleri kaç ₺'dir?",
+    "options": [
+      "A) 10.000",
+      "B) 12.500",
+      "C) 22.500",
+      "D) 52.500",
+      "E) 62.500"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "VYZ Sanayi İşletmesi'nin üretim döneminde gerçekleşen genel üretim giderleri doğrama ve montaj esas üretim gider yerleri (EÜGY) ile yemekhane ve bakım-onarım yardımcı üretim ve hizmet gider yerlerine (YÜHGY) dağıtılmış ve bu dağıtım sonucunda oluşan birinci dağıtım toplamları ile genel üretim giderlerinin ikinci dağıtımında kullanılacak dağıtım anahtarları aşağıda verilmiştir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Gider Yerleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>1. Dağıtım Toplamları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Personel Sayıları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Bakım-Onarım Saatleri</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Doğrama</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>30.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>6</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>15</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Montaj</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>50.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>9</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>25</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Yemekhane</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>9.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>2</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>10</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Bakım-Onarım</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>4.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>3</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>-</td></tr><tr style='font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>TOPLAM</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>93.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>20</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>50</td></tr></table><br>Yemekhane YÜHGY'nin giderleri personel sayılarına göre, Bakım-Onarım YÜHGY'nin giderleri ise bakım-onarım saatlerine göre dağıtılacaktır.<br><br>Verilenlere göre, doğrudan (basit) dağıtım yöntemini benimseyen işletmenin Montaj EÜGY'nde dağıtımlar sonrasında biriken genel üretim giderleri toplamı kaç ₺ olur?",
+    "options": [
+      "A) 54.650",
+      "B) 55.100",
+      "C) 56.050",
+      "D) 57.250",
+      "E) 57.900"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Beyaz eşya imalatı gerçekleştirilen ve giderlerini 7/A seçeneğine göre izleyen bir fabrikada kesme, kaynak, boya ve montaj esas üretim gider yerleri bulunmaktadır.<br><br>Buna göre aşağıdakilerden hangisi genel üretim giderlerinde muhasebeleştirilmesi gereken bir giderdir?<br><br><i>(!!! Bu soru Tesmer tarafından iptal edilmiş ve değerlendirme dışı bırakılmıştır.)</i>",
+    "options": [
+      "A) Pazarlama müdürünün kıdem tazminatı karşılıkları",
+      "B) Kesimhanede tüketilen ilk madde",
+      "C) Fabrika müdürlüğünde tüketilen kırtasiye malzemesi",
+      "D) Boyahane personelinin esas işçilikleri",
+      "E) Yemekhane personelinin sosyal güvenlik primleri"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "ABC Tekstil İşletmesinin üretim döneminde gerçekleşen genel üretim giderleri esas üretim gider yerleri (EÜGY) ile yardımcı hizmet gider yerlerine (YHGY) dağıtılmış ve birinci dağıtım toplamları aşağıdaki gibi belirlenmiştir.<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;' colspan='2'>Gider Yerleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>1. Dağıtım Toplamları</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;' rowspan='2'>YHGY</td><td style='padding: 8px; border: 1px solid #e2e8f0;'>Enerji</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>12.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Yemekhane</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>15.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;' rowspan='2'>EÜGY</td><td style='padding: 8px; border: 1px solid #e2e8f0;'>Kesim</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>60.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dikim</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>40.000 ₺</td></tr></table><br>İkinci dağıtımda kullanılacak dağıtım anahtarları ise aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dağıtım Anahtarları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Enerji</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Yemekhane</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Kesim</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Dikim</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Kilovatsaat</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>20</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>80</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>200</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>100</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Personel Sayıları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>10</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>5</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>15</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>25</td></tr></table><br>İşletmede genel üretim giderlerinin II. dağıtımında kademeli dağıtım yöntemi kullanılacak olup dağıtımda Enerji gider yerinin giderleri kilovatsaat tüketimlerine göre, Yemekhane gider yerinin giderleri ise personel sayılarına göre dağıtılacaktır.<br><br>Verilenlere göre II. dağıtım sonucunda Dikim gider yerinin Enerji ve Yemekhane gider yerlerinden alacağı GÜG paylarının toplamı kaç ₺'dir?",
+    "options": [
+      "A) 11.500",
+      "B) 12.500",
+      "C) 13.375",
+      "D) 13.625",
+      "E) 14.500"
+    ],
+    "answer": 1
+  }
+],
+  "Deneme Sınavı 03 (Genel Tarama)": [
+
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Mobilya imalatı yapan ve maliyetlerini 7/A seçeneğine göre izleyen bir işletme, müşterisinden özel bir mobilya siparişi almıştır.<br><br>İşletme devam eden işleri içinde, aldığı özel siparişi zamanında tamamlayabilmek için esas üretim gider yerinde çalışan işçilerine fazla mesai ödemek zorunda kaldığında, ödenen fazla mesai ücreti aşağıdaki hesaplardan hangisinde izlenir?",
+    "options": [
+      "A) Genel Üretim Giderleri hesabı",
+      "B) Genel Yönetim Giderleri hesabı",
+      "C) İşçi Ücret ve Giderleri hesabı",
+      "D) Üretim Maliyet hesabı",
+      "E) Direkt İşçilik Giderleri hesabı"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Standart maliyet sistemini uygulayan bir üretim işletmesinde \"X\" mamulü üretimine ilişkin standart veriler aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Standart direkt işçilik saat ücreti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>180 ₺/DİS</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Standart direkt işçilik süresi</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>0,6 DİS/adet</td></tr></table><br>3.000 adet \"X\" mamulü üretilen maliyet döneminde 2.100 direkt işçilik saati (DİS) çalışılmış ve direkt işçilik gideri olarak 420.000 ₺ ödenmiştir.<br><br>Verilen bilgilere göre direkt işçilik süre farkı (sapması) ve farkın (sapmanın) yönü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 60.000 ₺ olumsuz",
+      "B) 60.000 ₺ olumlu",
+      "C) 54.000 ₺ olumsuz",
+      "D) 54.000 ₺ olumlu",
+      "E) 42.000 ₺ olumsuz"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "PRS İmalat İşletmesi \"A1\" esas üretim gider yerinde ortaya çıkan genel üretim giderlerini, o bölümde tahakkuk eden direkt işçilik giderlerine göre mamullere yüklemektedir. \"A1\" esas üretim gider yerinde maliyet döneminde tahakkuk eden genel üretim giderleri toplamı 20.000 ₺ olup üretilen mamuller ve tahakkuk eden direkt işçilik giderlerine ilişkin bilgiler aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Mamuller</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Üretim Miktarı</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>Tahakkuk Eden Direkt İşçilik Gideri</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>M1</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>1.000 br</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>15.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>M2</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>2.500 br</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>20.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>M3</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>1.250 br</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>45.000 ₺</td></tr></table><br>Verilenlere göre \"A1\" esas üretim gider yerinde \"M2\" mamulü açısından birim başına genel üretim gideri kaç ₺'dir?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3,75",
+      "D) 5",
+      "E) 9"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Aylık üretim kapasitesi 24.000 adet olan bir üretim işletmesinde maliyet döneminde 15.600 adet mamul üretimi gerçekleştirilmiştir. Bu işletmenin söz konusu üretim için benimseyebileceği maliyet yöntemleri ve gerçekleşecek üretim maliyetleri ise aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Yöntemler</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>Maliyetler</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Asal maliyet</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>129.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Değişken maliyet</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>156.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Normal maliyet</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>171.600 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Tam maliyet</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>180.000 ₺</td></tr></table><br>Verilenlere göre işletmenin döneme ilişkin sabit genel üretim giderleri kaç ₺'dir?",
+    "options": [
+      "A) 8.400",
+      "B) 24.000",
+      "C) 27.000",
+      "D) 42.600",
+      "E) 51.000"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "20.000 birim mamul üretip satan MT Üretim işletmesine ait maliyet verileri şu şekildedir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Mlz Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>40 ₺/birim</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>30 ₺/birim</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Değişken Genel Üretim Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>20 ₺/birim</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Sabit Genel Üretim Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>400.000 ₺</td></tr></table><br>İşletme bu dönem 400.000 ₺ kâr elde ettiğine göre, birim satış fiyatı kaç ₺'dir?",
+    "options": [
+      "A) 90",
+      "B) 115",
+      "C) 130",
+      "D) 140",
+      "E) 150"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "I. Doğrudan dağıtım yönteminde, hizmet üretim gider yerleri birbirine doğrudan dağıtım yapar.<br>II. Kademeli dağıtım yönteminde, hizmet üretim gider yerleri arasındaki ilişki dikkate alınmaz.<br>III. İkinci dağıtımda, hizmet ve yardımcı üretim gider yerlerindeki endirekt maliyetler esas üretim gider yerlerine dağıtılır.<br>IV. Üçüncü dağıtımda, esas üretim gider yerlerindeki endirekt maliyetler uygun yükleme oranlarıyla mamullere yüklenir.<br><br>Buna göre, genel üretim giderlerinin dağıtımı ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?",
+    "options": [
+      "A) Yalnız III",
+      "B) II ve IV",
+      "C) III ve IV",
+      "D) I, II ve IV",
+      "E) I, III ve IV"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir üretim işletmesinde 2022 yılı Ekim ve Kasım ayında dönem sonu yarı mamul stoku bulunmamaktadır. İşletmenin belirtilen dönemlere ilişkin üretim maliyet unsurları ve stok bilgileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Ekim 2022</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Kasım 2022</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>50.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>60.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>100.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>135.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>200.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>175.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Başı Yarı Mamul</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>25.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Üretilen Mamul Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>375.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Başı Mamul</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>40.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Sonu Mamul</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>30.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Satılan Mamuller Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>410.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td></tr></table><br>Verilenlere göre Kasım 2022 döneminde satılan mamuller maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 345.000",
+      "B) 350.000",
+      "C) 75.000",
+      "D) 400.000",
+      "E) 405.000"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "I. Genel üretim giderlerinin esas üretim ve yardımcı üretim gider yerlerine yüklenmesi<br>II. Esas üretim gider yerlerindeki giderlerin mamullere yüklenmesi<br>III. Yardımcı üretim gider yerlerindeki giderlerin esas üretim gider yerlerine yüklenmesi<br><br>Yukarıdaki ifadeler dikkate alındığında, giderlerin dağıtımında izlenen işlem sırası aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) I, II, III",
+      "B) II, I, III",
+      "C) II, III, I",
+      "D) III, I, II",
+      "E) I, III, II"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Tek safhada, tek tip mamul üretimi yapmakta olan bir üretim işletmesinin dönem başında 2.000 birim yarı mamulü bulunmaktadır. İşletme, üretim döneminde 5.000 birimin üretimine başlamış ve üretim dönemi sonu itibarıyla 6.000 birim mamulün üretimini tamamlamıştır. Üretim döneminde fire söz konusu olmayan işletmede üretim döneminde dönem başı yarı mamullerin (DBYM) ve dönem sonu yarı mamullerin (DSYM) tamamlanma dereceleri aşağıdaki gibi tespit edilmiştir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Tamamlanma Dereceleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>DBYM</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>DSYM</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri açısından</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%100</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%80</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri açısından</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%60</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%70</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Giderleri açısından</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%60</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%70</td></tr></table><br>DBYM'nin direkt ilk madde ve malzeme giderleri 24.000 ₺, üretim döneminde gerçekleşen direkt ilk madde ve malzeme giderleri ise 96.000 ₺'dir.<br><br>Ürün maliyetlerinin hesaplanmasında ilk giren ilk çıkar yöntemi kullanıldığına göre direkt ilk madde ve malzeme giderleri açısından eşdeğer birim maliyet kaç ₺'dir?",
+    "options": [
+      "A) 15",
+      "B) 17",
+      "C) 18",
+      "D) 20",
+      "E) 25"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Ortak maliyetlerini üretim miktarı yöntemine göre dağıtan ve K, L ve M isimli üç tip mamul üreten işletmede, maliyet dönemi sonunda ortak maliyet 360.000 ₺ olarak hesaplanmıştır.<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Üretim Miktarı (kg)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Ortak Maliyet Payı (₺)</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>K Ürünü</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>3.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>60.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>L Ürünü</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>M Ürünü</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>9.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>180.000</td></tr></table><br>Verilenlere göre, L mamulünün üretim miktarı kaç kg'dir?",
+    "options": [
+      "A) 3.000",
+      "B) 6.000",
+      "C) 9.000",
+      "D) 15.000",
+      "E) 18.000"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "İşletme X mamulünü üretmekte ve evre maliyet sistemini kullanmaktadır. Aralık döneminde gerçekleşen miktar hareketleri ve direkt ilk madde ve malzeme giderlerine ilişkin bilgiler aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;' colspan='2'>EVRE I</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Başı Yarı Mamul Stok</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>100 br</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Üretime Başlanan</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>1.100 br</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Tamamlanan</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>1.000 br</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Sonu Yarı Mamul Stok</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>200 br</td></tr></table><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;' colspan='2'>MALİYETLER (₺)</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem başı yarı mamul stokları için önceki dönemde katlanılan direkt ilk madde ve malzeme giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>4.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönemde katlanılan direkt ilk madde ve malzeme giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>18.000 ₺</td></tr></table><br>Buna göre, ortalama maliyet yönteminin kullanıldığı 1. Evre'de, direkt ilk madde ve malzeme açısından eşdeğer birim başına üretim maliyetinin 20 ₺ olması için, direkt ilk madde ve malzeme açısından dönem sonu yarı mamullerin tamamlanma derecesi kaç olmalıdır?",
+    "options": [
+      "A) %25",
+      "B) %40",
+      "C) %50",
+      "D) %70",
+      "E) %100"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Standart maliyet sistemini uygulayan bir işletmede yapılan kayıt aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>711 DİREKT İLK MADDE VE MALZEME GİDERLERİ YANSITMA<br>713 DİREKT İLK MADDE VE MALZEME MİKTAR FARKI<br><span style='margin-left: 15px;'>710 DİREKT İLK MADDE VE MALZEME GİDERLERİ</span><br><span style='margin-left: 15px;'>712 DİREKT İLK MADDE VE MALZEME FİYAT FARKI</span></td><td style='text-align: right; width: 70px;'>152.000<br>8.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>156.000<br>4.000</td></tr></table><br>Yukarıdaki kayda göre, aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Direkt ilk madde ve malzeme giderlerinde toplam sapma 4.000 ₺ olumludur.",
+      "B) Direkt ilk madde ve malzeme giderlerinde 4.000 ₺ olumsuz fiyat sapması vardır.",
+      "C) Üretimin standart maliyeti 156.000 ₺'dir.",
+      "D) Direkt ilk madde ve malzeme giderlerinde toplam sapma 4.000 ₺ olumsuzdur.",
+      "E) Direkt ilk madde ve malzeme giderlerinde 8.000 ₺ olumlu miktar sapması vardır."
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir üretim işletmesinin üretimde kullandığı \"A\" yardımcı malzemesine ilişkin Mart ayı sonundaki stok miktarı 1.000 adet, bu stoklarının değeri ise 7.000 ₺'dir. Stoklarını ilk giren ilk çıkar (FIFO) yöntemine göre izleyen işletmenin, \"A\" yardımcı malzemesine ilişkin Nisan ayı hareket bilgileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>İşlemin Niteliği</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Tarih</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Miktar (adet)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Birim maliyeti (₺)</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Alış</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>01 Nisan</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>4.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>8</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Satış</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>17 Nisan</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>2.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>12</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Üretime Sevk</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>10 Nisan</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>1.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>-</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Üretime Sevk</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>20 Nisan</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>900</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>-</td></tr></table><br>Stok hareketlerini sürekli (devamlı) envanter yöntemine göre izleyen bu işletmenin 20 Nisan'da üretime sevk ettiği malzeme için yapacağı maliyet kaydı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Direkt İlk Madde ve Malzeme Giderleri hesabı borçlu 7.000",
+      "B) Genel Üretim Giderleri hesabı borçlu 7.200",
+      "C) Direkt İlk Madde ve Malzeme Giderleri hesabı borçlu 8.000",
+      "D) Genel Üretim Giderleri hesabı borçlu 10.800",
+      "E) İlk Madde ve Malzeme hesabı borçlu 24.800"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Herhangi bir malı veya hizmeti, kullanıldığı veya satıldığı yerde elde edebilmek için doğrudan doğruya ve dolaylı olarak yapılan toplam harcamalara ne ad verilir?",
+    "options": [
+      "A) Ödeme",
+      "B) Maliyet",
+      "C) Zarar",
+      "D) Gider",
+      "E) Fire"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir üretim işletmesinde faaliyet döneminde üretimde gerçekleşen işçilikler ve işçilik karşılığında tahakkuk eden işçilik giderleri tabloda gösterildiği gibidir.<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Mesai Türü</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>Normal Mesai Ücretleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>Fazla Mesai Ücretleri Zamlı Kısmı</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>Toplam</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Normal mesai</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>90.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>0 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>90.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Özel bir siparişi yetiştirmek için fazla mesai</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>15.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>7.500 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>22.500 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Kapasite yetersizliği ile yapılan fazla mesai</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>25.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>12.500 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>37.500 ₺</td></tr><tr style='font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Toplam</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>130.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>20.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>150.000 ₺</td></tr></table><br>İşletmede tahakkuk eden fazla mesai ücretlerinin zamlı kısmı, hangi tür gider olarak tanımlanır ve kaydedilir?",
+    "options": [
+      "A) 7.500 ₺, Direkt İşçilik Gideri; 12.500 ₺, Genel Üretim Gideri",
+      "B) 7.500 ₺, Genel Üretim Gideri; 12.500 ₺, Genel Üretim Gideri",
+      "C) 7.500 ₺, Direkt İşçilik Gideri; 12.500 ₺, Çalışmayan Kısım Gider ve Zararları",
+      "D) 7.500 ₺, Genel Üretim Gideri; 12.500 ₺, Çalışmayan Kısım Gider ve Zararları",
+      "E) 7.500 ₺, Direkt İşçilik Gideri; 12.500 ₺, Direkt İşçilik Gideri"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "ABC Mobilya İmalat İşletmesinin üretim döneminde genel üretim giderleri 180.000 ₺ olarak gerçekleşmiş ve bu tutar esas üretim gider yerleri (EÜGY) ile yardımcı hizmet gider yerlerine (YHGY) dağıtılmıştır. Dağıtım sonucunda gider yerlerinin birinci dağıtım toplamları; Kesim EÜGY 80.000 ₺, Montaj EÜGY 56.000 ₺, Isıtma YHGY 14.000 ₺, Yemekhane YHGY 30.000 ₺ şeklinde oluşmuştur. Genel üretim giderlerinin ikinci dağıtımında kullanılacak dağıtım anahtarları ise aşağıda verilmiştir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Gider Yerleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>Yüz Ölçümü (Metrekare)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>Personel Sayısı</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Kesim</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>1.500</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>15</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Montaj</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>1.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>25</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Yemekhane</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>400</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Isıtma</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>100</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10</td></tr><tr style='font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>TOPLAM</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>3.000</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>60</td></tr></table><br>İkinci dağıtımda kademeli dağıtım yöntemini benimseyen işletmede Isıtma YHGY'nin giderleri gider yerinin yüzölçümüne, Yemekhane YHGY'nin giderleri ise gider yerindeki personel sayısına göre dağıtılacaktır.<br><br>Verilenlere göre, Isıtma YHGY'den Kesim EÜGY'ye dağıtılacak gider payı kaç ₺ olur?",
+    "options": [
+      "A) 7.000",
+      "B) 8.400",
+      "C) 9.000",
+      "D) 11.400",
+      "E) 12.000"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Tek tip mamulün üretimini yapan işletmede üretim döneminde 100 ton mamulün üretimi tamamlanmış, bu mamullerin 80 tonluk kısmı dönemde satılmıştır. Üretim dönemi başında mamul stoku bulunmayan işletmenin döneme ilişkin maliyet verileri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>100.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>50.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>30.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Sonu Yarı Mamul Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>40.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem Başı Yarı Mamul Maliyeti</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10.000 ₺</td></tr></table><br>Verilenlere göre üretim döneminde satılan mamullerin maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 120.000",
+      "B) 128.000",
+      "C) 150.000",
+      "D) 152.000",
+      "E) 176.000"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "ABC İşletmesi normal maliyetleme yöntemini kullanmaktadır. İşletmenin ilgili döneme ait üretim bilgileri ve maliyetleri aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>4.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>2.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Değişken Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>3.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Sabit Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>10.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönemde Üretilen Mamul Miktarı</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>4.500 br</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Normal Kapasite Düzeyi</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>5.000 br</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Maksimum Kapasite Düzeyi</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>6.000 br</td></tr></table><br>ABC İşletmesi ilgili dönemde normal maliyetleme yöntemi yerine değişken maliyetleme yöntemini kullanmış olsaydı, birim başına üretim maliyetlerindeki değişim nasıl olurdu?",
+    "options": [
+      "A) 2 ₺ azalır",
+      "B) 2,5 ₺ azalır",
+      "C) 3 ₺ artar",
+      "D) 4 ₺ azalır",
+      "E) 5 ₺ artar"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "İşletmede 100 adetlik bir siparişin toplam maliyeti 10.000 ₺ olarak gerçekleşmiştir. Üretilen mamullerden 10 adedinin kusurlu olduğu tespit edilmiş ve söz konusu mamullerin kusurunun giderilmesi için aşağıdaki maliyetlere katlanılarak düzeltme yapılmıştır.<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Gideri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>2.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Gideri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>1.500 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Gideri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>500 ₺</td></tr></table><br>Buna göre, düzeltme işlemi sonrası bu siparişe ilişkin birim başına üretim maliyeti kaç ₺'lik artış göstermiştir?",
+    "options": [
+      "A) 10",
+      "B) 30",
+      "C) 40",
+      "D) 100",
+      "E) 140"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Stok maliyetlerinin tespitinde ağırlıklı ortalama maliyet yöntemini kullanmakta olan bir işletme üretim döneminde mamul birimi başına 20 kilogram hammadde kullanarak ürettiği 800 adet mamulün 3/4'ünü satmıştır. Dönem sonu mamul stoklarına isabet eden hammadde maliyeti 32.000 ₺ olarak hesaplanmıştır.<br><br>Tek hammadde kullanarak tek çeşit mamul üreten işletmede kilogram başına hammadde maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 4",
+      "B) 8",
+      "C) 12",
+      "D) 40",
+      "E) 80"
+    ],
+    "answer": 1
+  }
+]
 }
 
