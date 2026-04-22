@@ -7989,6 +7989,451 @@
       "answer": 4
     }
   ],
+  "Deneme Sınavı 02 (Genel Tarana)": [
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, \"bir sözleşme yapılırken düzenleyenin, ileride çok sayıdaki benzer sözleşmede kullanmak amacıyla, önceden, tek başına hazırlayarak karşı tarafa sunduğu sözleşme hükümleri\" aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "A) Yetki Sözleşmesi Koşulları",
+      "B) İbra Koşulları",
+      "C) Genel İşlem Koşulları",
+      "D) Rücu Koşulları",
+      "E) Borca Katılma Koşulları"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, aşağıdakilerden hangisi kesin hükümsüzlük sebepleri arasında yer almaz?",
+    "options": [
+      "A) Sözleşmeye aykırılık",
+      "B) Kanunun emredici hükümlerine aykırılık",
+      "C) Ahlaka aykırılık",
+      "D) Kamu düzenine aykırılık",
+      "E) Kişilik haklarına aykırılık"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"Alacaklılarının icra takibi karşısında bunalan (A), borcunu ödemek için gerçek değeri 2.000.000 ₺ olan evini satmak zorunda kalmıştır. (B), (A)'nın zor durumda olduğunu bilerek ve (A)'nın bu zor durumundan faydalanarak (A)'nın evini 500.000 ₺ karşılığında satın almıştır.\"<br><br>6098 sayılı Türk Borçlar Kanunu'na göre, yukarıda anılan olayda (B)'nin davranışı aşağıdakilerden hangisine örnek olarak gösterilebilir?",
+    "options": [
+      "A) Aşırı yararlanma",
+      "B) Korkutma",
+      "C) Aldatma",
+      "D) Sözleşmenin konusunda hata",
+      "E) Sözleşmenin türünde hata"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Adam çalıştıranın sorumluluğuna ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Adam çalıştıranın sorumluluğu bir haksız fiil sorumluluğudur.",
+      "B) Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat ederek kurtuluş kanıtı getirebilir ve sorumluluktan kurtulabilir.",
+      "C) Adam çalıştıran, ödediği tazminat için, zarar veren çalışana, ancak onun bizzat sorumlu olduğu ölçüde rücu hakkına sahiptir.",
+      "D) Adam çalıştıranın sorumluluğunun doğabilmesi için, çalıştırılan kişi ile çalıştıran arasında bir bağımlılık ilişkisinin bulunması şart değildir.",
+      "E) Bir işletmede adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını önlemeye elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep olunan zararı gidermekle yükümlüdür."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Hakim, zarar verenin kusurunun olup olmadığı hakkında karar verirken, ceza hukukunun sorumlulukla ilgili hükümleriyle bağlı değildir.<br>II. Hâkim, zarar verenin ayırt etme gücünün bulunup bulunmadığı hakkında karar verirken, ceza hukukunun sorumlulukla ilgili hükümleriyle bağlıdır.<br>III. Hâkim, ceza hâkimi tarafından verilen beraat kararıyla bağlıdır.<br>IV. Ceza hâkiminin kusurun değerlendirilmesine ilişkin kararı hukuk hâkimini bağlamaz.<br>V. Ceza hâkiminin zararın belirlenmesine ilişkin kararı hukuk hâkimini bağlar.<br><br>6098 sayılı Türk Borçlar Kanunu'na göre haksız fiil yargılamasıyla ilgili yukarıdakilerden hangileri doğrudur?",
+    "options": [
+      "A) I ve III",
+      "B) I ve IV",
+      "C) I, III ve IV",
+      "D) II, III ve V",
+      "E) II, IV ve V"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Düzenleyen tarafından bononun ön yüzüne düşülen \"gidersiz\" kaydı hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Hamilin protesto çekme yükümlülüğünü ortadan kaldırır.",
+      "B) Hamilin ihbarda bulunma külfetini ortadan kaldırır.",
+      "C) Hamilin ödeme için ibrazda bulunma yükümlülüğünü ortadan kaldırır.",
+      "D) Hamilin vadesinden önce bonoyu düzenleyene ibraz yükümlülüğünü ortadan kaldırır.",
+      "E) Gidersiz kaydı bonoyu geçersiz hale getiren kayıtlardandır, düzenleyen bu kaydı koyamaz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tacir (A), ticari işletmesini yönetmesi için ve kendisini temsil etmek üzere (T1)'i ticari temsilcisi olarak atamıştır.<br><br>6098 sayılı Türk Borçlar Kanunu'na göre, (T1) hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Tacir (A), dilerse (T1)'in temsil yetkisini belirli bir şubeyle sınırlandırılabilir.",
+      "B) Tacir (A)'nın ölümü (T1)'in temsil yetkisini sona erdirmez.",
+      "C) (T1), bu konuda açıkça yetkili kılınmasa dahi, tacir adına kambiyo senedi düzenleyebilir.",
+      "D) (T1), bu konuda açıkça yetkili kılınmasa dahi, taşınmazları devredebilir.",
+      "E) (T1)'in temsil yetkisi sona ererse, yetkinin sona erdiği ticaret siciline tescil edilmek zorundadır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, limited şirkete ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Şirket sözleşmesinde öngörülmesi koşuluyla ortakların şirketle rekabet etmesi yasaklanabilir.",
+      "B) Limited şirket müdürleri en çok iki yıl süreyle görev yapmak üzere seçilir.",
+      "C) Limited şirkette esas sermaye pay senetleri, ispat aracı şeklinde veya nama yazılı olarak düzenlenir.",
+      "D) Limited şirketten nakden taahhüt edilen payların bedelinin şirketin tescilinden önce ödenme zorunluluğu yoktur.",
+      "E) Limited şirket sözleşmesinde ortağın şirketten çıkarılabileceği sebeplere ilişkin hükümlere yer verilebilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "\"İşbu bono karşılığında Latif Sevimli 'ye 10.000 ₺ ödeyeceğim.\"<br><br>şeklinde bir kayıt taşıyan ve diğer unsurları tam olan bir senet için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Bu senet nama yazılı bir bonodur.",
+      "B) Bono sadece emre yazılı düzenlenebilir; ancak senette \"emre\" kaydı yer almadığı için senet bono hükmünde değildir.",
+      "C) Adi senet hükmünde olan bu senet, sadece zilyetliğin devri yoluyla bir başkasına devredilebilir.",
+      "D) Emre yazılı olan bu bono, ciro ve zilyetliğin devri yoluyla bir başkasına devredilebilir.",
+      "E) Söz konusu senet alacağın temliki yoluyla bir başkasına devredilirse, senet nama yazılı hâle gelir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Görüldüğünde ödenecek poliçe<br>II. Görüldüğünden belli bir süre sonra ödenecek poliçe<br>III. Belirli tarihte ödenecek poliçe<br>IV. Düzenlendiği tarihten belirli süre sonra ödenecek poliçe<br><br>Yukarıda belirtilen poliçelerden hangisine/hangilerine düzenlenen tarafından konulan anapara (kapital) faizi kaydı geçerlidir?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve IV",
+      "D) III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, ücrete ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Toplu iş sözleşmesinde hüküm bulunması hâlinde ücretin günlük olarak ödenmesi mümkündür.",
+      "B) İşveren, yönetim hakkına dayanarak, iş sözleşmesi veya toplu iş sözleşmesinde hüküm bulunmasa bile işçiye ücret kesme cezası verebilir.",
+      "C) İşçinin kabul etmesi hâlinde ücreti bono, kupon veya yurt içinde geçerli parayı temsil eden senetle ödenebilir.",
+      "D) Ücret alacaklarında zamanaşımı süresi yirmi yıldır.",
+      "E) Lokanta, eğlence yeri gibi işyerlerinde, yüzde usulü uygulanarak, işçi ücretlerinin yüzdelerle ödenmesi hâlinde bu paraların işverene ait olacağının kararlaştırılması geçersizdir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre aşağıdakilerden hangisi işverene haklı nedenle derhal fesih hakkı veren hållerden biri değildir?",
+    "options": [
+      "A) İş sözleşmesinin konusu olan işin yapılmasının işin niteliğinden doğan bir sebeple işçinin sağlığı veya yaşayışı için tehlikeli olması",
+      "B) İşçinin işverenin başka bir işçisine cinsel tacizde bulunması",
+      "C) İşçinin yapmakla ödevli bulunduğu görevleri kendisine hatırlatıldığı hâlde yapmamakta ısrar etmesi",
+      "D) İşçinin gözaltına alınması veya tutuklanması hâlinde devamsızlığın Kanun'da öngörülen bildirim süresini aşması",
+      "E) İşçiyi işyerinde bir haftadan fazla süre ile çalışmaktan alıkoyan zorlayıcı bir sebebin ortaya çıkması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, iş sözleşmesinin süreli feshine ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bildirim süresi içerisinde verilecek yeni iş arama izni günde iki saatten az olamaz.",
+      "B) Yasada düzenlenen bildirim süreleri sözleşmelerle artırılabilir.",
+      "C) Bildirim şartına uymayan işçiden ihbar tazminatı talep edilemez, yalnızca işverenin zararı varsa genel hükümlere göre tazmini talep edilebilir.",
+      "D) İşveren bildirim süresine ait ücreti peşin vermek suretiyle iş sözleşmesini feshedebilir.",
+      "E) İhbar tazminatının zamanaşımı süresi 5 yıldır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "I. İşveren, iş sözleşmesiyle veya iş sözleşmesinin eki niteliğindeki personel yönetmeliği ve benzeri kaynaklar ya da İşyeri uygulamasıyla oluşan çalışma koşullarında esaslı bir değişikliği, ancak durumu işçiye yazılı veya sözlü olarak bildirmek suretiyle yapabilir.<br>II. İşçi tarafından altı işgünü içinde yazılı olarak kabul edilmeyen çalışma koşulu değişiklikleri işçiyi bağlamaz.<br>III. Taraflar aralarında anlaşarak çalışma koşullarını her zaman değiştirebilir.<br>IV. Çalışma koşullarında değişiklik geçmişe etkili olarak yürürlüğe konulabilir.<br>V. İşçi, çalışma koşullarındaki değişiklik önerisini kanunda öngörülen süre içinde kabul etmezse, işveren değişikliğin geçerli bir nedene dayandığını veya fesih için başka bir geçerli nedenin bulunduğunu yazılı olarak açıklamak ve bildirim süresine uymak suretiyle iş sözleşmesini feshedebilir.<br><br>4857 sayılı İş Kanunu'na göre, çalışma koşullarında esaslı değişiklik hakkında yukarıdakilerden hangileri doğrudur?",
+    "options": [
+      "A) I, II ve IV",
+      "B) I, III ve IV",
+      "C) I ve V",
+      "D) II, III ve V",
+      "E) III, IV ve V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre Sosyal Güvenlik Kurumunun geçici iş göremezlik ödeneği sağladığı sigorta kolları aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Yaşlılık sigortası, iş kazası ve meslek hastalığı sigortası, işsizlik sigortası",
+      "B) İş kazası ve meslek hastalığı sigortası, hastalık sigortası, analık sigortası",
+      "C) Analık sigortası, malüllük sigortası, yaşlılık sigortası",
+      "D) Malûllük sigortası, iş kazası ve meslek hastalığı sigortası, ölüm sigortası",
+      "E) İş kazası ve meslek hastalığı sigortası, işsizlik sigortası, analık sigortası"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ankara'da bir ilköğretim okulunda öğretmen olarak görev yapan Aslı, 18.01.2026 tarihli işlem ile İzmir iline öğretmen olarak tayin edilmiştir. Atama (tayin) işlemi 20.01.2026 tarihinde Aslı'ya tebliğ edilmiştir.<br><br>Buna göre 2577 sayılı İdari Yargılama Usulü Kanunu'na göre yetkili mahkeme ve dava açma süresi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) İzmir İdare Mahkemesi - 30 gün",
+      "B) Ankara İdare Mahkemesi - 30 gün",
+      "C) İzmir ya da Ankara İdare Mahkemesi - 60 gün",
+      "D) Ankara İdare Mahkemesi - 15 gün",
+      "E) Danıştay - 60 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "I. İstinaf<br>II. Temyiz<br>III. Kanun yararına bozma<br>IV. Yargılamanın yenilenmesi<br><br>Yukarıdakilerden hangileri İdari Yargılama Usulü Kanunu'na göre kararlara karşı başvuru yolları arasında yer alır?",
+    "options": [
+      "A) IV-V",
+      "B) I-II",
+      "C) II-III-IV",
+      "D) I-II-IV",
+      "E) I-II-III-IV"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre, Danıştay dava dairelerinin nihai kararları ile bölge idare mahkemelerinin kararları Danıştayda, kararın tebliğinden itibaren kaç gün içinde temyiz edilebilir?",
+    "options": [
+      "A) Üç gün",
+      "B) Yedi gün",
+      "C) On gün",
+      "D) Onbeş gün",
+      "E) Otuz gün"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Ayşe, Ankara'da doktor olarak görev yapmakta iken 18.12.2025 tarihinde tebliğ edilen Sağlık Bakanlığı işlemi ile Aydın'a nakledilerek göreve başlamıştır.<br><br>Buna göre Ayşe'nin bu işleme karşı açacağı davada yetkili mahkeme ve dava açma süresinin son günü aşağıdakiler den hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Ankara ya da Aydın İdare Mahkemesi - 16.02.2026",
+      "B) Ankara İdare Mahkemesi - 01.04.2026",
+      "C) Aydın İdare Mahkemesi - 31.03.2026",
+      "D) Aydın İdare Mahkemesi - 01.04.2026",
+      "E) Danıştay-01.04.2026"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre görevsizlik veya yetkisizlik sebebiyle dosyanın gönderildiği mahkeme kendisini görevsiz veya yetkisiz gördüğü takdirde, söz konusu mahkeme ile ilk görevsizlik veya yetkisizlik kararını veren mahkeme aynı bölge idare mahkemesinin yargı çevresinde ise uyuşmazlık aşağıdakilerden hangisi tarafından çözümlenir?",
+    "options": [
+      "A) Danıştay",
+      "B) Bölge İdare Mahkemesi",
+      "C) İdare Mahkemesi",
+      "D) Uyuşmazlık Mahkemesi",
+      "E) Adalet Bakanlığı"
+    ],
+    "answer": 1
+  }
+],
+  "Deneme Sınavı 03 (Genel Tarana)": [
+   
+  {
+    "q": "Ahmet, arabasını onun tahsisli park yerine park eden Mehmet'e sinirlenmiş ve bir gece Mehmet'in arabasının dört lastiğini birden çivileyerek patlatmıştır.<br><br>6098 sayılı Türk Borçlar Kanunu'na göre Mehmet zararını Ahmet'ten ne kadar süre içinde isteyebilir?",
+    "options": [
+      "A) Zararı ve zararı verenin Ahmet olduğunu öğrendiği andan itibaren 1 yıl ve her halükârda bu fiilin işlenmesinden itibaren 5 yıl içinde",
+      "B) Zararı ve zararı verenin Ahmet olduğunu öğrendiği andan itibaren 2 yıl ve her halükârda bu fiilin işlenmesinden itibaren 20 yıl içinde",
+      "C) Zararı ve zararı verenin Ahmet olduğunu öğrendiği andan itibaren 1 yıl ve her halükârda bu fiilin işlenmesinden itibaren 10 yıl içinde",
+      "D) Zararı ve zararı verenin Ahmet olduğunu öğrendiği andan itibaren 2 yıl ve her halükârda bu fiilin işlenmesinden itibaren 10 yıl içinde",
+      "E) Zararı ve zararı verenin Ahmet olduğunu öğrendiği andan itibaren 2 yıl ve her halükârda bu fiilin işlenmesinden itibaren 5 yıl içinde"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'nun sebepsiz zenginleşme ile ilgili genel hükümlerine göre, bir şeyin hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilmesi durumunda doğabilecek hukuki sonuç aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      "A) Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey 6098 sayılı Türk Borçlar Kanunu'nun sebepsiz zenginleşmeye ilişkin hükümleri çerçevesinde her zaman geri istenebilir.",
+      "B) Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey 6098 sayılı Türk Borçlar Kanunu'nun haksız fiile ilişkin hükümleri çerçevesinde geri istenebilir.",
+      "C) Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey geri istenemez; ancak, açılan davada hâkim, bu şeyin Devlete mal edilmesine karar verebilir.",
+      "D) Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey yalnızca zenginleşenin tacir olduğu durumlarda geri istenebilir.",
+      "E) Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şeyin ekonomik değerinin yalnızca yarısı geri istenebilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'nun haksız fiiller ile ilgili genel hükümlerine göre, zarar verenin davranışının haklı savunma niteliği taşıması durumunda doğacak hukuki sonuç aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Haklı savunmada bulunan kişi, kendisine saldıranın şahsına verdiği zarardan sorumludur; ancak saldıranın mallarına verdiği zarardan sorumlu tutulamaz.",
+      "B) Haklı savunmada bulunan kişi, kendisine saldıranın şahsına veya mallarına verdiği zarardan sorumlu tutulamaz.",
+      "C) Haklı savunmada bulunan kişi, kendisine saldıranın mallarına verdiği zarardan sorumludur; ancak saldıranın şahsına verdiği zarardan sorumlu tutulamaz.",
+      "D) Haklı savunmada bulunan kişi, kendisine saldıranın şahsına veya mallarına verdiği zararın en fazla yarısından sorumlu tutulabilir.",
+      "E) Haklı savunmada bulunan kişi, kendisine saldıranın şahsına veya mallarına verdiği zararın en fazla dörtte birinden sorumlu tutulabilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, hukuka aykırılığı kaldıran håller ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kişinin haksız tahrik altında bulunduğu hållerde gerçekleştireceği fiil, hukuka aykırı sayılmaz.",
+      "B) Kanunun verdiği yetkiye dayanan ve bu yetkinin sınırları içinde kalan bir fiil, zarara yol açsa bile, hukuka aykırı sayılmaz.",
+      "C) Daha üstün nitelikte özel veya kamusal yararın söz konusu olduğu durumlarda fiil, hukuka aykırı sayılmaz.",
+      "D) Haklı savunmada bulunan, saldıranın şahsına veya mallarına verdiği zarardan sorumlu tutulamaz.",
+      "E) Kendisini veya başkasını açık ya da yakın bir zarar tehlikesinden korumak için diğer bir kişinin mallarına zarar verenin, bu zararı giderim yükümlülüğünü hâkim hakkaniyete göre belirler."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre temsile ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Temsilci, yetkisinin sona ermiş olduğunu bilmediği sürece, temsil olunan veya halefleri, temsilcinin yapmış olduğu hukuki işlemlerin sonuçlarıyla bağlıdırlar. Bu kural, üçüncü kişilerin yetkinin sona ermiş olduğunu bildikleri durumlarda uygulanmaz.",
+      "B) Temsil olunan verdiği yetkiyi üçüncü kişilere açıkça veya dolaylı biçimde bildirmişse, bu yetkiyi tamamen veya kısmen geri aldığını onlara bildirmediği takdirde, yetkinin geri alındığını iyiniyetli üçüncü kişilere karşı ileri süremez.",
+      "C) Temsil yetkisi üçüncü kişilere bildirilmişse temsil yetkisinin içeriği ve derecesi, bu bildirime göre belirlenir.",
+      "D) Temsilci, hukuki işlemi yaparken bu sıfatını bildirmezse, hukuki işlemin sonuçları kural olarak kendisine ait olur.",
+      "E) Bir kimse yetkisi olmadığı hâlde temsilci olarak bir hukuki işlem yaparsa, bu işlem temsil olunan tarafından onanmadığı takdirde yalnızca işlemi yapan temsilciyi bağlar."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, ticari yargıya ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Her iki tarafın da ayrı ayrı ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ticari dava niteliğindedir.",
+      "B) Ticari nitelikte çekişmesiz yargı işlerinde asliye ticaret mahkemesi görevlidir.",
+      "C) Cari hesap sözleşmelerinden doğan uyuşmazlıklar mutlak ticari dava niteliğindedir.",
+      "D) Asliye ticaret mahkemesi ile asliye hukuk mahkemesi ve diğer hukuk mahkemeleri arasındaki ilişki iş bölümü ilişkisidir.",
+      "E) 6098 sayılı Türk Borçlar Kanunu'nun işletmenin devralınması hakkındaki 202. ve 203. maddelerinden doğan hukuk davaları mutlak ticari dava niteliğindedir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi bir ticari iş değildir?",
+    "options": [
+      "A) Tuhafiye işleten bir esnafın lokanta işleten bir esnaftan yemek satın alması",
+      "B) Bir anonim şirketin kırtasiyeden ticari defter satın alması",
+      "C) Bir limited şirketin banka ile sözleşme yaparak bankadan ticari kredi alması",
+      "D) Bir memurun banka ile sözleşme yaparak bankadan konut kredisi alması",
+      "E) Gerçek kişi tacirin ticari işletmesinde kullanmak üzere bir esnaftan sandalye satın alması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, tacir olmaya bağlanan hüküm ve sonuçlar hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Tacir, ticaretine ait bütün faaliyetlerinde basiretli bir iş adamı gibi hareket etmek zorundadır.",
+      "B) Bir faturayı alan tacir, sekiz gün içinde faturanın içeriğine itiraz etmezse, bu içeriği kabul etmiş sayılır.",
+      "C) Tacir, ticari örf ve âdet kurallarını bilmese dahi, bu kurallar kendisi hakkında uygulanabilir.",
+      "D) Tacir, her türlü borcu için iflasa tabidir.",
+      "E) Tacir, sözleşmede kararlaştırılan fahiş cezaî şartın indirilmesini her durumda mahkemeden talep edebilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi iflasa tabi değildir?",
+    "options": [
+      "A) (X) Anonim Şirketi",
+      "B) (X) Kollektif Şirketi'nin ortağı gerçek kişi (Y)",
+      "C) (X) Kollektif Şirketi",
+      "D) (X) Anonim Şirketi'nin gerçek kişi pay sahibi (Y)",
+      "E) Ticarî işletme işleten bir adi şirketin ortağı gerçek kişi (Y)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, çeklere ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Hamiline yazılı bir çek cirolanırsa, emre yazılı çek haline dönüşür.",
+      "B) Çekin geçerli olarak devredilebilmesi için emre, nama veya hamiline yazılı olmasına bakılmaksızın her durumda ciro yapılması zorunludur.",
+      "C) Muhatap banka dışındaki bankalar çeki cirolarsa, ciro batıl olmaz.",
+      "D) Çek, beyaz ciro ile cirolanamaz.",
+      "E) Çekte yazılı bedelin kısmi olarak cirolanması işlemi geçerlidir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, alt işverenlik ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Daha önce o işyerinde çalıştırılan kimse ile alt işveren ilişkisi kurulamaz.",
+      "B) Asıl işveren, alt işverenin işçilerine karşı o işyeri ile ilgili olarak 4857 sayılı İş Kanunu'ndan, iş sözleşmesinden veya alt işverenin taraf olduğu toplu iş sözleşmesinden doğan yükümlülüklerinden alt işveren ile birlikte sorumludur.",
+      "C) Alt işveren asıl işverenden aldığı iş için görevlendirdiği işçilerini sadece bu işyerinde aldığı işte çalıştırmalıdır.",
+      "D) İşletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işler dışında asıl iş bölünerek alt işverenlere verilemez.",
+      "E) Asıl işverenin işçilerinin alt işveren tarafından işe alınarak çalıştırılmaya devam ettirilmesi suretiyle hakları kısıtlanabilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, belirli ve belirsiz süreli iş sözleşmeleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Belirli süreli iş sözleşmesi ile çalıştırılan işçi, ayrımı haklı kılan bir neden olmadıkça, salt iş sözleşmesinin süreli olmasından dolayı belirsiz süreli iş sözleşmesiyle çalıştırılan emsal işçiye göre farklı işleme tabi tutulamaz.",
+      "B) İş güvencesi hükümlerinden yararlanma konusunda belirli ve belirsiz süreli iş sözleşmesiyle çalışan işçiler arasında fark yoktur.",
+      "C) Belirli süreli işlerde veya belli bir işin tamamlanması veya belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak işveren ile işçi arasında yazılı şekilde yapılan iş sözleşmesi belirli süreli iş sözleşmesidir.",
+      "D) Belirli süreli iş sözleşmesi, esaslı bir neden olmadıkça, birden fazla üst üste (zincirleme) yapılamaz. Aksi hâlde iş sözleşmesi başlangıçtan itibaren belirsiz süreli kabul edilir.",
+      "E) İş ilişkisinin bir süreye bağlı olarak yapılmadığı hâlde sözleşme belirsiz süreli sayılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, çalışma ve dinlenme sürelerine ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İşveren tarafından yıl içinde verilmiş bulunan diğer ücretli ve ücretsiz izinler veya dinlenme ve hastalık izinleri yıllık ücretli izin sürelerinden düşülebilir.",
+      "B) Zorunlu ve olağanüstü nedenlerle fazla çalışma yapan işçiye fazla çalışma ücreti değil normal saatlik ücretleri ödenir.",
+      "C) Ara dinlenmesinde geçen süreler çalışma süresinden sayılır.",
+      "D) İşin niteliğinden doğmayıp işveren tarafından sırf sosyal yardım amacıyla işyerine götürülüp getirilme esnasında araçlarda geçen süre çalışma süresinden sayılır.",
+      "E) Ulusal bayram ve genel tatil günlerinde işyerlerinde çalışılıp çalışılmayacağı toplu iş sözleşmesi veya iş sözleşmeleri ile kararlaştırılır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu yürürlüğe girdikten sonra ilk kez 4/1-c maddesine tabi olarak işe giren bir devlet memurunun, olağan şartlarda yaşlılık aylığına hak kazanması için adına kaç gün uzun vadeli sigorta primi bildirilmiş olması gerekir?",
+    "options": [
+      "A) 3600",
+      "B) 4500",
+      "C) 6120",
+      "D) 7200",
+      "E) 9000"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, iş kazası ve meslek hastalığı sigortası ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Aday çırak, çırak ve işletmelerde mesleki eğitim gören öğrenciler iş kazası ve meslek hastalığı sigortasından yararlanamaz.",
+      "B) Emziren kadın işçinin süt izni esnasında kaza geçirmesi iş kazası sayılır.",
+      "C) Kamu görevlileri iş kazası ve meslek hastalığı sigortasından yararlanır.",
+      "D) İş kazası veya meslek hastalığı sonucunda sigortalıya sürekli iş göremezlik geliri bağlanabilmesi için meslekte kazanma gücünün en az %20 azalmış olduğunun Kurum Sağlık Kurulu tarafından tespit edilmesi gerekir.",
+      "E) Bağımsız çalışan sigortalılar, geçici iş göremezlik ödeneğinden hiçbir şekilde yararlanamaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aracı Ankara'da trafiğe kayıtlı olan ve Ankara'da ikamet eden A, Sivas'ta seyir hâlindeyken trafik işaretinin bulunmaması nedeniyle hızlı girdiği virajı alamayarak aracın devrilmesine neden olmuş ve zarara uğramıştır.<br><br>2577 sayılı İdari Yargılama Usulü Kanunu'na göre A'nın açacağı dava türü ve yetkili mahkeme aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) İptal davası - Ankara İdare Mahkemesi",
+      "B) İptal davası - Sivas İdare Mahkemesi",
+      "C) Tam yargı davası - Ankara İdare Mahkemesi",
+      "D) Tam yargı davası - Sivas İdare Mahkemesi",
+      "E) Adli yargıda tazminat davası - Sivas Asliye Hukuk Mahkemesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi İdari Yargılama Usulü Kanunu'na göre yargılamanın yenilenmesi nedenleri arasında yer almaz?",
+    "options": [
+      "A) Karara esas olarak alınan bir ilam hükmünün, kesinleşen bir mahkeme kararıyla bozularak ortadan kalkması",
+      "B) Tanıkların kasıtla gerçeğe aykırı beyanda bulunduğunun mahkeme kararıyla belirlenmesi",
+      "C) Vekil veya kanuni temsilci olmayan kimseler ile davanın görülüp karara bağlanmış bulunması",
+      "D) Çekinmeye mecbur olan başkan, üye veya hakimin katılmasıyla karar verilmiş olması,",
+      "E) Hükmün, İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin veya eki protokollerin ihlali suretiyle verildiğinin,"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre bağlantı iddiaları mahkemelerce kabul edilmediği takdirde taraflar, tebliğ tarihini izleyen kaç gün içerisinde, aynı yargı çevresindeki mahkemeler için o yer bölge idare mahkemesine veya ilgili davalar için Danıştaya başvuruda bulunabilirler?",
+    "options": [
+      "A) Üç gün",
+      "B) Yedi gün",
+      "C) On gün",
+      "D) Onbeş gün",
+      "E) Otuz gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre idari yargı yerlerince verilen bir hükmün, İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşme'nin ve eki protokollerin ihlali suretiyle verildiğinin, Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmiş olması, kanun yollarından hangisine başvurmayı sağlayan bir neden olarak öngörülmüştür?",
+    "options": [
+      "A) İtiraz",
+      "B) Temyiz",
+      "C) Karar düzeltme",
+      "D) Yargılamanın yenilenmesi",
+      "E) Kanun yararına bozma"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 2577 sayılı İdari Yargılama Usulü Kanunu'na göre temyize konu olan kararlar arasında yer almaz?",
+    "options": [
+      "A) Konusu ellibin Türk lirasını aşan vergi davaları, tam yargı davaları ve idari işlemler hakkında açılan davalar",
+      "B) Belli bir meslekten, kamu görevinden veya öğrencilik statüsünden çıkarılma sonucunu doğuran işlemlere karşı açılan iptal davaları",
+      "C) Belli bir ticari faaliyetin icrasını süresiz veya otuz gün yahut daha uzun süreyle engelleyen işlemlere karşı açılan iptal davaları",
+      "D) Müşterek kararnameyle yapılan atama, naklen atama ve görevden alma işlemleri ile daire başkanı ve daha üst düzey kamu görevlilerinin atama, naklen atama ve görevden alma işlemleri hakkında açılan iptal davaları",
+      "E) Ülke çapında uygulanan öğrenim ya da bir meslek veya sanatın icrası veyahut kamu hizmetine giriş amacıyla yapılan sınavlar hakkında açılan davalar"
+    ],
+    "answer": 0
+  }
+],
   "Hukuk Karma Denemesi (Çıkmış Sorular Klasik)": [
   {
     "q": "6098 sayılı Türk Borçlar Kanunu'na göre aşağıdakilerden hangisi \"sebepsiz zenginleşmenin\" unsurlarından biri değildir?",
