@@ -1922,7 +1922,1932 @@
       ],
       "answer": 2
     }
-  ]
+  ],
+  "Deneme Sınavı-2 (1. Oturum)": [
+  
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "1. İşletmelerin gelirlerini kesinleşmeden kaydetmemelerine karşın ortaya çıkan giderlerine tedbir almaları aşağıdaki muhasebe kavramlarından hangisinin gereğidir?",
+    "options": [
+      "A) İhtiyatlılık",
+      "B) Tam Açıklama",
+      "C) Sosyal Sorumluluk",
+      "D) Tutarlılık",
+      "E) Özün Önceliği"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "I. Artışlar ilgili hesabın alacak tarafına kaydedilir.<br>II. Alacak kalanı veren hesaplardır.<br>III. Hesabın kalanı bilançonun pasifinde yer alır.<br>IV. Kesin mizanda kalan vermezler.<br>V. Azalışlar hesabın borç tarafına kaydedilir.<br><br>Kaynak hesapları için yukarıdaki ifadelerden hangileri doğrudur?",
+    "options": [
+      "A) I, III, IV",
+      "B) III, IV, V",
+      "C) I, II, III, V",
+      "D) II, III, IV, V",
+      "E) I, II, III, IV, V"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "Dönem sonunda yapılan incelemede, işletmenin dönem içinde tahsil ettiği ve gelir hesabına kaydettiği 10.000 TL kira gelirinin izleyen yıla ait olduğu belirlenmiştir.<br><br>Bu işleme ilişkin yapılacak muhasebe kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>649 DİĞER OLAĞAN GELİR VE KARLAR<br><span style='margin-left: 15px;'>480 GELECEK YILLARA AİT GELİRLER</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>649 DİĞER OLAĞAN GELİR VE KARLAR<br><span style='margin-left: 15px;'>380 GELECEK AYLARA AİT GELİRLER</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>480 GELECEK YILLARA AİT GELİRLER<br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KARLAR</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>380 GELECEK AYLARA AİT GELİRLER<br><span style='margin-left: 15px;'>480 GELECEK YILLARA AİT GELİRLER</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA<br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KARLAR</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "Stok hareketlerini aralıklı envanter yöntemine göre izleyen bir işletmenin mal hareketlerine ilişkin bilgiler aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem başı mal stokları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>250.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem sonu mal stokları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>320.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem içi mal alışları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>830.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönem içi mal satışları</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>800.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Satış giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>80.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Alış giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>40.000</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Alış iadeleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>180.000</td></tr></table><br>Yukarıdaki bilgilere göre “Satılan Ticari Mallar Maliyeti” tutarı kaç TL’dir?",
+    "options": [
+      "A) 540.000",
+      "B) 620.000",
+      "C) 840.000",
+      "D) 980.000",
+      "E) 1.260.000"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletme, sattığı ticari mallarla birlikte verdiği taşıma kapları için müşteriden 30.000 TL depozito almıştır. Müşteri belli bir süre sonra kaplardan 10 adedinin kırıldığını bildirmiş, kalan kapları ise teslim etmiştir. Kırılan kaplar için müşteriden 10.000 TL kesilmiş olup kalan bedel ödenmiştir. Kırılan kapların kayıtlı değeri 12.000 TL, birikmiş amortismanı ise 3.000 TL’dir.<br><br>Bu bilgilere göre yapılacak muhasebe kaydında aşağıdaki hesaplardan hangisinin kullanılması yanlıştır?",
+    "options": [
+      "A) Alınan Depozito ve Teminatlar hesabı 30.000 TL borçlu",
+      "B) Diğer Maddi Duran Varlıklar hesabı 12.000 TL alacaklı",
+      "C) Diğer Olağandışı Gelir ve Kârlar hesabı 2.000 TL alacaklı",
+      "D) Kasa hesabı 20.000 TL alacaklı",
+      "E) Birikmiş Amortismanlar hesabı 3.000 TL borçlu"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "31 Aralık 2025 tarihinde yapılan incelemede Gelecek Yıllara Ait Giderler hesabında kayıtlı olan 10.000 TL tutarın 2025 yılına, 30.000 TL tutarın ise 2026 yılına ait olduğu belirlenmiştir.<br><br>Bu işleme ilişkin yapılacak kayıt aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ<br>180 GELECEK AYLARA AİT GİDERLER<br><span style='margin-left: 15px;'>280 GELECEK YILLARA AİT GİDERLER</span></td><td style='text-align: right; width: 70px;'>10.000<br>30.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ<br>280 GELECEK AİT YILLARA GİDERLER<br><span style='margin-left: 15px;'>180 GELECEK AYLARA AİT GİDERLER</span></td><td style='text-align: right; width: 70px;'>10.000<br>30.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ<br><span style='margin-left: 15px;'>180 GELECEK AYLARA AİT GİDERLER</span><br><span style='margin-left: 15px;'>280 GELECEK YILLARA AİT GİDERLER</span></td><td style='text-align: right; width: 70px;'>40.000<br><br><br></td><td style='text-align: right; width: 70px;'><br>10.000<br>30.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ<br><span style='margin-left: 15px;'>180 GELECEK AYLARA AİT GİDERLER</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>180 GELECEK AYLARA AİT GİDERLER<br><span style='margin-left: 15px;'>480 GELECEK YILLARA AİT GİDERLER</span></td><td style='text-align: right; width: 70px;'>30.000<br><br></td><td style='text-align: right; width: 70px;'><br>30.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletme, SD A.Ş.’nin nominal değeri 3 TL/adet olan hisse senetlerinden 12.000 adedini geçici yatırım amacıyla 48.000 TL’ye satın almış olup, aracılık bedeli olan 1.000 TL ile birlikte toplam bedeli banka aracılığıyla ödemiştir. Bu bilgilere göre işletmenin hisse senedi alışıyla ilgili yapacağı kayıtta aşağıdaki hesapların hangisinin kullanımı doğrudur?",
+    "options": [
+      "A) Hisse Senetleri Hesabı 36.000 TL borçlandırılır.",
+      "B) Hisse Senetleri Hesabı 48.000 TL borçlandırılır.",
+      "C) Bağlı Menkul Kıymetler Hesabı 36.000 TL borçlandırılır.",
+      "D) Hisse Senetleri Hesabı 37.000 TL borçlandırılır.",
+      "E) İştirakler Hesabı 48.000 TL borçlandırılır."
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "8. (A, B ve C) Kollektif Şirketi'nin ortakları için kâr payları hesaplanmış ve tahakkuk kaydı yapılmıştır.<br><br>Buna ilişkin şirket tarafından yapılacak tahakkuk kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>570 GEÇMİŞ YILLAR KARLARI<br><span style='margin-left: 15px;'>331 ORTAKLARA BORÇLAR</span><br><span style='margin-left: 15px;'>193 PEŞİN ÖDENEN VERGİ VE FONLAR</span></td><td style='text-align: right; width: 70px;'>XXX<br><br><br></td><td style='text-align: right; width: 70px;'><br>XXX<br>XXX</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>590 DÖNEM NET KARI<br><span style='margin-left: 15px;'>331 ORTAKLARA BORÇLAR</span></td><td style='text-align: right; width: 70px;'>XXX<br><br></td><td style='text-align: right; width: 70px;'><br>XXX</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>331 ORTAKLARA BORÇLAR<br><span style='margin-left: 15px;'>590 DÖNEM NET KARI</span></td><td style='text-align: right; width: 70px;'>XXX<br><br></td><td style='text-align: right; width: 70px;'><br>XXX</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>570 GEÇMİŞ YILLAR KARLARI<br><span style='margin-left: 15px;'>331 ORTAKLARA BORÇLAR</span><br><span style='margin-left: 15px;'>360 ÖDENECEK VERGİ VE FONLAR</span></td><td style='text-align: right; width: 70px;'>XXX<br><br><br></td><td style='text-align: right; width: 70px;'><br>XXX<br>XXX</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>331 ORTAKLARA BORÇLAR<br><span style='margin-left: 15px;'>570 GEÇMİŞ YILLAR KARLARI</span></td><td style='text-align: right; width: 70px;'>XXX<br><br></td><td style='text-align: right; width: 70px;'><br>XXX</td></tr></table>"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletme, dönem net karının bir kısmını kâr yedeği olarak ayırdıktan sonra kalan tutarın ortaklara dağıtılmasına karar vermiştir.<br><br>Bu işleme ilişkin yapılacak kayıt için aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yasal Yedekler hesabının alacak tarafına kayıt yapılır.",
+      "B) Dönem Net Kârı hesabının borç tarafına kayıt yapılır.",
+      "C) Geçmiş Yıllar Kârları hesabının borç tarafına kayıt yapılır.",
+      "D) Ortaklara Borçlar hesabının alacak tarafına kayıt yapılır.",
+      "E) Statü Yedekleri hesabının alacak tarafına kayıt yapılır."
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletme, 2024 yılı başında KDV hariç 100.000 TL’ye satın alıp, 20.000 TL kurulum masrafı yaptıktan sonra kullanılmaya başladığı makinesine azalan bakiyeler yöntemine göre amortisman ayırmış olup 2026 yılından itibaren normal amortisman yöntemine geçilmesine karar vermiştir. Fotokopi makinesinin ekonomik ömrü 5 yıldır.<br><br>Bu bilgilere göre 31.12.2026 tarihinde kaydedilecek olan amortisman gideri kaç TL’dir?",
+    "options": [
+      "A) 8.640",
+      "B) 10.800",
+      "C) 14.400",
+      "D) 18.000",
+      "E) 20.000"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletme, daha önce alım - satım amaçlı olarak her biri 30 TL’den satın aldığı hisse senetlerinin 1.000 adedini banka aracılığı ile her biri 42 TL’den satmış ve banka tarafından 500 TL işlem gideri kesilmiştir.<br><br>Bu satış işleminin muhasebe kaydı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Komisyon Giderleri hesabının alacak tarafına 500 TL kaydedilir.",
+      "B) Bankalar hesabının borç tarafına 42.000 TL kaydedilir.",
+      "C) Menkul Kıymet Satış Kârları hesabının borç tarafına 11.500 TL kaydedilir.",
+      "D) Hisse Senetleri hesabının alacak tarafına 30.000 TL kaydedilir.",
+      "E) Menkul Kıymet Satış Kârları hesabının alacak tarafına 11.500 TL kaydedilir."
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>153 TİCARİ MALLAR<br>191 İNDİRİLECEK KDV<br>159 VERİLEN SİPARİŞ AVANSLARI<br><span style='margin-left: 15px;'>321 BORÇ SENETLERİ</span><br><span style='margin-left: 15px;'>101 ALINAN ÇEKLER</span></td><td style='text-align: right; width: 70px;'>XXX<br>XXX<br>XXX<br><br><br></td><td style='text-align: right; width: 70px;'><br><br><br>XXX<br>XXX</td></tr></table><br>Avans mahsubu da yapılarak ticari mal satın alınmasına ilişkin yukarıdaki kayıtta aşağıdaki hangi hesap yanlış kullanılmıştır?",
+    "options": [
+      "A) Ticari Mallar hesabı",
+      "B) İndirilecek KDV hesabı",
+      "C) Verilen Sipariş Avansları hesabı",
+      "D) Borç Senetleri hesabı",
+      "E) Alınan Çekler hesabı"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "Ay sonunda İşletmenin “391 Hesaplanan KDV” hesabının alacak kalanı 83.000 TL ve “191 İndirilecek KDV” hesabının borç kalanı ise 78.000 TL olarak gerçekleşmiştir.<br><br>İşletme KDV ile ilgili olarak ay sonunda aşağıdaki muhasebe kayıtlarından hangisini yapmalıdır?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>391 HESAPLANAN KDV<br><span style='margin-left: 15px;'>191 İNDİRİLECEK KDV</span></td><td style='text-align: right; width: 70px;'>78.000<br><br></td><td style='text-align: right; width: 70px;'><br>78.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>391 HESAPLANAN KDV<br>190 DEVREDEN KDV<br><span style='margin-left: 15px;'>191 İNDİRİLECEK KDV</span></td><td style='text-align: right; width: 70px;'>78.000<br>5.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>83.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>391 HESAPLANAN KDV<br>360 ÖDENECEK VERGİ VE FONLAR<br><span style='margin-left: 15px;'>191 İNDİRİLECEK KDV</span></td><td style='text-align: right; width: 70px;'>78.000<br>5.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>83.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>391 HESAPLANAN KDV<br><span style='margin-left: 15px;'>191 İNDİRİLECEK KDV</span><br><span style='margin-left: 15px;'>190 DEVREDEN KDV</span></td><td style='text-align: right; width: 70px;'>83.000<br><br><br></td><td style='text-align: right; width: 70px;'><br>78.000<br>5.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>391 HESAPLANAN KDV<br><span style='margin-left: 15px;'>191 İNDİRİLECEK KDV</span><br><span style='margin-left: 15px;'>360 ÖDENECEK VERGİ VE FONLAR</span></td><td style='text-align: right; width: 70px;'>83.000<br><br><br></td><td style='text-align: right; width: 70px;'><br>78.000<br>5.000</td></tr></table>"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletmenin deposunda bulunan ve değeri 200.000 TL olan ticari malların 50.000 TL’lik kısmının %70 oranında değer düşüklüğüne uğradığı tespit edilmiş ve aynı oranda karşılık ayrılmıştır.<br><br>Bu işleme ait günlük defter kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>654 KARŞILIK GİDERLERİ<br><span style='margin-left: 15px;'>157 DİĞER STOKLAR</span></td><td style='text-align: right; width: 70px;'>35.000<br><br></td><td style='text-align: right; width: 70px;'><br>35.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>157 DİĞER STOKLAR<br>654 KARŞILIK GİDERLERİ<br><span style='margin-left: 15px;'>153 TİCARİ MALLAR</span></td><td style='text-align: right; width: 70px;'>15.000<br>35.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>157 DİĞER STOKLAR<br>654 KARŞILIK GİDERLERİ<br><span style='margin-left: 15px;'>153 TİCARİ MALLAR</span><br><span style='margin-left: 15px;'>158 STOK DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI</span></td><td style='text-align: right; width: 70px;'>200.000<br>140.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>200.000<br>140.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>157 DİĞER STOKLAR<br>654 KARŞILIK GİDERLERİ<br><span style='margin-left: 15px;'>153 TİCARİ MALLAR</span><br><span style='margin-left: 15px;'>158 STOK DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI</span></td><td style='text-align: right; width: 70px;'>50.000<br>35.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>50.000<br>35.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>157 DİĞER STOKLAR<br>654 KARŞILIK GİDERLERİ<br><span style='margin-left: 15px;'>153 TİCARİ MALLAR</span><br><span style='margin-left: 15px;'>644 KONUSU KALMAYAN KARŞILIKLAR</span></td><td style='text-align: right; width: 70px;'>50.000<br>35.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>50.000<br>35.000</td></tr></table>"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletme tarafından ihraç edilmiş olan 3 yıl vadeli bir tahvilin vade sonu ödenmesi kaydında aşağıdaki hesaplardan hangisi kesinlikle kullanılmaz?",
+    "options": [
+      "A) Gider Tahakkukları",
+      "B) Finansman Giderleri",
+      "C) Tahvil Anapara Borç Taksit ve Faizleri",
+      "D) Çıkarılmış Tahviller",
+      "E) Bankalar"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "Aşağıdakilerden hangisi “Özel Tükenmeye Tabi Varlıklar” arasında yer alır?",
+    "options": [
+      "A) Arama Giderleri",
+      "B) Haklar",
+      "C) Kuruluş ve Örgütlenme Giderleri",
+      "D) Araştırma ve Geliştirme Giderleri",
+      "E) Şerefiye"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "Stok hareketlerini sürekli envanter yöntemine göre izleyen bir işletme, ön ödeme aldığı ticari malların satışını gerçekleştirmiş ve satışın KDV’si ile kalan tutar için çek alarak ticari malı alıcı işletmeye teslim etmiştir.<br><br>Bu işlemde yapılacak muhasebe kaydı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yurtiçi Satışlar hesabı alacaklandırılır.",
+      "B) Alınan Sipariş Avansları hesabı borçlandırılır",
+      "C) Alınan Çekler hesabı borçlandırılır.",
+      "D) Hesaplanan KDV hesabı alacaklandırılır.",
+      "E) Satılan Ticari Mallar Maliyeti hesabı alacaklandırılır."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletme, daha önce 25.000 TL karşılık ayırdığı 40.000 TL’lik şüpheli ticari alacağını banka aracılığı ile 10.000 TL olarak tahsil etmiştir.<br><br>Bu işleme ilişkin yapılacak muhasebe kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR<br>689 DİĞER OLAĞANDIŞI GİDER VE ZARARLAR<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR</span></td><td style='text-align: right; width: 70px;'>10.000<br>30.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR<br>129 ŞÜPHELİ TİCARİ ALACAKLAR KARŞILIĞI<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR</span></td><td style='text-align: right; width: 70px;'>10.000<br>25.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>35.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR<br>129 ŞÜPHELİ TİCARİ ALACAKLAR KARŞILIĞI<br>689 DİĞER OLAĞANDIŞI GİDER VE ZARARLAR<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR</span></td><td style='text-align: right; width: 70px;'>10.000<br>25.000<br>5.000<br><br></td><td style='text-align: right; width: 70px;'><br><br><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR<br>128 ŞÜPHELİ TİCARİ ALACAKLAR<br><span style='margin-left: 15px;'>129 ŞÜPHELİ TİCARİ ALACAKLAR KARŞILIĞI</span><br><span style='margin-left: 15px;'>644 KONUSU KALMAYAN KARŞILIKLAR</span></td><td style='text-align: right; width: 70px;'>10.000<br>40.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>25.000<br>25.000</td></tr></table>"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "Aşağıdakilerden hangisi Türkiye Muhasebe Standartları’na göre raporlama yapan bir şirketin finansal tablolarında ayrı bir kalem olarak yer almaz?",
+    "options": [
+      "A) Olağandışı gider ve zararlar",
+      "B) Faaliyet Giderleri",
+      "C) Maddi duran varlıklar",
+      "D) Stoklar",
+      "E) Satışların maliyeti"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Finansal Muhasebe",
+    "q": "İşletme 70.000 TL’ye bir torna makinesi satın almıştır. Makinenin montajı için 5.000 TL ödemiştir. Makineyi test etmek için üretim öncesinde makine çalıştırılmış ve 1.000 TL’lik test maliyetine katlanılmıştır. Test sonrasında üretilen numune civatalar 500 TL’ye satılmıştır.<br><br>TMS 16 Maddi Duran Varlıklar standardına göre, makinenin maliyet bedeli aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 70.500 TL",
+      "B) 71.500 TL",
+      "C) 74.500 TL",
+      "D) 75.500 TL",
+      "E) 76.000 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Sipariş maliyet sistemini kullanan bir işletmede ilgili üretim döneminde Sipariş 1 ve Sipariş 2 olmak üzere iki sipariş alınmıştır. Söz konusu siparişlere ilişkin katlanılan toplam direkt maliyet unsurları şu şekildedir:<br><br>Direkt İlk Madde ve Malzeme Giderleri: 10.000 ₺<br>Direkt İşçilik Giderleri: 20.000 ₺<br><br>Direkt ilk madde ve malzeme giderinin %60'ı Sipariş 1 için, direkt işçilik giderinin %40'ı Sipariş 2 için gerçekleşmiştir. Genel üretim giderlerinin siparişlere yüklenmesinde direkt ilk madde ve malzeme giderleri esas alınmaktadır. İlgili dönemde ortaya çıkan genel üretim giderleri toplamı 6.000 ₺ ise tamamlanan Sipariş 2'nin toplam maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 16.400 ₺",
+      "B) 14.400 ₺",
+      "C) 15.600 ₺",
+      "D) 18.000 ₺",
+      "E) 17.400 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Kapasite kullanım oranı %50 olan üretim işletmesinde, direkt maliyetler toplamı 200.000 ₺, birim başına direkt maliyet 200 ₺'dir. Tam maliyete göre hesaplama yapıldığında birim başına tam maliyet 250 ₺ olmaktadır.<br><br>Değişken genel üretim giderinin bulunmadığı işletmede, kapasite kullanım oranı %70'e çıkarıldığında normal maliyet yöntemine göre hesaplama yapılırsa birim üretim maliyeti kaç ₺ olur?",
+    "options": [
+      "A) 210 ₺",
+      "B) 215 ₺",
+      "C) 220 ₺",
+      "D) 225 ₺",
+      "E) 235 ₺"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Safha maliyet sistemini kullanan işletmede hesaplamalar İlk Giren İlk Çıkar yöntemine göre yapılmaktadır. Dönem başı yarı mamul miktarı 5.000 birim, dönemde üretime alınanlar 15.000 birim, tamamlanan miktar 12.000 birimdir.<br><br>Dönem sonu yarı mamullerin genel üretim gideri açısından tamamlanma derecesi %50, dönemin genel üretim gideri 500.000 TL ve dönemde eşdeğer birim başına genel üretim gideri ise 40 TL'dir.<br><br>Bu bilgilere göre dönem başı yarı mamullerin genel üretim gideri açısından tamamlanma derecesi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) %30",
+      "B) %40",
+      "C) %50",
+      "D) %60",
+      "E) %70"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Eylül ayı bordrosunda alınan bilgilere göre montaj esas üretim gider yerinde üretim yapan işçiler için 20.000 TL fazla çalışma ücreti ve fazla çalışma zammı hesaplandığı görülmüştür.<br><br>Yapılan incelemede fazla çalışmanın bir müşterinin verdiği özel sipariş için yapıldığı ve fazla çalışma ücreti zammının 7.000 TL olduğu anlaşılmıştır.<br><br>Fazla çalışma ücreti ve fazla çalışma ücreti zammının muhasebeleştirilmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) 20.000 TL hem gider yeri hem de mamuller açısından endirekt bir giderdir.",
+      "B) 13.000 TL gider yeri açısından endirekt, 7.000 TL mamul için direkt bir giderdir.",
+      "C) 20.000 TL mamul için direkt, ilgili gider yeri için endirekt bir giderdir.",
+      "D) 20.000 TL ilgili gider yeri açısından direkt, 13.000 TL mamul açısından direkt, 7.000 TL mamul açısından endirekt bir giderdir.",
+      "E) 20.000 TL hem gider yeri hem de mamuller açısından direkt bir giderdir."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "60.000 TL ortak maliyete katlanarak 2.000 birim mamul üretilen işletmede fiziksel ölçülere göre dağıtım yapıldığında ortak maliyetin %60'ı A mamullerine, %30'u B mamulüne aittir.<br><br>A ürünün birim satış fiyatı 10 TL, B ürünün satış fiyatı 20 TL, C ürünün satış fiyatı ise 30 TL'dir. İşletmede satış değeri yöntemine göre ortak maliyetin dağıtımına karar alınırsa C ürünün birim başına ortak maliyetten alacağı pay ne kadar olur?",
+    "options": [
+      "A) 40 ₺",
+      "B) 60 ₺",
+      "C) 80 ₺",
+      "D) 50 ₺",
+      "E) 35 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir üretim işletmesinde ilgili dönemde 1.000 birim üretim yapılmış birim başına üretim maliyeti ise 300 TL olarak gerçekleşmiştir.<br><br>Aynı dönemde direkt ilk madde malzeme gideri 30.000 TL, direkt işçilik gideri 45.000 TL olarak gerçekleşmiştir. Dönem başı ve dönem sonu yarı mamulün bulunmadığı işletmede döneme ait genel üretim giderleri toplamı kaç liradır?",
+    "options": [
+      "A) 125.000 ₺",
+      "B) 175.000 ₺",
+      "C) 225.000 ₺",
+      "D) 300.000 ₺",
+      "E) 375.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Stoklara her yeni girişten sonra birim maliyetlerin yeniden hesaplanmasına imkan veren stok değerleme yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İlk giren ilk çıkar yöntemi",
+      "B) Tartılı ortalama maliyet yöntemi",
+      "C) Hareketli ortalama maliyet yöntemi",
+      "D) Son giren ilk çıkar yöntemi",
+      "E) Sabit ortalama maliyet yöntemi"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir üretim işletmesinde kesim ve dikim esas üretim gider yerleri, yemek ve bakım bölümleri ise yardımcı hizmet gider yerleridir. Döneme ait 1. dağıtım sonuçları ve dağıtım anahtarları aşağıda verilmiştir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>KESİM</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>DİKİM</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>YEMEK</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>BAKIM</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0; font-weight: bold;'>1. Dağ. Toplamı</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>5.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>3.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>1.800 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>3.600 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0; font-weight: bold;'>İşçi Sayısı</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>40</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>60</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>70</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>20</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0; font-weight: bold;'>DİS</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>5</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>3</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>4</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>-</td></tr></table><br>Yemekhane İşçi sayısına, Bakım Onarım ise DİS'e göre dağıtılacaktır. Dağıtıma en çok gider yerine hizmet sunan yardımcı gider yerinden başlanacaktır.<br><br>Kademeli dağıtım yöntemine göre; yemek yardımcı gider yerinin, bakım yardımcı gider yerinden alacağı genel üretim payı kaç ₺ olur?",
+    "options": [
+      "A) 300",
+      "B) 1.200",
+      "C) 900",
+      "D) 600",
+      "E) 0"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Tek tip mamul üreten işletmede üretim tek safhada gerçekleştirilmekte ve mamul maliyetlerinin hesaplanmasında ortalama maliyet yöntemi kullanılmaktadır.<br><br>Üretim döneminde üretim kaybı bulunmayan işletmede üretim dönemi başında 5.800 birimin üretimine başlanmış ve 4.800 birimin üretimi tamamlanmıştır. Dönemin direkt ilk madde ve malzeme giderleri 440.000 ₺, direkt işçilik giderleri 180.000 ₺, genel üretim giderleri ise 220.000 ₺'dir.<br><br>Eşdeğer birim maliyetler direkt ilk madde ve malzeme açısından 120 ₺, şekillendirme açısından 80 ₺ olarak hesaplanmıştır. Dönem başında yarı mamul stoku bulunmayan işletmede dönem sonu yarı mamullerin şekillendirme açısından tamamlanma derecesi yüzde kaçtır?",
+    "options": [
+      "A) 10",
+      "B) 20",
+      "C) 30",
+      "D) 40",
+      "E) 50"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "C İşletmesinde K mamulünden bir kg üretebilmek için standart olarak 4 Direkt İşçilik Saati (DİS) sarf edileceği ve standart direkt işçilik saat ücretinin 10 ₺ olacağı planlanmıştır.<br><br>Temmuz ayında üretilen 13.000 kg K mamulü için 50.000 DİS harcanmıştır. Gerçekleşen direkt işçilik gideri 468.850 ₺'dir.<br><br>Buna göre, işletmede oluşan toplam Direkt İşçilik Süre (Zaman) Farkı kaç ₺'dir?",
+    "options": [
+      "A) 20.000 olumlu",
+      "B) 40.000 olumsuz",
+      "C) 40.000 olumlu",
+      "D) 20.000 olumsuz",
+      "E) 0"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Maliyet muhasebesinin genel muhasebeden ayrı tutulduğu, bağımsız maliyet muhasebesi uygulamasını tercih eden işletmelerde, stoktan endirekt ilk madde ve malzemenin alınarak üretime gönderilmesi durumunda, Maliyet Muhasebesi Bölümü tarafından yapılacak ilgili kayıtta aşağıdaki hesaplardan hangisinin alacağına kayıt yapılır?",
+    "options": [
+      "A) 701 Maliyet Muhasebesi Yansıtma Hesabı",
+      "B) 711 Direkt İlk Madde ve Malzeme Giderleri Yansıtma Hesabı",
+      "C) 150 İlk Madde ve Malzeme Hesabı",
+      "D) 731 Genel Üretim Giderleri Yansıtma Hesabı",
+      "E) 700 Maliyet Muhasebesi Bağlantı Hesabı"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Safha maliyet sisteminde eşdeğer birimler kullanılmasının amacı nedir?",
+    "options": [
+      "A) Safhalar arasında maliyet dengesizliğini gidermek",
+      "B) Mamul türlerini tanımlamak",
+      "C) Üretimi kolaylaştırmak",
+      "D) Fire maliyeti yansıtabilmek",
+      "E) Tamamlanmış ve tamamlanmamış birimleri aynı ölçekle ifade edebilmek"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "İşletmenin kullandığı (X) direkt ilk madde ve malzemesine ilişkin bilgiler aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Tarih</td><td style='padding: 8px; border: 1px solid #e2e8f0;'>Açıklama</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Miktar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>Birim Fiyat</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>01 Temmuz</td><td style='padding: 8px; border: 1px solid #e2e8f0;'>Önceki Dönemden Devir</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>50</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>100 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>07 Temmuz</td><td style='padding: 8px; border: 1px solid #e2e8f0;'>Üretime Gönderilen</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>50</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>?</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>18 Temmuz</td><td style='padding: 8px; border: 1px solid #e2e8f0;'>Satın Alınan</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>200</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>150 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>25 Temmuz</td><td style='padding: 8px; border: 1px solid #e2e8f0;'>Satın Alınan</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>250</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>200 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>31 Temmuz</td><td style='padding: 8px; border: 1px solid #e2e8f0;'>Üretime Gönderilen</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>300</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>?</td></tr></table><br>Yukarıdaki bilgilere ve İlk Giren İlk Çıkar (FİFO) Yöntemi'ne göre, (X) direkt ilk madde ve malzemesinin \"Üretime gönderilen malzeme\" toplam maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 10.000",
+      "B) 30.000",
+      "C) 40.000",
+      "D) 55.000",
+      "E) 62.500"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir mal, fayda ve hizmet edinilmesi veya herhangi bir edinim karşılığı olmaksızın ortaya çıkan yükümlülükler nedeniyle yapılan ödeme ve borçlanmalara ne denir?",
+    "options": [
+      "A) Maliyet",
+      "B) Varlık",
+      "C) Harcama",
+      "D) Gider",
+      "E) Zarar"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "İşletmenin Eylül ayına ilişkin 1. Maliyet Dağıtımı sonunda maliyet yerlerinin genel üretim maliyeti tutarlarına ve yardımcı maliyet merkezlerinin dağıtım anahtarı yüzdelerine ilişkin bilgiler aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td colspan='2' style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Yardımcı Maliyet Merkezi</td><td colspan='2' style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Esas Üretim Maliyet Merkezi</td></tr><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Bakım Onarım</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Yemekhane</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Kesme</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Montaj</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0; font-weight: bold;'>1. Dağıtım Tutarı</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>6.000 TL</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>3.000 TL</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>12.600 TL</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>16.400 TL</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0; font-weight: bold;'>Bakım Onarım (%)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>B</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%20</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%30</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%50</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0; font-weight: bold;'>Yemekhane (%)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%10</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Y</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%30</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>%60</td></tr></table><br>Buna göre, genel üretim maliyetinin 2. Dağıtımı'nda Matematiksel Dağıtım Yöntemi'ne göre esas üretim maliyet merkezlerine yüklenen değerlerin hesaplanabilmesi için kurulan denklem formülleri aşağıdakilerden hangisidir?",
+    "options": [
+      "A) B = 6.000 + 0,20Y<br>&nbsp;&nbsp;&nbsp;&nbsp;Y = 3.000 - 0,10B",
+      "B) B = 6.000 + 0,20Y<br>&nbsp;&nbsp;&nbsp;&nbsp;Y = 3.000 + 0,10B",
+      "C) B = 6.000 + 0,30K + 0,50M<br>&nbsp;&nbsp;&nbsp;&nbsp;Y = 3.000 + 0,30K + 0,60M",
+      "D) B = 6.000 + 0,10Y<br>&nbsp;&nbsp;&nbsp;&nbsp;Y = 3.000 + 0,20B",
+      "E) B = 6.000 - 0,50Y<br>&nbsp;&nbsp;&nbsp;&nbsp;Y = 3.000 - 0,60B"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Endirekt malzemeler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Endirekt madde ve malzemeler ürünün temel malzemesini oluştururlar.",
+      "B) Endirekt madde ve malzemelere ürünün tamamlanmasında gereksinim duyulur.",
+      "C) Endirekt madde ve malzemelerin her ürünün içinde ne kadar yer aldığını doğrudan belirleyebilmek kolay değildir.",
+      "D) Endirekt madde ve malzemelerin maliyeti ürüne doğrudan yüklenemez.",
+      "E) Endirekt madde ve malzemeler işletme ve yardımcı malzemelerden oluşurlar."
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "İşletmede 100 adetlik bir siparişin toplam maliyeti 100.000 ₺ olarak gerçekleşmiştir. Üretilen mamullerden 10 adedinin kusurlu olduğu tespit edilmiş ve söz konusu mamullerin kusurunun giderilmesi için aşağıdaki maliyetlere katlanılarak düzeltme yapılmıştır.<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İlk Madde ve Malzeme Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>3.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Direkt İşçilik Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>1.500 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Genel Üretim Giderleri</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: right;'>500 ₺</td></tr></table><br>Buna göre, düzeltme işlemi sonrası bu siparişe ilişkin birim başına üretim maliyeti kaç ₺'lik artış göstermiştir?",
+    "options": [
+      "A) 10",
+      "B) 30",
+      "C) 50",
+      "D) 100",
+      "E) 140"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "Bir üretim işletmesinde kapsamına göre farklı maliyet yöntemleri kullanılarak hesaplanan toplam üretim maliyetleri şu şekildedir:<br><br>Tam Maliyet Yöntemi: 300.000 ₺<br>Normal Maliyet Yöntemi: 270.000 ₺<br>Değişken Maliyet Yöntemi: 200.000 ₺<br><br>Buna göre, işletmenin kapasite kullanım oranı ve sabit genel üretim gideri aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) %80 ve 100.000 ₺",
+      "B) %80 ve 70.000 ₺",
+      "C) %70 ve 70.000 ₺",
+      "D) %70 ve 90.000 ₺",
+      "E) %70 ve 100.000 ₺"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "(Fiili Ücret - Standart Ücret) x Fiilî Süre<br><br>Standart maliyet sistemini uygulayan bir işletmede kullanılan bu formül aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "A) Ücret Sapması",
+      "B) Verim sapması",
+      "C) Süre sapması",
+      "D) Miktar sapması",
+      "E) Bütçe sapması"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Maliyet Muhasebesi",
+    "q": "(B) üretim işletmesinin 2025 yıllık üretim kapasitesi 5.000 adettir. İşletme 2025 yılında 4.000 birim üretimle çalışmakta ve şu maliyetlere katlanmaktadır:<br><br>Birim değişken maliyet: 8 TL<br>Toplam sabit maliyet: 48.000 TL<br>Birim maliyet: 20 TL<br>Birim satış fiyatı: 30 TL<br><br>Bir müşteri ekstra sipariş vermiş ve kendisine 500 adet mamul üretilmesini istemiştir. Verdiği fiyat mamul başına 15 TL'dir. Sipariş kabul edilirse ek kâr/zarar ne kadar olur?",
+    "options": [
+      "A) 3.500 Kâr",
+      "B) 7.500 Kâr",
+      "C) 7.500 Zarar",
+      "D) 2.500 Zarar",
+      "E) 4.000 Zarar"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Hukuk",
+    "q": "İdari Yargılama Usul Kanunu'na göre adresleri belli olmayanlara özel kanunlardaki hükümlere göre ilan yoluyla bildirim yapılan hâllerde, özel kanununda aksine bir hüküm bulunmadıkça süre, son ilan tarihini izleyen günden itibaren ne kadar süre sonra işlemeye başlar?",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Hukuk",
+    "q": "I. Süreler, tebliğ, yayın veya ilân tarihini izleyen günden itibaren işlemeye başlar.<br><br>II. Tatil günleri sürelere dahildir. Şu kadar ki, sürenin son günü tatile gününe rastlarsa, süre tatili gününü izleyen çalışma gününün bitimine kadar uzamış sayılır.<br><br>III. Yazılı sürelerin bitmesi çalışmaya ara verme zamanına rastlarsa bu süreler, ara vermenin sona erdiği günü izleyen tarihten itibaren üç gün uzamış sayılır.<br><br>Sürelerin hesabına ilişkin yukarıdakilerden hangisi ya da hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) II ve III",
+      "D) I ve II",
+      "E) I ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Hukuk",
+    "q": "İdari Yargılama Usul Kanunu'na göre ehliyeti olan şahsın avukat olmayan vekili tarafından dava açılmış ise otuz gün içinde bizzat veya bir avukat vasıtasıyla dava açmak üzere aşağıdakilerden hangisine karar verilir?",
+    "options": [
+      "A) Davanın reddine",
+      "B) Dilekçenin reddine",
+      "C) Dilekçenin iptaline",
+      "D) Dosyanın işlemden kaldırılmasına",
+      "E) Davanın açılmamış sayılmasına"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Hukuk",
+    "q": "İdari Yargılama Usul Kanunu'nun maddelerine uygun olmadığı ve uygun şekilde yeniden düzenlenmek veya noksanları tamamlamak yahut, ehliyetli olan şahsın avukat olmayan vekili tarafından dava açılmış ise otuz gün içinde bizzat veya bir avukat vasıtasıyla dava açmak üzere dilekçenin reddine karar verilir.<br><br>Yukarıdaki belirtilen durumlarda dilekçenin reddedilmesi üzerine, yeniden verilen dilekçelerde aynı yanlışlıklar yapıldığı takdirde aşağıdakilerden hangisine karar verilir?",
+    "options": [
+      "A) Davanın reddine",
+      "B) Dilekçenin reddine",
+      "C) Dilekçenin iptaline",
+      "D) Dosyanın işlemden kaldırılmasına",
+      "E) Davanın açılmamış sayılmasına"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Hukuk",
+    "q": "Yürütmenin durdurulmasına ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yürütmenin durdurulmasına dair verilen kararlar on beş gün içinde yazılır ve imzalanır.",
+      "B) Dava dilekçesi ve eklerinden yürütmenin durdurulması isteminin yerinde olmadığı anlaşılırsa, davalı idarenin savunması alınmaksızın istem reddedilebilir.",
+      "C) Yürütmenin durdurulması kararının tebliğini izleyen günden itibaren yedi gün içinde bir defaya mahsus olmak üzere itiraz edilebilir.",
+      "D) Yürütmenin durdurulmasına itiraz edilen merciler, dosyanın kendisine gelişinden itibaren yedi gün içinde karar vermek zorundadır. İtiraz üzerine verilen kararlar kesindir.",
+      "E) İkinci kez yürütmenin durdurulması isteminde bulunulamaz."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Hukuk",
+    "q": "I. İş ilişkisinin bir süreye bağlı olarak yapılmadığı hâlde sözleşme belirsiz süreli sayılır.<br><br>II. Belirli süreli işlerde veya belli bir işin tamamlanması ya da belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak işveren ile işçi arasında yazılı şekilde yapılan iş sözleşmesi belirli süreli iş sözleşmesidir.<br><br>III. Belirli süreli iş sözleşmesi, objektif (esaslı) bir neden olsa bile, birden fazla üst üste (zincirleme) yapılamaz.<br><br>IV. Belirli süreli iş sözleşmesi ile çalıştırılan işçi, ayırımı haklı kılan bir neden olsa bile, salt iş sözleşmesinin süreli olmasından dolayı belirsiz süreli iş sözleşmesiyle çalıştırılan emsal işçiye göre farklı işleme tâbi tutulamaz.<br><br>V. Belirli süreli iş sözleşmesi ile çalışan işçiye, belirli bir zaman ölçüt alınarak ödenecek ücret ve paraya ilişkin bölünebilir menfaatler, işçinin çalıştığı süreye orantılı olarak verilir.<br><br>4857 sayılı İş Kanunu'na göre belirli süreli iş sözleşmeleri ile ilgili yukarıdakilerden hangileri doğrudur?",
+    "options": [
+      "A) III ve IV",
+      "B) I, II ve III",
+      "C) I, II ve V",
+      "D) I, III ve V",
+      "E) II, III ve IV"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Hukuk",
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre Sosyal Güvenlik Kurumunun geçici iş göremezlik ödeneği sağladığı sigorta kolları aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Yaşlılık sigortası, iş kazası ve meslek hastalığı sigortası, işsizlik sigortası",
+      "B) İş kazası ve meslek hastalığı sigortası, hastalık sigortası, analık sigortası",
+      "C) Analık sigortası, malüllük sigortası, yaşlılık sigortası",
+      "D) Malüllük sigortası, iş kazası ve meslek hastalığı sigortası, ölüm sigortası",
+      "E) İş kazası ve meslek hastalığı sigortası, işsizlik sigortası, analık sigortası"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Hukuk",
+    "q": "4857 sayılı İş Kanunu'na göre iş sözleşmesi türlerine ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Taraflarca iş sözleşmesine bir deneme kaydı konulduğunda, bunun süresi en çok bir ay olabilir.",
+      "B) Sürekli - süreksiz iş ayrımı, işin niteliği bakımından bir yıldan çok veya az sürmesine göre yapılır.",
+      "C) 25 yaşından genç işçilerle belirli süreli iş sözleşmesi akdedilebilmesi için objektif koşullar aranmaz.",
+      "D) Çağrı üzerine çalışma sözleşmesinde günlük çalışma süresi kararlaştırılmamış ise, işveren her çağrıda işçiyi günde en az sekiz saat üst üste çalıştırmak zorundadır.",
+      "E) Taraflar iş sözleşmesini, Kanun hükümleriyle getirilen sınırlamalar saklı kalmak koşuluyla, ihtiyaçlarına uygun türde düzenleyebilirler."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Hukuk",
+    "q": "İşçi (A), dokuz aydır özel bir şirkette satış temsilcisi olarak çalışmaktadır. Son üç aydır maaşını eksik almaktadır ve bu durumu yöneticisine defalarca bildirmesine rağmen herhangi bir değişiklik olmamıştır.<br><br>Buna göre aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İşçi (A), sırf ücretinin eksik yatırılması nedeniyle iş sözleşmesini haklı nedenle derhal feshedebilir.",
+      "B) İşçi (A)'nın ücreti eksik yatırıldığı için çalışmaktan kaçınma hakkını kullandığı bir durumda, işveren bu nedenle işçi (A)'nın iş sözleşmesini feshedemez, yerine yeni işçi alamaz.",
+      "C) İşçi (A), bakiye ücret alacağının mevzuata uygulanan en yüksek faiz uygulanarak tahsilini isteyebilir.",
+      "D) Ücreti ödenmediği için iş sözleşmesini derhal fesheden işçi (A), işe iade davası açabilir.",
+      "E) İşverenin, işçi (A)'nın ücretini kasten eksik ödediğinin tespiti hâlinde, işverene idari para cezası uygulanır."
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Hukuk",
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre iş kazası geçiren bir işçiye sürekli iş göremezlik geliri bağlanabilmesi için meslekte kazanma gücündeki azalma oranı en az yüzde kaç olmalıdır?",
+    "options": [
+      "A) 5",
+      "B) 10",
+      "C) 25",
+      "D) 40",
+      "E) 60"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Hukuk",
+    "q": "I. Ticari defter tutma zorunluluğu işletmenin ticaret siciline tescil edildiği anda başlar.<br><br>II. Ticari defterde kısaltmaya yer verilemez.<br><br>III. Dövizle işlem yapılsa dahi yıl sonu finansal tabloları kural olarak Türk Lirası üzerinden düzenlenir.<br><br>IV. Elektronik ortamda tutulan defterlerde noter onayı aranmaz.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre yukarıdakilerden hangileri yanlıştır?",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) II ve III",
+      "D) I, II ve III",
+      "E) I, II, III ve IV"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Hukuk",
+    "q": "Murat, zorunlu şekli unsurları tam olan emre yazılı bir bononun arka yüzünü yalnızca imzalayarak Gülsüm'e devretmiştir.<br><br>Buna göre aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Gülsüm, Murat'ın imzasının üzerine \"Gülsüm'e ödeyeceğim.\" yazarak senedi devredebilir.",
+      "B) Gülsüm, senedin arka yüzüne imza atmadan senedi devredebilir.",
+      "C) Senet Gülsüm'den başka birinin eline geçerse, Murat, ciro zincirinin kopuk olduğunu belirterek ödeme yapmaktan kaçınabilir.",
+      "D) Gülsüm ödeme yapması için Murat'a başvurabilir.",
+      "E) Gülsüm senedin arka yüzüne \"Selim'e ödeyeceğim\" yazarak imzaladıktan sonra zilyetliğini Selim'e devrederse, senedin hamili Selim olur."
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Hukuk",
+    "q": "Bağımsız denetime tabi bir anonim şirketin faaliyet döneminin görüşüldüğü olağan genel kurulunda aşağıdaki kararlardan hangisinin her yıl alınmasına gerek yoktur?",
+    "options": [
+      "A) Yönetim kurulu üyesi seçimi",
+      "B) Yönetim kurulunun ibrası",
+      "C) Finansal tabloların onaylanması",
+      "D) Kârın kullanım şeklinin belirlenmesi",
+      "E) Denetçinin seçimi"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Hukuk",
+    "q": "Kambiyo senetlerinin devir türü ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Bono; nama, emre veya hamile/hamiline yazılı olarak düzenlenebilir.",
+      "B) Bono; yalnızca emre yazılı olarak düzenlenebilir.",
+      "C) Poliçe; yalnızca emre yazılı olarak düzenlenebilir.",
+      "D) Çek; emre, nama veya hamile/hamiline yazılı olarak düzenlenebilir.",
+      "E) Çek; sadece emre veya hamile/hamiline yazılı olarak düzenlenebilir."
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Hukuk",
+    "q": "Aşağıdakilerden hangisinin ticari defter tutma yükümlülüğü yoktur?",
+    "options": [
+      "A) Bir ticari işletmeyi kendi adına işleten memur",
+      "B) Kendisine ticari işletme miras kalan 14 yaşındaki Samet",
+      "C) Bir ticari işletme açmış gibi işlemlerde bulunan Ahmet",
+      "D) Ticari işletmesini işletmeye başlamamasına rağmen ticaret siciline tescil ettiren Hamza",
+      "E) Bir esnaf işletmesi işleten Mert"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Hukuk",
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre kira bedelleri, ana para faizleri ve ücret gibi diğer dönemsel edimlerden doğan alacaklar için zamanaşımı süresi kaç yıldır?",
+    "options": [
+      "A) 1",
+      "B) 3",
+      "C) 5",
+      "D) 10",
+      "E) 20"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Hukuk",
+    "q": "Aşağıdakilerden hangisinde sebepsiz zenginleşmeye dayanılarak talepte bulunulamaz?",
+    "options": [
+      "A) A'nın kendi elektrik faturası yerine eski eşinin elektrik faturasını ödemesinde",
+      "B) A'nın yanlış hesap numarasına para havale etmesinde",
+      "C) Kesin hükümsüz bir sözleşme için yerine getirilmiş olan karşı edimin iadesinde",
+      "D) Sonraki kusursuz ifa imkânsızlığı hâllerinde yerine getirilmiş karşı edimin iadesinde",
+      "E) Yolsuz tescille bir başka kişi adına kaydedilmiş taşınmazın iadesinde"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Hukuk",
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre haksız fiilden doğan sorumlulukla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür.",
+      "B) Zarar verici fiili yasaklayan bir hukuk kuralı bulunmasa bile, ahlaka aykırı bir fiille başkasına kasten zarar veren, bu zararı gidermekle yükümlüdür.",
+      "C) Zarar gören, zararını ve zarar verenin kusurunu ispat yükü altındadır.",
+      "D) Zarara ağır veya hafif kusuruyla sebep olan tazminat yükümlüsü, tazminatı ödediğinde yoksulluğa düşecek olur ve hakkaniyet de gerektirirse hâkim, tazminatı indirebilir ve hatta kaldırabilir.",
+      "E) Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve özellikle kusurun ağırlığını göz önüne alarak belirler."
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Hukuk",
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre borçların ifasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Borçlu kural olarak borcunu şahsen ifa etmekle yükümlüdür.",
+      "B) Borçlu edimini kural olarak sürenin sona ermesinden önce ifa edebilir.",
+      "C) Borcun tamamı belli ve muaccel ise alacaklı kısmen ifayı reddedemez.",
+      "D) Çeşit borçlarında hukuki ilişkiden ve işin özelliğinden aksi anlaşılmadıkça, edimin seçimi alacaklıya aittir.",
+      "E) Seçimlik borçlarda, hukuki ilişkiden ve işin özelliğinden aksi anlaşılmadıkça, edimlerden birinin seçimi alacaklıya aittir."
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Hukuk",
+    "q": "Aşağıdakilerden hangisi tek taraflı hukuki işlem değildir?",
+    "options": [
+      "A) Miras sözleşmesi",
+      "B) Cayma",
+      "C) Fesih",
+      "D) Dönme",
+      "E) Vasiyetname"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Aşağıdakilerden hangisi nominal değerinden yüksek bir bedelle ihraç edilen hisse senedi türüdür?",
+    "options": [
+      "A) Adi hisse senedi",
+      "B) İmtiyazlı hisse senedi",
+      "C) Nama yazılı hisse senedi",
+      "D) Primli hisse senedi",
+      "E) Primsiz hisse senedi"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Aşağıdakilerden hangisi kar ve zarar ortaklığı (KZOB) belgeleri ile ilgili olarak doğru bir ifade değildir?",
+    "options": [
+      "A) Kar ve zarara katılma hakkı veren menkul kıymetlerdir.",
+      "B) Vadesi en kısa 6 ay, en uzun 10 yıl olabilir.",
+      "C) Vade sonlarında kâr zarar ortaklığı belgesi bedelleri defaten ödenir.",
+      "D) Vade ortaklık faaliyetlerinin özelliğine göre muhtelif dönemlerden aylık ve katları olarak düzenlenir.",
+      "E) Hisse senediyle değiştirilebilir nitelikte kar zarar ortaklığı belgesi ihraç edilebilir."
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Aşağıdakilerden hangisi Sermaye Piyasası Kurulu'nun temel amaçları arasında yer almaz?",
+    "options": [
+      "A) Menkul kıymetler ve sermaye piyasaları ile ilgili kuruluşlar hakkında kamunun aydınlatılması sağlamak",
+      "B) Tasarruf sahiplerinin hak ve yararlarını korumak",
+      "C) Ortaklıklarda mülkiyetin yaygınlaştırılmasını sağlamak",
+      "D) Tasarrufların menkul kıymetlere yatırımını özendirmek",
+      "E) Para piyasasını düzenlemek ve denetlemek"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "İhraççı ortaklığın sermaye artırımı suretiyle çıkaracağı paylara veya izahnamede veya ihraç belgesinde belirtilen esaslar çerçevesinde temin edilen ihraççı paylarına dönüştürme hakkı veren borçlanma aracı hangisidir?",
+    "options": [
+      "A) Bono",
+      "B) Değiştirilebilir tahvil (DET)",
+      "C) Paya dönüştürülebilir tahvil (PDT)",
+      "D) Kar payı ödenimli tahvil",
+      "E) Kira sertifikası"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Aşağıdakilerden hangisi borçlanma aracı değildir?",
+    "options": [
+      "A) Tahvil",
+      "B) Yatırım fonu",
+      "C) Paya dönüştürülebilir tahvil",
+      "D) Değiştirilebilir tahvil",
+      "E) Hazine Bonosu"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulmuş olan sermaye piyasası kurumu hangisidir?",
+    "options": [
+      "A) Varlık kiralama şirketi",
+      "B) Yatırım kuruluşu",
+      "C) İpotek Finansman Kuruluşu",
+      "D) Yatırım Fonu",
+      "E) Yatırım ortaklığı"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Aşağıdakilerden hangisi sermaye piyasası kurumlarından biri değildir?",
+    "options": [
+      "A) Yatırım kuruluşları",
+      "B) İpotek finansman kuruluşları",
+      "C) Merkezi Kayıt Kuruluşu (MKK)",
+      "D) Portföy yönetim şirketleri",
+      "E) Sigorta şirketleri"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Ana faaliyet konusu yatırım fonlarının kurulması ve yönetimi olan anonim ortaklık hangisidir?",
+    "options": [
+      "A) Portföy yönetim şirketi",
+      "B) Varlık kiralama şirketi",
+      "C) Varlık yönetim şirketi",
+      "D) Sigorta şirketi",
+      "E) Aracı kurum"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye piyasası araçlarının merkezî saklanması ve bunlara ilişkin hakların kullanımı hizmetlerini veren anonim ortaklık şeklindeki özel hukuk tüzel kişiliğini haiz kurumlara hangisidir?",
+    "options": [
+      "A) Türkiye Değerleme Uzmanları Birliği",
+      "B) Türkiye Sermaye Piyasaları Birliği",
+      "C) Merkezî takas kuruluşları",
+      "D) Merkezî saklama kuruluşları",
+      "E) Yatırımcıları Tazmin Merkezi"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye Piyasası Kanunu uyarınca yatırımcıların tazminine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Sermaye Piyasası Kurulu, yatırım kuruluşlarının sermaye piyasası faaliyetinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getiremediğinin veya kısa sürede yerine getiremeyeceğinin tespit edilmesi hâlinde yatırımcıları tazmin kararı alır.",
+      "B) Sermaye Piyasası Kurulunca bankalar hakkında tazmin kararı verilebilmesi için Bankacılık Düzenleme ve Denetleme Kurumunun görüşü alınır.",
+      "C) Yatırımcıların tazmini amacıyla kamu tüzel kişiliğini haiz Tasarruf Mevduatı Sigorta Fonu kurulmuştur.",
+      "D) YTM tarafından yürütülecek iş ve işlemlerin Kurul personeli ve bu iş için istihdam edilecek personel tarafından yerine getirilmesi esastır.",
+      "E) Yatırım kuruluşlarının YTM'ye katılması zorunludur."
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "I- Nitelikli yatırımcıya satış<br>II- Tahsisli satış<br>III- Sabit fiyatla talep toplayarak satış<br>IV- Fiyat aralığı ile talep toplayarak satış<br><br>Sermaye Piyasası Araçlarının Satışı Tebliği'ne göre yukarıda verilenlerden hangisi sermaye piyasası araçlarının halka arz edilmeksizin satış yöntemleri arasındadır?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) II,III ve IV",
+      "E) II ve IV"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye piyasası mevzuatınca satış yöntemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Sabit fiyatla talep toplama yoluyla satış yönteminde; Satışa sunulan aracın pay olması durumunda sabit bir fiyat belirlenerek talep toplanır.",
+      "B) Borsada satış yöntemi, sermaye piyasası araçlarının borsa düzenlemeleri çerçevesinde borsada satışını ifade eder.",
+      "C) Borsada satış yönteminin usul ve esasları Borsa tarafından belirlenir.",
+      "D) Nitelikli yatırımcılara satılmak üzere ihraç edilen sermaye piyasası araçları, borsa düzenlemeleri çerçevesinde yalnızca nitelikli yatırımcılar arasında alınıp satılmak üzere borsada işlem görebilir.",
+      "E) Fiyat aralığı ile talep toplama yoluyla satış yönteminin kullanılması durumunda tavan fiyat, taban fiyatın yüzde elli fazlasını aşmayacak şekilde belirlenir."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye piyasası mevzuatına göre halka açık anonim ortaklıkların önemli nitelikteki işlemlere dair aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Önemli nitelikteki işlemlere ilişkin genel kurul toplantısına katılıp da olumsuz oy kullanan ve muhalefet şerhini toplantı tutanağına işleten pay sahipleri ayrılma hakkına sahip olamaz.",
+      "B) Halka açık ortaklık ayrılma hakkına sahip olan pay sahibinin talebi üzerine, söz konusu önemli nitelikteki işlemin kamuya açıklandığı tarihten önceki otuz gün içinde borsada oluşan ağırlıklı ortalama fiyatların ortalamasından satın almakla yükümlüdür.",
+      "C) Önemli nitelikteki işlemlere ilişkin genel kurul toplantısına katılmasına haksız bir biçimde engel olunan ortaklar ayrılma hakkına sahiptir.",
+      "D) Genel kurul toplantısının gündeminde, bu kararlara muhalefet oyu kullanacak pay sahiplerinin ortaklıktan ayrılma hakkının bulunduğu hususu ile bu hakkın kullanılması durumunda payların ortaklık tarafından satın alınacağı bedel yer alır.",
+      "E) Ayrılma hakkının doğmadığı hâller ile bu hakkın kullanımına ve payları borsada işlem görmeyen ortaklıklarda satım fiyatının hesaplanmasına ilişkin usul ve esaslar SPK tarafından belirlenir."
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye Piyasası Kanunu'na göre halka açık ortaklıklar ve kolektif yatırım kuruluşları ile bunların iştirak ve bağlı ortaklıklarının; yönetim, denetim veya sermaye bakımından doğrudan veya dolaylı olarak ilişkide bulundukları gerçek veya tüzel kişiler ile emsallerine uygunluk, piyasa teamülleri, ticari hayatın basiret ve dürüstlük ilkelerine aykırı olarak farklı fiyat, ücret, bedel veya şartlar içeren anlaşmalar veya ticari uygulamalar yapmak veya işlem hacmi üretmek gibi işlemlerde bulunmak suretiyle kârlarını veya malvarlıklarını azaltarak veya kârlarının veya malvarlıklarının artmasını engelleyerek kazanç aktarımında bulunmaları hangi durumun ihlalini oluşturur?",
+    "options": [
+      "A) Vergiden kaçınma",
+      "B) Bilanço denkleştirme",
+      "C) Bilgi suistimali",
+      "D) Örtülü kazanç aktarımı yasağı",
+      "E) Önemli nitelikteki işlemler"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye piyasası mevzuatınca kayıtlı sermaye sistemine ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kayıtlı sermaye tavanı, ortaklıkların, esas sözleşmelerinde hüküm bulunmak kaydıyla, yönetim kurulu kararı ile 6102 sayılı Türk Ticaret Kanununun esas sermayenin artırılmasına dair hükümlerine tabi olmaksızın pay çıkarabilecekleri azami miktarı gösteren, ticaret sicilinde tescil ve ilan edilmiş sermayelerine denir.",
+      "B) Kayıtlı sermayeli anonim ortaklıkların sahip olmaları zorunlu olan asgari çıkarılmış sermayelerine başlangıç sermayesi denir.",
+      "C) Çıkarılmış sermaye, kayıtlı sermayeli anonim ortaklıkların satışı yapılmamış paylarını temsil eden sermayelerini temsil eder.",
+      "D) Kayıtlı sermaye sistemine geçecek ortaklıkların başlangıç sermayeleri 500.000 TL'den az olamaz.",
+      "E) Kurulca beş yıl süreyle geçerli olmak üzere izin verilecek kayıtlı sermaye tavanı, ortaklıkların ödenmiş/çıkarılmış sermayesi veya özsermayesinden yüksek olanının beş katını aşamaz."
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Aşağıdakilerden hangisi Borsa İstanbul'daki piyasa türlerinden biri değildir?",
+    "options": [
+      "A) Pay Piyasası",
+      "B) Gelişen İşletmeler Piyasası",
+      "C) Serbest Döviz Piyasası",
+      "D) Borçlanma Araçları Piyasası",
+      "E) Vadeli İşlem ve Opsiyon Piyasası"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye Piyasası Kanunu'na göre doğrudan ya da dolaylı olarak sermaye piyasası araçları ya da ihraççılar hakkında, ilgili sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkileyebilecek nitelikteki ve henüz kamuya duyurulmamış bilgilere dayalı olarak ilgili sermaye piyasası araçları için alım ya da satım emri veren veya verdiği emri değiştiren veya iptal eden ve bu suretle kendisine veya bir başkasına menfaat temin etmek hangi suç kapsamında değerlendirilir?",
+    "options": [
+      "A) Bilgi suistimali",
+      "B) Piyasa dolandırıcılığı",
+      "C) Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti",
+      "D) Güveni kötüye kullanma ve sahtecilik",
+      "E) Spekülasyon"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye piyasası mevzuatınca, müşterilerin sermaye piyasası araçlarıyla ilgili alım veya satım emirlerinin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına yatırım kuruluşları tarafından, borsalar ya da teşkilatlanmış diğer pazar yerlerine, yetkilendirilmiş bir kuruluşa, kaldıraçlı işlemler hariç olmak üzere ilgili ülkenin yetkili otoritesinden faaliyet izni almış yurt dışında yerleşik bir kuruluşa, iletilmek suretiyle gerçekleştirilmesi ne tür faaliyettir?",
+    "options": [
+      "A) Emir iletimine aracılık",
+      "B) İşlem aracılığı",
+      "C) Portföy aracılığı",
+      "D) Açığa satış",
+      "E) Yatırım danışmanlığı"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye piyasası mevzuatınca yatırım fonları katılma payları değerine dair aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Fon birim pay değeri, fon toplam değerinin katılma paylarının sayısına bölünmesiyle elde edilir.",
+      "B) Fon birim pay değeri, katılma paylarının alım satımına esas teşkil eden fiyattır.",
+      "C) Fonların birim pay değerinin günlük olarak hesaplanması ve ilan edilmesi esastır.",
+      "D) Katılma paylarının itibari değeri yoktur.",
+      "E) Fon katılma payı sahiplerine temettü dağıtılması mümkün değildir."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Sermaye Piyasası Mevzuatı",
+    "q": "Sermaye piyasası mevzuatınca bağış yapılması ve kâr payı avansı dağıtımına dair aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bir hesap döneminde verilecek toplam kâr payı avansı bir önceki yıla ait dönem kârının üçte birini aşamaz.",
+      "B) Kâr payı avansı tek seferde ve nakit olarak ödenir ve yıl içinde birden fazla kez kâr payı avansı dağıtılması mümkündür.",
+      "C) Ortaklıklar tarafından bağış yapılabilmesi için esas sözleşmede hüküm bulunması zorunludur.",
+      "D) Yapılacak bağışın sınırı, esas sözleşmede belirtilmeyen durumlarda genel kurulca belirlenir ve Sermaye Piyasası Kurulu bağış tutarına üst sınır getirmeye yetkilidir.",
+      "E) Ortaklıkların ilgili hesap dönemi içinde yapmış olduğu bağışlar dağıtılabilir kâr matrahına eklenir."
+    ],
+    "answer": 0
+  }
+ ],
+  "Deneme Sınavı-2 (2. Oturum)": [
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "İşletmenin Duran varlıklarının Devamlı sermayeye oranı 0,75, Kısa vadeli yabancı kaynaklarının aktif toplamına oranı 0,2 ise cari oran kaçtır?",
+    "options": [
+      "A) 0,5",
+      "B) 1",
+      "C) 1,5",
+      "D) 2",
+      "E) 2,5"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Aşağıdakilerden hangisi mali tablo analizinde kullanılan analiz tekniklerinden birisidir?",
+    "options": [
+      "A) Yatırım analizi",
+      "B) Kredi analizi",
+      "C) Trend analizi",
+      "D) İç analiz",
+      "E) Statik analiz"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Duran varlıklarının toplamı dönen varlıklarının toplamının 1,5 katı olan işletmenin devamlı (sürekli) sermayesi 60.000 ₺, net çalışma sermayesi tutarı ise 7.500 ₺'dir.<br><br>Buna göre, söz konusu işletmenin aktif toplamı kaç ₺'dir?",
+    "options": [
+      "A) 52.500",
+      "B) 60.000",
+      "C) 67.500",
+      "D) 87.500",
+      "E) 90.000"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Herhangi bir olağandışı gelir ve gideri olmayan bir işletmenin net satışları 100.000 ₺, finansman giderlerinin dikey yüzdesi %4 ve dönem karı veya zararının dikey yüzdesi %3 ise vergi ve faiz öncesi kar kaç ₺'dir?",
+    "options": [
+      "A) 3.000",
+      "B) 4.000",
+      "C) 7.000",
+      "D) 10.000",
+      "E) 11.000"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Yatay analiz yöntemine göre analizi yapılan finansal tablodaki bir hesabın önceki yıla ait hesap tutarı 0 (sıfır), sonraki yıldaki hesap tutarı 500 ise değişim (artış veya azalış) tutarı ve yüzdesi sırasıyla aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) 500 TL artış - %500 artış",
+      "B) 500 TL azalış - 500 azalış",
+      "C) Hesaplanamaz - %100 artış",
+      "D) 500 TL artış - hesaplanamaz",
+      "E) Hesaplanamaz - Hesaplanamaz"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Cari oranı 1'den büyük olan bir işletme için;<br><br>I. Duran varlıkları devamlı sermayesinden daha azdır.<br>II. Net işletme sermayesi negatiftir.<br>III. Net işletme sermayesi pozitiftir.<br><br>Yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) I ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Net satışları 60.000 ₺ ve aktif devir hızı 2 olan bir işletmede duran varlıklar 10.000 ₺ ve sürekli sermaye 20.000 ₺ ise cari oran kaçtır?",
+    "options": [
+      "A) 0,5",
+      "B) 1",
+      "C) 1,5",
+      "D) 2",
+      "E) 3"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Bir işletmenin cari döneme ait net satışları 90.000 ₺, satışlarının maliyeti 80.000 ₺, sürekli sermayesi 40.000 ₺, aktif devir hızı 1,5 ve cari oranı 2,5 ve asit test (likidite) oranı 1,5 ise stok devir hızı kaçtır?",
+    "options": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 8",
+      "E) 9"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Bir işletmenin bilançosunda duran varlıkların toplam varlıklara oranı son 3 yılda sırasıyla %50, %45 ve %40 olarak hesaplanmıştır.<br><br>Bu verilere göre işletme ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İşletmenin sermaye yatırımları artmaktadır.",
+      "B) İşletme dönen varlıklarına daha fazla ağırlık vermektedir.",
+      "C) İşletme varlıklarını daha likit hâle getirmektedir.",
+      "D) İşletmenin duran varlık yatırımları azalmaktadır.",
+      "E) İşletmenin dönen varlıkları oransal olarak artmaktadır."
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "F İşletmesinin 2022 ve 2023 dönemlerine ait bazı bilanço verileri aşağıdaki gibidir. İşletmenin 2023 yılı cari oranı bir önceki döneme göre 2 kat artış göstermiştir. 2023 yılı yabancı kaynak (finansal kaldıraç) oranı 0,5 olarak gerçekleşmiştir.<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'></td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>2022</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>2023</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Dönen Varlıklar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>? ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>20.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Duran Varlıklar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>? ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>? ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Kısa Vadeli Yabancı Kaynaklar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>10.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>? ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Uzun Vadeli Yabancı Kaynaklar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>?</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>20.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Özkaynaklar</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>? ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>30.000 ₺</td></tr></table><br>Buna göre işletmenin 2022 yılı dönen varlıklar ve 2023 yılı kısa vadeli yabancı kaynaklar toplamı kaç ₺'dir?",
+    "options": [
+      "A) 50.000",
+      "B) 40.000",
+      "C) 30.000",
+      "D) 20.000",
+      "E) 10.000"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "XYZ işletmesinin ödenmiş sermayesi her biri 1 ₺ nominal değere sahip 80.000 adet hisse senedinden meydana gelmektedir. İşletme 2025 yılı karı 160.000 ₺ olup, işletme 2025 yılı karı için %40 kar dağıtım oranı açıklamıştır.<br><br>2025 yılı için Hisse Başına Temettü kaç ₺ olur?",
+    "options": [
+      "A) 2",
+      "B) 1",
+      "C) 0,8",
+      "D) 0,4",
+      "E) 0,2"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Aşağıdaki tablo işletmenin varlık dağılımını göstermektedir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Kalemler</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>Dikey %</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Hazır değerler</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>9,5</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Ticari alacak (net)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>10,5</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Stoklar (net)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>40</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>Duran varlıklar (net)</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>40</td></tr><tr style='font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Toplam Aktif</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>100</td></tr></table><br>Yukarıdaki tabloya göre işletmenin varlık dağılımına ilişkin aşağıdaki yorumlardan hangisi yapılamaz?",
+    "options": [
+      "A) Hazır değerlerin toplam aktif içindeki payı % 9,5'tur.",
+      "B) İşletmenin net çalışma sermayesi noksanı vardır.",
+      "C) Duran varlıklarının payı % 40'tır.",
+      "D) İşletmenin dönen varlıklarının aktif toplamındaki payı duran varlıklardan fazladır.",
+      "E) Stokların payı dönen varlıklar içinde oldukça yüksektir."
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Satışlarının maliyeti 4.000.000 ₺, ortalama alacak tahsilat süresi 90 gün ve ortalama stokları 500.000 ₺ olan bir işletmenin ortalama stok bulundurma (stokların ortalama tüketilme) süresi kaç gündür? (1 yıl = 360 gün)",
+    "options": [
+      "A) 45",
+      "B) 15",
+      "C) 60",
+      "D) 84",
+      "E) 36"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Net satışların 100.000 ₺ ve net kâr marjının %10 olduğu bir işletmenin, aktif devir hızı 4 ise aktif kârlılığı yüzde kaçtır?",
+    "options": [
+      "A) 25",
+      "B) 35",
+      "C) 40",
+      "D) 45",
+      "E) 55"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Bir işletmeye ait bilgiler aşağıdaki gibidir:<br><br><table style='width: 100%; max-width: 550px; border-collapse: collapse; border: 1px solid #e2e8f0; font-size: 14px;'><tr style='background-color: #f8fafc; font-weight: bold;'><td style='padding: 8px; border: 1px solid #e2e8f0;'>Kalemler</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>31.12.2024</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>31.03.2025</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>30.06.2025</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>TİCARİ BORÇLAR</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>20.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>30.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>80.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>NET SATIŞLAR</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>200.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>365.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>480.000 ₺</td></tr><tr><td style='padding: 8px; border: 1px solid #e2e8f0;'>SATIŞLARIN MALİYETİ</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>25.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>212.000 ₺</td><td style='padding: 8px; border: 1px solid #e2e8f0; text-align: center;'>300.000 ₺</td></tr></table><br>Yukarıdaki tabloya göre 30.06.2025 tarihi için; Ticari borç ödeme süresi aşağıdakilerden hangisi olur?",
+    "options": [
+      "A) 15 Gün",
+      "B) 20 Gün",
+      "C) 30 Gün",
+      "D) 60 Gün",
+      "E) 90 Gün"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "G İşletmesinin 31.12.2022 tarihli Bilançosunda yer alan bazı bilgiler aşağıdaki gibidir:<br><br>Dönen Varlıklar: 175.000 ₺<br>Duran Varlıklar: 325.000 ₺<br>Kısa V. Yabancı Kay.: 145.000 ₺<br>Uzun V. Yabancı Kay.: 105.000 ₺<br>Özkaynaklar: 250.000 ₺<br><br>Buna göre; işletmenin sırasıyla brüt çalışma sermayesi ve net çalışma sermayesi tutarı ne kadardır?",
+    "options": [
+      "A) 175.000 ve 30.000",
+      "B) 325.000 ve 205.000",
+      "C) 325.000 ve 30.000",
+      "D) 175.000 ve 250.000",
+      "E) 500.000 ve 175.000"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Aşağıdaki nakit akışlarından hangisi finansman faaliyetleri kapsamında değildir?",
+    "options": [
+      "A) Sermaye artırılması",
+      "B) Bankaya kredi borcu ödenmesi",
+      "C) Bankadan kredi alınması",
+      "D) Kâr payı ödenmesi",
+      "E) Maddi duran varlık satışı"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Bir işletmenin 2019 yılına göre 2020 yılında satışları %20 oranında, satışların maliyeti %10 oranında artmıştır.<br><br>2020 yılı satışları 18.000 ₺ ve 2019 yılı satışlarının maliyeti 10.000 ₺ olan işletmenin brüt satış kârı 2019 yılına göre 2020 yılında nasıl değişmiştir?",
+    "options": [
+      "A) %20 oranında azalmıştır.",
+      "B) %10 oranında artmıştır.",
+      "C) %20 oranında artmıştır.",
+      "D) %30 oranında artmıştır.",
+      "E) %40 oranında artmıştır."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Aşağıdaki hesaplardan hangisi, Tekdüzen Muhasebe Sistemine göre hazırlanmış bilançoda bulunmaz?",
+    "options": [
+      "A) Hazırlık ve Geliştirme Giderleri",
+      "B) Ertelenmiş Gelirler",
+      "C) Araştırma ve Geliştirme Giderleri",
+      "D) Komisyon Gelirleri",
+      "E) Gelecek Yıllara Ait Gelirler"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Finansal Tablolar Analizi",
+    "q": "Aşağıdakilerden hangisi özkaynak değişim tablosunun bir bölümü değildir?",
+    "options": [
+      "A) Ödenmemiş Sermaye",
+      "B) Ödenmiş Sermaye",
+      "C) Sermaye Yedekleri",
+      "D) Kâr Yedekleri",
+      "E) Geçmiş Yıllar Kârları"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "'Bir kanıt, aynı mesleki özelliklere sahip farklı denetçileri ya da ilgilileri aynı sonuca götürüyorsa o kanıt .........'<br><br>Yukarıdaki tanımda boşluğa gelmesi gereken terim aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İlgilidir",
+      "B) Subjektiftir",
+      "C) Geçerlidir",
+      "D) Objektiftir",
+      "E) Natüreldir"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Bir örneklemin rassal olmasını engelleyen neden aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Örnekleme alınacak verilerin hepsine aynı koşulların, ayrıcalıksız olarak uygulanması",
+      "B) Örnekleme girecek birimlerin faklı seçilme şanslarına sahip olması",
+      "C) Evren birimleri türdeş olması",
+      "D) Bir ön yargıya yer verilmeden seçim yapılması.",
+      "E) Seçme işlemi, ilgilenilen özellik veya değişkenden bağımsız olması"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Bağımsız denetim çalışmasında denetçi, stok sayımını gözlemleyememiştir. Zaman yetersizliği nedeniyle stok hareketlerine ilişkin kapsamlı bir denetim çalışması yürütememiş ve uyguladığı ilave prosedürlerle/tekniklerle de yeterli sayıda, güvenilir kanıta ulaşamamıştır.<br><br>Stoklar, finansal tablolar üzerinde önemli bir etkiye sahiptir ancak, finansal tabloların bütünüyle güvenilirliği bozulmamıştır.<br><br>Bu durumda denetçinin vermesi gereken görüş nasıl olmalıdır?",
+    "options": [
+      "A) Olumsuz",
+      "B) Sınırlı olumlu",
+      "C) Görüş Bildirmekten kaçınma",
+      "D) Olumlu",
+      "E) Şartlı olumlu"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Teyit edilmesi talep edilen veya işletmenin kayıtlarında bulunan bilgiler ile teyit eden tarafın sunduğu bilgiler arasında bir farklılık olduğunu işaret eden yanıta ne ad verilir?",
+    "options": [
+      "A) İstisna",
+      "B) Olumsuz teyit",
+      "C) Karşıt inceleme",
+      "D) Mutabakat uyuşmazlığı",
+      "E) Boş bakiyeli yanıt"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Mesleki muhakeme \"Denetimin yürütülmesi sırasında mevcut olan şartlara uygun olarak atılacak adımlara yönelik bilgiye dayalı kararlar alınırken sahip olunan eğitim, bilgi ve deneyimin kullanılmasıdır.\"<br><br>Aşağıdakilerden hangisi denetçinin mesleki muhakemesini gerektiren konulardan biri olamaz?",
+    "options": [
+      "A) Finansal raporlama çerçevesinin seçimi ve değerlendirilmesi",
+      "B) BDS hükümlerinin yerine getirilmesi ve denetim kanıtı toplanması için uygulanacak denetim prosedürlerinin niteliği, zamanlaması ve kapsamı",
+      "C) Yeterli ve uygun denetim kanıtı toplanıp toplanmadığının ve BDS'lerin amaçlarına ve dolayısıyla denetçinin genel amaçlarına ulaşmak için daha fazla denetim kanıtı toplamaya ihtiyaç olup olmadığının değerlendirilmesi",
+      "D) Önemlilik ve denetim riski",
+      "E) Elde edilen denetim kanıtına dayanarak sonuçlara ulaşılması"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "1-Stoklar<br>2-Alacaklar<br>3-Faaliyet bölümü bilgileri<br>4-Dava ve iddialar<br>5-Satışlar<br>6-Kasa<br><br>BDS 501 Bağımsız denetim kanıtları- Belirli kalemler için dikkate alınması gereken özel hususlar standardında yer alan kalemler hangileridir?",
+    "options": [
+      "A) 1-2-5-6",
+      "B) 3-4-5",
+      "C) 2-3-6",
+      "D) 1-3-4",
+      "E) Yalnız 5"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Denetçinin gelecekteki olası belirsiz durumları bulabilmesi için kullanabileceği denetim yordamlarından biri değildir?",
+    "options": [
+      "A) Dönem sonundan sonra yapılmış işlemler ve kayıtların incelenmesi",
+      "B) İşletme yönetimi ve çalışanlarıyla görüşmeler yapılabilir",
+      "C) Vergi idaresinden işletmeyle ilgili bilgi alınabilir",
+      "D) İşletme avukatlarıyla görüşülebilir",
+      "E) İşletmenin borç ilişkisinde olduğu bankalardan bilgi alınabilir"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Denetçi, denetim sözleşmesinin kabulünden sonra, finansal tablolara ilişkin sınırlı olumlu görüş verilmesine veya görüş vermekten kaçınılmasına yol açması muhtemel şekilde, yönetimin, denetimin kapsamını sınırladığının farkına varırsa, öncelikli olarak ne yapar?",
+    "options": [
+      "A) Yönetimden söz konusu sınırlamayı kaldırmasını talep eder.",
+      "B) Olumsuz görüş raporu hazırlar.",
+      "C) Denetimi sonlandırır.",
+      "D) Sınırlı olumlu görüş (şartlı görüş) raporu hazırlar.",
+      "E) Görüş bildirmekten kaçınır."
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "BDS 701 Kilit Denetim Konuları'na göre denetçi raporunda kilit denetim konularının bildirilmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Denetçi, kilit denetim konularını belirlerken BDS 315 uyarınca \"önemli yanlışlık\" riski daha yüksek olarak değerlendirilen veya ciddi riskli olarak belirlenen alanları göz önünde bulundurur.",
+      "B) BDS 705 uyarınca olumlu görüş dışında bir görüş vermesi durumunda denetçi, bu görüşün verilmesine sebep olan konuyu aynı zamanda raporunun kilit denetim konuları bölümünde de açıklar.",
+      "C) Bildirilecek kilit denetim konusunun bulunmadığı durumlarda denetçi raporunda kilit denetim konuları başlığı yer almaz.",
+      "D) İşletmenin sürekliliğini devam ettirme kabiliyetine ilişkin ciddi şüphe oluşturabilecek olay veya şartlarla ilgili önemli bir belirsizliğin mevcut olması durumunda, denetçi raporunda kilit denetim konularının bildirilmesi, BDS 570'e uygun olarak yapılan raporlamanın yerine geçer.",
+      "E) Karşılaştırmalı finansal tabloların sunulması durumunda denetçinin kilit denetim konularına ilişkin yaptığı belirleme, cari dönemle birlikte geçmiş döneme ait finansal tabloların denetiminde en çok önem arz eden konuları kapsar."
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "I. Denetimin Bağımsız Denetim Standartları'na uygun olarak yürütüldüğü<br>II. Bağımsız denetim sırasında elde edilen bağımsız denetim kanıtlarının, olumsuz görüşün oluşturulması için yeterli ve uygun bir dayanak oluşturduğu<br>III. Türk Ticaret Kanunu uyarınca olumsuz görüş verilen finansal tabloların genel kurulda ibra edilemeyeceği<br>IV. Finansal tablolara bir bütün olarak olumsuz görüş verilmesi nedeniyle kilit denetim konularının belirlenmediği<br><br>BDS 700 Finansal Tablolara İlişkin Görüş Oluşturma ve Raporlama ile BDS 705 Bağımsız Denetçi Raporunda Olumlu Görüş Dışında Bir Görüş Verilmesi'ne göre olumsuz görüş içeren bir denetçi raporunun \"Görüşün Dayanağı\" bölümünde yukarıdaki ifadelerden hangileri yer almaz?",
+    "options": [
+      "A) I, II",
+      "B) III, IV",
+      "C) I, II, III",
+      "D) I, III, IV",
+      "E) II, III, IV"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Yürütülen bir bağımsız denetim sırasında denetçi, ticari alacaklar için dış teyit prosedürü uygulamaya karar vermiş ve bakiye veren toplam 500 alıcıdan en yüksek işlem hacmine sahip 60 alıcıya dış teyit talebi göndermiştir.<br><br>Bu durumda denetçinin, denetim kanıtı elde etmek amacıyla test edilecek kalemlerin seçimine ilişkin olarak aşağıdaki yöntemlerden hangisini kullandığı söylenebilir?",
+    "options": [
+      "A) Blok seçim",
+      "B) İstatistiki denetim örneklemesi",
+      "C) Sistematik seçim",
+      "D) Analitik seçim",
+      "E) Belirli kalemlerin seçilmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Düzeltilmemiş ve tespit edilmemiş yanlışlıklar toplamının, bir bütün olarak finansal tablolar için belirlenen önemliliği aşması ihtimalini uygun bir düşük seviyeye indirmek amacıyla, bir bütün olarak finansal tabloların önemliliğinden düşük olarak denetçi tarafından belirlenen tutar veya tutarları ifade eder.<br><br>Verilen tanım aşağıdaki kavramlardan hangisine aittir?",
+    "options": [
+      "A) Yargısal yaklaşım",
+      "B) Başlangıç önemliliği",
+      "C) Hesap kalemleri seviyesinde önemlilik",
+      "D) Önemli yanlışlık",
+      "E) Performans önemliliği"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Denetçinin yeni bir iş almak için düşük fiyat teklifinde bulunması ve bu fiyatın işin teknik ve mesleki standartlara uygun olarak yürütülmesini zorlaştırabilecek kadar düşük olması durumu, temel etik ilkelere uyumu engelleyen tehditlerden hangisinin kapsamına girmektedir?",
+    "options": [
+      "A) Kişisel Çıkar Tehditleri",
+      "B) Kendi Kendini Denetleme Tehditleri",
+      "C) Taraf Tutma Tehditleri",
+      "D) Yakınlık Tehditleri",
+      "E) Yıldırma Tehditleri"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Denetçi yapmış olduğu bağımsız denetim esnasında orta seviyede riskli bir iç kontrol eksikliği tespit ederse aşağıdakilerden hangisini yapamaz?",
+    "options": [
+      "A) Denetimi yarıda bırakmalıdır.",
+      "B) Tespit edilen önemli iç kontrol eksikliklerini üst yönetimden sorumlu olanlara zamanında bildirmelidir.",
+      "C) İç kontrol ile ilgili eksikliğin yönetim tarafından düzeltilmesini talep etmelidir.",
+      "D) Tespit edilen önemli iç kontrol eksikliklerini üst yönetimden sorumlu olanlara yazılı olarak bildirmelidir.",
+      "E) Eksiklikten kaynaklanan riskin denetim çalışmalarını nasıl etkileyeceğine dönük bir planlama yapmalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "I. Denetçi raporunda işletmenin sürekliliğini devam ettirme kabiliyetine ilişkin önemli bir belirsizliğe atıfta bulunulmaması, işletmenin sürekliliğini devam ettirme kabiliyeti açısından bir güvence teşkil etmez.<br>II. Finansal tabloların hazırlanmasında, ilgili finansal raporlama çerçevesinde açık bir hüküm yer almasa dahi yönetim, işletmenin sürekliliğini devam ettirme kabiliyetine ilişkin değerlendirme yapmalıdır.<br>III. Finansal tabloların işletmenin sürekliliği esasına göre hazırlanmış olması ancak yönetimin işletmenin sürekliliği esasını kullanmasının denetçinin yargısına göre uygun olmaması durumunda denetçi görüş vermekten kaçınır.<br><br>BDS 570 İşletmenin Sürekliliği'ne göre yukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I, II",
+      "D) II, III",
+      "E) I, II, III"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "BDS 265 İç Kontrol Eksikliklerinin Üst Yönetimden Sorumlu Olanlara ve Yönetime Bildirilmesi'ne göre aşağıdakilerden hangisi önemli iç kontrol eksikliklerinin bulunduğuna dair göstergelere örnek olarak verilemez?",
+    "options": [
+      "A) İşletmenin iç kontrolü tarafından önlenemeyen veya tespit edilip düzeltilemeyen ancak denetçinin uyguladığı prosedürler sırasında tespit edilmiş olan yanlışlıklar",
+      "B) Muhasebe politikası değişikliği sebebiyle önceden yayımlanmış finansal tabloların yeniden düzenlenmesi",
+      "C) İşletmenin risk değerlendirme sürecinin etkin olmadığına ilişkin kanıtlar",
+      "D) Bir risk değerlendirme sürecinin oluşturulmasının beklendiği bir durumda işletmede böyle bir sürecin bulunmaması",
+      "E) Yönetimin finansal tabloların hazırlanmasına ilişkin yaptığı gözetimde yetersiz kaldığına dair kanıtlar"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "KGK Bağımsız Denetim Yönetmeliğine göre; Bağımsız denetim yapmak üzere denetlenen işletme ile sözleşme imzalayan bağımsız denetim kuruluşunu veya bağımsız denetçiyi ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Denetimi üstlenen",
+      "B) Denetimi üstlenen bağımsız denetçi",
+      "C) Bağımsız denetim kuruluşu",
+      "D) Bağımsız denetçi",
+      "E) Sorumlu denetçi"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "Denetim kuruluşu veya denetçilerde, bağımsızlığın zedelendiğine dair kanaat oluşması halinde bağımsızlığın ortadan kalktığı kabul edilir.<br><br>Aşağıdakilerden hangisi Bağımsızlığı zedeleyen veya ortadan kaldıran bazı durumlar arasında yer almaz?",
+    "options": [
+      "A) Denetçiler ile denetim kuruluşunun ortakları, kilit yöneticileri, denetçileri ve bunların boşanmış olsalar dahi eşleri ile 3 üncü dereceye kadar (3 üncü derece dahil) kan ve kayın hısımları veya denetim kuruluşları tarafından denetlenen işletme veya denetlenen işletme ile ilgili olanlarla doğrudan veya dolaylı olarak menfaat, ortaklık, kilit yönetici sıfatıyla iş, olağan ekonomik ilişkiler dışında borç veya alacak ilişkilerine girilmiş olması",
+      "B) Geçmiş yıllara ilişkin denetim ücretinin, geçerli bir nedene dayanmaksızın, denetlenen işletme tarafından ödenmemesi",
+      "C) Denetim ücretinin, denetim sonuçları ile ilgili şartlara bağlanmamış olması, denetimin kalitesine dair belirsizlikler oluşturmaması",
+      "D) Bağımsızlığı zedeleyen diğer hallerin ortaya çıkması",
+      "E) Denetim ücretinin, denetim kuruluşu tarafından denetlenen işletmeye sunulan denetim dışı diğer hizmetler dikkate alınarak belirlenmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "KAYİK'leri denetleyen denetim kuruluşlarında asgari .... yılda bir, diğerlerinde asgari .... yılda bir, denetçilerde ise Kurumca gerek görüldüğünde inceleme ve denetim yapılır.<br><br>Noktalı yerlere hangisi gelmelidir?",
+    "options": [
+      "A) 2-5",
+      "B) 3-6",
+      "C) 5-7",
+      "D) 2-4",
+      "E) 3-5"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Muhasebe Denetimi",
+    "q": "KGK Bağımsız Denetim Yönetmeliğine göre; Yapılacak bildirimlerle ilgili hangisi yanlıştır?",
+    "options": [
+      "A) Sicil bilgileri dâhil olmak üzere Kuruma daha önce bildirilmiş her türlü bilgide meydana gelen değişiklikleri takip eden günden itibaren en geç 10 gün içinde",
+      "B) Denetim sözleşmelerini ve denetim raporlarını imza tarihinden itibaren, diğer hizmetlere ilişkin sözleşmelerle ilgili olarak Kurum tarafından istenecek bilgileri ise tebliğ tarihinden itibaren en geç 30 gün içinde",
+      "C) Görevden alma ve sözleşmenin feshine ilişkin işlemleri işlem tarihini takip eden günden itibaren en geç 10 gün içinde",
+      "D) Mesleki sorumluluk sigortası poliçesini düzenlenme tarihini ve poliçe ve sigorta şirketindeki değişiklikleri takip eden günden itibaren en geç 10 gün içinde",
+      "E) Son takvim yılına ait gelirlerini Kurumca belirlenen şekle uygun olarak Mayıs ayının on beşinci gününün sonuna kadar"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Vergi kesenler hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Sadece vergi kesmekle yükümlüdür, ödemekle değil.",
+      "B) Verginin tam olarak kesilmesi ve ödenmesinden sorumludur.",
+      "C) Kesmedikleri vergi için sorumlulukları yoktur.",
+      "D) Rücu hakları yoktur.",
+      "E) Sadece ücret stopajı için geçerlidir."
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Kanuni ve iş merkezi Türkiye de bulunmayan anonim ve limited şirketlerden elde edilen kâr paylarında istisna için aşağıdakilerden hangisi şart değildir?",
+    "options": [
+      "A) Ödenmiş sermayenin en az % 50 sine sahip olmak",
+      "B) Kâr payının ilgili yıl beyannamesinin son tarihine kadar Türkiye ye transfer edilmesi",
+      "C) Mükellefin tam mükellef olması",
+      "D) Kâr payının tamamını döviz olarak almak",
+      "E) Kâr payının 75. maddede tanımlı kâr payı olması"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Aşağıdakilerden hangisi iktisadi kamu kuruluşu değildir?",
+    "options": [
+      "A) Belediyeye ait otopark işletmesi",
+      "B) Devlete ait ve devamlı faaliyette bulunan fabrika",
+      "C) İl özel idaresine ait ziraî işletme",
+      "D) Anonim şirket şeklinde kurulan özel bir banka",
+      "E) Bir kamu üniversitesine ait kantin işletmesi"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun a göre \"Takibat giderleri\" aşağıdakilerden hangisini kapsamaz?",
+    "options": [
+      "A) Zor kullanma giderleri",
+      "B) İlan giderleri",
+      "C) Haciz, nakil, muhafaza giderleri",
+      "D) Mahkemece hükmedilen manevi tazminat",
+      "E) Cebri icra sırasında yapılan her türlü gider"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "A (üretici) -> B (toptancı) -> C (perakendeci) -> D (son tüketici) arasında zincirleme akit yapılmakta, mal fizikî olarak doğrudan A dan D ye gitmektedir.<br><br>KDVK ye göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Tek teslim vardır, sadece A -> D teslimi",
+      "B) Tek teslim vardır, sadece C -> D teslimi",
+      "C) Tek teslim vardır, sadece A -> B teslimi",
+      "D) Her bir safha ayrı teslimdir ve üç teslim vardır: A -> B, B -> C ve C -> D",
+      "E) Teslim yoktur, sadece hizmet vardır"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Aşağıdakilerden hangisi Veraset ve İntikal Vergisi Kanunu na göre istisna kapsamındaki intikallerden biridir?",
+    "options": [
+      "A) Mirasta kalan ticari işletme",
+      "B) Mirasta kalan kira geliri olan işyeri",
+      "C) Veraset yoluyla intikal eden şahsi eşya",
+      "D) Hisseli arsa intikali",
+      "E) Bankadaki nakit mevduat"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Banka ve Sigorta Muameleleri Vergisi'nin mükellefi kimdir?",
+    "options": [
+      "A) Bankalar, bankerler ve sigorta şirketleri",
+      "B) Sadece bankalar",
+      "C) Bankalar ve sigorta acenteleri",
+      "D) Sigorta acenteleri",
+      "E) Noterler"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Aşağıdakilerden hangisi teslim sayılan hallerden biridir?",
+    "options": [
+      "A) Vergiye tabi malın işletmeden çekilip personele hediye edilmesi",
+      "B) Depoda stok sayımı yapılması",
+      "C) Malların imha edilmesi",
+      "D) Malın yurt dışına ihraç edilmesi",
+      "E) Malın sipariş edilmesi"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "MTV Kanununa göre otomobil tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) En çok 10 oturma yeri olan araçlar",
+      "B) Yalnız sürücü dahil 4 kişilik araçlar",
+      "C) Sürücüsü dahil en çok 8 oturma yeri olan ve insan taşımak için imal edilmiş motorlu araç",
+      "D) İnsan ve yük taşımaya elverişli her araç",
+      "E) Yalnız binek olarak kullanılan her araç"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Elbirliği mülkiyetinde bir binaya ait Bina Vergisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Her bir malik hissesi oranında sorumludur",
+      "B) Her malik sadece kendi payı kadar vergi öder, başkasından sorumlu değildir",
+      "C) Vergi sadece adına tebligat yapılan malike aittir",
+      "D) Vergi sadece çoğunluk payına sahip olana aittir",
+      "E) Malikler vergiden müteselsilen sorumludur"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Yabancı memleketlerde veya yabancı elçilik/konsolosluklarda düzenlenen kağıtların vergisini kim öder?",
+    "options": [
+      "A) Her durumda düzenleyen",
+      "B) İlk lehtar",
+      "C) Türkiye'de bu kâğıdı resmi dairelere ibraz eden, üzerlerinde devir/ciro yapan veya hükümlerinden faydalananlar",
+      "D) Sadece Türkiye'de ilk cirantası",
+      "E) Yalnız ithalatçı"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Mücbir sebep halinin varlığı halinde, Vergi Usul Kanunu na göre süreler hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Normal şekilde işlemeye devam eder.",
+      "B) Süreler durur, mücbir sebep kalkıncaya kadar işlemez.",
+      "C) Yarıya indirilir.",
+      "D) Süreler tamamen ortadan kalkar.",
+      "E) Sadece ödeme süreleri durur, diğerleri işlemez."
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Aşağıdakilerden hangisi ikmalen vergi tarhı için zorunlu unsurlardan biridir?",
+    "options": [
+      "A) Hiç vergi tarh edilmemiş olması",
+      "B) Mutlaka takdir komisyonu kararı bulunması",
+      "C) Daha önce bir vergi tarh edilmiş olması",
+      "D) Defter ve belgelerin hiç ibraz edilmemiş olması",
+      "E) Mükellefin beyanname vermemiş olması"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Mükellef A, Eylül 2025 tarihinde KDV beyannamesini vermiştir. İlgili beyan ile ilgili tahsil zaman aşımı hangi tarihte dolar?",
+    "options": [
+      "A) 01.01.2031",
+      "B) 01.01.2030",
+      "C) 31.12.2031",
+      "D) 31.12.2030",
+      "E) 30.12.2031"
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "ABC anonim şirketi demirbaşları için normal amortisman yöntemini kullanmaktadır. İlgili demirbaşın faydalı ömrü 8 yıldır. Makinanın maliyet bedeli 100.000 TL'dir.<br><br>İlgili makine için yıllık olarak ayrılması gereken amortisman tutarı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 12.500",
+      "B) 25.000",
+      "C) 20.000",
+      "D) 8.000",
+      "E) 16.000"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Ticari faaliyet ile iştigal eden Mükellef A'ya vergi uyuşmazlığı sonucunda 12.000 TL tutarında 2. derece usulsüzlük ve 15.000 TL tutarında vergi ziyaı cezası kesilmiştir.<br><br>Mükellefin ödemesi gereken toplam ceza tutarı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 12.000TL",
+      "B) 15.000TL",
+      "C) 27.000TL",
+      "D) 13.500TL",
+      "E) 22.500TL"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "2025 yılında bir tek işverenden aylık 400.000 TL Ücret alan Mükellef i ile ilgili aşağıda belirtilenlerden hangisi doğrudur?",
+    "options": [
+      "A) Toplam yıllık maaşı kanunda belirtilen 2026 gelir vergisi dilimlerinden 4. dilimi aşmadığından mükellefin beyanname vermesine gerek yoktur",
+      "B) Toplam yıllık maaşı kanunda belirtilen 2025 gelir vergisi dilimlerinden 2. dilimi aştığı için mükellef gelir vergisi beyannamesi verecektir",
+      "C) Toplam yıllık maaşı kanunda belirtilen 2025 gelir vergisi dilimlerinden 4. dilimi aştığı için mükellef gelir vergisi beyannamesi verecektir",
+      "D) Mükellefin çalıştığı iş yerinde ücretinden kesinti suretiyle vergilendirilmesi yeterlidir",
+      "E) Mükellef bir takvim yılında tek bir iş verenden ücret geliri elde ettiği için ayrıca beyanname vermesi şarttır"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "Mükellef (A), sahibi olduğu daireyi konut olarak kiraya vermesi sonucunda 2025 yılında toplam 647.000 TL kira geliri elde etmiştir. Mükellef, Türkiye'de yerleşik ve merkezi Türkiye'de bulunan sigorta şirketi nezdinde, kendisine ait hayat sigortası için 250.000 TL ödeme yapmıştır.<br><br>Beyana tabi başka geliri bulunmayan mükellef, götürü gider yöntemini seçmiştir. Binaların konut olarak kiraya verilmesinden bir takvim yılı içinde elde edilen hasılatın 2025 yılı için 47.000 TL'si gelir vergisinden istisna edilmiştir.<br><br>Beyana tabi geliri (matrah) hesaplayınız.",
+    "options": [
+      "A) 647.000TL",
+      "B) 600.000TL",
+      "C) 433.500TL",
+      "D) 385.000TL",
+      "E) 260.000TL"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "ABC A.Ş. maliyet bedeli 100 TL, emsal satış bedeli 110 TL olan ürünü, ortağı olduğu, Hollanda mukimi BCD şirketine 90 TL ye satmıştır.<br><br>Bu olayda transfer fiyatlandırması yoluyla örtülü kazanç dağıtımı var mıdır? Varsa, transfer fiyatlandırması yoluyla dağıtılan örtülü kazanç tutarı kaç TL dir?",
+    "options": [
+      "A) 80 TL",
+      "B) 100 TL",
+      "C) 85 TL",
+      "D) 15 TL",
+      "E) 20 TL"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Vergi Mevzuatı ve Uygulaması",
+    "q": "İmalatçı firma A Mart 2025 döneminde ABC AŞ..'ye 6 000 000 TL, ihracatçı bir firmaya da ihraç kaydıyla 10 000 000 TL tutarında eşya teslim etmiştir..(A)'nın bu döneme ait toplam KDV indirimi 1 800 000 TL'dir. İhracatçı firma, Mayıs/2025 döneminde ihracatı gerçekleştirmiştir.<br><br>(A)'nın alacağı iade tutarı kaç TL'dir? (Vergi Oranı 20 olarak dikkate alınacaktır.)",
+    "options": [
+      "A) 2 000 000 TL",
+      "B) 1 400 000 TL",
+      "C) 600 000 TL",
+      "D) 3 200 000 TL",
+      "E) 1 800 000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Meslek unvanlarını haksız kullananlar hakkında odaların yükümlülüğü nedir?",
+    "options": [
+      "A) İdari para cezası kesmek",
+      "B) Ruhsat iptali yapmak",
+      "C) Birliğe yazılı ihtar göndermek",
+      "D) Meslekten men kararı vermek",
+      "E) Cumhuriyet Savcılığına bildirimde bulunmak"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Dürüst, güvenilir ve tarafsız olma ilkesine göre aşağıdakilerden hangisi meslek mensubunun çalışma başarısının temel şartları arasında sayılmıştır?",
+    "options": [
+      "A) Reklam yapabilme serbestisi",
+      "B) Çıkar çatışmalarından uzak kalma ve mesleki özen",
+      "C) Asgari ücret tarifesinin üstünde ücret alma",
+      "D) Tek başına çalışma zorunluluğu",
+      "E) Müşteri bilgilerini meslektaşlarla paylaşma mecburiyeti"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Aşağıdakilerden hangisi Disiplin Yönetmeliğine göre geçici men cezası gerektiren bir durumdur?",
+    "options": [
+      "A) Mesleğin yürütülmesi esnasında; görevi ile ilgisi olmayan konularda, çıkar çatışmalarına taraf olunması",
+      "B) Yeminli mali müşavirlerce, eşinin üçüncü derece kan ve sıhri hısımlarının firmalarının işlerine bakılması",
+      "C) Yeminli mali müşavirlerce, tasdike ilişkin yasal düzenlemelerdeki ilke ve kurallarla, ilan olunmuş norm ve standartlara kasten aykırı davranılması veya tasdik yetkisinin kasten gerçeğe aykırı olarak kullanılması.",
+      "D) Yeminli Mali Müşavirlerin, mükerrer şekilde, tasdike ilişkin yasal düzenlemelerdeki ilke ve kurallarla, ilan olunmuş norm ve standartlara kasten aykırı davrandıklarının veya tasdik yetkilerini mükerreren kasten gerçeğe aykırı olarak kullandıklarının anlaşılması ve bu durumun mahkeme kararı ile kesinleşmesi",
+      "E) Başka meslek mensuplarının ad ve unvanları kullanılarak, beyanname düzenlenmesi ve imzalanması"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Bağımsız veya bağımlı çalışan meslek mensubu tehditlere karşı uygun önlemler alamıyorsa kavramsal çerçeveye göre aşağıdaki sonuçlardan hangisi beklenir?",
+    "options": [
+      "A) Bağımsız çalışan hizmeti sürdürür; bağımlı çalışan sessiz kalır",
+      "B) Bağımsız çalışan istifa eder, bağımlı çalışan hizmeti azaltır",
+      "C) Her iki grup da sadece müşteriden yazılı taahhüt alır",
+      "D) Her iki grup da sadece meslek odasına bilgi verir",
+      "E) Bağımsız çalışan hizmeti azaltır/sona erdirir; bağımlı çalışan işveren işletmedeki görevinden istifa eder"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Aşağıdakilerden hangisi yönetmelikte sayılan reklam yoluyla haksız rekabet hallerinden biridir?",
+    "options": [
+      "A) Meslek mensubunun broşür bastırması",
+      "B) Meslek mensubunun seminer düzenlemesi",
+      "C) Kendisi/hizmetleri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunmak",
+      "D) Meslek mensubunun oda sicil numarasını kartvizite yazması",
+      "E) Meslek mensubunun konferans düzenlemesi"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Özel kaşelerin şekline ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Kaşeler kare şeklinde olup, en üste \"TC\" rumuzu, altına \"İlgili Oda İsmi\" yazısı ve \"Mm\" amblemi, \"Serbest Muhasebeci Mali Müşavir\" ibaresi ile kaşe numarasını",
+      "B) Kaşeler daire şeklinde olup, en üste \"TC\" rumuzu, altına \"TÜRMOB\" yazısı ve \"Mm\" amblemi, \"Serbest Muhasebeci Mali Müşavir\" ibaresi ile kaşe numarasını taşır.",
+      "C) Kaşeler kare şeklinde olup, en üste \"TC\" rumuzu, altına \"TÜRMOB\" yazısı ve \"Mm\" amblemi, Serbest Muhasebeci veya \"Serbest Muhasebeci Mali Müşavir\" veya \"Yeminli Mali Müşavir\" ibaresi ile kaşe numarasını taşır.",
+      "D) Kaşeler kare şeklinde olup, en üste \"TC\" rumuzu, altına \"TÜRMOB\" yazısı ve \"Mm\" amblemi, Serbest Muhasebeci veya \"Serbest Muhasebeci Mali Müşavir\" ibaresi ile kaşe numarasını taşır.",
+      "E) Kaşeler kare şeklinde olup, en üste \"TC\" rumuzu, altına \"TÜRMOB\" yazısı ve \"Mm\" amblemi, \"Serbest Muhasebeci\" ibaresi ile kaşe numarasını taşır."
+    ],
+    "answer": 3
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "SMMM Ve YMM Odaları İle TÜRMOB Organlarının Denetimi Hakkında Yönetmeliğe göre denetim sonucunda suç unsuru tespit edilirse raporun bir örneği nereye gönderilir?",
+    "options": [
+      "A) Oda yönetim kuruluna",
+      "B) İl Cumhuriyet Savcılığına",
+      "C) Sayıştay'a",
+      "D) Gelir İdaresi Başkanlığına",
+      "E) Birlik disiplin kuruluna"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Adayların ilk sınava başvurusu açısından doğru ifade hangisidir?",
+    "options": [
+      "A) İlk sınavda sadece adayın seçtiği derslerden başvurulabilir",
+      "B) İlk sınavda ilgili maddede yer alan tüm konulardan başvurması zorunludur",
+      "C) İlk sınavda en az dört dersten başvuru yapılması zorunludur",
+      "D) İlk sınav başvurusu adayın kendi el yazısıyla doldurulmuş dilekçe ile yapılır",
+      "E) İlgili bölümlerden doktora yapmış ve tezlerini teslim etmiş olanlar belirli derslerden muaf tutulabilir"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Staja giriş sınavında başarılı olan bir aday, sınav sonucunun açıklandığı tarihten itibaren kaç yıl içinde staja başlamazsa sınav sonucu geçersiz sayılır?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 5 yıl",
+      "E) Süresizdir"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "SÜRGEM'in işlem ve hesapları kim tarafından denetlenir?",
+    "options": [
+      "A) Bakanlık denetim elemanları",
+      "B) TESMER Denetim Kurulu",
+      "C) Birlik Denetleme Kurulu",
+      "D) Bağımsız denetim kuruluşları",
+      "E) Oda Denetleme Kurulu"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Yeminli mali müşavirin tasdik işini kabul etmeden önce yapması gereken temel işlem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Ücret pazarlığı yapmak",
+      "B) Mükellefin bilanço büyüklüğünü öğrenmek",
+      "C) Üstleneceği tasdik işleminin riskini tespit edip kapsam ve programını belirlemek",
+      "D) Bakanlıktan izin almak",
+      "E) Oda yönetimine bildirim yapmak"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Raporlarla ilgili aşağıdakilerden hangisi zorunlu kurallardan biridir?",
+    "options": [
+      "A) Düzenleme amacının belirtilmesi",
+      "B) Hukuki terim ağırlıklı olması",
+      "C) Serbest formatta düzenlenmesi",
+      "D) Uzun ve ayrıntılı yazılması",
+      "E) Noter tasdiki yapılması"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Tarifelerde denetim ücretleri nasıl belirlenir?",
+    "options": [
+      "A) Denetim çeşitlerine göre kademelendirilerek",
+      "B) İşletme büyüklüğüne bakılmaksızın sabit ücret",
+      "C) Tüm denetimler için tek ücret",
+      "D) Yüzde esasına göre zorunlu olarak",
+      "E) Bakanlıkça tek tip olarak"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Birlik payı, odaların brüt gelirlerinin en fazla yüzde kaçına kadar belirlenebilir?",
+    "options": [
+      "A) %5",
+      "B) %8",
+      "C) %12",
+      "D) %15",
+      "E) %10"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Unvanların haksız kullanımı kuralına aykırı davrananlara hangi yaptırım öngörülmüştür?",
+    "options": [
+      "A) Altı aydan bir yıla kadar hapis ve adlî para cezası",
+      "B) Sadece disiplin cezası",
+      "C) Sadece yüz güne kadar adli para cezası",
+      "D) Bir yıldan üç yıla kadar hapis",
+      "E) İdari para cezası ve faaliyet durdurma"
+    ],
+    "answer": 0
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Meslek mensubu unvanını kazanmaksızın birden fazla müessese/kuruluşta Kanun 2. Maddesinde sayılan İşleri yapanların faaliyeti ne sayılır?",
+    "options": [
+      "A) Serbest rekabet",
+      "B) Danışmanlık faaliyeti",
+      "C) Meslek unvanlarının haksız kullanılması",
+      "D) İrtibat bürosu faaliyeti",
+      "E) Bağımsız denetim"
+    ],
+    "answer": 2
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Disiplin yönetmeliğine göre, adresin yanlış, değişmiş veya bilinmemesi nedeniyle bildirim yapılamazsa izlenecek süreçte doğru sıra hangisidir?",
+    "options": [
+      "A) e Birlik üzerinden bildirim + eş zamanlı SMS → 30 gün içinde ilan tahtasına duyuru→ askıdan indirimden itibaren 5 gün içinde gelmezse tebliğ edilmiş sayılır",
+      "B) e Birlik üzerinden bildirim + eş zamanlı SMS → 7 gün içinde ilan tahtasına duyuru askıdan indirimden itibaren 5 gün içinde gelmezse tebliğ edilmiş sayılır",
+      "C) e Birlik üzerinden bildirim + eş zamanlı SMS → 15 gün içinde ilan tahtasına duyuru askıdan indirimden itibaren 5 gün içinde gelmezse tebliğ edilmiş sayılır",
+      "D) e Birlik üzerinden bildirim + eş zamanlı SMS → 7 gün içinde ilan tahtasına duyuru askıdan indirimden itibaren 7 gün içinde gelmezse tebliğ edilmiş sayılır",
+      "E) e Birlik üzerinden bildirim + eş zamanlı SMS → 7 gün içinde ilan tahtasına duyuru askıdan indirimden itibaren 15 gün içinde gelmezse tebliğ edilmiş sayılır"
+    ],
+    "answer": 1
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Aşağıdakilerden hangisi Etik Yönetmeliği kapsamındaki \"iş çevresinde firma çapında\" alınacak önlemlerden değildir?",
+    "options": [
+      "A) Firmanın temel etik ilkelere uyumun önemini vurgulamak.",
+      "B) Güvence sözleşmesi ekibinin kamu yararına uygun davranacağına dair beklenti oluşturmak.",
+      "C) Sözleşmelerde kalite kontrolünün uygulanması ve izlenmesine yönelik politika ve süreçler oluşturmak.",
+      "D) Etik tehditleri belirleme, önemini değerlendirme ve gerekli önlemleri yazılı politikalarla uygulamak.",
+      "E) Dosya bazında gözden geçirme yapmak"
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Aşağıdakilerden hangisi meslek mensupları arasında ve iş sahipleriyle ilişkilerde haksız rekabet kapsamında değildir?",
+    "options": [
+      "A) İzinsiz olarak faaliyette bulunmak, yetki belgeleri ve ruhsatları iptal olduğu halde doğrudan veya dolaylı olarak mesleki faaliyete devam etmek veya faaliyetleri geçici olarak durdurulduğu halde mesleki faaliyetlere doğrudan devam etmek",
+      "B) Mesleği yapmaları yasaklananları çalıştırmak veya bu kişilerle her ne şekilde olursa olsun doğrudan veya dolaylı olarak mesleki işbirliği yapmak.",
+      "C) Bağımlı çalışan meslek mensupları bakımından aynı anda birden çok işletmede mesleki sorumluluk üstlenmek.",
+      "D) Bir diğer meslek mensubunun çalışanlarını ve diğer yardımcı kişileri her türlü vasıtayla meslek mensuplarının veya iş sahiplerinin iş sırlarını ele geçirmeye veya açıklamaya yöneltmek",
+      "E) Üçüncü kişilere ücret ya da herhangi bir menfaat sağlamak veya vaat etmek suretiyle iş almak."
+    ],
+    "answer": 4
+  },
+  {
+    "ders": "Meslek Hukuku",
+    "q": "Birlik Denetleme Kurulu üyeleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Tüm üyelerin YMM olması zorunludur",
+      "B) Disiplin cezası verebilir",
+      "C) Doğrudan maliye bakanlığına rapor verirler",
+      "D) Yönetim Kurulu kararlarını iptal eder",
+      "E) En az bir üyenin YMM olması zorunludur"
+    ],
+    "answer": 4
+  }
+ ]
 }
 
 
