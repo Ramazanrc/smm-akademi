@@ -10814,7 +10814,7 @@
       "answer": 1
     }
  ],
-  "Çalışma Soruları (Genel-1)": [
+  "Çalışma Soruları (Vergi)": [
   {
      "q": "Gelir İdaresi Başkanlığı sistemlerinde yer alan bilgilerin paylaşılması karşılığında alınan bedele ne ad verilir?",
      "options": [
@@ -10990,6 +10990,17 @@
       "E) Mayıs"
     ],
     "answer": 2
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'nun beyan esasına ilişkin düzenlemelerine göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı üzerine tarh olunur.",
+      "B) Mükelleflerin şubeleri için, bunların bağımsız muhasebeleri ve ayrılmış sermayeleri varsa, ayrı beyanname verilir.",
+      "C) Tüzel kişiliği bulunmayan vakıflara ait iktisadi işletmelerden her biri için, bağlı olduğu vakıflar tarafından ayrı beyanname verilir.",
+      "D) Kooperatiflerin gelirlerinin vergi kesintisine tabi tutulan taşınmaz kira gelirlerinden ibaret olması hâlinde, bu gelirler için beyanname verilmez.",
+      "E) Mükellefin bağlı olduğu vergi dairesi, kurumun kanuni veya iş merkezinin bulunduğu yerin vergi dairesidir."
+    ],
+    "answer": 1
   },
   {
     "q": "Vergi Usul Kanunu’na göre vergi hataları kaça ayrılır?",
