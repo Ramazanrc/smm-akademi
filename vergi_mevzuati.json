@@ -10814,6 +10814,361 @@
       "answer": 1
     }
  ],
+  "Çalışma Soruları (Genel-1)": [
+  {
+     "q": "Gelir İdaresi Başkanlığı sistemlerinde yer alan bilgilerin paylaşılması karşılığında alınan bedele ne ad verilir?",
+     "options": [
+      "A) Katılma payı",
+      "B) Harç",
+      "C) Şerefiye",
+      "D) Maliyet bedeli",
+      "E) Satınalma bedeli"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 488 sayılı Damga Vergisi Kanunu'na ekli (1) sayılı tabloda yer alan ve damga vergisine tabi tutulacak kâğıtlardan biri değildir?",
+    "options": [
+      "A) Bilançolar",
+      "B) Konşimentolar",
+      "C) Hisse senetleri ve her türlü tahvillerin temettü ve faiz kuponları",
+      "D) Gelir tabloları",
+      "E) Katma değer vergisi beyannameleri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 488 sayılı Damga Vergisi Kanunu uygulamasında resmî daire sayılmaz?",
+    "options": [
+      "A) İl özel idaresi",
+      "B) Yatırım İzleme ve Koordinasyon Başkanlığı",
+      "C) Resmî daireye bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletme",
+      "D) Özel bütçeli idare",
+      "E) Genel bütçeli idare"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre, veraset ve intikal vergisinden müstesna değildir?",
+    "options": [
+      "A) Cumhurbaşkanınca vergi muafiyeti tanınan vakıflara kuruluşu için veya kurulduktan sonra tahsis olunan mallar",
+      "B) Genel bütçeye dahil dairelerle katma bütçeli idareler bütçelerinden kamu iktisadi teşebbüslerine yapılacak iktisadi transferler ve yardımlar",
+      "C) Bilumum sadakalar",
+      "D) Örf ve âdete göre verilmesi mutat bulunan gayrimenkuller",
+      "E) Veraset tariki ile intikal eden ev eşyası ile murise ait zat eşyası"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "7338 sayılı Veraset ve İntikal Vergisi Kanunu uyarınca, bilanço esasına göre defter tutanlarda ölüm tarihine takaddüm eden takvim yılı bilançosuna göre bulunacak öz sermaye aşağıdaki hangisi ile ifade edilir?",
+    "options": [
+      "A) Esham",
+      "B) Ticari sermaye",
+      "C) Tahvilat",
+      "D) Ticari zarar",
+      "E) Ticari kar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre, bu vergiye mevzu olacak mallar için, miras yoluyla vukubulan intikallerde mirasın açıldığı, diğer suretle vaki intikallerde malların hukuken iktisabedildiği gün aşağıdakilerden hangisi ile ifade edilir?",
+    "options": [
+      "A) Tahakkuk günü",
+      "B) Zamanaşımı başlangıç günü",
+      "C) Değerleme günü",
+      "D) Ödeme günü",
+      "E) Tahsil günü"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Veraset ve intikal vergisinin mükellefi, veraset tarikiyle veya ivazsız bir tarzda mal iktisabeden şahıstır.",
+      "B) Veraset tarikiyle mal iktisap edenler, muafiyet ve istisna koşullarını dikkate alarak iktisap ettikleri malları bir beyanname ile bildirmek zorundadır.",
+      "C) Veraset tabiri; hibe yolu ile veya herhangi bir tarzda olan ivazsız iktisapları ifade eder.",
+      "D) Gayrimenkul hariç, örf ve âdete göre verilmesi mutat bulunan hediye, veraset ve intikal vergisinden istisnadır.",
+      "E) Veraset ve intikal vergisinin matrahı, intikal eden malların Vergi Usul Kanunu'na göre bulunan değerleridir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türkiye'de uygulanmakta olan aşağıdaki vergilerden hangisinin tarifesi çifte artan oranlılık özelliği taşımaktadır?",
+    "options": [
+      "A) Gelir vergisi",
+      "B) Kurumlar vergisi",
+      "C) Veraset ve intikal vergisi",
+      "D) Katma değer vergisi",
+      "E) Dijital hizmet vergisi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, arsa ve araziler için takdir komisyonlarınca takdir olunan birim değeri, binalar için metrekare normal inşaat maliyetleriyle arsa veya arsa payı değeri esas alınarak hesaplanan bedele verilen ad aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İtibari değer",
+      "B) Tasarruf değeri",
+      "C) Mukayyet değer",
+      "D) Vergi değeri",
+      "E) Rayiç değer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, büyükşehir belediyesi sınırları dışında olan yerlerde bulunan vergiye tabi meskenler için bina vergisinin kanuni oranı binde kaçtır?",
+    "options": [
+      "A) Bir",
+      "B) İki",
+      "C) Üç",
+      "D) Dört",
+      "E) Beş"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, değerli konut vergisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Değerli konut vergisini taşınmazların maliki, varsa intifa hakkı sahibi, her ikisi de yoksa taşınmaza malik gibi tasarruf edenler öder.",
+      "B) Gerek mesken nitelikli gerekse kayıtlarda işyeri olarak gözüküp fiilen de işyeri olarak kullanılan taşınmazlar değerli konut vergisinin konusunu oluşturur.",
+      "C) Taşınmaza paylı mülkiyet hâlinde malik olanlar, hisseleri oranında mükelleftirler.",
+      "D) Taşınmaza elbirliği mülkiyeti şeklinde malik olan kişiler vergiden müteselsilen sorumlu olurlar.",
+      "E) Türkiye sınırları içinde mesken nitelikli tek taşınmazı olanların bu taşınmazı değerli konut vergisinden muaftır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "A) Türkiye sınırları içinde bulunan işyeri niteliğindeki taşınmazlardan belli değerin üzerinde bina vergi değeri olanlar değerli konut vergisine tabidir.",
+      "B) Bina, arsa ya da arazi gibi taşınmazlara ilişkin vergiler belediyeler tarafından tahsil edilir.",
+      "C) Emlak vergisi birinci taksidi Mart, Nisan ve Mayıs aylarında, ikinci taksidi Kasım ayı içinde olmak üzere iki eşit taksitte ödenir.",
+      "D) Bina vergisini binanın maliki, varsa intifa hakkı sahibi, her ikisi de yoksa binaya malik gibi tasarruf edenler öder.",
+      "E) Elbirliği mülkiyette malikler vergiden müteselsilen sorumlu olurlar."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Gelir Vergisi Kanunu’na göre ticari kazanç sayılmaz?",
+    "options": [
+      "A) Her türlü ticari faaliyet kazançları",
+      "B) Serbest meslek faaliyetinden elde edilen gelir",
+      "C) Ticari işletmeye bağlı faaliyetlerden doğan kazanç",
+      "D) Şirket ortaklığından elde edilen paylar",
+      "E) Ticari organizasyon içinde yapılan faaliyetlerden elde edilen kazanç"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "GVK’ya göre aşağıdakilerden hangisi ücret sayılmaz?",
+    "options": [
+      "A) İşverene tabi olarak yapılan hizmet karşılığı ödemeler",
+      "B) Primler ve ikramiyeler",
+      "C) Huzur hakları",
+      "D) Serbest meslek kazançları",
+      "E) Tazminatlar (belirli şartlarda)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "GVK’ya göre aşağıdakilerden hangisi gerçek usulde vergilendirilir?",
+    "options": [
+      "A) Basit usule tabi esnaf",
+      "B) Ücret geliri elde edenler",
+      "C) Serbest meslek erbabı",
+      "D) Sadece kira geliri elde edenler",
+      "E) Zirai kazanç sahipleri (küçük çiftçi)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "GVK’ya göre yıllık beyanname verme zamanı genel olarak hangi aydır?",
+    "options": [
+      "A) Ocak",
+      "B) Şubat",
+      "C) Mart",
+      "D) Nisan",
+      "E) Mayıs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vergi Usul Kanunu’na göre vergi hataları kaça ayrılır?",
+    "options": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 5",
+      "E) 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "VUK’a göre aşağıdakilerden hangisi defter tutmak zorunda değildir?",
+    "options": [
+      "A) Ticaret şirketleri",
+      "B) Serbest meslek erbabı",
+      "C) Çiftçiler (belirli şartlarda)",
+      "D) Kamu idareleri",
+      "E) Tacirler"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VUK’a göre amortisman ayırma şartlarından biri aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Değerinin düşük olması",
+      "B) Bir yıldan fazla kullanılması",
+      "C) Tüketim malı olması",
+      "D) Kısa vadeli olması",
+      "E) Hizmet amaçlı olmaması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VUK’a göre pişmanlık hükümlerinden yararlanmak için aşağıdakilerden hangisi gereklidir?",
+    "options": [
+      "A) İhbar edilmeden önce başvuru yapılması",
+      "B) Cezanın ödenmemesi",
+      "C) Dava açılması",
+      "D) Verginin ödenmemesi",
+      "E) İnceleme başlatılmış olması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Katma Değer Vergisi Kanunu’na göre KDV’nin konusu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Gelir",
+      "B) Servet",
+      "C) Harcama",
+      "D) Kazanç",
+      "E) Tasarruf"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "KDV’de vergiyi doğuran olay ne zaman meydana gelir?",
+    "options": [
+      "A) Sözleşme yapılınca",
+      "B) Mal teslimi veya hizmet ifası ile",
+      "C) Fatura kesildiğinde",
+      "D) Tahsilat yapıldığında",
+      "E) Beyanname verildiğinde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi KDV’den istisnadır?",
+    "options": [
+      "A) Her türlü mal teslimi",
+      "B) İhracat işlemleri",
+      "C) Yurt içi satışlar",
+      "D) Hizmet sunumları",
+      "E) Ticari kazançlar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Özel Tüketim Vergisi Kanunu’na göre aşağıdakilerden hangisi ÖTV’ye tabidir?",
+    "options": [
+      "A) Ekmek",
+      "B) Temel gıda",
+      "C) Akaryakıt",
+      "D) Eğitim hizmeti",
+      "E) Sağlık hizmeti"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ÖTV hangi aşamada alınır?",
+    "options": [
+      "A) Her satışta",
+      "B) İlk iktisap veya üretim aşamasında",
+      "C) Nihai tüketimde",
+      "D) Beyanname aşamasında",
+      "E) İthalat sonrası her aşamada"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu’na göre aşağıdakilerden hangisi kurumlar vergisi mükellefidir?",
+    "options": [
+      "A) Gerçek kişiler",
+      "B) Adi ortaklıklar",
+      "C) Sermaye şirketleri",
+      "D) Esnaf",
+      "E) Ücretliler"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "KV’ya göre kurum kazancı hangi vergi türüne girer?",
+    "options": [
+      "A) Dolaylı vergi",
+      "B) Servet vergisi",
+      "C) Gelir üzerinden alınan vergi",
+      "D) Harcama vergisi",
+      "E) Özel vergi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kurumlar vergisi oranı aşağıdakilerden hangisidir? (genel oran)",
+    "options": [
+      "A) %10",
+      "B) %15",
+      "C) %20",
+      "D) %25",
+      "E) %30"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumlar vergisinde beyanname verme süresi hangi aydır?",
+    "options": [
+      "A) Ocak",
+      "B) Şubat",
+      "C) Mart",
+      "D) Nisan",
+      "E) Mayıs"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun’na göre kamu alacaklarının tahsilinde hangi yöntem kullanılır?",
+    "options": [
+      "A) İcra iflas",
+      "B) Haciz",
+      "C) Uzlaşma",
+      "D) Tahakkuk",
+      "E) Beyan"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "AATUHK’a göre ödeme emrine karşı dava açma süresi kaç gündür?",
+    "options": [
+      "A) 7",
+      "B) 10",
+      "C) 15",
+      "D) 30",
+      "E) 60"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "AATUHK’a göre teminat türlerinden biri değildir?",
+    "options": [
+      "A) Nakit para",
+      "B) Banka teminat mektubu",
+      "C) Hisse senedi",
+      "D) Gayrimenkul rehni",
+      "E) Devlet tahvili"
+    ],
+    "answer": 2
+  }
+],
+
   "Deneme Sınavı 01 (Genel Tarama)":   [
   {
     "q": "213 sayılı VUK'da yer alan \"Vergi kanunları lafzı ve ruhu ile hüküm ifade eder\" hükmündeki \"ruhu\" ifadesi aşağıdakilerden hangisiyle ilişkilendirilebilir?",
