@@ -5021,7 +5021,7 @@
       "A) Yönetim Kurulu, 4 asıl ve 5 yedek üyeden oluşur.",
       "B) Yönetim Kurulu, 5 asıl ve 5 yedek üyeden oluşur.",
       "C) Yönetim Kurulu, 6 asıl ve 5 yedek üyeden oluşur.",
-      "D) Yönetim Kurulu, 6 asıl ve 5 yedek üyeden oluşur.",
+      "D) Yönetim Kurulu, 6 asıl ve 3 yedek üyeden oluşur.",
       "E) Yönetim Kurulu, 9 asıl ve 5 yedek üyeden oluşur."
     ],
     "answer": 1
@@ -5623,7 +5623,7 @@
   {
     "q": "Aşağıdaki konulardan hangisinde sözleşme yapılması zorunludur?<br><br>I) Süreklilik arz eden müşavirlik hizmetleri<br>II) İnceleme, Tahlil<br>III) Denetim ve Rapor düzenleme işleri<br>IV) Tasdik<br>V) Kar-Zarar Tablosu düzenlemek",
     "options": [
-      "A) I-II-III-IV",
+      "A) I-III-IV-V",
       "B) II-III-V",
       "C) I-II-III-IV",
       "D) IV-V",
