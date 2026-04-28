@@ -443,7 +443,7 @@ function kilitAc() {
         let oturumKey = ""; 
 
         function getDosyaYolu(dersId) {
-            return (dersId === 'deneme_sinavi') ? 'deneme_sinavlari.json' : (dersId === 'vergi') ? 'vergi_mevzuati.json' : (dersId === 'muhasebe') ? 'muhasebe_denetimi.json' : (dersId === 'meslek') ? 'meslek_hukuku.json' : (dersId === 'sermaye') ? 'sermaye_piyasasi.json' : (dersId === 'maliyet') ? 'maliyet_muhasebesi.json' : (dersId === 'finansal_analiz') ? 'finansal_analiz.json' : (dersId === 'temel_hukuk') ? 'temel_hukuk.json' : (dersId === 'finansal_muhasebe') ? 'finansal_muhasebe.json' : (dersId === 'sgs') ? 'sgs_sorulari.json' : 'ana_soru_bankasi.json';
+            return (dersId === 'deneme_sinavi') ? 'deneme_sinavlari.json' : (dersId === 'vergi') ? 'vergi_mevzuati.json' : (dersId === 'muhasebe') ? 'muhasebe_denetimi.json' : (dersId === 'meslek') ? 'meslek_hukuku.json' : (dersId === 'sermaye') ? 'sermaye_piyasasi.json' : (dersId === 'maliyet') ? 'maliyet_muhasebesi.json' : (dersId === 'finansal_analiz') ? 'finansal_analiz.json' : (dersId === 'temel_hukuk') ? 'temel_hukuk.json' : (dersId === 'finansal_muhasebe') ? 'finansal_muhasebe.json' : (dersId === 'yeterlilik') ? 'yeterlilik_sorulari.json' : (dersId === 'sgs') ? 'sgs_sorulari.json' : 'ana_soru_bankasi.json';
         }
 
         if(isDenemeMode) {
@@ -543,7 +543,7 @@ function kilitAc() {
                     const dersIsimleri = {
                         'vergi': 'Vergi Mevzuatı', 'muhasebe': 'Muhasebe Denetimi', 'meslek': 'Meslek Hukuku', 
                         'sermaye': 'Sermaye Piyasası', 'maliyet': 'Maliyet Muhasebesi', 'finansal_analiz': 'Finansal Analiz', 
-                        'temel_hukuk': 'Temel Hukuk', 'finansal_muhasebe': 'Finansal Muhasebe', 'sgs': 'SGS Çıkmış Sorular'
+                        'temel_hukuk': 'Temel Hukuk', 'finansal_muhasebe': 'Finansal Muhasebe', 'yeterlilik': 'Yeterlilik Çıkmış Sorular', 'sgs': 'SGS Çıkmış Sorular'
                     };
 
                     sonuclar.forEach((data, i) => {
