@@ -9,6 +9,9 @@
     <link rel="apple-touch-icon" href="ikon.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
     <style>
         :root { --primary-orange: #f97316; --dark-blue: #0f172a; }
         body { background-color: #f8fafc; font-family: 'Inter', sans-serif; color: var(--dark-blue); }
@@ -29,8 +32,6 @@
         .btn-start:hover { background-color: #ea580c; color: white; }
         .badge-demo { background: #e2e8f0; color: #475569; padding: 5px 12px; border-radius: 15px; font-size: 0.75rem; font-weight: 700; }
 
-        /* --- SENİN İÇİN EKLENEN YENİ PREMIUM CSS KODLARI --- */
-        
         /* Premium Banner Stili */
         .hero-banner {
             background: linear-gradient(135deg, #FF8C00 0%, #FF4500 100%);
@@ -45,7 +46,6 @@
         }
         .hero-banner h1 { font-weight: 800; font-size: 2.5rem; margin-bottom: 10px; }
         .hero-banner p { font-size: 1.1rem; opacity: 0.9; margin-bottom: 20px; }
-        
         .premium-btn {
             background: white; color: #FF4500; border: none;
             padding: 12px 25px; border-radius: 50px; font-weight: bold; font-size: 1.1rem;
@@ -54,92 +54,96 @@
         .premium-btn:hover { transform: scale(1.05); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
         .hero-icon { font-size: 5rem; line-height: 1; }
 
-        /* Modal ve Buzlu Cam Efekti */
-        .modal-overlay {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0, 0, 0, 0.6);
-            backdrop-filter: blur(10px); /* Buzlu Cam */
-            display: flex; justify-content: center; align-items: center;
-            z-index: 100000; /* Kilit ekranından bile üstte olsun */
+        /* --- MOD DEĞİŞTİRİCİ (Çalışma / Test) --- */
+        .mode-switcher-container {
+            display: flex; justify-content: center; margin-top: -25px; margin-bottom: 40px; position: relative; z-index: 10;
         }
-        .modal-content-custom {
-            background: white; padding: 30px; border-radius: 20px;
-            width: 90%; max-width: 550px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);
-            position: relative;
+        .mode-switcher {
+            background: white; padding: 8px; border-radius: 50px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); display: inline-flex; gap: 10px;
         }
+        .mode-btn {
+            padding: 12px 30px; border-radius: 50px; border: none; background: transparent; color: #64748b;
+            font-weight: 700; font-size: 1.1rem; cursor: pointer; transition: all 0.3s;
+        }
+        .mode-btn.active {
+            background: var(--dark-blue); color: white; box-shadow: 0 5px 15px rgba(15, 23, 42, 0.3);
+        }
+        .mode-btn:hover:not(.active) { color: var(--primary-orange); }
+
+        /* --- YENİ: ÖZET KARTLARINDA HİYERARŞİ (DERS ROZETİ) --- */
+        .ders-rozeti {
+            position: absolute; 
+            top: -15px; 
+            left: 50%; 
+            transform: translateX(-50%); 
+            background: var(--primary-orange); 
+            color: white; 
+            padding: 6px 20px; 
+            border-radius: 20px; 
+            font-size: 0.95rem; 
+            font-weight: 900; 
+            letter-spacing: 1px; 
+            box-shadow: 0 4px 10px rgba(249, 115, 22, 0.3);
+            text-transform: uppercase;
+        }
+
+        /* --- YENİ: OKUMA EKRANI STİLLERİ (RENKLİ BAŞLIKLAR) --- */
+        #okuma-ekrani {
+            background: white; padding: 40px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.05);
+            display: none; animation: fadeIn 0.4s;
+        }
+        /* H1 - Ana Başlıklar (Turuncu ve Çizgili) */
+        #okuma-metni h1 { color: var(--primary-orange); font-weight: 900; border-bottom: 3px solid #f1f5f9; padding-bottom: 10px; margin-top: 30px; margin-bottom: 20px; font-size: 2.2rem; }
+        /* H2 - Alt Başlıklar (Yeşil ve Çizgili) */
+        #okuma-metni h2 { color: #10b981; font-weight: 800; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; margin-top: 25px; margin-bottom: 15px; font-size: 1.8rem; }
+        /* H3 - Küçük Başlıklar (Mavi) */
+        #okuma-metni h3 { color: #2563eb; font-weight: 700; margin-top: 20px; margin-bottom: 10px; font-size: 1.4rem; }
+        
+        #okuma-metni p, #okuma-metni li { font-size: 1.1rem; color: #334155; line-height: 1.8; }
+        #okuma-metni strong { color: #0f172a; font-weight: 800; } /* Normal kalın yazılar koyu lacivert */
+        
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* Modal ve Kilit Ekranı (Mevcut) */
+        .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(10px); display: flex; justify-content: center; align-items: center; z-index: 100000; }
+        .modal-content-custom { background: white; padding: 30px; border-radius: 20px; width: 90%; max-width: 550px; box-shadow: 0 20px 50px rgba(0,0,0,0.3); position: relative; }
         .modal-header-custom { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px; }
         .modal-header-custom h2 { margin: 0; font-weight: 800; color: #0f172a; font-size: 1.5rem; }
         .close-icon { font-size: 1.5rem; font-weight: bold; color: #94a3b8; cursor: pointer; transition: 0.2s; }
         .close-icon:hover { color: #dc2626; }
-        
-        /* Aday İsim Girişi */
         .user-input-section { background: #f8fafc; padding: 15px; border-radius: 12px; margin-bottom: 25px; border-left: 4px solid #f97316; }
         .user-input-section label { font-weight: 600; color: #475569; display: block; margin-bottom: 5px; }
         .user-input-section input { width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 8px; font-size: 1rem; outline: none; transition: 0.3s; }
         .user-input-section input:focus { border-color: #f97316; box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.2); }
         .user-input-section small { color: #64748b; display: block; margin-top: 8px; }
-
-        /* Hap Butonlar (Chips) */
         .chips-container { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 25px; }
-        .chip {
-            display: inline-flex; align-items: center; padding: 8px 16px;
-            background: #f1f5f9; border: 2px solid #e2e8f0; border-radius: 50px;
-            color: #475569; font-weight: 600; font-size: 0.9rem;
-            cursor: pointer; transition: all 0.2s ease; user-select: none;
-        }
+        .chip { display: inline-flex; align-items: center; padding: 8px 16px; background: #f1f5f9; border: 2px solid #e2e8f0; border-radius: 50px; color: #475569; font-weight: 600; font-size: 0.9rem; cursor: pointer; transition: all 0.2s ease; user-select: none; }
         .chip:hover { border-color: #cbd5e1; background: #e2e8f0; }
         .chip.selected { background: #f97316; color: white; border-color: #f97316; }
         .chip i { margin-right: 8px; }
-
-        /* Sınav Özeti ve Başlat Butonu */
         .exam-summary { text-align: center; font-weight: 700; color: #334155; margin-bottom: 20px; font-size: 1.1rem; }
         .exam-summary span { color: #f97316; }
-        
-        .start-btn {
-            width: 100%; padding: 15px; border: none; border-radius: 12px;
-            background: #10b981; color: white; font-size: 1.2rem; font-weight: bold;
-            cursor: pointer; transition: 0.3s; box-shadow: 0 4px 6px rgba(16, 185, 129, 0.3);
-        }
+        .start-btn { width: 100%; padding: 15px; border: none; border-radius: 12px; background: #10b981; color: white; font-size: 1.2rem; font-weight: bold; cursor: pointer; transition: 0.3s; box-shadow: 0 4px 6px rgba(16, 185, 129, 0.3); }
         .start-btn:hover { background: #059669; transform: translateY(-2px); }
         .start-btn:disabled { background: #cbd5e1; cursor: not-allowed; box-shadow: none; transform: none; }
-
-        /* 3-2-1 Geri Sayım Ekranı */
-        .countdown-overlay {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(15, 23, 42, 0.9); backdrop-filter: blur(15px);
-            display: flex; flex-direction: column; justify-content: center; align-items: center;
-            z-index: 100001; color: white;
-        }
+        .countdown-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.9); backdrop-filter: blur(15px); display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 100001; color: white; }
         #countdown-number { font-size: 8rem; font-weight: 900; color: #f97316; text-shadow: 0 0 30px rgba(249, 115, 22, 0.6); margin-bottom: 10px; }
         .countdown-text { font-size: 2rem; font-weight: 700; letter-spacing: 5px; }
+
+        @media (max-width: 768px) { .hero-banner { flex-direction: column; text-align: center; } .hero-icon { margin-top: 20px; } }
         
-        /* Mobil Uyum İçin Ufak Dokunuş */
-        @media (max-width: 768px) {
-            .hero-banner { flex-direction: column; text-align: center; }
-            .hero-icon { margin-top: 20px; }
-        }
+        /* Kilit Ekranı */
+        #kilit-ekrani { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #0f172a; z-index: 99999; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; font-family: 'Inter', sans-serif; }
+        .kilit-kutu { background: white; color: #333; padding: 40px 30px; border-radius: 12px; text-align: center; box-shadow: 0 15px 30px rgba(0,0,0,0.5); max-width: 400px; width: 90%; border-top: 5px solid #f97316; }
+        .kilit-kutu input { width: 100%; padding: 12px; margin: 20px 0; border: 2px solid #e2e8f0; border-radius: 8px; font-size: 16px; text-align: center; outline: none; }
+        .kilit-kutu input:focus { border-color: #f97316; }
+        .kilit-kutu button { width: 100%; padding: 12px; background: #f97316; color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 16px; cursor: pointer; transition: background 0.3s; }
+        .kilit-kutu button:hover { background: #ea580c; }
+        .yasal-uyari-metni { margin-top: 30px; font-size: 12px; color: #94a3b8; text-align: center; max-width: 600px; padding: 0 20px; line-height: 1.5; }
     </style>
 </head>
 <body>
     
-<style>
-  #kilit-ekrani {
-    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-    background: #0f172a; z-index: 99999; 
-    display: flex; align-items: center; justify-content: center; flex-direction: column;
-    color: white; font-family: 'Inter', sans-serif;
-  }
-  .kilit-kutu {
-    background: white; color: #333; padding: 40px 30px; border-radius: 12px; text-align: center;
-    box-shadow: 0 15px 30px rgba(0,0,0,0.5); max-width: 400px; width: 90%; border-top: 5px solid #f97316;
-  }
-  .kilit-kutu input { width: 100%; padding: 12px; margin: 20px 0; border: 2px solid #e2e8f0; border-radius: 8px; font-size: 16px; text-align: center; outline: none; }
-  .kilit-kutu input:focus { border-color: #f97316; }
-  .kilit-kutu button { width: 100%; padding: 12px; background: #f97316; color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 16px; cursor: pointer; transition: background 0.3s; }
-  .kilit-kutu button:hover { background: #ea580c; }
-  .yasal-uyari-metni { margin-top: 30px; font-size: 12px; color: #94a3b8; text-align: center; max-width: 600px; padding: 0 20px; line-height: 1.5; }
-</style>
-
 <div id="kilit-ekrani">
   <div class="kilit-kutu">
     <h2 style="color: #0f172a; font-weight: 800; margin-bottom: 10px;">SMM AKADEMİ</h2>
@@ -153,28 +157,6 @@
   </div>
 </div>
 
-<script>
-window.addEventListener('DOMContentLoaded', () => {
-    if (localStorage.getItem("smm_giris_onayi") === "evet") {
-        const kilit = document.getElementById('kilit-ekrani');
-        if (kilit) kilit.style.display = "none";
-    }
-});
-
-function kilitAc() {
-    const girilenSifre = document.getElementById('giris-sifresi').value;
-    const kilitEkrani = document.getElementById('kilit-ekrani');
-    const hataMesaji = document.getElementById('sifre-hata');
-
-    if (girilenSifre === "smm2026") {
-        localStorage.setItem("smm_giris_onayi", "evet");
-        kilitEkrani.style.display = "none";
-    } else {
-        hataMesaji.style.display = "block";
-    }
-}
-</script>
-
 <div class="hero-section text-center">
     <div class="container">
         <h1 class="display-4 fw-bold">SMM AKADEMİ</h1>
@@ -185,124 +167,164 @@ function kilitAc() {
     </div>
 </div>
 
-<div class="container mt-5">
-    
-    <div id="exam-hero-banner" class="hero-banner">
-        <div class="hero-text">
-            <h1>Kendi Sınavını Tasarla</h1>
-            <p>Hedeflediğin dersleri seç, süreli denemeni hemen başlat.</p>
-            <button id="open-exam-setup" class="premium-btn">Deneme Sınavı Oluştur 🎯</button>
-        </div>
-        <div class="hero-icon">
-            <span class="main-icon">🖋️</span>
+<div class="container">
+    <div class="mode-switcher-container">
+        <div class="mode-switcher">
+            <button id="btn-test" class="mode-btn active" onclick="setMode('test')">🎯 Test Çözüm Modu</button>
+            <button id="btn-ozet" class="mode-btn" onclick="setMode('ozet')">📚 Çalışma (Özet) Modu</button>
         </div>
     </div>
 
-    <div class="row g-4 justify-content-start mt-2">
+    <div id="test-modu-icerik">
+        <div id="exam-hero-banner" class="hero-banner mt-3">
+            <div class="hero-text">
+                <h1>Kendi Sınavını Tasarla</h1>
+                <p>Hedeflediğin dersleri seç, süreli denemeni hemen başlat.</p>
+                <button id="open-exam-setup" class="premium-btn">Deneme Sınavı Oluştur 🎯</button>
+            </div>
+            <div class="hero-icon">
+                <span class="main-icon">🖋️</span>
+            </div>
+        </div>
+
+        <div class="row g-4 justify-content-start mt-2">
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('deneme_sinavi')">
+                    <div class="card-icon"><i class="fas fa-pen"></i></div>
+                    <h3 class="fw-bold">Deneme Sınavı</h3>
+                    <p class="text-muted small">Hazır kurumsal denemeler.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('vergi')">
+                    <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
+                    <h3 class="fw-bold">Vergi Hukuku</h3>
+                    <p class="text-muted small">Teknik analizli ve güncel mevzuat odaklı sorular.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('muhasebe')">
+                    <div class="card-icon"><i class="fas fa-calculator"></i></div>
+                    <h3 class="fw-bold">Muhasebe Denetimi</h3>
+                    <p class="text-muted small">SMM standartlarında hesap planı ve uygulama testleri.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('meslek')">
+                    <div class="card-icon"><i class="fas fa-gavel"></i></div>
+                    <h3 class="fw-bold">Meslek Hukuku</h3>
+                    <p class="text-muted small">3568 Sayılı Kanun ve Yönetmelikler.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('sermaye')">
+                    <div class="card-icon"><i class="fas fa-chart-line"></i></div>
+                    <h3 class="fw-bold">Sermaye Piyasası</h3>
+                    <p class="text-muted small">SPK Kanunu ve yatırım araçları mevzuatı.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('maliyet')">
+                    <div class="card-icon"><i class="fas fa-chart-line"></i></div>
+                    <h3 class="fw-bold">Maliyet Muhasebesi</h3>
+                    <p class="text-muted small">Kapsamına göre maliyetler, safha maliyeti, dağıtımlar ve bütçe farkları üzerine uzmanlaşın.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('finansal_analiz')">
+                    <div class="card-icon"><i class="fas fa-search-dollar"></i></div>
+                    <h3 class="fw-bold">Finansal Tablolar Analizi</h3>
+                    <p class="text-muted small">Bilanço, gelir tablosu, rasyo analizleri ve yatay/dikey analiz tekniklerinde uzmanlaşın.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('temel_hukuk')">
+                    <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
+                    <h3 class="fw-bold">Temel Hukuk</h3>
+                    <p class="text-muted small">Borçlar, İş ve Ticaret Hukuku alt dallarında kanun ve mevzuat testleri.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('finansal_muhasebe')">
+                    <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
+                    <h3 class="fw-bold">Finansal Muhasebe</h3>
+                    <p class="text-muted small">Hesaplar, Mali Tablolar, Hesap İşleyişleri, Açılış ve Kapanış İşlemleri</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('yeterlilik')">
+                    <div class="card-icon"><i class="fas fa-history"></i></div>
+                    <h3 class="fw-bold">Yeterlilik Çıkmış Sorular</h3>
+                    <p class="text-muted small">Çıkmış sınav soruları ve analizleri.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('sgs')">
+                    <div class="card-icon"><i class="fas fa-history"></i></div>
+                    <h3 class="fw-bold">SGS Çıkmış Sorular</h3>
+                    <p class="text-muted small">Son 10 yılın çıkmış sınav soruları ve analizleri.</p>
+                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+                </div>
+            </div>
+        </div>
+    </div> <div id="ozet-modu-icerik" style="display:none; margin-top: 30px;">
+        <h3 class="mb-4 fw-bold" style="color: var(--dark-blue);">Konu Özetleri (Fasiküller)</h3>
         
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('deneme_sinavi')">
-                <div class="card-icon"><i class="fas fa-pen"></i></div>
-                <h3 class="fw-bold">Deneme Sınavı</h3>
-                <p class="text-muted small">Hazır kurumsal denemeler.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+        <div id="ozet-kartlari" class="row g-4">
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('gelir_vergisi_ozeti.md', 'Gelir Vergisi Kanunu Özeti')">
+                    <div class="ders-rozeti">
+                        Vergi Mevzuatı
+                    </div>
+                    
+                    <div class="card-icon" style="color: #10b981; margin-top: 15px;"><i class="fas fa-book-reader"></i></div>
+                    <h3 class="fw-bold">Gelir Vergisi</h3>
+                    <p class="text-muted small">Tüm GVK maddeleri ve güncel hadler.</p>
+                    <div class="mt-auto"> <button class="btn btn-start" style="background-color: #10b981;">Özeti Oku</button> </div>
+                </div>
             </div>
-        </div>
-                
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('vergi')">
-                <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
-                <h3 class="fw-bold">Vergi Hukuku</h3>
-                <p class="text-muted small">Teknik analizli ve güncel mevzuat odaklı sorular.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('kurumlar_vergisi_ozeti.md', 'Kurumlar Vergisi Kanunu Özeti')">
+                    <div class="ders-rozeti">
+                        Vergi Mevzuatı
+                    </div>
+                    <div class="card-icon" style="color: #3b82f6; margin-top: 15px;"><i class="fas fa-building"></i></div>
+                    <h3 class="fw-bold">Kurumlar Vergisi</h3>
+                    <p class="text-muted small">Kurum kazancı, istisnalar ve beyanlar.</p>
+                    <div class="mt-auto"> <button class="btn btn-start" style="background-color: #3b82f6;">Özeti Oku</button> </div>
+                </div>
             </div>
-        </div>
 
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('muhasebe')">
-                <div class="card-icon"><i class="fas fa-calculator"></i></div>
-                <h3 class="fw-bold">Muhasebe Denetimi</h3>
-                <p class="text-muted small">SMM standartlarında hesap planı ve uygulama testleri.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('meslek')">
-                <div class="card-icon"><i class="fas fa-gavel"></i></div>
-                <h3 class="fw-bold">Meslek Hukuku</h3>
-                <p class="text-muted small">3568 Sayılı Kanun ve Yönetmelikler.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
         </div>
 
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('sermaye')">
-                <div class="card-icon"><i class="fas fa-chart-line"></i></div>
-                <h3 class="fw-bold">Sermaye Piyasası</h3>
-                <p class="text-muted small">SPK Kanunu ve yatırım araçları mevzuatı.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
+        <div id="okuma-ekrani">
+            <button class="btn btn-outline-secondary mb-4" onclick="ozetGeriDon()"><i class="fas fa-arrow-left"></i> Fasikül Seçimine Dön</button>
+            
+            <div id="okuma-metni">Yükleniyor...</div>
         </div>
-
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('maliyet')">
-                <div class="card-icon"><i class="fas fa-chart-line"></i></div>
-                <h3 class="fw-bold">Maliyet Muhasebesi</h3>
-                <p class="text-muted small">Kapsamına göre maliyetler, safha maliyeti, dağıtımlar ve bütçe farkları üzerine uzmanlaşın.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('finansal_analiz')">
-                <div class="card-icon"><i class="fas fa-search-dollar"></i></div>
-                <h3 class="fw-bold">Finansal Tablolar Analizi</h3>
-                <p class="text-muted small">Bilanço, gelir tablosu, rasyo analizleri ve yatay/dikey analiz tekniklerinde uzmanlaşın.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('temel_hukuk')">
-                <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
-                <h3 class="fw-bold">Temel Hukuk</h3>
-                <p class="text-muted small">Borçlar, İş ve Ticaret Hukuku alt dallarında kanun ve mevzuat testleri.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('finansal_muhasebe')">
-                <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
-                <h3 class="fw-bold">Finansal Muhasebe</h3>
-                <p class="text-muted small">Hesaplar, Mali Tablolar, Hesap İşleyişleri, Açılış ve Kapanış İşlemleri</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('yeterlilik')">
-                <div class="card-icon"><i class="fas fa-history"></i></div>
-                <h3 class="fw-bold">Yeterlilik Çıkmış Sorular</h3>
-                <p class="text-muted small">Çıkmış sınav soruları ve analizleri.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4">
-            <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('sgs')">
-                <div class="card-icon"><i class="fas fa-history"></i></div>
-                <h3 class="fw-bold">SGS Çıkmış Sorular</h3>
-                <p class="text-muted small">Son 10 yılın çıkmış sınav soruları ve analizleri.</p>
-                <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<footer class="text-center mt-5 py-5 text-muted">
+    </div> </div> <footer class="text-center mt-5 py-5 text-muted">
     <p>&copy; 2026 SMM Akademi | Dijital Sınav Hazırlık Platformu</p>
 </footer>
 
@@ -347,13 +369,90 @@ function kilitAc() {
 </div>
 
 <script>
+window.addEventListener('DOMContentLoaded', () => {
+    if (localStorage.getItem("smm_giris_onayi") === "evet") {
+        const kilit = document.getElementById('kilit-ekrani');
+        if (kilit) kilit.style.display = "none";
+    }
+});
+
+function kilitAc() {
+    const girilenSifre = document.getElementById('giris-sifresi').value;
+    const kilitEkrani = document.getElementById('kilit-ekrani');
+    const hataMesaji = document.getElementById('sifre-hata');
+
+    if (girilenSifre === "smm2026") {
+        localStorage.setItem("smm_giris_onayi", "evet");
+        kilitEkrani.style.display = "none";
+    } else {
+        hataMesaji.style.display = "block";
+    }
+}
+
 function derseGit(dersId) {
-    // Klasik soru çözümü için
     window.location.href = "soru_motoru.html?ders=" + dersId;
 }
 
-// --- DENEME SINAVI MODÜLÜ JAVASCRIPT KODLARI ---
+// --- YENİ EKLENEN: MOD DEĞİŞTİRİCİ VE ÖZET YÖNETİMİ ---
+function setMode(mod) {
+    const btnTest = document.getElementById('btn-test');
+    const btnOzet = document.getElementById('btn-ozet');
+    const testIcerik = document.getElementById('test-modu-icerik');
+    const ozetIcerik = document.getElementById('ozet-modu-icerik');
+    
+    // Okuma ekranı açıksa onu da sıfırlayalım
+    document.getElementById('okuma-ekrani').style.display = 'none';
+    document.getElementById('ozet-kartlari').style.display = 'flex';
 
+    if(mod === 'test') {
+        btnTest.classList.add('active');
+        btnOzet.classList.remove('active');
+        testIcerik.style.display = 'block';
+        ozetIcerik.style.display = 'none';
+    } else {
+        btnOzet.classList.add('active');
+        btnTest.classList.remove('active');
+        testIcerik.style.display = 'none';
+        ozetIcerik.style.display = 'block';
+    }
+}
+
+function ozetOku(dosyaAdi, baslik) {
+    // 1. Kartları gizle, okuma ekranını aç
+    document.getElementById('ozet-kartlari').style.display = 'none';
+    document.getElementById('okuma-ekrani').style.display = 'block';
+    
+    const icerikDiv = document.getElementById('okuma-metni');
+    // Başlığı doğrudan markdown metninin başına h1 olarak ekleyelim ki şık dursun
+    icerikDiv.innerHTML = "<p>Yükleniyor...</p>";
+
+    // 2. Dosyayı çek ve Marked.js ile HTML'e çevirip ekrana bas
+    fetch(dosyaAdi)
+        .then(response => {
+            if (!response.ok) throw new Error("Dosya bulunamadı");
+            return response.text();
+        })
+        .then(markdownMetin => {
+            // Başlığı dosyadan gelen metnin en üstüne otomatik yapıştırıyoruz
+            const tamMetin = `# ${baslik}\n\n` + markdownMetin;
+            
+            marked.setOptions({
+                breaks: true,
+                gfm: true
+            });
+            icerikDiv.innerHTML = marked.parse(tamMetin);
+        })
+        .catch(error => {
+            icerikDiv.innerHTML = `<p style="color:red; font-weight:bold;">Özet yüklenemedi: Lütfen '${dosyaAdi}' dosyasının proje klasöründe olduğundan emin olun.</p>`;
+        });
+}
+
+function ozetGeriDon() {
+    document.getElementById('okuma-ekrani').style.display = 'none';
+    document.getElementById('ozet-kartlari').style.display = 'flex';
+}
+
+// --- DENEME SINAVI MODÜLÜ ---
 document.addEventListener('DOMContentLoaded', () => {
     const openBtn = document.getElementById('open-exam-setup');
     const modal = document.getElementById('exam-modal');
@@ -361,104 +460,82 @@ document.addEventListener('DOMContentLoaded', () => {
     const chips = document.querySelectorAll('.chip');
     const startBtn = document.getElementById('start-exam-btn');
     
-    // Sayaç Alanları
     const elSelected = document.getElementById('total-selected');
     const elQuestions = document.getElementById('total-questions');
     const elTime = document.getElementById('total-time');
     
-    // Geri Sayım Alanları
     const countdownOverlay = document.getElementById('countdown-overlay');
     const countdownNumber = document.getElementById('countdown-number');
     const candidateNameInput = document.getElementById('candidate-name');
 
     let selectedLessons = [];
-    const questionsPerLesson = 20; // Ders başı 20 soru
-    const minutesPerLesson = 45;   // Ders başı 45 dakika
+    const questionsPerLesson = 20; 
+    const minutesPerLesson = 45;   
 
-    // Modalı Aç
-    openBtn.addEventListener('click', () => {
-        modal.style.display = 'flex';
-        // Varsa eski kaydedilmiş ismi kutuya yaz
-        if(localStorage.getItem('smm_aday_adi')) {
-            candidateNameInput.value = localStorage.getItem('smm_aday_adi');
-        }
-    });
+    if(openBtn) {
+        openBtn.addEventListener('click', () => {
+            modal.style.display = 'flex';
+            if(localStorage.getItem('smm_aday_adi')) {
+                candidateNameInput.value = localStorage.getItem('smm_aday_adi');
+            }
+        });
+    }
 
-    // Modalı Kapat
-    closeBtn.addEventListener('click', () => {
-        modal.style.display = 'none';
-    });
+    if(closeBtn) {
+        closeBtn.addEventListener('click', () => {
+            modal.style.display = 'none';
+        });
+    }
 
-    // Hap Butonlara (Chips) Tıklama İşlemi
     chips.forEach(chip => {
         chip.addEventListener('click', function() {
             const dersId = this.getAttribute('data-ders');
-            
-            // Eğer zaten seçiliyse (Turuncuysa) -> Seçimi kaldır
             if (this.classList.contains('selected')) {
                 this.classList.remove('selected');
                 selectedLessons = selectedLessons.filter(d => d !== dersId);
-            } 
-            // Seçili değilse -> Turuncu yap ve diziye ekle
-            else {
+            } else {
                 this.classList.add('selected');
                 selectedLessons.push(dersId);
             }
-            
             hesaplaVeGuncelle();
         });
     });
 
-    // Seçime göre sayıları güncelleyen fonksiyon
     function hesaplaVeGuncelle() {
         const count = selectedLessons.length;
-        
         elSelected.innerText = count + " Ders";
         elQuestions.innerText = (count * questionsPerLesson) + " Soru";
         elTime.innerText = (count * minutesPerLesson) + " Dakika";
-        
-        // Hiç ders seçilmediyse başlama butonunu pasif yap
-        if(count > 0) {
-            startBtn.disabled = false;
-        } else {
-            startBtn.disabled = true;
-        }
+        startBtn.disabled = count <= 0;
     }
 
-    // Sınavı Başlat Butonu İşlemi
-    startBtn.addEventListener('click', () => {
-        // İsmi hafızaya al
-        const nameVal = candidateNameInput.value.trim();
-        if(nameVal !== "") {
-            localStorage.setItem('smm_aday_adi', nameVal);
-        } else {
-            localStorage.setItem('smm_aday_adi', 'SMMM Adayı'); // Boş geçerse varsayılan
-        }
+    if(startBtn) {
+        startBtn.addEventListener('click', () => {
+            const nameVal = candidateNameInput.value.trim();
+            if(nameVal !== "") localStorage.setItem('smm_aday_adi', nameVal);
+            else localStorage.setItem('smm_aday_adi', 'SMMM Adayı');
 
-        // Modalı kapat, geri sayımı aç
-        modal.style.display = 'none';
-        countdownOverlay.style.display = 'flex';
-        
-        let count = 3;
-        countdownNumber.innerText = count;
-        
-        // 1 saniyede bir rakamı düşür
-        const interval = setInterval(() => {
-            count--;
-            if (count > 0) {
-                countdownNumber.innerText = count;
-            } else if (count === 0) {
-                countdownNumber.innerText = "BAŞLA!";
-                countdownNumber.style.color = "#10b981"; // Yeşile dönsün
-            } else {
-                clearInterval(interval);
-                // Geri sayım bitti! Şimdi gerçek sınav sayfasına yönlendirme yapalım.
-                // Seçilen dersleri URL'ye ekliyoruz (Örn: deneme.html?dersler=vergi,maliyet)
-                const urlQuery = selectedLessons.join(',');
-                window.location.href = "soru_motoru.html?deneme=" + urlQuery;
-            }
-        }, 1000);
-    });
+            modal.style.display = 'none';
+            countdownOverlay.style.display = 'flex';
+            
+            let count = 3;
+            countdownNumber.innerText = count;
+            
+            const interval = setInterval(() => {
+                count--;
+                if (count > 0) {
+                    countdownNumber.innerText = count;
+                } else if (count === 0) {
+                    countdownNumber.innerText = "BAŞLA!";
+                    countdownNumber.style.color = "#10b981"; 
+                } else {
+                    clearInterval(interval);
+                    const urlQuery = selectedLessons.join(',');
+                    window.location.href = "soru_motoru.html?deneme=" + urlQuery;
+                }
+            }, 1000);
+        });
+    }
 });
 </script>
 

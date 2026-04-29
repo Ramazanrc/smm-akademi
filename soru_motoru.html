@@ -1209,6 +1209,32 @@ function kilitAc() {
         
         canvas.addEventListener("touchend", () => { isDrawing = false; });
 
+       // --- EKRAN MODU DEĞİŞTİRME VE ÖZET YÜKLEME KODLARI ---
+
+function modDegistir(mod) {
+    const ozetEkrani = document.getElementById('ozet-ekrani');
+    const testEkrani = document.getElementById('test-ekrani');
+
+    if (mod === 'ozet') {
+        ozetEkrani.style.display = 'block';
+        testEkrani.style.display = 'none';
+        ozetYukle(); // Butona basılınca özeti okuyan fonksiyonu çağırır
+    } else {
+        ozetEkrani.style.display = 'none';
+        testEkrani.style.display = 'block';
+    }
+}
+
+function ozetYukle() {
+    fetch('gelir_vergisi_ozeti.md')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('ozet-icerik').innerText = data;
+        })
+        .catch(error => console.error("Özet yüklenirken hata oluştu:", error));
+}
+
+
     </script>
 </body>
 </html>
