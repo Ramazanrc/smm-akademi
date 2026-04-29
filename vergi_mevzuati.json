@@ -11433,7 +11433,899 @@
       "E) Nisan ve Ekim aylarında iki eşit taksitte"
     ],
     "answer": 2
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu uyarınca, yabancı ulaştırma kurumlarının vergiye matrah olacak kurum kazancının tespitinde kullanılan 'ortalama emsal oranları' aşağıdakilerin hangisinde sırasıyla (Kara - Deniz - Hava) doğru olarak verilmiştir?",
+    "options": [
+      "A) %10 - %15 - %5",
+      "B) %12 - %15 - %5",
+      "C) %15 - %12 - %10",
+      "D) %12 - %10 - %5",
+      "E) %15 - %20 - %10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu'na göre 'Kontrol Edilen Yabancı Kurum' uygulamasında, yurt dışı iştirakinin kazancının Türkiye'de kurumlar vergisine tabi tutulabilmesi için sağlanması gereken şartlardan hangisi aşağıda yanlış verilmiştir?",
+    "options": [
+      "A) Tam mükellef kişi veya kurumların, yurt dışı iştirakin sermayesine veya oy hakkına en az %50 sahip olması gerekir.",
+      "B) İştirakin gayrisafi hasılatının %25 veya fazlasının faiz, kâr payı, kira gibi pasif nitelikli gelirlerden oluşması gerekir.",
+      "C) Yurt dışındaki iştirakin ticari bilanço kârı üzerinden %15'ten az oranda vergi yükü taşıması gerekir.",
+      "D) Yurt dışında kurulu iştirakin ilgili yıldaki toplam gayrisafi hasılatının 100.000 TL karşılığı yabancı parayı geçmesi gerekir.",
+      "E) Kontrol oranı olarak, ilgili hesap dönemi içinde herhangi bir tarihte sahip olunan en yüksek oran dikkate alınır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu Madde 11'e göre finansman gider kısıtlaması uygulamasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Kredi kuruluşları ve finansman şirketleri de finansman gider kısıtlamasına tabidir.",
+      "B) Sadece öz kaynakları, yabancı kaynaklarını aşan işletmelerde uygulanır.",
+      "C) İşletmede kullanılan yabancı kaynaklara ilişkin faiz, kur farkı ve vade farkı gibi giderlerin %25'i kurum kazancından indirilemez.",
+      "D) Kullanılan yabancı kaynakları öz kaynaklarını aşan işletmelerde, aşan kısma münhasır olmak üzere yabancı kaynaklara ilişkin faiz ve kur farkı giderlerinin %10'u kurum kazancından indirilemez.",
+      "E) Yatırımın maliyetine eklenen finansman giderleri de kısıtlama kapsamına girerek %10 oranında kanunen kabul edilmeyen gider sayılır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu'nda yer alan güncel düzenlemelere göre; kurumların aktifinde yer alan taşınmazların satışından doğan kazançlara uygulanan istisna oranı ve tam mükellef kurumlara ait iştirak hisselerinin satışından doğan kazançlara uygulanan istisna oranı sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "A) %50 - %75",
+      "B) %25 - %75",
+      "C) %25 - %50",
+      "D) %50 - %50",
+      "E) %0 - %75"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tam mükellef kurumlar ile yabancı kurumların Türkiye'deki işyeri veya daimi temsilcilerinin aralarında ilişkili kişi kapsamında gerçekleştirdikleri yurt içindeki işlemler nedeniyle, kazancın 'transfer fiyatlandırması yoluyla örtülü olarak dağıtıldığının' kabul edilmesi için aranan temel şart aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kurumların yurt dışı iştiraklerinin bulunması",
+      "B) Hazine zararının doğması",
+      "C) İşlemlerin sadece bağlı ortaklıklar arasında yapılmış olması",
+      "D) İlişkili kişi oranının en az %20 olması",
+      "E) İşlemin nakit ödeme ile gerçekleşmiş olması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5520 sayılı KVK Ek Madde 1 kapsamında getirilen Küresel Asgari Tamamlayıcı Kurumlar Vergisi uygulanabilmesi için, çok uluslu işletme gruplarının nihai ana işletmesinin konsolide finansal tablosundaki yıllık konsolide hasılat sınırının ve asgari kurumlar vergisi oranının ne kadar olması gerekmektedir?",
+    "options": [
+      "A) 250 milyon Avro / %10",
+      "B) 500 milyon Avro / %15",
+      "C) 750 milyon Avro / %10",
+      "D) 1 Milyar Avro / %20",
+      "E) 750 milyon Avro / %15"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre 'İş Ortaklıkları' ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kurumların kendi aralarında, şahıs ortaklıkları veya gerçek kişilerle kurulabilir.",
+      "B) Belli bir işin birlikte yapılmasını ortaklaşa yüklenmek amacıyla kurulurlar.",
+      "C) Kazancını paylaşmak amacı güdülmelidir.",
+      "D) Tüzel kişiliklerinin bulunmaması, iş ortaklığı olarak mükellefiyet tesis edilmesine engeldir.",
+      "E) Bu şekilde mükellefiyet tesis edilmesini vergi dairesinden talep etmeleri gerekir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "KVK'ya göre, kanunî ve iş merkezi Türkiye'de bulunmayan anonim ve limited şirket niteliğindeki şirketlerin sermayesine iştirak eden tam mükellef kurumların, bu iştirak kazançlarının kurumlar vergisinden istisna olabilmesi için aranan şartlardan hangisi yanlıştır?",
+    "options": [
+      "A) İştirak payını elinde tutan şirketin, yurt dışı iştirakin ödenmiş sermayesinin en az %10'una sahip olması gerekir.",
+      "B) Kazancın elde edildiği tarih itibarıyla iştirak payının kesintisiz olarak en az bir yıl süreyle elde tutulması gerekir.",
+      "C) Yurt dışı iştirak kazancının (finans/sigorta hariç) en az %15 oranında gelir/kurumlar vergisi benzeri vergi yükü taşıması gerekir.",
+      "D) Yurt dışı iştirakin esas faaliyetinin finansman temini veya sigorta hizmeti olması halinde vergi yükünün en az %10 olması yeterlidir.",
+      "E) İştirak kazancının, elde edildiği hesap dönemine ilişkin beyannamenin verilmesi gereken tarihe kadar Türkiye'ye transfer edilmesi şarttır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumların en az iki tam yıl süreyle aktiflerinde yer alan iştirak hisselerinin satışından doğan kazançlara uygulanan %50'lik istisna uygulamasıyla ilgili aşağıdaki hükümlerden hangisi yanlıştır?",
+    "options": [
+      "A) Satış kazancının istisnadan yararlanan kısmı, satışın yapıldığı yılı izleyen beşinci yılın sonuna kadar pasifte özel bir fon hesabında tutulur.",
+      "B) Satış bedelinin, satışın yapıldığı yılı izleyen ikinci takvim yılının sonuna kadar tahsil edilmesi şarttır.",
+      "C) Menkul kıymet ticaretiyle uğraşan kurumların bu amaçla ellerinde bulundurdukları iştirak hisselerinin satışından elde ettikleri kazançlar istisna kapsamı dışındadır.",
+      "D) Bedelsiz olarak veya rüçhan hakkı kullanılmak suretiyle elde edilen hisse senetlerinin elde edilme tarihi olarak, yeni hisselerin fiilen işletme aktifine girdiği tarih esas alınır.",
+      "E) Devir veya bölünme suretiyle devralınan iştirak hisselerinin satışında aktifte bulundurma sürelerinin hesabında, devrolunan kurumda geçen süreler de dikkate alınır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türkiye'de yerleşmiş olmayan kişilerle, işyeri/kanuni merkezi yurt dışında bulunanlara Türkiye'de verilen ve münhasıran yurt dışında yararlanılan mimarlık, mühendislik, tasarım, yazılım, tıbbi raporlama vb. hizmetlerden sağlanan kazançların ne kadarı, hangi şartla kurumlar vergisi matrahından indirilebilir?",
+    "options": [
+      "A) Kazancın tamamının Türkiye'ye transfer edilmesi şartıyla %50'si",
+      "B) Kazancın en az yarısının Türkiye'ye transfer edilmesi şartıyla %75'i",
+      "C) Kazancın, elde edildiği hesap dönemine ilişkin beyanname verilme tarihe kadar tamamının Türkiye'ye transfer edilmesi şartıyla %80'i",
+      "D) Kazancın tahsil edildiği yılın sonuna kadar Türkiye'ye getirilmesi şartıyla %100'ü",
+      "E) Herhangi bir transfer şartı aranmaksızın kazancın %80'i"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye şirketlerinin nakdi sermaye artışlarına yönelik kurumlar vergisi matrahından yapılan indirim (kurum kazancından indirim) uygulamasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Nakdi sermaye artışlarının, yurt dışından getirilen nakitle karşılanan kısmı için indirim oranı %75 olarak uygulanır.",
+      "B) İndirimden, sermaye artırımına ilişkin kararın tescil edildiği hesap dönemi ile bu dönemi izleyen dört hesap dönemi (toplam 5 dönem) için ayrı ayrı yararlanılır.",
+      "C) Matrahın yetersiz olması nedeniyle ilgili dönemde indirim konusu yapılamayan tutarlar sonraki hesap dönemlerine devreder.",
+      "D) Kurum ortaklarının, şirketle ilişkili olan kişilerden kredi kullanarak gerçekleştirdikleri sermaye artırımları bu indirim hesaplamasında dikkate alınır.",
+      "E) Finans, bankacılık ve sigortacılık sektörlerinde faaliyet gösteren kurumlar bu indirimden yararlanamaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "KVK Madde 9'a göre; devralınan kurumların devir tarihi itibarıyla öz sermaye tutarını geçmeyen zararlarının, devralan kurumun kurumlar vergisi matrahının tespitinde indirim konusu yapılabilmesi için aşağıdaki şartlardan hangileri birlikte sağlanmalıdır?",
+    "options": [
+      "A) Son 5 yıla ilişkin kurumlar vergisi beyannamelerinin kanuni süresinde verilmiş olması ve faaliyete devir tarihinden itibaren en az 5 yıl süreyle devam edilmesi.",
+      "B) Son 3 yıla ilişkin beyannamelerin verilmiş olması ve faaliyete en az 3 yıl devam edilmesi.",
+      "C) Devralınan kurumun öz sermayesinin eksiye düşmemiş olması ve faaliyete en az 5 yıl devam edilmesi.",
+      "D) Son 5 yıla ilişkin beyannamelerin verilmiş olması ve kurum aktifindeki tüm taşınmazların devredilmesi.",
+      "E) Devralınan kurum zararının sadece devir alınan dönemin kazancından indirilmesi."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kredi kuruluşları, finansal kiralama, faktoring ve finansman şirketleri dışında kalan işletmelerde uygulanan 'Finansman Gider Kısıtlaması'nın temel şartı ve kanunen kabul edilmeyen gider (KKEG) sayılacak kısıtlama oranı aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Yabancı kaynakların aktif toplamını aşması durumunda, aşan kısmın %10'u",
+      "B) Öz kaynakların yabancı kaynakları aşması durumunda, toplam giderin %10'u",
+      "C) Yabancı kaynakların öz kaynakları aşması durumunda, aşan kısma isabet eden finansman giderlerinin (faiz, kur farkı vb.) %10'u",
+      "D) Banka kredilerinin öz sermayenin 3 katını aşması durumunda, faiz giderlerinin %20'si",
+      "E) Yabancı kaynakların öz kaynakları aşması durumunda, toplam yabancı kaynak faiz giderlerinin %10'u"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "KVK Madde 13 kapsamında, ilişkili kişilerle yapılan mal veya hizmet alım/satımında uygulanan bedelin; işlem konusu malların aralarında herhangi bir ilişki bulunmayan üçüncü kişilere 'yeniden satılması' halinde uygulanacak fiyattan 'makul bir brüt satış kârı' düşülerek tespit edilmesini ifade eden transfer fiyatlandırması yöntemi hangisidir?",
+    "options": [
+      "A) Karşılaştırılabilir Fiyat Yöntemi",
+      "B) Maliyet Artı Yöntemi",
+      "C) Yeniden Satış Fiyatı Yöntemi",
+      "D) İşleme Dayalı Net Kâr Marjı Yöntemi",
+      "E) Kâr Bölüşüm Yöntemi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tam mükellef kurumların kontrol ettikleri yurt dışı iştiraklerinin kazançlarının (Kontrol Edilen Yabancı Kurum - KEYK) Türkiye'de kurumlar vergisine tabi tutulabilmesi için sağlanması gereken şartlardan biri aşağıdakilerden hangisi olamaz?",
+    "options": [
+      "A) Tam mükelleflerin iştirakin sermayesine, kâr payına veya oy hakkına doğrudan/dolaylı en az %50 sahip olması.",
+      "B) İştirakin toplam gayrisafi hasılatının %25 veya fazlasının faiz, kâr payı, kira vb. pasif gelirlerden oluşması.",
+      "C) Yurt dışındaki iştirakin ticari bilanço kârı üzerinden %10'dan az oranda vergi yükü taşıması.",
+      "D) Yurt dışında kurulu iştirakin ilgili yıldaki toplam gayrisafi hasılatının 100.000 TL karşılığı yabancı parayı geçmesi.",
+      "E) İştirakin bulunduğu ülkede Türkiye ile çifte vergilendirmeyi önleme anlaşmasının bulunmaması."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Yabancı ulaştırma kurumlarının (dar mükellef) vergiye matrah olacak kurum kazancı, hasılata 'ortalama emsal oranlarının' uygulanması suretiyle hesaplanmaktadır. KVK'ya göre Kara, Deniz ve Hava taşımacılığında uygulanan ortalama emsal oranları sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "A) %12 - %15 - %5",
+      "B) %15 - %12 - %5",
+      "C) %10 - %15 - %10",
+      "D) %5 - %12 - %15",
+      "E) %12 - %10 - %5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yeni ihdas edilen 'Yurt İçi Asgari Kurumlar Vergisi (Madde 32/C)' uygulaması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Asgari kurumlar vergisi, indirim ve istisnalar düşülmeden önceki kurum kazancının %10’undan az olamaz.",
+      "B) İştirak kazançları istisnası, asgari vergi hesaplanırken kurum kazancından düşülecek istisnalar arasında yer alır.",
+      "C) İlk defa faaliyete başlayan kurumlar hakkında, faaliyete başlanılan hesap döneminden itibaren 3 hesap dönemi boyunca asgari vergi uygulanmaz.",
+      "D) Yatırım teşvik belgelerindeki yatırıma katkı tutarları, hesaplanan asgari kurumlar vergisinden hiçbir şekilde indirilemez.",
+      "E) Emisyon primi kazancı istisnası (Madde 5/1-ç) asgari vergi hesaplanırken matrahtan düşülebilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "KVK Ek Madde 6 kapsamında, Küresel Asgari Tamamlayıcı Kurumlar Vergisi'nin matrahı tespit edilirken net ülkesel bazlı kazanç toplamından aşağıdaki tutarlardan hangisi indirilir?",
+    "options": [
+      "A) O ülkede bulunan bağlı işletmelerin tüm genel yönetim ve pazarlama giderleri",
+      "B) O ülkede bulunan bağlı işletmelerin çalışanlarının yıllık toplam brüt ücretlerinin %5’i ile maddi duran varlıklarının net defter değerinin %5’i",
+      "C) O ülkedeki tüm yatırım teşvik belgeli yatırımların amortisman tutarları",
+      "D) Geçmiş yıl mali zararlarının tamamı",
+      "E) Ana merkeze aktarılan yönetim gider paylarının %10'u"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu Madde 12'ye göre 'Örtülü Sermaye' hesabı yapılırken aşağıda sayılan borçlanmalardan hangisi hesaplamaya dahil edilir? (Hangisi örtülü sermaye sayılmaz istisnalarından biri değildir?)",
+    "options": [
+      "A) Kurum ortaklarının sağladığı gayrinakdi teminatlar karşılığında üçüncü kişilerden yapılan borçlanmalar.",
+      "B) Kurum iştiraklerinin, banka ve finans kurumlarından temin ederek aynı şartlarla kullandırdığı borçlanmalar.",
+      "C) Bankacılık Kanununa göre faaliyette bulunan bankalar tarafından yapılan borçlanmalar.",
+      "D) Ortağın şahsi birikimi niteliğindeki nakit fonu kuruma doğrudan borç olarak vermesi.",
+      "E) Finansal kiralama şirketlerinin faaliyetleriyle ilgili olarak ortak sayılan bankalardan yaptıkları borçlanmalar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "KVK Madde 30'a göre; Cumhurbaşkanınca ilan edilen, Türk vergi sisteminin yarattığı vergilendirme kapasitesi ile aynı düzeyde bir vergilendirme imkânı sağlamayan ülkelerde (Vergi Cennetleri) yerleşik olan kurumlara nakden veya hesaben yapılan ödemeler üzerinden uygulanacak kurumlar vergisi kesinti (stopaj) oranı yüzde kaçtır?",
+    "options": [
+      "A) %10",
+      "B) %15",
+      "C) %20",
+      "D) %25",
+      "E) %30"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "KVK Madde 5'e göre, her türlü taşınır ve taşınmaz malların 6361 sayılı Kanun kapsamında 'geri kiralama amacıyla ve sözleşme sonunda geri alınması şartıyla (Sat-Kirala-Geri Al)', finansal kiralama şirketlerine, katılım bankalarına veya kalkınma ve yatırım bankalarına satılmasından doğan kazançların ne kadarı kurumlar vergisinden istisnadır?",
+    "options": [
+      "A) %25",
+      "B) %50",
+      "C) %75",
+      "D) %100",
+      "E) Sadece varlığın kayıtlı değeri ile rayiç bedeli arasındaki enflasyon farkı kadar kısmı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Kanun'a göre, ihtiyati hacze karşı açılacak davalar ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Tebliğ tarihinden itibaren 30 gün içinde Danıştay'a başvurulur.",
+      "B) Tebliğ tarihinden itibaren 15 gün içinde Vergi Mahkemesi'nde dava açılır.",
+      "C) Hacizden itibaren 7 gün içinde Asliye Hukuk Mahkemesi'ne gidilir.",
+      "D) Sadece ödeme yapıldıktan sonra dava açılabilir.",
+      "E) İhtiyati hacze karşı idari yargı yolu kapalıdır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi amme alacağı için kabul edilecek teminat türlerinden biri değildir?",
+    "options": [
+      "A) Türk parası",
+      "B) Banka teminat mektupları",
+      "C) Üzerinde haciz bulunmayan gayrimenkuller",
+      "D) Şirketlerin kendi ihraç ettiği hisse senetleri",
+      "E) İdarece kabul edilen şahsi kefalet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Limited şirket ortağı olan (A), şirketin ödenmeyen vergi borçlarından dolayı hangi ölçüde sorumludur?",
+    "options": [
+      "A) Şirketteki imza yetkisi varsa tamamından sorumludur.",
+      "B) Sadece yönetim kurulu üyesi ise sorumludur.",
+      "C) Sermaye hissesi oranında doğrudan doğruya sorumludur.",
+      "D) Sorumluluğu sadece koyduğu sermaye ile sınırlıdır, şahsi malına gidilemez.",
+      "E) Ortakların amme alacağından sorumluluğu yoktur, sadece müdür sorumludur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Amme alacaklarında 'tahsil zamanaşımı' süresi ve başlangıcı aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Tarh edildiği yılı takip eden yılbaşından itibaren 5 yıl",
+      "B) Tebliğ edildiği tarihten itibaren 5 yıl",
+      "C) Vadenin rastladığı takvim yılını takip eden yılbaşından itibaren 5 yıl",
+      "D) Vadenin bittiği günden itibaren 10 yıl",
+      "E) Borçlunun öldüğü tarihten itibaren 5 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ödeme emri tebliğ edilen bir borçlu, bu emre karşı hangi gerekçeyle dava açamaz?",
+    "options": [
+      "A) Borcun zaten ödenmiş olduğu",
+      "B) Borcun zamanaşımına uğradığı",
+      "C) Borcun aslında kendisine ait olmadığı",
+      "D) Vergi matrahının yanlış hesaplandığı",
+      "E) Borcun kısmen ödenmiş olduğu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Kanun'a göre, kendisine ödeme emri tebliğ edilen borçlu kaç gün içinde mal bildiriminde bulunmak zorundadır?",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kendisine ödeme emri tebliğ edilen borçlu, mal bildiriminde bulunmazsa uygulanacak yaptırım nedir?",
+    "options": [
+      "A) Vergi ziyaı cezası kesilir.",
+      "B) Gecikme zammı %50 artırımlı uygulanır.",
+      "C) Mal bildiriminde bulunana kadar, 3 ayı geçmemek üzere hapsen tazyik olunur.",
+      "D) Yurt dışına çıkış yasağı konur.",
+      "E) Şirket hisselerine devlet tarafından el konur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi tahsil zamanaşımını kesen (sıfırlayıp yeniden başlatan) hallerden biri değildir?",
+    "options": [
+      "A) Ödeme yapılması",
+      "B) Haciz tatbik edilmesi",
+      "C) Borçlunun adres değiştirmesi",
+      "D) Mal bildiriminde bulunulması",
+      "E) Ödeme emri tebliğ edilmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Amme alacağının tahsili için borçlunun malları haczedilirken, üçüncü şahısların elindeki alacakları için ne yapılır?",
+    "options": [
+      "A) Sadece borçlunun rızasıyla haczedilebilir.",
+      "B) Üçüncü şahsa 'Haciz Bildirisi' gönderilerek alacak haczedilir.",
+      "C) Üçüncü şahıs ödemeyi reddederse alacak düşer.",
+      "D) Mutlaka mahkeme kararı gerekir.",
+      "E) Üçüncü şahıstaki alacaklar hiçbir şekilde haczedilemez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Amme borçlusunun ölümü halinde, amme alacağının takibi ile ilgili hangisi doğrudur?",
+    "options": [
+      "A) Borç tamamen silinir.",
+      "B) Borç mirasçılara geçer ancak gecikme zammı işlemez.",
+      "C) Mirasçılar reddi miras yapmadıkça borcun tamamından sorumludurlar.",
+      "D) Sadece tereke mallarıyla sınırlı takip yapılır.",
+      "E) Mirasçıların sorumluluğu ölüm tarihinden 1 yıl sonra başlar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Anonim şirketlerde, şirketin mal varlığından tahsil edilemeyen amme alacakları için öncelikli olarak kime gidilir?",
+    "options": [
+      "A) En büyük hissedara",
+      "B) Tüm hissedarlara payları oranında",
+      "C) Kanuni temsilci olan yönetim kurulu üyelerine",
+      "D) Şirketin mali müşavirine",
+      "E) Şirketin genel müdürüne (imza yetkisi yoksa bile)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6183 sayılı Kanun'a göre yapılan 'Tecil' işlemi en fazla kaç ay süreli olabilir?",
+    "options": [
+      "A) 12 ay",
+      "B) 24 ay",
+      "C) 36 ay",
+      "D) 48 ay",
+      "E) 60 ay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Amme alacağını tahsil etmek amacıyla açılan 'İptal Davaları'nda, borçlunun akrabalarına yaptığı bağışların 'ivazsız tasarruf' sayılarak iptal edilebilmesi için tasarrufun ödeme emrinden geriye doğru kaç yıl içinde yapılmış olması gerekir?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 5 yıl",
+      "E) 10 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gecikme zammı hesaplanırken, ay kesirleri için hangi usul uygulanır?",
+    "options": [
+      "A) Tam ay sayılır.",
+      "B) Ay kesirleri dikkate alınmaz.",
+      "C) Günlük olarak hesaplanır.",
+      "D) Sadece ilk 15 gün yarım ay sayılır.",
+      "E) Gecikme zammı sadece tam aylar için hesaplanır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6183 sayılı Kanun uyarınca 'Aciz Belgesi' alınan bir borçlu ile ilgili zamanaşımı durumu nedir?",
+    "options": [
+      "A) Borç tamamen silinir.",
+      "B) Zamanaşımı süresi 10 yıla çıkar.",
+      "C) Zamanaşımı süresi işlemez (durur).",
+      "D) Aciz belgesi zamanaşımını keser, süre yeniden başlar.",
+      "E) Borçlu 2 yıl içinde mal edinirse zamanaşımı kalkar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, mükellefiyet ve vergi sorumluluğuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet şart değildir.",
+      "B) Vergiyi doğuran olayın kanunlarla yasak edilmiş bulunması mükellefiyeti kaldırmaz.",
+      "C) Vergi kanunlarıyla kabul edilen haller müstesna olmak üzere, mükellefiyete veya vergi sorumluluğuna müteallik özel sözleşmeler vergi dairelerini bağlamaz.",
+      "D) Ölüm halinde, ölenin vergi borçlarından dolayı mirasçılar zincirleme (müteselsilen) sorumludurlar.",
+      "E) Tüzel kişilerin tasfiye edilmiş olmaları, kanuni temsilcilerin tasfiyeye giriş tarihinden önceki zamanlara ait sorumluluklarını kaldırmaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Vergi Usul Kanunu'na göre, aşağıdakilerden hangisi mücbir sebep olarak kabul edilmez?",
+    "options": [
+      "A) Vergi ödevlerinin yerine getirilmesine engel olacak derecede ağır hastalık",
+      "B) Vergi ödevlerinin yerine getirilmesine engel olacak su basması gibi afetler",
+      "C) Sahibinin iradesi dışındaki sebepler dolayısıyla defter ve vesikalarının elinden çıkmış bulunması",
+      "D) Kişinin iradesi dışında vukua gelen mecburi gaybubetler (kaybolmalar)",
+      "E) Mükellefin ticari işlerinin bozulması nedeniyle iflas durumuna düşmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "VUK'a göre, vergi kanunlarında açıkça yazılı olmayan hallerde, vergi dairesinin mükellefe tebliğ edeceği süre aşağıdakilerden hangisinden az olamaz?",
+    "options": [
+      "A) 7 gün",
+      "B) 15 gün",
+      "C) 30 gün",
+      "D) 45 gün",
+      "E) 60 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VUK Madde 16 uyarınca, ölüm halinde mirasçılara geçen ödevlerin yerine getirilmesinde bildirme ve beyanname verme sürelerine ne kadar süre eklenir?",
+    "options": [
+      "A) 1 ay",
+      "B) 2 ay",
+      "C) 3 ay",
+      "D) 4 ay",
+      "E) 6 ay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vergi Usul Kanunu'na göre tahakkuk fişinde aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+    "options": [
+      "A) Fişin sıra numarası",
+      "B) Verginin nevi",
+      "C) Verginin matrahı",
+      "D) Vergi mahkemesinde dava açma süresi",
+      "E) Mükellefin soyadı ve adı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VUK Madde 114'e göre, tarh zamanaşımını durduran tek hal aşağıdakilerden hangisidir ve duran zamanaşımı en fazla ne kadar uzayabilir?",
+    "options": [
+      "A) Mükellefe ödeme emri gönderilmesi - 6 ay",
+      "B) Matrah takdiri için takdir komisyonuna başvurulması - 1 yıl",
+      "C) Vergi mahkemesinde dava açılması - 1 yıl",
+      "D) Mükellefin yurt dışına çıkması - 5 yıl",
+      "E) Matrah takdiri için takdir komisyonuna başvurulması - 2 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mükelleflere elektronik ortamda (E-Tebligat) yapılan tebligatlar, muhatabın elektronik adresine ulaştığı tarihi izleyen kaçıncı günün sonunda yapılmış sayılır?",
+    "options": [
+      "A) 3. günün sonunda",
+      "B) 5. günün sonunda",
+      "C) 7. günün sonunda",
+      "D) 15. günün sonunda",
+      "E) 30. günün sonunda"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi VUK'a göre 'Vergilendirme Hataları' kapsamında değerlendirilmez?",
+    "options": [
+      "A) Mükellefin şahsında hata",
+      "B) Mükellefiyette hata",
+      "C) Mevzuda (Konuda) hata",
+      "D) Vergilendirme döneminde hata",
+      "E) Vergi matrahına ait rakamların eksik gösterilmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Vergi hatasının düzeltilmesi amacıyla vergi dairesine başvuran ve bu talebi reddedilen mükellef, dava açma süresi de geçmişse kime/nereye 'şikâyet yoluyla' müracaat edebilir?",
+    "options": [
+      "A) Danıştay'a",
+      "B) Vergi Mahkemesi Başkanlığına",
+      "C) Hazine ve Maliye Bakanlığına",
+      "D) Kamu Denetçiliği Kurumuna (Ombudsman)",
+      "E) Bölge İdare Mahkemesine"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VUK Madde 142'ye göre vergi kaçakçılığı şüphesiyle mükellef nezdinde 'arama' yapılabilmesi için aşağıdaki şartlardan hangisinin gerçekleşmesi zorunludur?",
+    "options": [
+      "A) Vergi dairesi müdürünün yazılı izni",
+      "B) Defterdar veya Vergi Dairesi Başkanının onayı",
+      "C) Cumhuriyet Savcısının arama emri vermesi",
+      "D) Vergi incelemesine yetkili olanların istemesi ve Sulh Yargıcının (Hakiminin) arama kararı vermesi",
+      "E) Maliye Bakanının bizzat onay vermesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VUK uyarınca arama neticesinde el konulan ve incelenmesine lüzum görülen defter ve vesikalar üzerindeki incelemeler en geç ne kadar süre içinde bitirilerek sahibine geri verilmelidir?",
+    "options": [
+      "A) 1 ay",
+      "B) 3 ay",
+      "C) 6 ay",
+      "D) 1 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Münhasıran sahte belge düzenlemek amacıyla mükellefiyet tesis ettirip kaydı silinen bir kişinin (veya ortağı olduğu şirketin) yeniden mükellefiyet açtırabilmesi için VUK 153/A maddesi uyarınca istenen teminat şartı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Geçmiş borçların ödenmesi ve düzenlediği sahte belgelerin %5'i tutarında teminat",
+      "B) Sadece geçmiş borçların tamamının faiziyle ödenmesi",
+      "C) Geçmiş borçların ödenmesi ve düzenlediği sahte belgelerin %10'u tutarında teminat (Teminat asgari 1.200.000 TL olmalıdır)",
+      "D) Düzenlediği sahte belgelerin tamamı tutarında nakit teminat",
+      "E) Düzenlediği sahte belgelerin %50'si tutarında banka teminat mektubu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi VUK'a göre işe başlamanın belirtilerinden biri değildir?",
+    "options": [
+      "A) Serbest meslek erbabının çalışılan yere tabela asması",
+      "B) Tüccarlar için iş yeri açmak",
+      "C) Bir dükkanın ileride iş yapmak maksadıyla sadece kiralanmış ve boş tutuluyor olması",
+      "D) İş yeri açılmamış olsa bile ticaret siciline kaydolunmak",
+      "E) Serbest meslek erbabının mesleki teşekküle kaydolması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VUK Madde 168'e göre, mükellefiyet şeklindeki değişiklikler, yeni bir vergiye tabi olma hali ve işyeri adres değişiklikleri vergi dairesine en geç ne kadar süre içinde bildirilmelidir?",
+    "options": [
+      "A) 10 gün",
+      "B) 15 gün",
+      "C) 1 ay",
+      "D) 3 ay",
+      "E) İlgili vergilendirme döneminin sonuna kadar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VUK Madde 140'a göre, bir mükellef nezdinde 'tam inceleme' yapılması halinde, bu incelemenin en fazla ne kadar süre içinde bitirilmesi esastır? (Ek süre hariç)",
+    "options": [
+      "A) 3 ay",
+      "B) 6 ay",
+      "C) 9 ay",
+      "D) 1 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VUK Madde 219'a göre, işlemlerin yevmiye defterine (esas defterlere) kaydedilmesiyle ilgili aşağıdaki sürelerden hangisi doğrudur?",
+    "options": [
+      "A) İşlemlerin defterlere en geç 7 gün içinde işlenmesi zorunludur.",
+      "B) Kayıtların muhasebe fişi, primanota gibi vesikalara dayanarak yürütülmesi halinde esas deftere kayıt en fazla 30 gün geciktirilebilir.",
+      "C) İşlemlerin deftere işlenmesi 10 günden fazla geciktirilemez. Ancak muhasebe fişi (primanota) kullanılıyorsa bu süre en fazla 45 gün olabilir.",
+      "D) Kasa defterine işlemler en geç 3 gün içinde kaydedilmelidir.",
+      "E) İşlemlerin kayıt süresi ile ilgili VUK'ta kesin bir kural yoktur, dönem sonuna kadar işlenebilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi VUK'a göre 'Maliyet Bedeli' ile değerlenen iktisadi kıymetlerden biri değildir?",
+    "options": [
+      "A) Gayrimenkuller",
+      "B) Tesisat ve makinalar",
+      "C) Gemiler",
+      "D) Gayrimaddi haklar (Lisans, Marka)",
+      "E) Altın, gümüş gibi kıymetli madenler"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Anonim ve Limited Şirketlerin, kuruluş aşamasında tutmak zorunda oldukları kanuni defterlerin tasdik işlemi aşağıdakilerden hangisi tarafından yapılır?",
+    "options": [
+      "A) Yeminli Mali Müşavirler",
+      "B) Noterler",
+      "C) Ticaret Sicili Müdürlükleri",
+      "D) Vergi Dairesi Müdürlükleri",
+      "E) Bağımsız Denetim Şirketleri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VUK'a göre 'Enflasyon Düzeltmesi' yapılması (kuyumcular hariç) için aranan şartlar aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Sadece içinde bulunulan yılda ÜFE'nin %10'dan fazla artması yeterlidir.",
+      "B) Son 3 hesap döneminde ÜFE'nin %50'den ve cari dönemde %5'ten fazla artması gerekir.",
+      "C) Son 3 hesap döneminde ÜFE artışının %100'den ve içinde bulunulan hesap döneminde %10'dan fazla olması gerekir.",
+      "D) Cari yılda TÜFE'nin %100'ü aşması gerekir.",
+      "E) Maliye Bakanlığının her yıl ilan edeceği yeniden değerleme oranının %25'i geçmesi gerekir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VUK Madde 231'e göre, bir fatura en geç ne zamana kadar düzenlenmelidir?",
+    "options": [
+      "A) Malın teslim edildiği an",
+      "B) Malın teslimi veya hizmetin yapıldığı tarihten itibaren azami 7 gün içinde",
+      "C) Malın tesliminden itibaren 10 gün içinde",
+      "D) Satışın gerçekleştiği ayın sonuna kadar",
+      "E) Sevk irsaliyesi tarihinden itibaren 15 gün içinde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VUK Madde 280'e göre yabancı paralar (dövizler) borsa rayici ile değerlenir. Vadesi gelmemiş senede bağlı yabancı para cinsinden alacak ve borçların değerleme günündeki kıymetine irca edilmesinde, senette faiz oranının yazılı olmadığı durumlarda hangi faiz oranı esas alınır?",
+    "options": [
+      "A) TCMB (Türkiye Cumhuriyet Merkez Bankası) resmi iskonto haddi",
+      "B) Kanuni faiz oranı",
+      "C) Reeskont faiz oranı",
+      "D) LİBOR (Londra Bankalar Arası Faiz Oranı)",
+      "E) LIBOR'un yarısı oranında bir faiz"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VUK Madde 234'e göre 'Gider Pusulası' hangi durumda düzenlenir?",
+    "options": [
+      "A) İki kurumlar vergisi mükellefi arasındaki mal alım satımlarında fatura yerine",
+      "B) Ticaret şirketlerinin ortaklarına dağıttığı kâr paylarının tevsikinde",
+      "C) Belge düzenleme zorunluluğu bulunmayanlardan (vergiden muaf esnaf, nihai tüketici) yapılan mal ve hizmet alımlarında",
+      "D) İhracat işlemlerinde gümrük vergilerinin ödenmesinde",
+      "E) Çalışanlara ödenen maaşların tevsikinde"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gayrimenkullerin maliyet bedeli ile değerlenmesine ilişkin VUK Madde 270 hükmü uyarınca, aşağıda sayılan giderlerden hangisinin maliyet bedeline ithal edilmesi veya genel giderler arasında gösterilmesi mükellefin ihtiyarına (seçimine) bırakılmıştır?",
+    "options": [
+      "A) İktisadi kıymetin iktisap edilmesi ile doğrudan ilgili gümrük vergileri",
+      "B) Noter, tapu, komisyon ve ilan giderleri ile Özel Tüketim Vergisi (ÖTV)",
+      "C) Mevcut bir binanın satın alınarak yıkılmasından mütevellit hafriyat giderleri",
+      "D) İktisadi kıymetin envantere alındığı tarihe kadarki depolama giderleri",
+      "E) İktisap anındaki nakliye ve montaj giderleri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VUK'a göre, 'Müstahsil Makbuzu' aşağıdaki durumların hangisinde düzenlenmek zorundadır?",
+    "options": [
+      "A) Tüccar veya çiftçilerin, gerçek usulde vergiye tabi olmayan çiftçilerden tarımsal ürün satın almalarında",
+      "B) Serbest meslek erbabının nihai tüketiciye hizmet vermesinde",
+      "C) Vergiden muaf esnafın kendi ürettiği malı nihai tüketiciye satmasında",
+      "D) Tüketicilerin arızalı malı firmaya iade etmesinde",
+      "E) Çiftçilerin kooperatiflerden tohum almasında"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "VUK mükerrer madde 290 uyarınca Finansal Kiralama (Leasing) işlemlerinde, kiracı finansal kiralamaya konu iktisadi kıymeti (makineyi) hangi bedel üzerinden değerleyerek aktife kaydeder?",
+    "options": [
+      "A) Sadece ödediği aylık kira bedeli tutarında",
+      "B) Makinenin piyasa (emsal) bedelinin %50'si üzerinden",
+      "C) Kira ödemelerinin bugünkü değeri ile iktisadi kıymetin rayiç bedelinden düşük olanı ile",
+      "D) Doğrudan kiralayanın faturada belirttiği toplam bedel üzerinden",
+      "E) Sadece kiralama sırasındaki peşinat tutarı üzerinden"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Alacakların ve borçların değerlemesi VUK'ta hangi değerleme ölçüsü ile yapılır?",
+    "options": [
+      "A) Borsa Rayici",
+      "B) Mukayyet Değer",
+      "C) Maliyet Bedeli",
+      "D) Emsal Bedeli",
+      "E) Tasarruf Değeri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Menkul kıymetlerin değerlemesine ilişkin olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Hisse senetleri her zaman 'Alış Bedeli' ile değerlenir.",
+      "B) Hisse senedi dışında kalan diğer her türlü menkul kıymet 'Borsa Rayici' ile değerlenir.",
+      "C) Borsa rayici yoksa değerleme, kıymetin alış bedeline vadesinde elde edilecek gelirin kıst (günlük) getirisinin eklenmesiyle bulunur.",
+      "D) Fon portföyünün en az %51'i Türkiye'de kurulmuş şirketlerin hisse senetlerinden oluşan yatırım fonu katılma belgeleri 'Alış Bedeli' ile değerlenir.",
+      "E) Devlet tahvili ve Hazine bonoları sadece 'Mukayyet Değer' ile değerlenir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Defter tasdiki ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Öteden beri işe devam edenler defterlerini, kullanılacağı yıldan önce gelen son ayda tasdik ettirmelidir.",
+      "B) Yeni işe başlayanlar işe başlama tarihinden önce defterlerini tasdik ettirmelidir.",
+      "C) Defterlerini ertesi yılda da kullanmak isteyenler (tasdiki yenileme), izleyen yılın Ocak ayı içinde bu işlemi yapmalıdır.",
+      "D) Tasdike tabi defterlerin dolması nedeniyle yıl içinde yeni defter kullanmaya mecbur olanlar, kullanmaya başlamadan önce tasdik ettirmelidir.",
+      "E) Anonim şirketlerin yıl içinde dolan yevmiye defterlerinin ara tasdiki Ticaret Sicili Müdürlüğü tarafından yapılır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "VUK Madde 236'ya göre 'Serbest Meslek Makbuzu'nun düzenlenme zamanı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Hizmetin verilmeye başlandığı an",
+      "B) Hizmetin fiilen tamamlandığı an (Tahsilat yapılmasa bile)",
+      "C) Mesleki faaliyete ilişkin her türlü tahsilatın yapıldığı (paranın alındığı) an",
+      "D) Faturada olduğu gibi hizmetin ifasından itibaren azami 7 gün içinde",
+      "E) İş sözleşmesinin imzalandığı an"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VUK'ta Enflasyon Düzeltmesi uygulamasında yeniden değerleme oranının tespiti için baz alınan ay hangisidir?",
+    "options": [
+      "A) Yeniden değerleme yapılacak yılın Aralık ayı",
+      "B) Yeniden değerleme yapılacak yılın Ocak ayı",
+      "C) Yeniden değerleme yapılacak yılın Kasım ayı",
+      "D) Yeniden değerleme yapılacak yılın Ekim ayı (Ekim ayı dahil)",
+      "E) Bir önceki yılın Aralık ayı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VUK'a göre, amortisman uygulamalarıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Boş arazi ve boş arsalar kural olarak amortismana tabi değildir.",
+      "B) Azalan bakiyeler usulünü seçen bir mükellef, daha sonra normal amortisman usulüne dönebilir.",
+      "C) Normal amortisman usulünü seçen bir mükellef, daha sonra azalan bakiyeler usulüne geçemez.",
+      "D) Binek otomobiller için aktife girdikleri hesap dönemi itibariyle ay kesri tam ay sayılmak suretiyle kıst amortisman ayrılır.",
+      "E) Azalan bakiyeler usulünde uygulanacak oran, normal amortisman oranının 2 katıdır ve bu oran %100'e kadar çıkabilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Konkordato veya sulh yoluyla alınmasından vazgeçilen alacaklar (Vazgeçilen Alacaklar), borçlunun defterinde pasifte özel bir karşılık hesabına alınır. Bu hesapta tutulan tutar en geç ne zamana kadar zararla itfa edilmezse kâr hesabına aktarılır?",
+    "options": [
+      "A) Alacaktan vazgeçildiği yılın sonundan başlayarak 1 yıl içinde",
+      "B) Alacaktan vazgeçildiği yılın sonundan başlayarak 3 yıl içinde",
+      "C) Alacaktan vazgeçildiği yılı izleyen yılın sonuna kadar",
+      "D) Alacaktan vazgeçildiği yılın sonundan başlayarak 5 yıl içinde",
+      "E) İşletme tasfiye edilinceye kadar bu hesapta bekletilebilir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Vergi ziyaı suçlarında 'tekerrür' uygulamasına ilişkin aşağıdaki sürelerden hangisi doğrudur?",
+    "options": [
+      "A) Vergi ziyaı cezasında, cezanın kesinleştiği tarihi izleyen günden itibaren beşinci yılın isabet ettiği takvim yılının sonuna kadar tekrar suç işlenirse ceza %50 artırılır.",
+      "B) Vergi ziyaı cezasında, cezanın kesinleştiği tarihten itibaren 3 yıl içinde suç işlenirse ceza 1 kat artırılır.",
+      "C) Usulsüzlük cezasında, cezanın kesinleştiği tarihten itibaren 5 yıl içinde suç işlenirse ceza %25 artırılır.",
+      "D) Usulsüzlük cezasında, cezanın kesinleştiği tarihten itibaren 1 yıl içinde suç işlenirse ceza %50 artırılır.",
+      "E) Tekerrür artırım tutarı, kesinleşen önceki cezadan daha fazla olabilir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "VUK Madde 359 uyarınca, gerçek bir muamele veya durum olmadığı halde bunlar varmış gibi belge düzenlenmesi 'sahte belge (naylon fatura)' suçunu oluşturur. Bu suçu işleyenler hakkında öngörülen hapis cezası aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 1 yıldan 3 yıla kadar",
+      "B) 18 aydan 5 yıla kadar",
+      "C) 2 yıldan 4 yıla kadar",
+      "D) 3 yıldan 8 yıla kadar",
+      "E) 5 yıldan 10 yıla kadar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir mükellef, kanuni süresinden sonra kendiliğinden (pişmanlık şartlarını taşımadan) beyanname vermiştir. Bu beyannameye istinaden tahakkuk eden vergi üzerinden kesilecek vergi ziyaı cezası oranı nedir?",
+    "options": [
+      "A) Ziyaa uğratılan verginin %20'si",
+      "B) Ziyaa uğratılan verginin %50'si (1/2 katı)",
+      "C) Ziyaa uğratılan verginin %100'ü (1 katı)",
+      "D) Ziyaa uğratılan verginin %300'ü (3 katı)",
+      "E) Kanuni süresinden sonra kendiliğinden verilen beyannamelerde vergi ziyaı cezası kesilmez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VUK'a göre, aşağıdakilerden hangisi I. Derece Usulsüzlük fiillerinden biri değildir?",
+    "options": [
+      "A) Vergi beyannamelerinin süresinde verilmemiş olması",
+      "B) İşe başlamanın zamanında bildirilmemesi",
+      "C) Tasdiki zorunlu defterlerin kanuni sürenin sonundan başlayarak 1 ay geçtikten sonra tasdik ettirilmesi",
+      "D) Tutulması mecburi olan defterlerden herhangi birinin tutulmamış olması",
+      "E) Tasdiki mecburi olan defterlerin, süresinin sonundan başlayarak 1 ay İÇİNDE (gecikmeli olarak) tasdik ettirilmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "VUK Madde 353 uyarınca 'Özel Usulsüzlük' cezalarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Fatura ve serbest meslek makbuzu verilmemesi veya alınmaması halinde belgeye yazılması gereken meblağın %10'u nispetinde ceza kesilir.",
+      "B) Alıcı, belgenin düzenlenmesi gereken süreyi takip eden 5 iş günü içerisinde durumu idareye kendiliğinden bildirirse, alıcı adına özel usulsüzlük cezası kesilmez.",
+      "C) Tahsilat ve ödemelerini banka/finans kurumları yerine elden yapanlara, işleme konu tutarın %10'u nispetinde özel usulsüzlük cezası kesilir.",
+      "D) Özel usulsüzlük cezası kesilmesine rağmen mecburiyetleri yerine getirmeyenlere ek süre verilir, yine uyulmazsa ceza 2 kat artırılarak uygulanır.",
+      "E) Özel usulsüzlük cezası kesilmiş bir fiilin aynı zamanda vergi ziyaına da yol açması halinde, sadece miktar itibariyle ağır olan ceza kesilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "VUK'ta düzenlenen 'Pişmanlık ve Islah (Madde 371)' müessesesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Pişmanlık talebiyle beyanname veren mükellef adına Vergi Ziyaı Cezası kesilmez.",
+      "B) Mükellefin durumu haber verdiği tarihten önce bir muhbir tarafından idareye ihbarda bulunulmamış olması şarttır.",
+      "C) Mükellef nezdinde o vergi türüne ilişkin bir vergi incelemesine başlanılmadan önce pişmanlıkla başvurulması gerekir.",
+      "D) Emlak vergisi ile ilgili olarak pişmanlık ve ıslah hükümleri uygulanmaz.",
+      "E) Eksik beyan edilen verginin, pişmanlık zammı ile birlikte haber verme tarihinden itibaren 30 gün içinde ödenmesi şarttır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "VUK'ta düzenlenen 'İzaha Davet' müessesesine göre, ön tespit yazısının tebliğinden itibaren 30 gün içinde izahatta bulunan ve beyanname vererek tahakkuk eden vergiyi zammıyla ödeyen mükellefe, vergi ziyaı cezası ziyaa uğratılan vergi üzerinden yüzde kaç oranında kesilir?",
+    "options": [
+      "A) %10",
+      "B) %20",
+      "C) %25",
+      "D) %50",
+      "E) İzaha davette şartlar yerine getirilirse ceza hiç kesilmez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mükellef, kendisine tebliğ edilen vergi/ceza ihbarnamesine karşı süresi içinde (30 gün) 'Cezalarda İndirim (Madde 376)' hakkını kullanarak ödeyeceğini bildirirse, aşağıdaki hangi oranlarda indirim yapılır?",
+    "options": [
+      "A) Sadece Vergi Ziyaı Cezasının %20'si indirilir.",
+      "B) Vergi ziyaı cezasında birinci defada yarısı, müteakiben kesilenlerde üçte biri indirilir.",
+      "C) Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarının yarısı (%50'si) indirilir.",
+      "D) Usulsüzlük ve özel usulsüzlük cezalarının tamamı indirilir.",
+      "E) Vergi aslının (verginin kendisinin) %50'si ve cezaların tamamı indirilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vergi dairesi ile mükellef arasındaki 'Uzlaşma' müessesesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İkmalen, re'sen veya idarece tarh edilen vergilere ilişkin olarak uzlaşma talep edilebilir.",
+      "B) Mükellef 5.000 TL'yi aşan usulsüzlük ve özel usulsüzlük cezaları için de uzlaşma talep edebilir.",
+      "C) Tarhiyat öncesi veya tarhiyat sonrası uzlaşma yapılması mümkündür.",
+      "D) VUK 359 uncu maddede yazılı fiillerle (kaçakçılık suçları) kesilen cezalar uzlaşma kapsamına dâhildir.",
+      "E) Üzerinde uzlaşılan ve tutanakla tespit olunan hususlar hakkında dava açılamaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hileli vergi suçlarında (VUK Madde 359) soruşturma veya kovuşturma evresinde 'Etkin Pişmanlık' hükümlerinden yararlanan bir sanığa verilecek hapis cezasındaki indirim oranları aşağıdakilerden hangisinde sırasıyla (Soruşturma Evresi - Kovuşturma Evresi) doğru verilmiştir?",
+    "options": [
+      "A) 1/3 oranında - 1/4 oranında",
+      "B) Yarı (1/2) oranında - Üçte bir (1/3) oranında",
+      "C) 1/4 oranında - 1/2 oranında",
+      "D) Üçte bir (1/3) oranında - Yarı (1/2) oranında",
+      "E) Suç işleyen etkin pişmanlıktan yararlansa bile hapis cezası indirilemez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VUK Madde 336'ya göre, cezayı istilzam eden tek bir fiil ile hem 'vergi ziyaı' hem de 'usulsüzlük' birlikte işlenmiş olursa nasıl bir cezai işlem uygulanır?",
+    "options": [
+      "A) Her iki ceza ayrı ayrı toplanarak kesilir.",
+      "B) Sadece vergi ziyaı cezası kesilir, usulsüzlük cezası silinir.",
+      "C) Sadece miktar itibariyle en ağır olan ceza kesilir.",
+      "D) Vergi ziyaı cezasının %50'si ile usulsüzlük cezasının tamamı toplanarak kesilir.",
+      "E) Mahkemenin takdirine göre cezalardan biri uygulanır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki durumlardan hangisinde 'Özel Usulsüzlük Cezası' (VUK 353) kesilmez?",
+    "options": [
+      "A) Fatura yerine yazar kasa (perakende satış) fişi düzenlenmesi",
+      "B) Düzenlenen belgede gerçek meblağdan farklı bir meblağa yer verilmesi",
+      "C) Tahsilat ve ödemelerin banka kanalı yerine nakit (elden) yapılması",
+      "D) Alıcının, faturanın düzenlenmediğini idarenin bilgisinden önce (5 iş günü içinde) idareye bildirmesi",
+      "E) Günlük kasa defterinin işyerinde bulundurulmaması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin aktifinde kayıtlı binek otomobilini satması ve yerine yeni bir binek otomobil almak üzere 'Yenileme Fonu' (Geçici Hesap) ayırmasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İşletmeyi idare edenlerce yenileme kararı verilmiş olması şarttır.",
+      "B) Satıştan doğan kâr, satışın yapıldığı yılı izleyen 3. takvim yılının sonuna kadar pasifte geçici bir hesapta tutulabilir.",
+      "C) Yeni kıymet alındığında, geçici hesapta tutulan kâr yeni kıymetin amortismanından mahsup edilir.",
+      "D) Üç yıl içinde yeni bir binek otomobil alınmazsa kâr, o yılın (3. yılın) kâr ve zarar hesabına eklenir.",
+      "E) Bilanço veya İşletme Hesabı esasına göre defter tutan tüm mükellefler (serbest meslek dahil) yenileme fonu ayırabilir."
+    ],
+    "answer": 4
   }
+
 ],
 
   "Deneme Sınavı 01 (Genel Tarama)":   [
