@@ -13149,6 +13149,336 @@
       "E) Değişiklik yıl ortasında yapıldığı için hiçbir zaman dikkate alınmaz."
     ],
     "answer": 2
+  },
+  {
+    "q": "7338 sayılı VİVK'ya göre, Türkiye'de vefat eden bir T.C. vatandaşının mirasçısı olan kızı, ölüm anında Almanya'da bulunmaktadır. Bu durumda mirasçı beyannamesini kaç ay içinde vermelidir?",
+    "options": [
+      "A) 1 ay",
+      "B) 4 ay",
+      "C) 6 ay",
+      "D) 8 ay",
+      "E) 12 ay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Veraset ve İntikal Vergisi Kanunu'na göre, aşağıda sayılan intikallerden hangisi 'ivazsız intikal' sayılmadığı için vergiye tabi değildir?",
+    "options": [
+      "A) Babadan oğula kalan miras",
+      "B) Bir çekilişten kazanılan otomobil",
+      "C) Maddi ve manevi bir zarar karşılığı alınan tazminatlar",
+      "D) Karşılıksız olarak yapılan para transferleri (hibe)",
+      "E) Bir vakfa yapılan şartlı bağışlar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2026 yılı güncel hadlerine göre, füruğ (altsoy) bulunmaması halinde sağ kalan eşe isabet eden miras hissesinin kaç TL'si vergiden müstesnadır?",
+    "options": [
+      "A) 2.907.136 TL",
+      "B) 3.500.000 TL",
+      "C) 5.817.845 TL",
+      "D) 10.000.000 TL",
+      "E) Eş için herhangi bir istisna uygulanmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VİVK Madde 16 uyarınca, bir şahsa ana, baba, eş ve çocuklarından yapılan ivazsız mal intikallerinde vergi oranları nasıl uygulanır?",
+    "options": [
+      "A) Vergi oranı 1 kat artırılır.",
+      "B) Veraset tarifesi uygulanır.",
+      "C) İvazsız intikallere ilişkin tarifedeki oranların yarısı (%50'si) uygulanır.",
+      "D) Sabit %20 oran uygulanır.",
+      "E) Bu tür intikaller her zaman vergiden muaftır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Şans oyunları ile gerçek ve tüzel kişilerce düzenlenen yarışma ve çekilişlerde kazanılan ikramiyelerin vergilendirilmesiyle ilgili hangisi yanlıştır?",
+    "options": [
+      "A) Vergi oranı %20 olarak uygulanır.",
+      "B) 2026 yılı için 66.935 TL istisna uygulanır.",
+      "C) İkramiye ayni (mal) ise fatura değeri esas alınır.",
+      "D) Beyanname, yarışma/müsabakanın yapıldığı günü takip eden ayın 20. günü akşamına kadar verilir.",
+      "E) Kazanan kişi, kazandığı ikramiye için ayrıca kişisel veraset beyannamesi vermek zorundadır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Ölümün yabancı bir memlekette vukubulması ve mirasçıların Türkiye'de bulunması halinde beyanname verme süresi ne kadardır?",
+    "options": [
+      "A) 1 ay",
+      "B) 4 ay",
+      "C) 6 ay",
+      "D) 8 ay",
+      "E) 12 ay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VİVK uyarınca, miras yoluyla intikal eden gayrimenkullerin matrahı aşağıdakilerin hangisine göre tespit edilir?",
+    "options": [
+      "A) Rayiç Bedel",
+      "B) Alış Bedeli",
+      "C) Emlak Vergisine esas olan değer (Vergi Değeri)",
+      "D) Takdir komisyonunca belirlenen değer",
+      "E) Mukayyet Değer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VİVK Madde 19'a göre, tahakkuk eden verginin taksitlendirme süresi ve ayları aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) 2 yıl / Ocak-Temmuz",
+      "B) 3 yıl / Mayıs-Kasım",
+      "C) 5 yıl / Mart-Eylül",
+      "D) 3 yıl / Nisan-Ekim",
+      "E) 1 yıl / Aralık"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bilanço esasına göre defter tutan bir işletme sahibinin ölümü halinde, beyan edilecek 'Ticari Sermaye' nasıl hesaplanır?",
+    "options": [
+      "A) Ölüm tarihindeki kasa mevcudu üzerinden",
+      "B) Ölüm tarihine takaddüm eden takvim yılı bilançosuna göre bulunacak öz sermaye üzerinden",
+      "C) Murisin son 5 yıllık kâr ortalaması üzerinden",
+      "D) İşletmenin rayiç bedeli üzerinden",
+      "E) Ticari sermaye VİV matrahına dahil edilmez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VİVK Madde 13'e göre, müteveffanın sağlığında icra dairesine intikal etmiş ihtilaflı borçlarının vergileri ne kadar süreyle tecil edilebilir?",
+    "options": [
+      "A) 3 yıl",
+      "B) 5 yıl",
+      "C) 10 yıl",
+      "D) 15 yıl",
+      "E) İhtilaf bitene kadar süresiz"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Borsada kayıtlı hisse senetlerinin (esham) değerlemesinde baz alınan süre aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Ölümden önceki 1 ay",
+      "B) Ölümden önceki 1 yıl",
+      "C) Ölüm tarihine takaddüm eden üç yıl içindeki en son muamele değeri",
+      "D) Sadece ölüm günündeki borsa kapanış değeri",
+      "E) Borsada işlem gördüğü ilk günkü değer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VİVK uyarınca 'Gaiplik' (kayıp) halinde, beyanname verme süresi ne zaman başlar?",
+    "options": [
+      "A) Şahsın kaybolduğu tarihten itibaren",
+      "B) Mahkemeye başvurulduğu tarihten itibaren",
+      "C) Gaiplik kararının ölüm siciline kaydolunduğu tarihi takiben",
+      "D) Kararın verildiği yılı takip eden yılbaşından itibaren",
+      "E) Gaiplik halinde miras açılmadığı için vergi doğmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Miras kalan bir gayrimenkulün tapuda mirasçılar adına tescili ile ilgili hangisi doğrudur?",
+    "options": [
+      "A) Vergi ödenmeden tescil yapılamaz.",
+      "B) Tescil işlemi vergi tahakkuku beklenmeksizin yapılır; ancak vergi ödenmedikçe satış (ferağ) yapılamaz.",
+      "C) Tescil yapıldığı an vergi silinir.",
+      "D) Sadece intikal harcı ödenirse tescil ve satış yapılabilir.",
+      "E) İlişik kesme belgesi mirasçılara ölüm anında verilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VİVK Madde 17'ye göre, bankaların ölen bir müşterinin kiralık kasasını açabilmesi için aşağıdaki şartlardan hangisi ZORUNLUDUR?",
+    "options": [
+      "A) Sadece tüm mirasçıların bankada bulunması",
+      "B) Noter onaylı vasiyetnamenin ibrazı",
+      "C) Vergi dairesinin yetkili bir memurunun (veya Sulh hakiminin) hazır bulunması",
+      "D) Kasa anahtarının vergi dairesine teslim edilmesi",
+      "E) Kiralık kasa muhteviyatı vergiye tabi değildir, banka serbestçe açabilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi VİVK Madde 12 uyarınca matrahtan indirilebilecek (tenzil olunacak) borçlardan biri değildir?",
+    "options": [
+      "A) Murisin belgelendirilebilir şahsi borçları",
+      "B) Murisin vergi borçları",
+      "C) Cenazenin teçhiz ve tedfini (gömülmesi) için yapılan masraflar",
+      "D) Mirasçılar tarafından mirasın yönetimi için yapılan özel seyahat giderleri",
+      "E) İktisap edilen malın aynına taalluk eden (malın kendisinden doğan) borçlar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1319 sayılı Emlak Vergisi Kanunu'na göre, büyükşehir belediye sınırları içinde yer alan bir 'işyeri' (diğer bina) için uygulanacak bina vergisi oranı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Binde 1",
+      "B) Binde 2",
+      "C) Binde 3",
+      "D) Binde 4",
+      "E) Binde 6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Emlak Vergisi Kanunu uyarınca, yeni inşa edilen meskenlerle ilgili uygulanan 'geçici muafiyet' süresi ve oranı aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) 3 yıl süreyle vergi değerinin tamamı",
+      "B) 5 yıl süreyle vergi değerinin 1/4'ü",
+      "C) 10 yıl süreyle vergi değerinin yarısı",
+      "D) Süresiz olarak binde 1 oranında indirim",
+      "E) 5 yıl süreyle vergi değerinin 3/4'ü"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Bina Vergisi mükellefiyetinin başladığı tarihi doğru olarak ifade etmektedir?",
+    "options": [
+      "A) İnşaatın başladığı gün",
+      "B) Yapı ruhsatının alındığı tarih",
+      "C) Vergi değerini tadil eden sebeplerin doğduğu yılı takip eden bütçe yılının başından itibaren",
+      "D) Belediye tarafından beyanname istendiği gün",
+      "E) Binanın tapuya tescil edildiği andan itibaren derhal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Meskenlerde sıfır oranlı (indirimli) emlak vergisi uygulamasından yararlanabilmek için aranan 'yüzölçümü' şartı aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Brüt 100 m²",
+      "B) Net 150 m²",
+      "C) Brüt 200 m²",
+      "D) Net 250 m²",
+      "E) Brüt 300 m²"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Emlak vergisinin (Bina ve Arazi) yıllık taksitlerinin ödeme dönemleri aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Ocak ve Temmuz",
+      "B) Mart-Mayıs ve Kasım",
+      "C) Nisan ve Eylül",
+      "D) Şubat ve Ağustos",
+      "E) Mayıs ve Aralık"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Emlak Vergisi Kanunu'na göre 'Arsa' tanımıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Sadece tarım yapılan alanlar arsa sayılır.",
+      "B) Köylerdeki tüm boş araziler arsa sayılır.",
+      "C) Belediye sınırları içinde belediyece parsellenmiş arazi arsa sayılır.",
+      "D) Üzerinde bina bulunan her yer arsadır.",
+      "E) Büyükşehirlerde arazi tanımı kaldırılmıştır, her yer arsa sayılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2026 yılı güncel hadlerine göre, bir meskenin 'Değerli Konut Vergisi'ne tabi olabilmesi için bina vergi değerinin kaç Türk Lirasını aşması gerekir?",
+    "options": [
+      "A) 5.000.000 TL",
+      "B) 10.000.000 TL",
+      "C) 17.711.000 TL",
+      "D) 25.000.000 TL",
+      "E) 55.000.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Değerli Konut Vergisi (DKV) ile ilgili aşağıdaki beyan ve ödeme bilgilerinden hangisi yanlıştır?",
+    "options": [
+      "A) Beyanname ilgili yılın Şubat ayının 20. günü akşamına kadar verilir.",
+      "B) Ödemeler Şubat ve Ağustos aylarında iki eşit taksitte yapılır.",
+      "C) DKV hasılatı genel bütçe geliri olarak kaydedilir, belediyelere pay verilmez.",
+      "D) Türkiye sınırları içinde tek meskeni olanlar bu vergiden muaftır.",
+      "E) Beyannameler ilgili belediyeye değil, Gelir İdaresi Başkanlığına bağlı vergi dairesine verilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hisseli (Paylı) mülkiyette emlak vergisi sorumluluğu nasıldır?",
+    "options": [
+      "A) En büyük hissedar tamamını öder.",
+      "B) Tüm hissedarlar vergiden müteselsilen sorumludur.",
+      "C) Malikler hisseleri oranında mükelleftirler.",
+      "D) Sadece binada oturan hissedar vergiyi öder.",
+      "E) Tapu sicilinde ilk sırada yazan kişi sorumludur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Emlak vergisi bildiriminin süresinde verilmemesi durumunda idarenin uygulayacağı 'Zamanaşımı' süresi ne zaman başlar?",
+    "options": [
+      "A) Binanın inşaatının bittiği günden",
+      "B) Bildirim verilmesi gereken yılın sonundan",
+      "C) İdarenin bildirim dışı kalındığını öğrendiği tarihi takip eden yılın başından",
+      "D) Tapu tescil tarihinden itibaren 5 yıl sonra",
+      "E) Emlak vergisinde zamanaşımı yoktur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi emlak vergisinden daimi (sürekli) olarak muaf tutulan binalardan biri değildir?",
+    "options": [
+      "A) Devlete ve belediyelere ait binalar",
+      "B) Dini hizmetlere mahsus ibadethaneler",
+      "C) Orduevleri ve askeri gazinolar",
+      "D) Bir anonim şirketin aktifinde kayıtlı olan fabrika binası",
+      "E) Kamu yararına çalışan derneklere ait (işletilmemek şartıyla) binalar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Belediye ve mücavir alan sınırları dışındaki bir arazinin (arsa sayılmayan), arazi vergisinden muaf tutulabilmesi için temel şart nedir?",
+    "options": [
+      "A) Üzerinde orman bulunması",
+      "B) Ticari, sınai ve turistik faaliyetlerde kullanılmaması",
+      "C) Sahibinin 65 yaş üstü olması",
+      "D) Arazinin en az 100 dönüm olması",
+      "E) Köy muhtarından izin alınması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Emlak vergisi matrahına (vergi değerine) esas olan 'bina metrekare normal inşaat maliyet bedelleri' hangi kurumlar tarafından müştereken tespit ve ilan edilir?",
+    "options": [
+      "A) Sadece ilgili Belediye Başkanlığı",
+      "B) Tapu ve Kadastro Genel Müdürlüğü ile TOBB",
+      "C) Hazine ve Maliye Bakanlığı ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "D) İçişleri Bakanlığı ile Valilikler",
+      "E) Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vergi Usul Kanunu uyarınca, emlak vergisinde 'vergi değeri' her yıl hangi oranda artırılarak bulunur?",
+    "options": [
+      "A) TÜFE oranında",
+      "B) ÜFE oranında",
+      "C) Yeniden Değerleme oranında",
+      "D) Yeniden Değerleme oranının yarısı nispetinde",
+      "E) %10 sabit oranla"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Bina Vergisinde vergi değerini 'tadil eden' (değiştiren) sebeplerden biri değildir?",
+    "options": [
+      "A) Binaya asansör veya kalorifer tesisatı eklenmesi",
+      "B) Binanın kullanış tarzının meskenden işyerine dönüştürülmesi",
+      "C) Binanın boyanması ve iç dekorasyonunun yenilenmesi",
+      "D) Binanın bir kısmının yanması veya yıkılması",
+      "E) Binanın taksim veya ifraz edilmesi (ayrılması)"
+    ],
+    "answer": 2
   }
 ],
 
