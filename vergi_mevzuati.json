@@ -12324,8 +12324,832 @@
       "E) Bilanço veya İşletme Hesabı esasına göre defter tutan tüm mükellefler (serbest meslek dahil) yenileme fonu ayırabilir."
     ],
     "answer": 4
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıdakilerden hangisi 'teslim sayılan haller' arasında yer almaz?",
+    "options": [
+      "A) Vergiye tabi malların işletme personeline ücret, prim veya ikramiye olarak verilmesi",
+      "B) Vergiye tabi malların, vergiye tabi olmayan amaçlarla işletmeden çekilmesi",
+      "C) Mülkiyeti muhafaza kaydıyla yapılan satışlarda zilyetliğin alıcıya devredilmesi",
+      "D) Trampa (Malın malla değiştirilmesi)",
+      "E) Vergiye tabi malların, konsinyasyon suretiyle satılmak üzere komisyoncuya gönderilmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "KDV Kanunu Madde 11'e göre, imalatçıların ihracatçılara 'ihraç kayıtlı' olarak teslim ettikleri mallara ait katma değer vergisinin tecil ve terkin edilebilmesi için, ihracatçıların bu malları teslim tarihini takip eden ay başından itibaren en geç ne kadar süre içinde ihraç etmeleri zorunludur?",
+    "options": [
+      "A) 1 ay",
+      "B) 3 ay",
+      "C) 6 ay",
+      "D) 12 ay",
+      "E) İhracatın gerçekleşmesi için kanunda herhangi bir süre sınırlaması yoktur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "KDV Kanunu Madde 24 ve 25'e göre, aşağıdakilerden hangisi Katma Değer Vergisi matrahına dahil edilmesi gereken unsurlardan biridir?",
+    "options": [
+      "A) Faturada ayrıca gösterilen ve ticari teamüllere uygun olan iskontolar",
+      "B) Alıcıdan tahsil edilen Katma Değer Vergisi tutarının kendisi",
+      "C) Vade farkı, kur farkı ve fiyat farkı niteliğindeki gelirler",
+      "D) Özel Tüketim Vergisi (ÖTV) hesaplanmayan ihracat teslimleri",
+      "E) İşletmenin personeline ödediği aylık ücretler"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "KDV Kanunu Madde 30'a göre, mükelleflerin vergiye tabi işlemleri üzerinden hesaplanan KDV'den indirilemeyecek (indirim reddi) katma değer vergileri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Faaliyeti binek otomobillerin kiralanması olmayan işletmelerin, satın aldıkları binek otomobillerine ait KDV indirilemez.",
+      "B) Gelir ve Kurumlar Vergisi kanunlarına göre kazancın tespitinde indirimi kabul edilmeyen giderler (KKEG) dolayısıyla ödenen KDV indirilemez.",
+      "C) Deprem, sel veya Maliye Bakanlığının mücbir sebep ilan ettiği yerlerde çıkan yangın sonucu zayi olan mallara ait KDV indirilemez.",
+      "D) Vergiye tabi olmayan veya kısmi istisna (KDV Md.17) kapsamında yapılan işlemlere ilişkin alış vesikalarında gösterilen KDV indirilemez.",
+      "E) Vergi Usul Kanunu uyarınca değersiz hale gelen alacaklara ilişkin alıcı tarafından ödenmeyen katma değer vergisi indirilemez."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "KDV Kanunu'ndaki güncel düzenlemelere göre, mükelleflerin KDV beyannamelerini (vergi kesintisi/tevkifat yapanlar hariç) ilgili dönemi takip eden ayın hangi gününün akşamına kadar vermesi ve vergiyi hangi güne kadar ödemesi gerekmektedir?",
+    "options": [
+      "A) Ayın 20. günü akşamına kadar beyan edilir ve ödenir.",
+      "B) Ayın 24. günü akşamına kadar beyan edilir, ayın 26. günü akşamına kadar ödenir.",
+      "C) Ayın 26. günü akşamına kadar beyan edilir ve ödenir.",
+      "D) Ayın 21. günü akşamına kadar beyan edilir, ayın 23. günü akşamına kadar ödenir.",
+      "E) Ayın son günü akşamına kadar beyan edilir ve ödenir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "KDV Kanunu'na göre, aşağıda sayılan işlemlerden hangisi 'Kısmi İstisna' (Yüklenilen KDV'nin indirim konusu yapılamayıp maliyet/gider yazıldığı istisna) kapsamında yer almaz?",
+    "options": [
+      "A) Külçe altın, külçe gümüş ve kıymetli taşların borsada işlem görmek üzere ithali ve teslimi",
+      "B) Kamu idarelerine, köylere ve kamu menfaatine yararlı derneklere eğitim, bilim ve sanat amacıyla yapılan bedelsiz teslimler",
+      "C) Metal, plastik, lastik, kauçuk, kâğıt, cam hurda ve atıkları ile konfeksiyon kırpıntılarının teslimi",
+      "D) Teşvik belgesi sahibi mükelleflere belge kapsamındaki makine ve teçhizat teslimleri",
+      "E) İktisadi işletmelere dahil olmayan gayrimenkullerin kiralanması işlemleri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "KDV Kanunu Madde 8'e göre, vergiyi doğuran olay meydana gelmediği veya vergiyi faturada gösterme hakkı bulunmadığı halde, düzenlediği faturada KDV gösteren mükelleflerin durumuyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Faturada gösterdikleri bu vergiyi Hazineye ödemekle yükümlü değildirler.",
+      "B) Faturada gösterdikleri bu vergiyi Hazineye ödemekle mükelleftirler; ancak verginin iadesi talep edilemez.",
+      "C) Bu vergiyi ödemekle mükelleftirler. Fazla ödenen verginin iade edilebilmesi için işlemin düzeltilmesi ve verginin alıcıya geri verilmesi şarttır.",
+      "D) Vergi dairesi faturayı doğrudan iptal eder ve özel usulsüzlük cezası keser.",
+      "E) Alıcı bu faturadaki KDV'yi hiçbir koşulda indirim konusu yapamaz, Hazine doğrudan el koyar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "KDV Kanunu Madde 29'a göre, mükelleflerin yüklendikleri (alışlarında ödedikleri) KDV'yi indirim konusu yapabilmeleri için geçerli olan süre sınırı (indirim hakkının kullanım süresi) aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Vergiyi doğuran olayın vuku bulduğu vergilendirme döneminin sonuna kadar",
+      "B) İlgili faturanın düzenlendiği takvim yılının sonuna kadar",
+      "C) Vergiyi doğuran olayın vuku bulduğu takvim yılını takip eden takvim yılı aşılmamak şartıyla",
+      "D) Vergiyi doğuran olayın vuku bulduğu tarihten itibaren 5 yıl içinde (Zamanaşımı süresi)",
+      "E) İndirim hakkının kullanımında herhangi bir süre kısıtlaması bulunmamaktadır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "KDV Kanunu'na göre, aşağıdakilerden hangisi vergiyi doğuran olayın meydana gelme anını yanlış ifade etmektedir?",
+    "options": [
+      "A) Mal teslimi ve hizmet ifası hallerinde, malın teslimi veya hizmetin yapılması anında meydana gelir.",
+      "B) Kısım kısım mal teslimi veya hizmet yapılması mutabık kalınan hallerde, malın veya hizmetin tamamının bitirildiği anda meydana gelir.",
+      "C) Malın tesliminden önce fatura verilmesi halinde, bu belgede gösterilen miktarla sınırlı olmak üzere faturanın düzenlenmesi anında meydana gelir.",
+      "D) İthalatta, Gümrük Kanununa göre gümrük vergisi ödeme mükellefiyetinin başlaması (veya gümrük beyannamesinin tescili) anında meydana gelir.",
+      "E) Su, elektrik, gaz gibi enerji dağıtım kullanımlarında bunların bedellerinin tahakkuk ettirilmesi anında meydana gelir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "KDV Kanunu Madde 9 kapsamında uygulanan 'Vergi Sorumluluğu (Tevkifat)' ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Mükellefin Türkiye'de ikametgâhının veya işyerinin bulunmaması halinde, vergi alacağının emniyeti için işleme taraf olanlar sorumlu tutulabilir.",
+      "B) Tevkifat yapmakla sorumlu tutulanlar (alıcılar), satıcıya ödeyecekleri KDV'nin bir kısmını veya tamamını keserek doğrudan vergi dairesine öderler.",
+      "C) Belgesiz mal bulundurulduğunun tespiti halinde, ziyaa uğratılan KDV, belgesiz malı bulunduran mükelleften aranır.",
+      "D) Vergi kesintisi (tevkifat) yapmakla sorumlu tutulanlar KDV beyannamelerini (2 Nolu KDV), vergilendirme dönemini takip eden ayın 21. günü akşamına kadar vermek zorundadırlar.",
+      "E) Türkiye'de ikametgahı bulunmayanların, KDV mükellefiyeti olan şirketlere sundukları elektronik hizmetlerin KDV'sini her zaman doğrudan kendileri (yabancılar) beyan edip öder."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "KDV Kanunu Madde 38'de düzenlenen 'Hasılat Esaslı Vergilendirme Usulü' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Bu usule göre vergilendirilen mükellefler, indirilecek KDV ile ilişkilendirmeksizin sadece hasılatları üzerinden hesapladıkları KDV'yi beyan edip öderler.",
+      "B) Bu usule geçen mükellefler, iki yıl geçmedikçe bu usulden çıkamazlar.",
+      "C) Hasılat esaslı vergilendirmeye geçmek zorunlu olup, belirlenen sektörlerdeki herkes bu usule tabi olmak zorundadır.",
+      "D) Bu mükellefler, alışlarında ödedikleri KDV'yi indirim konusu yapamazlar, işlemin mahiyetine göre doğrudan gider veya maliyet yazarlar.",
+      "E) Ticari kazancı işletme hesabı esasına göre tespit edilenler ile mesleki kazancı serbest meslek kazanç defterine göre tespit edilenler Cumhurbaşkanınca belirlenen şartlarda bu usule geçebilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki işlemlerden hangisinde, yurt içindeki bir malın faturasının yabancı bir döviz cinsi üzerinden kesilmesi halinde KDV matrahının tespitiyle ilgili doğru kural uygulanmıştır? (VUK ve KDV Hükümlerine göre)",
+    "options": [
+      "A) Fatura mutlaka döviz cinsinden KDV beyannamesine aktarılır, ödeme dövizle yapılır.",
+      "B) Bedelin döviz ile hesaplanması halinde döviz, vergiyi doğuran olayın meydana geldiği andaki cari kur üzerinden Türk parasına çevrilerek matrah tespit edilir.",
+      "C) Faturanın kesildiği yılın son günündeki TCMB döviz alış kuru dikkate alınır.",
+      "D) Dövizli işlemlerde KDV matrahı, döviz bedelinin %20 eksiği olarak hesaplanır.",
+      "E) İthalat haricindeki yurt içi işlemlerde dövizli fatura kesilmesi yasaktır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İndirim hakkının kullanılmasına ilişkin 'Zamanaşımı ve İade' ile ilgili aşağıdaki kurallardan hangisi doğrudur?",
+    "options": [
+      "A) Bir dönemde indirilemeyen KDV, mükellefe hemen nakden iade edilir.",
+      "B) İstisna edilmiş (ihracat gibi) işlemlerle ilgili yüklenilip indirilemeyen KDV, işlemin gerçekleştiği dönemi izleyen ikinci takvim yılının sonuna kadar talep edilmezse iade hakkı yanar.",
+      "C) Devreden KDV'ler 3 ay içinde indirim yoluyla giderilemezse doğrudan gider yazılır.",
+      "D) Vergi inceleme elemanlarının raporu olmadan hiçbir KDV iadesi (mahsuben dahil) kesinlikle yapılamaz.",
+      "E) Götürü usulden gerçek usule geçenler, stoklarındaki mallara ait faturadaki KDV'yi hiçbir şekilde indirim konusu yapamazlar."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "KDV Kanunu geçici maddelerinde yer alan teşvik ve istisnalara göre, yatırım teşvik belgesi sahibi mükelleflere (imalat sanayii) belge kapsamındaki inşaat işlerine ilişkin mal teslimleri ve hizmet ifaları KDV'den hangi yıla kadar istisnadır? (Güncel mevzuata göre)",
+    "options": [
+      "A) 31/12/2023",
+      "B) 31/12/2024",
+      "C) 31/12/2025 (Cumhurbaşkanı kararı ile 2028'e uzatılmıştır)",
+      "D) 31/12/2030",
+      "E) Herhangi bir süre sınırı olmaksızın sürekli istisnadır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "KDV Kanunu Madde 18'e göre 'İstisnadan Vazgeçme' ile ilgili aşağıdaki hükümlerden hangisi yanlıştır?",
+    "options": [
+      "A) Vergiden istisna edilmiş işlemleri yapanlar, vergi dairesine başvurarak vergiye tabi tutulmalarını talep edebilirler.",
+      "B) İstisnadan vazgeçme talebinin, dilekçe tarihinden sonra ifa edilen işlemlerin tamamını kapsaması şarttır.",
+      "C) İstisnadan vazgeçeceklerin talepleri üzerine mükellefiyetleri tesis olunur ve bu şekilde mükellef olanlar 3 yıl geçmedikçe mükellefiyetten çıkamazlar.",
+      "D) 3 yıllık sürenin bitiminden önce mükellefiyetten çıkma talebinde bulunulmazsa, süre otomatik olarak 3 yıl daha uzamış sayılır.",
+      "E) İhracat istisnası (Madde 11) uygulamasından dilekçe vermek suretiyle her zaman vazgeçilebilir ve bu işlemler KDV'li olarak faturalandırılabilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Özel Tüketim Vergisi (ÖTV) Kanunu'na göre, aşağıda sayılan işlemlerden hangisi ÖTV'ye tabi değildir?",
+    "options": [
+      "A) (IV) sayılı listede yer alan malların (beyaz eşya, kozmetik vb.) ithalatı",
+      "B) (I) sayılı listede yer alan akaryakıt ürünlerinin rafineriler tarafından teslimi",
+      "C) (II) sayılı listede yer alan ve kayıt/tescile tabi olan motorlu taşıtların ilk iktisabı",
+      "D) (II) sayılı listedeki mallardan kayıt ve tescile tabi olmayanların ithalatı",
+      "E) Galerici (motorlu araç ticareti yapanlar) tarafından daha önce tescil edilmiş 2. el bir otomobilin nihai tüketiciye satışı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "ÖTV Kanunu'na göre, komisyoncular vasıtasıyla veya konsinyasyon suretiyle yapılan satışlarda vergiyi doğuran olay hangi anda meydana gelir?",
+    "options": [
+      "A) Malın komisyoncuya teslim edildiği anda (tüm listeler için geçerlidir).",
+      "B) (I), (II) ve (IV) sayılı listelerdeki malların alıcıya, (III) sayılı listedeki malların (alkol/tütün) ise komisyoncuya teslim edildiği anda.",
+      "C) Malın nihai tüketiciye fatura edildiği anda.",
+      "D) Sadece komisyoncunun tahsilat yaptığı anda.",
+      "E) (I) ve (II) sayılı listelerde komisyoncuya, (III) ve (IV) sayılı listelerde alıcıya teslim anında."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Fiili veya kaydi envanter sırasında ÖTV'ye tabi malların belgesiz bulundurulduğunun tespiti üzerine, mükellefe alış belgelerini ibraz etmesi için kaç günlük süre verilir?",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) Herhangi bir süre verilmez, doğrudan tarhiyat yapılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ÖTV Kanunu'na göre ihraç kayıtlı (tecil-terkin) teslimlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İhraç edilmek şartıyla ihracatçılara teslim edilen malların ÖTV'si, vergi dairesince tarh edilerek tecil olunur (ertelenir).",
+      "B) Malların ihracatçıya teslim tarihini takip eden ay başından itibaren 3 ay içinde ihraç edilmesi şarttır.",
+      "C) İhracatın gerçekleşmesi halinde tecil edilen vergi terkin olunur.",
+      "D) Yurt içinden serbest bölgelere yapılan teslimler de ihracat istisnası (ve tecil-terkin) kapsamında değerlendirilir.",
+      "E) İhracatın mücbir sebeple 3 ay içinde yapılamaması halinde, vergi dairelerince en fazla 3 aya kadar ek süre verilebilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Engellilerin motorlu taşıt (II sayılı liste) alımlarındaki ÖTV istisnasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Engellilik oranı %90 ve üzeri olan malûl ve engelliler bu istisnadan faydalanabilir.",
+      "B) Engellilik oranı %90'ın altında olsa bile bizzat kullanma amacıyla araca özel tertibat yaptıran ortopedik engelliler bu istisnadan faydalanabilir.",
+      "C) Bu istisnadan her 5 yılda bir defaya mahsus olmak üzere faydalanılabilir.",
+      "D) İstisna kapsamında alınan araç, 5 yıl geçmeden satılırsa ilk iktisaptaki matrah üzerinden satış tarihindeki oranla ÖTV tahsil edilir.",
+      "E) İstisnadan yararlanarak alınan aracın 2. yılında kaza sonucu kullanılamaz hale gelip hurdaya ayrılması durumunda, yeni araç için istisnadan faydalanmak için 5 yılın dolması zorunludur."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "ÖTV Kanunu Madde 8 (Verginin Tecili) kapsamında, (I) sayılı listenin (B) cetvelindeki malların (solvent, tiner vb.), ÖTV listelerinde yer almayan bir malın imalinde kullanılmak üzere tesliminde tecil edilen vergi, malların kaç ay içinde imalatta kullanılması durumunda terkin edilir (silinir)?",
+    "options": [
+      "A) 3 ay",
+      "B) 6 ay",
+      "C) 9 ay",
+      "D) 12 ay",
+      "E) 24 ay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki Özel Tüketim Vergisi listelerinin hangisinde verginin matrahı, 'nihai tüketicilere perakende satış fiyatı' üzerinden belirlenir?",
+    "options": [
+      "A) (I) sayılı liste (Akaryakıt ürünleri)",
+      "B) (II) sayılı liste (Kayıt ve tescile tabi binek otomobiller)",
+      "C) (III) sayılı listenin (B) cetveli (Tütün mamulleri ve sigara)",
+      "D) (III) sayılı listenin (A) cetveli (Alkollü içecekler)",
+      "E) (IV) sayılı liste (Beyaz eşya, kozmetik, silah)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ÖTV Kanunu'na göre, (I) sayılı listedeki mallar (Akaryakıt, LPG, doğalgaz vb.) için beyanname verme süresi ve vergilendirme dönemi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Vergilendirme dönemi 1 aydır, beyanname izleyen ayın 15. günü akşamına kadar verilir.",
+      "B) Vergilendirme dönemi her ayın ilk 15 günü ve kalan günleri olmak üzere 2 dönemdir, beyanname dönemi izleyen 10. günü akşamına kadar verilir.",
+      "C) Vergilendirme dönemi 3 aydır, beyanname izleyen ayın 24. günü akşamına kadar verilir.",
+      "D) Vergilendirme dönemi 1 aydır, beyanname izleyen ayın 26. günü akşamına kadar verilir.",
+      "E) Vergilendirme dönemi her haftadır, beyanname izleyen haftanın Cuma günü verilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ÖTV Kanunu'na göre, (II) sayılı listedeki mallardan 'kayıt ve tescile tabi olanların' (örneğin sıfır kilometre bir otomobil) ÖTV beyannamesinin verilme ve ödenme zamanı nedir?",
+    "options": [
+      "A) İlk iktisabı izleyen ayın 15'inci günü akşamına kadar verilir ve aynı gün ödenir.",
+      "B) Faturanın kesildiği ayı takip eden ayın 26'ncı günü akşamına kadar verilir ve ödenir.",
+      "C) İlk iktisap ile ilgili işlemlerin tamamlanmasından önce vergi dairesine verilir ve vergi aynı gün ödenir.",
+      "D) Araç trafiğe çıkış yaptıktan sonra 3 gün içinde verilir.",
+      "E) Yıl sonunda toplu olarak yıllık beyanname ile verilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ÖTV Kanunu'na göre, (II), (III) (B cetveli hariç) ve (IV) sayılı listelerdeki mallar için verginin matrahı nasıl tespit edilir?",
+    "options": [
+      "A) Gümrük giriş kıymeti üzerinden tespit edilir.",
+      "B) Toptan satış fiyatı üzerinden tespit edilir.",
+      "C) Hesaplanacak ÖTV hariç, Katma Değer Vergisi matrahını oluşturan unsurlardan teşekkül eder.",
+      "D) Yalnızca malın maliyet bedeli üzerinden tespit edilir.",
+      "E) Nihai tüketiciye perakende satış fiyatı üzerinden tespit edilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Özel Tüketim Vergisinden istisna edilen teslim ve hizmetlerden biri değildir?",
+    "options": [
+      "A) İhraç edilmek şartıyla yurt dışındaki müşteriye yapılan teslimler",
+      "B) Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı vb. kurumların ihtiyacı için yapılan akaryakıt (I. Liste) teslimleri",
+      "C) Diplomatik temsilciliklere ve uluslararası kuruluşlara (karşılıklı olmak şartıyla) kendi ihtiyaçları için yapılan teslimler",
+      "D) Motor silindir hacmi ne olursa olsun, bir ticari işletmenin aktifine kaydetmek üzere ilk defa binek otomobil (II. Liste) satın alması",
+      "E) (IV) sayılı listedeki malların genel ve katma bütçeli dairelere bedelsiz teslimi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı'nın Özel Tüketim Vergisi oran ve tutarlarını değiştirme yetkisiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) (I) sayılı listedeki maktu vergi tutarlarını en yüksek vergi tutarının beş katına kadar artırmaya yetkilidir.",
+      "B) Tüm listelerdeki vergi oran ve tutarlarını sıfıra kadar indirmeye yetkilidir.",
+      "C) (III) sayılı listenin (A) cetvelindeki mallar (alkol) için oranları iki katına kadar artırmaya yetkilidir.",
+      "D) (II) sayılı listedeki motorlu araçlar için motor silindir hacmi, emisyon türü, istiap haddi gibi kriterlere göre farklı oranlar belirlemeye yetkilidir.",
+      "E) (IV) sayılı listedeki malların (beyaz eşya vb.) tümü için vergi oranlarını her koşulda 10 katına kadar artırmaya yetkilidir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İthal edilen mallara ilişkin Özel Tüketim Vergisi (ÖTV) nerede hesaplanır ve nasıl tahsil edilir?",
+    "options": [
+      "A) Malın girdiği ildeki Vergi Dairesi Başkanlığı tarafından hesaplanır ve 1 ay içinde ödenir.",
+      "B) İlgili Gümrük İdaresince hesaplanır ve ithalat vergileri (Gümrük Vergisi vb.) ile aynı zamanda ödenir.",
+      "C) İthalatçı firmanın kanuni merkezindeki vergi dairesine 15 gün içinde beyan edilerek ödenir.",
+      "D) Gümrükte sadece teminat alınır, mal satıldığında vergi dairesine ödenir.",
+      "E) İthalatta ÖTV alınmaz, vergi malın yurt içinde ilk tesliminde doğar."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ÖTV Kanunu Madde 12'ye göre, (II) sayılı listedeki malların (Örn: Otomobil) ilk iktisabında ödenecek vergi, hiçbir şekilde hangi tutardan az olamaz?",
+    "options": [
+      "A) İlgili aracın noter satış bedeli üzerinden hesaplanan vergiden",
+      "B) İlgili aracın kasko değeri üzerinden hesaplanan vergiden",
+      "C) Mükellefin malı alış bedeli ile her halükarda imalatçının satış bedeli veya ithalatta KDV matrahı üzerinden hesaplanan vergi tutarından",
+      "D) Gümrük idaresince belirlenen emsal bedelin %50'si üzerinden hesaplanan vergiden",
+      "E) Ticaret Odası tarafından belirlenen asgari satış fiyatından hesaplanan vergiden"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gerçek veya tüzel kişiler tarafından ithal edilen ham petrolün Türkiye'deki rafinerilere 'fason olarak rafine ettirilmesi' sonucu elde edilen akaryakıt ürünlerinin (I sayılı liste) tesliminde ÖTV'nin ödenmesinden kim müteselsilen sorumludur?",
+    "options": [
+      "A) Sadece ham petrolü ithal edenler sorumludur.",
+      "B) Sadece rafineri şirketi sorumludur.",
+      "C) Ham petrol ithalini gerçekleştirenlerle birlikte, ilgili rafineri şirketi müteselsilen sorumludur.",
+      "D) Nihai tüketici durumundaki akaryakıt istasyonu müteselsilen sorumludur.",
+      "E) Fason üretimde ÖTV doğmaz, sorumluluk gümrük idaresindedir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "488 sayılı Damga Vergisi Kanunu'na göre, yabancı memleketlerde veya Türkiye'deki yabancı elçiliklerde düzenlenen kâğıtların damga vergisine tabi olabilmesi için aşağıdaki şartlardan hangisinin gerçekleşmesi gerekir?",
+    "options": [
+      "A) Kâğıdın mutlaka Türk Lirası üzerinden düzenlenmiş olması",
+      "B) Kâğıdın Türkiye'de resmi dairelere ibraz edilmesi veya hükümlerinden faydalanılması",
+      "C) Kâğıdın Noter tarafından tasdik edilmesi",
+      "D) Kâğıdı düzenleyenlerden en az birinin Türk vatandaşı olması",
+      "E) Kâğıdın Türkiye Gümrük Bölgesine fiziken girmesi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Damga Vergisi Kanunu'na göre, resmi daireler ile kişiler arasındaki işlemlere ait kâğıtların damga vergisini kim öder?",
+    "options": [
+      "A) Sadece resmi daire öder.",
+      "B) Resmi daire ve kişiler yarı yarıya (eşit) öderler.",
+      "C) Kişiler öder.",
+      "D) Kâğıdı düzenleyen noter öder.",
+      "E) İşlem bedeli 100.000 TL'nin altındaysa resmi daire, üstündeyse kişiler öder."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir kâğıt üzerinde birbirinden tamamen ayrı birden fazla işlem bulunması ile bir asıldan doğan ve birbirine bağlı birden fazla işlem bulunması hallerinde damga vergisi uygulaması aşağıdakilerin hangisinde sırasıyla doğru verilmiştir?",
+    "options": [
+      "A) Her ikisinde de en yüksek vergi gerektiren işlemden vergi alınır.",
+      "B) Ayrı işlemlerde her birinden ayrı ayrı vergi alınır; birbirine bağlı işlemlerde ise en yüksek vergi gerektiren işlemden vergi alınır.",
+      "C) Ayrı işlemlerde en yüksek vergi alınır; birbirine bağlı işlemlerde her birinden ayrı vergi alınır.",
+      "D) Her ikisinde de sadece ilk yazılan işlem üzerinden vergi alınır.",
+      "E) İkinci işlem her iki durumda da vergiden müstesnadır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nüsha (suret) sayısına göre damga vergisi uygulamasına ilişkin güncel düzenlemelere göre aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Nispi (oransal) vergiye tabi kâğıtların her bir nüshası ayrı ayrı damga vergisine tabidir.",
+      "B) Maktu (sabit tutarlı) vergiye tabi kâğıtların sadece bir nüshası damga vergisine tabidir.",
+      "C) Nispi vergiye tabi kâğıtların sadece bir nüshası damga vergisine tabidir; maktu vergiye tabi kâğıtların ise her bir nüshası ayrı ayrı aynı miktarda vergiye tabidir.",
+      "D) Hem maktu hem nispi vergiye tabi kâğıtların sadece bir nüshası vergiye tabidir.",
+      "E) Kâğıt fotokopi ile çoğaltılmışsa aslından maktu, fotokopilerden nispi vergi alınır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Damga Vergisi Kanunu uyarınca, yabancı para (döviz) üzerinden düzenlenen sözleşmelerin damga vergisi matrahı nasıl tespit edilir?",
+    "options": [
+      "A) Yabancı para tutarı üzerinden doğrudan hesaplanır ve döviz olarak ödenir.",
+      "B) Kâğıdın düzenlendiği tarihteki Serbest Piyasa döviz satış kuru üzerinden Türk Lirasına çevrilir.",
+      "C) Maliye Bakanlığınca tayin ve ilan edilecek fiyat üzerinden Türk parasına çevrilerek hesaplanır.",
+      "D) Yabancı para üzerinden düzenlenen kâğıtlar Türkiye'de damga vergisinden istisnadır.",
+      "E) Verginin ödeneceği tarihteki TCMB döviz alış kuru esas alınır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir sözleşmede asıl işlemin yanında pey akçesi, cayma tazminatı, cezai şart veya ücret tevkifi gibi müeyyide (yaptırım) mahiyetinde taahhütler bulunması halinde damga vergisi uygulaması nasıldır?",
+    "options": [
+      "A) Bu taahhütlerin bedeli asıl sözleşme bedeline eklenerek toplam üzerinden vergi alınır.",
+      "B) Bu taahhütlerden başlı başına bir sözleşmeye konu olmadıkça damga vergisi alınmaz.",
+      "C) Asıl sözleşme maktu, müeyyide şartları nispi vergiye tabi tutulur.",
+      "D) Cezai şart bedeli üzerinden ayrıca %50 artırımlı damga vergisi alınır.",
+      "E) Sadece cayma tazminatından vergi alınır, pey akçesinden alınmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sürekli damga vergisi mükellefiyeti bulunmayan (Örn: sade bir vatandaş) bir kişinin düzenlediği nispi damga vergisine tabi kâğıdın vergisini beyan ve ödeme süresi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kâğıdın düzenlendiği tarihi izleyen 15 gün içinde beyan edilir ve ödenir.",
+      "B) Kâğıdın düzenlendiği tarihi izleyen ayın 26. günü akşamına kadar beyan edilir.",
+      "C) Kâğıdın düzenlendiği günün mesai bitimine kadar beyan edilip ödenir.",
+      "D) Takip eden takvim yılının Mart ayında Yıllık Beyanname ile ödenir.",
+      "E) Noterde işlem yapıldığı anda peşin ödenmesi zorunludur."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Anonim Şirket, Limited Şirket gibi sürekli damga vergisi mükellefiyeti tesis ettirmek zorunda olan kurumların, bir ay içinde düzenledikleri kâğıtlara ait damga vergisini beyan ve ödeme süresi hangisidir?",
+    "options": [
+      "A) Ertesi ayın 15. günü akşamına kadar",
+      "B) Ertesi ayın 20. günü akşamına kadar",
+      "C) Ertesi ayın 26. günü akşamına kadar",
+      "D) O ayın son günü mesai bitimine kadar",
+      "E) Kâğıdın düzenlendiği tarihten itibaren 15 gün içinde"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Damga Vergisi Kanunu'na göre, vergisi ödenmemiş veya noksan ödenmiş kâğıtları tasdik eden Noterlerin sorumluluğu ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Noterler sadece eksik verginin tahsilinden sorumludur, ceza mükellefe kesilir.",
+      "B) Mükellef hakkında ceza uygulanırken, noterden de tasdik ettiği kâğıt için kanunen alınması gereken ceza ayrıca alınır.",
+      "C) Noterlerin damga vergisi açısından herhangi bir müteselsil sorumluluğu yoktur.",
+      "D) Eksik vergi ve cezanın tamamı sadece noterden alınır, mükellefe gidilmez.",
+      "E) Noterler, sözleşme tutarının %1'i kadar idari para cezası öderler."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Damga vergisi ödemesinde uygulanan 'Azami Tutar' kuralı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Her bir kâğıt için hesaplanacak vergi tutarı, kanunla her yıl belirlenen azami tutarı aşamaz.",
+      "B) Azami tutar sınırlaması sadece nispi vergiye tabi kâğıtlar için geçerlidir.",
+      "C) Azami tutardan vergi alınmış bir sözleşmenin sadece bedeli artırılırsa (başka değişiklik yapılmaksızın), artan bedel üzerinden tekrar vergi alınmaz.",
+      "D) Azami tutar, her takvim yılı başından geçerli olmak üzere yeniden değerleme oranında artırılır.",
+      "E) Cumhurbaşkanı bu azami tutarı istediği zaman tamamen sıfırlama (kaldırma) yetkisine sahiptir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Damga Vergisinden muaf kuruluşlar (Örn: Kızılay, Üniversiteler) ile muaf olmayan kişiler arasında düzenlenen kâğıtların vergi sorumluluğu hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Vergi tamamen muafiyet kapsamında değerlendirilir ve alınmaz.",
+      "B) Verginin yarısını kişi, yarısını devlet öder.",
+      "C) Verginin tamamı muaf olmayan kişiler tarafından ödenir. Kişi ödemezse vergi ve cezadan muaf kurum da müteselsilen sorumlu olur.",
+      "D) Vergi kişiden alınır ancak kişi ödemezse muaf kurumun hiçbir sorumluluğu yoktur.",
+      "E) Kâğıdı kim hazırlamışsa vergiyi sadece o öder."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki işlemlerden hangisi Damga Vergisi Kanunu Ek Madde 2 kapsamında 'Döviz Kazandırıcı Faaliyetler İstisnası'na dahil değildir?",
+    "options": [
+      "A) İhracat karşılığı yapılacak ödemelere ilişkin taahhütnameler",
+      "B) Transit ticarete konu malın satın alınması ve satılması sözleşmeleri",
+      "C) İhracattan doğan alacağın ihracatçı tarafından temliki",
+      "D) Yurt dışına yönelik gerçekleştirilecek müteahhitlik ve müşavirlik hizmetleri",
+      "E) Tam mükellef şirketlerin yurt içindeki bayileriyle döviz üzerinden yaptıkları satış sözleşmeleri"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir sözleşmenin süresi, sözleşmede yer alan şartlarda hiçbir değişiklik yapılmaksızın uzatılırsa damga vergisi uygulaması nasıl olur?",
+    "options": [
+      "A) Uzatılan süre için herhangi bir damga vergisi alınmaz.",
+      "B) Aynı miktar veya nispette damga vergisi tekrar alınır.",
+      "C) Eski verginin dörtte biri (1/4) oranında vergi alınır.",
+      "D) Sadece maktu bir harç alınarak işlem tamamlanır.",
+      "E) İlk sözleşmenin damga vergisi iade edilir ve yeni vergi hesaplanır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi resmi daire sayılmadığı halde damga vergisi açısından 'diğer kurum ve kuruluşların mecburiyeti (Madde 27)' kapsamında vergisi ödenmemiş kâğıdı işleme koymaları yasaklanan kuruluşlardan biridir?",
+    "options": [
+      "A) Bakanlıklar",
+      "B) İl Özel İdareleri",
+      "C) Bankalar ve Kamu İktisadi Teşebbüsleri (KİT'ler)",
+      "D) Belediyeler",
+      "E) Köy tüzel kişilikleri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Damga Vergisi Kanunu'na göre 'Belli Para' terimi neyi ifade eder?",
+    "options": [
+      "A) Kâğıdın sadece Noter tarafından onaylandığı bedeli",
+      "B) Kâğıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı",
+      "C) Kâğıdın düzenlendiği tarihteki asgari ücret tutarını",
+      "D) Tarafların sözlü olarak anlaştıkları ancak kâğıda yazmadıkları tutarı",
+      "E) Damga vergisi azami sınır tutarını"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "492 sayılı Harçlar Kanunu'na göre, karar ve ilam harçlarının ödeme zamanı ve usulü ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Karar ve ilam harçlarının tamamı peşin ödenir.",
+      "B) Karar ve ilam harçlarının dörtte biri (1/4) peşin, geri kalanı kararın tebliğinden itibaren 1 ay içinde ödenir.",
+      "C) Karar ve ilam harçlarının yarısı (1/2) peşin, geri kalanı davanın kesinleşmesinden itibaren 15 gün içinde ödenir.",
+      "D) Karar ve ilam harcı davanın tamamen bitmesinden sonra tahsil edilir.",
+      "E) Harcın ödenmemesi durumunda mahkeme kararı (ilam) hiçbir şekilde taraflara tebliğ edilemez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir hukuk davasında, taraflar ilk duruşmada (ilk celsede) aralarında anlaşarak sulh olmuşlar veya davacı davasından feragat etmiştir. Bu durumda karar ve ilam harcı nasıl hesaplanarak tahsil edilir?",
+    "options": [
+      "A) Karar ve ilam harcının tamamı alınır.",
+      "B) Karar ve ilam harcının yarısı (1/2) alınır.",
+      "C) Karar ve ilam harcının üçte biri (1/3) alınır.",
+      "D) Karar ve ilam harcının üçte ikisi (2/3) alınır.",
+      "E) İlk celsede dava bittiği için hiçbir harç alınmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hukuk ve ticaret mahkemelerinde bir duruşmanın (celse), vekillerin mazeretsiz olarak katılmamaları (önceden yapılması mümkün olan bir işlemin yapılmaması) nedeniyle ertelenmesi (talik) halinde alınacak 'Celse Harcı' ile ilgili hangisi doğrudur?",
+    "options": [
+      "A) Celse harcı doğrudan davacı mükelleften alınır.",
+      "B) Celse harcı müteselsilen hem vekil hem müvekkilden alınır.",
+      "C) Ertelemeye vekil sebebiyet vermişse celse harcı vekile yüklenir ve müteakip iki celsede ödenmezse bir misli fazlasıyla tahsil edilir.",
+      "D) Celse harcı her durumda Devlet hazinesinden karşılanır.",
+      "E) Avukatlık Kanunu uyarınca avukatlardan (vekillerden) celse harcı talep edilemez."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tapu ve Kadastro Harçları matrahının tespitiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Tapu harcı, beyan edilen devir ve iktisap bedeli üzerinden hesaplanır.",
+      "B) Beyan edilen değer, gayrimenkulün ilgili yılı Emlak Vergisi değerinden düşük olamaz.",
+      "C) Emlak vergisi değerinden daha düşük bir bedel üzerinden harç ödendiğinin sonradan tespit edilmesi halinde, aradaki farka isabet eden harç ikmalen/re'sen tarh edilir.",
+      "D) Noksan ödenen tapu harcı için mükellefe Vergi Usul Kanunu uyarınca hesaplanan vergi ziyaı cezasının %25'i (%25 vergi ziyaı) uygulanır.",
+      "E) Harcın hesabında 10 TL'ye kadar olan matrah kesirleri dikkate alınmaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Anonim, Limited ve Eshamlı Komandit şirketler ile Kooperatiflerin aşağıdaki işlemlerinden hangisi 492 sayılı Harçlar Kanunu kapsamında (yargı harçları hariç) harçlardan müstesna DEĞİLDİR?",
+    "options": [
+      "A) Şirket kuruluş işlemleri",
+      "B) Şirketin sermaye artırımı işlemleri",
+      "C) Şirketin tür (nev'i) değiştirmesi işlemleri",
+      "D) Şirketin aktifinde bulunan bir gayrimenkulü başka bir şirkete satması sonucu yapılacak tapu devir işlemleri",
+      "E) Şirketlerin birleşme ve bölünme işlemleri"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Harçlar Kanunu'na göre, Noter Harçlarında bir kâğıt üzerinde birden çok kişinin imzasının bulunması durumuyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bir kişinin birden çok kişiyi temsil etmesi harcın artırılmasını gerektirmez (vekilin tek imzası bir imza sayılır).",
+      "B) Bütün imzaların tasdiki şart olan muamelelerde vekâleten imza atıldığında, vekilin imzasının tasdikinden alınacak harç temsil ettiği kişi sayısınca çoğaltılır.",
+      "C) Bir borca kefalet eden müteselsil kefillerin bir kâğıda koyacakları birden çok imza, bir imza sayılır.",
+      "D) Bir kişi hem kendi adına hem de başkasını temsilen imza atarsa, kendisi için ayrı başkası için ayrı harç alınır.",
+      "E) Maktu vergiye tabi makbuz ve ibra senetlerinde müteaddit kişilerin imzası varsa, imza adedine bakılmaksızın tek maktu harç alınır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Harçlar Kanunu'nda 'Döviz Kazandırıcı Faaliyetler İstisnası (Ek Madde 1)' kapsamında, harç istisnası uygulanarak yapılan bir işlemde, şartların sonradan gerçekleşmemesi (Örn: ihracatın yapılamaması) halinde uygulanacak müeyyide aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Alınmayan harçlar, faizsiz olarak geri tahsil edilir.",
+      "B) Alınmayan harç, mükelleflerden Vergi Usul Kanunu hükümlerine göre ceza ve gecikme faizi ile birlikte geri alınır.",
+      "C) Mükellefin vergi dairesine olan tüm borçlarına el konulur.",
+      "D) Alınmayan harcın iki katı tutarında idari para cezası kesilir.",
+      "E) Herhangi bir müeyyide uygulanmaz, işlem geçerliliğini korur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "492 sayılı Harçlar Kanunu'na göre, pey akçesi, cayma tazminatı, ücret tevkifi, cezai şart gibi bir akdin müeyyidesi mahiyetinde olan taahhütlerden ne şekilde harç (Noter harcı) alınır?",
+    "options": [
+      "A) Asıl akdin bedeliyle toplanarak nispi harç alınır.",
+      "B) Her bir taahhüt için ayrı ayrı maktu harç alınır.",
+      "C) Başlı başına bir akde (sözleşmeye) konu olmadıkça bu taahhütlerden harç alınmaz.",
+      "D) Cayma tazminatının %5'i oranında harç alınır.",
+      "E) Bu tür taahhütler her koşulda harca tabidir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Harçlar Kanunu uyarınca, Ticaret Sicili harçlarının tahsili ve beyanıyla ilgili uygulamada aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Harçlar sadece vergi dairesine elden nakit olarak ödenir.",
+      "B) Harçlar, ticaret ve sanayi odaları tarafından tahsil edilir ve izleyen ayın 15. günü akşamına kadar vergi dairesine bildirilip ödenir.",
+      "C) Ticaret sicili harçları yıl sonunda kurumlar vergisi beyannamesi ile birlikte ödenir.",
+      "D) Harçların ödenmesinden sadece şirketi kuran ortaklar sorumludur, oda görevlileri sorumlu tutulamaz.",
+      "E) Harcı tahsil eden ticaret odaları, tahsilatın %20'sini kendilerine komisyon olarak alıp kalanını vergi dairesine aktarırlar."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Harçlar Kanunu'na göre, aşağıda sayılan işlemlerden hangisi Tapu ve Kadastro Harçlarından müstesna tutulmamıştır?",
+    "options": [
+      "A) Genel ve özel bütçeli idarelerin iktisap edecekleri gayrimenkullerin tescil işlemleri",
+      "B) Mahkemeler ve icra dairelerince istenen tapu kayıt suretleri",
+      "C) Deprem, yangın, su basması gibi tabii afet bölgelerinde 5 yıl içinde arsa üzerine inşa edilen binaların tescili",
+      "D) 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki tescilli kültür varlıklarının devir işlemleri",
+      "E) Gerçek kişilerin mesken amaçlı olarak banka kredisiyle satın aldıkları ikinci el konutların tapu tescil işlemleri"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Yabancı devletlerin Türkiye'de bulunan elçi, maslahatgüzar ve konsolosları ile Türkiye'de resmi göreve memur edilenlerin kendi sıfatlarından dolayı yapacakları harca mevzu işlemlerin harçtan muaf olabilmesinin TEMEL ŞARTI nedir?",
+    "options": [
+      "A) İşlemin Dışişleri Bakanlığınca onaylanması",
+      "B) Karşılıklılık (Mütekabiliyet) esasının bulunması",
+      "C) İlgili devletin NATO üyesi olması",
+      "D) İşlemin 100.000 TL'nin altında olması",
+      "E) Yabancı uyrukluların Türkiye'de 6 aydan fazla ikamet etmiş olması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İlama dayanmayan takip isteklerinde (İcra takiplerinde), alacak miktarının ne kadarı peşin harç olarak alınır?",
+    "options": [
+      "A) Binde 5'i (Binde beşi)",
+      "B) Yüzde 1'i",
+      "C) Yüzde 5'i",
+      "D) Binde 9'u",
+      "E) Maktu bir harç alınır, nispi hesaplama yapılmaz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Gemi ve liman harçlarıyla ilgili olarak, Türkiye limanları arasında muntazam seferler yapan ticaret gemilerinden hareketlerinde (tam olarak alınan liman çıkış belgesi harcı), dönüşlerine kadar uğrayacakları limanlarda hangi oranda alınır?",
+    "options": [
+      "A) Tam olarak tekrar alınır.",
+      "B) 1/2'si (yarısı) nispetinde alınır.",
+      "C) 1/5'i (beşte biri) nispetinde alınır.",
+      "D) 1/10'u nispetinde alınır.",
+      "E) Dönüş limanlarında hiçbir suretle harç alınmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki kâğıtların veya işlemlerin hangisinde Cumhurbaşkanının oran veya tutar belirleme/değiştirme yetkisi bulunmamaktadır?",
+    "options": [
+      "A) Maktu harçları on katına kadar artırmaya yetkilidir.",
+      "B) Nispi harçları bir katına kadar artırmaya yetkilidir.",
+      "C) Maktu harçları yarısına kadar indirmeye yetkilidir.",
+      "D) Nispi harçları sıfıra (0) kadar indirmeye yetkilidir.",
+      "E) Nispi harçları tamamen yürürlükten kaldırmaya ve yeni bir harç türü icat etmeye yetkilidir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Harçların ödenmesinde 'istihkaktan kesinti suretiyle' ödeme yapma yetkisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Genel ve özel bütçeli daireler, ödemelerinde kullandıkları makbuzların harçlarını istihkaktan kesinti yaparak ödeyebilirler.",
+      "B) İstihkaktan kesinti yapma iznini Maliye Bakanlığı verir.",
+      "C) Kesilen harçlar, ödemenin yapıldığı ayı izleyen ayın 26. günü akşamına kadar vergi dairesine yatırılır.",
+      "D) Bankalar ve iktisadi kamu teşekkülleri bu yöntemle harç tahsil edemezler.",
+      "E) İstihkaktan kesinti işlemi, hem kesin ödemelerde hem de avans ödemelerinde uygulanabilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "197 sayılı Motorlu Taşıtlar Vergisi Kanunu'na göre, taşıtların yaşının tespitinde uygulanan temel kural aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Taşıtın trafiğe çıktığı tarih esas alınır.",
+      "B) Taşıtın üretim ayı esas alınır.",
+      "C) Taşıtlar tescil belgesinde yazılı olan model yılında 1 yaşında kabul edilir.",
+      "D) Taşıtlar model yılını takip eden yılın başında 1 yaşında kabul edilir.",
+      "E) Yaş tespiti sadece faturanın kesildiği aya göre yapılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MTV Kanunu Madde 7'ye göre, takvim yılının SON ALTI AYI (Örn: Ağustos ayı) içinde ilk defa kayıt ve tescil edilen bir taşıtın vergi mükellefiyeti ne zaman başlar?",
+    "options": [
+      "A) Takvim yılı başından (1 Ocak)",
+      "B) Tescilin yapıldığı günden",
+      "C) Son altı aylık dönemin başından (1 Temmuz)",
+      "D) Takip eden takvim yılı başından",
+      "E) Tescil tarihini takip eden ayın başından"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir taşıtın devir ve temlik (satış) işleminin takvim yılının İLK ALTI AYI (Örn: Mart ayı) içinde yapılması halinde, yeni malikin mükellefiyeti ne zaman başlar?",
+    "options": [
+      "A) Satışın yapıldığı günden",
+      "B) Takvim yılı başından",
+      "C) Takip eden son altı aylık dönemin başından (1 Temmuz)",
+      "D) Takip eden takvim yılı başından",
+      "E) Satış tarihini takip eden ayın 15'inden"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdaki kurumlardan hangisinin adına kayıt ve tescil edilmiş taşıtlar (iktisadi işletmeler hariç) Motorlu Taşıtlar Vergisinden müstesna DEĞİLDİR?",
+    "options": [
+      "A) Belediye Başkanlıkları",
+      "B) İl Özel İdareleri",
+      "C) Sosyal Güvenlik Kurumu",
+      "D) Türkiye Kızılay Derneği",
+      "E) Borsa İstanbul (BİST) Anonim Şirketi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "MTV Kanunu'na göre 'Otomobil' ve 'Otobüs' tanımları arasındaki farka ilişkin oturma yeri sınırı aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Otomobil en çok 5, Otobüs en az 10 kişiliktir.",
+      "B) Otomobil en çok 8, Otobüs en az 18 kişiliktir.",
+      "C) Otomobil en çok 9, Otobüs en az 20 kişiliktir.",
+      "D) Otomobil en çok 7, Otobüs en az 15 kişiliktir.",
+      "E) Her iki araç türü de ağırlıklarına göre sınıflandırılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MTV Kanunu Madde 9'a göre, yıllık olarak tahakkuk eden verginin ödeme zamanları aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Her yıl Mart ve Eylül aylarında iki eşit taksitte",
+      "B) Her yıl Ocak ve Temmuz aylarında iki eşit taksitte",
+      "C) Her yıl Ocak ve Haziran aylarında iki eşit taksitte",
+      "D) Her yılın son ayında tek seferde",
+      "E) Aracın trafiğe çıkış yıl dönümünde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MTV Kanunu Madde 14 uyarınca, binek otomobillerinden alınan motorlu taşıtlar vergisi ve gecikme zamlarının Gelir veya Kurumlar Vergisi matrahından indirimi ile ilgili kural hangisidir?",
+    "options": [
+      "A) Tamamı gider olarak yazılabilir.",
+      "B) Sadece gecikme zamları gider yazılabilir.",
+      "C) Sadece verginin %50'si gider yazılabilir.",
+      "D) Ticari amaçlı araç kiralama şirketleri hariç, binek otomobillere ait MTV ve cezalar gider olarak kabul edilmez.",
+      "E) Şirket adına kayıtlı tüm araçların MTV'si her koşulda gider yazılır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sadece elektrik motoru olan taşıtların (Otomobil, motosiklet vb.) Motorlu Taşıtlar Vergisi nasıl hesaplanır?",
+    "options": [
+      "A) Vergi alınmaz, tamamen muaftır.",
+      "B) Tarifedeki tutarların yarısı (%50) oranında alınır.",
+      "C) Yaş ve motor gücü grubundaki vergi tutarlarının %25'i oranında vergilendirilir.",
+      "D) Benzinli araçlarla aynı oranda vergilendirilir.",
+      "E) Sadece emisyon değerine göre maktu bir ücret alınır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MTV Kanunu'na göre, motorlu taşıtların fenni muayenelerinin yapılabilmesi için ön koşul nedir?",
+    "options": [
+      "A) Sadece aracın kasko değerinin bildirilmiş olması",
+      "B) Aracın en az 3 yaşında olması",
+      "C) Verginin ödenmiş veya 6183 sayılı Kanun uyarınca taksitlendirilmiş olduğunun tevsiki",
+      "D) Aracın sahibi tarafından bizzat getirilmesi",
+      "E) Fenni muayene için MTV ödeme şartı 2024 yılında kaldırılmıştır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Model yılı 2026 olan bir taşıt, 2026 yılı takvim yılı içerisinde kaç yaşında kabul edilir?",
+    "options": [
+      "A) 0 yaşında",
+      "B) 1 yaşında",
+      "C) 2 yaşında",
+      "D) 0.5 yaşında",
+      "E) Yaş tespiti tescil tarihinden itibaren ay bazlı yapılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Noterler ve trafik sicil memurları, taşıtların satış veya devir işlemlerini yapmadan önce hangi belgeyi istemekle ZORUNLUDUR?",
+    "options": [
+      "A) Aracın periyodik bakım faturasını",
+      "B) Aracın en son kesilen trafik cezasının makbuzunu",
+      "C) Taşıta ait o güne kadar ödenmemiş vergi, gecikme zammı ve faizlerin ödendiğini gösterir belgeyi",
+      "D) Sürücü belgesi fotokopisini",
+      "E) Noter satışlarında herhangi bir belge isteme zorunluluğu yoktur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Azami toplam ağırlığı 3.500 kilogramı geçmeyen, kapalı kasalı, sürücü kısmından başka oturma yeri bulunan, hem insan hem yük taşımak için imal edilen araçlara ne denir?",
+    "options": [
+      "A) Kamyonet",
+      "B) Panel van",
+      "C) Arazi taşıtı",
+      "D) Kaptıkaçtı",
+      "E) Çekici"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MTV Kanunu Madde 10'a göre, Cumhurbaşkanının vergi miktarlarını değiştirme yetkisiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yeniden değerleme oranının %50 fazlasını geçmemek üzere yeni oranlar tespit edebilir.",
+      "B) Yeniden değerleme oranının %20'sinden az olmamak üzere yeni oranlar tespit edebilir.",
+      "C) Katalitik konvertörlü araçlarda vergi miktarlarını %50'ye kadar indirebilir.",
+      "D) Motor silindir hacmi gruplarını tamamen ortadan kaldırıp vergiyi sıfırlayabilir.",
+      "E) Taşıt değerlerini ayrı ayrı veya birlikte yeniden belirleyebilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Takvim yılının İLK ALTI AYI içinde trafik sicilinden kaydı silinen (hurdaya ayrılan) bir taşıtın mükellefiyeti ne zaman sona erer?",
+    "options": [
+      "A) Kaydın silindiği günden",
+      "B) Kaydın silindiği ayın sonundan",
+      "C) İkinci altı aylık dönemin başından (1 Temmuz)",
+      "D) Takip eden takvim yılı başından",
+      "E) Takvim yılı başından (Geriye dönük)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MTV Kanunu'na göre, mükellefiyeti bulunan motorlu taşıtlarda motor silindir hacmi veya azami toplam ağırlık gibi vergiye etki eden bir değişiklik (artış veya azalış) ilk altı ayda gerçekleşirse, bu değişiklik ne zamandan itibaren dikkate alınır?",
+    "options": [
+      "A) Değişikliğin yapıldığı günden",
+      "B) Takip eden ayın başından",
+      "C) Takip eden son altı aylık dönemin başından",
+      "D) Takip eden takvim yılı başından",
+      "E) Değişiklik yıl ortasında yapıldığı için hiçbir zaman dikkate alınmaz."
+    ],
+    "answer": 2
   }
-
 ],
 
   "Deneme Sınavı 01 (Genel Tarama)":   [
