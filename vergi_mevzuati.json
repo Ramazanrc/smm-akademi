@@ -11180,6 +11180,262 @@
   }
 ],
 
+  "Çalışma Soruları (Mevuzat Özet)": [
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, aşağıdakilerden hangisi Türkiye'de bir takvim yılı içinde altı aydan fazla kalsa dahi Türkiye'de yerleşmiş sayılmaz ve tam mükellef olmaz?",
+    "options": [
+      "A) İkametgahı Türkiye'de bulunan yabancı uyruklular",
+      "B) Türkiye'deki bir şirkette daimi kadroda çalışmaya başlayanlar",
+      "C) Belli ve geçici bir görev için Türkiye'ye gelen ilim ve fen adamları",
+      "D) Kendi isteğiyle Türkiye'ye yerleşip ticaret yapanlar",
+      "E) Yabancı bir şirketin Türkiye şubesini kurmak üzere süresiz atanan yöneticiler"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "7256 Sayılı Kanun kapsamında, ayrı bir iş yeri açmaksızın evlerde imal ettikleri malları internet üzerinden satanların esnaf muaflığından yararlanabilmesi için bankalar aracılığıyla yapılacak tevkifat oranları aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Standart %15, işçi çalıştırılması durumunda %10",
+      "B) Standart %4, ilgili ayda en az 10 gün süreyle bir ve üzeri işçi çalıştırılması durumunda %2",
+      "C) Standart %10, işçi çalıştırılması durumunda %5",
+      "D) Standart %5, ilgili ayda en az 15 gün işçi çalıştırılması durumunda %1",
+      "E) Standart %20, işçi çalıştırılması durumunda %15"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Genç girişimcilerde kazanç istisnası ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Mükellefiyet başlangıç tarihi itibarıyla 29 yaşını doldurmamış tam mükellef gerçek kişiler yararlanabilir.",
+      "B) İstisna süresi, faaliyete başlanılan takvim yılından itibaren 3 vergilendirme dönemidir.",
+      "C) Hastalık, askerlik veya tutukluluk gibi zaruri nedenlerle işinde bilfiil çalışmamak istisna şartını bozmaz.",
+      "D) İstisna tutarı, ilgili yıl için 103'üncü maddede yazılı tarifenin dördüncü diliminde yer alan tutar kadardır.",
+      "E) İşe başlamanın kanuni süresi içinde bildirilmiş olması şarttır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İnternet ortamı üzerinden metin, görüntü, ses, video gibi içerikler paylaşan sosyal içerik üreticilerinin bu faaliyetlerinden elde ettikleri kazançlara uygulanan gelir vergisi istisnası için bankaların uygulayacağı tevkifat oranı kaçtır?",
+    "options": [
+      "A) %2",
+      "B) %4",
+      "C) %10",
+      "D) %15",
+      "E) %20"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Binaların mesken olarak kiraya verilmesinden elde edilen hasılat istisnası (Madde 21) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) İstisna haddi üzerinde hasılat elde edilip beyan edilmemesi halinde bu istisnadan yararlanılamaz.",
+      "B) Ticari, zirai veya mesleki kazancını yıllık beyanname ile bildirmek mecburiyetinde olanlar bu istisnadan faydalanamazlar.",
+      "C) Elde edilen ücret, menkul, gayrimenkul ve diğer kazançların toplamı 103. maddedeki tarifenin üçüncü dilimini aşanlar bu istisnadan faydalanamaz.",
+      "D) İstisna haddi üzerinde eksik beyan yapılması durumunda istisnadan eksik oranda yararlanılır.",
+      "E) Bir takvim yılı içinde elde edilen mesken kira hasılatının kanunla belirlenen (örneğin 2026 için 58.000 TL) tutarı gelir vergisinden müstesnadır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Faaliyetleri binek otomobillerinin kiralanması veya işletilmesi olmayan bir bilanço esası mükellefi için, binek otomobillere ilişkin gider kısıtlaması kuralı aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Binek otomobillere ilişkin giderlerin tamamı ticari kazançtan indirilebilir.",
+      "B) Binek otomobillere ilişkin tamir, yakıt ve bakım giderlerinin en fazla %50'si indirilebilir.",
+      "C) Binek otomobillere ilişkin giderlerin en fazla %70'i ticari kazancın tespitinde indirim konusu yapılabilir.",
+      "D) Sadece motorlu taşıtlar vergisi ticari kazançtan gider olarak indirilemez, diğer giderlerin tamamı indirilir.",
+      "E) Binek otomobillere ilişkin giderlerin en fazla %30'u indirilebilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Birden fazla takvim yılına sirayet eden inşaat ve onarma işlerinde kazancın tespitine ve beyanına ilişkin olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Kâr veya zarar her takvim yılı sonunda ayrıca hesaplanıp beyan edilir.",
+      "B) Geçici kabul usulüne tabi olan işlerde işin bitim tarihi, kesin kabulün yapıldığı tarihtir.",
+      "C) Kâr veya zarar işin bittiği yıl kati olarak tespit edilir ve tamamı o yılın geliri sayılarak beyan edilir.",
+      "D) İnşaatın devam ettiği yıllarda elde edilen hakediş bedellerinin %10'u o yılın geliri sayılır.",
+      "E) Geçici kabul usulüne tabi olmayan işlerde bitim tarihi, inşaat ruhsatının alındığı tarihtir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir çiftçinin zirai kazancının gerçek usulde (zirai işletme hesabı veya bilanço esası) tespit edilebilmesi ve beyanname vermesi için aşağıdaki donanımlardan hangisine sahip olması tek başına yeterlidir?",
+    "options": [
+      "A) Bir adet kamyonet veya yük taşıma aracına sahip olması",
+      "B) On yaşına kadar ikiden fazla traktöre sahip olması",
+      "C) Sadece 10 yaşından büyük üç adet traktöre sahip olması",
+      "D) Seracılık faaliyetinde kullanmak üzere ısıtma sistemine sahip olması",
+      "E) Zirai ilaçlama yapmak için pülverizatör makinesine sahip olması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, çalışma gücünü asgari hangi oranda kaybeden hizmet erbabı 'ikinci derece engelli' sayılır?",
+    "options": [
+      "A) %40",
+      "B) %50",
+      "C) %60",
+      "D) %80",
+      "E) %90"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Gelir Vergisi Kanunu'na göre 'Ücret' sayılarak vergilendirilen ödemelerden biri değildir?",
+    "options": [
+      "A) Spor müsabakalarını yöneten hakemlere ödenen ücretler",
+      "B) Telif haklarının müellifleri veya kanuni mirasçıları tarafından kiralanmasından doğan kazançlar",
+      "C) Sporculara transfer ücreti adı altında yapılan ödemeler",
+      "D) Mahkemeler tarafından atanan bilirkişilere ödenen paralar",
+      "E) Hizmet sözleşmesi sona erdikten sonra ikale sözleşmesi kapsamında ödenen iş güvencesi tazminatları"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İkametgahının bir kısmını aynı zamanda serbest meslek faaliyeti için işyeri olarak kullanan bir mali müşavirin, giderlerini indirmesiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Ödediği kiranın yarısını, ısıtma ve aydınlatma giderlerinin tamamını gider yazabilir.",
+      "B) Ödediği kiranın tamamını, ısıtma ve aydınlatma giderlerinin tamamını gider yazabilir.",
+      "C) Ödediği kiranın tamamını, ısıtma ve aydınlatma gibi diğer giderlerin ise yarısını gider yazabilir.",
+      "D) Ödediği kiranın yarısını, ısıtma ve aydınlatma giderlerinin de yarısını gider yazabilir.",
+      "E) İkametgah işyeri olarak kullanıldığı için kira ve ısıtma giderlerinin hiçbiri gider yazılamaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gayrimenkul Sermaye İradı elde eden mükellefler için 'Götürü Gider' uygulamasına ilişkin aşağıdaki bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Götürü gider oranı, elde edilen gayrisafi hasılatın %15'idir.",
+      "B) Hakları kiraya veren mükellefler götürü gider usulünden faydalanamazlar.",
+      "C) Götürü gider usulünü kabul eden mükellefler, bu usulden istedikleri yıl vazgeçerek gerçek gider usulüne dönebilirler.",
+      "D) Götürü gider usulünde, mükellefin ayrıca gerçek giderlerini belgelendirmesine gerek yoktur.",
+      "E) Götürü gider usulünü seçenler iki yıl geçmedikçe bu usulden dönemezler."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir gerçek kişi tarafından iktisap edilen aşağıdaki mal veya haklardan hangisinin, 2 yıl sonra satılması durumunda elde edilen kazanç kesinlikle 'Değer Artış Kazancı' (DAK) olarak vergilendirilmez?",
+    "options": [
+      "A) Satın alınarak iktisap edilen bir konutun satılması",
+      "B) Taksi plakalarının (ticari plakaların) elden çıkarılması",
+      "C) Bir anonim şirket ortaklık payını temsil eden hisse senetlerinin satılması (Borsada işlem görmeyen ve 1 yıl önce ivazlı alınan)",
+      "D) Satın alınan bir arazinin satılması",
+      "E) Telif haklarının, mucidi dışındaki bir kişi (satın alan 3. kişi) tarafından satılması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Gelir Vergisi Kanunu'na göre 'Arızi Kazanç' olarak vergilendirilmez?",
+    "options": [
+      "A) Arızi olarak ticari bir muamelenin icrasına aracılık etmekten alınan komisyon",
+      "B) Gayrimenkulün tahliyesi karşılığında kiracının aldığı hava parası (tazminat)",
+      "C) Faaliyeti durdurulan bir işletmenin tamamen elden çıkarılmasından doğan kazanç",
+      "D) Gerçek usulde vergiye tabi bir mükellefin işini terk ettikten sonra tahsil ettiği şüpheli alacak",
+      "E) Henüz başlamamış olan bir ihaleye iştirak edilmemesi karşılığında elde edilen hasılat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, aşağıda belirtilen mükelleflerden hangisi faaliyetinden kazanç elde etmemiş (zarar etmiş veya hiç hasılat yapmamış) olsa dahi yıllık beyanname vermek zorundadır?",
+    "options": [
+      "A) Sadece tek işverenden ücret geliri elde edenler",
+      "B) Sadece tevkifata tabi tutulmuş menkul sermaye iradı elde edenler",
+      "C) Serbest meslek erbabı",
+      "D) Sadece istisna haddi altında kalan gayrimenkul sermaye iradı elde edenler",
+      "E) Kazancı basit usulde tespit edilen ve 20.000 TL ticari kazancı olan esnaf"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir Vergisi Kanunu uyarınca, 2026 takvim yılı için tevkifata ve istisna uygulamasına konu olmayan menkul ve gayrimenkul sermaye iratlarının hangi tutarı aşmaması halinde yıllık beyanname verilmez?",
+    "options": [
+      "A) 13.000 TL",
+      "B) 18.000 TL",
+      "C) 22.000 TL",
+      "D) 25.000 TL",
+      "E) 58.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yıllık gelir vergisi beyannamesinde zararların karlara takas ve mahsubuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Menkul ve gayrimenkul sermaye iratlarında, sermayede meydana gelen eksilmeler (gider fazlalığından doğanlar hariç) zarar sayılmaz.",
+      "B) Diğer kazanç ve iratlardan doğan zararlar, diğer gelir unsurlarından (örneğin ticari kazançtan) mahsup edilemez.",
+      "C) Mahsup neticesinde kapatılmayan zarar kısmı, müteakip yılların gelirinden indirilir.",
+      "D) Arka arkaya en fazla 3 yıl içinde mahsup edilmeyen zarar bakiyesi müteakip yıllara devredilemez.",
+      "E) Türkiye'de gelir vergisinden istisna edilen kazançlarla ilgili yurt dışı zararlar, yurt içindeki kazançlardan mahsup edilemez."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gelir vergisi matrahının tespitinde yapılacak indirimlerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Eğitim ve sağlık harcamaları beyan edilen gelirin %10'unu aşamaz.",
+      "B) Amatör spor dalları için yapılan sponsorluk harcamalarının tamamı (%100'ü) indirilebilir.",
+      "C) Fakirlere yardım amacıyla gıda bankacılığı yapan vakıflara bağışlanan gıda maddelerinin maliyet bedelinin tamamı indirilir.",
+      "D) Profesyonel spor dalları için yapılan sponsorluk harcamalarının %50'si indirilebilir.",
+      "E) Eğitim ve sağlık harcamalarının yurt dışında yapılmış olması ve yabancı belgelerle tevsik edilmesi durumunda da indirim hakkından faydalanılabilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, genel kural olarak muhtasar beyanname ne zamana kadar vergi dairesine bildirilir?",
+    "options": [
+      "A) Ödemenin yapıldığı ayı takip eden ayın 15. günü akşamına kadar",
+      "B) Ödemenin yapıldığı ayı takip eden ayın 20. günü akşamına kadar",
+      "C) Ödemenin yapıldığı ayı takip eden ayın 23. günü akşamına kadar",
+      "D) Ödemenin yapıldığı ayı takip eden ayın 26. günü akşamına kadar",
+      "E) Ödemenin yapıldığı takvim yılını takip eden yılın Mart ayının 25. günü akşamına kadar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vergiye uyumlu mükelleflere sağlanan %5'lik vergi indirimi (Mükerrer Madde 121) uygulaması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Hesaplanan indirim tutarı, 2026 takvim yılı için 12.000.000 TL'yi aşamaz.",
+      "B) İndirimden yararlanılabilmesi için beyannamenin verildiği tarih itibarıyla vadesi geçmiş vergi borcunun 1.000 TL'yi aşmaması gerekir.",
+      "C) İndirilecek tutarın ödenmesi gereken vergiden fazla olması durumunda kalan tutar, izleyen bir tam yıl içinde mükellefin diğer vergilerinden mahsup edilebilir.",
+      "D) Bir tam yıl içinde mahsup edilemeyen indirim tutarları, mükellefin yazılı talebi üzerine nakden iade edilir.",
+      "E) İndirimin hesaplanacağı yıl ve önceki son 2 yıla ait vergi beyannamelerinin kanuni süresinde verilmiş olması şarttır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gerçek usulde gelir vergisine tabi ticari kazanç sahiplerinin geçici vergi beyan ve ödeme süreleri aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Üç aylık dönemi izleyen ikinci ayın 14. günü akşamına kadar beyan edilir, 17. günü akşamına kadar ödenir.",
+      "B) Üç aylık dönemi izleyen ayın 20. günü akşamına kadar beyan edilir ve ödenir.",
+      "C) Üç aylık dönemi izleyen ikinci ayın 15. günü akşamına kadar beyan edilir, 20. günü akşamına kadar ödenir.",
+      "D) Dört aylık dönemi izleyen ayın 14. günü akşamına kadar beyan edilir, 17. günü akşamına kadar ödenir.",
+      "E) Üç aylık dönemi izleyen ikinci ayın 23. günü akşamına kadar beyan edilir, 26. günü akşamına kadar ödenir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Geçici vergi uygulamasına ilişkin yapılan incelemeler sonucunda, geçmiş dönemlere ait geçici verginin en az hangi oranda eksik beyan edildiğinin tespiti halinde re'sen veya ikmalen tarhiyat yapılır (Yanılma payı sınırı nedir)?",
+    "options": [
+      "A) %5",
+      "B) %10",
+      "C) %15",
+      "D) %20",
+      "E) %25"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, yıllık beyanname ile bildirilen ticari, zirai veya serbest meslek kazançları üzerinden tahakkuk ettirilen gelir vergisi hangi aylarda ödenir?",
+    "options": [
+      "A) Mart ve Haziran aylarında iki eşit taksitte",
+      "B) Nisan ve Ağustos aylarında iki eşit taksitte",
+      "C) Mart ve Temmuz aylarında iki eşit taksitte",
+      "D) Şubat ve Haziran aylarında iki eşit taksitte",
+      "E) Nisan ve Ekim aylarında iki eşit taksitte"
+    ],
+    "answer": 2
+  }
+],
+
   "Deneme Sınavı 01 (Genel Tarama)":   [
   {
     "q": "213 sayılı VUK'da yer alan \"Vergi kanunları lafzı ve ruhu ile hüküm ifade eder\" hükmündeki \"ruhu\" ifadesi aşağıdakilerden hangisiyle ilişkilendirilebilir?",
