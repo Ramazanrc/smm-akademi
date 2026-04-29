@@ -7911,7 +7911,669 @@
       ],
       "answer": 4
     }
-  ]
+ ], 
+  "Çalışma Soruları (Mevzuat Özet)": [ 
+  {
+    "q": "6362 sayılı Sermaye Piyasası Kanunu'na göre, yeni nesil finansman yöntemi olan 'Kitle Fonlaması Platformları' ve bu platformlar aracılığıyla yürütülen faaliyetler hakkında aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kitle fonlama platformlarının kurulabilmesi ve faaliyete başlaması için Sermaye Piyasası Kurulundan (SPK) özel izin alınması hukuki bir zorunluluktur.",
+      "B) Kurul, kitle fonlaması faaliyetlerinin sadece ortaklığa dayalı olarak değil, aynı zamanda borçlanmaya dayalı olarak halktan para toplanması suretiyle yapılmasına da izin verebilir.",
+      "C) Borçlanmaya dayalı kitle fonlaması faaliyetleri yürüten platformlar, halktan borç para topladıkları için doğrudan doğruya 5411 sayılı Bankacılık Kanunu mevzuatına tabi tutulurlar.",
+      "D) Kitle fonlaması işlemleri ve bu platformlar, bu Kanunun borsalar, piyasa işleticileri ve teşkilatlanmış diğer pazar yerleri ile ilgili hükümlerine tabi değildir.",
+      "E) Kitle fonlaması işlemlerine ilişkin hazırlanan bilgi formunu imzalayan gerçek ve tüzel kişiler, bu formda yer alan yanlış veya eksik bilgilerden kaynaklanan zararlardan müteselsilen sorumludurlar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yatırım kuruluşları ve portföy yönetim şirketleri tarafından sunulan 'Yatırım Hizmetleri' ve 'Yan Hizmetler' ile ilgili yetkilendirme süreçlerine ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Hem yatırım hizmetleri hem de yan hizmetler için SPK'dan her faaliyet türü bazında ayrı ayrı yetki belgesi alınması kanuni bir zorunluluktur.",
+      "B) Yatırım hizmetlerinin ticari olarak icra edilebilmesi için Kuruldan izin alınması zorunludur; ancak yan hizmetler ayrıca bir yetki belgesine tabi olmaksızın Kurulca belirlenen esaslar çerçevesinde yapılabilir.",
+      "C) Özel kanunları ile yetkili kılınmış olan kuruluşlar (örneğin kalkınma bankaları), SPK'dan herhangi bir izin almaksızın tüm yatırım hizmetlerini serbestçe sunabilirler.",
+      "D) Faaliyet izni başvuruları, gerekli tüm belgelerin eksiksiz olarak Kurula sunulmasından itibaren azami üç (3) ay içinde karara bağlanmak zorundadır.",
+      "E) Faaliyet izninin verildiği tarihten itibaren üç (3) yıl süreyle ilgili izin kapsamında herhangi bir faaliyette bulunulmaması halinde faaliyet izni doğrudan iptal edilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye Piyasası Kanunu, yatırımcıların aracı kurumlara emanet ettikleri malvarlıklarının korunması amacıyla çok sert 'malvarlığı ayrılığı' kuralları getirmiştir. Buna göre, yatırımcı varlıklarının hukuki durumu hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yatırımcıların her ne surette olursa olsun yatırım kuruluşları nezdinde bulunan nakit ve sermaye piyasası araçları, kuruluşun kendi malvarlıklarından tamamen ayrı izlenir.",
+      "B) Yatırımcıların varlıkları, yatırımcıların yazılı açık izni olmaksızın tevdi amacı dışında kendilerine veya üçüncü kişilere menfaat sağlayacak şekilde kullanılamazlar.",
+      "C) Devletin vergi güvenliğini sağlamak amacıyla; yatırımcının şahsi vergi borcu bulunması halinde, yatırım kuruluşunun kendi malvarlığına (şirketin kasasına) kamu alacağı için haciz konulabilir.",
+      "D) Yatırımcıların nakit ve sermaye piyasası araçları, yatırım kuruluşunun üçüncü kişilere veya devlete olan kendi borçları nedeniyle kamu alacakları için olsa dahi kesinlikle haczedilemez ve iflas masasına dâhil edilemez.",
+      "E) Yatırım kuruluşları, yatırımcılardan kredili işlemler, ödünç işlemleri veya açığa satış işlemleri nedeniyle teminat verilmesini isteyebilirler."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye piyasası araçlarını konu alan 'Teminat Sözleşmeleri'nde mülkiyetin devrine ve temerrüt (borcun ödenmemesi) durumuna ilişkin aşağıdaki kurallardan hangisi mevzuata uygundur?",
+    "options": [
+      "A) Sermaye piyasası araçlarını konu alan teminat sözleşmeleri sözlü olarak da yapılabilir; tarafların güvene dayalı ticari ilişkisi varsa yazılılık şartı aranmaz.",
+      "B) Sözleşmede teminat konusu sermaye piyasası araçlarının mülkiyetinin teminat alana geçip geçmeyeceği hususunda bir hüküm bulunmaması hâlinde, mülkiyetin teminat alana GEÇTİĞİ (devredildiği) kabul edilir.",
+      "C) Temerrüt hâlinde teminat alan kişi; herhangi bir ihbar veya ihtarda bulunma, süre verme veya mahkemeden izin alma yükümlülüğü olmaksızın, teminat konusu araçları borsadaki değerinden aşağı olmamak üzere satarak alacağını karşılama hakkına sahiptir.",
+      "D) Teminat veren hakkında iflas veya yeniden yapılandırma kararı verilmesi halinde, teminat sözleşmeleri otomatik olarak iptal olur ve teminat konusu hisseler iflas masasına devredilir.",
+      "E) Mülkiyetin teminat verende kaldığı sözleşmelerde, teminat alan kişi temerrüt halinde doğrudan ve hiçbir şart aranmaksızın aracı kendi mülkiyetine geçirip hesabı kapatabilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Değişken Sermayeli Yatırım Ortaklıklarının (DSYO) sermaye yapısı ve paylarıyla ilgili olarak aşağıda verilen özelliklerden hangisi yanlıştır?",
+    "options": [
+      "A) Değişken sermayeli yatırım ortaklıkları, sermayesi her zaman net aktif değerine (varlıklar eksi borçlar) eşit olan yatırım ortaklıklarıdır.",
+      "B) Değişken sermayeli yatırım ortaklıklarının paylarının mutlaka itibari (nominal) bir değeri bulunmak zorundadır ve bu paylar bedelleri tamamen ödenmeden ihraç edilemez.",
+      "C) Bu ortaklıkların payları 'kurucu payları' ve 'yatırımcı payları' olmak üzere ikiye ayrılır; yatırımcı payları sahibine ortaklık genel kurulunda idari haklar vermez.",
+      "D) Kurucu paylarının kuruluştan sonra devri ve itfası Kurulca belirlenen esaslar çerçevesinde Kurul iznine tabidir; onay alınmadan yapılan devirler pay defterinde hükümsüzdür.",
+      "E) Değişken sermayeli yatırım ortaklıklarında Türk Ticaret Kanununun anonim şirketlerde asgari sermaye miktarına ve nominal değere ilişkin hükümleri uygulanmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye Piyasası Kanunu uyarınca 'Yatırım Fonları'nın hukuki niteliği, tesisi ve yönetimine ilişkin aşağıdaki ifadelerden hangisi kanuna açıkça aykırıdır?",
+    "options": [
+      "A) Yatırım fonları, inançlı mülkiyet esasına göre yönetilmek üzere portföy yönetim şirketleri tarafından fon içtüzüğü ile kurulan ve tüzel kişiliği bulunmayan malvarlığıdır.",
+      "B) Yatırım fonlarının kuruluş izni alabilmesi için, kurucu portföy şirketinin varlıkları kendi bünyesinde saklayacağını taahhüt etmesi ve Kuruldan bu yönde özel izin alması zorunludur.",
+      "C) Yatırım fonları kural olarak tüzel kişiliğe sahip olmamakla birlikte; tapu, ticaret sicili ve diğer resmî sicillerde yapılacak tescil ve ortaklık işlemleriyle sınırlı olarak tüzel kişiliği haiz addolunur.",
+      "D) Tapuda veya ticaret sicilinde fon adına yapılacak resmi işlemler, portföy yönetim şirketi ile portföy saklama hizmetini yürüten kuruluşu temsil eden birer yetkilinin müşterek imzalarıyla gerçekleştirilir.",
+      "E) Fon mal varlığı, portföy yönetim şirketi ve portföy saklama kuruluşunun kendi şahsi malvarlığından ayrıdır ve iflas masalarına dâhil edilemez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Portföy Saklama Hizmetini yürüten kuruluşların görev, yetki ve sorumluluklarına ilişkin 'Bağımsızlık İlkesi' çerçevesinde aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Portföy saklama hizmetini yürüten kuruluş, yükümlülüklerini yerine getirmemesi nedeniyle yatırım fonlarında katılma payı sahiplerine verdiği zararlardan doğrudan sorumludur.",
+      "B) Portföy saklama kuruluşu, saklamasında bulunan varlıkların bir kısmını diğer saklama kuruluşları nezdinde de saklayabilir; bu durumda tüm kuruluşlar müteselsilen sorumlu olurlar.",
+      "C) Portföy saklama kuruluşunun yöneticileri veya temsilcileri, sektördeki tecrübelerini aktarmak amacıyla portföy yönetim şirketlerinde de danışman veya azınlık ortağı olarak görev alabilirler.",
+      "D) Portföy saklama hizmetini yürüten kuruluş ile portföy yönetim şirketi aynı tüzel kişi olamaz; birbirlerinden bağımsız hareket etmek zorundadırlar.",
+      "E) Kolektif yatırım kuruluşlarının varlıklarıyla ilgili işlemlerinden doğan edimlerine ilişkin bedelin uygun sürede aktarılmasının sağlanması saklama kuruluşunun görevlerindendir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Konut ve Varlık Finansmanı Fonlarına ilişkin SPK mevzuatında yer alan kurallardan hangisi, fon malvarlığının korunması ilkesine aykırılık teşkil eder?",
+    "options": [
+      "A) Konut finansmanı fonu, ipoteğe dayalı menkul kıymetler karşılığında toplanan paralarla inançlı mülkiyet esasına göre fon içtüzüğü ile kurulan ve tüzel kişiliği olmayan mal varlığıdır.",
+      "B) Fon mal varlığı, ipoteğe veya varlığa dayalı menkul kıymetler itfa edilinceye kadar, fon portföyüne alacaklarını devreden şirketin kamu borçları (vergi, SGK vb.) sebebiyle devlet tarafından haczedilebilir ve iflas masasına dahil edilebilir.",
+      "C) Fon mal varlığı, fon hesabına olması şartıyla sadece kredi almak veya türev araç işlemleri gibi fon adına taraf olunan hallerde teminat gösterilebilir.",
+      "D) Devrinin geçerliliği bir tapu veya sicil kaydına bağlı olan varlık ve haklar, tapu siciline veya ilgili sicile 'fon adına' tescil edilir.",
+      "E) Fon kurulu, ipoteğe veya varlığa dayalı menkul kıymetlerin sahiplerinin haklarını koruyacak şekilde fonu temsil eder ve yönetir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye Piyasası Kanunu kapsamında çıkarılan 'İzahname' ve 'İhraç Belgesi' arasındaki temel ayrım aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İzahname sadece tahvil ihraçlarında kullanılırken, ihraç belgesi hisse senedi ihraçlarında kullanılır.",
+      "B) İzahnameyi SPK onaylarken, İhraç Belgesini sadece şirketin Yönetim Kurulu onaylar; SPK onayına gerek yoktur.",
+      "C) İzahnamenin geçerlilik süresi 6 ay iken, İhraç belgesi onaylandığı tarihten itibaren süresiz olarak geçerlidir.",
+      "D) İzahname sermaye piyasası araçlarının HALKA ARZ EDİLMESİ halinde hazırlanırken; İhraç Belgesi, araçların HALKA ARZ EDİLMEKSİZİN (tahsisli veya nitelikli yatırımcıya) satılması durumunda hazırlanır.",
+      "E) İzahnameden doğan zararlardan şirket yönetimi sorumlu tutulurken, ihraç belgesinden doğan zararlardan sadece aracı kurum sorumlu tutulur."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir şirketin finansal tablolarını denetleyen 'Bağımsız Denetim Kuruluşları'nın ve bağımsız denetçilerin, görevleri sırasında şirkette tespit ettikleri olumsuzluklar karşısındaki yükümlülüğü (Madde 64) aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Denetledikleri şirkette faaliyetlerin sürekliliğini tehlikeye atacak bir durum tespit etmeleri halinde, ticari sır kavramı gereği bu durumu sadece şirketin yönetim kuruluna bildirmekle yükümlüdürler.",
+      "B) Olumsuz durumları sadece yıl sonunda hazırlayacakları Bağımsız Denetim Raporu'nun dipnotlarında şifreli olarak belirtmeleri yeterlidir, Kurula özel bir ihbarda bulunmaları gerekmez.",
+      "C) Denetçiler bu tür bildirimleri doğrudan Cumhuriyet Savcılığına yapmak zorundadırlar, SPK bu aşamada yetkisizdir.",
+      "D) Mevzuatı ihlal eden, faaliyetlerin düzenli yürümesini engelleyen veya olumsuz görüş gerektiren her türlü durumu derhâl SPK'ya bildirmekle yükümlüdürler ve bu bildirim ticari sırrın ihlali sayılmaz.",
+      "E) Bağımsız denetçilerin kurula ihbarda bulunması durumunda, şirket ortakları tarafından kendilerine açılacak yüklü tazminat davalarından hukuken şahsen sorumlu olurlar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Yatırımcı Tazmin Merkezi (YTM) kapsamında yatırımcıların tazmin edilme sınırları ve tazmin edilmeyecek kişiler (Madde 84) ile ilgili olarak aşağıdakilerden hangisi hukuken doğru bir ifadedir?",
+    "options": [
+      "A) Bir aracı kurumun iflası halinde, o kurumdan alınan yatırım danışmanlığı sonucunda yanlış hisse senedine yatırım yaparak zarar eden yatırımcıların zararı, YTM tarafından eksiksiz tazmin edilir.",
+      "B) Yatırım kuruluşunun iflas etmesine neden olan yönetim kurulu üyeleri ve yüzde beş (%5) veya daha fazla paya sahip ortakları ile bu kişilerin eşleri YTM'den tazminat talep edemezler.",
+      "C) Hak sahibi her bir yatırımcıya ödenecek azami tazmin tutarı 100.000 TL olup, bu rakam sabittir ve enflasyon veya Cumhurbaşkanı kararı dahi olsa kesinlikle artırılamaz.",
+      "D) Yatırımcıların tazmin talebinde bulunma hakkı, SPK'nın tazmin kararını ilan ettiği tarihten itibaren beş (5) yıl geçmesiyle zamanaşımına uğrar.",
+      "E) Suçtan kaynaklanan mal varlığı değerlerini aklama (kara para) suçundan mahkûm olan yatırımcılara ait hesaplardaki paralar da, mülkiyet hakkı gereği hiçbir kesintiye uğramadan YTM'ce ödenir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hakkında yatırımcıları tazmin kararı verilen ve Kurul tarafından 'Tedrici Tasfiye' sürecine alınan bir yatırım kuruluşu ile ilgili aşağıda belirtilen hukuki sonuçlardan hangisi ortaya ÇIKMAZ?",
+    "options": [
+      "A) Kuruluşun ödemeleri anında durur ve tüm mal varlığı üzerinde sadece YTM tarafından tasarruf edilebilir.",
+      "B) Tedrici tasfiye kararı verilenler hakkında 6183 sayılı Kanun ve İcra-İflas Kanunu kapsamında takip yapılamaz, daha önce başlamış olan tüm takipler kendiliğinden durur.",
+      "C) Tedrici tasfiye sırasındaki görevlerinin ifası sebebiyle YTM'nin kanuni temsilcisi, yöneticisi veya personeli aleyhine açılacak her türlü tazminat ve alacak davaları doğrudan YTM tüzel kişiliği aleyhine açılır.",
+      "D) Tedrici tasfiye sürecini yürüten YTM personeli, tasfiye edilen şirketin geçmişe dönük ödenmemiş kamu borçlarından (Vergi, SGK vb.) ve diğer mali yükümlülüklerinden şahsen sorumlu tutulur.",
+      "E) Tedrici tasfiye kararından tasfiye sonuçlanıncaya kadar şirketin eski kanuni organlarının görev ve yetkileri YTM tarafından yerine getirilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sermaye Piyasası Kurulunun (SPK) denetim faaliyeti ve bilgi toplama yetkisi (Madde 89, 90) kapsamında, aşağıda yer alan ifadelerden hangisi kanuna açıkça aykırıdır?",
+    "options": [
+      "A) Denetimle görevlendirilen personel, ilgililerin vergi kayıtları da dâhil olmak üzere tüm defter, belge ve bilişim sistemlerini yerinde inceleme yetkisine sahiptir.",
+      "B) Kendilerinden bilgi istenilen gerçek ve tüzel kişiler, özel kanunlardaki gizlilik ve sır saklama (müşteri sırrı vb.) hükümlerini ileri sürerek Kurula bilgi vermekten imtina edemezler.",
+      "C) İncelemeye konu olan kişi ve kurumların, incelemenin varlığını ve niteliğini üçüncü kişilere karşı sır olarak saklamaları zorunludur.",
+      "D) Kurul personeli, acil durumlarda delillerin karartılmasını önlemek amacıyla herhangi bir adli makam kararı olmaksızın kendi inisiyatifiyle kolluk kuvvetini (polisi) çağırarak işyerinde zorla arama yapabilir.",
+      "E) Arama yapılabilmesi için Kurul Başkanının talepte bulunması ve Sulh Ceza Hâkiminin kararı vermesi yasal olarak şarttır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "SPK tarafından uygulanan 'İdari Para Cezaları'nın tutarları ve bu tutarların tahsilat sonrası dağıtımıyla (Madde 103, 105) ilgili olarak kanunda belirtilen temel kural aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bir şirkete veya şahsa uygulanacak idari para cezası, şirketin yıllık kârının %10'unu hiçbir şekilde aşamaz.",
+      "B) Aykırılık sebebiyle bir menfaat temin edilmiş olsa dahi, Kurulun takdir yetkisiyle idari para cezası tamamen affedilebilir veya alt sınırın çok altına indirilebilir.",
+      "C) Yükümlülüğe aykırılık dolayısıyla bir menfaat temin edilmiş (örneğin haksız kazanç sağlanmış) olması hâlinde, verilecek idari para cezasının miktarı elde edilen bu menfaatin İKİ (2) KATINDAN az olamaz.",
+      "D) Tahsil edilen idari para cezalarının tamamı (%100'ü) doğrudan Kurulun (SPK) kendi bütçesine aktarılır ve personelin performans primi ödemelerinde kullanılır.",
+      "E) İdari para cezalarının tahsil edilen tutarının %75'i Maliye Hazinesine aktarılırken, %25'i şikayeti gerçekleştiren ihbarcıya ödül olarak verilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye Piyasası Kanununda tanımlanan suçlardan (Örn: Manipülasyon, Bilgi Suistimali) dolayı ceza yargılamasının (savcılık soruşturması) başlayabilmesi için aranan çok özel 'Muhakeme Şartı' aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Soruşturmanın başlaması için zarar gören en az 100 yatırımcının aynı anda savcılığa ıslak imzalı dilekçe ile şikâyette bulunması şarttır.",
+      "B) Borsa İstanbul (BİST) Yönetim Kurulunun, şüpheli işlemleri tespit ettikten sonra doğrudan ve sadece Cumhuriyet Başsavcılığına ihbar etmesi şarttır.",
+      "C) Mali Suçları Araştırma Kurulunun (MASAK) işlemi kara para aklama yönünden şüpheli bulup onay vermesi şarttır.",
+      "D) Bu suçlardan dolayı soruşturma yapılabilmesi, münhasıran Sermaye Piyasası Kurulu (SPK) tarafından Cumhuriyet Başsavcılığına YAZILI BAŞVURUDA (suç duyurusunda) bulunulmasına bağlıdır.",
+      "E) Soruşturmanın başlatılabilmesi için önce Sermaye Piyasası Kurulunun kendi içinde İdari Para Cezası kesmesi ve bu cezanın idare mahkemesince onanması zorunludur."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6362 sayılı Sermaye Piyasası Kanunu'na göre, yeni nesil finansman yöntemi olan 'Kitle Fonlaması Platformları' ve bu platformlar aracılığıyla yürütülen faaliyetler hakkında aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kitle fonlama platformlarının kurulabilmesi ve faaliyete başlaması için Sermaye Piyasası Kurulundan (SPK) özel izin alınması hukuki bir zorunluluktur.",
+      "B) Kitle fonlaması faaliyetlerinin borçlanmaya dayalı olarak yapılması halinde bu faaliyetlere bankacılık mevzuatı hükümleri UYGULANMAZ.",
+      "C) Kitle fonlaması işlemleri ve bu platformlar, bu Kanunun borsalar, piyasa işleticileri ve teşkilatlanmış diğer pazar yerleri ile ilgili hükümlerine tabi değildir.",
+      "D) Kitle fonlaması ile halktan para toplayan girişim şirketleri, pay sahibi sayıları 500'ü aştığı andan itibaren derhal 'Halka Açık Ortaklık' statüsü kazanırlar ve ağır yükümlülüklere tabi olurlar.",
+      "E) Kitle fonlaması işlemlerine ilişkin hazırlanan bilgi formunu imzalayan gerçek ve tüzel kişiler, bu formda yer alan yanlış veya eksik bilgilerden kaynaklanan zararlardan müteselsilen sorumludurlar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sermaye piyasası araçlarının halka arz edilebilmesi için Kurulca onaylanması zorunlu olan 'İzahname' süreciyle ilgili olarak aşağıdakilerden hangisi kanuna aykırıdır?",
+    "options": [
+      "A) Kurul, izahnamenin onaylanmasına ilişkin başvuruları, kural olarak tüm belgelerin eksiksiz sunulmasından itibaren 10 iş günü içinde karara bağlar.",
+      "B) İzahname onaylandıktan sonra ilk yayım tarihinden itibaren on iki (12) ay boyunca gerçekleştirecek ihraçlar için geçerlidir.",
+      "C) Satış sürecinde yeni ve yatırımcı kararını etkileyecek bir husus ortaya çıkarsa, durum derhal Kurula bildirilir, Kurul 7 iş günü içinde onaylar ve yatırımcılar yayımdan itibaren 2 iş günü içinde taleplerini geri alma (cayma) hakkına sahip olur.",
+      "D) İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan ilk ve asli olarak sadece bağımsız denetim kuruluşları sorumludur.",
+      "E) İzahnamenin onaylanması, izahnamede yer alan bilgilerin doğru olduğunun Kurulca tekeffülü (garanti edilmesi) anlamına gelmeyeceği gibi, bir tavsiye olarak da kabul edilemez."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Halka açık anonim ortaklıklarda uygulanan 'Kayıtlı Sermaye Sistemi'nin işleyişi ile ilgili aşağıda yer alan kurallardan hangisi mevzuata aykırıdır?",
+    "options": [
+      "A) Yönetim kurulu, esas sözleşmede kendisine tanınan kayıtlı sermaye tavanına kadar, genel kurul kararına ihtiyaç duymaksızın yeni pay ihraç ederek sermayeyi artırmaya yetkilidir.",
+      "B) Kayıtlı sermaye sisteminde çıkarılan paylar tamamen satılarak bedelleri ödenmedikçe veya satılamayan paylar iptal edilmedikçe, yeni pay çıkarılması kanunen yasaktır.",
+      "C) Genel kurul, yönetim kuruluna kayıtlı sermaye tavanına kadar sermayeyi artırma yetkisini en fazla beş (5) yıl süreyle verebilir; süresi azami beşer yıllık dönemlerle uzatılabilir.",
+      "D) Yönetim kurulunun, yeni pay alma (rüçhan) haklarını sınırlandırabilmesi veya imtiyazlı pay ihraç edebilmesi için, esas sözleşme ile açıkça yetkili kılınmış olması şarttır.",
+      "E) Kayıtlı sermaye sistemine geçen bir şirket, her yıl elde ettiği net kârın tamamını ortaklarına bedelsiz pay olarak dağıtmak zorundadır, aksi halde sistemden Kurulca çıkarılır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Sermaye Piyasası Kanunu uyarınca, halka açık ortaklıkların yapacakları 'Önemli Nitelikteki İşlemlere' (Örn: Bölünme, birleşme) ilişkin genel kurul karar nisapları konusunda aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Toplantıya şirketin tüm pay sahiplerinin katılması zorunludur ve kararlar oy birliği ile alınır.",
+      "B) Toplantı nisabı aranmaksızın, her halükarda genel kurula katılanların salt çoğunluğu ile (katılanların %50'sinden 1 fazlası) karar alınır.",
+      "C) Kural olarak, toplantı nisabı aranmaksızın genel kurula katılan oy hakkını haiz payların üçte ikisinin (2/3) olumlu oyu şarttır. Ancak toplantıda sermayenin en az yarısı hazır bulunuyorsa, katılanların salt çoğunluğu ile karar alınması yeterlidir.",
+      "D) Karar alabilmek için SPK'nın atayacağı bir kayyumun veya bağımsız denetçinin toplantıda olumlu oy kullanması zorunludur.",
+      "E) Önemli nitelikteki işlemler sadece yönetim kurulu üyelerinin salt çoğunluğunun vereceği kararla icra edilebilir, genel kurul toplanmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye Piyasası Kanunu uyarınca 'Yatırım Fonları'nın hukuki niteliği, tesisi ve yönetimine ilişkin aşağıdaki ifadelerden hangisi kanuna açıkça aykırıdır?",
+    "options": [
+      "A) Yatırım fonları, inançlı mülkiyet esasına göre yönetilmek üzere portföy yönetim şirketleri tarafından fon içtüzüğü ile kurulan ve tüzel kişiliği BULUNMAYAN malvarlığıdır.",
+      "B) Fon mal varlığı, portföy yönetim şirketi ve portföy saklama kuruluşunun kendi şahsi malvarlığından ayrıdır ve bu kurumların kamu borçları için dahi haczedilemez, iflas masalarına dâhil edilemez.",
+      "C) Yatırım fonlarının kuruluş izni alabilmesi için, kurucu portföy şirketinin varlıkları kendi bünyesinde saklayacağını taahhüt etmesi ve Kuruldan bu yönde özel izin alması zorunludur.",
+      "D) Yatırım fonları kural olarak tüzel kişiliğe sahip olmamakla birlikte; tapu, ticaret sicili ve diğer resmî sicillerde yapılacak tescil ve ortaklık işlemleriyle sınırlı olarak tüzel kişiliği haiz addolunur.",
+      "E) Tapuda veya ticaret sicilinde fon adına yapılacak resmi işlemler, portföy yönetim şirketi ile portföy saklama hizmetini yürüten kuruluşu temsil eden birer yetkilinin müşterek imzalarıyla gerçekleştirilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye piyasası araçlarını konu alan 'Teminat Yöneticisi' ve 'Teminat Sözleşmeleri'ne ilişkin aşağıdaki kurallardan hangisi mevzuata uygundur?",
+    "options": [
+      "A) Teminat yöneticisi, mülkiyeti kendisine teminaten devredilen varlıkları tasarruf amacı dışında kullanarak kendi menfaatine çevirirse, hükmedilecek hapis cezası BEŞ (5) YILDAN az olamaz.",
+      "B) Sözleşmede teminat konusu sermaye piyasası araçlarının mülkiyetinin teminat alana geçip geçmeyeceği hususunda bir hüküm bulunmaması hâlinde, mülkiyetin teminat alana GEÇTİĞİ (devredildiği) peşinen kabul edilir.",
+      "C) Temerrüt hâlinde teminat alan kişi; araçları satabilmek için mutlaka borçluya 30 günlük ihtarname çekmek ve Asliye Ticaret Mahkemesinden satış izni almak zorundadır.",
+      "D) Teminat yöneticisinin şahsi vergi borçları nedeniyle, elinde emanet bulunan teminat konusu varlıklar vergi dairesince haczedilip açık artırmayla satılabilir.",
+      "E) Teminat sözleşmeleri sözlü olarak da yapılabilir; güvene dayalı ticari ilişkilerde yazılılık şartı aranmaz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Halka açık ortaklıklarda ilişkili bulundukları kişi veya kurumlarla piyasa teamüllerine aykırı fiyat, ücret ve bedel içeren anlaşmalar yaparak şirketin kârını veya malvarlıklarını azaltmayı (Örtülü Kazanç Aktarımı) yasaklayan düzenleme ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Örtülü kazanç aktarımının tespiti hâlinde SPK, aktarılan tutarın kanuni faizi ile birlikte şirkete iadesini talep eder.",
+      "B) Halka açık ortaklıklar, ilişkili taraf işlemlerinin emsallere uygun olduğunu belgelemek ve bu belgeleri en az sekiz (8) yıl süre ile saklamak zorundadırlar.",
+      "C) İlişkili taraf işleminin emsallere aykırı ve hileli olduğunu ispat yükümlülüğü Kurula (SPK'ya) aittir; şirket masumiyetini kanıtlamak zorunda değildir.",
+      "D) Bu fiili gerçekleştirerek şirketin kârını azaltmak, aynı zamanda 'Güveni Kötüye Kullanma' suçunun nitelikli halini oluşturur ve en az 3 yıl hapis cezası öngörür.",
+      "E) Örtülü kazanç aktarımı yasağının ihlali durumunda idari para cezası ve cezai yaptırımlar saklı kalmak üzere iade davası açılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir şirketin finansal tablolarını denetleyen 'Bağımsız Denetim Kuruluşları'nın ve bağımsız denetçilerin, görevleri sırasında şirkette tespit ettikleri olumsuzluklar karşısındaki hukuki yükümlülüğü (Madde 64) aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Denetledikleri şirkette faaliyetlerin sürekliliğini tehlikeye atacak bir durum tespit etmeleri halinde, ticari sır kavramı gereği bu durumu sadece şirketin yönetim kuruluna bildirmekle yetinirler.",
+      "B) Mevzuatı ihlal eden, faaliyetlerin düzenli yürümesini engelleyen veya olumsuz görüş gerektiren her türlü durumu derhâl SPK'ya bildirmekle yükümlüdürler ve bu bildirim sır saklama ihlali sayılmaz.",
+      "C) Olumsuz durumları sadece yıl sonunda hazırlayacakları Bağımsız Denetim Raporu'nun dipnotlarında şifreli olarak belirtmeleri yeterlidir, SPK'ya özel bir ihbarda bulunmaları gerekmez.",
+      "D) Bağımsız denetçiler, hazırladıkları raporlardaki yanlış veya eksik bilgilerden sadece SPK'ya karşı sorumludur, zarara uğrayan yatırımcıların onlara tazminat davası açma hakkı yoktur.",
+      "E) Denetçiler tespit ettikleri usulsüzlükleri doğrudan Cumhuriyet Savcılığına yapmak zorundadırlar, SPK'nın bu konuda bilgi alma yetkisi kaldırılmıştır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye Piyasası Kurulunun (SPK) denetim faaliyeti, arama yetkisi ve bilgi toplama yükümlülüğü (Madde 89, 90) kapsamında aşağıda yer alan ifadelerden hangisi kanuna aykırıdır?",
+    "options": [
+      "A) Denetimle görevlendirilen personel, ilgililerin vergi kayıtları da dâhil olmak üzere tüm defter, belge ve elektronik bilişim sistemlerini yerinde inceleme yetkisine sahiptir.",
+      "B) Kendilerinden bilgi istenilen gerçek ve tüzel kişiler, bankacılık kanunu gibi özel kanunlardaki gizlilik ve sır saklama hükümlerini ileri sürerek Kurula bilgi vermekten imtina edemezler.",
+      "C) Kurul personeli, acil durumlarda delillerin karartılmasını önlemek amacıyla herhangi bir adli makam kararı olmaksızın kendi inisiyatifiyle işyerinde zorla arama yapabilir ve el koyabilir.",
+      "D) Arama yapılabilmesi için Kurul Başkanının talepte bulunması ve Sulh Ceza Hâkiminin kararı vermesi yasal olarak şarttır.",
+      "E) İncelemeye konu olan kişi ve kurumların, SPK incelemesinin varlığını ve niteliğini üçüncü kişilere karşı sır olarak saklamaları zorunludur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yatırımcı Tazmin Merkezi (YTM) kapsamında yatırımcıların tazmin edilme sınırları, şartları ve tazmin edilmeyecek kişiler (Madde 84) ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Yatırımcıların borsadaki sert fiyat düşüşlerinden (piyasa hareketlerinden) veya yanlış yatırım danışmanlığından kaynaklanan tüm zararları YTM tarafından eksiksiz tazmin edilir.",
+      "B) Yatırım kuruluşunun iflas etmesine neden olan yönetim kurulu üyeleri ve bu şirketlerde yüzde bir (%1) paya sahip tüm küçük ortaklar YTM'den tazminat talep edemezler.",
+      "C) Hak sahibi her bir yatırımcıya ödenecek azami tazmin tutarı 100.000 TL olup, bu sınır her yıl yeniden değerleme oranıyla artırılır ve Cumhurbaşkanı bu tutarı 5 katına kadar artırmaya yetkilidir.",
+      "D) Yatırımcıların tazmin talebinde bulunma hakkı, SPK'nın tazmin kararını ilan ettiği tarihten itibaren on (10) yıl sonra zamanaşımına uğrar.",
+      "E) Suçtan kaynaklanan mal varlığı değerlerini aklama (kara para) suçundan mahkûm olan kişilere ait hesaplardaki paralar da, mülkiyet hakkı gereği hiçbir kesintiye uğramadan YTM'ce tazmin edilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "SPK tarafından uygulanan 'İdari Para Cezaları'nın tutarları, asgari sınırları ve bu tutarların tahsilat sonrası bütçelendirilmesiyle (Madde 103, 105) ilgili olarak kanunda belirtilen temel kural aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bir şirkete veya şahsa uygulanacak idari para cezası, şirketin yıllık kârının %5'ini hiçbir şekilde aşamaz.",
+      "B) Yükümlülüğe aykırılık dolayısıyla bir menfaat temin edilmiş (örneğin haksız kazanç sağlanmış) olması hâlinde, verilecek idari para cezasının miktarı elde edilen bu menfaatin İKİ (2) KATINDAN az olamaz.",
+      "C) Tahsil edilen idari para cezalarının tamamı (%100'ü) doğrudan Kurulun (SPK) kendi bütçesine aktarılır ve personelin prim ödemelerinde kullanılır.",
+      "D) Aykırılık sebebiyle bir menfaat temin edilmiş olsa dahi, Kurulun takdir yetkisiyle idari para cezası tamamen affedilebilir veya alt sınırın çok altına indirilebilir.",
+      "E) Tahsil edilen idari para cezalarının tamamı Yatırımcı Tazmin Merkezine (YTM) devredilir, genel bütçeye (Hazineye) herhangi bir pay aktarılmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye piyasası araçlarının fiyatlarını etkileyebilecek nitelikteki, henüz kamuya duyurulmamış (içsel) bilgilere dayalı olarak alım-satım yapıp menfaat sağlamak (İçeriden Öğrenenlerin Ticareti) suçunun tanımı ve cezası aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bu eylem 'Piyasa Dolandırıcılığı' (Manipülasyon) sayılır ve cezası 2 yıldan 4 yıla kadar hapistir.",
+      "B) Bu eylem 'Örtülü Kazanç Aktarımı' sayılır ve cezası sadece idari para cezasıdır.",
+      "C) Bu eylem 'Bilgi Suistimali' (Insider Trading) sayılır ve bu suçu işleyenler 3 yıldan 5 yıla kadar hapis veya adli para cezası ile cezalandırılırlar.",
+      "D) Bu eylem 'Güveni Kötüye Kullanma' sayılır ve cezası 1 yıldan 7 yıla kadar hapistir.",
+      "E) Bu eylem 'İzinsiz Sermaye Piyasası Faaliyeti' sayılır ve cezası 5 yıldan 10 yıla kadar hapistir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "SPK mevzuatındaki 'Etkin Pişmanlık' hükümlerine göre, Bilgi Suistimali veya Piyasa Dolandırıcılığı suçunu işleyen bir şahsın hapis cezası almaması veya cezasında indirim yapılması için aranan koşullar aşağıdakilerin hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Suç işleyen kişi elde ettiği menfaatin tamamını (1 katını) soruşturma başladıktan sonra öderse ceza tamamen ortadan kalkar.",
+      "B) Sermaye piyasası suçlarında etkin pişmanlık sadece idari para cezaları için geçerlidir, hapis cezalarını hiçbir şekilde kapsamaz.",
+      "C) Bilgi suistimali suçunu işleyen kişi, elde ettiği menfaatin İKİ KATI tutarındaki parayı henüz soruşturma başlamadan önce Hazineye öderse hakkında cezaya hükmolunmaz.",
+      "D) Kovuşturma evresinde (mahkeme aşamasında) hüküm verilinceye kadar ödeme yapan kişiye ceza verilmez ancak borsada işlem yapması ömür boyu yasaklanır.",
+      "E) Soruşturma evresinde menfaatin yarısının ödenmesi durumunda hapis cezası paraya çevrilerek ertelenir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye Piyasası Kanununda tanımlanan suçlardan (Örn: Manipülasyon, İzinsiz halka arz) dolayı ceza yargılamasının (savcılık soruşturması) başlayabilmesi için aranan özel 'Muhakeme Şartı' aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Soruşturmanın başlaması için zarar gören en az 100 küçük yatırımcının aynı anda savcılığa ıslak imzalı dilekçe ile şikâyette bulunması şarttır.",
+      "B) Borsa İstanbul (BİST) Yönetim Kurulunun, şüpheli işlemleri tespit ettikten sonra doğrudan Cumhuriyet Başsavcılığına resmi olarak ihbar etmesi şarttır.",
+      "C) Mali Suçları Araştırma Kurulunun (MASAK) işlemi kara para aklama yönünden şüpheli bulup savcılığa rapor göndermesi şarttır.",
+      "D) Bu Kanunda tanımlanan suçlardan dolayı soruşturma yapılması, münhasıran Sermaye Piyasası Kurulu (SPK) tarafından Cumhuriyet Başsavcılığına YAZILI BAŞVURUDA bulunulmasına bağlıdır.",
+      "E) Soruşturmanın başlatılabilmesi için önce Sermaye Piyasası Kurulunun kendi içinde idari para cezası kesmesi ve bu cezanın kesinleşmesi zorunludur."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "SPK personeli görevleri sırasında öğrendikleri sır niteliğindeki bilgileri kural olarak başkalarına açıklayamazlar. Ancak Kanun (Madde 135), bu 'Sır Saklama' yükümlülüğüne bir istisna getirmiştir. Buna göre aşağıdakilerden hangisi sır saklama yasağının ihlali sayılmaz?",
+    "options": [
+      "A) Kurul personelinin, borsa forumlarında yatırımcıları uyarmak maksadıyla takma isimle şirket sırlarını ifşa etmesi.",
+      "B) Kurul personelinin, ceza soruşturması ve kovuşturması kapsamında savcılıklara ve ceza mahkemelerine bilgi vermesi sır saklama yasağının ihlali sayılmaz.",
+      "C) Dışarıdan hizmet alımı yoluyla Kurula destek veren taşeron şirket çalışanlarının, bu bilgileri çalıştıkları asıl şirkete raporlaması.",
+      "D) Kurul personelinin emekli olduktan veya istifa ettikten sonra anılarını yazarken bu sırları kitaplaştırması.",
+      "E) Kurul personelinin, Türkiye'deki sır niteliğindeki bilgileri hiçbir şekilde ve hiçbir şart altında (mutabakat zaptı olsa dahi) yabancı ülkelerin denetim mercileriyle paylaşması."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gayrimenkul değerleme uzmanlığı lisansına sahip olan kişilerin ve değerleme kuruluşlarının Türkiye Değerleme Uzmanları Birliğine (TDUB) üyelik süreçleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Üyelik isteğe bağlıdır, sadece SPK kaydı mesleki faaliyet için yeterlidir.",
+      "B) Birlik üyeliği sadece tüzel kişi şirketler için zorunludur, gerçek kişi uzmanlar üye olamaz.",
+      "C) Lisans sahibi, lisans almaya hak kazandığı tarihten itibaren 3 ay içinde üyelik başvurusu yapmak zorundadır, aksi halde lisansı SPK tarafından iptal edilir.",
+      "D) Üye olmayan kuruluşlar sadece 10.000 TL idari para cezası ödeyerek faaliyetlerine devam edebilirler.",
+      "E) Değerleme kuruluşlarının faaliyete geçmeden önce doğrudan Tapu ve Kadastro Genel Müdürlüğüne kayıt olmaları yeterlidir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye Piyasası Kurulu (SPK) Karar Organının toplantı, karar yeter sayıları ve oylama kuralları hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kurul Karar Organı, en az beş (5) üye ile toplanır.",
+      "B) Kurul, kararlarını en az dört (4) üyenin aynı yöndeki oyu ile alır.",
+      "C) Oylamalarda kararsız kalan Kurul üyesi, gerekçesini belirterek çekimser oy kullanabilir.",
+      "D) Oyların eşitliği halinde Başkanın, Başkanın yokluğunda İkinci Başkanın oyu doğrultusunda karar alınmış sayılır.",
+      "E) Mazeretsiz olarak bir takvim yılında 5 toplantıya katılmayan üye üyelikten çekilmiş sayılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6362 sayılı Kanunla kurulan Borsa İstanbul Anonim Şirketi (BİST) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) İstanbul Menkul Kıymetler Borsası ile İstanbul Altın Borsasının tüzel kişiliklerinin sona ermesi ve birleşmesiyle kurulmuştur.",
+      "B) Borsalara karşı açılacak davalar idari yargıda değil, adli yargıda görülür.",
+      "C) Sermayesinin yarısından fazlası kamuya ait olduğu için Kamu İhale Kanunu ve Devlet İhale Kanunu gibi kamu kısıtlamalarına harfiyen tabidir.",
+      "D) Borsa başkanı ve yönetim kurulu üyeleri hakkında faaliyetleri nedeniyle ceza soruşturması yapılabilmesi SPK'nın (Kurulun) yazılı iznine bağlıdır.",
+      "E) BİST, kendi bütçesini ve personel kadrosunu kendi organları aracılığıyla bağımsız olarak belirler."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye Piyasası Kurulunun (SPK) Başkan ve üyeleri göreve başladıkları tarihten itibaren, sahip bulundukları sermaye piyasası araçlarını ne kadar süre içinde ve kime satarak elden çıkarmak zorundadırlar?",
+    "options": [
+      "A) 15 gün içinde - İkinci derece kan hısımlarına",
+      "B) 30 gün içinde - Eş, evlatlık, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımları DIŞINDAKİLERE",
+      "C) 60 gün içinde - SPK'nın belirleyeceği bağımsız bir fona veya kuruma",
+      "D) 3 ay içinde - Borsada rastgele yatırımcılara",
+      "E) Görev süresi boyunca satmaları yasaktır, MKK nezdinde dondurmaları gerekir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kayden izlenen (elektronik ortamdaki) sermaye piyasası araçlarına ilişkin tedbir, haciz ve benzeri her türlü idari ve adli taleplerin yerine getirilmesinde (sisteme işlenmesinde) münhasıran yetkili olan kurum veya kişiler aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Doğrudan aracı ihraç eden şirket (İhraççı)",
+      "B) Merkezi Kayıt Kuruluşunun (MKK) bizzat kendisi",
+      "C) Sadece İcra ve İflas Müdürlükleri",
+      "D) Merkezi Kayıt Kuruluşunun (MKK) üyeleri (Banka ve Aracı Kurumlar)",
+      "E) Sermaye Piyasası Kurulu (SPK)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kamuyu aydınlatma belgelerindeki (Örn: İzahname, finansal rapor) yanlış ve eksik bilgilerden doğan tazminat taleplerinin mahkemece REDDEDİLECEĞİ hallere ilişkin aşağıdakilerden hangisi kanunda sayılan bir sebep değildir?",
+    "options": [
+      "A) Sermaye piyasası aracının alım veya satımının, söz konusu kamuyu aydınlatma belgesine dayanmaması.",
+      "B) Yatırımcının, belgedeki bilgilerin yanlış veya yanıltıcı olduğunu BİLMESİNE RAĞMEN alım-satım yapmış olması.",
+      "C) Yanlış bilgiye ilişkin düzeltmenin, yatırım kararı verilmeden veya işlem yapılmadan önce ilan edilmiş olması.",
+      "D) Kamuya açıklanan belgede yer alan bilgiler yanlış olmasaydı dahi, yatırımcıların her halükarda zarara uğrayacak olmaları.",
+      "E) Şirketin, izahnamede yanlış bilgi verdiğini yatırımcı dava açtıktan sonra iyi niyetle kabul edip özür dilemiş olması."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İlişkili bulundukları kişi veya kurumlarla piyasa teamüllerine açıkça aykırı fiyat, ücret ve bedel uygulayarak 'örtülü kazanç aktarımında' bulunan ve bu suretle halka açık ortaklığın kârını azaltan yöneticiler hakkında, 'Güveni Kötüye Kullanma' suçu kapsamında hükmolunacak hapis cezası en az ne kadardır?",
+    "options": [
+      "A) 6 ay",
+      "B) 1 yıl",
+      "C) 2 yıl",
+      "D) 3 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "SPK'ya tabi kuruluşların finansal tablolarını denetleyen 'Bağımsız Denetim Kuruluşları', denetledikleri şirkette faaliyetlerin sürekliliğini engelleyecek bir durumu tespit ettiklerinde öncelikle kime bildirim yapmakla yükümlüdürler?",
+    "options": [
+      "A) Ticaret Bakanlığına",
+      "B) Şirketin Olağanüstü Genel Kuruluna",
+      "C) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumuna (KGK)",
+      "D) Doğrudan Cumhuriyet Savcılığına",
+      "E) Sermaye Piyasası Kuruluna (SPK)"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Yatırım kuruluşlarında (aracı kurumlarda) bulunan yatırım hizmet ve faaliyetlerinden kaynaklanan her türlü emanet ve alacaklar, hesap sahibinin yaptığı en son talep veya işlem tarihinden başlayarak ne kadar süre içinde talep edilmezse Yatırımcı Tazmin Merkezine (YTM) gelir kaydedilir?",
+    "options": [
+      "A) 1 yıl",
+      "B) 3 yıl",
+      "C) 5 yıl",
+      "D) 10 yıl",
+      "E) 20 yıl"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "SPK tarafından uygulanan idari para cezalarının alt ve üst sınırları ile tahsil edilen cezaların bütçelendirilmesine ilişkin aşağıdaki kurallardan hangisi doğrudur?",
+    "options": [
+      "A) Elde edilen haksız menfaat varsa, verilecek idari para cezası bu menfaatin üç katından az olamaz.",
+      "B) İdari para cezalarına karşı doğrudan Sulh Ceza Hakimliğine itiraz edilir.",
+      "C) Tahsil edilen idari para cezalarının yüzde ellisi (%50) genel bütçeye, diğer yüzde ellisi (%50) ise Yatırımcı Tazmin Merkezine (YTM) gelir kaydedilir.",
+      "D) Kurul tarafından kesilen tüm idari para cezaları Kurulun kendi bütçesine aktarılır ve personel ödeneklerinde kullanılır.",
+      "E) İdari para cezası verilmeden önce ilgilinin savunmasının alınması yasal bir şart değildir, Kurul doğrudan ceza keser."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Makul bir ekonomik veya finansal gerekçeyle açıklanamayan, borsa ve teşkilatlanmış diğer piyasaların güven, açıklık ve istikrar içinde çalışmasını bozacak nitelikteki eylemler (eğer hapis cezası gerektiren bir suç oluşturmuyorsa) ne ad alır ve yaptırımı nedir?",
+    "options": [
+      "A) Bilgi Suistimali - Hapis cezası verilir.",
+      "B) Piyasa Bozucu Eylem - SPK tarafından idari para cezası verilir.",
+      "C) Güveni Kötüye Kullanma - Faaliyet izni iptal edilir.",
+      "D) İzinsiz Sermaye Piyasası Faaliyeti - Şirkete kayyum atanır.",
+      "E) Manipülasyon - Sadece borsa işlem yasağı getirilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İhraççıların, inşa edilecek veya edilmekte olan gayrimenkul projelerinin finansmanında kullanılmak üzere ihraç ettikleri, projenin belirli bağımsız bölümlerini (veya belirli alan birimini) temsil eden ve nominal değeri eşit olan sermaye piyasası aracına ne ad verilir?",
+    "options": [
+      "A) Kira Sertifikası (Sukuk)",
+      "B) Gayrimenkul Yatırım Ortaklığı Payı",
+      "C) Gayrimenkul Sertifikası",
+      "D) Varlığa Dayalı Menkul Kıymet",
+      "E) İpoteğe Dayalı Menkul Kıymet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye Piyasası Kurulu meslek personelinin denetim görevini yapmasını fiziki veya fiili olarak engelleyen bir kişiye (örneğin müfettişin evrakları incelemesine izin vermemek) verilecek hapis cezasının sınırları aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 6 aydan 2 yıla kadar hapis",
+      "B) 1 yıldan 3 yıla kadar hapis",
+      "C) 3 yıldan 5 yıla kadar hapis",
+      "D) 2 yıldan 4 yıla kadar hapis",
+      "E) Sadece idari para cezası verilir, hapis yatılmaz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sermaye piyasalarının yeni nesil aktörlerinden olan 'Kitle Fonlama Platformları' üzerinden 'borçlanmaya dayalı' fon (para) toplanmasına Kurulca izin verilebilmektedir. Bu durum, halktan borç para toplama faaliyeti içermesi nedeniyle hangi hukuki sonuca tabidir?",
+    "options": [
+      "A) Platform derhal Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) denetimine girer.",
+      "B) Borçlanmaya dayalı kitle fonlaması faaliyetlerine bankacılık mevzuatı hükümleri KESİNLİKLE UYGULANMAZ.",
+      "C) Platformun ödenmiş sermayesinin en az bir banka kuruluş sermayesi kadar olması şartı aranır.",
+      "D) Platform, Türkiye Cumhuriyet Merkez Bankası zorunlu karşılık oranlarına tabi tutulur.",
+      "E) Borçlanmaya dayalı kitle fonlaması yasal olarak yasaklanmış olup sadece paya dayalı (ortaklığa dayalı) fonlama yapılabilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye Piyasası Kurulu (SPK) kararlarına karşı açılacak iptal davaları, hangi mahkemede görülür ve hukuki niteliği nedir?",
+    "options": [
+      "A) Asliye Ticaret Mahkemesinde - Adi yargılama usulü",
+      "B) Danıştay'da - İlk derece mahkemesi sıfatıyla",
+      "C) Ağır Ceza Mahkemesinde - Ceza yargılaması usulü",
+      "D) İdare Mahkemelerinde - Acele işlerden sayılarak",
+      "E) Bölge Adliye Mahkemesinde - Temyiz yolu kapalı olarak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Halka açık ortaklıkların ilişkili tarafları ile gerçekleştirecekleri işlemlerde (Örn: Ana ortağın şirketinden gayrimenkul alınması) Kurumsal Yönetim İlkeleri gereği aranan 'Bağımsız Üye Onayı' süreciyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İşlem için sadece bağımsız denetim raporu alınması yeterlidir, yönetim kurulu onayı aranmaz.",
+      "B) Bağımsız yönetim kurulu üyelerinin çoğunluğu işlemi onaylamazsa, bu işlem kesinlikle iptal edilir ve yapılamaz.",
+      "C) Bağımsız üyelerin çoğunluğu işlemi onaylamazsa, durum yeterli bilgiyi içerecek şekilde kamuya duyurulur ve işlem genel kurul onayına sunulur. Bu genel kurulda işlemin tarafları oy kullanamaz.",
+      "D) Bağımsız üyeler onaylamazsa, şirket doğrudan Sermaye Piyasası Kuruluna (SPK) başvurarak özel bir onay almak zorundadır.",
+      "E) İşlem bedeli şirket sermayesinin %10'unu aşmıyorsa bağımsız üyelerin görüşü dikkate alınmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye Piyasası Kanunu uyarınca 'Ayrılma Hakkı'nın kullanımında genel kurul kararlarına muhalif kalma ve muhalefet şerhini tutanağa kaydettirme şartının ARANMADIĞI (doğrudan ayrılma hakkının kullanılabildiği) istisnai durum aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Ortağın genel kurul günü ağır bir hastalık geçirerek hastanede yatması.",
+      "B) Ortağın şirketteki pay oranının yüzde beşin (%5) altında kalması.",
+      "C) Genel kurul toplantısına çağrının usulüne göre yapılmaması, gündemin gereği gibi ilan edilmemesi veya pay sahibinin toplantıya katılmasına haksız biçimde izin verilmemesi.",
+      "D) Ortaklığın son 3 yıl boyunca zarar etmiş olması ve kâr payı dağıtamaması.",
+      "E) Ayrılma hakkı talebinin toplantıdan 15 gün önce noter aracılığıyla şirkete bildirilmiş olması."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6362 sayılı Kanun kapsamında 'Değişken Sermayeli Yatırım Ortaklıklarında' Türk Ticaret Kanunu'nun (TTK) bazı hükümleri UYGULANMAZ. Aşağıdakilerden hangisi bu ortaklıklara uygulanamayacak TTK hükümlerinden biri değildir?",
+    "options": [
+      "A) Anonim şirketlerde esas sermayeye ilişkin hükümler",
+      "B) Asgari sermaye miktarına ilişkin hükümler",
+      "C) Payların itibari (nominal) değerine ilişkin hükümler",
+      "D) Bağımsız denetime tabi olmaya ilişkin hükümler",
+      "E) Ortaklığın kendi paylarını iktisap (geri alma) etmesine ilişkin kısıtlayıcı hükümler"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "SPK denetim faaliyetlerinin yürütülmesine ilişkin olarak, Kurula gerçeğe aykırı veya yanıltıcı nitelikte bilgi, belge vermek suretiyle 'gereksiz olarak Kurulun denetim yapmasına neden olan' (asılsız ihbarda bulunan) kişiler hakkında uygulanacak yaptırım nedir?",
+    "options": [
+      "A) 1 yıldan 3 yıla kadar hapis cezası verilir.",
+      "B) 1.000 Türk Lirasından 25.000 Türk Lirasına kadar idari para cezası verilir.",
+      "C) Elde ettikleri haksız menfaatin 3 katı oranında idari para cezası verilir.",
+      "D) SPK tarafından doğrudan haklarında Cumhuriyet Savcılığına dolandırıcılık suçundan suç duyurusunda bulunulur.",
+      "E) Herhangi bir yaptırım uygulanmaz, SPK ihbarları resen değerlendirme hakkına sahiptir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hakkında yatırımcıları tazmin kararı verilen ve bu sebeple 'Tedrici Tasfiyesine' karar gelinen bir yatırım kuruluşunda, YTM personelinin hukuki ve cezai sorumluluğuna ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Tedrici tasfiye sırasındaki görevleri sebebiyle YTM personeli aleyhine açılacak her türlü tazminat davaları doğrudan YTM tüzel kişiliği aleyhine açılır.",
+      "B) YTM personeli, tasfiyesini yürüttükleri şirketlerin doğmuş ve doğacak vergi, SGK ve diğer kamu borçlarından şahsen sorumlu tutulamaz.",
+      "C) YTM personelinin, tasfiye edilen şirketin sermayesini kaybetmesinden dolayı TTK uyarınca mahkemeye bildirimde bulunma yükümlülüğü yoktur.",
+      "D) YTM'nin, ağır ihmali veya kastı bulunan kendi personeline karşı rücu hakkı kanunen tamamen ortadan kaldırılmıştır.",
+      "E) YTM personeli hakkında TTK uyarınca şahsi sorumluluk davası açılamaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sermaye Piyasası Kanunu uyarınca izinsiz sermaye piyasası faaliyetinde bulunan kişiler (Örn: İzinsiz aracı kurum işletenler), bu faaliyetleri yürütürken aynı zamanda izahname yayımlama yükümlülüğünü yerine getirmeksizin halka arz (Usulsüz Halka Arz) suçunu da BİRLİKTE işlerlerse, cezalandırma usulü nasıl olur?",
+    "options": [
+      "A) Her iki suçtan dolayı ayrı ayrı hapis cezasına hükmedilir ve cezalar toplanır.",
+      "B) Sadece izinsiz sermaye piyasası faaliyetinden dolayı cezaya hükmedilir ve bu ceza yarı (1/2) oranında artırılır.",
+      "C) Suçlar iç içe girdiği için sadece en ağır olan usulsüz halka arz suçundan ceza verilir, artırım yapılmaz.",
+      "D) Her iki suç da idari para cezasına çevrilerek failin elde ettiği menfaatin iki katı tahsil edilir.",
+      "E) Sadece SPK'nın takdir edeceği suçtan dolayı dava açılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye Piyasası Kurulunun (SPK) meslek personeli (uzmanları), görevden ayrıldıktan (istifa veya emeklilik) sonra sermaye piyasası kurumlarında çalışmak isterlerse kanun onlara nasıl bir kısıtlama (soğuma süresi) getirmektedir?",
+    "options": [
+      "A) Görevden ayrıldıktan sonra hiçbir sermaye piyasası kurumunda ömür boyu yönetici olamazlar.",
+      "B) Görevden ayrıldıktan sonraki ilk 5 yıl içinde, halka açık ortaklıklarda bağımsız yönetim kurulu üyesi olamazlar.",
+      "C) Görevden ayrıldıktan sonra, son iki (2) yılda bizzat incelemiş veya denetlemiş oldukları kurumlarda iki (2) yıl boyunca görev alamazlar.",
+      "D) Görevden ayrıldıktan sonra 1 yıl boyunca kendi adlarına borsada hisse senedi alım satımı yapamazlar.",
+      "E) Herhangi bir kısıtlama yoktur, görevden ayrıldıkları gün diledikleri şirkette işe başlayabilirler."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yatırım fonlarının (Kolektif Yatırım Kuruluşları) yönetimi ve varlıkların saklanmasında 'Bağımsızlık İlkesi'ni korumak amacıyla getirilen yasal zorunluluk aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Portföy saklama hizmetini yürüten kuruluş ile portföy yönetim şirketi aynı tüzel kişi çatısı altında, ancak farklı departmanlarda örgütlenmek zorundadır.",
+      "B) Portföy saklama kuruluşu ile fon portföyüne varlık alım satımına aracılık eden yatırım kuruluşunun yöneticileri, portföy yönetim şirketinde kesinlikle ortak, yönetici veya temsilci OLAMAZLAR.",
+      "C) Portföy yönetim şirketinin ortakları, sadece şirketin %10'undan az paya sahip iseler aynı zamanda saklama kuruluşunda yönetici olabilirler.",
+      "D) Bağımsızlık ilkesi gereği, fon malvarlığının Türkiye Cumhuriyet Merkez Bankası (TCMB) kasalarında saklanması zorunludur.",
+      "E) Portföy yönetim şirketi, maliyetleri düşürmek amacıyla fon varlıklarını kendi bünyesindeki kiralık kasalarda muhafaza edebilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye Piyasası Kurulu Karar Organı toplantılarında üyelerin karar alma süreciyle ilgili olarak aşağıda yer alan bilgilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kurul toplantılarında üyeler kesinlikle çekimser oy kullanamazlar.",
+      "B) Oyların eşitliği hâlinde, Kurul Başkanının oyu iki oy sayılarak çoğunluk sağlanır.",
+      "C) Kurul Başkan ve üyeleri; kendisi, eşi ve ikinci derece dâhil kayın hısımlarıyla ilgili konularda oylamaya katılamazlar.",
+      "D) Toplantıya katılan üyelerin çoğunluğunun kabulü şartıyla toplantı gündeminde yer almayan hususlar da Kurul toplantısında görüşülebilir.",
+      "E) Karar alınabilmesi için en az dört (4) üyenin aynı yöndeki oyuyla karar verilmesi şarttır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İhraççıların, borçlanma araçlarına (Örn: Tahvil) ilişkin ödeme yükümlülüklerinin vadesinde yerine getirilmesini teminen atadıkları 'Teminat Yöneticisi' ile ilgili aşağıdakilerden hangisi kanuna aykırıdır?",
+    "options": [
+      "A) Teminat konusu varlıklar, teminat yöneticisinin şahsi borçları nedeniyle kamu alacakları için olsa dahi haczedilemez.",
+      "B) Temerrüt halinde teminat yöneticisi, mahkemeden veya idari merciden izin ya da onay alma şartı olmaksızın teminat konusu varlıkları satıp bedellerini yatırımcılara paylaştırabilir.",
+      "C) Teminat yöneticisinin sorumluluğunu hafifleten ya da kaldıran sözleşme hükümleri geçersizdir.",
+      "D) Teminat yöneticisi atandığı takdirde, bu yöneticinin ticaret unvanı ve yetkileri ihraççının sırrı sayılır ve Ticaret Siciline tescil edilmesi yasaktır.",
+      "E) Teminat yöneticisinin teminaten mülkiyeti devredilen varlıkları tasarruf amacı dışında kendi menfaatine kullanması durumunda hükmedilecek hapis cezası beş (5) yıldan az olamaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir anonim şirketin, paylarını sadece önceden belirlenmiş belirli profesyonel yatırımcılara veya kurumsal fonlara (halka arz etmeksizin) satması durumunda SPK'ya onaylatması gereken belge hangisidir?",
+    "options": [
+      "A) Kurumsal Uyum Raporu",
+      "B) İzahname",
+      "C) İhraç Belgesi",
+      "D) Özel Durum Açıklama Formu",
+      "E) Kamuyu Aydınlatma Beyannamesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sermaye Piyasası Kanununda yer alan suçlara (Örn: İçeriden Öğrenenlerin Ticareti) ilişkin açılacak davalarda, Kurulun (SPK'nın) hukuki konumu ne olur?",
+    "options": [
+      "A) Kurul davaya sadece bilirkişi sıfatıyla rapor sunar.",
+      "B) Kurul davaya 'Şikâyetçi' olarak katılır ve şikâyetinden vazgeçerse kamu davası düşer.",
+      "C) Cumhuriyet Savcısının açtığı davada iddianamenin kabulü ile birlikte Kurul aynı zamanda 'Katılan' (Müdahil) sıfatını kazanır.",
+      "D) Kurul davanın doğrudan savcısı gibi hareket eder ve iddianameyi kendisi hazırlar.",
+      "E) Hapis cezası söz konusu olduğu için SPK davada hiçbir sıfatla yer alamaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Halka açık ortaklıklarda, sermaye piyasası araçlarının değerini veya yatırımcıların kararlarını etkileyebilecek nitelikteki içsel bilgilerin kamuya açıklanmasının ERTELENMESİ (geciktirilmesi) hangi koşulların BİRLİKTE sağlanmasına bağlıdır?",
+    "options": [
+      "A) Bilginin şirket hisselerini düşürecek olması ve SPK'dan ön onay alınması şarttır.",
+      "B) İhraççının meşru çıkarlarının zarar görmemesi, ertelemenin yatırımcıları yanıltmaması ve ihraççının bu bilgilerin gizliliğini sağlayabilecek durumda olması şarttır.",
+      "C) Yönetim kurulunun oybirliğiyle karar alması ve durumun KAP'ta 'ertelendi' olarak kodlanması şarttır.",
+      "D) Bağımsız denetim kuruluşunun olumlu görüşü ve Borsa İstanbul yönetiminin onayı şarttır.",
+      "E) İçsel bilgilerin açıklanması hiçbir şekilde ertelenemez, erteleyenler piyasa dolandırıcılığından yargılanır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sermaye Piyasası Kurulu (SPK) personelinin görevleri sırasında öğrendikleri sırları açıklamasıyla ilgili 'Sır Saklama' yükümlülüğü (Madde 135) kapsamında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Görevleri sırasında öğrenilen sırları başkasına açıklamak 1 yıldan 3 yıla kadar hapis cezası gerektirir.",
+      "B) Kurulun dışarıdan destek hizmeti aldığı kişi ve kuruluşlar ile taşeron çalışanları da sır saklama hükmüne tabidir.",
+      "C) Kurulun ceza soruşturması kapsamında savcılıklara ve ceza mahkemelerine sır niteliğindeki bilgileri vermesi sır saklama ihlali sayılmaz.",
+      "D) Sır saklama yükümlülüğü personel Kuruldan istifa ettiği gün sona erer, sonrasında edindiği tecrübeleri serbestçe paylaşabilir.",
+      "E) Yabancı muadili denetim mercileri ile imzalanan mutabakat zabıtları çerçevesinde bilgi verilmesi sır kapsamı dışındadır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Zorunlu Pay Alım Teklifi (Çağrı) yapma yükümlülüğü doğmasına rağmen, bu yükümlülüğünü süresi içinde bilerek yerine getirmeyen gerçek ve tüzel kişilere uygulanan idari yaptırım (müeyyide) aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Sahip oldukları paylar SPK kararıyla derhal cebri icra (açık artırma) yoluyla satılır.",
+      "B) Bu kişilere 3 yıldan 5 yıla kadar hapis cezası verilir.",
+      "C) Bu kişilerin sahip olduğu oy hakları, zorunluluk yerine getirilene kadar kendiliğinden donar ve söz konusu paylar genel kurul toplantı nisabında dikkate alınmaz.",
+      "D) Bu kişilerin aldıkları tüm kâr paylarına Yatırımcı Tazmin Merkezi (YTM) lehine kalıcı olarak el konulur.",
+      "E) Bu kişiler yönetim kuruluna seçilmişlerse otomatik olarak üyelikleri düşer ve yerlerine kayyum atanır."
+    ],
+    "answer": 2
+  }
+ ]
 }
 
 
