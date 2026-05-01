@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
+    <!-- Matematiksel Formülleri (LaTeX) Ekranda Göstermek İçin MathJax Kodu -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SMM AKADEMİ | Soru Bankası Portalı</title>
@@ -445,6 +449,16 @@
                 </div>
             </div>
 
+            <div class="col-md-6 col-lg-4">
+                 <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('finansal_analiz_formulleri.md', 'Finansal Tablolar Analizi Formülleri')">
+                    <div class="ders-rozeti" style="background-color: #10b981;">Finansal Analiz</div>
+                    <div class="card-icon" style="color: #10b981; margin-top: 15px;"><i class="fas fa-chart-line"></i></div>
+                    <h3 class="fw-bold">Finansal Tablolar Analizi</h3>
+                    <p class="text-muted small">Likidite, mali yapı ve kârlılık oranları, devir hızı formülleri ve nakit dönüşüm süresi hesaplamaları.</p>
+                    <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #10b981;">Özeti Oku</button> </div>
+                </div>
+            </div>
+
             <!-- İSTİSNALAR VE TUZAKLAR KARTI -->
             <div class="col-md-6 col-lg-4">
                 <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('istisnalar_ozeti.md', 'Sınav Tuzakları ve İstisnalar')">
@@ -572,15 +586,19 @@ function ozetOku(dosyaAdi, baslik) {
                 gfm: true
             });
             icerikDiv.innerHTML = marked.parse(tamMetin);
-        })
+        
+        if (window.MathJax) {
+    MathJax.typesetPromise();
+}
+})
         .catch(error => {
             icerikDiv.innerHTML = `<p style="color:red; font-weight:bold;">Özet yüklenemedi: Lütfen '${dosyaAdi}' dosyasının proje klasöründe olduğundan emin olun.</p>`;
-        });
+        });     
 }
 
 function ozetGeriDon() {
     document.getElementById('okuma-ekrani').style.display = 'none';
-    document.getElementById('ozet-kartlari').style.display = 'flex';
+    document.getElementById('ozet-kartlari').style.display = 'flex';  
 }
 
 document.addEventListener('DOMContentLoaded', () => {
