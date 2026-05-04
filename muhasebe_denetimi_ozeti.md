@@ -45,12 +45,12 @@
     * Bağımsızlık ve tarafsızlığın külliyen kaybedilmesi.
 
 ## BÖLÜM 4: DENETİM SÖZLEŞMESİ VE KISTAS EŞLEŞTİRMELERİ (YENİ EKLENEN TUZAKLAR)
-* **Kıstas (Ölçüt) Eşleştirmesi (Kesin Çıkar):** Denetimin konusu ve kapsamına göre kıstaslar değişir[cite: 5]. 
-    * Finansal Tabloların (Bilanço, Kar/Zarar, Nakit Akış vb.) denetim kıstası <strong class="text-danger">TMS'dir (Türkiye Muhasebe Standartları)</strong>[cite: 5].
-    * Yönetim Kurulu Yıllık Faaliyet Raporu ve Riskin Erken Saptanması Komitesi Raporu'nun denetim kıstası ise <strong class="text-danger">TTK'dır (Türk Ticaret Kanunu)</strong>[cite: 5].
-* **Müşterinin (Yönetimin) Sorumlulukları:** Finansal tabloları GFRÇ'ye (Geçerli Finansal Raporlama Çerçevesi) göre hazırlamak ve iç kontrolü sağlamak müşterinin sorumluluğundadır[cite: 5]. Ayrıca denetim şirketine; kayıt ve belgelere erişim imkanı sağlama, gerekli kişilerle görüşme imkanı sağlama, yazılı teyit mektubu verme ve <strong class="text-danger">bilanço sonrası olaylardan haberdar etme</strong> zorunluluğu sözleşmede yer alır[cite: 5].
-* **Çerçevenin Kabul Edilebilirliği:** GFRÇ'nin uygunluğu belirlenirken; işletmenin niteliği, finansal tabloların amacı ve niteliği ile mevzuatın çerçeveyi belirleyip belirlemediği dikkate alınır[cite: 5].
-* **Denetim Ekibi ve Ücret Şartı:** Sözleşmede Sorumlu Denetçi, Kıdemli Denetçi ve Denetçilerin çalışma süreleri (saat) ile ücretleri (TL/saat) detaylıca yazılmalıdır[cite: 5]. Ayrıca <strong class="text-danger">Yedek Bağımsız Denetçiler</strong> de sözleşmede mutlaka belirtilmek zorundadır[cite: 5].
+* **Kıstas (Ölçüt) Eşleştirmesi (Kesin Çıkar):** Denetimin konusu ve kapsamına göre kıstaslar değişir. 
+    * Finansal Tabloların (Bilanço, Kar/Zarar, Nakit Akış vb.) denetim kıstası <strong class="text-danger">TMS'dir (Türkiye Muhasebe Standartları)</strong>.
+    * Yönetim Kurulu Yıllık Faaliyet Raporu ve Riskin Erken Saptanması Komitesi Raporu'nun denetim kıstası ise <strong class="text-danger">TTK'dır (Türk Ticaret Kanunu)</strong>.
+* **Müşterinin (Yönetimin) Sorumlulukları:** Finansal tabloları GFRÇ'ye (Geçerli Finansal Raporlama Çerçevesi) göre hazırlamak ve iç kontrolü sağlamak müşterinin sorumluluğundadır. Ayrıca denetim şirketine; kayıt ve belgelere erişim imkanı sağlama, gerekli kişilerle görüşme imkanı sağlama, yazılı teyit mektubu verme ve <strong class="text-danger">bilanço sonrası olaylardan haberdar etme</strong> zorunluluğu sözleşmede yer alır.
+* **Çerçevenin Kabul Edilebilirliği:** GFRÇ'nin uygunluğu belirlenirken; işletmenin niteliği, finansal tabloların amacı ve niteliği ile mevzuatın çerçeveyi belirleyip belirlemediği dikkate alınır.
+* **Denetim Ekibi ve Ücret Şartı:** Sözleşmede Sorumlu Denetçi, Kıdemli Denetçi ve Denetçilerin çalışma süreleri (saat) ile ücretleri (TL/saat) detaylıca yazılmalıdır. Ayrıca <strong class="text-danger">Yedek Bağımsız Denetçiler</strong> de sözleşmede mutlaka belirtilmek zorundadır.
 
 ## ⚠️ BÖLÜM 5: KRİTİK SÜRE VE YIL TUZAKLARI (SINAVIN KALBİ)
 * **Rotasyon (Değişim) Kuralı:** Son <strong class="text-danger">10 yılda 7 yıl</strong> denetim yapanlar, <strong class="text-danger">3 YIL GEÇMEDİKÇE</strong> o kurumu tekrar denetleyemez.
