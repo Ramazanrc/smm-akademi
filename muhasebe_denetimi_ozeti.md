@@ -44,7 +44,15 @@
     * <strong class="text-danger">Kasıtlı olarak yanlış görüş bildirilmesi</strong> (Olumsuz verilmesi gerekirken olumlu vermek vb.).
     * Bağımsızlık ve tarafsızlığın külliyen kaybedilmesi.
 
-## ⚠️ BÖLÜM 4: KRİTİK SÜRE VE YIL TUZAKLARI (SINAVIN KALBİ)
+## BÖLÜM 4: DENETİM SÖZLEŞMESİ VE KISTAS EŞLEŞTİRMELERİ (YENİ EKLENEN TUZAKLAR)
+* **Kıstas (Ölçüt) Eşleştirmesi (Kesin Çıkar):** Denetimin konusu ve kapsamına göre kıstaslar değişir[cite: 5]. 
+    * Finansal Tabloların (Bilanço, Kar/Zarar, Nakit Akış vb.) denetim kıstası <strong class="text-danger">TMS'dir (Türkiye Muhasebe Standartları)</strong>[cite: 5].
+    * Yönetim Kurulu Yıllık Faaliyet Raporu ve Riskin Erken Saptanması Komitesi Raporu'nun denetim kıstası ise <strong class="text-danger">TTK'dır (Türk Ticaret Kanunu)</strong>[cite: 5].
+* **Müşterinin (Yönetimin) Sorumlulukları:** Finansal tabloları GFRÇ'ye (Geçerli Finansal Raporlama Çerçevesi) göre hazırlamak ve iç kontrolü sağlamak müşterinin sorumluluğundadır[cite: 5]. Ayrıca denetim şirketine; kayıt ve belgelere erişim imkanı sağlama, gerekli kişilerle görüşme imkanı sağlama, yazılı teyit mektubu verme ve <strong class="text-danger">bilanço sonrası olaylardan haberdar etme</strong> zorunluluğu sözleşmede yer alır[cite: 5].
+* **Çerçevenin Kabul Edilebilirliği:** GFRÇ'nin uygunluğu belirlenirken; işletmenin niteliği, finansal tabloların amacı ve niteliği ile mevzuatın çerçeveyi belirleyip belirlemediği dikkate alınır[cite: 5].
+* **Denetim Ekibi ve Ücret Şartı:** Sözleşmede Sorumlu Denetçi, Kıdemli Denetçi ve Denetçilerin çalışma süreleri (saat) ile ücretleri (TL/saat) detaylıca yazılmalıdır[cite: 5]. Ayrıca <strong class="text-danger">Yedek Bağımsız Denetçiler</strong> de sözleşmede mutlaka belirtilmek zorundadır[cite: 5].
+
+## ⚠️ BÖLÜM 5: KRİTİK SÜRE VE YIL TUZAKLARI (SINAVIN KALBİ)
 * **Rotasyon (Değişim) Kuralı:** Son <strong class="text-danger">10 yılda 7 yıl</strong> denetim yapanlar, <strong class="text-danger">3 YIL GEÇMEDİKÇE</strong> o kurumu tekrar denetleyemez.
 * **Yönetici Olma Yasağı:** Denetçi görevden ayrıldıktan sonra <strong class="text-danger">2 YIL GEÇMEDİKÇE</strong>, son 2 yılda denetlediği işletmede "Kilit Yönetici" olamaz.
 * **Şeffaflık Raporu İlanı:** KAYİK denetimi yapanlar 4. ayın sonuna kadar raporu sitesinde yayımlar. Rapor <strong class="text-danger">5 YIL SÜREYLE</strong> sitede (kamuya açık) tutulur.
@@ -60,7 +68,7 @@
     * Çalışan Sayısı: <strong class="text-danger">150 Kişi</strong>
     *(Not: Bu 3 şarttan en az ikisi, art arda 2 yıl aşılırsa denetime tabi olunur).*
 
-    ## ⚠️ TÜRKİYE DENETİM STANDARTLARI (TDS) VE SÜREÇLERİ: KOMİSYON TUZAKLARI
+## ⚠️ TÜRKİYE DENETİM STANDARTLARI (TDS) VE SÜREÇLERİ: KOMİSYON TUZAKLARI
 
 ## BÖLÜM 1: STANDARTLARIN YAPISI VE GÜVENCE TÜRLERİ TUZAKLARI
 * **Güvence Denetimi OLMAYANLAR (Tuzak):** "Üzerinde Mutabık Kalınan Prosedürler (İHS 4400)" ve "Finansal Bilgileri Derleme İşi (İHS 4410)" kesinlikle <strong class="text-danger">GÜVENCE DENETİMİ DEĞİLDİR</strong> ve bu işlerde etik kurallardaki <strong class="text-danger">bağımsızlık hükümleri uygulanmaz.</strong>
