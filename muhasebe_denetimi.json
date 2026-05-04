@@ -14251,6 +14251,559 @@
       "answer": 1
     }
   ],
+
+  "Çalışma Soruları (Bağımsız Denetim Yönetmeliği":  [
+  {
+    "q": "Aşağıdakilerden hangisi bağımsız denetim çalışmasında denetçinin amaçları arasında yer almaz?",
+    "options": [
+      "A) Denetim riskini \"sıfır\" yapmak",
+      "B) Finansal tablolar hakkında görüş oluşturmak",
+      "C) Finansal tablolarda önemli yanlışlıklar olup olmadığını tespit etmek",
+      "D) Finansal tablolar hakkında raporlama yapmak",
+      "E) Finansal tablolar hakkında makul güvence vermek"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Makul güvence kavramı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Denetçi makul güvence sağlamak için denetim riskini düşürecek bir yaklaşım benimser.",
+      "B) Denetim standartları, denetçinin makul güvence elde etmesini desteklemek için yayınlanmıştır.",
+      "C) Makul güvence, yeterli ve uygun denetim kanıtı elde edildiğinde sağlanır.",
+      "D) Makul güvence, yüksek ve mutlak bir güvence seviyesidir.",
+      "E) Makul güvence, mutlak bir güvence seviyesi değildir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bağımsız denetçi ve bağımsız denetim ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Bağımsız denetçi kesin bir güvence sonucuna ulaşmak için yeterli ve uygun denetim kanıtı elde etmekle sorumludur.",
+      "B) Denetçiler finansal tablo kullanıcılarına görüşleri ile makul bir güvence vermek durumundadır.",
+      "C) Makul güvence tüm denetim sürecine yöneliktir.",
+      "D) Makul güvence %100 düzeyde bir güvence değildir.",
+      "E) Denetçiler isteseler de çeşitli sınırlamalardan dolayı tam güvence veremezler."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Denetim kuruluşları ve denetçiler; Denetim sözleşmeleri ile diğer hizmetlere ilişkin sözleşmelerle ilgili olarak Kurum tarafından istenecek bilgileri imza tarihini takip eden günden itibaren en geç kaç gün içinde kuruma bildirmekle yükümlüdür?",
+    "options": [
+      "A) 6 gün",
+      "B) 10 gün",
+      "C) 5 gün",
+      "D) 30 gün",
+      "E) 7 gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Denetim kuruluşu ve denetçiler, denetlenen işletmeye aşağıdaki hizmetlerden hangisini sunamaz?",
+    "options": [
+      "A) 3568 sayılı Kanun çerçevesinde tasdik",
+      "B) Vergi denetimi",
+      "C) Sınırlı denetim",
+      "D) Vergi danışmanlığı",
+      "E) Finansal danışmanlık"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Kamu Yararını İlgilendiren Kuruluşlar (KAYİK'ler) nezdinde yapılacak denetimler için sorumlu denetçinin kaç yıllık mesleki tecrübeye sahip olması gereklidir?",
+    "options": [
+      "A) 3",
+      "B) 5",
+      "C) 6",
+      "D) 10",
+      "E) 15"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi denetim sürecinin denetçinin mesleki yargısına başvurulan bir aşaması değildir?",
+    "options": [
+      "A) Toplanacak kanıtların belirlenmesi",
+      "B) Risk faktörlerinin uygun şekilde tanımlanması",
+      "C) Etkin bir iç kontrol sisteminin kurulması",
+      "D) Yönetimin tahminlerinin değerlendirilmesi",
+      "E) Kanıt ve yönetim beyanlarına dayanarak çıkarımlarda bulunulması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Denetçinin dürüstlük, tarafsızlık ve mesleki şüphecilik içinde hareket etmesini teminen, mesleki muhakemesini olumsuz etkileyebilecek tesirlerden ari olarak görüş açıklamasına ne denir?",
+    "options": [
+      "A) Şekilde bağımsızlık",
+      "B) Esasta bağımsızlık",
+      "C) Mesleki yeterlik ve özen",
+      "D) Mesleğe uygun davranış",
+      "E) Görüş bildirme"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "KGK'nın yayınlamış olduğu Bağımsız Denetim Yönetmeliği'ne göre, aşağıdaki her bir raporun tek başlarına ayrı belgeler olarak düzenlendiği durumda hangisi bağımsız denetçi tarafından gerçekleştirilen bir denetimde incelenmek zorundadır?",
+    "options": [
+      "A) Bütçe raporları",
+      "B) Kurumsal sosyal sorumluluk raporları",
+      "C) Yıllık faaliyet raporları",
+      "D) Çeşitlilik ve fırsat eşitliği raporları",
+      "E) Ürün sorumluluğu raporları"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumunun (KGK) yayınlamış olduğu Bağımsız Denetim Yönetmeliği'ne göre, finansal tablolara ilişkin denetçi görüşü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) İşletmenin verimliliği hakkında güvence sağlamaz.",
+      "B) Finansal tabloların geçerli finansal raporlama çerçevesine uygunluğuna ilişkindir.",
+      "C) İşletmenin gelecekteki ekonomik başarısı hakkında güvence sağlar.",
+      "D) Finansal tablolara duyulan güveni arttırır.",
+      "E) Yönetimin işletme faaliyetlerini yürütmesinin etkinliği hakkında güvence sağlamaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi finansal tabloların denetiminin temel amacıdır?",
+    "options": [
+      "A) Hedef kullanıcıların finansal tablolara duyduğu güven seviyesini artırmak",
+      "B) Bir işletmenin belirli bir tarihteki ekonomik kaynaklarını veya yükümlülüklerini ya da belirli bir dönemde bunlarda meydana gelen değişiklikleri göstermek",
+      "C) Bir işletmenin finansal performansı ve nakit akışları hakkında bilgi sağlamak",
+      "D) İşletmenin finansal riskini tespit etmek",
+      "E) Bir amacın yerine getirilip getirilmediğine ilişkin olarak karar vericilere yardımcı olmak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Bağımsız Denetim Yönetmeliğine göre sorumlu denetçinin denetim işlemleri sırasında uyması gereken etik ilkelerden biri değildir?",
+    "options": [
+      "A) Mesleki Dayanışma",
+      "B) Dürüstlük",
+      "C) Mesleki Yeterlik ve Özen",
+      "D) Sır Saklama",
+      "E) Tarafsızlık"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Denetçilerin, sunabilecekleri hizmetler, taşıdıkları nitelikler ve edindikleri tecrübeler konusunda aşırıya kaçan iddialarda bulunamamaları temel ilkelerden hangisi kapsamındadır?",
+    "options": [
+      "A) Mesleki yeterlilik ve özen",
+      "B) Mesleki muhakeme",
+      "C) Sır saklama",
+      "D) Tarafsızlık",
+      "E) Mesleğe uygun davranış"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, bağımsız denetime tabi tutulacak şirketler aşağıdakilerden hangisi tarafından belirlenir?",
+    "options": [
+      "A) Hazine ve Maliye Bakanlığı",
+      "B) Kamu Gözetimi Kurumu",
+      "C) Cumhurbaşkanı Kararnamesince",
+      "D) Sermaye Piyasası Kurulu",
+      "E) Ekonomi Bakanlığı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı TTK hükümlerine göre; bağımsız denetçinin müşteri işletmenin hangi kurulunca seçilmesi zorunluluğu vardır?",
+    "options": [
+      "A) İç denetim",
+      "B) Riskin erken teşhisi komitesi",
+      "C) Denetimden sorumlu komite",
+      "D) Yönetim Kurulu",
+      "E) Genel kurul"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi bağımsız denetçinin yetkilendirilmesinde aranan şartlardan biri değildir?",
+    "options": [
+      "A) Medeni hakları kullanma ehliyetine sahip olmak",
+      "B) Hukuk, iktisat, işletme vb. öğretim dallarında en az lisans seviyesinde mezun olmak",
+      "C) Uygulamalı meslek eğitimini tamamlamış olmak",
+      "D) Meslek mensubu (SMMM, YMM) olmak",
+      "E) SMMM Staja Giriş Sınavından en az 60 puan almış olmak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bağımsız denetçi, şirket genel kurulunca kaç yıllığına seçilir?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 5",
+      "E) 7"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bağımsız Denetim Yönetmeliği'ne göre, denetim sözleşmesi, denetim kuruluşu veya denetimi üstlenen bağımsız denetçinin seçiminden itibaren en geç kaç gün içinde yapılır?",
+    "options": [
+      "A) 10",
+      "B) 15",
+      "C) 30",
+      "D) 60",
+      "E) 90"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı TTK'ya göre, şirketlerde etkin bir risk yönetimine katkı sağlamak için, pay senetleri borsada işlem gören şirketler için zorunlu, diğer şirketler açısından ise denetçinin görüşünü esas alarak yönetim kuruluna bağlı olarak oluşturulacak komitenin adı nedir?",
+    "options": [
+      "A) Riskin erken saptanması ve yönetimi komitesi",
+      "B) İç denetim komitesi",
+      "C) Riske karşılık verme ve önleme komitesi",
+      "D) Risk ve iç kontrol komitesi",
+      "E) Risk değerlendirme ve önleme komitesi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Türkiye Muhasebe Standartları'na göre hazırlanmış finansal tabloların Bağımsız Denetim Standartları'na uygun olarak denetimini yürütecek bir denetçinin aşağıdakilerden hangisi hakkında görüş vermesi beklenmez?",
+    "options": [
+      "A) Bilanço",
+      "B) Fon akış tablosu",
+      "C) Özkaynak değişim tablosu",
+      "D) Nakit akış tablosu",
+      "E) Açıklayıcı bilgileri içeren dipnotlar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi denetçinin kendi inisiyatifi ile belirleyebileceği bir husus değildir?",
+    "options": [
+      "A) Denetçi raporunun yazılı hazırlanıp hazırlanmayacağı",
+      "B) Önemlilik düzeyi",
+      "C) Denetim riski düzeyi",
+      "D) Denetim prosedürlerinin kapsam ve zamanlaması",
+      "E) Kanıtın, ilgili denetim hedefi için yeterli olup olmadığı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Denetçinin aşağıdaki hususlardan hangisine ilişkin alacağı karar, mesleki muhakemesini kullanmasını gerektirmez?",
+    "options": [
+      "A) Denetim kanıtlarının aritmetik doğruluğunun kontrol edilmesi",
+      "B) Denetim prosedürlerinin niteliği, zamanlanması ve kapsamı",
+      "C) Daha fazla denetim kanıtı toplamaya ihtiyaç olup olmadığının değerlendirilmesi",
+      "D) Finansal raporlama çerçevesinin uygulanmasında işletme yönetimi tarafından yapılan muhakemelerin değerlendirilmesi",
+      "E) Finansal tabloların hazırlanmasında yönetim tarafından yapılan tahminlerin makul olup olmadığının değerlendirilmesi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi denetçinin bağımsızlığına bir risk oluşturmaz?",
+    "options": [
+      "A) Denetlenen işletmeden piyasa koşullarında denetim ücreti alınması",
+      "B) Denetlenen işletmenin sahipleri ile herhangi bir ortaklık bağının olması",
+      "C) Direkt veya dolaylı yoldan denetlenen işletmenin hisse senedine sahip olunması",
+      "D) Denetlenen işletmeden normal kredi koşullarının dışında kredi kullanmak",
+      "E) Denetlenen işletmenin ortak veya yöneticileri ile akrabalık bağının bulunması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Bağımsız Denetim Yönetmeliği kapsamında denetim alanında faaliyet izni talebinde bulunan kuruluşun taşıması gereken özelliklerden biri değildir?",
+    "options": [
+      "A) Ortaklarının tamamının meslek mensubu olması",
+      "B) Sermaye şirketi olması",
+      "C) Ticaret unvanında bağımsız denetim ibaresinin bulunması",
+      "D) Paylarının veya hisselerinin hamiline yazılı olması",
+      "E) Tüzel kişiliğin ve ortaklarının olumsuz bir itibara sahip olmaması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "3568 sayılı Kanun ve ilgili mevzuatta öngörülen şartlar saklı kalmak kaydıyla, denetim alanında faaliyet izni talebinde bulunan kuruluşun, yetkilendirilmesi ile ilgili şartlar arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "A) Sermayesinin ve oy haklarının yarısından fazlasının denetçilerine ait olması ve ortaklarının tamamının meslek mensubu olması",
+      "B) Denetçilerinin Bağımsız Denetçi Belgesine sahip olması",
+      "C) Denetçilerinin tam zamanlı ve asgari bir raporlama dönemi için istihdam edilmiş olması",
+      "D) Yönetim organı üyelerinin tamamının meslek mensubu olması, yüzde yetmiş beşi geçmemek üzere çoğunluğunun ise kadrosundaki denetçilerden oluşması",
+      "E) En az bir sorumlu denetçisinin bulunması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumunun (KGK) yayınlamış olduğu Bağımsız Denetim Yönetmeliği'ne göre, denetim faaliyetinde bulunmak isteyenlerin denetçi olarak yetkilendirilmesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bağımsız denetçilerin kendi adına denetim üstlenebilmesi için denetim kadrosunda kendisi hariç en az iki sorumlu denetçinin bulunması gerekir.",
+      "B) Meslek mensubu olması gerekir.",
+      "C) Medeni hakları kullanma ehliyetine sahip bulunması gerekir.",
+      "D) Faaliyet izninin daha önce KGK tarafından süresiz olarak iptal edilmemiş olması gerekir.",
+      "E) Bağımsız denetim mesleğinin gerektirdiği şeref ve haysiyete uymayan bir durumunun bulunmaması, olumsuz bir itibara sahip olmaması gerekir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi finansal tabloların denetimi sırasında denetçinin uyacağı temel meslekî etik ilkelerden biri değildir?",
+    "options": [
+      "A) Mesleğe uygun davranış",
+      "B) Dürüstlük",
+      "C) Tarafsızlık",
+      "D) Sır saklama",
+      "E) Bağımsızlık"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Bağımsız Denetçiler İçin Etik Kurallara Uyum çerçevesinde yanlıştır?",
+    "options": [
+      "A) Etik Kurallar aynı zamanda temel ilkeleri ve kavramsal çerçeveyi, denetçilerin karşılaşabileceği farklı durum ve gerçeklere uygular.",
+      "B) Denetçilik mesleğinin ayırt edici özelliklerinden biri, kamu yararına hareket etme sorumluluğunu kabul etmesidir.",
+      "C) Etik Kurallar, denetçilerden beklenen yüksek kaliteli etik davranış standartlarını belirler.",
+      "D) Etik Kurallar, tüm denetçilerin uyması gereken beş temel ilkeyi belirler.",
+      "E) Mevzuatın bu kurallarda yer alan hükümlerden daha kısıtlayıcı hükümler öngörmesi halinde denetçi söz konusu mevzuata uymak zorunda değildir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı TTK hükümlerine göre yönetim kurulu, yıllık faaliyet raporunu hazırlayıp, genel kurula sunması için bilanço tarihinden itibaren en geç kaç aylık süre tanımıştır?",
+    "options": [
+      "A) 9 ay",
+      "B) 1 ay",
+      "C) 3 ay",
+      "D) 6 ay",
+      "E) 4 ay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Bağımsız Denetim Yönetmeliği'ne göre Kamu Yararını İlgilendiren Kuruluşlar (KAYİK) arasında yer almaz?",
+    "options": [
+      "A) Halka açık şirketler",
+      "B) Bankalar",
+      "C) Emeklilik fonları",
+      "D) Kooperatifler",
+      "E) Sigorta şirketleri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi bağımsız denetim kuruluşunda çalışan bağımsız denetçilerin alabilecekleri unvanlar arasında yer almaz?",
+    "options": [
+      "A) Sorumlu Denetçi",
+      "B) Kıdemli Denetçi",
+      "C) Uzman Denetçi",
+      "D) Baş Denetçi",
+      "E) Denetçi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Ticaret Kanunu uyarınca yapılan denetimlerde denetim raporlarının, denetimi yapılan finansal tabloların ait olduğu hesap dönemine İlişkin olağan genel kurul toplantısından en az kaç gün önce denetlenen işletmenin yönetim organına teslim edilmesi zorunludur?",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 20 gün",
+      "E) 30 gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Denetçi rotasyonu, denetçi bağımsızlığını sağlamak için getirilen bir önlem olup, Bağımsız Denetim Yönetmeliği'ne göre bağımsız denetim kuruluşu son 10 yılda kaç yıl bağımsız denetim çalışması yürüttüğü işletmelere ilişkin denetimlerini 3 yıl geçmedikçe üstlenemez?",
+    "options": [
+      "A) 5",
+      "B) 7",
+      "C) 4",
+      "D) 3",
+      "E) 6"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Denetime tabi şirketler tek başına veya bağlı ortaklıkları ve iştirakleriyle birlikte bir hesap döneminde genel ölçütlerden en az ikisinin sınırlarının % kaç veya daha fazla altında kalması durumunda, müteakip hesap döneminden itibaren denetimin kapsamından çıkar?",
+    "options": [
+      "A) % 25",
+      "B) % 30",
+      "C) % 10",
+      "D) % 20",
+      "E) % 15"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdaki hizmetlerden hangisinin bağımsız denetim hizmetiyle aynı dönemde aynı müşteriye verilmesinde bağımsızlık açısından bir sakınca yoktur?",
+    "options": [
+      "A) Vergi danışmanlığı",
+      "B) Defter tutma",
+      "C) İç kontrol sistemi kurma",
+      "D) Yönetim danışmanlığı",
+      "E) Finansal tablo hazırlama"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Denetim ekipleri, denetlenen işletmenin büyüklüğü, faaliyetleri ile tabi olduğu düzenlemelerin özelliği ve benzeri hususlar dikkate alınarak denetimi Kurum düzenlemelerine uygun bir şekilde gerçekleştirebilecek yetki, bilgi, beceri ve tecrübeye sahip olan yeterli sayıda denetçiden oluşturulur.<br>Yukarıdaki bilgiler ışığında denetim ekipleri kaç denetçiden az olamaz?",
+    "options": [
+      "A) 3 denetçi",
+      "B) 2 denetçi",
+      "C) 5 denetçi",
+      "D) 7 denetçi",
+      "E) 6 denetçi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bağımsız denetim faaliyetinin yürütülmesinden sorumlu olan ve bağımsız denetim raporunu denetim kuruluşu adına imzalamaya yetkili olan denetçi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kıdemli denetçi",
+      "B) Bağımsız denetçi",
+      "C) Özel denetçi",
+      "D) Yetkili denetçi",
+      "E) Sorumlu denetçi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "\"Denetim şirketinin, denetçinin veya denetim ekibi üyesinin; makul ve bilgi sahibi üçüncü kişilerde, dürüstlük, tarafsızlık ve mesleki şüphecilikten ödün verdiği intibaını oluşturabilecek durum ve davranışlardan sakınması\" aşağıdakilerden hangisiyle ifade edilir?",
+    "options": [
+      "A) Şekilde bağımsızlık",
+      "B) Esasta bağımsızlık",
+      "C) Dürüstlük",
+      "D) Sözleşmede bağımsızlık",
+      "E) İhtiyatlılık"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kamu yararını ilgilendiren kuruluşlar (KAYİK) nezdinde yapılacak denetimler için, sorumlu denetçinin kaç yıllık mesleki tecrübeye sahip olması gerekir?",
+    "options": [
+      "A) 5 yıllık mesleki tecrübeye sahip olması ve bu sürenin en az iki yılında fiilen denetçi, kıdemli denetçi veya başdenetçi unvanı ile mevzuatta denetim öngörülen alanlarda denetimlerde bulunmuş olması.",
+      "B) 10 yıllık mesleki tecrübeye sahip olması ve bu sürenin en az üç yılında fiilen denetçi, kıdemli denetçi veya başdenetçi unvanı ile mevzuatta denetim öngörülen alanlarda denetimlerde bulunmuş olması.",
+      "C) 15 yıllık mesleki tecrübeye sahip olması ve bu sürenin en az üç yılında fiilen denetçi, kıdemli denetçi veya başdenetçi unvanı ile mevzuatta denetim öngörülen alanlarda denetimlerde bulunmuş olması.",
+      "D) 6 yıllık mesleki tecrübeye sahip olması ve bu sürenin en az bir yılında fiilen denetçi, kıdemli denetçi veya başdenetçi unvanı ile mevzuatta denetim öngörülen alanlarda denetimlerde bulunmuş olması.",
+      "E) 15 yıllık mesleki tecrübeye sahip olması ve bu sürenin en az iki yılında fiilen denetçi, kıdemli denetçi veya başdenetçi unvanı ile mevzuatta denetim öngörülen alanlarda denetimlerde bulunmuş olması."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Denetim kuruluşlarında çalışan denetçilerin kıdemli denetçi unvanı kazanabilmesi için kaç yılını doldurmuş olması gerekir?",
+    "options": [
+      "A) 6 yıl",
+      "B) 5 yıl",
+      "C) 4 yıl",
+      "D) 3 yıl",
+      "E) 2 yıl"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Denetçilikte kaç yılını doldurmayanlara başdenetçi unvanı verilemez?",
+    "options": [
+      "A) Üç yıl",
+      "B) Dört yıl",
+      "C) Beş yıl",
+      "D) Altı yıl",
+      "E) On yıl"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir takvim yılında KAYİK denetimi yapmış denetim kuruluşlarının düzenlemek zorunda oldukları şeffaflık raporu ile raporun güncellenmesi halinde raporun orijinal hali ve güncellenmiş halleri ayrı ayrı kaç yıl süreyle kamunun erişimine açık tutulur?",
+    "options": [
+      "A) Beş yıl",
+      "B) Üç yıl",
+      "C) Yedi yıl",
+      "D) Bir yıl",
+      "E) On yıl"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Denetçiler, denetçilik görevinden ayrılmalarından itibaren kaç yıl geçmedikçe son iki yılda denetiminde bulunduğu işletmelerde ve bağlı ortaklıklarında kilit yönetici olarak görev alamazlar?",
+    "options": [
+      "A) Bir yıl",
+      "B) İki yıl",
+      "C) Üç yıl",
+      "D) Dört yıl",
+      "E) Beş yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Yönetim organı üyeleri dahil olmak üzere, şirketin faaliyetlerini plânlama, yönetme veya kontrol etme yetki ve sorumluluğuna doğrudan veya dolaylı olarak sahip olan kişilere ne ad verilir?",
+    "options": [
+      "A) Üst yönetim",
+      "B) Denetim komitesi",
+      "C) Riskin erken saptanması komitesi",
+      "D) Kilit yönetici",
+      "E) Denetleme kurulu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Olumlu görüş<br>II. Olumsuz görüş<br>III. Sınırlandırılmış olumlu görüş<br>IV. Görüş vermekten kaçınma<br>6102 sayılı Türk Ticaret Kanunu hükümlerine göre, denetçinin yakarıdaki görüşlerden hangisini/hangilerini bildirmesi durumunda denetlene işletme yönetim kurulunun, görüş yazısının kendisine teslimi tarihinden itibaren 4 iş günün içinde genel kurulu toplantıya çağırması zorunludur?",
+    "options": [
+      "A) I ve II",
+      "B) II ve III",
+      "C) I ve III",
+      "D) II ve IV",
+      "E) III ve IV"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Denetim kuruluşları ticari defterlerini, düzenlenen denetim raporlarını elektronik, manyetik ve benzeri ortamlarda tutulanlar dahil olmak üzere denetim çalışmalarına ve kalite yönetim sistemine ilişkin her türlü belgeyi ekleriyle birlikte kaç yıl süreyle saklamak zorundadır?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 5 yıl",
+      "E) 10 yıl"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Denetim kuruluşları tarafından hazırlanan şeffaflık raporunun asgari unsurları arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "A) Denetim kuruluşunun hukuki yapısı ve ortakları hakkında açıklama",
+      "B) Denetim kuruluşunun kilit yöneticileri ve sorumlu denetçileri hakkında açıklama",
+      "C) İçinde yer aldığı denetim ağının hukuki ve yapısal özelliklerine ilişkin açıklama",
+      "D) Denetim faaliyetlerinde uygulanan denetim prosedürleriyle ilgili açıklama",
+      "E) İlişkili denetim kuruluşları ve diğer işletmelere ve bu ilişkilerin mahiyetine ilişkin açıklama"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kamu Yararını İlgilendiren Kuruluşların denetimini yapan denetim kuruluşlarında asgari kaç yılda bir Kurum (KGK) tarafından inceleme ve denetim yapılır?",
+    "options": [
+      "A) 1",
+      "B) 3",
+      "C) 4",
+      "D) 5",
+      "E) 6"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "I. Uyarı<br>II. Kınama<br>III. Faaliyet izninin iptali<br>IV. Faaliyet iznini askıya alma<br>Bağımsız Denetim Yönetmeliği'ne göre yukarıdakilerden hangileri denetçilere uygulanabilecek idari yaptırımlar arasında yer alır?",
+    "options": [
+      "A) I ve II",
+      "B) II ve III",
+      "C) I, II ve III",
+      "D) I, III ve IV",
+      "E) I, II, III ve IV"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Denetim kuruluşu ve denetçilerin, Kurum (KGK) tarafından izin verilen haller hariç olmak üzere, başka bir denetim kuruluşu ve denetçi ile denetim hizmeti ilişkisi devam eden bir denetlenen işletmenin aynı döneme ilişkin denetim hizmet talebini kabul edememeleri aşağıdaki yasaklardan hangisiyle ifade edilir?",
+    "options": [
+      "A) Reklam yasağı",
+      "B) Haksız rekabet yasağı",
+      "C) Ticari faaliyet yasağı",
+      "D) Sır saklama yasağı",
+      "E) Taraf tutma yasağı"
+    ],
+    "answer": 1
+  }
+],
   "Deneme Sınavı 01 (Genel Tarama)": [
     {
       "ders": "Muhasebe Denetimi",
