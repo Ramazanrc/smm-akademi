@@ -11180,7 +11180,7 @@
   }
 ],
 
-  "Çalışma Soruları (Mevuzat Özet)": [
+  "Çalışma Soruları (Mevuzat Özet Sorular)": [
   {
     "q": "Gelir Vergisi Kanunu'na göre, aşağıdakilerden hangisi Türkiye'de bir takvim yılı içinde altı aydan fazla kalsa dahi Türkiye'de yerleşmiş sayılmaz ve tam mükellef olmaz?",
     "options": [
@@ -13700,6 +13700,229 @@
       "C) Resim, harç, pay ve fon karşılığı gibi unsurlar",
       "D) Faturada gösterilen ticari teamüllere uygun miktarda yapılan iskontolar",
       "E) Vade farkı, kur farkı, faiz, prim gibi çeşitli gelirler"
+    ],
+    "answer": 3
+  }
+],
+  "Çalışma Soruları (Karma Testi)":  [
+  
+  {
+    "q": "08.09.2025 tarihli 10380 sayılı Cumhurbaşkanı kararına göre; 01.01.2026 tarihinden itibaren basit usulden gerçek usule geçecek iş kollarından biri değildir?",
+    "options": [
+      "A) Motorlu taşıtların her türlü bakım ve onarım işleriyle uğraşanlar",
+      "B) Lokanta ve benzeri hizmet işletmelerini işletenler",
+      "C) Berberler-kuaförler",
+      "D) Eğlence ve istirahat yerlerini işletenler",
+      "E) Şehir içi yolcu taşımacılığı faaliyetinde bulunanlar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "08.09.2025 tarihli 10380 sayılı Cumhurbaşkanı kararına göre; Hangi bölgede faaliyet gösteren işletmeler 01.01.2026 tarihinden itibaren basit usulden gerçek usule geçecektir?",
+    "options": [
+      "A) Büyükşehir içinde olup ilçe nüfusu 30.000'i aşarsa",
+      "B) Büyükşehir içinde olup ilçe nüfusu 40.000'i aşarsa",
+      "C) Büyükşehir içinde olup ilçe nüfusu 60.000'i aşarsa",
+      "D) Büyükşehir dışında olup ilçe nüfusu 30.000'i aşmazsa",
+      "E) Büyükşehir içinde olup ilçe nüfusu 30.000'i aşmazsa"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "08.09.2025 tarihli 10380 sayılı Cumhurbaşkanı kararına göre; Karardaki faaliyet kollarına sahip olanlar, kararda yazılan bölgede faaliyet gösteren işletmeler 01.01.2026 tarihinden itibaren basit usulden gerçek usule geçecek mükelleflerin muhasebesi aşağıdakilerden hangisi tarafından tutulacaktır?",
+    "options": [
+      "A) SM'ler tarafından",
+      "B) SMM'ler tarafından",
+      "C) YMM'ler tarafından",
+      "D) Mükelleflerin bağlı oldukları meslek odaları/birlikler tarafından",
+      "E) Mükelleflerin bağlı oldukları Bağkur tarafından"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Mükellef 2025 yılında;<br>I. Emlak vergisi değeri 5.000.000 TL olan bir apartman dairesini bedelsiz olarak annesinin kullanımına bırakmıştır.<br>II. Emlak vergisi değeri 10.000.000 TL olan bir apartman dairesini bedelsiz olarak oğlunun kullanımına bırakmıştır.<br>III. Emlak vergisi değeri 10.000.000 TL olan bir işyerini dairesini bedelsiz olarak SMMM olan kızının kullanımına bırakmıştır.<br>Yukarıdaki bilgilere göre hangi durumda emsal kira bedeli uygulanır?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Özel bir okulda müzik öğretmeni Bay (A), instagram hesabından müzik içerikli kurs ve eğitimler vermektedir.<br>- Bu kurs ve eğitimlerden elde ettiği hasılatı 5.000.000.- TL olup tevsik edebileceği giderler toplamı ise 600.000.- TL'dir.<br>- Bay (A) aynı zamanda Türkiye Kızılay derneğine makbuz karşılığı 200.000.- TL bağışta bulunmuştur.<br>Beyana tabi kazancı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 5.000.000",
+      "B) 4.400.000",
+      "C) 4.200.000",
+      "D) 100.000",
+      "E) Beyana tabi kazancı yoktur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Serbest meslek erbabı olan Bay(A)'nın 2025 yılı gelirleri aşağıdaki gibi olup, işyeri kira geliri tevkif suretiyle vergilendirilmiştir.<br>- Serbest meslek kazancı(zarar): (-)120.000.-<br>- İşyeri kira geliri: 350.000.-<br>Serbest meslek erbabı olan Bay(A)'nın beyana tabi geliri aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 470.000.-Kazanç",
+      "B) 350.000.-Kazanç",
+      "C) 220.000.-Kazanç",
+      "D) 120.000.-Kazanç",
+      "E) 120.000.-Zarar"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Almanya'da mukim Bay (A) Türkiye'de tam mükellef bir limited şirketten ortaklık haklarının satışından 2025 yılında 450.000.- TL değer artış kazancı elde etmiştir. Verilecek beyanname ve beyana tabi kazancı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Münferit beyanname 450.000",
+      "B) Münferit beyanname 330.000",
+      "C) Özel beyanname 450.000",
+      "D) Özel beyanname 330.000",
+      "E) Yıllık beyanname 330.000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest meslek erbabı olan Bay(A)'nın 2025 yılı gelirleri aşağıdaki gibi olup, işyeri kira geliri tevkif suretiyle vergilendirilmiştir.<br>- Serbest meslek kazancı: 1.000.000.-<br>- İşyeri kira geliri: 1.000.000.-<br>- LÖSEV'e bağış: 100.000.-<br>- TSK Dayanışma Vakfına bağış: 200.000.-<br>- TSK Güçlendirme Vakfına bağış: 300.000.-<br>Serbest meslek erbabı olan Bay(A)'nın beyana tabi geliri aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 2.000.000",
+      "B) 1.600.000",
+      "C) 1.500.000",
+      "D) 1.400.000",
+      "E) 600.000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre elektronik ortamda tebligat zorunluluğu getirilen mükelleflerden biri değildir?",
+    "options": [
+      "A) Gayrimenkul sermaye iradı gelir sahibi",
+      "B) Kurumlar vergisi mükellefleri",
+      "C) Serbest meslek erbabı",
+      "D) Gerçek usulde vergiye tabii çiftçiler",
+      "E) Ticari kazanç sahibi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi müstahsil makbuzu düzenleyemez?",
+    "options": [
+      "A) Birinci sınıf tüccar",
+      "B) İkinci sınıf tüccar",
+      "C) Serbest meslek erbabı",
+      "D) Kazancı basit usulde tespit edilenler",
+      "E) (A) A.Ş."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yurt dışı iştiraklerin kontrol edilen yabancı kurum sayılması için, tam mükellef gerçek kişi ve kurumların doğrudan ve dolaylı olarak ayrı ayrı yada birlikte sermayesinin kâr payının veya oy kullanma hakkının en az yüzde kaçına sahip olması gerekir?",
+    "options": [
+      "A) 25",
+      "B) 50",
+      "C) 75",
+      "D) 10",
+      "E) 5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre yurt dışında yapılan inşaat, onarım, montaj işleri ile teknik hizmetlerden sağlanarak Türkiye'de genel sonuç hesaplarına intikal ettirilen kazançların yüzde kaçı kurumlar vergisinden müstesnadır?",
+    "options": [
+      "A) 100",
+      "B) 75",
+      "C) 50",
+      "D) 25",
+      "E) 10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "5520 sayılı Kurumlar Vergisi Kanunu'na göre aşağıdakilerden hangisi kurumlar vergisi mükellefleri arasında yer almaz?",
+    "options": [
+      "A) Şahıs şirketleri",
+      "B) Kooperatifler",
+      "C) İş ortaklıkları",
+      "D) Derneklere ait iktisadi işletmeler",
+      "E) İktisadi kamu kuruluşları"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre Veraset yoluyla mal intikal eden bir kişiden, mirası 3 ay süre içinde reddetmesine rağmen Veraset ve İntikal vergisi İstenmesi hangi vergi hatasına girer?",
+    "options": [
+      "A) Mükellefin şahsında hata",
+      "B) Mükellefiyette hata",
+      "C) Vergilendirme veya muafiyet döneminde hata",
+      "D) Konuda hata",
+      "E) Mükerrer vergi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre aşağıdakilerden hangisi hem vergi incelemesine hem de yoklamaya yetkilidir?",
+    "options": [
+      "A) Gelir Uzmanları",
+      "B) Vergi Dairesi Müdürü",
+      "C) Yoklama memuru",
+      "D) Özel olarak yoklama ile görevlendirilenler",
+      "E) Hesap uzmanları"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "I. Basit Usule Tabi Mükellefler<br>II. İşletme Hesabı Esasına Tabii Mükellefler<br>III. Serbest Meslek Erbapları<br>IV. Bilanço Esasına Tabi Defterler<br>Yukarıdakilerden hangisi defter beyan sistemine göre kayıtlarını tutmak zorundadır?",
+    "options": [
+      "A) I",
+      "B) I-II",
+      "C) I-II-III",
+      "D) I-II-III-IV",
+      "E) I-III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, katma değer vergisinde mükelleflerden biri değildir?",
+    "options": [
+      "A) Mal teslimi ve hizmet ifası hallerinde bu işleri yapanlar",
+      "B) İthalatta mal ve hizmet ithal edenler",
+      "C) Transit taşımalarda gümrük veya geçiş işlemine muhatap olanlar",
+      "D) Her türlü şans ve talih oyunları oynayanlar",
+      "E) PTT İşletme Genel Müdürlüğü ve radyo ve televizyon kurumları"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Ticari teamüle uygun iskonto<br>II. Hesaplanan KDV<br>III. Özel İletişim Vergisi<br>IV. Özel Tüketim Vergisi<br>Katma Değer Vergisi Kanununa göre yukarıdakilerden hangisi matraha dahil unsurlardan biridir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I, II, III ve IV",
+      "E) Yalnız IV"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "I. Derece Usulsüzlük cezası<br>II. Derece Usulsüzlük cezası<br>III. Özel Usulsüzlük cezası<br>IV. Vergi Ziyaı cezası<br>Yukarıdaki cezalardan hangisi/hangileri için gecikme zammı uygulanır?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) Yalnız IV",
+      "E) I ve II"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre amme borcunun vadesinde ödenmesi amme borçlusunu çok zor duruma düşürecekse, borçlu tarafından yazı ile istenmiş ve teminat gösterilmiş olmak şartıyla, alacaklı amme idaresince; amme alacağının kaç ayı geçmemek üzere ve faiz alınarak ertelenir?",
+    "options": [
+      "A) 6 ay",
+      "B) 12 ay",
+      "C) 24 ay",
+      "D) 36 ay",
+      "E) 48 ay"
     ],
     "answer": 3
   }
