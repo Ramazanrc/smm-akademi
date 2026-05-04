@@ -1,4 +1,4 @@
-# 6362 SAYILI SERMAYE PİYASASI KANUNU (SPK) MASTER ÖZETİ - BÖLÜM 1
+# 6362 SAYILI SERMAYE PİYASASI KANUNU (SPK) MASTER ÖZETİ 
 
 ## BÖLÜM 1: AMACI, KAPSAMI VE TEMEL TANIMLARI
 Sermaye Piyasası Kanununun ana felsefesi; sermaye piyasasının güvenilir, şeffaf, etkin, istikrarlı, adil ve rekabetçi bir ortamda işleyişinin ve gelişmesinin sağlanması ile yatırımcıların hak ve menfaatlerinin en üst düzeyde korunmasıdır.
