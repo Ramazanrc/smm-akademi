@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMM Akademi Kampı</title>
+    <style>
+        /* Tamamen Yeni Karanlık (Dark) Tema */
+        body { 
+            background-color: #1a1e24; 
+            color: #e2e8f0; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            display: flex; 
+            justify-content: center; 
+            align-items: flex-start; 
+            min-height: 100vh; 
+            margin: 0; 
+            padding: 20px; 
+            box-sizing: border-box; 
+        }
+        .container { 
+            background-color: #242a33; 
+            border-radius: 12px; 
+            padding: 30px; 
+            width: 100%; 
+            max-width: 600px; 
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5); 
+            border: 1px solid #374151; 
+            margin-top: 2vh; 
+        }
+        
+        .header { text-align: center; border-bottom: 1px solid #374151; padding-bottom: 15px; margin-bottom: 25px; }
+        .header h2 { color: #f59e0b; font-size: 18px; margin: 0; text-transform: uppercase; letter-spacing: 2px; }
+        
+        /* Giriş Ekranı Tasarımı */
+        .login-input { width: 100%; padding: 15px; margin-bottom: 20px; border-radius: 8px; background: #1a1e24; border: 2px solid #374151; color: white; font-size: 16px; box-sizing: border-box; text-align: center; font-weight: bold; }
+        .login-input:focus { border-color: #10b981; outline: none; }
+        .login-btn { background: #10b981; color: white; border: none; padding: 15px; width: 100%; border-radius: 8px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s; }
+        .login-btn:hover { background: #059669; }
+
+        /* Neon Zamanlayıcı */
+        .timer-kutu { text-align: center; margin-bottom: 25px; }
+        #zaman-gosterge { font-size: 55px; font-weight: bold; color: #10b981; text-shadow: 0 0 15px rgba(16, 185, 129, 0.4); transition: color 0.3s; }
+        #zaman-gosterge.tehlike { color: #ef4444; text-shadow: 0 0 15px rgba(239, 68, 68, 0.4); }
+        
+        .soru-metni { font-size: 17px; font-weight: 600; margin-bottom: 25px; line-height: 1.6; color: #f8fafc; }
+        
+        /* Şıkların Tasarımı */
+        .secenek-btn { background-color: #2a313c; border: 2px solid #4b5563; color: #e2e8f0; border-radius: 8px; padding: 15px; margin-bottom: 12px; width: 100%; text-align: left; font-size: 15px; cursor: pointer; transition: all 0.2s ease; display: flex; justify-content: space-between; align-items: center; position: relative; overflow: hidden; }
+        .secenek-btn:hover:not(:disabled) { border-color: #6b7280; background-color: #374151; }
+        
+        /* Durum Renkleri */
+        .secenek-btn.secildi { border-color: #3b82f6; background-color: rgba(59, 130, 246, 0.15); }
+        .secenek-btn.dogru { border-color: #10b981; background-color: rgba(16, 185, 129, 0.15); }
+        .secenek-btn.yanlis { border-color: #ef4444; background-color: rgba(239, 68, 68, 0.15); }
+        
+        .harf { color: #f59e0b; font-weight: bold; margin-right: 8px; }
+        
+        /* Sonuç Barları (Süre bitince dolar) */
+        .sonuc-bari { position: absolute; left: 0; top: 0; height: 100%; z-index: 0; transition: width 1s ease-in-out; opacity: 0.2; width: 0%; }
+        .sonuc-bari.dogru-renk { background-color: #10b981; opacity: 0.3; }
+        .sonuc-bari.yanlis-renk { background-color: #ef4444; opacity: 0.2; }
+        .sonuc-bari.standart-renk { background-color: #9ca3af; opacity: 0.15; }
+        
+        .secenek-icerik { position: relative; z-index: 1; display: flex; width: 100%; justify-content: space-between; align-items: center; }
+        .yuzde-yazi { font-size: 13px; font-weight: bold; color: #9ca3af; display: none; }
+        
+        .bekleniyor { text-align: center; color: #9ca3af; font-style: italic; margin-top: 20px; font-size: 18px; }
+
+        /* Rapor Kartları */
+        .rapor-satir { display: flex; justify-content: space-between; padding: 15px; background: #1a1e24; border-radius: 8px; margin-bottom: 12px; font-size: 16px; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <!-- 1. GİRİŞ EKRANI -->
+    <div class="container" id="login-alani" style="display: none; text-align: center;">
+        <div class="header"><h2>🎓 SMM AKADEMİ'YE HOŞ GELDİN</h2></div>
+        <p style="color: #9ca3af; margin-bottom: 25px;">Kamp sonu kişisel karneni oluşturabilmemiz için lütfen adını soyadını gir.</p>
+        <input type="text" id="kullaniciInput" class="login-input" placeholder="Örn: Recep Karaca">
+        <button id="kampaKatilBtn" class="login-btn">🚀 Kampa Katıl</button>
+    </div>
+
+    <!-- 2. SINAV VE BEKLEME EKRANI -->
+    <div class="container" id="sinav-ana-kasa" style="display: none;">
+        <div class="header">
+            <h2>👑 SMM AKADEMİ KAMPI</h2>
+        </div>
+        
+        <div id="soru-yukleniyor" class="bekleniyor">Oturum başlatılıyor, yeni soru bekleniyor...</div>
+        
+        <div id="sinav-alani" style="display: none;">
+            <div class="timer-kutu">
+                <div id="zaman-gosterge">60</div>
+            </div>
+            
+            <div class="soru-metni" id="soru-metni"></div>
+            <div id="secenekler-kapsayici"></div>
+        </div>
+    </div>
+
+    <!-- 3. KAMP SONU KARNESİ -->
+    <div class="container" id="rapor-alani" style="display: none; text-align: center;">
+        <div class="header"><h2>🏆 KAMP SONU KARNESİ</h2></div>
+        <h3 id="rapor-isim" style="color: #f59e0b; margin-bottom: 25px; font-size: 22px;"></h3>
+        
+        <div class="rapor-satir" style="border-left: 5px solid #10b981;">
+            <span>✅ Doğru Cevap:</span> <span id="rapor-dogru" style="color: #10b981;">0</span>
+        </div>
+        <div class="rapor-satir" style="border-left: 5px solid #ef4444;">
+            <span>❌ Yanlış Cevap:</span> <span id="rapor-yanlis" style="color: #ef4444;">0</span>
+        </div>
+        <div class="rapor-satir" style="border-left: 5px solid #9ca3af;">
+            <span>⚪ Boş Bırakılan:</span> <span id="rapor-bos" style="color: #9ca3af;">0</span>
+        </div>
+
+        <div style="margin-top: 30px; color: #9ca3af; font-size: 14px; border-top: 1px solid #374151; padding-top: 15px;">
+            Bu akşamki kampa katıldığın için teşekkürler!
+        </div>
+    </div>
+
+<script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
+    import { getFirestore, doc, onSnapshot, updateDoc, increment, setDoc } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-firestore.js";
+
+    const firebaseConfig = {
+        apiKey: "AIzaSyBlnd8CoQKRlYCF0HCv3AjSq5y9pZD4fMM",
+        authDomain: "smmakademi-d4dc5.firebaseapp.com",
+        projectId: "smmakademi-d4dc5",
+        storageBucket: "smmakademi-d4dc5.firebasestorage.app",
+        messagingSenderId: "301579033232",
+        appId: "1:301579033232:web:fee03384d4b900a2445615"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+    const soruRef = doc(db, "aktif_sinav", "guncel_soru");
+
+    // Güvenli Hafıza Çekimi (Siyah ekran çökmesini engelleyen kısım)
+    let kullaniciAdi = localStorage.getItem("smm_isim");
+    let istatistik = { dogru: 0, yanlis: 0, bos: 0 };
+    
+    try {
+        let hafizaVerisi = localStorage.getItem("smm_istatistik");
+        if(hafizaVerisi) {
+            istatistik = JSON.parse(hafizaVerisi);
+        }
+    } catch (error) {
+        console.error("Hafıza okuma hatası, istatistik sıfırlandı.");
+        istatistik = { dogru: 0, yanlis: 0, bos: 0 };
+    }
+
+    let skorEklendiMi = false;
+    let secimYapildi = false;
+    let secilenSik = "";
+    let sayacInterval;
+    let kalanSure = 60;
+    let sureBittiMi = false;
+    let guncelData = null;
+    let raporGonderildiMi = false;
+
+    // GİRİŞ KONTROLÜ VE EKRAN GÖSTERİMİ (Işıkları açan kısım)
+    if(!kullaniciAdi) {
+        document.getElementById("login-alani").style.display = "block";
+    } else {
+        document.getElementById("sinav-ana-kasa").style.display = "block";
+        baslaDinlemeye();
+    }
+
+    // Kampa Katıl Butonu
+    document.getElementById("kampaKatilBtn").addEventListener("click", () => {
+        let girilenIsim = document.getElementById("kullaniciInput").value.trim();
+        if(girilenIsim.length > 2) {
+            localStorage.setItem("smm_isim", girilenIsim);
+            kullaniciAdi = girilenIsim;
+            
+            // Yeni girişte eski istatistikleri sıfırla
+            istatistik = { dogru: 0, yanlis: 0, bos: 0 };
+            localStorage.setItem("smm_istatistik", JSON.stringify(istatistik));
+
+            document.getElementById("login-alani").style.display = "none";
+            document.getElementById("sinav-ana-kasa").style.display = "block";
+            baslaDinlemeye();
+        } else {
+            alert("Dostum lütfen geçerli bir isim veya lakap gir!");
+        }
+    });
+
+    // Veritabanını Canlı Dinleme Motoru
+    function baslaDinlemeye() {
+        onSnapshot(soruRef, (docSnap) => {
+            if (docSnap.exists()) {
+                guncelData = docSnap.data();
+                
+                // 🛑 EĞER KARARGAHTAN BİTİŞ SİNYALİ GELDİYSE KARNEYİ GÖSTER
+                if(guncelData && guncelData.kamp_bitti) {
+                    clearInterval(sayacInterval);
+                    document.getElementById("sinav-ana-kasa").style.display = "none";
+                    document.getElementById("rapor-alani").style.display = "block";
+                    
+                    document.getElementById("rapor-isim").innerText = kullaniciAdi;
+                    document.getElementById("rapor-dogru").innerText = istatistik.dogru;
+                    document.getElementById("rapor-yanlis").innerText = istatistik.yanlis;
+                    document.getElementById("rapor-bos").innerText = istatistik.bos;
+
+                    // Sisteme "Toplu Liderlik Tablosu" İçin Gizlice Veri Gönderiyoruz
+                    if(!raporGonderildiMi) {
+                        setDoc(doc(db, "kamp_sonuclari", kullaniciAdi), {
+                            dogru: istatistik.dogru,
+                            yanlis: istatistik.yanlis,
+                            bos: istatistik.bos,
+                            zaman: new Date()
+                        }).catch(e => console.error("Rapor hatası:", e));
+                        raporGonderildiMi = true;
+                    }
+                    return;
+                }
+
+                // EĞER KAMP DEVAM EDİYORSA NORMAL SORU AKIŞI
+                document.getElementById("rapor-alani").style.display = "none";
+
+                if(localStorage.getItem("son_soru") !== guncelData.soru_metni) {
+                    secimYapildi = false;
+                    secilenSik = "";
+                    sureBittiMi = false;
+                    kalanSure = 60;
+                    skorEklendiMi = false; 
+                    raporGonderildiMi = false; 
+                    localStorage.setItem("son_soru", guncelData.soru_metni);
+                    
+                    arayuzuCiz(guncelData);
+                    sayaciBaslat();
+                } else if (sureBittiMi) {
+                    barlariGuncelle(guncelData);
+                }
+            }
+        });
+    }
+
+    function sayaciBaslat() {
+        clearInterval(sayacInterval);
+        const gosterge = document.getElementById("zaman-gosterge");
+        gosterge.classList.remove("tehlike");
+        gosterge.innerText = kalanSure;
+
+        sayacInterval = setInterval(() => {
+            kalanSure--;
+            
+            if(kalanSure <= 10 && kalanSure > 0) gosterge.classList.add("tehlike");
+
+            if(kalanSure <= 0) {
+                clearInterval(sayacInterval);
+                sureBittiMi = true;
+                gosterge.innerText = "BİTTİ";
+                sonuclariAc(guncelData); 
+            } else {
+                gosterge.innerText = kalanSure;
+            }
+        }, 1000);
+    }
+
+    function arayuzuCiz(data) {
+        document.getElementById("soru-yukleniyor").style.display = "none";
+        document.getElementById("sinav-alani").style.display = "block";
+        document.getElementById("soru-metni").innerHTML = data.soru_metni;
+
+        const seceneklerDiv = document.getElementById("secenekler-kapsayici");
+        seceneklerDiv.innerHTML = ""; 
+
+        const harfler = ["A", "B", "C", "D", "E"];
+        harfler.forEach(harf => {
+            const btn = document.createElement("button");
+            btn.className = `secenek-btn`;
+            btn.id = `btn-${harf}`;
+            
+            btn.innerHTML = `
+                <div class="sonuc-bari" id="bar-${harf}"></div>
+                <div class="secenek-icerik">
+                    <span><span class="harf">${harf})</span> ${data.secenekler[harf]}</span>
+                    <span class="yuzde-yazi" id="yuzde-${harf}">%0</span>
+                </div>
+            `;
+
+            btn.onclick = async () => {
+                if(!secimYapildi && !sureBittiMi) {
+                    secimYapildi = true;
+                    secilenSik = harf;
+                    btn.classList.add("secildi");
+                    
+                    try {
+                        await updateDoc(soruRef, { [`oylar.${harf}`]: increment(1) });
+                    } catch(e) {
+                        console.error("Oy gönderilemedi", e);
+                    }
+                }
+            };
+            seceneklerDiv.appendChild(btn);
+        });
+    }
+
+    function sonuclariAc(data) {
+        const harfler = ["A", "B", "C", "D", "E"];
+        
+        harfler.forEach(harf => {
+            const btn = document.getElementById(`btn-${harf}`);
+            btn.disabled = true; 
+            
+            if(harf === data.dogru_cevap) {
+                btn.classList.add("dogru");
+                document.getElementById(`bar-${harf}`).classList.add("dogru-renk");
+            } else if(secilenSik === harf) {
+                btn.classList.add("yanlis");
+                document.getElementById(`bar-${harf}`).classList.add("yanlis-renk");
+            } else {
+                document.getElementById(`bar-${harf}`).classList.add("standart-renk");
+            }
+        });
+        
+        if(!skorEklendiMi) {
+            if(!secilenSik) istatistik.bos++;
+            else if(secilenSik === data.dogru_cevap) istatistik.dogru++;
+            else istatistik.yanlis++;
+            
+            localStorage.setItem("smm_istatistik", JSON.stringify(istatistik));
+            skorEklendiMi = true;
+        }
+
+        barlariGuncelle(data);
+    }
+
+    function barlariGuncelle(data) {
+        let toplamOy = Object.values(data.oylar).reduce((a, b) => a + b, 0) || 1;
+        const harfler = ["A", "B", "C", "D", "E"];
+        
+        harfler.forEach(harf => {
+            const oySayisi = data.oylar[harf];
+            const yuzde = Math.round((oySayisi / toplamOy) * 100);
+            
+            document.getElementById(`bar-${harf}`).style.width = `${yuzde}%`;
+            const yaziElementi = document.getElementById(`yuzde-${harf}`);
+            yaziElementi.style.display = "inline";
+            yaziElementi.innerText = `%${yuzde} (${oySayisi})`;
+        });
+    }
+</script>
+</body>
+</html>
