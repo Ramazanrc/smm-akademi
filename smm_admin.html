@@ -7,41 +7,36 @@
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #1e272e; color: #fff; padding: 20px; display: flex; justify-content: center; }
         .container { background: #2f3640; padding: 30px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); width: 100%; max-width: 600px; text-align: center; }
         h2 { color: #fbc531; margin-top: 0; border-bottom: 1px solid #718093; padding-bottom: 10px; margin-bottom: 20px;}
-        
         .kontrol-paneli { background: #353b48; padding: 20px; border-radius: 8px; border: 1px solid #718093; margin-bottom: 20px; text-align: left; }
         .ayar-satiri { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; font-size: 14px; }
-        
         input[type="file"] { padding: 10px; background: #2f3640; border-radius: 5px; color: white; width: 100%; box-sizing: border-box; margin-bottom: 15px; border: 1px dashed #fbc531;}
         input[type="number"] { padding: 8px; border-radius: 5px; border: 1px solid #fbc531; background: #2f3640; color: white; width: 80px; text-align: center; font-weight: bold; }
         input[type="checkbox"] { transform: scale(1.3); margin-right: 8px; cursor: pointer; }
-
         .buton-grubu { display: flex; gap: 10px; margin-top: 15px; }
         button { flex: 1; padding: 12px; border: none; border-radius: 6px; cursor: pointer; font-size: 15px; font-weight: bold; transition: 0.2s; color: white; display: flex; justify-content: center; align-items: center; gap: 5px; }
         button:disabled { background: #718093 !important; cursor: not-allowed; opacity: 0.5; }
-        
         #baslatBtn { background: #4cd137; } #baslatBtn:hover:not(:disabled) { background: #44bd32; }
         #duraklatBtn { background: #f39c12; display: none; } #duraklatBtn:hover { background: #e67e22; }
         #devamBtn { background: #3498db; display: none; } #devamBtn:hover { background: #2980b9; }
         #bitirBtn { background: #e84118; display: none; } #bitirBtn:hover { background: #c23616; }
-
         #durum { margin-top: 20px; font-size: 17px; font-weight: bold; color: #fbc531; background: #2f3640; padding: 10px; border-radius: 8px;}
+        
+        /* Yeni Tablo Butonu ve Modal CSS */
+        #raporBtn { background: #9b59b6; width: 100%; margin-top: 15px; display: block; } /* GÖRÜNMESİ İÇİN AÇIK TUTTUK */
+        #raporBtn:hover { background: #8e44ad; }
+        table { width: 100%; text-align: left; border-collapse: collapse; margin-top: 15px; }
+        th, td { padding: 12px; border-bottom: 1px solid #718093; }
+        th { color: #fbc531; border-bottom: 2px solid #fbc531; }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h2>🤖 OTOPİLOT V2 KOMUTA MERKEZİ</h2>
-    
     <input type="file" id="jsonDosya" accept=".json">
-    
     <div class="kontrol-paneli">
-        <div class="ayar-satiri">
-            <label>🎯 Çözülecek Soru Sayısı:</label>
-            <input type="number" id="hedefSoru" value="50" min="1">
-        </div>
-        <div class="ayar-satiri">
-            <label style="cursor: pointer;"><input type="checkbox" id="karistirCB" checked> 🔀 Soruları Karıştırarak Sor</label>
-        </div>
+        <div class="ayar-satiri"><label>🎯 Çözülecek Soru Sayısı:</label><input type="number" id="hedefSoru" value="50" min="1"></div>
+        <div class="ayar-satiri"><label style="cursor: pointer;"><input type="checkbox" id="karistirCB" checked> 🔀 Soruları Karıştırarak Sor</label></div>
         
         <div class="buton-grubu">
             <button id="baslatBtn" disabled>🚀 Kampı Başlat</button>
@@ -49,14 +44,24 @@
             <button id="devamBtn">▶ Devam Et</button>
             <button id="bitirBtn">⏹ Kampı Bitir</button>
         </div>
+        <!-- Liderlik Tablosu Butonu -->
+        <button id="raporBtn">📊 Toplu Liderlik Tablosunu Gör</button>
     </div>
-    
     <div id="durum">Sistem Hazır. JSON Bekleniyor...</div>
+</div>
+
+<!-- Liderlik Tablosu Modal (Açılır Pencere) -->
+<div id="raporModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.85); z-index:1000; justify-content:center; align-items:center;">
+    <div style="background:#2f3640; padding:30px; border-radius:12px; width:90%; max-width:650px; max-height:80vh; overflow-y:auto; box-shadow: 0 10px 30px rgba(0,0,0,0.8);">
+        <h2 style="color:#fbc531; text-align:center; border-bottom: none; margin-bottom: 5px;">🏆 KAMP LİDERLİK TABLOSU</h2>
+        <div id="raporTabloAlani" style="color: white; font-size: 16px;">Yükleniyor...</div>
+        <button id="kapatModalBtn" style="background:#e84118; margin-top:25px; width: 100%;">Kapat</button>
+    </div>
 </div>
 
 <script type="module">
     import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
-    import { getFirestore, doc, setDoc } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-firestore.js";
+    import { getFirestore, doc, setDoc, collection, getDocs } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-firestore.js";
 
     const firebaseConfig = {
         apiKey: "AIzaSyBlnd8CoQKRlYCF0HCv3AjSq5y9pZD4fMM",
@@ -70,21 +75,19 @@
     const app = initializeApp(firebaseConfig);
     const db = getFirestore(app);
 
-    // Otopilot Değişkenleri
-    let anaSoruListesi = []; // Dosyadan gelen ham liste
-    let calisacakSoruListesi = []; // Ekrana verilecek liste
+    let anaSoruListesi = []; 
+    let calisacakSoruListesi = []; 
     let aktifIndex = 0;
     let kampTimer = null;
     let limit = 50;
 
-    // Arayüz Elementleri
     const btnBaslat = document.getElementById('baslatBtn');
     const btnDuraklat = document.getElementById('duraklatBtn');
     const btnDevam = document.getElementById('devamBtn');
     const btnBitir = document.getElementById('bitirBtn');
     const durumYazisi = document.getElementById('durum');
+    const raporBtn = document.getElementById('raporBtn');
 
-    // 1. JSON Yükleme Aşaması
     document.getElementById('jsonDosya').addEventListener('change', function(e) {
         const file = e.target.files[0];
         if (!file) return;
@@ -94,7 +97,6 @@
             try {
                 const hamData = JSON.parse(e.target.result);
                 anaSoruListesi = []; 
-                
                 if (Array.isArray(hamData)) {
                     anaSoruListesi = hamData; 
                 } else {
@@ -104,14 +106,11 @@
                         }
                     }
                 }
-
                 if(anaSoruListesi.length > 0) {
-                    durumYazisi.innerHTML = `✅ Havuza <b>${anaSoruListesi.length}</b> soru çekildi.<br>Ayarlarını yapıp başlatabilirsin.`;
+                    durumYazisi.innerHTML = `✅ Havuza <b>${anaSoruListesi.length}</b> soru çekildi.`;
                     durumYazisi.style.color = "#4cd137";
                     document.getElementById('hedefSoru').max = anaSoruListesi.length;
-                    
                     if(anaSoruListesi.length < 50) document.getElementById('hedefSoru').value = anaSoruListesi.length;
-                    
                     btnBaslat.disabled = false;
                 } else {
                     throw new Error("Sorular bulunamadı");
@@ -124,32 +123,26 @@
         reader.readAsText(file);
     });
 
-    // 2. Kampı Başlatma
     btnBaslat.addEventListener('click', () => {
         limit = parseInt(document.getElementById('hedefSoru').value);
         if(limit > anaSoruListesi.length) limit = anaSoruListesi.length;
         
-        // Soruları klonla ve gerekirse karıştır
         calisacakSoruListesi = [...anaSoruListesi];
         if(document.getElementById('karistirCB').checked) {
             calisacakSoruListesi.sort(() => Math.random() - 0.5);
         }
 
         aktifIndex = 0;
-        
-        // Buton Görünümlerini Ayarla
         btnBaslat.style.display = "none";
         btnDuraklat.style.display = "flex";
         btnBitir.style.display = "flex";
         document.getElementById('hedefSoru').disabled = true;
         document.getElementById('karistirCB').disabled = true;
 
-        // Sistemi Ateşle
         soruyuAtesle();
-        kampTimer = setInterval(kampDongusu, 70000); // 60sn soru + 10sn mola
+        kampTimer = setInterval(kampDongusu, 70000); 
     });
 
-    // 3. Duraklatma (Çay Molası)
     btnDuraklat.addEventListener('click', () => {
         clearInterval(kampTimer);
         btnDuraklat.style.display = "none";
@@ -158,23 +151,18 @@
         durumYazisi.style.color = "#f39c12";
     });
 
-    // 4. Kaldığı Yerden Devam Etme
     btnDevam.addEventListener('click', () => {
         btnDevam.style.display = "none";
         btnDuraklat.style.display = "flex";
         durumYazisi.innerHTML = `🔥 Soru <b>${aktifIndex + 1} / ${limit}</b> Yayında!`;
         durumYazisi.style.color = "#4cd137";
-        
-        // Otopilotu tekrar başlat (Sıradaki soru 70 sn sonra gelecek)
         kampTimer = setInterval(kampDongusu, 70000); 
     });
 
-    // 5. Kampı Komple Bitirme / Sıfırlama
     btnBitir.addEventListener('click', () => {
-        sistemiSifirla("⏹ Kamp İptal Edildi / Sonlandırıldı.");
+        sistemiSifirla("⏹ Kamp Sonlandırıldı! Karneler oluşturuluyor...");
     });
 
-    // Ana Otopilot Döngüsü
     function kampDongusu() {
         aktifIndex++;
         if (aktifIndex >= limit || aktifIndex >= calisacakSoruListesi.length) {
@@ -184,11 +172,9 @@
         soruyuAtesle();
     }
 
-    // Firebase'e Gönderim
     async function soruyuAtesle() {
         const jsonSoru = calisacakSoruListesi[aktifIndex];
         const harfler = ["A", "B", "C", "D", "E"];
-        
         let dogruIndex = jsonSoru.answer !== undefined ? jsonSoru.answer : jsonSoru.correct;
         const gercekDogruCevap = harfler[dogruIndex]; 
 
@@ -214,22 +200,17 @@
         }
     }
 
-    // Sistemi Başa Saran ve Katılımcılara Karne Gönderen Fonksiyon
     async function sistemiSifirla(mesaj) {
         clearInterval(kampTimer);
-        
         btnBaslat.style.display = "flex";
         btnDuraklat.style.display = "none";
         btnDevam.style.display = "none";
         btnBitir.style.display = "none";
-        
         document.getElementById('hedefSoru').disabled = false;
         document.getElementById('karistirCB').disabled = false;
-        
         durumYazisi.innerHTML = mesaj;
         durumYazisi.style.color = "#fbc531";
 
-        // TÜM TELEFONLARA "KAMP BİTTİ, KARNELERİ GÖSTER" SİNYALİ GÖNDER
         try {
             await setDoc(doc(db, "aktif_sinav", "guncel_soru"), {
                 kamp_bitti: true,
@@ -239,6 +220,57 @@
             console.error("Bitiş sinyali gönderilemedi:", e);
         }
     }
+
+    // 📊 Liderlik Tablosu Mantığı
+    raporBtn.addEventListener('click', async () => {
+        document.getElementById('raporModal').style.display = "flex";
+        const raporDiv = document.getElementById('raporTabloAlani');
+        raporDiv.innerHTML = "<div style='text-align:center;'>Sonuçlar veritabanından çekiliyor... ⏳</div>";
+
+        try {
+            const querySnapshot = await getDocs(collection(db, "kamp_sonuclari"));
+            let sonuclar = [];
+            querySnapshot.forEach((doc) => {
+                sonuclar.push({ isim: doc.id, ...doc.data() });
+            });
+
+            // Doğru sayısına göre sırala (En çok doğru yapan en üstte)
+            sonuclar.sort((a, b) => b.dogru - a.dogru);
+
+            if(sonuclar.length === 0) {
+                raporDiv.innerHTML = "<div style='text-align:center;'>Henüz kimse skorunu göndermemiş. Lütfen biraz bekleyip tekrar açın.</div>";
+                return;
+            }
+
+            let html = `<table>
+                <tr>
+                    <th>Sıra</th>
+                    <th>Katılımcı Adı</th>
+                    <th>Doğru</th>
+                    <th>Yanlış</th>
+                    <th>Boş</th>
+                </tr>`;
+
+            sonuclar.forEach((s, index) => {
+                html += `<tr>
+                    <td><strong>${index + 1}.</strong></td>
+                    <td style="font-weight: bold;">${s.isim}</td>
+                    <td style="color:#10b981; font-weight: bold;">${s.dogru}</td>
+                    <td style="color:#ef4444; font-weight: bold;">${s.yanlis}</td>
+                    <td style="color:#9ca3af; font-weight: bold;">${s.bos}</td>
+                </tr>`;
+            });
+            html += `</table>`;
+            
+            raporDiv.innerHTML = html;
+        } catch (e) {
+            raporDiv.innerHTML = "Bir hata oluştu: " + e.message;
+        }
+    });
+
+    document.getElementById('kapatModalBtn').addEventListener('click', () => {
+        document.getElementById('raporModal').style.display = "none";
+    });
 </script>
 </body>
 </html>
