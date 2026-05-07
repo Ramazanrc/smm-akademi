@@ -20,9 +20,7 @@
         #devamBtn { background: #3498db; display: none; } #devamBtn:hover { background: #2980b9; }
         #bitirBtn { background: #e84118; display: none; } #bitirBtn:hover { background: #c23616; }
         #durum { margin-top: 20px; font-size: 17px; font-weight: bold; color: #fbc531; background: #2f3640; padding: 10px; border-radius: 8px;}
-        
-        /* Yeni Tablo Butonu ve Modal CSS */
-        #raporBtn { background: #9b59b6; width: 100%; margin-top: 15px; display: block; } /* GÖRÜNMESİ İÇİN AÇIK TUTTUK */
+        #raporBtn { background: #9b59b6; width: 100%; margin-top: 15px; display: none; } 
         #raporBtn:hover { background: #8e44ad; }
         table { width: 100%; text-align: left; border-collapse: collapse; margin-top: 15px; }
         th, td { padding: 12px; border-bottom: 1px solid #718093; }
@@ -44,13 +42,11 @@
             <button id="devamBtn">▶ Devam Et</button>
             <button id="bitirBtn">⏹ Kampı Bitir</button>
         </div>
-        <!-- Liderlik Tablosu Butonu -->
         <button id="raporBtn">📊 Toplu Liderlik Tablosunu Gör</button>
     </div>
     <div id="durum">Sistem Hazır. JSON Bekleniyor...</div>
 </div>
 
-<!-- Liderlik Tablosu Modal (Açılır Pencere) -->
 <div id="raporModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.85); z-index:1000; justify-content:center; align-items:center;">
     <div style="background:#2f3640; padding:30px; border-radius:12px; width:90%; max-width:650px; max-height:80vh; overflow-y:auto; box-shadow: 0 10px 30px rgba(0,0,0,0.8);">
         <h2 style="color:#fbc531; text-align:center; border-bottom: none; margin-bottom: 5px;">🏆 KAMP LİDERLİK TABLOSU</h2>
@@ -61,8 +57,7 @@
 
 <script type="module">
     import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
-    import { getFirestore, doc, setDoc, collection, getDocs } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-firestore.js";
-
+    import { getFirestore, doc, setDoc, collection, getDocs, deleteDoc } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-firestore.js";
     const firebaseConfig = {
         apiKey: "AIzaSyBlnd8CoQKRlYCF0HCv3AjSq5y9pZD4fMM",
         authDomain: "smmakademi-d4dc5.firebaseapp.com",
@@ -112,6 +107,7 @@
                     document.getElementById('hedefSoru').max = anaSoruListesi.length;
                     if(anaSoruListesi.length < 50) document.getElementById('hedefSoru').value = anaSoruListesi.length;
                     btnBaslat.disabled = false;
+                    raporBtn.style.display = "none";
                 } else {
                     throw new Error("Sorular bulunamadı");
                 }
@@ -123,7 +119,7 @@
         reader.readAsText(file);
     });
 
-    btnBaslat.addEventListener('click', () => {
+    btnBaslat.addEventListener('click', async () => {
         limit = parseInt(document.getElementById('hedefSoru').value);
         if(limit > anaSoruListesi.length) limit = anaSoruListesi.length;
         
@@ -136,11 +132,24 @@
         btnBaslat.style.display = "none";
         btnDuraklat.style.display = "flex";
         btnBitir.style.display = "flex";
+        raporBtn.style.display = "none";
         document.getElementById('hedefSoru').disabled = true;
         document.getElementById('karistirCB').disabled = true;
 
+        durumYazisi.innerHTML = "🧹 Eski sonuçlar temizleniyor... Lütfen bekleyin.";
+        
+        // YENİ EKLENEN KISIM: Kamp başlarken veritabanındaki dünkü/eski tabloyu tamamen siler.
+        try {
+            const eskiSonuclar = await getDocs(collection(db, "kamp_sonuclari"));
+            eskiSonuclar.forEach((docItem) => {
+                deleteDoc(docItem.ref);
+            });
+        } catch (e) {
+            console.error("Eski sonuçlar silinirken hata:", e);
+        }
+
         soruyuAtesle();
-        kampTimer = setInterval(kampDongusu, 70000); 
+        kampTimer = setInterval(kampDongusu, 63000); 
     });
 
     btnDuraklat.addEventListener('click', () => {
@@ -156,7 +165,8 @@
         btnDuraklat.style.display = "flex";
         durumYazisi.innerHTML = `🔥 Soru <b>${aktifIndex + 1} / ${limit}</b> Yayında!`;
         durumYazisi.style.color = "#4cd137";
-        kampTimer = setInterval(kampDongusu, 70000); 
+        // YENİ 1: Süre aralığı 63 saniye
+        kampTimer = setInterval(kampDongusu, 63000); 
     });
 
     btnBitir.addEventListener('click', () => {
@@ -193,7 +203,11 @@
                 secenekler: temizSecenekler,
                 dogru_cevap: gercekDogruCevap,
                 oylar: { A: 0, B: 0, C: 0, D: 0, E: 0 },
-                olusturulma_zamani: new Date()
+                // YENİ EKLENEN VERİLER (Sayaç ve Senkronizasyon için)
+                soru_no: aktifIndex + 1,
+                toplam_soru: limit,
+                baslangic_zamani: Date.now(),
+                kamp_bitti: false
             });
         } catch (e) {
             console.error("Firebase Hatası:", e);
@@ -210,18 +224,18 @@
         document.getElementById('karistirCB').disabled = false;
         durumYazisi.innerHTML = mesaj;
         durumYazisi.style.color = "#fbc531";
+        raporBtn.style.display = "block";
 
         try {
             await setDoc(doc(db, "aktif_sinav", "guncel_soru"), {
                 kamp_bitti: true,
-                zaman: new Date()
+                zaman: Date.now()
             });
         } catch (e) {
             console.error("Bitiş sinyali gönderilemedi:", e);
         }
     }
 
-    // 📊 Liderlik Tablosu Mantığı
     raporBtn.addEventListener('click', async () => {
         document.getElementById('raporModal').style.display = "flex";
         const raporDiv = document.getElementById('raporTabloAlani');
@@ -234,7 +248,6 @@
                 sonuclar.push({ isim: doc.id, ...doc.data() });
             });
 
-            // Doğru sayısına göre sırala (En çok doğru yapan en üstte)
             sonuclar.sort((a, b) => b.dogru - a.dogru);
 
             if(sonuclar.length === 0) {
@@ -242,26 +255,11 @@
                 return;
             }
 
-            let html = `<table>
-                <tr>
-                    <th>Sıra</th>
-                    <th>Katılımcı Adı</th>
-                    <th>Doğru</th>
-                    <th>Yanlış</th>
-                    <th>Boş</th>
-                </tr>`;
-
+            let html = `<table><tr><th>Sıra</th><th>Katılımcı Adı</th><th>Doğru</th><th>Yanlış</th><th>Boş</th></tr>`;
             sonuclar.forEach((s, index) => {
-                html += `<tr>
-                    <td><strong>${index + 1}.</strong></td>
-                    <td style="font-weight: bold;">${s.isim}</td>
-                    <td style="color:#10b981; font-weight: bold;">${s.dogru}</td>
-                    <td style="color:#ef4444; font-weight: bold;">${s.yanlis}</td>
-                    <td style="color:#9ca3af; font-weight: bold;">${s.bos}</td>
-                </tr>`;
+                html += `<tr><td><strong>${index + 1}.</strong></td><td style="font-weight: bold;">${s.isim}</td><td style="color:#10b981; font-weight: bold;">${s.dogru}</td><td style="color:#ef4444; font-weight: bold;">${s.yanlis}</td><td style="color:#9ca3af; font-weight: bold;">${s.bos}</td></tr>`;
             });
             html += `</table>`;
-            
             raporDiv.innerHTML = html;
         } catch (e) {
             raporDiv.innerHTML = "Bir hata oluştu: " + e.message;
