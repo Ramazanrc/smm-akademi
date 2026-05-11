@@ -7,29 +7,30 @@ from google import genai
 # Sayfa Ayarları
 st.set_page_config(page_title="SMM Vergi Mevzuat Antrenörü", page_icon="⚖️", layout="wide", initial_sidebar_state="expanded")
 
-# PREMIUM CSS (MATRIX HATASINI ÇÖZEN KUSURSUZ FLEX HİZALAMASI)
+# PREMIUM CSS (MOBİL MENÜ BUTONUNU GERİ GETİREN ŞEFFAF HEADER)
 st.markdown("""
     <style>
-    [data-testid="stHeader"] { display: none !important; }
+    /* Üst barı SİLME, sadece ŞEFFAF yap ki mobil menü butonu (> işareti) görünsün */
+    [data-testid="stHeader"] { background: transparent !important; }
     .block-container { padding-top: 2rem !important; }
     
     .stApp { background-color: #001a33; color: #ffffff; }
     
     .question-card { background-color: #002b52; padding: 30px; border-radius: 15px; border-left: 10px solid #d4af37; margin-bottom: 25px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); }
     
-    /* === ZARİF VE KUSURSUZ ŞIK TASARIMI === */
+    /* Zarif ve Kusursuz Şık Tasarımı */
     .stRadio { width: 100% !important; }
     
     div[role="radiogroup"] {
         width: 100% !important;
         display: flex !important;
         flex-direction: column !important;
-        gap: 15px !important; /* Şıklar arasındaki boşluk */
+        gap: 15px !important; 
     }
     
     div[role="radiogroup"] > label {
-        display: flex !important; /* Yuvarlak ve yazıyı yan yana tutar */
-        align-items: center !important; /* Yuvarlağı tam dikey ortalar */
+        display: flex !important; 
+        align-items: center !important; 
         width: 100% !important;
         background-color: rgba(255, 255, 255, 0.03) !important;
         border: 1px solid rgba(212, 175, 55, 0.3) !important;
@@ -50,8 +51,8 @@ st.markdown("""
     div[role="radiogroup"] label p { 
         color: #ffffff !important; 
         font-size: 22px !important; 
-        margin: 0 0 0 15px !important; /* Sadece soldan boşluk, harfleri yuvarlaktan uzak tutar */
-        white-space: normal !important; /* Yazıların Matrix gibi aşağı akmasını engeller */
+        margin: 0 0 0 15px !important; 
+        white-space: normal !important; 
         word-break: break-word !important;
     }
     
