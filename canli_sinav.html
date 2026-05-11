@@ -35,6 +35,14 @@
         
         .bekleniyor { text-align: center; color: #9ca3af; font-style: italic; margin-top: 20px; font-size: 18px; }
         .rapor-satir { display: flex; justify-content: space-between; padding: 15px; background: #1a1e24; border-radius: 8px; margin-bottom: 12px; font-size: 16px; font-weight: bold; }
+        
+        /* YENİ EKLENEN CSS: İnceleme Modalı */
+        #incelemeModal { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:2000; justify-content:center; align-items:flex-start; padding: 20px; box-sizing: border-box; overflow-y:auto; }
+        .inceleme-kutu { background:#242a33; border-radius:12px; padding:25px; width:100%; max-width:650px; border: 1px solid #374151; margin-top: 20px; margin-bottom: 40px; }
+        .inceleme-soru-item { background: #1a1e24; padding: 15px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #374151; }
+        .inceleme-sik { padding: 8px 12px; margin-bottom: 8px; border-radius: 6px; border: 1px solid #4b5563; font-size: 14px; }
+        .inceleme-sik.dogru-sik { border-color: #10b981; background: rgba(16, 185, 129, 0.15); color: #10b981; font-weight: bold; }
+        .inceleme-sik.yanlis-sik { border-color: #ef4444; background: rgba(239, 68, 68, 0.15); color: #ef4444; }
     </style>
 </head>
 <body>
@@ -42,7 +50,7 @@
     <div class="container" id="login-alani" style="display: none; text-align: center;">
         <div class="header"><h2>🎓 SMM AKADEMİ'YE HOŞ GELDİN</h2></div>
         <p style="color: #9ca3af; margin-bottom: 25px;">Kamp sonu kişisel karneni oluşturabilmemiz için lütfen adını soyadını gir.</p>
-        <input type="text" id="kullaniciInput" class="login-input" placeholder="Örn: Recep Karaca">
+        <input type="text" id="kullaniciInput" class="login-input" placeholder="Örn: İsim Soyisim">
         <button id="kampaKatilBtn" class="login-btn">🚀 Kampa Katıl</button>
     </div>
 
@@ -66,7 +74,17 @@
         <div class="rapor-satir" style="border-left: 5px solid #ef4444;"><span>❌ Yanlış Cevap:</span> <span id="rapor-yanlis" style="color: #ef4444;">0</span></div>
         <div class="rapor-satir" style="border-left: 5px solid #9ca3af;"><span>⚪ Boş Bırakılan:</span> <span id="rapor-bos" style="color: #9ca3af;">0</span></div>
 
-        <button id="raporKapatBtn" class="login-btn" style="margin-top: 25px; background: #4b5563;">Kapat ve Bekleme Salonuna Dön</button>
+        <button id="cevaplariInceleBtn" class="login-btn" style="margin-top: 20px; background: #3b82f6;">🔍 Çözdüğüm Soruları İncele</button>
+        <button id="raporKapatBtn" class="login-btn" style="margin-top: 15px; background: #4b5563;">Kapat ve Bekleme Salonuna Dön</button>
+    </div>
+
+    <div id="incelemeModal">
+        <div class="inceleme-kutu">
+            <h2 style="color: #3b82f6; text-align: center; margin-top: 0; border-bottom: 1px solid #374151; padding-bottom: 15px;">🔍 SORU İNCELEME</h2>
+            <div id="inceleme-icerik-alani">
+                </div>
+            <button id="incelemeKapatBtn" class="login-btn" style="margin-top: 25px; background: #ef4444;">Kapat</button>
+        </div>
     </div>
 
 <script type="module">
@@ -88,10 +106,12 @@
 
     let kullaniciAdi = localStorage.getItem("smm_isim");
     let istatistik = { dogru: 0, yanlis: 0, bos: 0 };
+    let soruGecmisi = []; // YENİ: Soruları kaydedeceğimiz dizi
+
     try {
-        let hafizaVerisi = localStorage.getItem("smm_istatistik");
-        if(hafizaVerisi) istatistik = JSON.parse(hafizaVerisi);
-    } catch (e) { istatistik = { dogru: 0, yanlis: 0, bos: 0 }; }
+        if(localStorage.getItem("smm_istatistik")) istatistik = JSON.parse(localStorage.getItem("smm_istatistik"));
+        if(localStorage.getItem("smm_soru_gecmisi")) soruGecmisi = JSON.parse(localStorage.getItem("smm_soru_gecmisi"));
+    } catch (e) { }
 
     let secilenSik = "";
     let sayacInterval;
@@ -114,7 +134,10 @@
             localStorage.setItem("smm_isim", girilenIsim);
             kullaniciAdi = girilenIsim;
             istatistik = { dogru: 0, yanlis: 0, bos: 0 };
+            soruGecmisi = [];
             localStorage.setItem("smm_istatistik", JSON.stringify(istatistik));
+            localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
+            
             document.getElementById("login-alani").style.display = "none";
             document.getElementById("sinav-ana-kasa").style.display = "block";
             baslaDinlemeye();
@@ -123,12 +146,23 @@
         }
     });
 
-    // YENİ 8: Rapor Kapatma İşlemi
+    // Rapor Kapatma
     document.getElementById("raporKapatBtn").addEventListener("click", () => {
         document.getElementById("rapor-alani").style.display = "none";
         document.getElementById("sinav-ana-kasa").style.display = "block";
         document.getElementById("sinav-alani").style.display = "none";
         document.getElementById("soru-yukleniyor").style.display = "block";
+    });
+
+    // YENİ: İnceleme Modalı Açma
+    document.getElementById("cevaplariInceleBtn").addEventListener("click", () => {
+        gecmisiCiz();
+        document.getElementById("incelemeModal").style.display = "flex";
+    });
+
+    // YENİ: İnceleme Modalı Kapatma
+    document.getElementById("incelemeKapatBtn").addEventListener("click", () => {
+        document.getElementById("incelemeModal").style.display = "none";
     });
 
     function baslaDinlemeye() {
@@ -155,6 +189,7 @@
                 }
 
                 document.getElementById("rapor-alani").style.display = "none";
+                document.getElementById("incelemeModal").style.display = "none"; // Soru gelirse incelemeyi kapat
 
                 if(localStorage.getItem("son_soru") !== guncelData.soru_metni) {
                     secilenSik = "";
@@ -163,31 +198,36 @@
                     raporGonderildiMi = false;
                     localStorage.setItem("son_soru", guncelData.soru_metni);
 
-                    // YENİ 3: Test Başı İstatistik Sıfırlama
+                    // Test başı sıfırlama
                     if(guncelData.soru_no === 1) {
                         istatistik = { dogru: 0, yanlis: 0, bos: 0 };
+                        soruGecmisi = [];
                         localStorage.setItem("smm_istatistik", JSON.stringify(istatistik));
+                        localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
                     }
 
-                    // YENİ 7: Geç Girenler İçin Zaman Senkronizasyonu
-                    let gecenSaniye = Math.floor((Date.now() - guncelData.baslangic_zamani) / 1000);
-                    kalanSure = 60 - gecenSaniye;
+                    // --- YENİ KOD BAŞLANGICI (VİBE CODING KURAL 1, 2 VE 3) ---
                     
-                    if(kalanSure <= 0) {
-                        kalanSure = 0;
-                        sureBittiMi = true;
-                        arayuzuCiz(guncelData);
-                        document.getElementById("zaman-gosterge").innerText = "0";
-                        sonuclariAc(guncelData);
-                    } else {
-                        arayuzuCiz(guncelData);
-                        sayaciBaslat();
-                    }
-                } 
-                // YENİ 6: Süre bitince cevap değişimi ekrana yansımasını dondur
-                else if (!sureBittiMi) { 
-                    barlariGuncelle(guncelData);
-                }
+                    // Kural 1: Kullanıcıya beklediğini bildir (Boş ekrana bakıp F5 atıp süresini yakmasın)
+                    document.getElementById("sinav-alani").style.display = "none";
+                    document.getElementById("soru-yukleniyor").style.display = "block";
+                    document.getElementById("soru-yukleniyor").innerText = "Soru hazırlanıyor, lütfen bekleyin...";
+
+                    // Kural 2: Arayüzün tam çizilmesi için asenkron kısa bir nefes aralığı (setTimeout)
+                    setTimeout(() => {
+                        // Sayfa yenileme veya geç gelme krizini kökten çözüyoruz:
+                        // Süreyi sunucudan düşmek yerine, soru EKRANA GELDİĞİ AN 60'tan başlatıyoruz.
+                        kalanSure = 60; 
+                        
+                        arayuzuCiz(guncelData); // Önce vitrini (soruyu ve şıkları) ekrana basıyoruz
+                        sayaciBaslat(); // Kural 3: Önceki sayacı temizler (clearInterval) ve yeni sayacı pırıl pırıl başlatır
+                    }, 400); // 400 milisaniye (yarım saniyeden az) DOM'un güvenle boyanması için harika bir süredir.
+                    
+                    // --- YENİ KOD BİTİŞİ ---
+
+                } else if (!sureBittiMi) { 
+            // barlariGuncelle(guncelData);  <-- Yüzdelerin canlı güncellenmesini kapattık
+        }
             }
         });
     }
@@ -205,7 +245,6 @@
             if(kalanSure <= 0) {
                 clearInterval(sayacInterval);
                 sureBittiMi = true;
-                // YENİ 2: Bitti ibaresi kalktı, sadece 0'da kalacak
                 gosterge.innerText = "0"; 
                 sonuclariAc(guncelData); 
             } else {
@@ -218,8 +257,6 @@
         document.getElementById("soru-yukleniyor").style.display = "none";
         document.getElementById("sinav-alani").style.display = "block";
         document.getElementById("soru-metni").innerHTML = data.soru_metni;
-        
-        // YENİ 5: Soru Sayacı
         document.getElementById("soru-sayaci").innerText = `Soru: ${data.soru_no} / ${data.toplam_soru}`;
 
         const seceneklerDiv = document.getElementById("secenekler-kapsayici");
@@ -240,26 +277,22 @@
             `;
 
             btn.onclick = async () => {
-                // YENİ 4: Cevap Değiştirme İzni
                 if(!sureBittiMi) {
                     let oncekiSik = secilenSik;
                     secilenSik = harf;
-                    
                     document.querySelectorAll('.secenek-btn').forEach(b => b.classList.remove('secildi'));
                     btn.classList.add("secildi");
                     
                     try {
                         if (oncekiSik && oncekiSik !== harf) {
-                            // Eski oyu sil, yeni oyu ekle
                             await updateDoc(soruRef, {
                                 [`oylar.${oncekiSik}`]: increment(-1),
                                 [`oylar.${harf}`]: increment(1)
                             });
                         } else if (!oncekiSik) {
-                            // İlk kez oy veriliyor
                             await updateDoc(soruRef, { [`oylar.${harf}`]: increment(1) });
                         }
-                    } catch(e) { console.error("Oy işlenemedi", e); }
+                    } catch(e) { }
                 }
             };
             seceneklerDiv.appendChild(btn);
@@ -286,7 +319,18 @@
             if(!secilenSik) istatistik.bos++;
             else if(secilenSik === data.dogru_cevap) istatistik.dogru++;
             else istatistik.yanlis++;
+            
+            // YENİ: Soruyu yerel hafızaya geçmiş olarak kaydet
+            soruGecmisi.push({
+                no: data.soru_no,
+                soru: data.soru_metni,
+                secenekler: data.secenekler,
+                secilen: secilenSik,
+                dogru: data.dogru_cevap
+            });
+
             localStorage.setItem("smm_istatistik", JSON.stringify(istatistik));
+            localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
             skorEklendiMi = true;
         }
         barlariGuncelle(data);
@@ -302,6 +346,45 @@
             const yaziElementi = document.getElementById(`yuzde-${harf}`);
             yaziElementi.style.display = "inline";
             yaziElementi.innerText = `%${yuzde} (${oySayisi})`;
+        });
+    }
+
+    // YENİ EKLENEN FONKSİYON: Geçmişi Ekrana Çizen Sistem
+    function gecmisiCiz() {
+        const alan = document.getElementById("inceleme-icerik-alani");
+        alan.innerHTML = "";
+        
+        if (soruGecmisi.length === 0) {
+            alan.innerHTML = "<div style='text-align:center; color:#9ca3af; margin-top:20px;'>Bu testte çözdüğünüz veya gördüğünüz soru bulunamadı.</div>";
+            return;
+        }
+
+        soruGecmisi.forEach(k => {
+            let kutu = document.createElement("div");
+            kutu.className = "inceleme-soru-item";
+            
+            let html = `<div style="color:#9ca3af; font-size:13px; margin-bottom:8px; font-weight:bold;">Soru ${k.no}</div>`;
+            html += `<div style="font-size:16px; font-weight:bold; margin-bottom:15px; color:#f8fafc;">${k.soru}</div>`;
+            
+            const harfler = ["A", "B", "C", "D", "E"];
+            harfler.forEach(h => {
+                let sinif = "inceleme-sik";
+                
+                if (h === k.dogru) {
+                    sinif += " dogru-sik";
+                } else if (h === k.secilen) {
+                    sinif += " yanlis-sik";
+                }
+                
+                html += `<div class="${sinif}"><strong>${h})</strong> ${k.secenekler[h]}</div>`;
+            });
+            
+            if(!k.secilen) {
+                html += `<div style="color:#f59e0b; font-size:13px; margin-top:10px; font-style:italic;">⚠️ Bu soruyu boş bıraktınız.</div>`;
+            }
+
+            kutu.innerHTML = html;
+            alan.appendChild(kutu);
         });
     }
 </script>
