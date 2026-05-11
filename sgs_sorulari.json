@@ -424,7 +424,7 @@
     "answer": 1
   },
   {
-    "q": "EFG İşletmesi, 1 Ekim 2025 tarihinde yeni bir fabrika binası satın almıştır. Binanın ilk defter değerine ilişkin bilgiler aşağıdaki gibidir:\n\n| | Edinme Değeri | Tahmini Faydalı Ömür |\n|---|---|---|\n| Arsa | 50.000.000 ₺ | |\n| Fabrika Binası | 20.000.000 ₺ | 20 yıl |\n| Asansör | 5.000.000 ₺ | 10 yıl |\n\nAsansör sisteminin sökülüp yenisi ile değiştirilme zamanı geldiğinde, eski sistemin 600.000 ₺'ye satılacağı öngörülmektedir.<br><br>TMS 16 Maddi Duran Varlıklar'a göre bu varlıklar için normal (doğrusal) amortisman yönteminde amortisman hesaplandığında, EFG İşletmesinin 31.12.2025 tarihli finansal durum tablosunda birikmiş amortismanlar hesabının tutarı kaç ₺ olacaktır? (2026/1. Dönem)",
+    "q": "EFG İşletmesi, 1 Ekim 2025 tarihinde yeni bir fabrika binası satın almıştır. Binanın ilk defter değerine ilişkin bilgiler aşağıdaki gibidir:<br><br>| | Edinme Değeri | Tahmini Faydalı Ömür |<br>|---|---|---|<br>| Arsa | 50.000.000 ₺ | |<br>| Fabrika Binası | 20.000.000 ₺ | 20 yıl |<br>| Asansör | 5.000.000 ₺ | 10 yıl |<br><br>Asansör sisteminin sökülüp yenisi ile değiştirilme zamanı geldiğinde, eski sistemin 600.000 ₺'ye satılacağı öngörülmektedir.<br><br>TMS 16 Maddi Duran Varlıklar'a göre bu varlıklar için normal (doğrusal) amortisman yönteminde amortisman hesaplandığında, EFG İşletmesinin 31.12.2025 tarihli finansal durum tablosunda birikmiş amortismanlar hesabının tutarı kaç ₺ olacaktır? (2026/1. Dönem)",
     "options": [
       "A) 125.000",
       "B) 250.000",
@@ -1889,7 +1889,7 @@
     "answer": 2
   },
   {
-    "q": "3065 sayılı Katma Değer Vergisi Kanunu’na göre, vergiden istisna edilmiş işlemleri yapanların, istisnadan vazgeçeceklerine ilişkin talepleri üzerine, vergi dairesince, vergi mükellefiyetleri talep tarihinden itibaren tesis olunur. \n3065 sayılı Katma Değer Vergisi Kanunu’na göre, bu şekilde mükellef olanlar kaç yıl geçmedikçe mükellefiyetten çıkamazlar? (2022/2. Dönem)",
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu’na göre, vergiden istisna edilmiş işlemleri yapanların, istisnadan vazgeçeceklerine ilişkin talepleri üzerine, vergi dairesince, vergi mükellefiyetleri talep tarihinden itibaren tesis olunur. <br>3065 sayılı Katma Değer Vergisi Kanunu’na göre, bu şekilde mükellef olanlar kaç yıl geçmedikçe mükellefiyetten çıkamazlar? (2022/2. Dönem)",
     "options": [
       "A) 1 Yıl",
       "B) 2 Yıl",

@@ -3769,7 +3769,7 @@
       "answer": 1
     },
     {
-      "q": "I-Faiz ve buna ek olarak, tahvile kardan pay verilmesi\nII-Kar payının faizden daha az olması halinde, faiz ödenmesi; faiz getirisine eşit veya daha fazla kar payı tahakkuk etmişse kar payının ödenmesi\nIII- Bir faiz öngörülmeksizin tahvile kardan pay verilmesi.\n\nTahvillere kardan pay verilmesi durumunda yukarıdakilerden hangileri yapılabilir?",
+      "q": "I-Faiz ve buna ek olarak, tahvile kardan pay verilmesi<br>II-Kar payının faizden daha az olması halinde, faiz ödenmesi; faiz getirisine eşit veya daha fazla kar payı tahakkuk etmişse kar payının ödenmesi<br>III- Bir faiz öngörülmeksizin tahvile kardan pay verilmesi.<br><br>Tahvillere kardan pay verilmesi durumunda yukarıdakilerden hangileri yapılabilir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -3892,7 +3892,7 @@
       "answer": 1
     },
     {
-      "q": "I- Gayrimenkul projesinin satış değerinin en az yarısı büyüklüğünde satış değerine sahip bir projeyi, sözleşmesi ve teknik şartnamelerine uygun olarak Kurula başvuru tarihinden önceki 5 yıl içerisinde tamamlamış veya ihraççının gayrimenkul yatırım ortaklığı olması durumunda aynı şartlardaki bir projeyi tamamlatmış olması,\nII-Gayrimenkul projesinin gerçekleştirileceği arsanın mülkiyetine münferiden sahip olması\nIII-Arsa tapusunun kat irtifakı tapusuna çevrilmesi veya arsa üzerinde ihraççı lehine kat irtifakı tesis edilmiş olması\n\nGayrimenkul sertifikası ihraç etmek isteyen ihraççıların yukarıdaki şartlardan hangilerini taşımları gerekir?",
+      "q": "I- Gayrimenkul projesinin satış değerinin en az yarısı büyüklüğünde satış değerine sahip bir projeyi, sözleşmesi ve teknik şartnamelerine uygun olarak Kurula başvuru tarihinden önceki 5 yıl içerisinde tamamlamış veya ihraççının gayrimenkul yatırım ortaklığı olması durumunda aynı şartlardaki bir projeyi tamamlatmış olması,<br>II-Gayrimenkul projesinin gerçekleştirileceği arsanın mülkiyetine münferiden sahip olması<br>III-Arsa tapusunun kat irtifakı tapusuna çevrilmesi veya arsa üzerinde ihraççı lehine kat irtifakı tesis edilmiş olması<br><br>Gayrimenkul sertifikası ihraç etmek isteyen ihraççıların yukarıdaki şartlardan hangilerini taşımları gerekir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -3914,7 +3914,7 @@
       "answer": 2
     },
     {
-      "q": "Gayrimenkul sertifikalarında tali edim ifa süresinin, izahname veya ihraç belgesinde belirtilen proje bitiş tarihini izleyen …… günü aşmayacak şekilde belirlenmesi zorunludur.\n\nYukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+      "q": "Gayrimenkul sertifikalarında tali edim ifa süresinin, izahname veya ihraç belgesinde belirtilen proje bitiş tarihini izleyen …… günü aşmayacak şekilde belirlenmesi zorunludur.<br><br>Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
       "options": [
         "A) 10",
         "B) 25",
@@ -4046,7 +4046,7 @@
       "answer": 1
     },
     {
-      "q": "I- Borsada işlem gören devlet iç borçlanma senetleri\nII- Konvertibl döviz\nIII- Kıymetli maden\nIV-Emtia\nV-Geçerliliği uluslararası alanda genel kabul görmüş endeksler\n\nYukarıdakilerden hangileri yatırım kuruluşu varantına ya da sertifikasına dayanak teşkil edebilirler?",
+      "q": "I- Borsada işlem gören devlet iç borçlanma senetleri<br>II- Konvertibl döviz<br>III- Kıymetli maden<br>IV-Emtia<br>V-Geçerliliği uluslararası alanda genel kabul görmüş endeksler<br><br>Yukarıdakilerden hangileri yatırım kuruluşu varantına ya da sertifikasına dayanak teşkil edebilirler?",
       "options": [
         "A) I ve II",
         "B) I, II ve III",
@@ -4079,7 +4079,7 @@
       "answer": 2
     },
     {
-      "q": "I- Kaydi teslimat ile uzlaşı\nII- Pay ile uzlaşı\nIII- Nakdi uzlaşı\n\nYukarıdakilerden hangisi/hangileri ortaklık varantlarına ilişkin kullanım hakkı yöntemidir?",
+      "q": "I- Kaydi teslimat ile uzlaşı<br>II- Pay ile uzlaşı<br>III- Nakdi uzlaşı<br><br>Yukarıdakilerden hangisi/hangileri ortaklık varantlarına ilişkin kullanım hakkı yöntemidir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -4255,7 +4255,7 @@
       "answer": 0
     },
     {
-      "q": "I- Bankalar\nII- İpotek Finans Kuruluşları\nIII-Finansal Kiralama Şirketleri\nIV-Finansman Şirketleri\n\nYukarıdan hangisi/hangileri teminatlı menkul kıymet ihraç edebilir?",
+      "q": "I- Bankalar<br>II- İpotek Finans Kuruluşları<br>III-Finansal Kiralama Şirketleri<br>IV-Finansman Şirketleri<br><br>Yukarıdan hangisi/hangileri teminatlı menkul kıymet ihraç edebilir?",
       "options": [
         "A) Yalnız I",
         "B) I ve II",
@@ -4732,7 +4732,7 @@
   ],
   "Çalışma Soruları (Sermaye Piyasası Araçları Satış Yöntemleri)": [
     {
-      "q": "I- Halka arz edilmek suretiyle satış\nII- Halka arz edilmeksizin tahsisli satış\nIII- Halka arz edilmeksizin Nitelikli yatırımcılara satış\n\nSermaye Piyasası Araçlarının Satışı Tebliği’ne göre yukarıda verilenlerden hangileri sermaye piyasası araçlarının satış yöntemleridir?",
+      "q": "I- Halka arz edilmek suretiyle satış<br>II- Halka arz edilmeksizin tahsisli satış<br>III- Halka arz edilmeksizin Nitelikli yatırımcılara satış<br><br>Sermaye Piyasası Araçlarının Satışı Tebliği’ne göre yukarıda verilenlerden hangileri sermaye piyasası araçlarının satış yöntemleridir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -4776,7 +4776,7 @@
       "answer": 1
     },
     {
-      "q": "I- Talep toplama yoluyla satış yöntemi,\nII- Talep toplanmaksızın satış yöntemi,\nIII- Borsada satış yöntemi\n\nSermaye piyasası araçlarının halka arz yoluyla satışı yukarıda belirtilen yöntemlerden hangisi ya da hangileriyle gerçekleşebilir?",
+      "q": "I- Talep toplama yoluyla satış yöntemi,<br>II- Talep toplanmaksızın satış yöntemi,<br>III- Borsada satış yöntemi<br><br>Sermaye piyasası araçlarının halka arz yoluyla satışı yukarıda belirtilen yöntemlerden hangisi ya da hangileriyle gerçekleşebilir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -4809,7 +4809,7 @@
       "answer": 3
     },
     {
-      "q": "I- Sabit fiyatla talep toplama,\nII-Fiyat teklifi alarak talep toplama,\nIII-Fiyat aralığı ile talep toplama\nIV-Ortalama fiyat ile talep toplama\n\nTalep toplama yoluyla satış yöntemi yukarıdakilerden hangileriyle gerçekleştirilebilir?",
+      "q": "I- Sabit fiyatla talep toplama,<br>II-Fiyat teklifi alarak talep toplama,<br>III-Fiyat aralığı ile talep toplama<br>IV-Ortalama fiyat ile talep toplama<br><br>Talep toplama yoluyla satış yöntemi yukarıdakilerden hangileriyle gerçekleştirilebilir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -4897,7 +4897,7 @@
       "answer": 0
     },
     {
-      "q": "I-Halka açık anonim ortaklıklar, Kurul düzenlemelerine göre hesaplanan dağıtılabilir birinci temettü tutarının, genel kurula sunulacak son yıllık mali tablolarına göre esas sermaye/çıkarılmış sermayenin % 5’inden daha düşük olması durumunda, ilgili hesap dönemleri için birinci temettü dağıtmayabilir.\nII-Halka açık anonim ortaklıklardan, Sermayelerinin %95’i veya fazlası en fazla elli ortağa ait olanlar, talep üzerine, Kurul tarafından başvurunun yapıldığı tarihteki hesap dönemi mali tabloları için bağımsız denetim yükümlülüğünden muaf tutulabilirler.\nIII-Sermaye piyasası araçlarının tahsisli satışı ve sadece nitelikli yatırımcılara yönelik yapılan satışında izahname düzenlemek gerekmez.\n\nYukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "q": "I-Halka açık anonim ortaklıklar, Kurul düzenlemelerine göre hesaplanan dağıtılabilir birinci temettü tutarının, genel kurula sunulacak son yıllık mali tablolarına göre esas sermaye/çıkarılmış sermayenin % 5’inden daha düşük olması durumunda, ilgili hesap dönemleri için birinci temettü dağıtmayabilir.<br>II-Halka açık anonim ortaklıklardan, Sermayelerinin %95’i veya fazlası en fazla elli ortağa ait olanlar, talep üzerine, Kurul tarafından başvurunun yapıldığı tarihteki hesap dönemi mali tabloları için bağımsız denetim yükümlülüğünden muaf tutulabilirler.<br>III-Sermaye piyasası araçlarının tahsisli satışı ve sadece nitelikli yatırımcılara yönelik yapılan satışında izahname düzenlemek gerekmez.<br><br>Yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -4998,7 +4998,7 @@
       "answer": 4
     },
     {
-      "q": "I- Halka açık ortaklıklarda, gönüllü ya da önemli nitelikteki işlemler nedeniyle zorunlu pay alım teklifi yapılması ile ilgili usul ve esaslar Kurulca belirlenir.\nII-Halka açık ortaklıklarda yönetim kontrolünü sağlayan payların veya oy haklarının iktisap edilmesi hâlinde diğer ortakların paylarını satın almak üzere teklif yapılması zorunludur.\nIII-Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak sahip olunması, yönetim kurulu üye sayısının salt çoğunluğunu seçme veya genel kurulda söz konusu sayıdaki üyelikler için aday gösterme hakkını veren imtiyazlı paylara sahip olunması, yönetim kontrolünün elde edilmesi olarak kabul edilir.\n\nYukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "q": "I- Halka açık ortaklıklarda, gönüllü ya da önemli nitelikteki işlemler nedeniyle zorunlu pay alım teklifi yapılması ile ilgili usul ve esaslar Kurulca belirlenir.<br>II-Halka açık ortaklıklarda yönetim kontrolünü sağlayan payların veya oy haklarının iktisap edilmesi hâlinde diğer ortakların paylarını satın almak üzere teklif yapılması zorunludur.<br>III-Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak sahip olunması, yönetim kurulu üye sayısının salt çoğunluğunu seçme veya genel kurulda söz konusu sayıdaki üyelikler için aday gösterme hakkını veren imtiyazlı paylara sahip olunması, yönetim kontrolünün elde edilmesi olarak kabul edilir.<br><br>Yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız IV",
@@ -5119,7 +5119,7 @@
       "answer": 2
     },
     {
-      "q": "I- İmtiyazlı veya nominal değerinin üzerinde pay çıkarılması\nII- İmtiyazlı veya nominal değerinin altında pay çıkarılması\nIII-Pay sahiplerinin yeni pay alma haklarının sınırlandırılması\nIV-imtiyazlı pay sahiplerinin haklarını kısıtlayıcı nitelikte karar alınması\n\nKayıtlı sermaye sistemine geçmiş bir ortaklıkta esas sözleşmede açık hüküm olması şartı ile yukarıdaki yetkilerden hangisi tanınabilir?",
+      "q": "I- İmtiyazlı veya nominal değerinin üzerinde pay çıkarılması<br>II- İmtiyazlı veya nominal değerinin altında pay çıkarılması<br>III-Pay sahiplerinin yeni pay alma haklarının sınırlandırılması<br>IV-imtiyazlı pay sahiplerinin haklarını kısıtlayıcı nitelikte karar alınması<br><br>Kayıtlı sermaye sistemine geçmiş bir ortaklıkta esas sözleşmede açık hüküm olması şartı ile yukarıdaki yetkilerden hangisi tanınabilir?",
       "options": [
         "A) Yalnız I",
         "B) I ve II",
@@ -5152,7 +5152,7 @@
       "answer": 4
     },
     {
-      "q": "I- Önemli nitelikteki işlemlere ilişkin gerekçeli yönetim kurulu kararı, bağımsız yönetim kurulu üyelerinin oyu da belirtilerek, Kurulun özel durumlara ilişkin düzenlemeleri çerçevesinde ayrılma hakkı kullanım fiyatı ile birlikte kamuya açıklanır.\nII- Ortaklıkların önemli nitelikteki işlemleri yönetim kurulu onayına sunulur.\nIII-Önemli nitelikteki işlemlere ilişkin kararların genel kurulca alınabilmesi için, esas sözleşmelerinde açıkça oran belirtilmek suretiyle daha ağır nisaplar öngörülmediği takdirde, toplantı nisabı aranmaksızın, ortaklık genel kuruluna katılan oy hakkını haiz payların üçte ikisinin olumlu oy vermesi şartı aranır.\n\nSermaye piyasası mevzuatınca “Önemli Nitelikteki İşlemlere İlişkin Esaslar ve Ayrılma Hakkı Tebliği”ne göre yukarıdakilerden hangisi yanlıştır?",
+      "q": "I- Önemli nitelikteki işlemlere ilişkin gerekçeli yönetim kurulu kararı, bağımsız yönetim kurulu üyelerinin oyu da belirtilerek, Kurulun özel durumlara ilişkin düzenlemeleri çerçevesinde ayrılma hakkı kullanım fiyatı ile birlikte kamuya açıklanır.<br>II- Ortaklıkların önemli nitelikteki işlemleri yönetim kurulu onayına sunulur.<br>III-Önemli nitelikteki işlemlere ilişkin kararların genel kurulca alınabilmesi için, esas sözleşmelerinde açıkça oran belirtilmek suretiyle daha ağır nisaplar öngörülmediği takdirde, toplantı nisabı aranmaksızın, ortaklık genel kuruluna katılan oy hakkını haiz payların üçte ikisinin olumlu oy vermesi şartı aranır.<br><br>Sermaye piyasası mevzuatınca “Önemli Nitelikteki İşlemlere İlişkin Esaslar ve Ayrılma Hakkı Tebliği”ne göre yukarıdakilerden hangisi yanlıştır?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -5196,7 +5196,7 @@
       "answer": 4
     },
     {
-      "q": "Esas sözleşmede imtiyazlı pay sahiplerine, intifa senedi sahiplerine, yönetim kurulu üyelerine, ortaklık çalışanlarına, pay sahibi dışındaki kişilere kârdan pay verilebilmesi hususunda hüküm bulunmasına rağmen, kâr payına ilişkin olarak herhangi bir oran belirlenmemişse; bu kişilere dağıtılacak kâr payı tutarı, her durumda pay sahiplerine dağıtılan kâr payının ………………… aşamaz.\n\nYukarıdaki boşluğa aşağıdaki ifadelerden hangisi gelmelidir?",
+      "q": "Esas sözleşmede imtiyazlı pay sahiplerine, intifa senedi sahiplerine, yönetim kurulu üyelerine, ortaklık çalışanlarına, pay sahibi dışındaki kişilere kârdan pay verilebilmesi hususunda hüküm bulunmasına rağmen, kâr payına ilişkin olarak herhangi bir oran belirlenmemişse; bu kişilere dağıtılacak kâr payı tutarı, her durumda pay sahiplerine dağıtılan kâr payının ………………… aşamaz.<br><br>Yukarıdaki boşluğa aşağıdaki ifadelerden hangisi gelmelidir?",
       "options": [
         "A) dörtte birini",
         "B) beşte birini",
@@ -5229,7 +5229,7 @@
       "answer": 1
     },
     {
-      "q": "I- Kâr payı dağıtılıp dağıtılmayacağı, dağıtılacak ise ortaklar ve kâra katılan diğer kişiler için belirlenen kâr payı dağıtım oranı.\nII-Kâr payının ödenme şekli.\nIII-Kâr payı dağıtım işlemlerine en geç dağıtım kararı verilen genel kurul toplantısının yapıldığı hesap dönemi sonu itibarıyla başlanması şartıyla, kâr payının ödenme zamanı.\nIV-Kâr payı avansı dağıtılıp dağıtılmayacağı, dağıtılacak ise buna ilişkin esaslar.\n\nSermaye piyasası mevzuatına göre ortaklıkların kâr dağıtım politikalarında asgari olarak yukarıdaki hususlardan hangilerine yer verilmesi gerekir?",
+      "q": "I- Kâr payı dağıtılıp dağıtılmayacağı, dağıtılacak ise ortaklar ve kâra katılan diğer kişiler için belirlenen kâr payı dağıtım oranı.<br>II-Kâr payının ödenme şekli.<br>III-Kâr payı dağıtım işlemlerine en geç dağıtım kararı verilen genel kurul toplantısının yapıldığı hesap dönemi sonu itibarıyla başlanması şartıyla, kâr payının ödenme zamanı.<br>IV-Kâr payı avansı dağıtılıp dağıtılmayacağı, dağıtılacak ise buna ilişkin esaslar.<br><br>Sermaye piyasası mevzuatına göre ortaklıkların kâr dağıtım politikalarında asgari olarak yukarıdaki hususlardan hangilerine yer verilmesi gerekir?",
       "options": [
         "A) I ve II",
         "B) I ve III",
@@ -5418,7 +5418,7 @@
       "answer": 1
     },
     {
-      "q": "I-Sürekli Müzayede\nII-Piyasa Yapıcılı Sürekli Müzayede\nIII-Tek Fiyat\n\nBorsa İstanbul Pay Piyasası’nda yukarıdaki yöntemlerden hangileri kullanılmaktadır?",
+      "q": "I-Sürekli Müzayede<br>II-Piyasa Yapıcılı Sürekli Müzayede<br>III-Tek Fiyat<br><br>Borsa İstanbul Pay Piyasası’nda yukarıdaki yöntemlerden hangileri kullanılmaktadır?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -5528,7 +5528,7 @@
       "answer": 0
     },
     {
-      "q": "Sermaye Piyasası Araçlarının Kredili Alım, Açığa Satış ve Ödünç Alma ve Verme İşlemlerinde “Açığa Satış İşlemlerine Konu Olan Menkul Kıymetler Listeleri” üçer aylık dönemler itibariyle güncelleştirilen ……………………. dahil olan hisse senetlerinden oluşturulmaktadır.\n\nYukarıdaki boşluğa gelecek doğru ifade hangisidir?",
+      "q": "Sermaye Piyasası Araçlarının Kredili Alım, Açığa Satış ve Ödünç Alma ve Verme İşlemlerinde “Açığa Satış İşlemlerine Konu Olan Menkul Kıymetler Listeleri” üçer aylık dönemler itibariyle güncelleştirilen ……………………. dahil olan hisse senetlerinden oluşturulmaktadır.<br><br>Yukarıdaki boşluğa gelecek doğru ifade hangisidir?",
       "options": [
         "A) İMKB Ulusal-30 Endeksi’ne",
         "B) İMKB Ulusal-50 Endeksi’ne",
@@ -5539,7 +5539,7 @@
       "answer": 3
     },
     {
-      "q": "I- Nakit olarak TL ve konvertibl döviz\nII-Sermaye piyasası aracı olarak işlemlere konu olabilecek sermaye piyasası araçları listelerinde yer alan sermaye piyasası araçları\nIII-A ve B tipi yatırım fonu katılma belgeleri\nIV-Borsada işlem görmesi kaydıyla devlet tahvili, hazine bonosu\nV-İstanbul Altın Borsasında işlem görmekte olan ve Hazine Müsteşarlığının belirlediği standartlardaki altın ve diğer kıymetli madenler\n\nSermaye piyasası araçlarının kredili alımı, açığa satış ve ödünç alma ve verme işlemlerinde yukarıdaki menkul kıymetlerden hangisi/hangileri özkaynak olarak kabul edilmektedir?",
+      "q": "I- Nakit olarak TL ve konvertibl döviz<br>II-Sermaye piyasası aracı olarak işlemlere konu olabilecek sermaye piyasası araçları listelerinde yer alan sermaye piyasası araçları<br>III-A ve B tipi yatırım fonu katılma belgeleri<br>IV-Borsada işlem görmesi kaydıyla devlet tahvili, hazine bonosu<br>V-İstanbul Altın Borsasında işlem görmekte olan ve Hazine Müsteşarlığının belirlediği standartlardaki altın ve diğer kıymetli madenler<br><br>Sermaye piyasası araçlarının kredili alımı, açığa satış ve ödünç alma ve verme işlemlerinde yukarıdaki menkul kıymetlerden hangisi/hangileri özkaynak olarak kabul edilmektedir?",
       "options": [
         "A) I ve II",
         "B) I, II ve III",
@@ -5594,7 +5594,7 @@
       "answer": 1
     },
     {
-      "q": "I- Aracı kurum tarafından yapılan özkaynak tamamlama bildirimine rağmen müşterinin süresi içerisinde özkaynağı tamamlamaması\nII- Sermaye piyasası araçlarının kredili alımı işlemi çerçeve sözleşmesi ile belirlenen kredi süresinin sona ermesi\nIII- Sermaye piyasası araçlarının kredili alımı işlemi yapılan sermaye piyasası araçlarının, ilgili listeden çıkarılması\n\nSermaye Piyasası Araçlarının Kredili Alım İşlemi kapsamında yukarıda sayılanlardan hangisinin oluşması halinde müşterilerin kredi borcu muaccel hale gelir?",
+      "q": "I- Aracı kurum tarafından yapılan özkaynak tamamlama bildirimine rağmen müşterinin süresi içerisinde özkaynağı tamamlamaması<br>II- Sermaye piyasası araçlarının kredili alımı işlemi çerçeve sözleşmesi ile belirlenen kredi süresinin sona ermesi<br>III- Sermaye piyasası araçlarının kredili alımı işlemi yapılan sermaye piyasası araçlarının, ilgili listeden çıkarılması<br><br>Sermaye Piyasası Araçlarının Kredili Alım İşlemi kapsamında yukarıda sayılanlardan hangisinin oluşması halinde müşterilerin kredi borcu muaccel hale gelir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -5627,7 +5627,7 @@
       "answer": 0
     },
     {
-      "q": "I-Şirketin yönetim kurulu üyeleri\nII-Şirketin üst düzey personeli\nIII-Şirket hisselerinde %5 paya sahip ortaklar\n\nYukarıdakilerden hangilerine açığa satış işlemi yapma yasağı getirilmiştir?",
+      "q": "I-Şirketin yönetim kurulu üyeleri<br>II-Şirketin üst düzey personeli<br>III-Şirket hisselerinde %5 paya sahip ortaklar<br><br>Yukarıdakilerden hangilerine açığa satış işlemi yapma yasağı getirilmiştir?",
       "options": [
         "A) Yalnız I",
         "B) I ve II",
@@ -5783,7 +5783,7 @@
       "answer": 2
     },
     {
-      "q": "Sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkilemek amacıyla yalan, yanlış veya yanıltıcı bilgi veren, söylenti çıkaran, haber veren, yorum yapan veya rapor hazırlayan ya da bunları yayanlar ……………………… ile cezalandırılırlar.\n\nSermaye Piyasası Kanunu’na göre yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+      "q": "Sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkilemek amacıyla yalan, yanlış veya yanıltıcı bilgi veren, söylenti çıkaran, haber veren, yorum yapan veya rapor hazırlayan ya da bunları yayanlar ……………………… ile cezalandırılırlar.<br><br>Sermaye Piyasası Kanunu’na göre yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
       "options": [
         "A) Bir yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası",
         "B) İki yıldan beş yıla kadar hapis ve beş bin güne kadar adli para cezası",
@@ -5794,7 +5794,7 @@
       "answer": 1
     },
     {
-      "q": "I- Spekülasyon\nII-Manipülasyon\nIII-İçerden öğrenenlerin ticareti\n\nYukarıdakilerden sermaye piyasası suçlarından biri değildir?",
+      "q": "I- Spekülasyon<br>II-Manipülasyon<br>III-İçerden öğrenenlerin ticareti<br><br>Yukarıdakilerden sermaye piyasası suçlarından biri değildir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -5840,7 +5840,7 @@
       "answer": 2
     },
     {
-      "q": "I- Emir iletimine aracılık\nII- İşlem aracılığı\nIII- Portföy aracılığı\nIV-Açığa satış\n\nYukarıda sayılı olanlardan hangileri alım satım aracılığı faaliyeti kapsamındadır?",
+      "q": "I- Emir iletimine aracılık<br>II- İşlem aracılığı<br>III- Portföy aracılığı<br>IV-Açığa satış<br><br>Yukarıda sayılı olanlardan hangileri alım satım aracılığı faaliyeti kapsamındadır?",
       "options": [
         "A) Yalnız I",
         "B) I ve II",
@@ -5862,7 +5862,7 @@
       "answer": 0
     },
     {
-      "q": "I- Halka arz, tahsisli satış veya nitelikli yatırımcılara satış sırasında taleplerin toplanmasıyla ilgili olarak taleplerin ilgili yatırım kuruluşuna iletilmesi ve müşteriler tarafından ilgili sermaye piyasası aracının bedeli olarak tevdi edilen nakdin tahsili veya geri ödenmesi gibi işlemleri kapsamak üzere gişe hizmeti verilmesi.\nII- Lehine faaliyet gösterilen işlem ve/veya portföy aracılığına yetkili kuruluşun sunabileceği yatırım hizmetleri ve faaliyetlerinin yatırımcılara tanıtılması, sözleşme akdedilmesine aracı olunması.\nIII- Sözleşme yapmak isteyen tarafların komisyon karşılığında bir araya getirilmesi faaliyetleri.\n\nYukarıdaki faaliyetlerden hangileri emir iletimine aracılık faaliyeti kapsamında sayılır?",
+      "q": "I- Halka arz, tahsisli satış veya nitelikli yatırımcılara satış sırasında taleplerin toplanmasıyla ilgili olarak taleplerin ilgili yatırım kuruluşuna iletilmesi ve müşteriler tarafından ilgili sermaye piyasası aracının bedeli olarak tevdi edilen nakdin tahsili veya geri ödenmesi gibi işlemleri kapsamak üzere gişe hizmeti verilmesi.<br>II- Lehine faaliyet gösterilen işlem ve/veya portföy aracılığına yetkili kuruluşun sunabileceği yatırım hizmetleri ve faaliyetlerinin yatırımcılara tanıtılması, sözleşme akdedilmesine aracı olunması.<br>III- Sözleşme yapmak isteyen tarafların komisyon karşılığında bir araya getirilmesi faaliyetleri.<br><br>Yukarıdaki faaliyetlerden hangileri emir iletimine aracılık faaliyeti kapsamında sayılır?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -5917,7 +5917,7 @@
       "answer": 0
     },
     {
-      "q": "I- Dövize, mala ve kıymetli madenlere dayalı olarak gerçekleştirilen kaldıraçlı alım satım işlemleri.\nII-Kaldıraçlı alım satım işlemlerine konu edilebilecek varlıkların fiziki alım satımı.\nIII-Bankalar arasında yapılan işlemler ile bankalar tarafından aracı kurumlara likidite sağlanması amacıyla yapılan işlemler.\n\nYukarıda belirtilen iş ve işlemlerden hangisi/hangileri kaldıraçlı işlem kapsamında değildir?",
+      "q": "I- Dövize, mala ve kıymetli madenlere dayalı olarak gerçekleştirilen kaldıraçlı alım satım işlemleri.<br>II-Kaldıraçlı alım satım işlemlerine konu edilebilecek varlıkların fiziki alım satımı.<br>III-Bankalar arasında yapılan işlemler ile bankalar tarafından aracı kurumlara likidite sağlanması amacıyla yapılan işlemler.<br><br>Yukarıda belirtilen iş ve işlemlerden hangisi/hangileri kaldıraçlı işlem kapsamında değildir?",
       "options": [
         "A) Yalnız I",
         "B) I ve II",
@@ -5939,7 +5939,7 @@
       "answer": 1
     },
     {
-      "q": "I- Aracı kurumlar\nII-Yatırım ve kalkınma bankaları\nIII-Mevduat bankaları\nIV-Portföy yönetim şirketleri\n\nYukarıda sayılı olanlardan hangileri bireysel portföy yöneticiliği faaliyetinde bulunabilir?",
+      "q": "I- Aracı kurumlar<br>II-Yatırım ve kalkınma bankaları<br>III-Mevduat bankaları<br>IV-Portföy yönetim şirketleri<br><br>Yukarıda sayılı olanlardan hangileri bireysel portföy yöneticiliği faaliyetinde bulunabilir?",
       "options": [
         "A) I ve II",
         "B) I, II ve III",
@@ -6049,7 +6049,7 @@
       "answer": 3
     },
     {
-      "q": "I- Şirketlerin uzun ve kısa vadeli finansal hedefleri, risk tercihleri, nakit gereksinimleri ve vergi mevzuatı karşısındaki durumları dikkate alınarak yatırım planlarının oluşturulması.\nII-Şirketlerin, aktif-pasif yönetimi çerçevesinde finansal durum tablosu analiz edilmesi, gelir kaynaklarının ayrıştırılması, finansman seçeneklerinin tespit edilmesi, risklerin tanımlanması ve azaltılması veya gelirlerin artırılması yoluyla mali profillerinin geliştirilmesi gibi konularda yazılı veya sözlü yorum ve tavsiyelerde bulunulması.\nIII-Şirketlerin, birleşme, bölünme, ele geçirme ve iş ortaklıklarının kurulması ve benzeri sermaye veya ortaklık yapılarındaki değişikliklerle ilgili yeniden yapılandırılma faaliyetleri ve tasfiye sürecinde yazılı veya sözlü yorum ve tavsiyelerde bulunulması.\n\nYukarıda sayılanlardan hangisi/hangileri “Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre yan hizmetler kapsamında sermaye piyasaları ile ilgili danışmanlık hizmetleri içindedir?",
+      "q": "I- Şirketlerin uzun ve kısa vadeli finansal hedefleri, risk tercihleri, nakit gereksinimleri ve vergi mevzuatı karşısındaki durumları dikkate alınarak yatırım planlarının oluşturulması.<br>II-Şirketlerin, aktif-pasif yönetimi çerçevesinde finansal durum tablosu analiz edilmesi, gelir kaynaklarının ayrıştırılması, finansman seçeneklerinin tespit edilmesi, risklerin tanımlanması ve azaltılması veya gelirlerin artırılması yoluyla mali profillerinin geliştirilmesi gibi konularda yazılı veya sözlü yorum ve tavsiyelerde bulunulması.<br>III-Şirketlerin, birleşme, bölünme, ele geçirme ve iş ortaklıklarının kurulması ve benzeri sermaye veya ortaklık yapılarındaki değişikliklerle ilgili yeniden yapılandırılma faaliyetleri ve tasfiye sürecinde yazılı veya sözlü yorum ve tavsiyelerde bulunulması.<br><br>Yukarıda sayılanlardan hangisi/hangileri “Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Tebliği ”ne göre yan hizmetler kapsamında sermaye piyasaları ile ilgili danışmanlık hizmetleri içindedir?",
       "options": [
         "A) Yalnız I",
         "B) I ve II",
@@ -6071,7 +6071,7 @@
       "answer": 2
     },
     {
-      "q": "I- Dar yetkili aracı kurumların asgari özsermayesi 2.000.000 TL’dir.\nII-Kısmi yetkili aracı kurumların asgari özsermayesi 10.000.000 TL’dir.\nIII-Geniş yetkili aracı kurumların asgari özsermayesi 25.000.000 TL’dir.\n\nAracı kurumların sermayelerine ilişkin yukarıdakilerden hangisi/hangileri doğru değildir?",
+      "q": "I- Dar yetkili aracı kurumların asgari özsermayesi 2.000.000 TL’dir.<br>II-Kısmi yetkili aracı kurumların asgari özsermayesi 10.000.000 TL’dir.<br>III-Geniş yetkili aracı kurumların asgari özsermayesi 25.000.000 TL’dir.<br><br>Aracı kurumların sermayelerine ilişkin yukarıdakilerden hangisi/hangileri doğru değildir?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -6150,7 +6150,7 @@
       "answer": 4
     },
     {
-      "q": "I- Takasbank para piyasası işlemleri\nII-Türev araç işlemlerinin nakit teminatları ve primleri\nIII-Sermaye Piyasası Kurulu’nca uygun görülen özel tasarlanmış yabancı yatırım araçları ve ikraz iştirak senetleri\n\nSermaye piyasası mevzuatınca Şemsiye fon kapsamında yukarıdakilerden hangisine/hangilerine yatırım yapılabilir?",
+      "q": "I- Takasbank para piyasası işlemleri<br>II-Türev araç işlemlerinin nakit teminatları ve primleri<br>III-Sermaye Piyasası Kurulu’nca uygun görülen özel tasarlanmış yabancı yatırım araçları ve ikraz iştirak senetleri<br><br>Sermaye piyasası mevzuatınca Şemsiye fon kapsamında yukarıdakilerden hangisine/hangilerine yatırım yapılabilir?",
       "options": [
         "A) Yalnız I",
         "B) I ve II",
@@ -6293,7 +6293,7 @@
       "answer": 0
     },
     {
-      "q": "I- 25-90 gün olması halinde “kısa vadeli”\nII- 91-730 gün olması halinde “orta vadeli”,\nIII-730 günden fazla olması halinde “uzun vadeli”\n\nSermaye piyasası mevzuatınca borçlanma araçları fonlarının unvanlarında vade yapısına yer verilmek istenmesi durumunda, yukarıdaki karşılaştırmalardan hangisi/hangileri doğrudur?",
+      "q": "I- 25-90 gün olması halinde “kısa vadeli”<br>II- 91-730 gün olması halinde “orta vadeli”,<br>III-730 günden fazla olması halinde “uzun vadeli”<br><br>Sermaye piyasası mevzuatınca borçlanma araçları fonlarının unvanlarında vade yapısına yer verilmek istenmesi durumunda, yukarıdaki karşılaştırmalardan hangisi/hangileri doğrudur?",
       "options": [
         "A) Yalnız I",
         "B) Yalnız II",
@@ -6350,7 +6350,7 @@
       "answer": 3
     },
     {
-      "q": "I- Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrıyı ve bu çağrı devamında gerçekleştirilen satışı ifade eder.\nII- Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişileri ifade eder.\nIII- Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışını ifade eder.\nIV- Kitle fonlaması platformları aracılığıyla para toplayanlar hariç olmak üzere, sermaye piyasası araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişileri ve bu Kanuna tabi yatırım fonlarını ifade eder.\n\nYukarıda 6362 sayılı Sermaye Piyasası Kanunda yer alan bazı tanımlara yer verilmiştir. Buna göre aşağıda yer alan kavramlardan hangisinin tanımı yukarıda yer almamaktadır?",
+      "q": "I- Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrıyı ve bu çağrı devamında gerçekleştirilen satışı ifade eder.<br>II- Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişileri ifade eder.<br>III- Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışını ifade eder.<br>IV- Kitle fonlaması platformları aracılığıyla para toplayanlar hariç olmak üzere, sermaye piyasası araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişileri ve bu Kanuna tabi yatırım fonlarını ifade eder.<br><br>Yukarıda 6362 sayılı Sermaye Piyasası Kanunda yer alan bazı tanımlara yer verilmiştir. Buna göre aşağıda yer alan kavramlardan hangisinin tanımı yukarıda yer almamaktadır?",
       "options": [
         "A) Halka arz",
         "B) Halka arz eden",
@@ -6361,7 +6361,7 @@
       "answer": 4
     },
     {
-      "q": "I- Yatırım Ortaklıkları\nII- Yatırım Fonları\nIII- Varlık Kiralama Şirketleri\nIV- İpotek Finansman Kuruluşları\n\n6362 sayılı Sermaye Piyasası Kanununa göre Kolektif yatırım kuruluşları yukarıdakilerin hangilerini ifade eder?",
+      "q": "I- Yatırım Ortaklıkları<br>II- Yatırım Fonları<br>III- Varlık Kiralama Şirketleri<br>IV- İpotek Finansman Kuruluşları<br><br>6362 sayılı Sermaye Piyasası Kanununa göre Kolektif yatırım kuruluşları yukarıdakilerin hangilerini ifade eder?",
       "options": [
         "A) I-II",
         "B) I-III",
@@ -6405,7 +6405,7 @@
       "answer": 2
     },
     {
-      "q": "I- Döviz ve kıymetli madenler ile Kurulca belirlenecek diğer varlıklar üzerine yapılacak kaldıraçlı işlemleri,\nII- Menkul kıymetleri satın alma veya satma veya birbirleri ile değiştirme hakkı veren türev araçları,\nIII- Kredi riski transferi sağlayan, enerji fiyatları ve iklim değişkenleri gibi ölçüm değerleri olan ve bu sayılanlardan oluşturulan bir endeks seviyesine veya seviyedeki değişikliğe bağlı olan türev araçları,\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda sayılanlardan hangisi/ hangileri türev araçları ifade eder?",
+      "q": "I- Döviz ve kıymetli madenler ile Kurulca belirlenecek diğer varlıklar üzerine yapılacak kaldıraçlı işlemleri,<br>II- Menkul kıymetleri satın alma veya satma veya birbirleri ile değiştirme hakkı veren türev araçları,<br>III- Kredi riski transferi sağlayan, enerji fiyatları ve iklim değişkenleri gibi ölçüm değerleri olan ve bu sayılanlardan oluşturulan bir endeks seviyesine veya seviyedeki değişikliğe bağlı olan türev araçları,<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda sayılanlardan hangisi/ hangileri türev araçları ifade eder?",
       "options": [
         "A) I",
         "B) I-II",
@@ -6460,7 +6460,7 @@
       "answer": 2
     },
     {
-      "q": "I- İhraççılar\nII- Halka arz edenler\nIII- İhraca aracılık eden lider aracı kurumlar\nIV- Garantörler\nV- İhraççının yönetim kurulu üyeleri\n\nYukarıdakilerden hangisi/hangileri, İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan kusurlarına ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde sorumludur.",
+      "q": "I- İhraççılar<br>II- Halka arz edenler<br>III- İhraca aracılık eden lider aracı kurumlar<br>IV- Garantörler<br>V- İhraççının yönetim kurulu üyeleri<br><br>Yukarıdakilerden hangisi/hangileri, İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan kusurlarına ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde sorumludur.",
       "options": [
         "A) I",
         "B) I-II",
@@ -6526,7 +6526,7 @@
       "answer": 1
     },
     {
-      "q": "I- Halka açık ortaklıklar\nII- Halka açık olmayan ortaklıklar\nIII- Paylarını halka arz etmek üzere Kurula başvurmuş olan ortaklıklar\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıdaki ortaklıklardan hangisi/ hangileri Kuruldan izin alarak kayıtlı sermaye sistemini kabul edebilirler?",
+      "q": "I- Halka açık ortaklıklar<br>II- Halka açık olmayan ortaklıklar<br>III- Paylarını halka arz etmek üzere Kurula başvurmuş olan ortaklıklar<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, yukarıdaki ortaklıklardan hangisi/ hangileri Kuruldan izin alarak kayıtlı sermaye sistemini kabul edebilirler?",
       "options": [
         "A) I",
         "B) I-II",
@@ -6548,7 +6548,7 @@
       "answer": 3
     },
     {
-      "q": "Kayıtlı sermaye sisteminde, yönetim kurulu, 6102 sayılı Kanunun esas sermayenin artırılmasına ilişkin hükümlerine bağlı kalmaksızın esas sözleşmelerinde tespit edilen kayıtlı sermaye tavanına kadar sermayelerini artırmaya yetkilidir. Şu kadar ki, bu yetki genel kurul tarafından en çok ...... süre ile verilebilir. Bu yetkinin süresi azami ...... yıllık dönemler itibarıyla genel kurul kararıyla uzatılabilir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
+      "q": "Kayıtlı sermaye sisteminde, yönetim kurulu, 6102 sayılı Kanunun esas sermayenin artırılmasına ilişkin hükümlerine bağlı kalmaksızın esas sözleşmelerinde tespit edilen kayıtlı sermaye tavanına kadar sermayelerini artırmaya yetkilidir. Şu kadar ki, bu yetki genel kurul tarafından en çok ...... süre ile verilebilir. Bu yetkinin süresi azami ...... yıllık dönemler itibarıyla genel kurul kararıyla uzatılabilir.<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
       "options": [
         "A) 1 yıl - 3 yıl",
         "B) 3 yıl - 5 yıl",
@@ -6614,7 +6614,7 @@
       "answer": 3
     },
     {
-      "q": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları ile bunların iştirak ve bağlı ortaklıklarının, esas sözleşmeleri veya iç tüzükleri çerçevesinde basiretli ve dürüst bir tacir olarak veya piyasa teamülleri uyarınca kârlarını ya da malvarlıklarını korumak veya artırmak için yapmaları beklenen faaliyetleri yapmamaları yoluyla ilişkili oldukları gerçek veya tüzel kişilerin kârlarının ya da malvarlıklarının artmasını sağlamaları da .............................. sayılır.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir.",
+      "q": "Halka açık ortaklıklar ve kolektif yatırım kuruluşları ile bunların iştirak ve bağlı ortaklıklarının, esas sözleşmeleri veya iç tüzükleri çerçevesinde basiretli ve dürüst bir tacir olarak veya piyasa teamülleri uyarınca kârlarını ya da malvarlıklarını korumak veya artırmak için yapmaları beklenen faaliyetleri yapmamaları yoluyla ilişkili oldukları gerçek veya tüzel kişilerin kârlarının ya da malvarlıklarının artmasını sağlamaları da .............................. sayılır.<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir.",
       "options": [
         "A) Piyasa bozucu eylem",
         "B) Bilgi suistimali",
@@ -6625,7 +6625,7 @@
       "answer": 3
     },
     {
-      "q": "I- Halka açık ortaklıklar\nII- Halka açık olmayan ortaklıklar\nIII- Kolektif yatırım kuruluşları\nIV- Yatırım kuruluşları\n\nYukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununda yer alan Örtülü Kazanç Aktarım Yasağı hükümlerine tabidir?",
+      "q": "I- Halka açık ortaklıklar<br>II- Halka açık olmayan ortaklıklar<br>III- Kolektif yatırım kuruluşları<br>IV- Yatırım kuruluşları<br><br>Yukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununda yer alan Örtülü Kazanç Aktarım Yasağı hükümlerine tabidir?",
       "options": [
         "A) I-II",
         "B) I-III",
@@ -6691,7 +6691,7 @@
       "answer": 4
     },
     {
-      "q": "I- Teminat konusu varlıklar, teminat yöneticisinin mal varlığından ayrıdır ve ayrı izlenir.\nII- Teminat konusu varlıklar, teminat yöneticisinin borçları nedeniyle, kamu alacakları için olanlar hariç olmak üzere, haczedilemez, rehnedilemez, iflas masasına dâhil edilemez ve üzerlerine ihtiyati tedbir ve ihtiyati haciz konulamaz.\nIII- Teminat yöneticisinin sorumluluğunu hafifleten ya da kaldıran anlaşmalar, hüküm veya ifadeler geçersizdir.\nIV- Kurulun onayladığı her teminat yöneticisinin ticaret unvanı, hangi ihraçla ilgili olarak atandığı ve yetkileri, ihraççı tarafından ihraççının merkezinin bulunduğu yerin ticaret siciline ayırt edici şekilde tescil edilmesi yeterli olup ayrıca Türkiye Ticaret Sicili Gazetesi'nde ilan edilmesi gerekmez.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, teminat yönetim sözleşmesi ve teminat yöneticisi ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "q": "I- Teminat konusu varlıklar, teminat yöneticisinin mal varlığından ayrıdır ve ayrı izlenir.<br>II- Teminat konusu varlıklar, teminat yöneticisinin borçları nedeniyle, kamu alacakları için olanlar hariç olmak üzere, haczedilemez, rehnedilemez, iflas masasına dâhil edilemez ve üzerlerine ihtiyati tedbir ve ihtiyati haciz konulamaz.<br>III- Teminat yöneticisinin sorumluluğunu hafifleten ya da kaldıran anlaşmalar, hüküm veya ifadeler geçersizdir.<br>IV- Kurulun onayladığı her teminat yöneticisinin ticaret unvanı, hangi ihraçla ilgili olarak atandığı ve yetkileri, ihraççı tarafından ihraççının merkezinin bulunduğu yerin ticaret siciline ayırt edici şekilde tescil edilmesi yeterli olup ayrıca Türkiye Ticaret Sicili Gazetesi'nde ilan edilmesi gerekmez.<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, teminat yönetim sözleşmesi ve teminat yöneticisi ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
       "options": [
         "A) I-II",
         "B) I-III",
@@ -6724,7 +6724,7 @@
       "answer": 3
     },
     {
-      "q": "I- Sermaye piyasası araçlarının alım veya satımının, kamuyu aydınlatma belgesine dayanmaması,\nII- Sermaye piyasası araçlarının alım veya satımının kamuyu aydınlatma belgelerinde yer alan bilgilerin yanlış, yanıltıcı veya eksik olduğu bilinmesine rağmen yapılması,\nIII- Kamuyu aydınlatma belgelerinde yer alan yanlış, yanıltıcı veya eksik bilgilere ilişkin düzeltmenin, yatırım kararının verilmesinden veya bu belgeye dayanarak işlem yapılmasından önce ilan edilmiş olması,\nIV- Kamuya açıklanan belgede yer alan bilgiler yanlış, yanıltıcı veya eksik olmasaydı dahi yatırımcıların zarara uğrayacak olmaları,\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıdaki durumların hangilerinde Kamuyu aydınlatma belgelerinin yanlış, yanıltıcı veya eksik olmasından kaynaklanan tazminat talebi reddedilir?",
+      "q": "I- Sermaye piyasası araçlarının alım veya satımının, kamuyu aydınlatma belgesine dayanmaması,<br>II- Sermaye piyasası araçlarının alım veya satımının kamuyu aydınlatma belgelerinde yer alan bilgilerin yanlış, yanıltıcı veya eksik olduğu bilinmesine rağmen yapılması,<br>III- Kamuyu aydınlatma belgelerinde yer alan yanlış, yanıltıcı veya eksik bilgilere ilişkin düzeltmenin, yatırım kararının verilmesinden veya bu belgeye dayanarak işlem yapılmasından önce ilan edilmiş olması,<br>IV- Kamuya açıklanan belgede yer alan bilgiler yanlış, yanıltıcı veya eksik olmasaydı dahi yatırımcıların zarara uğrayacak olmaları,<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, yukarıdaki durumların hangilerinde Kamuyu aydınlatma belgelerinin yanlış, yanıltıcı veya eksik olmasından kaynaklanan tazminat talebi reddedilir?",
       "options": [
         "A) I-II-III",
         "B) I-III-IV",
@@ -6746,7 +6746,7 @@
       "answer": 3
     },
     {
-      "q": "I- Merkezî takas kuruluşları\nII- Merkezî saklama kuruluşları\nIII- Veri depolama kuruluşları\nIV- Konut finansmanı ve varlık finansmanı fonları\nV- Varlık kiralama şirketleri\nVI- Bağımsız denetim, değerleme ve derecelendirme kuruluşları\nVII- Yatırımcı Tazmin Merkezi\nVIII- Merkezi Kayıt Kuruluşu\n\nYukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununa göre faaliyette bulunabilecek sermaye piyasası kurumlarındandır?",
+      "q": "I- Merkezî takas kuruluşları<br>II- Merkezî saklama kuruluşları<br>III- Veri depolama kuruluşları<br>IV- Konut finansmanı ve varlık finansmanı fonları<br>V- Varlık kiralama şirketleri<br>VI- Bağımsız denetim, değerleme ve derecelendirme kuruluşları<br>VII- Yatırımcı Tazmin Merkezi<br>VIII- Merkezi Kayıt Kuruluşu<br><br>Yukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununa göre faaliyette bulunabilecek sermaye piyasası kurumlarındandır?",
       "options": [
         "A) I-II-VIII",
         "B) I-II-III-VII",
@@ -6779,7 +6779,7 @@
       "answer": 2
     },
     {
-      "q": "I- Sermaye piyasası araçlarıyla ilgili emirlerin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına gerçekleştirilmesi\nII- Sermaye piyasası araçlarının halka arzında yüklenimde bulunularak satışa aracılık edilmesi\nIII- Sermaye piyasası araçlarının halka arzında yüklenimde bulunmaksızın satışa aracılık edilmesi\nIV- Çok taraflı alım satım sistemlerinin ve borsa dışı diğer teşkilatlanmış pazar yerlerinin işletilmesi\nV- Sermaye piyasası araçlarının müşteri namına saklanması ve yönetimi ile portföy saklanması\n\nYukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununa göre yatırım hizmetleri ve faaliyetleri arasında yer alır?",
+      "q": "I- Sermaye piyasası araçlarıyla ilgili emirlerin müşteri adına ve hesabına veya kendi adına ve müşteri hesabına gerçekleştirilmesi<br>II- Sermaye piyasası araçlarının halka arzında yüklenimde bulunularak satışa aracılık edilmesi<br>III- Sermaye piyasası araçlarının halka arzında yüklenimde bulunmaksızın satışa aracılık edilmesi<br>IV- Çok taraflı alım satım sistemlerinin ve borsa dışı diğer teşkilatlanmış pazar yerlerinin işletilmesi<br>V- Sermaye piyasası araçlarının müşteri namına saklanması ve yönetimi ile portföy saklanması<br><br>Yukarıdakilerden hangileri 6362 sayılı Sermaye Piyasası Kanununa göre yatırım hizmetleri ve faaliyetleri arasında yer alır?",
       "options": [
         "A) I-II",
         "B) I-II-III",
@@ -6812,7 +6812,7 @@
       "answer": 1
     },
     {
-      "q": "I- Faaliyette bulunma yetkisinden açıkça feragat edilmesi durumunda\nII- Faaliyet izninin verildiği tarihten itibaren bir yıl süreyle ilgili izin kapsamında herhangi bir faaliyette bulunulmaması durumunda\nIII- Faaliyet izninin yanlış veya yanıltıcı beyanlarda bulunularak ya da hukuka aykırı diğer yollarla alınmış olması durumunda\nIV- Faaliyet izninin alınması sırasında aranan şartların kaybedildiğinin Kurulca tespitinden itibaren üç ay içinde bu şartların yeniden sağlanamaması durumunda\n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıdaki durumların hangilerinde Kurul, bu kanun kapsamında vermiş olduğu yatırım hizmetleri ve faaliyetleri veya yan hizmetler ile ilgili yetki belgesi ve faaliyet izinlerini iptal edebilir?",
+      "q": "I- Faaliyette bulunma yetkisinden açıkça feragat edilmesi durumunda<br>II- Faaliyet izninin verildiği tarihten itibaren bir yıl süreyle ilgili izin kapsamında herhangi bir faaliyette bulunulmaması durumunda<br>III- Faaliyet izninin yanlış veya yanıltıcı beyanlarda bulunularak ya da hukuka aykırı diğer yollarla alınmış olması durumunda<br>IV- Faaliyet izninin alınması sırasında aranan şartların kaybedildiğinin Kurulca tespitinden itibaren üç ay içinde bu şartların yeniden sağlanamaması durumunda<br><br>6362 sayılı Sermaye Piyasası Kanununa göre yukarıdaki durumların hangilerinde Kurul, bu kanun kapsamında vermiş olduğu yatırım hizmetleri ve faaliyetleri veya yan hizmetler ile ilgili yetki belgesi ve faaliyet izinlerini iptal edebilir?",
       "options": [
         "A) I-II",
         "B) I-III",
@@ -6889,7 +6889,7 @@
       "answer": 1
     },
     {
-      "q": "Değişken sermayeli yatırım ortaklıklarının kurucu paylarının değerinin Kurulca belirlenen tutarların altına düşmesi yahut mali durumlarının yükümlülüklerini karşılayamayacak kadar zayıflaması hâlinde, yönetim kurulu, bu durumu gecikmeksizin Kurula bildirir. Yönetim kurulu, bildirimi takiben, gerekli önlemleri almak üzere genel kurulu derhal toplantıya çağırır ve en geç .......... içinde genel kurul toplanır. Kurucu paylarının belirlenen tutara artırılamaması veya mali durumdaki zayıflığın giderilememesi hâlinde, Kurul, değişken sermayeli yatırım ortaklıkları hakkında tasfiye dâhil her tür tedbiri almaya yetkilidir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıda boş bırakılan yere aşağıdaki ifadelerden hangi getirilmelidir?",
+      "q": "Değişken sermayeli yatırım ortaklıklarının kurucu paylarının değerinin Kurulca belirlenen tutarların altına düşmesi yahut mali durumlarının yükümlülüklerini karşılayamayacak kadar zayıflaması hâlinde, yönetim kurulu, bu durumu gecikmeksizin Kurula bildirir. Yönetim kurulu, bildirimi takiben, gerekli önlemleri almak üzere genel kurulu derhal toplantıya çağırır ve en geç .......... içinde genel kurul toplanır. Kurucu paylarının belirlenen tutara artırılamaması veya mali durumdaki zayıflığın giderilememesi hâlinde, Kurul, değişken sermayeli yatırım ortaklıkları hakkında tasfiye dâhil her tür tedbiri almaya yetkilidir.<br><br>6362 sayılı Sermaye Piyasası Kanununa göre yukarıda boş bırakılan yere aşağıdaki ifadelerden hangi getirilmelidir?",
       "options": [
         "A) 1 hafta",
         "B) 2 hafta",
@@ -7230,7 +7230,7 @@
       "answer": 0
     },
     {
-      "q": "Sistemik riskin gözetimi ve finansal istikrarın korunması amacıyla, Kurul, sermaye piyasasında gerçekleştirilen işlemlere ilişkin olarak, bu işlemleri gerçekleştirenlerden, bu işlemlere ilişkin bilgilerin, belirleyeceği şekil ve içerikte, doğrudan kendisine veya yetkilendireceği bir .............................. bildirilmesini isteyebilir. Bu madde kapsamında, bildirim yapmakla yükümlü olanlar, özel mevzuatındaki gizlilik ve sır saklama yükümlülüklerini ileri sürerek talep edilen bilgileri vermekten imtina edemez. \n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "q": "Sistemik riskin gözetimi ve finansal istikrarın korunması amacıyla, Kurul, sermaye piyasasında gerçekleştirilen işlemlere ilişkin olarak, bu işlemleri gerçekleştirenlerden, bu işlemlere ilişkin bilgilerin, belirleyeceği şekil ve içerikte, doğrudan kendisine veya yetkilendireceği bir .............................. bildirilmesini isteyebilir. Bu madde kapsamında, bildirim yapmakla yükümlü olanlar, özel mevzuatındaki gizlilik ve sır saklama yükümlülüklerini ileri sürerek talep edilen bilgileri vermekten imtina edemez. <br><br>6362 sayılı Sermaye Piyasası Kanununa göre yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
       "options": [
         "A) Merkezî takas kuruluşuna",
         "B) Merkezî saklama kuruluşuna",
@@ -7241,7 +7241,7 @@
       "answer": 2
     },
     {
-      "q": "Kurul, Kanuna aykırı ihracın doğurduğu sonuçların ortadan kaldırılması ve nakit ve diğer varlıkların hak sahiplerine iadesi için tespit tarihinden itibaren ........ gün içinde ilgili ihracı yapan kişiye yazılı ihbarda bulunur. Muhatap, ihbar tarihinden itibaren en geç ........ gün içinde para topladığı gerçek ve tüzel kişilere ve toplanan tutara ilişkin ayrıntılı bilgileri Kurulca belirlenecek vasıtalarla ilan eder ve Kurula iletir. Bu ilanı takip eden ........ ay içinde kendisinden para toplanan gerçek ve tüzel kişiler ortaklığın bulunduğu yer asliye hukuk mahkemesine itiraz edebilir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, kanuna aykırı sermaye piyasası aracı ihracı ile ilgili yukarıda boş bırakılan yere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "q": "Kurul, Kanuna aykırı ihracın doğurduğu sonuçların ortadan kaldırılması ve nakit ve diğer varlıkların hak sahiplerine iadesi için tespit tarihinden itibaren ........ gün içinde ilgili ihracı yapan kişiye yazılı ihbarda bulunur. Muhatap, ihbar tarihinden itibaren en geç ........ gün içinde para topladığı gerçek ve tüzel kişilere ve toplanan tutara ilişkin ayrıntılı bilgileri Kurulca belirlenecek vasıtalarla ilan eder ve Kurula iletir. Bu ilanı takip eden ........ ay içinde kendisinden para toplanan gerçek ve tüzel kişiler ortaklığın bulunduğu yer asliye hukuk mahkemesine itiraz edebilir.<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, kanuna aykırı sermaye piyasası aracı ihracı ile ilgili yukarıda boş bırakılan yere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
       "options": [
         "A) 30-30-3",
         "B) 30-60-1",
@@ -7274,7 +7274,7 @@
       "answer": 2
     },
     {
-      "q": "Kurul, Kayıtlı sermaye sistemi çerçevesinde alınan yönetim kurulu kararları aleyhine, bu kararların kamuya duyurulduğu tarihten itibaren ........ gün içinde ortaklık merkezinin bulunduğu yer ........ mahkemesinde iptal davası açmaya ve teminatsız olarak bu kararların icrasının geri bırakılmasını istemeye yetkilidir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, kayıtlı sermaye sisteminde uygulanacak tedbirler ile ilgili yukarıda boş bırakılan yere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "q": "Kurul, Kayıtlı sermaye sistemi çerçevesinde alınan yönetim kurulu kararları aleyhine, bu kararların kamuya duyurulduğu tarihten itibaren ........ gün içinde ortaklık merkezinin bulunduğu yer ........ mahkemesinde iptal davası açmaya ve teminatsız olarak bu kararların icrasının geri bırakılmasını istemeye yetkilidir.<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, kayıtlı sermaye sisteminde uygulanacak tedbirler ile ilgili yukarıda boş bırakılan yere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
       "options": [
         "A) 30 - Asliye Hukuk Mahkemesi",
         "B) 30 - Asliye Ticaret Mahkemesi",
@@ -7296,7 +7296,7 @@
       "answer": 2
     },
     {
-      "q": "I- Üç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemeye\nII- Faaliyetlerini geçici olarak durdurmaya\nIII- Tamamen veya belirli sermaye piyasası faaliyetleri itibarıyla yetkilerini kaldırmaya\nIV- Yatırımcıları tazmin kararı vermeye\nV- İflaslarını istemeye\nVI- Tedricî tasfiyelerine karar vermeye\n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıdakilerden hangileri, sermaye piyasası kurumlarının sermaye yeterliliği yükümlülüklerini sağlayamadığı, sermaye piyasası faaliyetlerinden kaynaklanan nakit ödeme ve finansal araç teslim yükümlülüklerini yerine getiremediği veya kısa sürede yerine getiremeyeceği ya da bunlardan bağımsız olarak mali yapılarının ciddi surette zayıflamakta olduğu ya da mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde Kurul tarafından alınacak tedbirlerdendir?",
+      "q": "I- Üç ayı geçmemek üzere verilecek uygun süre içinde mali yapılarının güçlendirilmesini istemeye<br>II- Faaliyetlerini geçici olarak durdurmaya<br>III- Tamamen veya belirli sermaye piyasası faaliyetleri itibarıyla yetkilerini kaldırmaya<br>IV- Yatırımcıları tazmin kararı vermeye<br>V- İflaslarını istemeye<br>VI- Tedricî tasfiyelerine karar vermeye<br><br>6362 sayılı Sermaye Piyasası Kanununa göre yukarıdakilerden hangileri, sermaye piyasası kurumlarının sermaye yeterliliği yükümlülüklerini sağlayamadığı, sermaye piyasası faaliyetlerinden kaynaklanan nakit ödeme ve finansal araç teslim yükümlülüklerini yerine getiremediği veya kısa sürede yerine getiremeyeceği ya da bunlardan bağımsız olarak mali yapılarının ciddi surette zayıflamakta olduğu ya da mali durumunun taahhütlerini karşılayamayacak kadar zayıflamış olduğunun tespiti hâlinde Kurul tarafından alınacak tedbirlerdendir?",
       "options": [
         "A) I-II-III",
         "B) I-III-IV-V",
@@ -7318,7 +7318,7 @@
       "answer": 1
     },
     {
-      "q": "Kurul, izinsiz sermaye piyasası faaliyetlerinin durdurulması için gerekli her türlü tedbiri almaya, her türlü hukuki ve cezai sorumluluk saklı kalmak kaydıyla, izinsiz sermaye piyasası faaliyet ve işlemlerinin doğurduğu sonuçların iptali ve nakit ya da sermaye piyasası araçlarının hak sahiplerine iadesi için tespit tarihlerinden itibaren ..... yıl ve her hâlde vukuu tarihlerinden itibaren ..... yıl içinde dava açmaya yetkilidir.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, izinsiz sermaye piyasası faaliyetinde uygulanacak tedbirler ile ilgili yukarıda boş bırakılan yerlere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "q": "Kurul, izinsiz sermaye piyasası faaliyetlerinin durdurulması için gerekli her türlü tedbiri almaya, her türlü hukuki ve cezai sorumluluk saklı kalmak kaydıyla, izinsiz sermaye piyasası faaliyet ve işlemlerinin doğurduğu sonuçların iptali ve nakit ya da sermaye piyasası araçlarının hak sahiplerine iadesi için tespit tarihlerinden itibaren ..... yıl ve her hâlde vukuu tarihlerinden itibaren ..... yıl içinde dava açmaya yetkilidir.<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, izinsiz sermaye piyasası faaliyetinde uygulanacak tedbirler ile ilgili yukarıda boş bırakılan yerlere sırayla aşağıdaki ifadelerden hangisi getirilmelidir?",
       "options": [
         "A) 1-3",
         "B) 2-5",
@@ -7340,7 +7340,7 @@
       "answer": 3
     },
     {
-      "q": "I- Borsalarda geçici veya sürekli olarak işlem yapılmasının yasaklanması\nII- Takas yöntemlerinin değiştirilmesi\nIII- Kredili alım, açığa satış, ödünç alma ve verme işlemlerine ilişkin sınırlamalar getirilmesi\nIV- İşlem veya pozisyon limiti getirilmesi\n\n6362 sayılı Sermaye Piyasası Kanununa göre yukarıdakilerden hangileri Bilgi suistimali ve piyasa dolandırıcılığı sayılan fiilleri işlediğine dair makul şüphe bulunan gerçek veya tüzel kişiler ile tüzel kişilerin yetkilileri ile ilgili sermaye piyasası araçlarına ilişkin olarak Kurul tarafından alınabilecek tedbirlerdendir?",
+      "q": "I- Borsalarda geçici veya sürekli olarak işlem yapılmasının yasaklanması<br>II- Takas yöntemlerinin değiştirilmesi<br>III- Kredili alım, açığa satış, ödünç alma ve verme işlemlerine ilişkin sınırlamalar getirilmesi<br>IV- İşlem veya pozisyon limiti getirilmesi<br><br>6362 sayılı Sermaye Piyasası Kanununa göre yukarıdakilerden hangileri Bilgi suistimali ve piyasa dolandırıcılığı sayılan fiilleri işlediğine dair makul şüphe bulunan gerçek veya tüzel kişiler ile tüzel kişilerin yetkilileri ile ilgili sermaye piyasası araçlarına ilişkin olarak Kurul tarafından alınabilecek tedbirlerdendir?",
       "options": [
         "A) I-II-III",
         "B) I-III-IV",
@@ -7417,7 +7417,7 @@
       "answer": 2
     },
     {
-      "q": "Doğrudan ya da dolaylı olarak sermaye piyasası araçları ya da ihraççılar hakkında, ilgili sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkileyebilecek nitelikteki ve henüz kamuya duyurulmamış bilgilere dayalı olarak ilgili sermaye piyasası araçları için alım ya da satım emri veren veya verdiği emri değiştiren veya iptal eden ve bu suretle kendisine veya bir başkasına menfaat temin edenler, ........ hapis veya adli para cezası ile cezalandırılırlar. Ancak, bu suçtan dolayı adli para cezasına hükmedilmesi hâlinde verilecek ceza elde edilen menfaatin iki katından az olamaz.\n\n6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılan yerlere aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "q": "Doğrudan ya da dolaylı olarak sermaye piyasası araçları ya da ihraççılar hakkında, ilgili sermaye piyasası araçlarının fiyatlarını, değerlerini veya yatırımcıların kararlarını etkileyebilecek nitelikteki ve henüz kamuya duyurulmamış bilgilere dayalı olarak ilgili sermaye piyasası araçları için alım ya da satım emri veren veya verdiği emri değiştiren veya iptal eden ve bu suretle kendisine veya bir başkasına menfaat temin edenler, ........ hapis veya adli para cezası ile cezalandırılırlar. Ancak, bu suçtan dolayı adli para cezasına hükmedilmesi hâlinde verilecek ceza elde edilen menfaatin iki katından az olamaz.<br><br>6362 sayılı Sermaye Piyasası Kanununa göre, yukarıda boş bırakılan yerlere aşağıdaki ifadelerden hangisi getirilmelidir?",
       "options": [
         "A) Bir yıldan üç yıla",
         "B) Bir yıldan beş yıla",
@@ -7527,7 +7527,7 @@
       "answer": 4
     },
     {
-      "q": "I- Talep toplama yoluyla satış yöntemi\nII- Talep toplanmaksızın satış Yöntemi\nIII- Borsada satış yöntemi\nIV- Nitelikli yatırımcılara satış yöntemi\nV- Tahsisli satış yöntemi\n\nSermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıdakilerden hangileri sermaye piyasası araçlarının halka arz yoluyla satışında uygulanabilecek yöntemlerdendir?",
+      "q": "I- Talep toplama yoluyla satış yöntemi<br>II- Talep toplanmaksızın satış Yöntemi<br>III- Borsada satış yöntemi<br>IV- Nitelikli yatırımcılara satış yöntemi<br>V- Tahsisli satış yöntemi<br><br>Sermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıdakilerden hangileri sermaye piyasası araçlarının halka arz yoluyla satışında uygulanabilecek yöntemlerdendir?",
       "options": [
         "A) I-II",
         "B) I-II-III",
@@ -7582,7 +7582,7 @@
       "answer": 1
     },
     {
-      "q": "Sermaye piyasası araçlarının halka arzında borsada satış yönteminin kullanılması durumunda;\n\na) Satışın talep toplanmaksızın gerçekleşmesi durumunda satış süresi .... iş günüdür.\nb) Satışın talep toplama suretiyle gerçekleşmesi durumunda talep toplama süresi, en az iş günü en fazla iş günüdür.\n\nSermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
+      "q": "Sermaye piyasası araçlarının halka arzında borsada satış yönteminin kullanılması durumunda;<br><br>a) Satışın talep toplanmaksızın gerçekleşmesi durumunda satış süresi .... iş günüdür.<br>b) Satışın talep toplama suretiyle gerçekleşmesi durumunda talep toplama süresi, en az iş günü en fazla iş günüdür.<br><br>Sermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
       "options": [
         "A) 2, 2, 3",
         "B) 2, 3, 10",
@@ -7593,7 +7593,7 @@
       "answer": 0
     },
     {
-      "q": "Halka açık ortaklıkların halka arz edilmeksizin gerçekleştireceği sermaye artırımı nedeniyle ihraç edilen payların satışına, ihraç belgesinin ilan edildiği tarihi takip eden .... iş günü içerisinde başlanması ve payların satışının azami .... iş günü içinde tamamlanması zorunludur.\n\nSermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
+      "q": "Halka açık ortaklıkların halka arz edilmeksizin gerçekleştireceği sermaye artırımı nedeniyle ihraç edilen payların satışına, ihraç belgesinin ilan edildiği tarihi takip eden .... iş günü içerisinde başlanması ve payların satışının azami .... iş günü içinde tamamlanması zorunludur.<br><br>Sermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
       "options": [
         "A) 3, 5",
         "B) 5, 10",
@@ -7615,7 +7615,7 @@
       "answer": 1
     },
     {
-      "q": "Talep toplama yoluyla halka arz edilecek sermaye piyasası araçlarının nominal değerinin, en az yüzde .... yurt içi bireysel yatırımcılara ve yüzde .... yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur.\n\nSermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
+      "q": "Talep toplama yoluyla halka arz edilecek sermaye piyasası araçlarının nominal değerinin, en az yüzde .... yurt içi bireysel yatırımcılara ve yüzde .... yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur.<br><br>Sermaye Piyasası Araçlarının Satışı Tebliğine göre, yukarıda boş bırakılar yerlere sırayla aşağıdaki ifadelerden hangileri getirilmelidir?",
       "options": [
         "A) %5-%5",
         "B) %5-%10",
@@ -7648,7 +7648,7 @@
       "answer": 4
     },
     {
-      "q": "İmtiyazlı pay sahiplerine, intifa senedi sahiplerine, yönetim kurulu üyelerine, ortaklık çalışanlarına ve pay sahibi dışındaki kişilere kârdan pay verilebilmesi için ortaklık esas sözleşmesinde hüküm bulunması zorunludur.\n\nEsas sözleşmede söz konusu kişilere kâr payı dağıtılması hususunda hüküm bulunmasına rağmen, kâr payına ilişkin olarak herhangi bir oran belirlenmemişse; bu kişilere dağıtılacak kâr payı tutarı, imtiyazdan kaynaklananlar hariç her durumda pay sahiplerine dağıtılan kâr payının ........ aşamaz.\n\nKâr Payı Tebliğine göre, yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
+      "q": "İmtiyazlı pay sahiplerine, intifa senedi sahiplerine, yönetim kurulu üyelerine, ortaklık çalışanlarına ve pay sahibi dışındaki kişilere kârdan pay verilebilmesi için ortaklık esas sözleşmesinde hüküm bulunması zorunludur.<br><br>Esas sözleşmede söz konusu kişilere kâr payı dağıtılması hususunda hüküm bulunmasına rağmen, kâr payına ilişkin olarak herhangi bir oran belirlenmemişse; bu kişilere dağıtılacak kâr payı tutarı, imtiyazdan kaynaklananlar hariç her durumda pay sahiplerine dağıtılan kâr payının ........ aşamaz.<br><br>Kâr Payı Tebliğine göre, yukarıda boş bırakılan yere aşağıdaki ifadelerden hangisi getirilmelidir?",
       "options": [
         "A) Dörtte birini",
         "B) Üçte birini",
@@ -7824,7 +7824,7 @@
       "answer": 0
     },
     {
-      "q": "I- Bir itfa planına bağlı olarak\nII- Ortaklığın talebine bağlı olarak\nIII- DET sahibinin talebine bağlı olarak\n\nBorçlanma Araçları Tebliğine göre Değiştirilebilir Tahviller vade tarihlerinden önce yukarıdakilerden hangisine/hangilerine bağlı olarak paya dönüştürülebilir?",
+      "q": "I- Bir itfa planına bağlı olarak<br>II- Ortaklığın talebine bağlı olarak<br>III- DET sahibinin talebine bağlı olarak<br><br>Borçlanma Araçları Tebliğine göre Değiştirilebilir Tahviller vade tarihlerinden önce yukarıdakilerden hangisine/hangilerine bağlı olarak paya dönüştürülebilir?",
       "options": [
         "A) I",
         "B) I-II",
