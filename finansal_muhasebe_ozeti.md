@@ -202,3 +202,85 @@
   <tr><td style='border: 1px solid #ccc; padding: 8px;'>689 DİĞER OLAĞANDIŞI GİD. VE ZAR. HS.</td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td><td style='border: 1px solid #ccc; padding: 8px;'></td></tr>
   <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>264 ÖZEL MALİYETLER HS.</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
 </table>
+
+## 📦 BÖLÜM 9: STOKLAR (ARALIKLI VE SÜREKLİ ENVANTER)
+* <strong class="text-danger">TUZAK 1 (Alış/Satış İadesi):</strong> Satın alınan ticari malların iadesi veya ıskonto edilmesi (fiyat indirimi) halinde <strong class="text-danger">153 Ticari Mallar</strong> hesabı alacaklandırılır. Satış iadesinde ise **610 Satıştan İadeler** hesabı borçlandırılır.
+* <strong class="text-danger">TUZAK 2 (Sürekli Envanter):</strong> Sürekli envanter yönteminde, faturası kesilip satılan her mal için satışı takiben mutlaka maliyet kaydı (620 STMM) yapılmak zorundadır. Aralıklı envanterde ise maliyet dönemin en sonunda, depoda sayım yapıldıktan sonra topluca bir kerede kaydedilir.
+
+### 📌 Kayıt Örnekleri:
+<table style='width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 14px;'>
+  <tr style='background-color: #f8f9fa; font-weight: bold;'>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 70%;'>Hesap Kodu ve Adı</td>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 15%; text-align: center;'>Borç</td>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 15%; text-align: center;'>Alacak</td>
+  </tr>
+  <tr><td colspan="3" style='border: 1px solid #ccc; padding: 8px; background-color:#eef; font-style:italic;'>Sürekli Envanterde Satış ve Maliyet Kaydı (Peş Peşe):</td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px;'>100 KASA HS. (veya 120 ALICILAR)</td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td><td style='border: 1px solid #ccc; padding: 8px;'></td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>600 YURT İÇİ SATIŞLAR HS.</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>391 HESAPLANAN KDV HS.</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px;'>620 SATILAN TİCARİ MALLAR MALİYETİ HS.</td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td><td style='border: 1px solid #ccc; padding: 8px;'></td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>153 TİCARİ MALLAR HS.</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+</table>
+
+---
+
+## 🏗️ BÖLÜM 10: DURAN VARLIKLAR, AMORTİSMAN VE YENİLEME FONU
+* <strong class="text-danger">TUZAK 1 (Yenileme Fonu):</strong> Duran varlık satıldığında KÂR elde edilirse ve işletme bu kârı, aynı nitelikte YENİ bir varlık almak amacıyla bilançoda bekletecekse <strong class="text-danger">679 hesabı YERİNE 549 Özel Fonlar (Yenileme Fonu)</strong> hesabı alacaklandırılır. Bu fon bilançoda en fazla 3 yıl bekletilebilir. Zarar çıkması durumunda fon ayrılamaz!
+* <strong class="text-danger">TUZAK 2 (Kıst Amortisman):</strong> Yılın ortasında alınan bir demirbaş veya ticari araç için TAM YIL amortisman ayrılır. Ay hesabı (Kıst amortisman) SADECE **Binek Otomobiller (Pazarlama amacı dışında kullanılan)** için zorunludur.
+
+<table style='width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 14px;'>
+  <tr style='background-color: #f8f9fa; font-weight: bold;'>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 70%;'>Hesap Kodu ve Adı</td>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 15%; text-align: center;'>Borç</td>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 15%; text-align: center;'>Alacak</td>
+  </tr>
+  <tr><td colspan="3" style='border: 1px solid #ccc; padding: 8px; background-color:#eef; font-style:italic;'>MDV Satışında Kârın Yenileme Fonuna Aktarımı:</td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px;'>100 KASA / 102 BANKALAR HS.</td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td><td style='border: 1px solid #ccc; padding: 8px;'></td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px;'>257 BİRİKMİŞ AMORTİSMANLAR HS. (-)</td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td><td style='border: 1px solid #ccc; padding: 8px;'></td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>254 TAŞITLAR HS. (veya ilgili MDV)</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>391 HESAPLANAN KDV HS.</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>549 ÖZEL FONLAR HS. (Yenileme Fonu)</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+</table>
+
+---
+
+## 🔎 BÖLÜM 11: AVANSLAR VE SAYIM FARKLARI (KASA VE STOK)
+* <strong class="text-danger">TUZAK 1 (Kasa Noksanı):</strong> Kasada çıkan eksiğin nedeni araştırılıp bulunana kadar **197 Sayım ve Tesellüm Noksanları** hesabı borçlandırılır. Yıl sonuna kadar nedeni bulunamazsa ve personele de rücu edilemezse (sorumlu tutulamazsa) bu tutar kanunen kabul edilmeyen gider (KKEG) olarak <strong class="text-danger">689 Diğer Olağandışı Gider ve Zararlar</strong> hesabına devredilerek kapatılır.
+* <strong class="text-danger">TUZAK 2 (Sipariş Avansları):</strong> İşletme bir mal satın almak için satıcıya önceden para öderse **159 Verilen Sipariş Avansları** (Aktif) çalışır. İşletme satacağı mal için müşteriden önceden kapora alırsa **340 Alınan Sipariş Avansları** (Pasif) çalışır.
+
+---
+
+## 📉 BÖLÜM 12: DEĞER DÜŞÜKLÜĞÜ VE KONUSU KALMAYAN KARŞILIK
+* <strong class="text-danger">TUZAK (Konusu Kalmayan Karşılık):</strong> Geçmiş yıllarda veya cari yılda değeri düşen stok, hisse senedi veya şüpheli alacak için bir "Karşılık" (Örn: 158 Stok Değer Düş. Karş. veya 129 Şüpheli Tic. Alc. Karş.) ayrılmışsa; değerin tekrar yükselmesi veya borçlunun borcunu sonradan ödemesi durumunda ayrılan bu karşılık hesabı iptal edilir ve tutar gelir yazılmak üzere <strong class="text-danger">644 Konusu Kalmayan Karşılıklar</strong> hesabına (Alacak) atılır.
+
+---
+
+## 🔐 BÖLÜM 13: 7/A VE 7/B YANSITMA İLE KAPANIŞ KAYITLARI
+* <strong class="text-danger">TUZAK (7/A ve 7/B Farkı):</strong> 7/A seçeneğinde giderler fonksiyonlarına göre (Pazarlama, Ar-Ge, Genel Yönetim vb.) ayrılır. Kapanışta (711, 721, 731, 741, 751, 761, 771, 781) gibi spesifik **yansıtma hesapları** kullanılarak sonuç hesaplarına devredilir. 7/B seçeneğinde ise giderler çeşitlerine göredir ve kapanışta TEK BİR yansıtma hesabı olan **798 Gider Çeşitleri Yansıtma** hesabı kullanılır.
+* <strong class="text-danger">TUZAK (Kurumlar Vergisi ve Net Kâr):</strong> 690 hesabı "Vergi Öncesi Kârı" verir. Eğer 690 alacak kalanı verirse (Kâr), karşısına **691 Dönem Kârı Vergi ve Diğ. Yas. Yük. Karş. (-)** hesabı açılarak ödenecek vergi ayrılır ve kalan net tutar önce **692 Dönem Net Kâr/Zararı** hesabına, oradan da Bilançodaki **590 Dönem Net Kârı**'na devredilir.
+
+<table style='width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 14px;'>
+  <tr style='background-color: #f8f9fa; font-weight: bold;'>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 70%;'>Hesap Kodu ve Adı</td>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 15%; text-align: center;'>Borç</td>
+    <td style='border: 1px solid #ccc; padding: 8px; width: 15%; text-align: center;'>Alacak</td>
+  </tr>
+  <tr><td colspan="3" style='border: 1px solid #ccc; padding: 8px; background-color:#eef; font-style:italic;'>Vergi Karşılığı Ayrılarak Net Kârın (590) Bilançoya Devri:</td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px;'>690 DÖNEM KÂRI VEYA ZARARI HS.</td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td><td style='border: 1px solid #ccc; padding: 8px;'></td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>691 DÖN. KARI VER. VE DİĞ. YAS. YÜK. KARŞ. HS. (-)</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>692 DÖNEM NET KÂRI VEYA ZARARI HS.</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+  <tr><td colspan="3" style='border: 1px solid #ccc; padding: 8px; background-color:#eef; border-top:none; border-bottom: none;'></td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px;'>692 DÖNEM NET KÂRI VEYA ZARARI HS.</td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td><td style='border: 1px solid #ccc; padding: 8px;'></td></tr>
+  <tr><td style='border: 1px solid #ccc; padding: 8px; padding-left: 30px;'>590 DÖNEM NET KÂRI HS.</td><td style='border: 1px solid #ccc; padding: 8px;'></td><td style='border: 1px solid #ccc; padding: 8px; text-align: center;'>X</td></tr>
+</table>
+
+---
+
+## 🎯 BÖLÜM 14: MUHASEBENİN TEMEL KAVRAMLARI (KOMİSYONUN FAVORİSİ)
+Sınavlarda komisyonun her dönem mutlaka yokladığı 5 altın kavram!
+
+1. <strong class="text-danger">Özün Önceliği:</strong> Muhasebede işlemlerin hukuki biçimlerinden ziyade ekonomik "özlerinin" (gerçek mahiyetlerinin) esas alınmasıdır. **En net örnek:** İleri tarihli vadeli çeklerin bilançoda Özün Önceliği gereği Alacak Senedi (121) / Borç Senedi (321) gibi sınıflandırılıp reeskonta tabi tutulmasıdır.
+2. <strong class="text-danger">İhtiyatlılık:</strong> İşletmenin karşılaşabileceği risklere karşı temkinli olması ve hazırlık yapmasıdır. Tüm **"Karşılık Ayırma"** işlemleri (Şüpheli alacak, Değer düşüklüğü karşılığı vb.) ve **"Amortisman ayırma"** bu kavrama dayanır. Gider ve zararlar kesinleşmese bile kayda alınır; ancak gelir ve kârlar kesinleşmeden kayda alınmaz (Gizli yedek oluşturulamaz).
+3. <strong class="text-danger">Dönemsellik:</strong> Gelir ve giderlerin tahakkuk esasına göre (nakit giriş çıkışına bakılmaksızın) kendi ait oldukları dönemlere kaydedilmesidir. **180, 280, 380, 480** numaralı dönem ayırıcı hesapların kullanılması, Gelir/Gider tahakkukları yapılması ve yıl sonunda **Reeskont** ayrılması doğrudan bu kavramın sonucudur.
+4. <strong class="text-danger">Kişilik:</strong> İşletmenin, sahiplerinden ve personelinden tamamen bağımsız, ayrı bir hukuki varlığının (kişiliğinin) olmasıdır. Patronun işletmeden borç para çekmesinin **131 Ortaklardan Alacaklar**, işletmeye cebinden para koymasının **331 Ortaklara Borçlar** hesabında izlenmesi bu kavramın gereğidir.
+5. <strong class="text-danger">Tarafsızlık ve Belgelendirme:</strong> Muhasebe kayıtlarının faturaya, makbuza, dekonta (objektif ve gerçek durumu yansıtan belgelere) dayanmasıdır.
