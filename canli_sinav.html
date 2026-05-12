@@ -191,14 +191,17 @@
                 document.getElementById("rapor-alani").style.display = "none";
                 document.getElementById("incelemeModal").style.display = "none"; // Soru gelirse incelemeyi kapat
 
-                if(localStorage.getItem("son_soru") !== guncelData.soru_metni) {
+                // YENİ VE KUSURSUZ ZAMANLAMA MANTIĞI: Adminin saati (Date.now) tamamen iptal edildi!
+                let sayfaBosMu = document.getElementById("sinav-alani").style.display === "none";
+                let yeniSoruGeldi = (window.aktifSoruNo !== guncelData.soru_no);
+
+                if(sayfaBosMu || yeniSoruGeldi) {
                     secilenSik = "";
                     sureBittiMi = false;
                     skorEklendiMi = false;
                     raporGonderildiMi = false;
-                    localStorage.setItem("son_soru", guncelData.soru_metni);
+                    window.aktifSoruNo = guncelData.soru_no; 
 
-                    // Test başı sıfırlama
                     if(guncelData.soru_no === 1) {
                         istatistik = { dogru: 0, yanlis: 0, bos: 0 };
                         soruGecmisi = [];
@@ -206,31 +209,27 @@
                         localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
                     }
 
-                    // --- YENİ KOD BAŞLANGICI (VİBE CODING KURAL 1, 2 VE 3) ---
-                    
-                    // Kural 1: Kullanıcıya beklediğini bildir (Boş ekrana bakıp F5 atıp süresini yakmasın)
+                    // Saat farkı krizini bitiren hamle: Soru geldiği an herkesin kendi kronometresi 60'tan başlar
+                    kalanSure = 60; 
+
                     document.getElementById("sinav-alani").style.display = "none";
                     document.getElementById("soru-yukleniyor").style.display = "block";
                     document.getElementById("soru-yukleniyor").innerText = "Soru hazırlanıyor, lütfen bekleyin...";
 
-                    // Kural 2: Arayüzün tam çizilmesi için asenkron kısa bir nefes aralığı (setTimeout)
                     setTimeout(() => {
-                        // Sayfa yenileme veya geç gelme krizini kökten çözüyoruz:
-                        // Süreyi sunucudan düşmek yerine, soru EKRANA GELDİĞİ AN 60'tan başlatıyoruz.
-                        kalanSure = 60; 
-                        
-                        arayuzuCiz(guncelData); // Önce vitrini (soruyu ve şıkları) ekrana basıyoruz
-                        sayaciBaslat(); // Kural 3: Önceki sayacı temizler (clearInterval) ve yeni sayacı pırıl pırıl başlatır
-                    }, 400); // 400 milisaniye (yarım saniyeden az) DOM'un güvenle boyanması için harika bir süredir.
-                    
-                    // --- YENİ KOD BİTİŞİ ---
-
-                } else if (!sureBittiMi) { 
-            // barlariGuncelle(guncelData);  <-- Yüzdelerin canlı güncellenmesini kapattık
-        }
+                        arayuzuCiz(guncelData);
+                        sayaciBaslat(); // Sayaç dış etkenlerden bağımsız tıkır tıkır sayar
+                    }, 400);
+                } 
+                else if (sureBittiMi) {
+                    // Soru zaten ekranda ve süre bittiyse sonuçları göster
+                    sonuclariAc(guncelData);
+                }
+                // Arka planda başkası oy verirse Firebase tetiklenir ama sistem KILINI BİLE KIPIRDATMAZ. Donma sıfır!       
             }
-        });
-    }
+        }); // onSnapshot kapanışı (Eksik olan parantez buradaydı)
+    } // function baslaDinlemeye kapanışı
+    
 
     function sayaciBaslat() {
         clearInterval(sayacInterval);
@@ -276,7 +275,8 @@
                 </div>
             `;
 
-            btn.onclick = async () => {
+            // YENİ TIKLAMA MANTIĞI: Ekran anında tepki verir, oylar arka planda yollanır.
+            btn.onclick = () => { 
                 if(!sureBittiMi) {
                     let oncekiSik = secilenSik;
                     secilenSik = harf;
@@ -285,12 +285,12 @@
                     
                     try {
                         if (oncekiSik && oncekiSik !== harf) {
-                            await updateDoc(soruRef, {
+                            updateDoc(soruRef, {
                                 [`oylar.${oncekiSik}`]: increment(-1),
                                 [`oylar.${harf}`]: increment(1)
                             });
                         } else if (!oncekiSik) {
-                            await updateDoc(soruRef, { [`oylar.${harf}`]: increment(1) });
+                            updateDoc(soruRef, { [`oylar.${harf}`]: increment(1) });
                         }
                     } catch(e) { }
                 }

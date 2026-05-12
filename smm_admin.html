@@ -160,12 +160,13 @@
         durumYazisi.style.color = "#f39c12";
     });
 
-    btnDevam.addEventListener('click', () => {
+   btnDevam.addEventListener('click', () => {
         btnDevam.style.display = "none";
         btnDuraklat.style.display = "flex";
         durumYazisi.innerHTML = `🔥 Soru <b>${aktifIndex + 1} / ${limit}</b> Yayında!`;
         durumYazisi.style.color = "#4cd137";
-        // YENİ 1: Süre aralığı 63 saniye
+        
+        clearInterval(kampTimer); // YENİ: Ne olur ne olmaz, eski döngüyü kesin olarak öldür
         kampTimer = setInterval(kampDongusu, 63000); 
     });
 
