@@ -174,6 +174,7 @@
                     clearInterval(sayacInterval);
                     document.getElementById("sinav-ana-kasa").style.display = "none";
                     document.getElementById("rapor-alani").style.display = "block";
+                    // ... (karneler aynı kalıyor)
                     document.getElementById("rapor-isim").innerText = kullaniciAdi;
                     document.getElementById("rapor-dogru").innerText = istatistik.dogru;
                     document.getElementById("rapor-yanlis").innerText = istatistik.yanlis;
@@ -189,47 +190,64 @@
                 }
 
                 document.getElementById("rapor-alani").style.display = "none";
-                document.getElementById("incelemeModal").style.display = "none"; // Soru gelirse incelemeyi kapat
+                document.getElementById("incelemeModal").style.display = "none"; 
 
-                // YENİ VE KUSURSUZ ZAMANLAMA MANTIĞI: Adminin saati (Date.now) tamamen iptal edildi!
                 let sayfaBosMu = document.getElementById("sinav-alani").style.display === "none";
-                let yeniSoruGeldi = (window.aktifSoruNo !== guncelData.soru_no);
+                let firebaseSoruNo = guncelData.soru_no;
+                // Öğrencinin hafızasındaki son soru numarasını alıyoruz
+                let hafizaSoruNo = parseInt(localStorage.getItem("smm_aktif_soru_no")) || 0;
+                let yeniSoruGeldi = (window.aktifSoruNo !== firebaseSoruNo);
 
                 if(sayfaBosMu || yeniSoruGeldi) {
                     secilenSik = "";
                     sureBittiMi = false;
                     skorEklendiMi = false;
                     raporGonderildiMi = false;
-                    window.aktifSoruNo = guncelData.soru_no; 
+                    window.aktifSoruNo = firebaseSoruNo; 
 
-                    if(guncelData.soru_no === 1) {
+                    if(firebaseSoruNo === 1 && yeniSoruGeldi) {
                         istatistik = { dogru: 0, yanlis: 0, bos: 0 };
                         soruGecmisi = [];
                         localStorage.setItem("smm_istatistik", JSON.stringify(istatistik));
                         localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
                     }
 
-                    // Saat farkı krizini bitiren hamle: Soru geldiği an herkesin kendi kronometresi 60'tan başlar
-                    kalanSure = 60; 
+                    // --- YENİ F5 (ZAMAN MAKİNESİ) KORUMASI ---
+                    if (firebaseSoruNo === hafizaSoruNo) {
+                        // Soru Firebase'de değişmemiş, aday F5 atmış! Süreyi hafızadan çek, hile yaptırma.
+                        let hafizaSure = parseInt(localStorage.getItem("smm_kalan_sure"));
+                        kalanSure = (isNaN(hafizaSure) || hafizaSure <= 0) ? 0 : hafizaSure;
+                    } else {
+                        // Otopilot gerçekten yepyeni bir soru ateşlemiş! Sayacı 60'la ve hafızaya yaz.
+                        kalanSure = 60;
+                        localStorage.setItem("smm_aktif_soru_no", firebaseSoruNo);
+                        localStorage.setItem("smm_kalan_sure", 60);
+                    }
+                    // ----------------------------------------
 
-                    document.getElementById("sinav-alani").style.display = "none";
-                    document.getElementById("soru-yukleniyor").style.display = "block";
-                    document.getElementById("soru-yukleniyor").innerText = "Soru hazırlanıyor, lütfen bekleyin...";
-
-                    setTimeout(() => {
+                    if(kalanSure <= 0) {
+                        kalanSure = 0;
+                        sureBittiMi = true;
                         arayuzuCiz(guncelData);
-                        sayaciBaslat(); // Sayaç dış etkenlerden bağımsız tıkır tıkır sayar
-                    }, 400);
+                        document.getElementById("zaman-gosterge").innerText = "0";
+                        sonuclariAc(guncelData);
+                    } else {
+                        document.getElementById("sinav-alani").style.display = "none";
+                        document.getElementById("soru-yukleniyor").style.display = "block";
+                        document.getElementById("soru-yukleniyor").innerText = "Soru hazırlanıyor, lütfen bekleyin...";
+
+                        setTimeout(() => {
+                            arayuzuCiz(guncelData);
+                            sayaciBaslat(); 
+                        }, 400);
+                    }
                 } 
                 else if (sureBittiMi) {
-                    // Soru zaten ekranda ve süre bittiyse sonuçları göster
                     sonuclariAc(guncelData);
                 }
-                // Arka planda başkası oy verirse Firebase tetiklenir ama sistem KILINI BİLE KIPIRDATMAZ. Donma sıfır!       
             }
-        }); // onSnapshot kapanışı (Eksik olan parantez buradaydı)
-    } // function baslaDinlemeye kapanışı
-    
+        });
+    }
 
     function sayaciBaslat() {
         clearInterval(sayacInterval);
@@ -239,6 +257,9 @@
 
         sayacInterval = setInterval(() => {
             kalanSure--;
+            // --- YENİ MÜHÜR: Her saniye kalan süreyi hafızaya kazı! ---
+            localStorage.setItem("smm_kalan_sure", kalanSure); 
+
             if(kalanSure <= 10 && kalanSure > 0) gosterge.classList.add("tehlike");
 
             if(kalanSure <= 0) {
