@@ -44,6 +44,7 @@
         .inceleme-sik.dogru-sik { border-color: #10b981; background: rgba(16, 185, 129, 0.15); color: #10b981; font-weight: bold; }
         .inceleme-sik.yanlis-sik { border-color: #ef4444; background: rgba(239, 68, 68, 0.15); color: #ef4444; }
     </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 </head>
 <body>
 
@@ -75,14 +76,14 @@
         <div class="rapor-satir" style="border-left: 5px solid #9ca3af;"><span>⚪ Boş Bırakılan:</span> <span id="rapor-bos" style="color: #9ca3af;">0</span></div>
 
         <button id="cevaplariInceleBtn" class="login-btn" style="margin-top: 20px; background: #3b82f6;">🔍 Çözdüğüm Soruları İncele</button>
+        <button id="pdfIndirBtn" class="login-btn" style="margin-top: 10px; background: #059669;">📄 Karnemi PDF Olarak İndir</button>
         <button id="raporKapatBtn" class="login-btn" style="margin-top: 15px; background: #4b5563;">Kapat ve Bekleme Salonuna Dön</button>
     </div>
 
     <div id="incelemeModal">
         <div class="inceleme-kutu">
             <h2 style="color: #3b82f6; text-align: center; margin-top: 0; border-bottom: 1px solid #374151; padding-bottom: 15px;">🔍 SORU İNCELEME</h2>
-            <div id="inceleme-icerik-alani">
-                </div>
+            <div id="inceleme-icerik-alani"></div>
             <button id="incelemeKapatBtn" class="login-btn" style="margin-top: 25px; background: #ef4444;">Kapat</button>
         </div>
     </div>
@@ -106,7 +107,7 @@
 
     let kullaniciAdi = localStorage.getItem("smm_isim");
     let istatistik = { dogru: 0, yanlis: 0, bos: 0 };
-    let soruGecmisi = []; // YENİ: Soruları kaydedeceğimiz dizi
+    let soruGecmisi = []; 
 
     try {
         if(localStorage.getItem("smm_istatistik")) istatistik = JSON.parse(localStorage.getItem("smm_istatistik"));
@@ -148,24 +149,20 @@
 
     // Rapor Kapatma ve YENİ TEST İÇİN SIFIRLAMA (Hafıza Temizliği)
     document.getElementById("raporKapatBtn").addEventListener("click", () => {
-        // 1. Ekranları bekleme moduna al
         document.getElementById("rapor-alani").style.display = "none";
         document.getElementById("sinav-ana-kasa").style.display = "block";
         document.getElementById("sinav-alani").style.display = "none";
         document.getElementById("soru-yukleniyor").style.display = "block";
         
-        // Adaya verilerinin temizlendiğini ve yeni teste hazır olduğunu hissettir
         document.getElementById("soru-yukleniyor").innerText = "Önceki test verileri temizlendi. Yeni oturum bekleniyor...";
 
-        // 2. JavaScript değişkenlerindeki (RAM) tüm eski verileri SIFIRLA
         istatistik = { dogru: 0, yanlis: 0, bos: 0 };
         soruGecmisi = [];
         skorEklendiMi = false;
         raporGonderildiMi = false;
         secilenSik = "";
-        window.aktifSoruNo = 0; // Soru takibini sıfırla
+        window.aktifSoruNo = 0; 
 
-        // 3. Tarayıcı hafızasındaki (localStorage) eski kalıntıları tamamen KAZI
         localStorage.removeItem("smm_istatistik");
         localStorage.removeItem("smm_soru_gecmisi");
         localStorage.removeItem("smm_aktif_soru_no");
@@ -173,13 +170,34 @@
         localStorage.removeItem("son_soru"); 
     });
 
-    // YENİ: İnceleme Modalı Açma
+    // PDF Olarak İndirme Fonksiyonu
+    document.getElementById("pdfIndirBtn").addEventListener("click", () => {
+        const element = document.getElementById("rapor-alani");
+        
+        const butonlar = document.querySelectorAll("#pdfIndirBtn, #cevaplariInceleBtn, #raporKapatBtn");
+        butonlar.forEach(b => b.style.display = "none");
+
+        const opt = {
+            margin:       10,
+            filename:     `SMM_Akademi_Karne_${kullaniciAdi}.pdf`,
+            image:        { type: 'jpeg', quality: 0.98 },
+            html2canvas:  { scale: 2, backgroundColor: "#242a33" }, 
+            jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
+        };
+
+        html2pdf().set(opt).from(element).save().then(() => {
+            butonlar.forEach(b => b.style.display = "block");
+          
+        });
+    });
+
+    // İnceleme Modalı Açma
     document.getElementById("cevaplariInceleBtn").addEventListener("click", () => {
         gecmisiCiz();
         document.getElementById("incelemeModal").style.display = "flex";
     });
 
-    // YENİ: İnceleme Modalı Kapatma
+    // İnceleme Modalı Kapatma
     document.getElementById("incelemeKapatBtn").addEventListener("click", () => {
         document.getElementById("incelemeModal").style.display = "none";
     });
@@ -193,7 +211,7 @@
                     clearInterval(sayacInterval);
                     document.getElementById("sinav-ana-kasa").style.display = "none";
                     document.getElementById("rapor-alani").style.display = "block";
-                    // ... (karneler aynı kalıyor)
+                    
                     document.getElementById("rapor-isim").innerText = kullaniciAdi;
                     document.getElementById("rapor-dogru").innerText = istatistik.dogru;
                     document.getElementById("rapor-yanlis").innerText = istatistik.yanlis;
@@ -213,7 +231,6 @@
 
                 let sayfaBosMu = document.getElementById("sinav-alani").style.display === "none";
                 let firebaseSoruNo = guncelData.soru_no;
-                // Öğrencinin hafızasındaki son soru numarasını alıyoruz
                 let hafizaSoruNo = parseInt(localStorage.getItem("smm_aktif_soru_no")) || 0;
                 let yeniSoruGeldi = (window.aktifSoruNo !== firebaseSoruNo);
 
@@ -231,18 +248,15 @@
                         localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
                     }
 
-                    // --- YENİ F5 (ZAMAN MAKİNESİ) KORUMASI ---
+                    // F5 Koruması
                     if (firebaseSoruNo === hafizaSoruNo) {
-                        // Soru Firebase'de değişmemiş, aday F5 atmış! Süreyi hafızadan çek, hile yaptırma.
                         let hafizaSure = parseInt(localStorage.getItem("smm_kalan_sure"));
                         kalanSure = (isNaN(hafizaSure) || hafizaSure <= 0) ? 0 : hafizaSure;
                     } else {
-                        // Otopilot gerçekten yepyeni bir soru ateşlemiş! Sayacı 60'la ve hafızaya yaz.
                         kalanSure = 60;
                         localStorage.setItem("smm_aktif_soru_no", firebaseSoruNo);
                         localStorage.setItem("smm_kalan_sure", 60);
                     }
-                    // ----------------------------------------
 
                     if(kalanSure <= 0) {
                         kalanSure = 0;
@@ -276,7 +290,6 @@
 
         sayacInterval = setInterval(() => {
             kalanSure--;
-            // --- YENİ MÜHÜR: Her saniye kalan süreyi hafızaya kazı! ---
             localStorage.setItem("smm_kalan_sure", kalanSure); 
 
             if(kalanSure <= 10 && kalanSure > 0) gosterge.classList.add("tehlike");
@@ -315,7 +328,6 @@
                 </div>
             `;
 
-            // YENİ TIKLAMA MANTIĞI: Ekran anında tepki verir, oylar arka planda yollanır.
             btn.onclick = () => { 
                 if(!sureBittiMi) {
                     let oncekiSik = secilenSik;
@@ -372,16 +384,13 @@
             localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
             skorEklendiMi = true;
 
-            // --- YENİ AMELİYAT: CANLI OTOMATİK KAYIT ---
-            // Adayın skoru her soru bitiminde anında Firebase'e yazılır.
-            // Sekmeyi kapatsa bile skoru liderlik tablosunda güvendedir!
+            // CANLI OTOMATİK KAYIT (AUTO-SAVE)
             setDoc(doc(db, "kamp_sonuclari", kullaniciAdi), {
                 dogru: istatistik.dogru, 
                 yanlis: istatistik.yanlis, 
                 bos: istatistik.bos, 
                 zaman: new Date()
             }).catch(e => console.log("Otomatik kayıt hatası:", e));
-            // -------------------------------------------
         }
         barlariGuncelle(data);
     }
@@ -399,7 +408,6 @@
         });
     }
 
-    // YENİ EKLENEN FONKSİYON: Geçmişi Ekrana Çizen Sistem
     function gecmisiCiz() {
         const alan = document.getElementById("inceleme-icerik-alani");
         alan.innerHTML = "";
