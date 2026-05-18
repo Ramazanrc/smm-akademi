@@ -209,6 +209,22 @@
                 
                 if(guncelData && guncelData.kamp_bitti) {
                     clearInterval(sayacInterval);
+
+                    // --- YENİ EKLENEN: KAMP BİTİNCE ZORUNLU TESLİM ---
+                    // Kamp aniden biterse ve adayın süresi donmuşsa son soruyu zorla kurtar
+                    if (window.aktifSoruNo > 0 && !skorEklendiMi) {
+                        let eskiDogru = window.aktifDogruCevap;
+                        if(!secilenSik) istatistik.bos++;
+                        else if(secilenSik === eskiDogru) istatistik.dogru++;
+                        else istatistik.yanlis++;
+                        
+                        setDoc(doc(db, "kamp_sonuclari", kullaniciAdi), {
+                            dogru: istatistik.dogru, yanlis: istatistik.yanlis, bos: istatistik.bos, zaman: new Date()
+                        }).catch(e => console.error(e));
+                        skorEklendiMi = true;
+                    }
+                    // -------------------------------------------------
+
                     document.getElementById("sinav-ana-kasa").style.display = "none";
                     document.getElementById("rapor-alani").style.display = "block";
                     
@@ -234,12 +250,43 @@
                 let hafizaSoruNo = parseInt(localStorage.getItem("smm_aktif_soru_no")) || 0;
                 let yeniSoruGeldi = (window.aktifSoruNo !== firebaseSoruNo);
 
+                // --- YENİ EKLENEN: MOBİL YAVAŞLAMA İÇİN ZORUNLU TESLİM ---
+                if (yeniSoruGeldi && window.aktifSoruNo > 0 && !skorEklendiMi) {
+                    let eskiDogru = window.aktifDogruCevap;
+                    let eskiMetin = window.aktifSoruMetni;
+                    let eskiSecenekler = window.aktifSecenekler;
+
+                    if(!secilenSik) istatistik.bos++;
+                    else if(secilenSik === eskiDogru) istatistik.dogru++;
+                    else istatistik.yanlis++;
+
+                    soruGecmisi.push({
+                        no: window.aktifSoruNo, soru: eskiMetin, secenekler: eskiSecenekler, secilen: secilenSik, dogru: eskiDogru
+                    });
+
+                    localStorage.setItem("smm_istatistik", JSON.stringify(istatistik));
+                    localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
+
+                    setDoc(doc(db, "kamp_sonuclari", kullaniciAdi), {
+                        dogru: istatistik.dogru, yanlis: istatistik.yanlis, bos: istatistik.bos, zaman: new Date()
+                    }).catch(e => console.log(e));
+                    
+                    skorEklendiMi = true;
+                }
+                // ---------------------------------------------------------
+
                 if(sayfaBosMu || yeniSoruGeldi) {
                     secilenSik = "";
                     sureBittiMi = false;
                     skorEklendiMi = false;
                     raporGonderildiMi = false;
                     window.aktifSoruNo = firebaseSoruNo; 
+
+                    // --- YENİ EKLENEN: ZORUNLU TESLİM İÇİN SORU KİMLİĞİ HAFIZASI ---
+                    window.aktifDogruCevap = guncelData.dogru_cevap;
+                    window.aktifSoruMetni = guncelData.soru_metni;
+                    window.aktifSecenekler = guncelData.secenekler;
+                    // ---------------------------------------------------------------
 
                     if(firebaseSoruNo === 1 && yeniSoruGeldi) {
                         istatistik = { dogru: 0, yanlis: 0, bos: 0 };
@@ -281,7 +328,7 @@
             }
         });
     }
-
+    
     function sayaciBaslat() {
         clearInterval(sayacInterval);
         const gosterge = document.getElementById("zaman-gosterge");
