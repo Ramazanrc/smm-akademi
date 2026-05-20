@@ -2401,7 +2401,559 @@
       "answer": 2
     }
   ],
-  "B - İş Hukuku||1- İş Hukukuna Giriş": [
+  "A - Borçlar Hukuku||Çalışma Soruları (MCH)": [
+  {
+    "q": "Hukuk hâkiminin haksız fiil yargılamasındaki yetkileriyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Hukuk hâkimi zarar verenin kusurunu belirlerken ceza mahkemesinin beraat kararıyla kesin olarak bağlıdır.",
+      "B) Hukuk hâkimi, kusur tespiti yaparken ceza mahkemesinin mahkûmiyet kararıyla her zaman bağlıdır.",
+      "C) Hukuk hâkimi, zarar verenin ayırt etme gücü hakkında karar verirken ceza hukukunun sorumluluk hükümleriyle bağlı değildir.",
+      "D) Ceza hâkiminin zararın belirlenmesine ilişkin kararı hukuk hâkimini bağlar.",
+      "E) Hukuk hâkimi, ceza hâkiminin kusurun değerlendirilmesine ilişkin kararıyla bağlıdır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Haksız fiil sebebiyle açılan tazminat davasında başvurulabilen \"geçici ödemeler\" ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Zarar görenin, iddiasının haklılığını gösteren inandırıcı kanıtlar sunması gerekir.",
+      "B) Zarar görenin ekonomik durumunun geçici ödemeyi gerektirmesi şarttır.",
+      "C) Geçici ödemeler, davalının rızası aranmaksızın hâkim tarafından kendiliğinden (re'sen) kararlaştırılır.",
+      "D) Davalının yaptığı geçici ödemeler, daha sonra hükmedilecek tazminata mahsup edilir.",
+      "E) Nihayetinde tazminata hükmedilmezse davacı aldığı ödemeleri yasal faiziyle geri vermek zorundadır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sebepsiz zenginleşen tarafın \"iyiniyetli\" olduğu bir senaryoda, iade borcunun kapsamına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Zenginleşen malı sadece elinde kaldığı kadarıyla vermekle yükümlüdür.",
+      "B) Zenginleşen, malın hasara uğramasından veya zararlardan sorumlu tutulmaz.",
+      "C) Zenginleşen, lüks giderlerin bedelini her hâlükârda talep edebilir.",
+      "D) Zenginleşen, faydalı giderlerinin ödenmesini talep edebilir.",
+      "E) Zenginleşen, yaptığı masraflar kendisine ödeninceye kadar malı geri vermekten kaçınabilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sebepsiz zenginleşen kişi \"kötüniyetli\" ise iade kapsamında aşağıdakilerden hangisini talep etme hakkına sahiptir?",
+    "options": [
+      "A) Lüks giderlerin tamamını",
+      "B) Zarar ve hasardan sorumsuzluğu",
+      "C) Sadece elinde kalanı iade etmeyi",
+      "D) Faydalı giderlerin yarattığı mevcut değer artışını",
+      "E) Zenginleşmenin geri istenmesi sırasında elinden çıkmış kısmın iadesinden muaf tutulmayı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki durumlardan hangisinde sebepsiz zenginleşme hükümlerine dayanılarak geri iade talep edilebilir?",
+    "options": [
+      "A) Zamanaşımına uğramış bir borcun ifa edilmesi durumunda",
+      "B) Ahlaki bir ödevin yerine getirilmesi amacıyla yapılan ödemelerde",
+      "C) Eksik borçlardan biri olan kumar borcunun ödenmesi durumunda",
+      "D) Borçlanılmayan bir edimin, kişinin kendini borçlu sanarak ifa ettiğini ispatlaması hâlinde",
+      "E) Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla bir şey verilmesi hâlinde"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sebepsiz zenginleşmeden doğan iade davası, hak sahibinin geri isteme hakkını öğrendiği tarihten ve her hâlde zenginleşmenin gerçekleştiği tarihten başlayarak sırasıyla kaç yıl içinde zamanaşımına uğrar?",
+    "options": [
+      "A) 1 yıl - 5 yıl",
+      "B) 2 yıl - 10 yıl",
+      "C) 1 yıl - 10 yıl",
+      "D) 5 yıl - 10 yıl",
+      "E) 2 yıl - 20 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Türk Borçlar Hukuku kapsamında doğuştan eksik borç türleri arasında yer almaz?",
+    "options": [
+      "A) Evlenme simsarlığından doğan borç",
+      "B) Kumar borcu",
+      "C) Bahis borcu",
+      "D) Zamanaşımına uğramış borç",
+      "E) Ahlaki ödevden doğan borç"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Eksik borçlara ilişkin aşağıdaki hukuki sonuçlardan hangisi doğrudur?",
+    "options": [
+      "A) Eksik borçlar devlet zoruyla hukuken talep edilebilir borçlardır.",
+      "B) Eksik borç ifa edilirse geçersiz sayılır ve her zaman iadesi istenir.",
+      "C) Eksik bir borcun ifa edilmesi sebepsiz zenginleşme davasına konu edilir.",
+      "D) Konkordatodan arta kalan alacaklar doğuştan eksik borçlar arasındadır.",
+      "E) Eksik borç ifa edilirse bu geçerli bir ifadır ve geri istenemez."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Sözleşmenin kurulması aşamasında karşılaşılan aşağıdaki irade açıklamalarından hangisi, kural olarak hukuken bağlayıcı bir \"öneri\" (icap) sayılır?",
+    "options": [
+      "A) \"Stoklarla sınırlıdır\" ibaresi taşıyan bir ilan",
+      "B) \"Numunedir\" yazılı bir ürün gösterimi",
+      "C) Fiyatı gösterilerek vitrinde sergilenen bir mal",
+      "D) \"Teşhir ürünüdür\" etiketi taşıyan bir elektronik cihaz",
+      "E) Arabasını satmayı düşündüğünü belirten kişinin sosyal medyada yaptığı genel duyuru"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kendisine ısmarlamadığı (talep etmediği) bir eşya gönderilen kişinin durumuyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Gönderilen eşyayı kabul etmiş sayılarak bedelini ödemekle yükümlüdür.",
+      "B) Ismarlanmamış şeyin gönderilmesi öneri sayıldığı için 8 gün içinde açıkça reddetmelidir.",
+      "C) Eşyayı derhal gönderene iade etmekle yükümlüdür.",
+      "D) Eşyayı geri göndermek veya saklamakla yükümlü değildir.",
+      "E) Gönderen kişiye eşyayı saklayacağına dair yazılı bildirim yapmak zorundadır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Açık bir kabule ihtiyaç duyulmayan ve hazır olmayanlar arasında kurulan sözleşmeler, hukuken hangi andan itibaren hüküm ve sonuç doğurmaya başlar?",
+    "options": [
+      "A) Önerinin gönderildiği andan",
+      "B) Önerinin ulaştığı andan",
+      "C) Kabulün gönderildiği andan",
+      "D) Kabulün öğrenildiği andan",
+      "E) Sözleşme konusunun ifa edildiği andan"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hazır olmayanlar arasında yapılan bir öneriden dönülmüş (vazgeçilmiş) sayılabilmesi için aşağıdaki şartlardan hangisinin gerçekleşmesi gerekir?",
+    "options": [
+      "A) Vazgeçme beyanının kabulcüye öneriden çok sonra ulaşması",
+      "B) Önerenin vazgeçme beyanını derhal noter aracılığıyla göndermesi",
+      "C) Vazgeçme beyanının kabulcüye öneriden önce veya öneriyle aynı anda ulaşması",
+      "D) Kabulcünün öneriyi kabul ettiğini bildirmesinden sonra vazgeçme beyanının ulaşması",
+      "E) Önerinin süreli bir öneri olması ve sürenin henüz dolmamış olması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İleride asıl sözleşmenin kurulmasına yönelik yapılan \"önsözleşmeler\" (sözleşme yapma vaadi) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Önsözleşmeler de bağımsız bir sözleşme sayılırlar.",
+      "B) Karşılıklı irade açıklaması gerektiren bir hukuki işlemdir.",
+      "C) Kural olarak hiçbir geçerlilik şekline tabi değillerdir.",
+      "D) Borçlandırıcı nitelikte (taahhüt) bir işlemdir.",
+      "E) Tek taraflı bir hukuki işlem sayılmazlar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İlan yoluyla bir işin yapılması karşılığında ödül sözü veren kişinin sorumluluğu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Sonuç gerçekleşirse ödül sözü veren kişi ödülü vermek zorundadır.",
+      "B) Sonuç gerçekleşmeden önce sözünden cayarsa, dürüstlük kurallarına uygun yapılan giderleri ödemek zorundadır.",
+      "C) Ödenecek giderlerin üst sınırı vaat edilen ödül miktarını aşamaz.",
+      "D) Ödül sözü veren, giderlerin ödenmesini isteyenlerin sonucu gerçekleştiremeyeceklerini ispatlasa dahi yapılan tüm masrafları ödemekle yükümlüdür.",
+      "E) Ödül sözü veren, sonucun gerçekleşmesini kasten engellerse yapılan giderleri ödemekle yükümlüdür."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi bir sözleşmenin \"Kesin Hükümsüzlük\" (Mutlak Butlan) ile sakat olmasına yol açan sebeplerden biri değildir?",
+    "options": [
+      "A) Taraflardan birinin ehliyetsiz (ayırt etme gücünden yoksun) olması",
+      "B) Sözleşmenin konusunun emredici kurallara aykırı olması",
+      "C) Sözleşmede taraflardan birinin esaslı bir yanılma (hata) içine düşmesi",
+      "D) Sözleşmenin başlangıçtaki ifa imkânsızlığı ile kurulması",
+      "E) Kanunen emredilen geçerlilik şekline uyulmaması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşırı yararlanma (gabin) kurumunun işleyebilmesi için bir objektif unsur ile subjektif unsurun bir arada bulunması gerekir. Aşağıdakilerden hangisi bu sözleşmede aranan \"subjektif\" unsurlardan biri değildir?",
+    "options": [
+      "A) Kişinin zor durumda bulunması",
+      "B) Kişinin tecrübesizliğinden yararlanılması",
+      "C) Kişinin düşüncesizliğinden yararlanılması",
+      "D) Edimler arasında aşırı bir oransızlık bulunması",
+      "E) Taraflardan birinin diğerinin sömürülebilir durumunu bilmesi ve kullanması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşırı yararlanmaya (gabin) maruz kalan sömürülen kişinin sözleşmenin iptalini veya edimler arası denge kurulmasını isteme hakkı, öğrenme/zor durumun geçmesi anından ve her hâlükârda sözleşmenin kurulmasından itibaren sırasıyla ne kadar süre içinde kullanılmalıdır?",
+    "options": [
+      "A) 1 yıl - 10 yıl",
+      "B) 2 yıl - 10 yıl",
+      "C) 1 yıl - 5 yıl",
+      "D) 6 ay - 5 yıl",
+      "E) 5 yıl - 10 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sözleşmelerde yazılı şekil ve imza şartıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Yazılı şekle tabi sözleşmelerde alacaklı ve borçlunun olmak üzere her iki tarafın imzası her zaman zorunludur.",
+      "B) Yazılı sözleşme metninin mutlaka imza atacak kişinin kendi el yazısıyla kaleme alınması gerekir.",
+      "C) Teminat amacı güden sözleşmeler elektronik imza ile kurulabilir.",
+      "D) Görme engellilerin yazılı şekle tabi sözleşmelerine imza atabilmesi için kendi talepleri olmasa dahi her durumda şahit zorunludur.",
+      "E) Yazılı şekilde yapılması öngörülen sözleşmelerde sadece borç altına girenlerin imzasının bulunması zorunludur."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre görme engellilerin imza atma usulü ile ilgili aşağıda verilen bilgilerden hangisi doğrudur?",
+    "options": [
+      "A) İmzalarını atmaları hukuken hiçbir şekilde geçerli kabul edilmez, daima yasal temsilcileri imza atmalıdır.",
+      "B) Görme engellilerin atacağı imzalarda noter onayı kesinlikle şarttır.",
+      "C) Kendi talepleri hâlinde imzalarında şahit aranır; aksi takdirde el yazısı ile atmaları yeterlidir.",
+      "D) İmzalarında her zaman en az iki şahidin bulunması kanuni bir zorunluluktur.",
+      "E) Yalnızca usulüne uygun onaylanmış parmak izi kullanarak işlem yapabilirler, normal el yazısı kullanamazlar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kanunda öngörülen geçerlilik şekline uyulmadan yapılan bir sözleşmenin hukuki yaptırımı nedir ve hâkim tarafından yargılama sürecinde nasıl dikkate alınır?",
+    "options": [
+      "A) İptal edilebilirlik - Sadece taraflardan biri ileri sürerse dikkate alınır.",
+      "B) Kesin hükümsüzlük (Mutlak butlan) - Hâkim tarafından re'sen (kendiliğinden) dikkate alınır.",
+      "C) Tek taraflı bağlamazlık - Hâkim tarafından dikkate alınmaz.",
+      "D) Nispi butlan - Yalnızca zarar gören taraf ileri sürebilir.",
+      "E) Yokluk - Sadece sözleşmenin yazılı olmadığı durumlarda re'sen gözetilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "I. Borcun ifa yeri, tarafların açık veya örtülü iradelerine göre belirlenir.<br>II. Aksine bir anlaşma yoksa, para borçları alacaklının sözleşmenin kurulduğu sıradaki yerleşim yerinde ifa edilir.<br>III. Aksine bir anlaşma yoksa, parça borçları sözleşmenin kurulduğu sırada borç konusunun bulunduğu yerde ifa edilir.<br>IV. Aksine bir anlaşma yoksa, para ve parça borçları dışındaki bütün borçlar, sözleşmenin kurulduğu sırada alacaklının yerleşim yerinde ifa edilir.<br>V. Alacaklının yerleşim yerinde ifası gereken bir borcun doğumundan sonra alacaklının yerleşim yerini değiştirmesi sebebiyle ifa önemli ölçüde güçleşmişse borç, alacaklının önceki yerleşim yerinde ifa edilebilir.<br><br>6098 sayılı Türk Borçlar Kanununa göre ifa yeriyle ilgili yukarıdakilerden hangileri doğrudur?",
+    "options": [
+      "A) I, II ve III",
+      "B) I, III ve V",
+      "C) II, IV ve V",
+      "D) III, IV ve V",
+      "E) I, II, III ve IV"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre aksine bir anlaşma bulunmadığı durumlarda borçların ifa yeriyle ilgili,<br><br>I. Para borçları, alacaklının sözleşmenin kurulduğu sıradaki yerleşim yerinde ifa edilir.<br>II. Parça borçları, sözleşmenin kurulduğu sırada borçlunun bulunduğu yerde ifa edilir.<br>III. Para ve parça borçları dışındaki bütün borçlar, doğumları sırasında borçlunun yerleşim yerinde ifa edilir.<br><br>ifadelerinden hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve III",
+      "E) II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Taraflar arasında 29 Temmuz 2020 tarihinde yapılan sözleşme uyarınca Ali, Ayşe'ye \"Mucize\" isimli bir yarış atını satma borcu altına giriyor. Sözleşmede Ayşe'nin, satış bedeli olan 180.000 TL'yi üç ay sonra ödeyeceği kararlaştırılıyor. Buna göre Ayşe'nin 180.000 TL'yi ödemesi gereken son tarih aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 28 Ekim 2020 Çarşamba",
+      "B) 29 Ekim 2020 Perşembe",
+      "C) 30 Ekim 2020 Cuma",
+      "D) 31 Ekim 2020 Cumartesi",
+      "E) 1 Kasım 2020 Pazar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, süreye bağlı borçlarda vade ve sürenin hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Borcun ifası için sadece ay belirlenmişse bundan o ayın onbeşinci günü anlaşılır.",
+      "B) Sekiz gün olarak belirlenmiş süre, bir haftayı ifade eder.",
+      "C) Borcun ifası için ayın başlangıcı belirlenmişse, bundan ilgili ayın ilk haftasının son günü anlaşılır.",
+      "D) Borcun ifası için ayın sonu belirlenmişse bundan ayın son haftasının ilk günü anlaşılır.",
+      "E) Hafta olarak belirlenmiş süre, son haftanın sözleşmenin kurulduğu güne ismen uyan gününde dolmuş olur."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, borcun ifa yeri konusunda tarafların açık veya örtülü iradeleri yoksa, para borçlarının ifa yeri aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Borcun doğumu sırasında borçlunun yerleşim yerinde",
+      "B) Alacaklının ödeme zamanındaki yerleşim yerinde",
+      "C) Borçlunun ödeme zamanındaki yerleşim yerinde",
+      "D) Sözleşmenin kurulduğu sırada borç konusunun bulunduğu yerde",
+      "E) Sözleşmenin ifası sırasında borç konusunun bulunduğu yerde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre borçların ifasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Borçlu kural olarak borcunu şahsen ifa etmekle yükümlüdür.",
+      "B) Borcun tamamı belli ve muaccel ise alacaklı kısmen ifayı reddedemez.",
+      "C) Çeşit borçlarında hukuki ilişkiden ve işin özelliğinden aksi anlaşılmadıkça, edimin seçimi alacaklıya aittir.",
+      "D) Borçlu edimini kural olarak sürenin sona ermesinden önce ifa edebilir.",
+      "E) Seçimlik borçlarda, hukuki ilişkiden ve işin özelliğinden aksi anlaşılmadıkça, edimlerden birinin seçimi alacaklıya aittir"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, ifa yeri ve zamanı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İfa zamanı veya sürenin son günü, kanunlarda tatil olarak kabul edilen bir güne rastlarsa, kendiliğinden bu günü izleyen ve tatil olmayan ilk güne geçer.",
+      "B) Borcun ifası için ayın ortası belirlenmişse, bundan ayın on beşinci günü anlaşılır.",
+      "C) Aksine bir anlaşma yoksa parça borçları, alacaklının ödeme zamanındaki yerleşim yerinde ifa edilir.",
+      "D) Aksine bir anlaşma yoksa borç, alışılmış iş saatlerinde ifa ve kabul edilir.",
+      "E) İfa zamanı taraflarca kararlaştırılmadıkça veya hukuki ilişkinin özelliğinden anlaşılmadıkça her borç, doğumu anında muaccel olur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'nun, taraflarca ifa yerinin belirlenmediği hâllerde uygulama alanı bulacak hükümlerine göre, aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Parça borçları, ifa zamanında borç konusunun bulunduğu yerde ifa edilir.",
+      "B) Para ve parça borcu dışındaki bütün borçlar, alacaklının ödeme zamanındaki yerleşim yerinde ifa edilir.",
+      "C) Para borçları, borçlunun sözleşmenin kurulduğu sıradaki yerleşim yerinde ifa edilir.",
+      "D) Para borçları, alacaklının ödeme zamanındaki yerleşim yerinde ifa edilir.",
+      "E) Parça borçları, borçlunun sözleşmenin kurulduğu sıradaki yerleşim yerinde ifa edilir"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, aşağıdakilerden hangisi borçlu temerrüdünün kusuru gerektirmeyen sonuçlarından biridir?",
+    "options": [
+      "A) Temerrüt faizi",
+      "B) Gecikme tazminatı",
+      "C) Olumsuz (menfi) zarardan sorumluluk",
+      "D) Aşkın zarardan sorumluluk",
+      "E) Beklenmedik hâlden sorumluluk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre aşağıdakilerden hangisi borçlu temerrüdünde alacaklıya tanınan imkânlardan biri değildir?",
+    "options": [
+      "A) Sözleşme konusunun mahkeme aracılığıyla satılmasını talep etme",
+      "B) Aynen ifayı talep etme",
+      "C) Sözleşmeden dönme",
+      "D) Aynen ifadan vazgeçip olumlu zararı talep etme",
+      "E) Sözleşmeden dönüp olumsuz zararı talep etme"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, temerrüt ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Borçlunun temerrüde düşmesi için mutlaka kusurlu olması gerekir.",
+      "B) Yalnızca ifası mümkün olan borçların ifasındaki gecikme temerrüde yol açabilir.",
+      "C) Borçlunun temerrüde düşmesi için muaccel bir borcu ifa etmemiş olması gerekir.",
+      "D) Belirli vadeli borcun olması, temerrüt sebebiyle borçluya ihtar çekilmesini gereksiz kılar.",
+      "E) Temerrüde düşen borçlu, beklenmedik hâl sebebiyle doğacak zarardan sorumludur."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, alacaklının haklı bir sebep olmaksızın borcu kabulden veya borçlunun borcunu ifa edebilmesi için kendisi tarafından yapılması gereken hazırlık fiillerini yapmaktan kaçınması durumuna ne denir?",
+    "options": [
+      "A) Mahsup",
+      "B) Alacaklının temerrüdü",
+      "C) Kusursuz sorumluluk",
+      "D) Ödemezlik def'i",
+      "E) Seçimlik borç"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanununa göre, aşağıdaki sorumsuzluk anlaşmalarından hangisi sözleşmeden doğan borçlarda kesin hükümsüzlük yaptırımına bağlanmamıştır?",
+    "options": [
+      "A) Borçlunun alacaklı ile hizmet sözleşmesinden kaynaklanan herhangi bir borç sebebiyle sorumlu olmayacağına ilişkin olarak önceden yaptığı anlaşma",
+      "B) Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşma",
+      "C) Uzmanlık gerektiren bir hizmetin ancak kanun tarafından verilen izinle yürütülebildiği durumlarda borçlunun hafif kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşma",
+      "D) Uzmanlık gerektirmeyen mesleklerde borçlunun kendisine yardımcı kişilerin hafif kusurlu fiillerinden sorumlu olmayacağına ilişkin önceden yapılan anlaşma",
+      "E) Uzmanlık gerektiren bir hizmetin ancak yetkili makamlar tarafından verilen izinle yürütülebildiği durumlarda borçlunun hafif kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşma"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, borçlunun ağır kusurundan sorumlu olmayacağına ilişkin anlaşmanın hukuki sonucu aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      "A) Yokluk yaptırımına tabidir.",
+      "B) İptal edilebilirlik yaptırımına tabidir.",
+      "C) Yalnızca borçlunun tacir olduğu durumlarda geçerlidir; bunun dışındaki hâllerde iptal edilebilirlik yaptırımına tabidir.",
+      "D) Kesin olarak hükümsüzdür.",
+      "E) Her zaman geçerlidir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, sözleşme ile belirlenebilecek akdi temerrüt faizi oranı için öngörülen yasal sınır aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      "A) Yıllık yasal temerrüt faizi oranının %100 fazlasını aşamaz.",
+      "B) Yıllık yasal temerrüt faizi oranının %50 fazlasını aşamaz.",
+      "C) Yıllık yasal temerrüt faizi oranını aşamaz.",
+      "D) Yıllık yasal kapital (anapara) faizi oranını aşamaz.",
+      "E) Yıllık yasal temerrüt faizi oranının %50'sini aşamaz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, sorumsuzluk anlaşmaları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Uzmanlığı gerektiren bir hizmet, meslek veya sanat, ancak kanun ya da yetkili makamlar tarafından verilen izinle yürütülebiliyorsa, borçlunun hafif kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşma kesin olarak hükümsüzdür.",
+      "B) Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden yapılan anlaşma kesin olarak hükümsüzdür.",
+      "C) Yardımcı kişilerin fiilinden doğan sorumluluk, önceden yapılan bir anlaşmayla tamamen veya kısmen kaldırılamaz.",
+      "D) Sorumsuzluk anlaşması, alacaklı yönünden bir tasarruf işlemi; borçlu yönünden ise bir kazandırıcı işlemdir.",
+      "E) Borçlunun alacaklı ile hizmet sözleşmesinden kaynaklanan herhangi bir borç sebebiyle sorumlu olmayacağına ilişkin olarak önceden yaptığı her türlü anlaşma kesin olarak hükümsüzdür."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, \"bir borç ilişkisinde birden fazla borçlunun her birinin borcun tamamından sorumlu olması\"nı ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kısmi borçluluk",
+      "B) Ferdi borçluluk",
+      "C) Paylı borçluluk",
+      "D) Feri borçluluk",
+      "E) Müteselsil borçluluk"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "B ve C; A'dan almış oldukları 200.000 TL tutarındaki borcun tamamından sorumlu olmayı kabul ettiklerini A'ya bildirir. 6098 sayılı Türk Borçlar Kanunu'na göre olayla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) B ve C arasında müteselsil borçluluk vardır.",
+      "B) A, borcun tamamının ifasını B'den isteyebilir.",
+      "C) B, A'ya karşı A ile C arasındaki kişisel ilişkilerden doğan defi ve itirazları ileri süremez",
+      "D) B, A'ya karşı ortak defi ve itirazları ileri sürmezse C'ye Karşı sorumlu olur.",
+      "E) Zaman aşımı, B'ye karşı kesilince C'ye karşı kesilmiş olmaz"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, sözleşmelerin koşula bağlanması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Geciktirici koşula bağlı bir sözleşmede borcun konusunu oluşturan şey, koşulun gerçekleşmesinden önce kendisine verilen alacaklı, koşul gerçekleştiğinde, koşulun gerçekleşmesine kadar elde ettiği yararların sahibi olamaz bunları karşı tarafa teslim etmekle yükümlüdür.",
+      "B) Aksi kararlaştırılmamışsa, geciktirici koşula bağlı sözleşme, ancak koşulun gerçekleştiği andan başlayarak hüküm ifade eder.",
+      "C) Bir koşul, hukuka veya ahlaka aykırı bir yapma veya yapmama fiilini sağlamak amacıyla konulmuşsa, bu koşula bağlı hukuki işlem kesin olarak hükümsüzdür.",
+      "D) Bozucu koşula bağlanmış sözleşmenin hükümleri, koşulun gerçekleştiği anda ortadan kalkar, aksi kararlaştırılmadıkça veya işin niteliğinden anlaşılmadıkça sona erme, geçmişe etkili olmaz.",
+      "E) Taraflardan biri, geciktirici nitelikteki koşulun gerçekleşmesine dürüstlük kurallarına aykırı olarak engel olursa, koşul gerçekleşmiş sayılır."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir sözleşmenin hüküm ifade etmesi, gerçekleşip gerçekleşmeyeceği bilinmeyen bir olguya bırakılmışsa sözleşme geciktirici koşula bağlanmış olur. 6098 sayılı Türk Borçlar Kanunu'na göre geciktirici koşula bağlanan sözleşmelerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Koşula bağlı hakkı tehlikeye düşürülen alacaklı, koşul gerçekleşmedikçe hiçbir önlem alamaz.",
+      "B) Koşul, taraflardan birinin bizzat yerine getirmesi gerekli bir davranış değilse o tarafın ölümü hâlinde mirasçısı onun yerine geçebilir.",
+      "C) Taraflardan biri, koşulun gerçekleşmesine dürüstlük kurallarına aykırı olarak engel olursa koşul gerçekleşmiş sayılır.",
+      "D) Borcun konusunu oluşturan şey, koşulun gerçekleşmesinden önce kendisine verilen alacaklı, koşul gerçekleşmezse elde ettiği yararları geri vermekle yükümlü olur.",
+      "E) Koşulun gerçekleşmesinden önce yapılan tasarruflar, koşulun hükümlerini zedelediği oranda geçersiz olur."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanununa göre, sözleşmelerin koşula bağlanması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bir koşul, hukuka veya ahlaka aykırı bir yapma veya yapmama fiilini sağlamak amacıyla konulmuşsa koşul yazılmamış sayılır; koşulun bağlandığı hukuki işlem geçerlidir.",
+      "B) Aksi kararlaştırılmamışsa, geciktirici koşula bağlı sözleşme, ancak koşulun gerçekleştiği andan başlayarak hüküm ifade eder.",
+      "C) Koşulun gerçekleşmesinden önce yapılan tasarruflar, koşulun hükümlerini zedelediği oranda geçersiz olur.",
+      "D) Koşul, taraflardan birinin bizzat yerine getirmesi gerekli bir davranış değilse, o tarafın ölümü hâlinde mirasçısı onun yerine geçebilir.",
+      "E) Taraflardan biri, koşulun gerçekleşmesine dürüstlük kurallarına aykırı olarak engel olursa, koşul gerçekleşmiş sayılır."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, ceza Koşuluyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kararlaştırılan cezanın ifasının istenebilmesi için alacaklının zarara uğramış olması gerekir.",
+      "B) Bir sözleşmenin hiç veya gereği gibi ifa edilmemesi durumu için bir ceza kararlaştırılmışsa, aksi sözleşmeden anlaşılmadıkça alacaklıya borcun yada Cezanın ifasını isteyebilir.",
+      "C) Hâkim, aşırı gördüğü ceza koşulunu kendiliğinden indirir.",
+      "D) Ceza, borcun belirlenen zaman veya yerde ifa edilmemesi durumu için kararlaştırılmışsa alacaklı, hakkından açıkça feragat etmiş veya ifayı çekincesiz olarak kabul etmiş olmadıkça, asıl borçla birlikte cezanın ifasınıda isteyebilir.",
+      "E) Asıl borç herhangi bir sebeple geçersiz ise veya aksi kararlaştırılmadıkça sonradan borçlunun sorumlu tutulamayacağı bir sebeple imkânsız hâle gelmişse, cezanın ifası istenemez."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre ceza koşuluyla ilgili aşağıdakı fadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Ceza koşulunun geçersiz olması asıl borcun geçerliliğini etkilemez.",
+      "B) Hâkim, aşırı gördüğü ceza koşulunu ancak borçlunun istemi halinde indirebilir.",
+      "C) Alacaklının uğradığı zarar kararlaştırılan ceza tutarını aşıyorsa alacaklı, borçlunun kusuru bulunduğunu ispat etmedikçe aşan miktarı isteyemez.",
+      "D) Alacaklı hiçbir zarara uğramamış olsa bile kararlaştırılan cezanın ifası gerekir.",
+      "E) Ceza, borcun belirlenen yerde ifa edilmemesi durumu için kararlaştırılmışsa alacaklı, ifayı çekincesiz olarak kabul etmiş olmadıkça asıl borçla birlikte cezanın ifasını da isteyebilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanununa göre, alacağın devrine ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Alacağın devri için borçlunun rızası aranmaz.",
+      "B) Alacağın devri bir tasarruf işlemidir.",
+      "C) Alacağın devrinin geçerliliği yazılı şekilde yapılmış olmasına bağlıdır.",
+      "D) İvazlı devirlerde, devreden, devir sırasında alacağın varlığını garanti etmiş olur.",
+      "E) Alacağın devri neticesinde bu alacağa ilişkin faiz alacakları yeni alacaklıya geçmez."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, \"alacağın devri\"ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Alacağın devri kanun veya mahkeme kararı gereğince gerçekleşmişse, bu devir özel bir şekle ve önceki alacaklının rızasını açıklamasına gerek olmaksızın, üçüncü kişilere karşı ileri sürülebilir.",
+      "B) Alacağın devrinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır.",
+      "C) Alacaklı, borçlunun açık rızasını almaksızın alacağını üçüncü bir kişiye devredemez.",
+      "D) Alacağın devri sözü verme, şekle bağlı değildir.",
+      "E) Alacağın devri ile birlikte asıl alacakla birlikte işlemiş faizler de devredilmiş sayılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, alacağın devrinin geçerlilik şekli ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Noter tarafından onaylanması gereken yazılı şekil",
+      "B) Adi yazılı şekil",
+      "C) Noter tarafından düzenlenmesi gereken yazılı şekil",
+      "D) Sözlü şekil",
+      "E) Şekil serbestisi ilkesine tabi olup, tarafların istediği şekil"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, alacağın iradî (sözleşmesel)devri hakkındaki genel hükümlere göre aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Borçlunun, alacağın devrine rıza göstermesi aranmaz.",
+      "B) Alacağın devrinde asıl alacakla birlikte işlemiş faizlerde devredilmiş sayılır.",
+      "C) Borçlu, kural olarak, devri öğrendiği sırada eski alacaklıya karşı sahip olduğu alacakla ilgili tüm itiraz ve def'ileri yeni alacaklıya karşı da ileri sürebilir.",
+      "D) Alacağın devri bir ivaz(bedel) karşılığında yapılmışsa, devreden alacaklı, açıkça garanti etmiş olmadıkça, alacağın varlığından yada borçlunun ödeme gücünden sorumlu olmayacaktır.",
+      "E) Alacağın devri sözleşmesinin alacağı devreden alacaklı ile devralan üçüncü kişi arasında yazılı şekilde yapılmış olması gerekir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu m. 99/III'e göre, ülke parası dışında başka bir para birimiyle belirlenmiş ve sözleşmede aynen ödeme ya da bu anlama gelen bir ifade de bulunmadıkça, borcun ödeme gününde ödenmemesi üzerine alacaklı, bu alacağının aynen veya vade ya da fiilî ödeme günündeki rayiç üzerinden ülke parası ile ödenmesini isteyebilir. Söz konusu hükümde alacaklıya tanınan seçim imkânı, aşağıdakilerden hangisine örnek oluşturmaktadır?",
+    "options": [
+      "A) Seçimlik borç",
+      "B) İfa yerine edim",
+      "C) Kanuni seçimlik yetki",
+      "D) Ayni edim",
+      "E) Gecikme tazminatı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "\"Avukat (A), müvekkili (M) ile vekalet sözleşmesi akdetmiştir. Sözleşmeye göre (M) vekalet ücreti olan 20.000 Ł'yi, (A)'nın ofisinde işçi olarak çalışarak veya (A)'ya belirli bir mal vermek suretiyle ödeyebilecektir.\" 6098 sayılı Türk Borçlar Kanununa göre yukarıda verilen olaydaki sözleşmede vekalet ücretinin ödenmesi bakımından (M)'ye tanınan imkân aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İfa uğruna edim",
+      "B) Seçimlik borç",
+      "C) İfa amacıyla edim",
+      "D) Seçimlik yetki",
+      "E) Kısmi ifa"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre, aşağıdakilerden hangisi yenilik doğuran hakların özelliklerinden biri değildir?",
+    "options": [
+      "A) Devredilmesi mümkün olmayan haklardandır.",
+      "B) Yenilik doğuran haklardan, kullanıldıktan sonra dönmek mümkün değildir.",
+      "C) İlke olarak şarta bağlanamazlar.",
+      "D) İlke olarak zamanaşımına bağlı olmayıp, hak düşürücü süreye tabidirler.",
+      "E) Bir defa kullanılmakla tükenen, sona eren haklardır."
+    ],
+    "answer": 0
+  }
+ ],
+    "B - İş Hukuku||1- İş Hukukuna Giriş": [
     {
       "q": "Aşağıdaki işçilerden hangisi 4857 sayılı İş Kanunu’nun kapsamında yer almaz?",
       "options": [
@@ -4305,6 +4857,437 @@
       "answer": 1
     }
   ],
+  "B - İş Hukuku||Çalışma Soruları (MCH)": [
+  {
+    "q": "İlkay, 15 işçinin çalıştığı bir gerçek kişiye ait olan işyerinde 2 yıldan beri lojistik uzmanı sıfatıyla işçi olarak çalışmaktadır. İşveren, farklı bir ülkede yaşama gerekçesiyle iş yerini başka bir gerçek kişiye devreder. İlkay'ın devirden önceki çalışmaları nedeniyle hak ettiği fakat ödeme günü gelmiş olmasına rağmen henüz ödenmemiş fazla çalışma alacağı mevcuttur.<br><br>4857 sayılı İş Kanunu'na göre olayla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Devir tarihinde 15 işçinin iş sözleşmeleri bütün hak ve borçlarıyla birlikte devralan işverene geçer.",
+      "B) Devralan işveren, İlkay'ın hizmet süresinin esas alındığı haklarda İlkay'ın devreden işveren yanında işe başladığı tarihe göre işlem yapmakla yükümlüdür.",
+      "C) İlkay sadece iş yerinin devrini gerekçe göstererek iş sözleşmesini haklı nedenle derhål feshedebilir.",
+      "D) Devralan işveren, işçilerin iş sözleşmelerini sırf iş yerinin devrinden dolayı feshedemez.",
+      "E) İlkay'ın fazla çalışma alacağından devreden ve devralan işveren devir tarihinden itibaren 2 yıl süreyle birlikte sorumludurlar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşyerinin devrinin iş ilişkilerine etkisiyle ilgili aşağıdakilerden hangisi söylenemez?",
+    "options": [
+      "A) İşyerinin devriyle birlikte devir tarihinde mevcut olan iş sözleşmeleri tüm hak ve borçlarıyla yeni işverene geçer.",
+      "B) İş akdinin devirden sonra sona erdiği durumlarda kıdem tazminatı işçinin devreden ve devralan işverenin yanında geçirdiği sürelerin toplamı üzerinden hesaplanır ve tamamından devralan işveren tek başına sorumlu olur.",
+      "C) Devir tarihinden önce doğmuş ve devir tarihinde ödenmesi gereken borçlardan devreden ve devralan işveren, devir tarihinden itibaren 2 yıl birlikte sorumludur.",
+      "D) Devralan işveren, sırf işyerinin devrine dayanarak iş sözleşmesini haklı sebeple feshedemez.",
+      "E) İşyerinin devri dolayısıyla çalışma koşullarında esaslı değişiklik meydana gelmişse, işçi 4857 sayılı İş Kanunu madde 22'de düzenlenen değişiklik feshine başvurabilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre iş yerinin devriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) İş yeri hukuki bir işleme dayalı olarak başka birine devredildiğinde, devir tarihinde iş yerinde mevcut olan iş sözleşmeler bütün hak ve borçları ile birlikte devralana geçer.",
+      "B) Devralan işveren, işçinin hizmet süresinin esas alındığı haklarda, işçinin devreden işveren yanında işe başladığı tarihe göre işlem yapmakla yükümlüdür.",
+      "C) Devirden önce doğmuş olan ve devir tarihinde ödenmesi gereken borçlardan, devreden işveren, devir tarihinden itibaren iki yıl süreyle devralan işveren le beraber kural olarak sorumludur.",
+      "D) Tüzel kişiliğin birleşme katılma veya türünün değişmesiyle sona ermesi halinde eski yöneticiler üç yıl süreye devralan işverenle beraber sorumludur.",
+      "E) Devreden veya devralan işveren, iş sözleşmesini sırf iş yerinin devrinden dolayı kural olarak feshedemez."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 4857 sayılı İş Kanunu'nun kapsamının dışında olduğu açıkça öngörülen iş veya iş ilişkilerinden biri değildir?",
+    "options": [
+      "A) Ev hizmetleri",
+      "B) Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı işleri",
+      "C) Deniz ve hava taşıma işleri",
+      "D) Havacılığın bütün yer tesislerinde yürütülen işler",
+      "E) 50'den az işçi çalıştırılan (50 dahil) tarım ve orman işlerinin yapıldığı işyerleri veya işletmeleri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 Sayılı kanuna göre çağrı üzerine çalışmalar ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Çağrı üzerine çalıştırılmak için belirlenen sürede işçi çalıştırılmasa dahi ücrete hak kazanır.",
+      "B) Çağrı üzerine çalışma içeren iş akitleri yazılı yapılmalıdır.",
+      "C) İşveren yapacağı çağrıyı en az 2 gün önceden yapmalıdır.",
+      "D) Aksi kararlaştırılmamış oldukça işçinin haftada 20 saat çalışacağı kabul edilir.",
+      "E) Aksi kararlaştırılmadıkça her bir çağrıda üst üste en az 4 saat çalışma yapılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Elara'nın Gaziantep'te bulunan dikiş atölyesinde 110 tam süreli, 20 de kısmi süreli çalışan personel bulunmaktadır. Kısmi süreli çalışan personel yarım gün mesai yapmaktadır.<br><br>4857 sayılı İş Kanunu'na göre bu iş yerinde çalıştırması gereken engelli işçi sayısı kural olarak en az kaçtır?",
+    "options": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 6",
+      "E) 7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, işverenler, elli veya daha fazla işçi çalıştırdıkları özel sektör işyerlerinde, toplam çalışan sayılarının yüzde 3 kadar engelli çalıştırmakla yükümlüdürler.<br><br>Bu yükümlülük kapsamında işverenin toplam çalışan sayısının belirlenmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İşverenin aynı iş kolundaki tüm işyerlerinde çalışanlar hesaba katılır.",
+      "B) İşyerinin işçisi iken engelli hâle gelenlere öncelik tanınır.",
+      "C) Sadece belirsiz süreli iş sözleşmesi ile çalışanlar hesaba katılır.",
+      "D) Sadece belirli süreli iş sözleşmesi ile çalışanlar hesaba katılır.",
+      "E) Kısmî süreli iş sözleşmesi ile çalışanlar hesaba katılmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre engelli işçi çalıştırma zorunluluğuyla ilgili<br><br>I. Yer altı ve su altı işlerinde engelli işçi çalıştırılamaz.<br>II. Bir iş yerinde çalıştırılacak engelli işçi sayısının tespitinde sadece belirsiz süreli iş sözleşmesine göre çalıştırılan işçiler esas alınır.<br>III. İş yerinin işçisiyken engelli hâle gelenlere öncelik tanınır.<br><br>ifadelerinden hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve III",
+      "E) II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, yeni iş arama izniyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bildirim süreleri içinde işveren, işçiye yeni bir iş bulması için gerekli olan iş arama iznini iş saatleri içinde ve ücret kesintisi yapmadan vermeye mecburdur.",
+      "B) İş sözleşmesini bildirim süresi vererek fesheden işçi de yeni iş arama izninden yararlanabilir.",
+      "C) İş arama izninin süresi günde iki saatten az olamaz.",
+      "D) İş arama iznini toplu kullanmak isteyen işçi, bunu işten ayrılacağı günden evvelki günlere rastlatmak ve bu durumu işverene bildirmek zorundadır.",
+      "E) Bildirim süresini kullandırmakla birlikte iş arama izni esnasında işçiyi çalıştıran işveren, bildirim süresine ilişkin ücret tutarında tazminat ödemek zorundadır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, iş sözleşmesinin süreli feshine ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bildirim süresi içerisinde verilecek yeni iş arama izni günde iki saatten az olamaz.",
+      "B) Yasada düzenlenen bildirim süreleri sözleşmelerle artırılabilir.",
+      "C) Bildirim şartına uymayan işçiden ihbar tazminatı talep edilemez, yalnızca işverenin zararı varsa genel hükümlere göre tazmini talep edilebilir.",
+      "D) İşveren bildirim süresine ait ücreti peşin vermek suretiyle iş sözleşmesini feshedebilir.",
+      "E) İhbar tazminatının zamanaşımı süresi 5 yıldır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, aşağıdakilerden hangisi işverenin iş sözleşmesini haklı nedenle derhal fesih hakkına sahip olduğu hâller arasında yer almaz?",
+    "options": [
+      "A) İşçinin işverenin başka bir işçisine cinsel tacizde bulunması",
+      "B) İşçinin işyerine sarhoş gelmesi",
+      "C) İşçinin işyerine uyuşturucu madde almış olarak gelmesi",
+      "D) İşçinin işveren tarafından uygun görülmemesine rağmen işyeri sendika temsilciliği yapmaya başlaması",
+      "E) İş sözleşmesi yapıldığı sırada bu sözleşmenin esaslı noktalarından biri hakkında işçinin gerçeğe uygun olmayan bilgiler vererek işvereni yanıltması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, iş güvencesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Restoranın, torna atölyesi olarak kullanılmaya başlanmasına karar verilmesi sebebiyle, yapılacak yeni işte çalışmaya uygun olmayan işçilerin iş sözleşmesini feshedecek işverenin, bu işçilerin savunmasını alması zorunludur.",
+      "B) İş sözleşmesinin feshinin mahkemece geçersiz sayılmasına rağmen işçinin işe başlatılmaması hâlinde ödenecek tazminatın, işçinin 12 aylık ücreti tutarında olacağı iş iş sözleşmeleriyle geçerli olarak kararlaştırılabilir.",
+      "C) Aynı işverene ait bir pastanede 4 ay çalıştıktan sonra aynı işverene ait bir hastanede 5 aydır çalışmaktayken iş sözleşmesi feshedilen işçi, iş güvencesine sahip olmak için diğer koşulları taşıması durumunda iş güvencesinden yararlanabilir.",
+      "D) İş güvencesi kapsamındaki bir işçi, fesih bildiriminde sebep gösterilmediği veya gösterilen sebebin geçerli bir sebep olmadığı iddiası ile fesih bildiriminin tebliği tarihinden itibaren bir ay içinde İş Mahkemesinde işe iade davası açabilir.",
+      "E) Bir işverenin 15 kişinin çalıştığı bir torna atölyesi ve 20 kişinin çalıştığı bir restoranı olması durumunda her iki işyerinde çalışan işçiler de iş güvencesi kapsamında olur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İş güvencesinin kapsamındaki işçi Berat'ın iş sözleşmesi fesih bildiriminde geçerli bir sebep gösterilmeksizin bildirim süresi verilerek feshedilir. Mahkemece, feshin usule uygun olarak yapılmadığı tespit edilerek feshin geçersizliğine karar verilir. Fakat işveren, Berat'ın başvurusu üzerine kendisini 1 ay içinde işe başlatmaz.<br><br>4857 sayılı İş Kanunu'na göre işe iade kararı veren mahkeme, usulüne uygun başvurusuna rağmen süresinde işçiyi işe başlatmayan işvereni kural olarak en az kaç aylık ücreti tutarında iş güvencesi tazminatı ödemekle yükümlü kılabilir?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4",
+      "E) 6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanununa göre aşağıdakilerden hangisi işverene haklı nedenle derhal fesih hakkı veren hâllerden biri değildir?",
+    "options": [
+      "A) İş sözleşmesinin konusu olan işin yapılmasının işin niteliğinden doğan bir sebeple işçinin sağlığı veya yaşayışı için tehlikeli olması",
+      "B) İşçinin işverenin başka bir işçisine cinsel tacizde bulunması",
+      "C) İşçinin yapmakla ödevli bulunduğu görevleri kendisine hatırlatıldığı hâlde yapmamakta ısrar etmesi",
+      "D) İşçinin gözaltına alınması veya tutuklanması hâlinde devamsızlığın Kanun'da öngörülen bildirim süresini aşması",
+      "E) İşçiyi işyerinde bir haftadan fazla süre ile çalışmaktan alıkoyan zorlayıcı bir sebebin ortaya çıkması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi kıdem tazminatına hak kazandıran nedenlerden biri değildir?",
+    "options": [
+      "A) İşçinin iş sözleşmesini 4857 sayılı İş Kanunu'nun 17. maddesine göre süreli fesih yoluyla sona erdirmesi",
+      "B) Kadın işçinin evlendiği tarihten itibaren bir yıl içerisinde kendi arzusu ile işten ayrılması",
+      "C) İşçinin ölümü",
+      "D) İşçinin muvazzaf askerlik hizmeti dolayısıyla işten ayrılması",
+      "E) İşçinin bağlı bulunduğu kanunla kurulu kurum veya sandıklardan yaşlılık, emeklilik veya malûllük aylığı yahut toptan ödeme almak amacıyla işten ayrılması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşveren, iş sözleşmesiyle veya iş sözleşmesinin eki niteliğindeki personel yönetmeliği ve benzeri kaynaklar ya da iş yeri uygulamasıyla oluşan çalışma koşullarında esaslı bir değişikliği ancak durumu işçiye yazılı olarak bildirmek suretiyle yapabilir.<br><br>4857 sayılı İş Kanunu'na göre yukarıdaki şekle uygun olarak yapılan çalışma koşullarındaki değişiklik bildirimi, işçi tarafından kural olarak kaç iş günü içinde yazılı olarak kabul edilmezse değişiklikler işçiyi bağlamaz?",
+    "options": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6",
+      "E) 7"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, işçinin ücret alacağı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Gününde ödenmeyen ücretler için mevduata uygulanan en yüksek faiz oranı uygulanır.",
+      "B) Aynı veya eşit değerde bir iş için cinsiyet nedeniyle daha düşük ücret kararlaştırılamaz.",
+      "C) Ücreti ödeme gününden itibaren yirmi gün içinde mücbir bir neden dışında ödenmeyen işçi, iş görme borcunu yerine getirmekten kaçınabilir.",
+      "D) Ücret alacaklarında zamanaşımı süresi iş akdinin sona erdiği tarihten itibaren yirmi yıldır.",
+      "E) İşçilerin aylık ücretlerinin dörtte birinden fazlası haczedilemez veya başkasına devir ve temlik olunamaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, ücrete ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Gününde ödenmeyen ücretler için mevduata uygulanan en yüksek faiz oranı uygulanır.",
+      "B) İşçilerin aylık ücretlerinin üçte birinden fazlası haczedilemez.",
+      "C) Asgari ücret 4857 sayılı İş Kanunu kapsamı dışındaki işçilere uygulanmaz.",
+      "D) Ücret alacaklarında zamanaşımı süresi on yıldır.",
+      "E) Ücretin işveren dışındaki üçüncü kişiler tarafından ödenmesi yasaktır."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "I. İşçinin işveren tarafından başka bir yere gönderilmesi veya işverenin evinde veya bürosunda yahut işverenle ilgili herhangi bir yerde meşgul edilmesi suretiyle asıl işini yapmaksızın geçirdiği süreler.<br>II. Çocuk emziren kadın işçilerin çocuklarına süt vermeleri için belirtilecek süreler.<br>III. Ara dinlenmelerinde geçen süreler.<br>IV. İşçinin işinde ve her an iş görmeye hazır bir halde bulunmakla beraber çalıştırılmaksızın ve çıkacak işi bekleyerek boş geçirdiği süreler.<br>V. İşçilerin işveren tarafından işyerlerinden başka bir yerde çalıştırılmak üzere gönderilmeleri halinde yolda geçen süreler.<br><br>Yukarıdakilerden hangisi/hangileri 4857 sayılı İş Kanunu'nda yer alan çalışma süresinden sayılan hâllerden değildir?",
+    "options": [
+      "A) Yalnız II",
+      "B) Yalnız III",
+      "C) I ve IV",
+      "D) I ve V",
+      "E) II, III ve V"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, günlük çalışma süresi 6 saat olan bir işyerinde ara dinlenme süresi en az ne kadardır?",
+    "options": [
+      "A) On beş dakika",
+      "B) Yarım saat",
+      "C) Kırk beş dakika",
+      "D) Bir saat",
+      "E) Bir buçuk saat"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, 2020 yılında hak kazandığı yıllık iznini kullanamadan işçinin iş sözleşmesinin Nisan 2023'de işverence feshedildiği bir durumda, hak kazanılıp da kullanılamayan yıllık ücretli izin alacağının zamanaşımı süresiyle ilgili aşağıda belirtilen ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Yıllık ücretli izin alacağının zamanaşımı süresi 2020 yılının sonundan itibaren başlar ve beş yıldır.",
+      "B) Yıllık ücretli izin alacağının zamanaşımı süresi iş sözleşmesinin sona erdiği Nisan 2023 'te başlar ve beş yıldır.",
+      "C) Yıllık ücretli izin alacağının zamanaşımı süresi 2020 yılının sonundan itibaren başlar ve on yıldır.",
+      "D) Yıllık ücretli izin alacağının zamanaşımı süresi iş sözleşmesinin sona erdiği tarihte başlar ve on yıldır.",
+      "E) Yıllık ücretli izin alacağının zamanaşımı süresi işçinin işverene çekeceği ihtar ile başlar ve on yıldır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "55 yaşındaki İsmail, 16 yıldır İdil'e ait kuru temizlemecide çalışmaktadır.<br><br>4857 sayılı İş Kanunu'na göre İsmail'e verilmesi gereken yıllık ücretli izin süresi kural olarak en az kaç gündür?",
+    "options": [
+      "A) 18",
+      "B) 20",
+      "C) 24",
+      "D) 26",
+      "E) 30"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanununa göre fazla çalışmaya ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Her bir saat fazla çalışma için verilecek ücret normal çalışma ücretinin saat başına düşen miktarının yüzde yirmi beş yükseltilmesi suretiyle ödenir.",
+      "B) Fazla çalışma süresinin toplamı bir yılda ikiyüzyetmiş saatten fazla olamaz.",
+      "C) İşveren isterse, fazla çalışma ücreti ödemek yerine işçilere serbest zaman kullandırabilir.",
+      "D) Fazla saatlerle çalışmak için işçinin onayı aranmaz.",
+      "E) Fazla çalışma Kanun'da yazılı koşullar çerçevesinde, haftalık kırk saati aşan çalışmalardır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, yer altında maden işlerinde çalışan işçilere kanuni haftalık çalışma sürelerini aşan her bir saat fazla çalışma için verilecek ücret, normal çalışma ücretinin saat başına düşen miktarının yüzde kaçtan az olmamak üzere artırılmasıyla ödenir?",
+    "options": [
+      "A) 25",
+      "B) 50",
+      "C) 75",
+      "D) 100",
+      "E) 150"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, aşağıdakilerin hangisinde işçiye beş gün ücretli mazeret izni verilir?",
+    "options": [
+      "A) İşçinin eşinin doğum yapması hâlinde",
+      "B) İşçinin evlat edinmesi hâlinde",
+      "C) İşçinin çocuğunun ölümü hâlinde",
+      "D) İşçinin evlenmesi hâlinde",
+      "E) İşçinin ana veya babasının ölümü hâlinde"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, analık ve doğum izinleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Kadın işçilerin doğumdan önce sekiz ve doğumdan sonra sekiz hafta olmak üzere toplam on altı haftalık süre için çalıştırılmamaları esastır.",
+      "B) Sağlık durumu uygun olduğu takdirde, doktorun onayı ile kadın işçi isterse doğuma kadar işyerinde çalışabilir.",
+      "C) Kadın işçinin çalıştığı için kullanmadığı izin süreleri doğum sonrası izin sürelerine eklenir.",
+      "D) Kadın işçinin erken doğum yapması halinde ise doğumdan önce kullanamadığı çalıştırılmayacak süreler, doğum sonrası sürelere eklenmek suretiyle kullandırılır.",
+      "E) Doğumda veya doğum sonrasında annenin ölümü hâlinde, doğum sonrası kullanılamayan süreler babaya kullandırılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Doğumdan önce sekiz ve doğumdan sonra sekiz hafta olmak üzere toplamda 16 haftalık yasal doğum iznini kullanan kadın işçinin bu süreler bittikten sonra 4857 sayılı İş Kanunu'na göre talepte bulunabileceği ücretsiz iznin azami süresi ne kadardır?",
+    "options": [
+      "A) 3 ay",
+      "B) 6 ay",
+      "C) 1 yıl",
+      "D) 18 ay",
+      "E) 2 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'nun 4/1(a) bendi, 'hizmet akdiyle bir veya birden fazla işveren tarafından çalıştırılanlar'ı kapsar. Bu bent kapsamında sigortalı sayılanlara ilişkin hükümler aşağıdakilerden hangileri hakkında da uygulanır?<br><br>I. Türkiye İş Kurumu tarafından düzenlenen Toplum Yararına Çalışma Programlarından yararlananlar<br>II. Köy ve mahalle muhtarları<br>III. İşçi sendikaları ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına seçilenler<br>IV. Millî Eğitim Bakanlığı tarafından düzenlenen kurslarda usta öğretici olarak çalıştırılanlar<br>V. Askerlik hizmetlerini er ve erbaş olarak yapmakta olanlar",
+    "options": [
+      "A) I ve III",
+      "B) II, IV ve V",
+      "C) I, II ve III",
+      "D) I, III ve IV",
+      "E) II, III ve V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, aşağıdakilerden hangisi kısa ve uzun vadeli sigorta kollarından yararlanır?",
+    "options": [
+      "A) Kamu idarelerinde ders ücreti karşılığı görev verilenler",
+      "B) İşverenin işyerinde ücretsiz çalışan eşi",
+      "C) Sağlık hizmet sunucuları tarafından işe alıştırılmakta olan veya rehabilite edilen, hasta veya malûller",
+      "D) Askerlik hizmetlerini er ve erbaş olarak yapmakta olanlar",
+      "E) Yüksek okullarda fiilen normal eğitim süreleri içinde yapılan, tatbikî mahiyetteki yapım ve üretim işlerinde çalışan öğrenciler"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre aşağıdakilerden hangisi sosyal sigortalı sayılmaz?",
+    "options": [
+      "A) Askerlik hizmetlerini er ve erbaş olarak yapmakta olanlar",
+      "B) Köy ve mahalle muhtarları",
+      "C) İşçi sendikaları ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına seçilenler",
+      "D) Millî Eğitim Bakanlığı tarafından düzenlenen kurslarda usta öğretici olarak çalıştırılanlar",
+      "E) Türkiye İş Kurumu tarafından düzenlenen Toplum Yararına Çalışma Programlarından yararlananlar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, kısa ve uzun vadeli sigorta kolları bakımından sigortalılığın sona erme tarihi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Hizmet akdi ile bir veya birden fazla işveren tarafından çalıştırılanların hizmet akdinin sona erdiği tarihten itibaren sona erer.",
+      "B) Köy ve mahalle muhtarlarının, muhtarlık görevlerinin sona erdiği tarihten itibaren sona erer.",
+      "C) Herhangi bir yabancı ülkede ikamet eden ve o ülke mevzuatı kapsamında sigortalı olarak çalışmaya başladığı veya ikamet esasına bağlı olarak, o ülke sosyal güvenlik sistemine dâhil olduğu tarihten itibaren sona erer.",
+      "D) Köy ve mahalle muhtarlarından; kendi adına ve hesabına bağımsız çalışmasından dolayı gelir vergisi mükellefiyeti bulunanlar hariç, aynı zamanda hizmet akdi ile çalışanların sigortalılığı çalışmaya başladığı tarihten bir gün öncesinden itibaren sona erer.",
+      "E) 6132 sayılı Kanun'a tabi jokey ve antrenörler için, lisansları yenilenmeyenlerin lisanslı oldukları yılın sonundan itibaren sona erer."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre aşağıdakilerden hangisi yurt içinde geçen hizmetlerin borçlanılmasına konu olabilecek sürelerden değildir?",
+    "options": [
+      "A) Ücretsiz doğum ya da analık izni süreleri",
+      "B) Er veya erbaş olarak silah altında geçen süreler",
+      "C) Sigortalı olmaksızın avukatlık stajını yapanların normal staj süreleri",
+      "D) Ev kadını olarak geçirilen süreler",
+      "E) Hekimlerin fahrî asistanlıkta geçen süreleri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, sigortalılık ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İşverenin işyerinde ücretsiz çalışan eşi sigortalı sayılmaz.",
+      "B) İşçi sendikaları ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına seçilenler, hizmet akdine göre çalışanlar gibi sigortalı olurlar.",
+      "C) İsteğe bağlı sigortalı olabilmek için Türkiye Cumhuriyeti vatandaşı olmak zorunludur.",
+      "D) Çıraklar hakkında iş kazası ve meslek hastalığı ile hastalık sigortası hükümleri uygulanır.",
+      "E) Hizmet akdine göre çalışanların sigortalılığı çalışmaya başladıkları tarihten itibaren başlar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, aşağıdakilerden hangisinde kısa vadeli sigorta kolları bir arada doğru olarak verilmiştir?",
+    "options": [
+      "A) Malullük sigortası, hastalık sigortası, yaşlılık sigortası",
+      "B) Malullük sigortası, hastalık sigortası, ölüm sigortası",
+      "C) İş kazası ve meslek hastalığı sigortası, malullük sigortası, hastalık sigortası",
+      "D) İş kazası ve meslek hastalığı sigortası, ölüm sigortası, analık sigortası",
+      "E) İş kazası ve meslek hastalığı sigortası, hastalık sigortası, analık sigortası"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı SSGSS Kanunu'na göre, aşağıdakilerden hangisi hizmet akdiyle çalışan (madde 4/1-a) sigortalı bakımından iş kazası sayılmaz?",
+    "options": [
+      "A) İşyerinde elektrik izolasyonu yapılmamış makineyle çalışan sigortalının elektrik akımına kapılması",
+      "B) Sigortalının işyerinin bahçesinde düşerek yaralanması",
+      "C) Çalışma saatleri içinde işveren tarafından postaneye gönderilen sigortalının karlı yolda düşerek kolunu kırması",
+      "D) Sigortalının belediye otobüsüyle işe gelirken geçirdiği trafik kazasında yaralanması",
+      "E) Emziren kadın sigortalının süt izni sırasında emzirme odasındaki dolabın üzerine devrilmesi sebebiyle yaralanması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, aşağıdakilerden hangisi iş kazası veya meslek hastalığı sigortasından sağlanan haklardan biri değildir?",
+    "options": [
+      "A) Sigortalıya malullük aylığı bağlanması",
+      "B) Sigortalıya geçici iş göremezlik süresince günlük geçici iş göremezlik ödeneği verilmesi",
+      "C) İş kazası veya meslek hastalığı sonucu ölen sigortalının hak sahiplerine gelir bağlanması",
+      "D) İş kazası ve meslek hastalığı sonucu ölen sigortalı için cenaze ödeneği verilmesi",
+      "E) Gelir bağlanmış olan kız çocuklarına evlenme ödeneği verilmesi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "I. Ölüm aylığı bağlanması<br>II. Ölüm geliri bağlanması<br>III. Ölüm toptan ödemesi yapılması<br>IV. Aylık almakta olan sağ kalan eşe evlenme ödeneği verilmesi<br>V. Cenaze ödeneği verilmesi<br><br>5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, yukarıdakilerden hangileri ölüm sigortasından sağlanan haklardandır?",
+    "options": [
+      "A) I ve II",
+      "B) II ve III",
+      "C) I, II ve III",
+      "D) I, III ve V",
+      "E) II, III, IV ve V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, aşağıdaki hâllerden hangisinde hak sahibine bağlanan ölüm aylığı kesilmez?",
+    "options": [
+      "A) Boşanmış olan kız çocuğunun, boşandığı eşiyle fiilen birlikte yaşadığının tespiti hâlinde",
+      "B) Yükseköğrenim gören 22 yaşındaki erkek çocuğun bir devlet üniversitesinde memur olarak çalışmaya başlaması hâlinde",
+      "C) 30 yaşındaki bekar kız çocuğunun bir limited şirkete ortak olması ve aynı şirkette müdür olarak da görev yapmaya başlaması hâlinde",
+      "D) Evli olan malûl çocuğun, kendi sigortalılığı nedeniyle sürekli iş göremezlik geliri alması hâlinde",
+      "E) Dul eşin, bir işveren yanında işçi statüsünde çalışmaya başlaması hâlinde"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, uzun vadeli sigorta kollarının tamamı hangi seçenekte doğru gösterilmiştir?",
+    "options": [
+      "A) Malûllük sigortası - yaşlılık sigortası - ölüm sigortası",
+      "B) İş kazası ve meslek hastalığı sigortası – malullük sigortası - ölüm sigortası",
+      "C) Hastalık sigortası - analık sigortası - ölüm sigortası",
+      "D) Hastalık sigortası - genel sağlık sigortası – yaşlılık sigortası",
+      "E) İş kazası ve meslek hastalığı sigortası - analık sigortası - hastalık sigortası"
+    ],
+    "answer": 0
+  }
+],
   "C - Ticaret Hukuku||1- Ticari İşletmenin Unsurları, Merkez, Şube, Devir ve Rehin": [
     {
       "q": "6102 sayılı Türk Ticaret Kanunu’na göre, aşağıdakilerden hangisi ticari işletmenin zorunlu unsurları arasında yer almaz?",
@@ -7747,6 +8730,437 @@
       "answer": 0
     }
   ],
+  "D - Türk İdari Yargılama Hukuku||2- İdari Yargı Hukuku (MCH)": [
+  {
+    "q": "Aşağıdaki mahkemelerden hangisine İdari Yargılama Usul Kanunu uygulanır?",
+    "options": [
+      "A) Asliye Hukuk Mahkemesi",
+      "B) Sulh Hukuk Mahkemesi",
+      "C) Asliye Ceza Mahkemesi",
+      "D) Bölge İdare Mahkemesi",
+      "E) Ağır Ceza Mahkemesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İdari eylem ve işlemlerden dolayı kişisel hakları doğrudan zarara uğrayanlar tarafından zararın giderilmesini sağlamak amacıyla açılan dava aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İptal davası",
+      "B) Tazminat davası",
+      "C) Haksız fiil davası",
+      "D) Tam yargı davası",
+      "E) İtirazın iptali davası"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İdari yargılama usul kanununa göre idari işlemlerin iptali davası aşağıdaki sebeplerden hangisine dayandırılamaz?",
+    "options": [
+      "A) Yetki unsuru",
+      "B) Şekil unsuru",
+      "C) Yerindelik denetimi",
+      "D) Sebep ve konu unsuru",
+      "E) Amaç (maksat) unsuru"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vergi uyuşmazlıklarında yetkili mahkemenin belirlenmesinde, tam yargı davaları hariç tutulduğunda aşağıdaki kriterlerden hangisi esas alınır?",
+    "options": [
+      "A) Davacının ikametgahının bulunduğu yer mahkemesi",
+      "B) Vergi mükellefinin iş merkezinin bulunduğu yer mahkemesi",
+      "C) Uyuşmazlık konusu vergiyi tarh ve tahakkuk ettiren dairenin bulunduğu yer mahkemesi",
+      "D) Bölge idare mahkemesinin bulunduğu yer mahkemesi",
+      "E) Gelir İdaresi Başkanlığı'nın bulunduğu yer mahkemesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanununa göre, idari yargı yerinde açılan bir davanın 'adli yargının görev alanına girdiği' tespit edilirse mahkemece hangi karar verilir?",
+    "options": [
+      "A) Dosyanın görevli adli yargı merciine gönderilmesine",
+      "B) Uyuşmazlık Mahkemesi'nden görüş istenmesine",
+      "C) Davanın görev yönünden reddine",
+      "D) Davanın işlemden kaldırılmasına",
+      "E) Yürütmenin durdurulmasına"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir idare mahkemesi, önüne gelen bir davanın aslında vergi mahkemesinin görev alanına girdiğini tespit ederse, 2577 sayılı Kanun uyarınca aşağıdaki işlemlerden hangisini tesis etmelidir?",
+    "options": [
+      "A) Davanın adli yargıda açılması gerektiğini belirterek davanın reddine karar verir ve dosyayı iade eder.",
+      "B) Davayı görevsizlik sebebiyle reddeder ancak dosya üzerinde başka bir işlem yapmaz.",
+      "C) Görevsizlik sebebiyle davanın reddine karar vererek dosyayı görevli ve yetkili vergi mahkemesine gönderir.",
+      "D) Uyuşmazlığın çözümü için dosyayı doğrudan Bölge İdare Mahkemesine gönderir.",
+      "E) Dosyayı, görevli mahkemeyi tayin etmesi için Danıştay'a gönderir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Görevsizlik veya yetkisizlik sebebiyle dosyanın gönderildiği mahkeme de kendisini görevsiz veya yetkisiz görürse ve bu iki mahkeme 'farklı' bölge idare mahkemelerinin yargı çevrelerinde yer alıyorsa, söz konusu uyuşmazlık hangi merci tarafından çözümlenir?",
+    "options": [
+      "A) Uyuşmazlık Mahkemesi",
+      "B) Bölge İdare Mahkemesi",
+      "C) Danıştay",
+      "D) Hâkimler ve Savcılar Kurulu",
+      "E) Adalet Bakanlığı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mükellef Songül Hanım'a vergi zıyaı cezası kesilmiştir. Songül Hanım, bu cezaya karşı İzmir 1. Vergi Mahkemesine süresi içinde dava açmıştır. İzmir 1.Vergi Mahkemesi kendini bu davada yetkisiz saymış ve dosyayı Aydın Vergi Mahkemesine yollamıştır. Aydın Vergi Mahkemesi de bu davanın kendi yetkisi içinde olmadığına karar vererek yetkisizlik kararı vermiştir. İdari Yargılama Usulü Kanunu'na göre bu durumda hangi mahkemenin yetkili olduğuna kim karar verir?",
+    "options": [
+      "A) Uyuşmazlık Mahkemesi",
+      "B) Bölge İdare Mahkemesi",
+      "C) Danıştay",
+      "D) Hâkimler ve Savcılar Kurulu",
+      "E) Adalet Bakanlığı"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre, özel kanunlarda ayrı bir süre gösterilmeyen hallerde idare mahkemelerinde dava açma süresi kaç gündür?",
+    "options": [
+      "A) 15 gün",
+      "B) 30 gün",
+      "C) 45 gün",
+      "D) 60 gün",
+      "E) 90 gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Vergi mahkemelerinde, özel kanunlarda aksine bir hüküm bulunmadığı takdirde dava açma süresi ne kadardır?",
+    "options": [
+      "A) 7 gün",
+      "B) 15 gün",
+      "C) 30 gün",
+      "D) 60 gün",
+      "E) 90 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2577 sayılı Kanun'un 7. maddesine göre, idari uyuşmazlıklarda dava açma süresi kural olarak ne zaman başlar?",
+    "options": [
+      "A) İdari işlemin yapıldığı tarihte",
+      "B) Tebligatın yapıldığı gün",
+      "C) Yazılı bildirimin yapıldığı tarihi izleyen günde",
+      "D) İdari işlemin öğrenildiği günün mesai bitiminde",
+      "E) İdari makama itiraz edildiği tarihte"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mükellef Hüseyin Bey'e vergi zıyaı cezası kesilmiştir. Hüseyin Bey, bu cezaya karşı Ankara Vergi Mahkemesine süresi içinde dava açmıştır. Ankara Vergi Mahkemesi kendini bu davada yetkisiz saymış ve dosyayı İzmir Vergi Mahkemesine yollamıştır. İzmir Vergi Mahkemesi de bu davanın kendi yetkisi içinde olmadığına karar vererek yetkisizlik kararı vermiştir.<br><br>Yukarıdaki olaya göre; Mükellef Hüseyin Bey'e kesilen vergi zıyaı cezasına karşı vergi mahkemesinde dava açma süresi, 2577 sayılı Kanun'a göre kaç gündür?",
+    "options": [
+      "A) 15 gün",
+      "B) 30 gün",
+      "C) 45 gün",
+      "D) 60 gün",
+      "E) 90 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mükellef Hüseyin Bey'e vergi zıyaı cezası kesilmiştir. Hüseyin Bey, bu cezaya karşı Ankara Vergi Mahkemesine süresi içinde dava açmıştır. Ankara Vergi Mahkemesi kendini bu davada yetkisiz saymış ve dosyayı İzmir Vergi Mahkemesine yollamıştır. İzmir Vergi Mahkemesi de bu davanın kendi yetkisi içinde olmadığına karar vererek yetkisizlik kararı vermiştir.<br><br>Yukarıdaki olaya göre; Ankara ve İzmir Vergi Mahkemelerinin her ikisinin de yetkisizlik kararı vermesi durumunda, 2577 sayılı Kanun'un 43/1-b maddesi uyarınca yetkili mahkemeye kim karar verir?",
+    "options": [
+      "A) Ankara Bölge İdare Mahkemesi",
+      "B) İzmir Bölge İdare Mahkemesi",
+      "C) Danıştay",
+      "D) Uyuşmazlık Mahkemesi",
+      "E) Hâkimler ve Savcılar Kurulu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mükellef Seda Hanım'a vergi zıyaı cezası kesilmiştir. Seda Hanım, bu cezaya karşı Bodrum Vergi Mahkemesine süresi içinde dava açmıştır. Bodrum Vergi Mahkemesi Seda Hanım'ı haksız bularak davayı reddetmiştir. Bu durumda İdari Yargılama Usulü Kanununa göre; Seda Hanım nereye ve hangi sürede başvurabilir ve bu başvurunun adı nedir?",
+    "options": [
+      "A) Bölge İdare Mahkemesi - 60 gün - Temyiz",
+      "B) Danıştay - 30 gün - Temyiz",
+      "C) Bölge İdare Mahkemesi - 30 gün - İstinaf",
+      "D) Vergi Mahkemesi - 10 gün - Yürütmenin Durdurulması",
+      "E) Bölge İdare Mahkemesi - 60 gün - Yürütmenin Durdurulması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanunu'nun 'Sürelerle ilgili genel esaslar' başlıklı 8. maddesine göre, kanunda yazılı sürelerin bitmesinin 'çalışmaya ara verme' (adli tatil) zamanına rastlaması halinde süreler ne kadar uzatılmış sayılır?",
+    "options": [
+      "A) Ara vermenin bittiği günden itibaren 3 gün",
+      "B) Ara vermenin bittiği günü izleyen tarihten itibaren 15 gün",
+      "C) Ara vermenin sona erdiği günü izleyen tarihten itibaren 7 gün",
+      "D) Ara vermenin bittiği günden itibaren 30 gün",
+      "E) Süre uzamaz, nöbetçi mahkemeye başvurulması gerekir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari yargının görev alanına giren bir davanın adli yargı yerinde (hukuk mahkemelerinde) açılması ve bu mahkemenin görevsizlik kararı vermesi durumunda, davanın idari yargıda süresinde açılabilmesi için uygulanacak usul aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Görevsizlik kararının verildiği tarihten itibaren 15 gün içinde dava açılmalıdır.",
+      "B) Görevsizlik kararının kesinleşmesini izleyen günden itibaren 30 gün içinde görevli mahkemede dava açılmalıdır.",
+      "C) Kararın tebliğinden itibaren 60 gün içinde Danıştay'a başvurulmalıdır.",
+      "D) Adli yargıdaki davanın açıldığı tarihten itibaren 30 gün içinde idare mahkemesine başvurulmalıdır.",
+      "E) Bu durumda süre uzamaz; ancak adli mahkeme dosyayı kendisi göndermek zorundadır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mükellef Toprak Cem Bey'in Hazine ve Maliye Bakanlığı'na yaptığı şikayet başvurusu üzerine idarenin sessiz kalması durumunda, talep ne zaman red edilmiş sayılır?",
+    "options": [
+      "A) 60 gün",
+      "B) 25 gün",
+      "C) 30 gün",
+      "D) 45 gün",
+      "E) 2 ay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2577 sayılı İdari Yargılama Usulü Kanunu'nun 10. maddesi uyarınca, bir idari makama yapılan başvuruya otuz günlük yasal süre içerisinde verilen cevap 'kesin değilse', ilgili kişinin kesin cevabı beklemeyi tercih etmesi durumunda, dava açma süresini durduran bu 'bekleme süresi' başvuru tarihinden itibaren en fazla ne kadar olabilir?",
+    "options": [
+      "A) 60 gün",
+      "B) 25 gün",
+      "C) 2 ay",
+      "D) 45 gün",
+      "E) 4 ay"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "2577 sayılı Kanun'un 11. maddesi kapsamında, ilgililer tarafından idari dava açılmadan önce idari işlemin kaldırılması veya değiştirilmesi gibi taleplerle üst makama başvurulması durumunda, bu başvurunun 'dava açma süresine' etkisi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Dava açma süresini keser ve sürenin baştan başlamasını sağlar.",
+      "B) Dava açma süresini hiçbir şekilde etkilemez.",
+      "C) İşlemeye başlamış olan idari dava açma süresini durdurur.",
+      "D) Dava açma süresini sadece 15 gün uzatır.",
+      "E) Dava açma süresini sadece vergi mahkemelerinde durdurur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2577 sayılı Kanun'un 11. maddesi kapsamında, ilgililer tarafından idari dava açılmadan önce idari işlemin kaldırılması veya değiştirilmesi gibi taleplerle Üst makama yapılan başvurunun reddedilmesi veya 30 gün içinde cevap verilmeyerek reddedilmiş sayılması durumunda, dava açma süresinin hesaplanmasıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Dava açma süresi, ret tarihinden itibaren 60 gün olarak yeniden başlar.",
+      "B) Başvurma tarihine kadar geçen süre dikkate alınmaz, süre sıfırdan başlar.",
+      "C) Dava açma süresi yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre de hesaba katılır.",
+      "D) Süre, sadece Danıştay'da açılacak davalar için baştan başlar.",
+      "E) İdareye başvurulduğu için dava açma hakkı sona erer."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2577 sayılı Kanun'un 12. maddesine göre, haklarını ihlal eden bir idari işlemle karşılaşan bir ilgili, aşağıdaki dava açma yollarından hangisi doğrudur?",
+    "options": [
+      "A) Sadece iptal davası açabilir; tam yargı davası için işlemin kesinleşmesini beklemek zorundadır.",
+      "B) Doğrudan doğruya tam yargı davası açabileceği gibi, iptal ve tam yargı davalarını birlikte de açabilir.",
+      "C) Önce tam yargı davası açıp, bu dava reddedilirse iptal davası açmak zorundadır.",
+      "D) Tam yargı davası açmak için her durumda önce idareye başvurmak zorundadır.",
+      "E) İptal davası açtıktan sonra, dava süreci devam ederken tam yargı davası açamaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2577 sayılı Kanun'un 13. maddesine göre, idari eylemler nedeniyle hakları ihlal edilenlerin dava açmadan önce ilgili idareye başvurmaları için öngörülen öğrenme ve eylem tarihinden itibaren işlemeye başlayan süreler sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Öğrenme tarihinden itibaren 60 gün - Eylem tarihinden itibaren 1 yıl",
+      "B) Öğrenme tarihinden itibaren 6 ay – Eylem tarihinden itibaren 2 yıl",
+      "C) Öğrenme tarihinden itibaren 1 yıl - Eylem tarihinden itibaren 5 yıl",
+      "D) Öğrenme tarihinden itibaren 30 gün - Eylem tarihinden itibaren 1 yıl",
+      "E) Öğrenme tarihinden itibaren 1 yıl – Eylem tarihinden itibaren 10 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari bir eylem nedeniyle idareye başvuruda bulunan bir kişinin istemi hakkında idarece sessiz kalınması (zımni ret) durumunda, dava açma süresinin başlangıcıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Başvuru tarihinden itibaren 60 gün geçmesiyle süre başlar.",
+      "B) Başvuru tarihinden itibaren 15 gün içinde cevap verilmezse dava açılabilir.",
+      "C) İstek hakkında 30 gün içinde cevap verilmediği takdirde, bu sürenin bittiği tarihten itibaren dava açma süresi başlar.",
+      "D) İdare cevap verene kadar dava açma süresi işlemez.",
+      "E) Zımni ret süresi 4 aydır; bu süre dolunca dava açılabilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ahmet Bey, 10 Ocak 2023 tarihinde belediyenin yol bakım çalışması sırasında açık bıraktığı ve hiçbir uyarı levhası koymadığı bir rögar çukuruna düşerek yaralanmış ve aracı hasar görmüştür. Ahmet Bey, bu olayı ve oluşan zararı aynı gün öğrenmiştir. Ahmet Bey'in uğradığı zararın tazmini için açacağı tam yargı davası ile ilgili aşağıdakilerden hangisi 2577 sayılı Kanun'un 13. maddesine göre zorunlu bir usul kuralıdır?",
+    "options": [
+      "A) Ahmet Bey, idareye başvurmadan doğrudan doğruya İdare Mahkemesinde dava açmalıdır.",
+      "B) Ahmet Bey, eylem tarihinden itibaren en geç 60 gün içinde belediyeye başvurmalıdır.",
+      "C) Ahmet Bey, önce Asliye Hukuk Mahkemesinde tazminat davası açıp red kararı almalıdır.",
+      "D) Ahmet Bey, dava açmadan önce eylemi öğrendiği tarihten itibaren en geç 1 yıl içinde ilgili belediyeye başvurarak hakkının yerine getirilmesini istemelidir.",
+      "E) Belediye Ahmet Bey'in başvurusuna 60 gün içinde cevap vermezse Ahmet Bey ancak o zaman dava açabilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "2577 sayılı Kanun'un 3. maddesine göre, idari dava dilekçelerinde aşağıdakilerden hangisinin bulunması zorunlu bir unsur değildir?",
+    "options": [
+      "A) Tarafların ve varsa vekillerinin ad, soyad ve adresleri",
+      "B) Davanın konusu, sebepleri ve dayandığı deliller",
+      "C) Davaya konu olan idari işlemin yazılı bildirim tarihi",
+      "D) Gerçek kişilere ait Türkiye Cumhuriyeti kimlik numarası",
+      "E) Davacının mal varlığı beyanı ve öğrenim durumu"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Vergi uyuşmazlıkları ve tam yargı davalarına ilişkin dilekçelerde, diğer idari dava türlerinden farklı olarak gösterilmesi zorunlu olan husus aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Davanın hukuki dayanakları",
+      "B) Karşı tarafın tebliğ adresi",
+      "C) Davanın açıldığı yerin yetkili mahkemesi",
+      "D) Uyuşmazlık konusu miktar",
+      "E) İşlemi yapan idari mercinin unvanı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "2577 sayılı Kanun'un 4. maddesine göre, idare veya vergi mahkemesi bulunmayan yerlerde dava dilekçeleri, büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına bakılmaksızın aşağıdakilerden hangisine verilebilir?",
+    "options": [
+      "A) Kaymakamlıklara",
+      "B) Belediye Başkanlıklarına",
+      "C) Asliye Hukuk Hakimliklerine",
+      "D) Cumhuriyet Başsavcılıklarına",
+      "E) Noterlere"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'nun 6. maddesinin 3. fıkrasına göre; asliye hukuk hakimlikleri veya konsolosluklar gibi yerlere verilen dilekçeler, en geç kaç gün içinde Danıştay'a veya ait olduğu mahkeme başkanlığına gönderilmelidir?",
+    "options": [
+      "A) Derhal (aynı gün)",
+      "B) 3 gün içinde",
+      "C) 7 gün içinde",
+      "D) 15 gün içinde",
+      "E) 30 gün içinde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İyuk'a göre İdari dava açılırken harç veya posta ücretinin hiç verilmediği veya eksik verildiği tespit edilirse, bu eksikliğin tamamlanması için ilgiliye uygulanacak usul süreci nasıldır?",
+    "options": [
+      "A) Dava, hiçbir ihtara gerek kalmaksızın görev yönünden reddedilir.",
+      "B) Eksikliğin tamamlanması için ilgiliye 7 günlük kesin süre verilir.",
+      "C) Harçlar tamamlanana kadar dava dosyası bekletilir, süre sınırı uygulanmaz.",
+      "D) Eksikliğin 30 gün içinde tamamlanması tebliğ edilir; yerine getirilmezse bildirim aynı şekilde bir kez daha tekrarlanır.",
+      "E) Posta ücreti eksikse dava açılmamış sayılır, harç eksikse dava reddedilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İyuk'a göre Harç veya posta ücretindeki eksikliğin giderilmesi için yapılan bildirimlere (iki defa tanınan 30'ar günlük sürelere) rağmen gereği yerine getirilmezse, mahkemece hangi karar verilir?",
+    "options": [
+      "A) Davanın süre aşımı nedeniyle reddine",
+      "B) Davanın ehliyet yönünden reddine",
+      "C) Davanın açılmamış sayılmasına",
+      "D) Yürütmenin durdurulması isteminin kabulüne",
+      "E) Dosyanın işlemden kaldırılmasına ve 1 yıl beklenmesine"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Danıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinde hangi yargılama usulü uygulanır?",
+    "options": [
+      "A) Basit yargılama usulü",
+      "B) Yazılı yargılama usulü",
+      "C) Seri Yargılama usulü",
+      "D) Sözlü yargılama usulü",
+      "E) İvedi yargılama usulü"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2577 sayılı İYUK'un 27. maddesine göre, idari mahkemelerde açılan iptal davalarında yürütmenin durdurulması kararı verilebilmesi için hangi iki şartın 'birlikte' gerçekleşmesi gerekir?",
+    "options": [
+      "A) İdari işlemin haksız olması ve davacının ekonomik durumunun kötü olması.",
+      "B) İdari işlemin uygulanması halinde telafisi güç veya imkânsız zararların doğması ve işlemin açıkça hukuka aykırı olması.",
+      "C) Davanın 30 gün içinde açılmış olması ve idarenin savunma yapmamış olması.",
+      "D) İdari işlemin bir üst makam tarafından onaylanmamış olması ve kamu yararına aykırı olması.",
+      "E) İşlemin sadece şekil yönünden hukuka aykırı olması ve davacının menfaatini ihlal etmesi."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2577 sayılı Kanun'un 27. maddesine göre, yürütmenin durdurulması istemleri hakkında mahkemelerce verilen kararlara itiraz süreciyle ilgili aşağıdakilerden hangisi 'yanlıştır'?",
+    "options": [
+      "A) İtiraz süresi, kararın tebliğini izleyen günden itibaren yedi gündür.",
+      "B) İtiraz hakkı bir defaya mahsus olmak üzere kullanılabilir.",
+      "C) Danıştay dava dairelerince verilen kararlara karşı, konusuna göre İdari veya Vergi Dava Daireleri Kurullarına itiraz edilir.",
+      "D) İdare mahkemelerinin kararlarına karşı yapılacak itirazlar Danıştay tarafından incelenir.",
+      "E) Bölge idare mahkemesi kararlarına karşı en yakın bölge idare mahkemesine itiraz edilebilir."
+    ],
+    "answer": 3
+  },  
+  {
+    "q": "Bir vergi davasında yürütmenin durdurulması istemi reddedilen bir davacı, bu karara karşı yaptığı itirazın da kesin olarak reddedilmesi üzerine, 'aynı uyuşmazlıkta' tekrar yürütmeyi durdurma talep etmek istemektedir. Bu durumla ilgili İYUK 27. madde hükmü nedir?",
+    "options": [
+      "A) Davacı, dava sonuçlanana kadar her ay yeniden talepte bulunabilir.",
+      "B) Yeni bir delil sunulmasa dahi 30 gün sonra tekrar talepte bulunulabilir.",
+      "C) İtiraz merci kararı kesin olduğu için aynı konuda bir daha hiç dava açılamaz.",
+      "D) Aynı sebeplere dayanılarak ikinci kez yürütmenin durdurulması isteminde bulunulamaz.",
+      "E) Sadece teminat miktarının değiştirilmesi şartıyla yeniden talepte bulunulabilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "2577 sayılı Kanun'un 27/4. maddesine göre, vergi mahkemelerinde vergi uyuşmazlıklarından doğan davaların açılmasıyla ilgili genel kural aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Dava açılması tahsilat işlemlerini hiçbir şekilde etkilemez.",
+      "B) Tahsilatın durması için mahkemeden ayrıca yürütmeyi durdurma kararı alınması zorunludur.",
+      "C) Davanın açılması, tarh edilen vergi ve cezaların dava konusu edilen bölümünün tahsil işlemlerini kendiliğinden durdurur.",
+      "D) Sadece vergi aslına karşı açılan davalar tahsilatı durdurur, cezalar durdurmaz.",
+      "E) Tahsilatın durması için davacının teminat göstermesi şarttır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İYUK 27/4 uyarınca, vergi mahkemesinde dava açılmasına rağmen tahsil işleminin kendiliğinden 'durdurulmadığı' ve ancak yürütmenin durdurulmasının 'istenebileceği' durumlar arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "A) İhtirazi kayıtla verilen beyannameler üzerine yapılan işlemler",
+      "B) Tahsilat işlemlerinden (ödeme emri, haciz vb.) dolayı açılan davalar",
+      "C) İşlemden kaldırılan dosyanın yeniden işleme konulması hali",
+      "D) Davacının adresinin bulunamaması nedeniyle işlemden kaldırılan dosyalar",
+      "E) Tarh edilen vergi ziyaı cezasına karşı ilk kez açılan iptal davası"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Mükellef (B), beyannamesini kanuni süresinde ancak 'ihtirazi kayıt' koyarak vermiş ve tahakkuk eden vergiye karşı Vergi Mahkemesinde dava açmıştır. İYUK 27/4 hükmü dikkate alındığında, Mükellef (B)'nin açtığı bu davanın tahsilat üzerindeki etkisi ve hukuki durumu hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Dava açıldığı için verginin tahsilatı kendiliğinden durur.",
+      "B) Bu dava tahsil işlemini kendiliğinden durdurmaz; mükellef isterse ayrıca yürütmenin durdurulmasını talep edebilir.",
+      "C) İhtirazi kayıtla verilen beyannamelerde dava açma hakkı bulunmamaktadır.",
+      "D) Mahkeme, idarenin savunmasını almadan yürütmeyi durdurma kararı veremez.",
+      "E) Bu tür davalarda vergi mahkemesi değil, doğrudan Danıştay yetkilidir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir kamu görevlisi, haksız yere görevden uzaklaştırıldığı iddiasıyla açtığı iptal davasını kazanmış ve mahkeme kararı 10 Eylül tarihinde ilgili kuruma tebliğ edilmiştir. İlgili birim amiri, kişisel husumeti nedeniyle bu kararı uygulamakta direnmiş ve personeli görevine başlatmamıştır. Bu durumda, kararın uygulanmaması nedeniyle doğan zararların tazmini için açılacak dava ile ilgili aşağıdakilerden hangisi 2577 sayılı Kanun'un 28. maddesine göre doğrudur?",
+    "options": [
+      "A) Davacı, kararı uygulamayan birim amiri aleyhine doğrudan asliye hukuk mahkemesinde tazminat davası açmalıdır.",
+      "B) İdare, mahkeme kararını tebliğden itibaren en geç 60 gün içinde uygulamakla yükümlüdür.",
+      "C) Mahkeme kararının süresi içinde yerine getirilmemesi hâlinde tazminat davası ancak ilgili idare aleyhine açılabilir.",
+      "D) Kamu görevlisinin kararı uygulamaması kişisel kusur sayıldığından, tazminat davası sadece bu görevliye yöneltilir.",
+      "E) Mahkeme kararı uygulanmadığı takdirde idareye karşı sadece ceza davası açılabilir; tazminat davası açılması mümkün değildir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Konusu belli bir miktar paranın ödenmesini gerektiren tam yargı davalarında, mahkemece hükmedilen miktar ile yargılama giderlerinin idare tarafından ödenme usulü hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İdare, mahkeme kararını alır almaz herhangi bir bildirim beklemeksizin ödemeyi hemen yapar.",
+      "B) Ödemenin yapılması için bir üst kurulun onayı gerekir",
+      "C) Hükmedilen miktar ve giderler, davacının bildireceği banka hesap numarasına bildirim tarihinden itibaren 30 gün içinde yatırılır.",
+      "D) İdare ödemeyi yapmazsa, davacı sadece yeni bir dava açabilir; icra takibi yapamaz.",
+      "E) Parasal ödemeler için idareye tanınan süre kararın tebliğinden itibaren 15 gündür."
+    ],
+    "answer": 2
+  }
+],
   "Deneme Sınavı 01 (Genel Tarama)": [
     {
       "ders": "Temel Hukuk",
