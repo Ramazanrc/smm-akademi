@@ -2567,7 +2567,7 @@
         "A) Borsa İstanbul Anonim Şirketi",
         "B) Takasbank",
         "C) Türkiye Sermaye Piyasaları Birliği",
-        "D) SPKn’na göre kurulan ve faaliyet izni verilen diğer borsalar",
+        "D) SPK’na göre kurulan ve faaliyet izni verilen diğer borsalar",
         "E) Türkiye Cumhuriyet Merkez Bankası (TCMB)"
       ],
       "answer": 4
@@ -8576,10 +8576,10 @@
  ],
   "Çalışma Soruları (SPK-Özel Durumlar-Kurumsal Yönetim Tebliği-Asistan)": [
   {
-    "q": "6362 sayılı Sermaye Piyasası Kanunu'nda (SPKn) ve Kurul düzenlemelerinde hüküm bulunmayan hâllerde, sermaye piyasası mevzuatına ilişkin bir hususta genel hükümlerin uygulanabilmesi için aranan temel yasal şart aşağıdakilerden hangisidir?",
+    "q": "6362 sayılı Sermaye Piyasası Kanunu'nda (SPK) ve Kurul düzenlemelerinde hüküm bulunmayan hâllerde, sermaye piyasası mevzuatına ilişkin bir hususta genel hükümlerin uygulanabilmesi için aranan temel yasal şart aşağıdakilerden hangisidir?",
     "options": [
       "A) Sermaye Piyasası Kurulu'nun uyuşmazlığa dair özel bir ilke kararı almış olması",
-      "B) İlgili özel kanunda 6362 sayılı SPKn'nun uygulanmayacağının açıkça belirtilmiş olması",
+      "B) İlgili özel kanunda 6362 sayılı SPK'nun uygulanmayacağının açıkça belirtilmiş olması",
       "C) İşlemin Merkezi Kayıt Kuruluşu (MKK) nezdinde kayden izlenen araçlar üzerinden yapılmış olması",
       "D) Uyuşmazlığa konu işlemin münhasıran bankalar veya sigorta şirketleri arasında gerçekleşmesi",
       "E) Hazine ve Maliye Bakanlığı'nın uyuşmazlık çözümü için yazılı onay vermesi"
@@ -8589,10 +8589,10 @@
   {
     "q": "Bankaların sermaye piyasası mevzuatına ne ölçüde tabi olduklarıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
     "options": [
-      "A) Sermaye piyasası aracı ihraç eden bankalar, bu ihraçla sınırlı olarak SPKn hükümlerine tabidirler.",
+      "A) Sermaye piyasası aracı ihraç eden bankalar, bu ihraçla sınırlı olarak SPK hükümlerine tabidirler.",
       "B) Bankaların paylarını halka arz etmesi halinde, kurumsal yönetim ilkeleri BDDK'nın görüşü alınarak uygulanır.",
       "C) Sermaye piyasası faaliyetinden doğan nakit ödeme yükümlülüklerinin yerine getirilmemesi durumunda Kurul'un tazmin kararı verebilmesi için BDDK görüşü zorunludur.",
-      "D) Ortak sayısı bakımından halka açık ortaklık statüsü kazanmalarında SPKn hükümleri bankalara doğrudan ve aynen uygulanır.",
+      "D) Ortak sayısı bakımından halka açık ortaklık statüsü kazanmalarında SPK hükümleri bankalara doğrudan ve aynen uygulanır.",
       "E) Bankalar, kuruluş, gözetim, bağımsız denetim standartları ve temettü dağıtımı konularında kendi özel mevzuatına tabidir."
     ],
     "answer": 3
@@ -8664,7 +8664,7 @@
     "answer": 3
   },
   {
-    "q": "6362 sayılı SPKn uyarınca, Sermaye Piyasası Kurulu'nun (SPK) aşağıda sayılan özel durumlardan hangisinde ihraççılara bağımsız denetim yükümlülüğü getirme yetkisi bulunmamaktadır?",
+    "q": "6362 sayılı SPK uyarınca, Sermaye Piyasası Kurulu'nun (SPK) aşağıda sayılan özel durumlardan hangisinde ihraççılara bağımsız denetim yükümlülüğü getirme yetkisi bulunmamaktadır?",
     "options": [
       "A) Halka arzda",
       "B) İhraççının olağan genel kurul toplantılarında kar dağıtım politikasını belirlemesinde",
@@ -8675,18 +8675,18 @@
     "answer": 1
   },
   {
-    "q": "Sermaye Piyasası Kanunu'nun (SPKn) Uygulama Alanı ve İstisnalar (md. 136) hükümlerine göre, Türkiye Cumhuriyet Merkez Bankası (TCMB) aşağıdaki durumların hangisinde doğrudan SPKn hükümlerine tabidir?",
+    "q": "Sermaye Piyasası Kanunu'nun (SPK) Uygulama Alanı ve İstisnalar (md. 136) hükümlerine göre, Türkiye Cumhuriyet Merkez Bankası (TCMB) aşağıdaki durumların hangisinde doğrudan SPK hükümlerine tabidir?",
     "options": [
       "A) Kurumsal yönetim ilkelerine uyması gereken durumlarda",
       "B) Kendi bünyesindeki piyasalarda gerçekleştirdiği işlemlerde",
       "C) TCMB nezdinde kurulan ödeme ve mutabakat sistemlerinin işletilmesinde",
-      "D) SPKn kapsamında yer alan yatırımcı tazmin sisteminin uygulanmasında",
+      "D) SPK kapsamında yer alan yatırımcı tazmin sisteminin uygulanmasında",
       "E) Sermaye piyasası araçlarını konu alan teminat sözleşmelerine taraf olmasında"
     ],
     "answer": 4
   },
   {
-    "q": "6362 sayılı SPKn uyarınca, izahnamede yer alan yanlış, yanıltıcı veya eksik bilgilerden kaynaklanan zararlardan doğan hukuki sorumluluk ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "q": "6362 sayılı SPK uyarınca, izahnamede yer alan yanlış, yanıltıcı veya eksik bilgilerden kaynaklanan zararlardan doğan hukuki sorumluluk ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "options": [
       "A) Doğacak zararlardan birincil derecede ihraççılar sorumludur.",
       "B) Zararın ihraççıdan tazmin edilememesi durumunda halka arz edenler, lider aracı kurum ve varsa garantör durumun gereklerine göre sorumlu tutulabilir.",
@@ -8708,7 +8708,7 @@
     "answer": 2
   },
   {
-    "q": "6362 sayılı SPKn uyarınca 'İzahnamenin Kurulca Onaylanması' sürecine ilişkin aşağıdaki yargılardan hangisi yanlıştır?",
+    "q": "6362 sayılı SPK uyarınca 'İzahnamenin Kurulca Onaylanması' sürecine ilişkin aşağıdaki yargılardan hangisi yanlıştır?",
     "options": [
       "A) İzahnamede yer alan bilgilerin doğruluğunun Kurulca tekeffül (garanti) edildiği anlamına gelmez.",
       "B) İzahnamenin Kurulca onaylanması, ihraca konu sermaye piyasası araçlarına ilişkin Kurulun bir tavsiyesi niteliğini taşımaz.",
@@ -8719,7 +8719,7 @@
     "answer": 3
   },
   {
-    "q": "6362 sayılı SPKn'na göre ihraççıların borçlanma aracı ihracı ve borçlanma aracı sahipleri kuruluna (BASK) ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "q": "6362 sayılı SPK'na göre ihraççıların borçlanma aracı ihracı ve borçlanma aracı sahipleri kuruluna (BASK) ilişkin aşağıdakilerden hangisi yanlıştır?",
     "options": [
       "A) Borçlanma aracı ihraç yetkisi, esas sözleşme ile yönetim kuruluna süreli veya süresiz olarak devredilebilir.",
       "B) Kurul tarafından veya izahnamede aksine daha ağır bir nisap öngörülmedikçe, BASK kararları tedavüldeki nominal tutarın asgari yarısını temsil edenlerin olumlu oyu ile alınır.",
@@ -8730,7 +8730,7 @@
     "answer": 2
   },
   {
-    "q": "Aşağıdaki şirketlerden hangisi 6362 sayılı SPKn uyarınca doğrudan 'Halka Açık Sayılan Ortaklık' statüsü kazanır?",
+    "q": "Aşağıdaki şirketlerden hangisi 6362 sayılı SPK uyarınca doğrudan 'Halka Açık Sayılan Ortaklık' statüsü kazanır?",
     "options": [
       "A) Kuruluşundan itibaren doğrudan SPK kaydına alınarak kitle fonlaması platformları aracılığıyla para toplayan 200 ortaklı girişim şirketi.",
       "B) Paylarını halka arz etmek üzere izahname taslağı ile SPK'ya henüz başvurmuş olan anonim şirket.",
@@ -8741,7 +8741,7 @@
     "answer": 3
   },
   {
-    "q": "Kayıtlı sermaye sistemi ile ilgili olarak SPKn'nda yer alan düzenlemelere göre aşağıdaki ifadelerden hangisi yanlıştır?",
+    "q": "Kayıtlı sermaye sistemi ile ilgili olarak SPK'nda yer alan düzenlemelere göre aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
       "A) Genel kurul, yönetim kuruluna esas sözleşmede tespit edilen kayıtlı sermaye tavanına kadar sermayeyi artırma yetkisini en çok beş yıl süre ile verebilir.",
       "B) Yönetim kurulu, imtiyazlı pay sahiplerinin haklarını kısıtlayıcı kararları ancak genel kuruldan ayrıca bir onay almak şartıyla alabilir.",
@@ -8774,7 +8774,7 @@
     "answer": 2
   },
   {
-    "q": "Halka açık anonim ortaklıklarda aşağıda sayılan işlemlerden hangisi SPKn uyarınca doğrudan 'önemli nitelikteki işlem' kapsamında sayılmaz ve ortaklara 'ayrılma hakkı' doğurmaz?",
+    "q": "Halka açık anonim ortaklıklarda aşağıda sayılan işlemlerden hangisi SPK uyarınca doğrudan 'önemli nitelikteki işlem' kapsamında sayılmaz ve ortaklara 'ayrılma hakkı' doğurmaz?",
     "options": [
       "A) Ortaklığın tür değiştirmesi.",
       "B) Ortaklığın tamamen veya önemli ölçüde faaliyet konusunu değiştirmesi.",
@@ -8796,7 +8796,7 @@
     "answer": 4
   },
   {
-    "q": "SPKn uyarınca halka açık anonim ortaklıkların genel kurul toplantılarına ilişkin aşağıdakilerden hangisi doğrudur?",
+    "q": "SPK uyarınca halka açık anonim ortaklıkların genel kurul toplantılarına ilişkin aşağıdakilerden hangisi doğrudur?",
     "options": [
       "A) Toplantı çağrısı, toplantı günü hariç olmak üzere en az 15 gün önceden yapılmalıdır.",
       "B) Ortaklık merkezinin yurt dışına taşınması işleminde TTK 418'deki adi toplantı nisapları uygulanır.",
@@ -8818,9 +8818,9 @@
     "answer": 0
   },
   {
-    "q": "SPKn'da yapılan düzenlemeler çerçevesinde kitle fonlaması (crowdfunding) faaliyetleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "q": "SPK'da yapılan düzenlemeler çerçevesinde kitle fonlaması (crowdfunding) faaliyetleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
     "options": [
-      "A) Kitle fonlaması faaliyetlerine yatırım yapanlar, SPKn'daki yatırımcı tazmin merkezinin güvence kapsamı dışındadır.",
+      "A) Kitle fonlaması faaliyetlerine yatırım yapanlar, SPK'daki yatırımcı tazmin merkezinin güvence kapsamı dışındadır.",
       "B) Kitle fonlaması suretiyle para toplayan girişim şirketleri ihraççı veya halka açık ortaklık sayılmazlar.",
       "C) Kitle fonlaması suretiyle halktan para toplanmasında izahname veya ihraç belgesi hazırlama yükümlülüğü aranmaz.",
       "D) Kitle fonlama platformları doğrudan borsalar ve teşkilatlanmış pazar yerlerine ilişkin hükümlere tabidir.",
@@ -8829,18 +8829,18 @@
     "answer": 3
   },
   {
-    "q": "SPKn'da yer alan 'Yatırım Hizmetleri ve Faaliyetleri' ile 'Yan Hizmetler'in icrasına ilişkin aşağıdaki yargılardan hangisi yanlıştır?",
+    "q": "SPK'da yer alan 'Yatırım Hizmetleri ve Faaliyetleri' ile 'Yan Hizmetler'in icrasına ilişkin aşağıdaki yargılardan hangisi yanlıştır?",
     "options": [
       "A) Yatırım hizmetlerinin ticari faaliyet olarak icra edilebilmesi için SPK'dan yetki belgesi alınması zorunludur.",
       "B) Münhasıran (sadece) yan hizmetleri icra etmek amacıyla bir yatırım kuruluşu kurulamaz.",
-      "C) Bankalar da SPKn uyarınca yatırım kuruluşu statüsündedir ve belli faaliyetleri icra edebilirler.",
+      "C) Bankalar da SPK uyarınca yatırım kuruluşu statüsündedir ve belli faaliyetleri icra edebilirler.",
       "D) Mevduat bankaları ile katılım bankaları portföy yöneticiliği ve halka arza aracılık hizmetlerini serbestçe yürütebilirler.",
       "E) Faaliyet izni iptal edilen kuruluşlar üç ay içinde ticaret unvanı ve esas sözleşmelerini değiştirmek veya sona erme kararı almak zorundadır."
     ],
     "answer": 3
   },
   {
-    "q": "Ortaklıktan çıkarma ve satma hakkı (Squeeze-out ve Sell-out) ile ilgili SPKn alt düzenlemeleri (Tebliğ) uyarınca, hâkim ortağın azınlığı ortaklıktan çıkarabilmesi (veya azınlığın payını satabilmesi) için ulaşılması gereken oy hakkı oranı kural olarak yüzde kaçtır?",
+    "q": "Ortaklıktan çıkarma ve satma hakkı (Squeeze-out ve Sell-out) ile ilgili SPK alt düzenlemeleri (Tebliğ) uyarınca, hâkim ortağın azınlığı ortaklıktan çıkarabilmesi (veya azınlığın payını satabilmesi) için ulaşılması gereken oy hakkı oranı kural olarak yüzde kaçtır?",
     "options": [
       "A) % 90",
       "B) % 95",
@@ -8851,7 +8851,7 @@
     "answer": 2
   },
   {
-    "q": "2024 yılında SPKn'na eklenen düzenlemeler uyarınca, 'Kripto Varlık Hizmet Sağlayıcıları' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "q": "2024 yılında SPK'na eklenen düzenlemeler uyarınca, 'Kripto Varlık Hizmet Sağlayıcıları' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
       "A) Kripto varlık hizmet sağlayıcılarının kurulabilmesi ve faaliyete başlaması için Sermaye Piyasası Kurulu'ndan (SPK) izin alınması zorunludur.",
       "B) Bu kuruluşların pay devirlerinde Kurul izninin alınması zorunlu olup, bu izne aykırı yapılan devirler pay defterine kaydolunsa dahi hükümsüzdür.",
@@ -8873,7 +8873,7 @@
     "answer": 3
   },
   {
-    "q": "6362 sayılı SPKn uyarınca 'Aracı Kurumların' kuruluş şartları arasında aşağıdakilerden hangisi yer almaz?",
+    "q": "6362 sayılı SPK uyarınca 'Aracı Kurumların' kuruluş şartları arasında aşağıdakilerden hangisi yer almaz?",
     "options": [
       "A) Anonim ortaklık şeklinde kurulmaları",
       "B) Sermayelerinin tamamının kurucu ortaklar tarafından bloke edilerek nakit ve ayni varlıkların yarı yarıya (50/50) oluşturulması",
@@ -8906,7 +8906,7 @@
     "answer": 3
   },
   {
-    "q": "SPKn uyarınca yatırım fonlarını kurma ve yönetme işlevini yürüten 'Portföy Yönetim Şirketleri' ve 'Portföy Saklama Hizmeti' veren kuruluşlar arasındaki ilişki ağı düşünüldüğünde, aşağıdaki işlemlerden hangisi kanuna uygundur?",
+    "q": "SPK uyarınca yatırım fonlarını kurma ve yönetme işlevini yürüten 'Portföy Yönetim Şirketleri' ve 'Portföy Saklama Hizmeti' veren kuruluşlar arasındaki ilişki ağı düşünüldüğünde, aşağıdaki işlemlerden hangisi kanuna uygundur?",
     "options": [
       "A) Portföy saklama hizmetini yürüten kuruluş ile portföy yönetim şirketinin aynı tüzel kişilik bünyesinde birleştirilmesi.",
       "B) Portföy yönetim şirketinin yöneticilerinin veya ortaklarının, aynı zamanda portföy saklama kuruluşunda temsilci olarak görev alması.",
@@ -8939,7 +8939,7 @@
     "answer": 2
   },
   {
-    "q": "6362 sayılı SPKn uyarınca, Merkezi Kayıt Kuruluşu A.Ş.'nin (MKK) yürüttüğü faaliyetler arasında aşağıdakilerden hangisi yasal olarak yer almaz?",
+    "q": "6362 sayılı SPK uyarınca, Merkezi Kayıt Kuruluşu A.Ş.'nin (MKK) yürüttüğü faaliyetler arasında aşağıdakilerden hangisi yasal olarak yer almaz?",
     "options": [
       "A) Sermaye piyasası araçlarının kaydileştirilmesine ilişkin işlemleri elektronik ortamda yürütmek.",
       "B) TTK kapsamındaki şirketlerin kurumsal yönetim ilkelerine uyumunu sağlamak üzere elektronik bir genel kurul platformu oluşturmak.",
@@ -8953,7 +8953,7 @@
     "q": "Borsaların ve piyasa işleticilerinin hukuki durumu ve idari yapısıyla ilgili aşağıdaki yargılardan hangisi mevzuata uygundur?",
     "options": [
       "A) Borsalar, idari ve mali konularda kamu sermayeli şirket veya kamu idaresini ilgilendiren kısıtlama ve uygulamalara doğrudan tabidir.",
-      "B) Borsalar, SPKn'da yer alan hükümler saklı kalmak kaydıyla özel hukuk hükümlerine tabi olan anonim şirketlerdir.",
+      "B) Borsalar, SPK'da yer alan hükümler saklı kalmak kaydıyla özel hukuk hükümlerine tabi olan anonim şirketlerdir.",
       "C) Borsa personeli ve yönetim kurulu üyeleri 657 sayılı Devlet Memurları Kanunu hükümlerine göre atanır ve görevden alınır.",
       "D) Borsalar kendi bütçelerini oluşturamazlar, bütçeleri doğrudan Hazine ve Maliye Bakanlığı tarafından merkezi yönetim bütçesinden tahsis edilir.",
       "E) Bir sermaye piyasası aracının borsa kotundan çıkarılmasına yalnızca Sermaye Piyasası Kurulu (SPK) karar verebilir, borsanın böyle bir yetkisi yoktur."
@@ -9005,7 +9005,7 @@
     "answer": 2
   },
   {
-    "q": "6362 sayılı SPKn bağlamında 'Kolektif Yatırım Kuruluşları'nın genel özellikleri ve tâbi oldukları ilkeler göz önüne alındığında aşağıdakilerden hangisi bu ilkelerden biri değildir?",
+    "q": "6362 sayılı SPK bağlamında 'Kolektif Yatırım Kuruluşları'nın genel özellikleri ve tâbi oldukları ilkeler göz önüne alındığında aşağıdakilerden hangisi bu ilkelerden biri değildir?",
     "options": [
       "A) Portföyün riskin dağıtılması (çeşitlendirme) ilkesine göre yönetilmesi",
       "B) Fonların profesyonel yöneticiler (uzmanlar) tarafından yönetilmesi",
@@ -9016,7 +9016,7 @@
     "answer": 3
   },
   {
-    "q": "6362 sayılı SPKn uyarınca, Yatırımcı Tazmin Merkezi (YTM) tarafından yürütülecek tedrici tasfiye işlemlerinde, nakit ve paraya çevrilen aktiflerden yapılacak ödemelerin öncelik sırası aşağıdakilerin hangisinde doğru verilmiştir?<br><br>I. Kamu alacakları<br>II. Diğer alacaklar<br>III. Müşteri alacakları<br>IV. YTM'nin yatırımcıları tazmin kapsamında yaptığı ödemeler ve tasfiye giderleri",
+    "q": "6362 sayılı SPK uyarınca, Yatırımcı Tazmin Merkezi (YTM) tarafından yürütülecek tedrici tasfiye işlemlerinde, nakit ve paraya çevrilen aktiflerden yapılacak ödemelerin öncelik sırası aşağıdakilerin hangisinde doğru verilmiştir?<br><br>I. Kamu alacakları<br>II. Diğer alacaklar<br>III. Müşteri alacakları<br>IV. YTM'nin yatırımcıları tazmin kapsamında yaptığı ödemeler ve tasfiye giderleri",
     "options": [
       "A) III - I - IV - II",
       "B) I - III - IV - II",
@@ -9038,7 +9038,7 @@
     "answer": 1
   },
   {
-    "q": "6362 sayılı SPKn uyarınca piyasa dolandırıcılığı (manipülasyon) suçu işleyenler için öngörülen 'Etkin Pişmanlık' müessesesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "q": "6362 sayılı SPK uyarınca piyasa dolandırıcılığı (manipülasyon) suçu işleyenler için öngörülen 'Etkin Pişmanlık' müessesesine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
     "options": [
       "A) Soruşturma başlamadan önce elde edilen menfaatin iki katının Hazineye ödenmesi halinde bu suçtan dolayı cezaya hükmolunmaz.",
       "B) Menfaat tutarının soruşturma başladıktan sonra Hazineye ödenmesi halinde, verilecek ceza yarısı oranında indirilir.",
@@ -9060,7 +9060,7 @@
     "answer": 3
   },
   {
-    "q": "6362 sayılı SPKn uyarınca ihraççıların, kanuna ve esas sözleşmeye aykırı işlemleri sebebiyle sermayesinin veya malvarlığının azalmasına yol açtığının tespiti hâlinde, SPK'nın açabileceği 'iptal davası' ve 'butlan veya yokluğun tespiti davası' için öngörülen hak düşürücü süreler sırasıyla aşağıdakilerden hangisidir?",
+    "q": "6362 sayılı SPK uyarınca ihraççıların, kanuna ve esas sözleşmeye aykırı işlemleri sebebiyle sermayesinin veya malvarlığının azalmasına yol açtığının tespiti hâlinde, SPK'nın açabileceği 'iptal davası' ve 'butlan veya yokluğun tespiti davası' için öngörülen hak düşürücü süreler sırasıyla aşağıdakilerden hangisidir?",
     "options": [
       "A) Tespitten itibaren 1 ay / İşlem tarihinden itibaren 5 yıl",
       "B) Tespitten itibaren 3 ay / İşlem tarihinden itibaren 5 yıl",
@@ -9082,7 +9082,7 @@
     "answer": 2
   },
   {
-    "q": "6362 sayılı SPKn'na göre tüzel kişilerin, Kurul düzenlemelerine veya kararlarına aykırı hareket etmesi hâlinde uygulanacak idari para cezalarının (İPC) hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+    "q": "6362 sayılı SPK'na göre tüzel kişilerin, Kurul düzenlemelerine veya kararlarına aykırı hareket etmesi hâlinde uygulanacak idari para cezalarının (İPC) hesaplanmasına ilişkin aşağıdakilerden hangisi doğrudur?",
     "options": [
       "A) Tüzel kişilere uygulanacak asgari İPC, aykırılık tarihinden önceki son yılın net kârının yüzde yirmisine eşittir.",
       "B) Aykırılığın tüzel kişinin zararına bir sonuç doğurması hâlinde de tüzel kişiliğin kurumsal sorumluluğu gereği mutlaka İPC verilir.",
@@ -9104,7 +9104,7 @@
     "answer": 0
   },
   {
-    "q": "6362 sayılı SPKn uyarınca, yatırım kuruluşlarına veya konut/varlık finansmanı fon kurullarına tevdi edilen varlıkların kendisi veya başkası yararına satılması, gizlenmesi veya inkâr edilmesi suçunu (Güveni Kötüye Kullanma) işleyenler hakkında uygulanacak yaptırım ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "q": "6362 sayılı SPK uyarınca, yatırım kuruluşlarına veya konut/varlık finansmanı fon kurullarına tevdi edilen varlıkların kendisi veya başkası yararına satılması, gizlenmesi veya inkâr edilmesi suçunu (Güveni Kötüye Kullanma) işleyenler hakkında uygulanacak yaptırım ile ilgili aşağıdakilerden hangisi doğrudur?",
     "options": [
       "A) Fiil TCK md. 155 uyarınca güveni kötüye kullanma suçunun temel şekli sayılır ve sadece adli para cezasına hükmolunur.",
       "B) Fiil güveni kötüye kullanma suçunun nitelikli hali sayılır, ancak verilecek hapis cezası altı aydan az olamaz.",
@@ -9126,7 +9126,7 @@
     "answer": 1
   },
   {
-    "q": "6362 sayılı SPKn md. 109/A hükmünde düzenlenen 'İzinsiz Kripto Varlık Hizmet Sağlayıcılığı' faaliyetine ilişkin yaptırım aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "q": "6362 sayılı SPK md. 109/A hükmünde düzenlenen 'İzinsiz Kripto Varlık Hizmet Sağlayıcılığı' faaliyetine ilişkin yaptırım aşağıdakilerden hangisinde doğru olarak verilmiştir?",
     "options": [
       "A) Altı aydan iki yıla kadar hapis ve bir milyon liraya kadar idari para cezası.",
       "B) Bir yıldan üç yıla kadar hapis ve sağlanan menfaatin iki katı kadar idari para cezası.",
@@ -9137,7 +9137,7 @@
     "answer": 3
   },
   {
-    "q": "Kripto varlık hizmet sağlayıcılarda 'Zimmet Suçu' (SPKn md. 110/A) ve hukuki sonuçlarıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "q": "Kripto varlık hizmet sağlayıcılarda 'Zimmet Suçu' (SPK md. 110/A) ve hukuki sonuçlarıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
     "options": [
       "A) Suçun basit halinde sekiz yıldan on dört yıla kadar hapis ve beş bin güne kadar adli para cezası öngörülmüştür.",
       "B) Zimmetin açığa çıkmamasını sağlamaya yönelik hileli davranışlarla işlenmesi halinde ceza artırılır.",
@@ -9170,7 +9170,7 @@
     "answer": 2
   },
   {
-    "q": "6362 sayılı SPKn uyarınca 'Örtülü Kazanç Aktarımı' fiilinin hukuki sonuçları ve cezai yaptırımlarıyla ilgili olarak aşağıdakilerden hangisi kesinlikle söylenemez?",
+    "q": "6362 sayılı SPK uyarınca 'Örtülü Kazanç Aktarımı' fiilinin hukuki sonuçları ve cezai yaptırımlarıyla ilgili olarak aşağıdakilerden hangisi kesinlikle söylenemez?",
     "options": [
       "A) Pasif (ihmali) yollarla gerçekleştirilen örtülü kazanç aktarımı fiilleri doğrudan hapis cezası değil, idari para cezası yaptırımına tabi tutulmuştur.",
       "B) Aktif hareketle gerçekleştirilen örtülü kazanç aktarımı eylemleri, TCK'nın güveni kötüye kullanma suçunun nitelikli hali olarak değerlendirilir.",
@@ -9192,7 +9192,7 @@
     "answer": 1
   },
   {
-    "q": "Yurt dışında yerleşik kripto varlık platformlarının Türkiye'deki faaliyetleri değerlendirildiğinde, SPKn uyarınca aşağıdakilerden hangisi faaliyetin 'Türkiye'de yerleşik kişilere yönelik' olduğunun (ve dolayısıyla izinsiz faaliyet sayılacağının) göstergelerinden biri olamaz?",
+    "q": "Yurt dışında yerleşik kripto varlık platformlarının Türkiye'deki faaliyetleri değerlendirildiğinde, SPK uyarınca aşağıdakilerden hangisi faaliyetin 'Türkiye'de yerleşik kişilere yönelik' olduğunun (ve dolayısıyla izinsiz faaliyet sayılacağının) göstergelerinden biri olamaz?",
     "options": [
       "A) Yurt dışında yerleşik platform tarafından Türkiye'de resmi bir iş yeri (irtibat ofisi) açılması.",
       "B) Platformun internet sitesinin tamamen Türkçe olarak tasarlanıp yayınlanması.",
@@ -9247,7 +9247,7 @@
     "answer": 1
   },
   {
-    "q": "6362 sayılı SPKn md. 112'de yer alan 'Yasal Defterlerde, Muhasebe Kayıtlarında ve Finansal Tablolar ile Raporlarda Usulsüzlük' eylemleri sonucunda verilecek cezalarla ilgili aşağıdakilerden hangisi doğrudur?",
+    "q": "6362 sayılı SPK md. 112'de yer alan 'Yasal Defterlerde, Muhasebe Kayıtlarında ve Finansal Tablolar ile Raporlarda Usulsüzlük' eylemleri sonucunda verilecek cezalarla ilgili aşağıdakilerden hangisi doğrudur?",
     "options": [
       "A) Defter ve kayıtları usulüne uygun tutmayanlara doğrudan Türk Ceza Kanunu'nun (TCK) belgede sahtecilik hükümleri uygulanır.",
       "B) Defter ve belgeleri yasal saklama süresi olan 8 yıl boyunca saklamayanlara 6 aydan 2 yıla kadar hapis cezası öngörülmüştür.",
@@ -9271,7 +9271,7 @@
   {
     "q": "Piyasa bozucu eylemler (Manipülatif işlem ve eylemler) ile ilgili mevzuat hükümleri değerlendirildiğinde aşağıdakilerden hangisi yanlıştır?",
     "options": [
-      "A) Bir eylemin 'piyasa bozucu' sayılabilmesi için o eylemin Türk Ceza Kanunu veya SPKn kapsamında doğrudan bir suç (hapis cezası gerektiren fiil) oluşturmaması gerekir.",
+      "A) Bir eylemin 'piyasa bozucu' sayılabilmesi için o eylemin Türk Ceza Kanunu veya SPK kapsamında doğrudan bir suç (hapis cezası gerektiren fiil) oluşturmaması gerekir.",
       "B) Piyasa bozucu eylemleri gerçekleştiren kişilere Kurul tarafından idari para cezası uygulanır.",
       "C) Bu eylemler için kesilecek İPC tutarı elde edilen menfaatin iki katından az olamaz.",
       "D) Menfaat hesaplamasında, failin ödediği komisyonlar, işlem vergileri ve kredi faizleri elde edilen kârdan düşülerek (netleştirilerek) hesaplama yapılır.",
@@ -9280,7 +9280,7 @@
     "answer": 3
   },
   {
-    "q": "6362 sayılı SPKn uyarınca sermaye piyasasında gerçekleştirilen ihraç süreci ve kamuyu aydınlatma belgeleriyle ilgili aşağıdaki durumlardan hangisi usulsüzlük (suç) kabul edilmez?",
+    "q": "6362 sayılı SPK uyarınca sermaye piyasasında gerçekleştirilen ihraç süreci ve kamuyu aydınlatma belgeleriyle ilgili aşağıdaki durumlardan hangisi usulsüzlük (suç) kabul edilmez?",
     "options": [
       "A) İzahnamenin SPK tarafından onaylanma süreci tamamlanmadan yatırımcılara çağrı yapılarak payların satışa sunulması.",
       "B) Halka arz edilmeksizin, sadece nitelikli yatırımcılara yönelik yapılan satışlarda SPK'ya ihraç belgesi onaylatılması zorunluluğunun yerine getirilmemesi.",
