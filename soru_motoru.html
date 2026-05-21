@@ -819,6 +819,12 @@ function kilitAc() {
                 let veri = JSON.parse(eskiKayit);
                 if (confirm("Bu testte en son " + (veri.index + 1) + ". soruda kaldınız.\n\nKaldığınız yerden devam etmek ister misiniz?")) {
                     mevcutSoruIndex = veri.index; dogruSayisi = veri.dogru; yanlisSayisi = veri.yanlis;
+                    
+                    // --- YENİ EKLENEN KISIM: Eski Cevapları ve Hata Geçmişini Geri Yükle ---
+                    if (veri.cevaplar) denemeCevaplari = veri.cevaplar;
+                    if (veri.hataliSorular) window.hataliSorular = veri.hataliSorular;
+                    if (veri.kategoriAnalizi) window.kategoriAnalizi = veri.kategoriAnalizi;
+                    // ------------------------------------------------------------------------
                 } else {
                     localStorage.removeItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi);
                     mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
@@ -952,7 +958,16 @@ function kilitAc() {
             if(mevcutSoruIndex < aktifSorular.length - 1) {
                 mevcutSoruIndex++; 
                 if(!isDenemeMode && !isIncelemeMode) {
-                    const kayitBilgisi = { index: mevcutSoruIndex, dogru: dogruSayisi, yanlis: yanlisSayisi };
+                    // --- GÜNCELLENEN KISIM: Kayıt paketine cevapları ve AI analiz verilerini ekledik ---
+                    const kayitBilgisi = { 
+                        index: mevcutSoruIndex, 
+                        dogru: dogruSayisi, 
+                        yanlis: yanlisSayisi,
+                        cevaplar: denemeCevaplari,
+                        hataliSorular: window.hataliSorular || [],
+                        kategoriAnalizi: window.kategoriAnalizi || {}
+                    };
+                    // -------------------------------------------------------------------------------------
                     localStorage.setItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
                 }
                 soruYukle();
