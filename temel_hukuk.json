@@ -7617,6 +7617,1119 @@
       "answer": 2
     }
   ],
+   "C - Ticaret Hukuku||Çalışma Soruları (MCH)": [
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi ticari işletmenin zorunlu unsurları arasında yer almaz?",
+    "options": [
+      "A) Esnaf faaliyeti düzeyini aşma",
+      "B) Gelir sağlamayı hedef tutma",
+      "C) Verimlilik",
+      "D) Bağımsızlık",
+      "E) Devamlılık"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanununa göre, ticari işletmenin devri sözleşmesinin geçerliliği ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Ticari işletmenin devri sözleşmesi, herhangi bir geçerlilik şekline tabi değildir.",
+      "B) Ticari işletmenin devri sözleşmesi yazılı olarak yapılır, ticaret siciline tescil ve ilan edilir.",
+      "C) Ticari işletmenin devri sözleşmesi tapuda resmi şekilde yapılmalıdır.",
+      "D) Noter tarafından düzenleme şeklinde yapılmalıdır.",
+      "E) Ticaret sicili memurları tarafından resmi şekilde yapılmalıdır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Salih, küçük bir hırdavat dükkânı işleten ve basit tesisat işleri için evlere tamire giden bir esnaftır.<br><br>Buna göre Salih ile ilgili;<br>I. Tamirat için gittiği bir evde işi tamamladıktan sonra kararlaştırılmamış olsa bile uygun bir ücret isteyebilir.<br>II. İsterse işletme adı kullanabilir.<br>III. Almış olduğu mallara ilişkin bir sözleşmeden dönmek isterse bu ihtarı sadece noter aracılığıyla yapabilir.<br><br>ifadelerinden hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Sözleşmenin feshi<br>II. Faturaya itiraz<br>III. Temerrüt ihtarı<br><br>6102 sayılı Türk Ticaret Kanunu'na göre yukarıdakilerden hangisinin/hangilerinin, noter aracılığıyla, taahhütlü mektupla, telgrafla veya güvenli elektronik imza kullanılarak kayıtlı elektronik posta sistemi ile yapılması gerekir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve III",
+      "E) II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Tacirlerin adi borçlarından dolayı iflas yoluyla takip edilmesi mümkün değildir.<br>II. Tacirler kanun hükümlerine uygun bir ticaret unvanı seçmek ve kullanmakla yükümlüdür.<br>III. Gerçek kişi tacirlerin yevmiye defteri, envanter defteri ve defteri kebir tutmaları tercihlerine bağlıdır.<br>IV. Ticari işletmesi ile ilgili bir iş görmüş tacir, sözleşmede açıkça kararlaştırılmamışsa ücret isteyemez.<br>V. Tacir, verdiği avanslar ve yaptığı giderler için ödeme tarihinden itibaren faize hak kazanır.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre, tacir olmanın sonuçlarına ilişkin olarak yukarıda verilen önermelerin hangileri doğrudur?",
+    "options": [
+      "A) I ve II",
+      "B) I ve V",
+      "C) II ve V",
+      "D) III ve IV",
+      "E) IV ve V"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi bir ticari işletmeyi kendi adına işletse dahi tacir sayılmaz?",
+    "options": [
+      "A) Ticaret yapmaktan menedilenler",
+      "B) Kollektif şirketler",
+      "C) Anonim şirketler",
+      "D) Kamu yararına çalışan dernekler",
+      "E) Gelirinin yüzde birini kamu görevi niteliğindeki işlere harcayan vakıflar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türk Ticaret Kanunu hükümleri uyarınca, iki tacir arasında akdedilen bir ticari sözleşme ile ilgili aşağıdaki ifadelerden hangileri doğrudur?<br><br>I. Tacir, işletmesiyle ilgili bir sözleşmede kararlaştırılan cezai şartın fahiş olduğunu ileri sürerek mahkemeden indirim isteyebilir.<br>II. Ticari işlerde taraflar, uygulanacak temerrüt faizi oranını sözleşme özgürlüğü çerçevesinde serbestçe belirleyebilirler.<br>III. Sözleşmenin feshine ilişkin bildirimi noter aracılığıyla, taahhütlü mektupla, telgrafla veya güvenli elektronik imza kullanılarak veya kayıtlı elektronik posta sistemi yapmak zorundadır.",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Kendisine ait olan apartmanı öğrenci yurdu olarak işletmeye karar veren Murat, işletmeye başlamamış olmasına karşın öğrenci yurdunu ticaret siciline tescil ettirmiştir. Tescil işleminden sonra öğrenci yurdunun tanıtımı için el ilanı bastırarak öğrencilere dağıtmıştır.<br><br>Buna göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Murat gerçek kişi tacirdir.",
+      "B) Murat tacir gibi sorumludur.",
+      "C) Murat tacir sayılandır.",
+      "D) Murat tüzel kişi tacirdir.",
+      "E) Murat esnaftır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi tacir sıfatının özel hüküm ve sonuçları arasında yer almaz?",
+    "options": [
+      "A) Tutulması gerekli ticari defterleri tutma yükümlülüğü",
+      "B) Ticari işletmesiyle ilgili gördüğü iş veya hizmetler için uygun bir ücret isteme imkânı",
+      "C) Basiretli bir iş insanı gibi hareket etme yükümlülüğü",
+      "D) Ticaret odasına kaydolma yükümlülüğü",
+      "E) Teyit mektubu düzenleme imkânı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi \"ticari iş\" niteliğinde değildir?",
+    "options": [
+      "A) Öğrenci (E)'nin gerçek kişi tacir olan (F)'nin eczanesinden ilaç satın alması",
+      "B) Beyaz eşya satıcısı olan gerçek kişi tacir (G)'nin bir tüzel kişi tacir olan (H)'nin fabrikasından işletmesinde satılmak üzere buzdolabı satın alması",
+      "C) Devlet memuru (C)'nin bir başka devlet memuru olan (D)'nin arabasını satın alması karşılığında çek vermesi",
+      "D) Devlet memuru (K)'nın evinde kullanmak üzere tüzel kişi tacir (L)'den televizyon satın alması",
+      "E) Nakliye işleri yapan esnaf (A)'nın eşya taşırken restoran işleten esnaf (B)'nin işletmesine çarparak camlarını kırması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, ticari örf ve âdetin uygulanması hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bir bölgeye özgü ticari örf ve âdetler genel olanlara üstün tutulur.",
+      "B) Ticari örf ve âdet, kanunun üzerindedir.",
+      "C) Ticari örf ve âdet, tacir sıfatını haiz bulunmayanlar hakkında ancak onlar tarafından bilindiği veya bilinmesi gerektiği takdirde uygulanır.",
+      "D) Bir ticaret dalına özgü ticari örf ve âdetler, genel olanlara üstün tutulur.",
+      "E) Özel ticari örf ve âdetin uygulanacağı bir uyuşmazlıkta, ilgililer aynı bölgede değillerse kanunda veya sözleşmede aksi öngörülmedikçe ifa yerindeki ticari örf ve âdet uygulanır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi geçerli bir ticaret unvanıdır?",
+    "options": [
+      "A) Mert Çetin ve Selim Yüce Limited Şirketi",
+      "B) M. Çetin İnşaat",
+      "C) Mert Çetin İnşaat Limited Şirketi",
+      "D) Mert Çetin Anonim Şirketi",
+      "E) Çetin Limited Şirketi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 6102 sayılı Türk Ticaret Kanunu'nda bir ticaret unvanına ancak Cumhurbaşkanı kararıyla ek olarak konulabilecek kelimeler arasında sayılmamıştır?",
+    "options": [
+      "A) Türk",
+      "B) Türkiye",
+      "C) Cumhuriyet",
+      "D) Millî",
+      "E) Anadolu"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Ali Aslan ile arkadaşı Veli Kaplan birlikte turizm alanında iki ortaklı bir anonim şirket kurmak ister ve hukuken doğru bir ticaret unvanı kullanmak için avukata başvurur.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre aşağıdakilerden hangisi bu şirket için doğru bir ticaret unvanı olmaz?",
+    "options": [
+      "A) Ali Aslan Turizm A.Ş.",
+      "B) Ali Aslan ve Veli Kaplan Turizm Anonim Şirketi",
+      "C) Ali Aslan Turizm Anonim Şirketi",
+      "D) Ali Aslan ve Ortağı Turizm Anonim Şirketi",
+      "E) Kırçiçeği Turizm A.Ş."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, ticaret unvanına ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Her tacir, ticari işletmesine ilişkin işlemleri, ticaret unvanıyla yapmak zorundadır.",
+      "B) Her tacir, ticaret unvanını ticaret siciline tescil ettirme yükümlülüğü altındadır.",
+      "C) Ticari işletmenin gerçek kişi sahibinin ticaret unvanında yer alan adı kanunen değişirse ticaret unvanının da değiştirilmesi zorunludur.",
+      "D) Ticaret unvanı ticari işletmeden ayrı olarak başkasına devredilemez.",
+      "E) Bir ticari işletmenin bütününün devri, aksi açıkça kabul edilmiş olmadıkça, unvanın da devri sonucunu doğurur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aksine hüküm bulunmadıkça, dava olunan şeyin değerine veya tutarına bakılmaksızın ...... tüm ticari davalar ile ticari nitelikteki çekişmesiz yargı işlerine bakmakla görevlidir.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre, yukarıda boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+    "options": [
+      "A) Asliye Ticaret Mahkemesi",
+      "B) İş Mahkemesi",
+      "C) Sulh Hukuk Mahkemesi",
+      "D) İcra Mahkemesi",
+      "E) Sulh Ticaret Mahkemesi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ticari temsilci aşağıdaki hukukî işlemlerden hangisini yaparken tacirden özel yetki almak zorundadır?",
+    "options": [
+      "A) Tacir adına bono düzenlemek",
+      "B) Tacir adına işletmeyle ilgili bir ihtilaf için alacak davası açmak",
+      "C) İşletme için finansman sağlayabilmek için kredi alırken işletmenin menkul ve gayrimenkullerini rehnetmek",
+      "D) İşletmeye ait bir gayrimenkulü kiraya vermek",
+      "E) İşletmede çalıştırılacak personel alımı için iş sözleşmesi akdetmek"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ticari temsilci aşağıdakilerden hangisini yapabilmek için tacirden özel yetki almak zorundadır?",
+    "options": [
+      "A) Kambiyo taahhüdünde bulunmak",
+      "B) Bankadan kredi almak",
+      "C) İşletmede çalışan işçilerin hizmet sözleşmelerini feshetmek",
+      "D) Gerekli gördüğü hallerde şube açmak",
+      "E) İşletmeye dâhil olan bir taşınmaz üzerinde rehin hakkı tesis etmek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi ticari temsilcinin temsil yetkisini sona erdiren hållerden biri değildir?",
+    "options": [
+      "A) Ticari temsilcinin ölümü",
+      "B) Tacirin kısıtlanması",
+      "C) Tacirin ticari temsilciyi azli",
+      "D) Ticari temsilcinin istifası",
+      "E) Ticari işletmenin devri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Madde 7: Temsilcilik alan bulunduğu bölgede temsilcilik veren adına ve hesabına sözleşmelere aracılık yapacaktır.<br>Madde 8: Temsilcilik alan'ın olağan masrafları kendisine ait olup bu masraflar için Temsilcilik Veren'den herhangi bir talepte bulunmayacaktır. Olağanüstü masraflar ise Temsilcilik Veren tarafından karşılanacaktır.<br>Madde 9: Süre Sözleşmenin süresi 5 yıldır. Sözleşme süresinin bitiminden 6 ay önce taraflar fesih bildiriminde bulunmazsa sözleşme 5 yıllık süre için yenilenir.<br><br>Yukarıdaki sözleşme hükümlerine göre temsilcilik alanın hukuki konumu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Acente",
+      "B) Tek satıcı",
+      "C) Ticari temsilci",
+      "D) Ticari vekil",
+      "E) Simsar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdaki tacir yardımcılarından hangisi Türk Ticaret Kanununda düzenlenmiştir?",
+    "options": [
+      "A) Ticari Vekil",
+      "B) Pazarlamacı",
+      "C) Acente",
+      "D) Ticari Temsilci",
+      "E) Simsar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Acentelik sözleşmesinden doğan alacaklar için kaç yıllık zamanaşımı uygulanır?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 5",
+      "E) 10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki tacir yardımcılarından hangisinin taciri temsil etme yetkisi yoktur?",
+    "options": [
+      "A) Ticari temsilci",
+      "B) Ticari vekil",
+      "C) Komisyoncu",
+      "D) Simsar",
+      "E) Acente"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, ticaret sicili hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Ticaret sicili alenidir; herkes sicilinin içeriğini inceleyebilir.",
+      "B) Ticaret sicilinin yanlış tutulmasından doğan zarardan Devlet sorumlu olmaz.",
+      "C) Kanunda aksine bir hüküm bulunmadıkça ticaret sicilinin yetki çevresi içinde oturanlar için tescil isteme süresi kural olarak on beş gündür.",
+      "D) Ticaret siciline tescili zorunlu olduğu hâlde tescil edilmemiş bir husus, iyiniyetli üçüncü kişilere karşı ileri sürülemez.",
+      "E) Tescil edilmiş hususlarda meydana gelen her türlü değişiklik de tescil olunur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ticaret siciline tescilin etkisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) Şirketlerin tür değiştirmesinde tescil bildirici niteliktedir.",
+      "B) Şirketlerin bolunmesinde tescil bildirici niteliktedir.",
+      "C) Gerçek kişilerin tacir sıfatını kazanmasında ticari işletmenin tescili kurucu etkiye sahiptir.",
+      "D) Anonim şirketin tüzel kişilik kazanmasında tescil bildirici niteliktedir.",
+      "E) Türk Ticaret Kanunu'ndaki işletme adının hukumlere göre korunmasında sicile tescil kurucu etkiye sahiptir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Tacir A, yaptığı reklamlarda kendisi, ticari işletmesi, işletme işaretleri, malları iş ürünleri, faaliyetleri, fiyatları, stokları, satış kampanyalarının biçimi ve iş ilişkileri hakkında gerçek dışı veya yanıltıcı açıklamalarda bulunmaktadır. Tacir A hukuka aykırı bu fiilinde kusurludur. Tacir A.nın reklamlarından tüketiciler etkilenmekte ve zarar görmektedir. Ayrıca müşteri kaybına uğrayan rakip tacir B de söz konusu reklamlar nedeniyle büyük ciro kaybına uğramıştır.<br><br>6102 sayılı TTK.na göre, aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Tüketici C, tacir A aleyhine haksız rekabet nedeniyle uğradığı manevi zarar için manevi tazminat davası açabilir",
+      "B) Tüketici derneği D, tüketicilerin uğradığı maddi zarar için maddi tazminat davası açabilir",
+      "C) Tüketici C, tacir A aleyhine açacağı dava ile haksız rekabetim men'ini talep edebilir",
+      "D) Tüketici derneği D, haksız rekabet teşkil eden yanlış veya yanıltıcı beyanların düzeltilmesini talep edebilir",
+      "E) Müşteri kaybına uğrayan rakip tacir B, uğradığı maddi zarar için maddi tazminat davası açabilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "I. Fiilin haksız olup olmadığının tespiti davası<br>II. Haksız rekabetin men'i davası<br>III. Haksız rekabetin sonucu olan maddi durumun ortadan kaldırılması talepli dava<br>IV. Maddi zararın tazmini talepli dava<br><br>6102 sayılı Türk Ticaret Kanunu'na göre haksız rekabet halinde tüketici dernekleri yukarıdaki davalardan hangilerini açabilir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız IV",
+      "C) I ve II",
+      "D) I, II ve III",
+      "E) II, III ve IV"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Araçların ve malların imhası<br>II. Haksız rekabetin men'i<br>III. Fiilin haksız olup olmadığının tespiti<br><br>6102 sayılı Türk Ticaret Kanunu'na göre haksız rekabet sonucu ekonomik çıkarları zarar gören veya böyle bir tehlikeyle karşılaşabilecek müşteriler, yukarıdakilerden hangilerini talep edemez?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) I ve III"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Haksız rekabet hukuku ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Haksız rekabet davalarının, davaya hakkı olan tarafın bu hakkının doğumunu öğrendiği günden 1 yıl ve her hâlde bunların doğumundan itibaren 3 yıl içerisinde açılması gerekir.",
+      "B) İşletme adı tescil edilmemişse sadece haksız rekabet hükümleri çerçevesinde korunabilir.",
+      "C) Haksız rekabet yüzünden iktisadi menfaatleri zarar gören müşteriler, haksız rekabet sonucu olan maddi durumun ortadan kaldırılması davası açamaz.",
+      "D) Haksız rekabet sebebiyle maddi ve manevi tazminat talep edilebilmesi için failin kusurlu olması şarttır.",
+      "E) Haksız rekabet sebebiyle istenecek maddi tazminatın hesabında davacı, mahkemeden, tazminat olarak davalının haksız rekabet sonucu elde etmesi mümkün görülen menfaat karşılığına hükmedilmesini isteyebilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisinin ticari defter tutma yükümlülüğü yoktur?",
+    "options": [
+      "A) Bir ticari işletmeyi kendi adına işleten memur",
+      "B) Kendisine ticari işletme miras kalan 14 yaşındaki Samet",
+      "C) Bir esnaf işletmesi işleten Mert",
+      "D) Bir ticari işletme açmış gibi işlemlerde bulunan Ahmet",
+      "E) Ticari işletmesini işletmeye başlamamasına rağmen ticaret siciline tescil ettiren Hamza"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "I. Ticari defter tutma zorunluluğu işletmenin ticaret siciline tescil edildiği anda başlar.<br>II. Ticari defterde kısaltmaya yer verilemez.<br>III. Dövizle işlem yapılsa dahi yıl sonu finansal tabloları kural olarak Türk Lirası üzerinden düzenlenir.<br>IV. Elektronik ortamda tutulan defterlerde noter onayı aranmaz.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre yukarıdakilerden hangileri yanlıştır?",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) II ve III",
+      "D) I, II ve III",
+      "E) I, II, III ve IV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ticari defterlerle ispat konusunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Tacirin kendi tuttuğu ticari defterlerinde yer alan lehine kayıtlara dayanabilmesi için ticari defterlerini usulüne uygun tutmuş olması zorunludur.",
+      "B) Ticari defterlerin sahibi lehine veya aleyhine delil olabilmesi için karşı tarafın da defter tutma yükümlülüğüne tâbi olması zorunludur.",
+      "C) Tacirin kendi tuttuğu defterlerde yer alan lehine kayıtlara dayanabilmesi için karşı tarafın defterlerinin usulüne uygun tutulmamış olması zorunludur.",
+      "D) Usulüne uygun tutulan ticari defterlerdeki kayıtlar defteri tutan aleyhine delil olarak kullanılamaz.",
+      "E) Ticari defter tutma yükümlülüğüne tâbi olan tacir defterlerini mahkemeye ibrazdan kaçınırsa, karşı tarafın iddiası ispat edilememiş sayılır."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi nama yazılı bir kıymetli evrak olarak kabul edilir?",
+    "options": [
+      "A) Düzenleyen tarafından menfi emre kaydı konulan bir bono",
+      "B) Ciranta tarafından ciro edilemez kaydı konulan bir poliçe",
+      "C) Ciranta tarafından ödememeden sorumsuzluk kaydı konulan bir bono",
+      "D) Düzenleyen tarafından kabul edilmemeden sorumsuzluk kaydı konulan bir poliçe",
+      "E) Ciranta tarafından ödememeden sorumsuzluk kaydı konulan bir poliçe"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kambiyo senetlerinin devir türü ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Bono; nama, emre veya hamile/hamiline yazılı olarak düzenlenebilir.",
+      "B) Bono; yalnızca emre yazılı olarak düzenlenebilir.",
+      "C) Poliçe; yalnızca emre yazılı olarak düzenlenebilir.",
+      "D) Çek; emre, nama veya hamile/hamiline yazılı olarak düzenlenebilir.",
+      "E) Çek; sadece emre veya hamile/hamiline yazılı olarak düzenlenebilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Konşimento<br>II. Bono<br>III. Çek<br><br>Yukarıdakilerden hangileri kambiyo senetleridir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Poliçe<br>II. Bono<br>III. Çek<br><br>Yukarıdakilerden hangileri hamiline yazılı olarak düzenlenebilir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "I. Kanunen emre yazılı bir senedin nama yazılı sayılabilmesi için sadece senedin belli bir kişi adına yazılı olması yeterlidir.<br>II. Poliçe, bono ve çek kanunen emre yazılı senet niteliğinde olup nama yazılı şekilde düzenlenmeleri mümkün değildir.<br>III. Emre yazılı senetlerin devredilmesi için ciro niteliğindeki yazılı devir beyanı ve zilyetliğin geçirilmesi gerekmektedir.<br>IV. Nama yazılı senetlerin devri için zilyetliğin devri yeterlidir.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre, kambiyo senetleri ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?",
+    "options": [
+      "A) Yalnız III",
+      "B) Yalnız IV",
+      "C) I ve II",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kambiyo senetleriyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Kanunen emre yazılı senetlerdir.",
+      "B) Geçerliliği sıkı şekil şartlarına bağlıdır.",
+      "C) İmzaların bağımsızlığı ilkesi geçerlidir.",
+      "D) İcra ve iflas hukukunda özel takip usulü vardır.",
+      "E) Geçerliliği, temelindeki borç ilişkisinin geçerliliğine bağlıdır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre aşağıdaki kayıtlardan hangisinin poliçede yer alması hâlinde ilgili kayıt yazılmamış sayılır?",
+    "options": [
+      "A) Düzenleyenin ödenmemeden sorumlu olmayacağına ilişkin kayıt",
+      "B) Görüldüğünde ödenecek vadeli bir poliçeye düzenleyen tarafından konulacak anapara faiz kaydı",
+      "C) Ciranta tarafından konulacak protestodan muafiyet kaydı",
+      "D) Senedin arka yüzüne imza ile birlikte düşülen aval kaydı",
+      "E) Ciranta tarafından konulan \"ciro edilemez\" kaydı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanununa göre, aşağıdaki kambiyo senetlerinden hangisinde kapital faizi geçerli şekilde öngörülebilir?",
+    "options": [
+      "A) İleri düzenlenme tarihli çekler",
+      "B) Düzenlenme tarihi ile tedavüle çıkarılma tarihi aynı olan çekler",
+      "C) Vade olarak belirli bir tarihte ödenmesi kararlaştırılan bonolar",
+      "D) Vade olarak düzenlenme tarihinden belirli bir süre sonra ödenmesi kararlaştırılan bonolar",
+      "E) Vade olarak görüldüğünden belirli bir süre sonra ödenmesi kararlaştırılan poliçeler"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, bono bedeli ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Bonoda ödenecek meblağ metnin üst kısmında \"100.000 TL\", ancak alt kısmında \"10.000 TL\" olarak gösterilmişse, 100.000 TL ödenmelidir.",
+      "B) Bonoda ödenecek meblağ metnin üst kısmında \"yüz bin TL\", ancak alt kısmında \"on bin TL\" olarak gösterilmişse, yüz bin TL ödenmelidir.",
+      "C) Bonoda ödenecek meblağ rakamla \"100.000 TL\", ancak yazıyla \"on bin TL\" olarak gösterilmişse, 100.000 TL ödenmelidir.",
+      "D) Bonoda ödenecek meblağ rakamla \"10.000 TL\", ancak yazıyla \"yüz bin TL\" olarak gösterilmişse, yüz bin TL ödenmelidir.",
+      "E) Bonoda ödenecek meblağ metnin üst kısmında \"100.000 TL\", ancak alt kısmında \"10.000 TL\" olarak gösterilmişse, her iki bedelin ortalaması olan 55.000 TL ödenmelidir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre yukarıda belirtilen vadelerden hangilerini taşıyan poliçelerde anapara faizi şartı yazılabilir?<br><br>I. Görüldüğünde ödenecek<br>II. Görüldükten belirli süre sonra ödenecek<br>III. Belirli bir günde ödenecek<br>IV. Düzenlenme gününden belirli bir süre sonra ödenecek",
+    "options": [
+      "A) I ve II",
+      "B) II ve III",
+      "C) II ve IV",
+      "D) III ve IV",
+      "E) I, III ve IV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Düzenleyen tarafından bononun ön yüzüne düşülen \"gidersiz\" kaydı hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Hamilin protesto çekme yükümlülüğünü ortadan kaldırır.",
+      "B) Hamilin ihbarda bulunma külfetini ortadan kaldırır.",
+      "C) Hamilin ödeme için ibrazda bulunma yükümlülüğünü ortadan kaldırır.",
+      "D) Hamilin vadesinden önce bonoyu düzenleyene ibraz yükümlülüğünü ortadan kaldırır.",
+      "E) Gidersiz kaydı bonoyu geçersiz hâle getiren kayıtlardandır, düzenleyen bu kaydı koyamaz"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 6102 sayılı Türk Ticaret Kanunu'nda bir poliçede yer alabilecek vade türleri arasında sayılmamıştır?",
+    "options": [
+      "A) Görüldüğünde ödenecek",
+      "B) Belirli bir günde ödenecek",
+      "C) Görüldükten belirli bir süre sonra ödenecek",
+      "D) Düzenleme gününden belirli bir süre sonra ödenecek",
+      "E) Ödeme için yapılan ibrazdan belirli bir süre sonra ödenecek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'nda aşağıdakilerden hangisi poliçenin ödenmemesi durumunda hamilin başvuru hakkının kapsamı dâhilinde sayılmamıştır?",
+    "options": [
+      "A) Poliçenin ödenmemiş olan bedeli",
+      "B) Keşide tarihiyle kabul etmeme veya ödememe protestosunun çekildiği tarihler arasındaki dönem için hesaplanacak temerrüt faizi",
+      "C) Protesto masrafları",
+      "D) Hamil tarafından yapılan ihbarların giderleri",
+      "E) Komisyon ücreti"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İbrahim, 01.06.2023 düzenleme tarihli bir poliçe keşide etmiş ancak senedin vadesini yazmayı unutmuştur. Bu poliçe Zeynep'te bulunmaktadır ve Zeynep bu poliçeyi ibraz etmek istemektedir.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre poliçenin düzenlenme gününden itibaren kural olarak ne kadar süre içinde ödenmesi için ibrazı gerekir?",
+    "options": [
+      "A) 3 ay",
+      "B) 6 ay",
+      "C) 1 yıl",
+      "D) 2 yıl",
+      "E) 3 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre poliçede ihbar ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Kanun'da belirtilen süreler içinde ihbarda bulunmayan kişi, başvurma hakkını kaybeder.",
+      "B) Her ciranta aldığı ihbarı, bunları aldığı günü izleyen iki iş günü içinde önceki ihbarları yapan kişilerin adlarını ve adreslerini de göstermek suretiyle kendi cirantasına ihbar eder.",
+      "C) Poliçede imzası bulunduğu için kendisine ihbarda bulunulan kişiyle birlikte bu kişiye aval verene de ihbarın yapılması gerekir.",
+      "D) Bir ciranta, adresini senede yazmamış veya okunması mümkün olmayacak surette yazmış ise ihbarın ondan önceki cirantaya yapılması yeterlidir.",
+      "E) İhbarı yapacak olan kişi, bunu noter aracılığıyla veya sadece poliçenin iadesi yoluyla yapabilir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Görüldüğünden belirli bir süre sonra ödenecek poliçelerde İbraz yapılmaz ya da kabul etmeme protestosu çekilmezse aşağıdaki sonuçlardan hangisi doğar?",
+    "options": [
+      "A) Poliçe vadeye kadar ibraz edilemez.",
+      "B) Vadeye kadar müracaat borçlularına başvurulamaz.",
+      "C) Bütün müracaat borçlularına karşı müracaat hakkı kaybedilir.",
+      "D) Yalnızca keşideciye karşı müracaat hakkı kaydedilir.",
+      "E) Muhatap asıl borç ilişkisinden doğan talep hakkını kaybeder."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir bonoda yapılan ciro beyanı \"10.10.2023 tarihli satım sözleşmesinin ifa edilmemesi hâlinde geçerlidir\" şeklinde bir kayıt içermektedir.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre, söz konusu kayıt ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Bu kayıt, yapılan ciroyu geçersiz kılar.",
+      "B) Bu kayıt, söz konusu bonoyu geçersiz kılar.",
+      "C) Bu kayıt yazılmamış sayılır.",
+      "D) Bu kayıt geçerli olup, ciro eden kişinin tüm senet borçlularına karşı ileri sürebileceği bir def'iye vücut verir.",
+      "E) \"Sorumsuzluk kaydı\" olarak adlandırılan bu tür kayıtları cirantaların koyabilmeleri mümkündür. Dolayısıyla kayıt geçerlidir."
+    ],
+    "answer": 2
+  },
+  {
+  "q": "Aşağıdakilerden hangisi nama yazılı bir kıymetli evrak olarak kabul edilir?",
+    "options": [
+      "A) Düzenleyen tarafından menfi emre kaydı konulan bir bono.",
+      "B) Ciranta tarafından ciro edilemez kaydı konulan bir poliçe.",
+      "C) Ciranta tarafından ödememeden sorumsuzluk kaydı konulan bir bono.",
+      "D) Düzenleyen tarafından kabul edilmemeden sorumsuzluk kaydı konulan bir poliçe.",
+      "E) Ciranta tarafından ödememeden sorumsuzluk kaydı konulan bir poliçe."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bonoyu cirolayan kişinin cironun yanına \"Bedeli teminattır\" ibaresini koymasının hukuki sonucu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Senedi teminat senedi hâline getirir.",
+      "B) Ciroyu rehin cirosu hâline getirir.",
+      "C) Bu kayıt ciroyu geçersiz hâle getirir.",
+      "D) Bu kayıt senedi geçersiz hâle getirir.",
+      "E) Bu kayıt ciro zincirini bozar."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Lehine ciro yapılan kişinin gösterilmediği ve cironun sadece cirantanın imzasından ibaret olduğu cirolara....................denir.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre, yukarıda verilen boşluk aşağıdakilerden hangisi ile en uygun şekilde doldurulabilir?",
+    "options": [
+      "A) Açık Ciro",
+      "B) Beyaz Ciro",
+      "C) Tam Ciro",
+      "D) Kısmi Ciro",
+      "E) Eksik Ciro"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, emre yazılı bir bonoda cironun yapılışı ve şekli ile ilgilin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Bonoda ilk ciroyu senedi düzenleyen yapar.",
+      "B) Açıkça bir kayıt içermeyen ciro, tahsil cirosu hükmündedir.",
+      "C) Bonoyu temlik cirosu ile devralan kişi tahsil cirosu yapamaz.",
+      "D) Bonoyu rehin cirosu ile devralan kişi temlik cirosu yapamaz.",
+      "E) Bonoyu ciro ile devreden kişi senedin asıl borçlusu tarafından ödenmemesi durumunda herhangi bir hukuki sorumluluğu yoktur."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, bonoda ciro zincirinde yer alan bir cirantanın, bononun ön yüzüne herhangi başka bir şey belirtmeksizin attığı imzanın hukuki niteliği nedir?",
+    "options": [
+      "A) Kabul beyanı",
+      "B) Aval beyanı",
+      "C) Geriye ciro beyanı",
+      "D) Kefalet beyanı",
+      "E) Retret iradesini yansıtan bir beyan"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, poliçede aval hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Aval şerhi poliçe veya alonj üzerine yazılır.",
+      "B) Aval veren kişi, kimin için taahhüt altına girmişse aynen onun gibi sorumlu olur.",
+      "C) Aval \"aval içindir\" veya bununla eş anlamlı başka bir ibareyle ifade edilir ve aval veren kişi tarafından imzalanır.",
+      "D) Muhatabın veya düzenleyenin imzaları hariç olmak üzere, poliçenin yüzüne atılan her imza aval şerhi sayılır.",
+      "E) Kimin için verildiği belirtilmemişse aval, muhatap için verilmiş sayılır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102sayılıTürkTicaretKanunu’nagöre,emreyazılı kambiyo senetlerinin cirosu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Cironun tabi tutulduğu her şart yazılmamış sayılır.",
+      "B)Kısmi ciro batıldır.",
+      "C) Senedin lehine ciro edildiği kişinin adı belirtilmemişse ciro yok hükmündedir.",
+      "D) Cironun geçerli olabilmesi için senet üzerine veya senede bağlı olan ve “ alonj ” denilen bir kâğıt üzerine yazılması ve ciranta tarafından imzalanması gerekir.",
+      "E) Senedin tekrar ciro edilmesini yasak eden ciranta , senedi devrettiği kişi tarafından sonradan kendilerine ciro edilmiş olan kişilere karşı senedin ödenmemesinden sorumlu olmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, emre yazılı kambiyo senetlerinin cirosu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Cironun tabi tutulduğu her şart yazılmamış sayılır.",
+      "B) Kısmi ciro batıldır.",
+      "C) Senedin lehine ciro edildiği kişinin adı belirtilmemişse ciro yok hükmündedir.",
+      "D) Cironun geçerli olabilmesi için senet üzerine veya senede bağlı olan ve \"alonj\" denilen bir kâğıt üzerine yazılması ve ciranta tarafından imzalanması gerekir.",
+      "E) Senedin tekrar ciro edilmesini yasak eden ciranta, senedi devrettiği kişi tarafından sonradan kendilerine ciro edilmiş olan kişilere karşı senedin ödenmemesinden sorumlu olmaz"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Murat, zorunlu şekli unsurları tam olan emre yazılı bir bononun arka yüzünü yalnızca imzalayarak Gülsüm'e devretmiştir.<br><br>Buna göre aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Gülsüm, Murat'ın imzasının üzerine \"Gülsüm'e ödeyeceğim.\" yazarak senedi devredebilir.",
+      "B) Gülsüm, senedin arka yüzüne imza atmadan senedi devredebilir.",
+      "C) Senet Gülsüm'den başka birinin eline geçerse, Murat, ciro zincirinin kopuk olduğunu belirterek ödeme yapmaktan kaçınabilir.",
+      "D) Gülsüm ödeme yapması için Murat'a başvurabilir.",
+      "E) Gülsüm senedin arka yüzüne \"Selim'e ödeyeceğim\" yazarak imzaladıktan sonra zilyetliğini Selim'e devrederse, senedin hamili Selim olur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bonoda imzaya ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Temsile yetkili olmadığı hâlde bir kişinin temsilcisi sıfatıyla bonoyu imzalayan kişi, bonodan bizzat sorumludur.",
+      "B) Bonoda sahte imza varsa bono geçersiz hale gelir.",
+      "C) Emre yazılı bir bonoyu borçlanmaya ehil olmayan bir kişi cirolamış olsa dahi düzenleyen bonoyu ödemek zorundadır.",
+      "D) Bononun 15 yaşındaki bir çocuk tarafından imzalanması hâlinde, çocuk bonoyu ödemekle sorumlu tutulamaz.",
+      "E) Bono hayali kişilerin imzasını içeriyorsa, diğer kişilerin imzalarının geçerliliği bundan etkilenmez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, bononun ön yüzüne keşideci(düzenleyen) dışındaki bir kişi tarafından ve herhangi bir açıklama yapılmadan atılmış imza ne anlama gelmektedir?",
+    "options": [
+      "A) Cayma",
+      "B) Kefalet",
+      "C) Garanti",
+      "D) Ciro",
+      "E) Aval"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi bononun zorunlu unsurlarından biri değildir?",
+    "options": [
+      "A) Lehtarın adı ve soyadı",
+      "B) Düzenleyenin imzası",
+      "C) \"Bono\" veya \"emre muharrer senet\" ifadesi",
+      "D) Karekod",
+      "E) Kayıtsız ve şartsız belirli bir bedeli ödemek vaadi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "\"İşbu bono karşılığında Latif Sevimli'ye 10.000 ödeyeceğim.\" şeklinde bir kayıt taşıyan ve diğer unsurları tam olan bir senet için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Bu senet nama yazılı bir bonodur.",
+      "B) Bono sadece emre yazılı düzenlenebilir; ancak senette \"emre\" kaydı yer almadığı için senet bono hükmünde değildir.",
+      "C) Adi senet hükmünde olan bu senet, sadece zilyetliğin devri yoluyla bir başkasına devredilebilir.",
+      "D) Emre yazılı olan bu bono, ciro ve zilyetliğin devri yoluyla bir başkasına devredilebilir.",
+      "E) Söz konusu senet alacağın temliki yoluyla bir başkasına devredilirse, senet nama yazılı hâle gelir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi çekin 6102 sayılı Türk Ticaret Kanunu'nda belirtilmiş olan zorunlu unsurlarından biri değildir?",
+    "options": [
+      "A) \"Çek\" kelimesi",
+      "B) Düzenlenme tarihi",
+      "C) Çekin baskı tarihi",
+      "D) Karekod",
+      "E) Ödeyecek kişi olan muhatabın ticaret unvanı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 6102 sayılı Türk Ticaret Kanunu'nun çek için aramış olduğu zorunlu unsurlardan biri değildir?",
+    "options": [
+      "A) Düzenleyenin imzası",
+      "B) Lehtarın adresi",
+      "C) Muhatabın ticaret unvanı",
+      "D) Karekod",
+      "E) Banka tarafından verilen seri numarası"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "I. Hukuki niteliği havaledir.<br>II. Kısa ibraz süreleri bulunur.<br>III. Hamiline yazılı olarak düzenlenebilir.<br><br>Yukarıda özellikleri verilen kıymetli evrak aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Çek",
+      "B) Bono",
+      "C) Poliçe",
+      "D) Hisse senedi",
+      "E) Tahvil"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kambiyo senetlerinden çek üzerine aşağıdaki kayıtlardan hangisi konulamaz?",
+    "options": [
+      "A) \"Hamile/Hamiline\" kaydı",
+      "B) Aval kaydı",
+      "C) Protestodan muafiyet kaydı",
+      "D) Kabul kaydı",
+      "E) Aynen ödeme (efektif) kaydı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Düzenleme yeri ve ödeme yeri Ankara olan bir çek, üzerinde yazılı düzenleme tarihinden 20 gün sonra İstanbul'da ödeme için ibraz edilmiştir.<br><br>Buna göre aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Banka çeki ödeyip ödememe konusunda takdir yetkisine sahiptir.",
+      "B) Banka çeki ödemekle yükümlüdür.",
+      "C) Banka çeki ödeyemez.",
+      "D) Düzenleyenin çekten cayma beyanında bulunması, hüküm ifade etmez.",
+      "E) Çek geçersiz hâle gelmiştir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Muhatap bankanın, kendisine ibraz edilen hamiline yazılı çeki ödemeden önce aşağıdaki hususlardan hangisini kontrol etmesi gerekmez?",
+    "options": [
+      "A) Ciro zincirinin düzgün olup olmadığı",
+      "B) Düzenleyenin imzasının sahte olup olmadığı",
+      "C) Çek hesabında karşılık bulunup bulunmadığı",
+      "D) Çekin zorunlu unsurlarının bulunup bulunmadığı",
+      "E) İbraz süresinin geçip geçmediği"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"Ahmet Yıldız'a vekâleten ödeyiniz.\"<br>İmza: Mehmet Çiçek (El yazısıyla atılmıştır.)<br><br>6102 sayılı Türk Ticaret Kanunu'na göre, yukarıda örneği verilen ciro hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Rehin cirosudur.",
+      "B) Tahsil cirosudur.",
+      "C) Hamiline cirodur.",
+      "D) Temlik cirosudur.",
+      "E) Beyaz cirodur"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi sözlü şekilde düzenlenmiş bir şirket sözleşmesiyle kurulabilir?",
+    "options": [
+      "A) Anonim şirket",
+      "B) Limited şirket",
+      "C) Adi şirket",
+      "D) Kollektif şirket",
+      "E) Kooperatif"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "I. Adi şirket<br>II. Kollektif şirket<br>III. Anonim şirket<br><br>Yukarıdaki şirket tiplerinin hangisi/hangilerinde , şirket ortakları ,şirketin borçlarından dolayı kişisel malvarlığı ile sorumlu değildir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "P, R ve T bir kollektif şirket kurmak üzere bir araya gelmiş, gerekli hususlarda anlaşmış ancak yazılı bir sözleşme yapmamışlardır. Bu aşamada R, şirkette kullanılmak üzere bir bilgisayar satın almış ancak satım bedelini ödememiştir. Satıcıya olan borcun sorumluluğuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) P, R ve T müteselsilen ve birinci derecede sorumludur.",
+      "B) P, R ve T müteselsilen ve ikinci derecede sorumludur.",
+      "C) R birinci derecede sorumludur. P ve T sorumlu değildir.",
+      "D) R ikinci derecede sorumludur. P ve T sorumlu değildir.",
+      "E) Sadece kolektif şirket tüzel kişiliği sorumludur. P, R ve T'ye başvurulamaz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi anonim şirkete sermaye olarak getirilemez?",
+    "options": [
+      "A) Fikri mülkiyet hakları",
+      "B) Ticari itibar ve kişisel emek",
+      "C) Taşınır ve taşınmazlar üzerindeki faydalanma ve kullanma hakları",
+      "D) Maden ruhsatı",
+      "E) Vadesi gelmiş olan alacaklar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre, aşağıdakilerden hangisi anonim şirkete sermaye payı olarak getirilebilir?",
+    "options": [
+      "A) Pay sahibinin, şirkete ait işletmede sunulmak üzere taahhüt etmiş olduğu hizmet edimi",
+      "B) Pay sahiplerinden biri adına tescil edilmiş ve üzerinde bir başkasına rehin hakkı tesis edilmiş bir marka",
+      "C) Pay sahiplerinden birinin vadesi henüz gelmemiş olan bir alacak hakkı",
+      "D) Pay sahiplerinden birine ait olan ve üzerinde bir başkasına intifa hakkı tesis edilmiş bir taşınmaz",
+      "E) Pay sahiplerinden birine ait olan tıbbi bir cihazın kullanım hakkı."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Kayıtlı sermaye sistemini kabul etmiş anonim ortaklıklarda asgari sermayesi Türk Ticaret Kanununa göre en az ne kadar olmalıdır?",
+    "options": [
+      "A) İki yüz elli bin Türk Lirası",
+      "B) Elli bin Türk Lirası",
+      "C) Beş yüz bin Türk Lirası",
+      "D) Başlangıç sermayesinin belli bir sınırı yoktur.",
+      "E) Bir milyon Türk Lirası"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Esas sözleşmesinde şirketin temsiline ilişkin ayrı bir düzenleme bulunmayan (A) Gıda Anonim Şirketinin üç yönetim kurulu üyesinden ikisi Ahmet ve Merve’dir.<br><br>Buna göre anonim şirketin temsiline ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Yalnızca Ahmet’in imzaladığı sözleşme şirketi bağlamaz.",
+      "B) Ahmet ve Merve hayvancılıkla ilgili bir sözleşmeyi şirket adına imzalarsa, şirket bu sözleşmeden doğan borçlardan sorumlu olmaz.",
+      "C) Ahmet ve Merve şirket işlerini yaparken bir haksız fiil işlerse, şirket bu haksız fiilden sorumlu olur.",
+      "D) Ahmet ve Merve, şirket esas sözleşmesine aykırı bir işlem yaptığı takdirde şirket, zararını bu kişilere rücu edebilir.",
+      "E) Ahmet’in temsil yetkisi, ticaret siciline tescil edilerek,şirketin Ankara’daki şubesi ile sınırlandırılabilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre anonim şirketin temsiline ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Anonim şirketin yönetim kurulu üyeleri tarafından atanan ticari vekilin ticaret siciline tescil edilmesi gerekir.",
+      "B) Anonim şirketin yönetim kurulu üyeleri tarafından atanan ticari temsilcinin ticaret siciline tescil edilmesi gerekir.",
+      "C) Temsile yetkili kişilerin görevlerini yaptıkları sırada işledikleri haksız fiillerden doğan dava şirkete karşı açılır.",
+      "D) Temsile yetkili kişilerin yaptığı işlem esas sözleşmeye aykırı ise, işlemden doğan zararın tazmini için temsilciye dava açılması gerekir.",
+      "E) Temsile yetkili olanların, iyiniyetli üçüncü kişilerle, işletme konusu dışında yaptığı işlemler şirketi bağlar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre aşağıdakilerden hangisi anonim şirket yönetim kurulunun görev ve yetkisinde değildir?",
+    "options": [
+      "A) Şirketin yönetim teşkilatının belirlenmesi",
+      "B) Şirketin borca batık hâle gelmesi hâlinde durumun mahkemeye bildirilmesi",
+      "C) Yıllık faaliyet raporunun düzenlenmesi",
+      "D) Şirketin işletme konusunun değiştirilmesine ilişkin karar alınması",
+      "E) Genel kurul toplantı ve müzakere defterlerinin tutulması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre, aşağıdaki ilkelerden hangisi anonim şirketlerde uygulanmaz?",
+    "options": [
+      "A) Çoğunluk ilkesi",
+      "B) Malvarlığının korunması ilkesi",
+      "C) Eşit işlem ilkesi",
+      "D) Pay sahiplerinin sınırsız sorumluluğu ilkesi",
+      "E) Dürüst resim ilkesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, aşağıdakilerden hangisi anonim şirket genel kurulunu doğrudan ya da mahkeme kararıyla toplantıya çağırmaya yetkili değildir?",
+    "options": [
+      "A) Yönetim kurulu",
+      "B) Denetçiler",
+      "C) Azlık",
+      "D) Tasfiye memurları",
+      "E) Pay sahibi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 6102 sayılı Türk Ticaret Kanunu'nda anonim şirket genel kurulunun devredilemez görev ve yetkileri arasında sayılmamıştır?",
+    "options": [
+      "A) Esas sözleşmenin değiştirilmesi",
+      "B) Yönetim kurulu üyelerinin seçimi",
+      "C) Önemli miktarda şirket varlığının toptan satışı",
+      "D) Kâr payları ile kazanç paylarının belirlenmesine dair kararların alınması",
+      "E) Şirketin yönetim teşkilatının belirlenmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre anonim şirket genel kurulunda aşağıdaki esas sözleşme değişikliği kararlarından hangisinin alınabilmesi için sermayenin tümünü oluşturan pay sahiplerinin veya temsilcilerinin oy birliği aranır?",
+    "options": [
+      "A) Bilanço zararlarının kapatılması için ikincil yükümlülük öngören karar",
+      "B) Birleşme kararı",
+      "C) Nama yazılı payların devrinin sınırlandırılmasına dair karar",
+      "D) Payların itfa edilmesi yoluyla sermayenin azaltılması kararı",
+      "E) İşletme konusunun değiştirilmesi kararı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre anonim şirket esas sözleşmesinde<br><br>I. Şirketin işletme konusunun tamamen değiştirilmesi<br>II. Nama yazılı payların devrinin sınırlandırılması<br>III. Sermayenin artırılması ve kayıtlı sermaye tavanının yükseltilmesi<br><br>değişikliklerinden hangileri sermayenin en az yüzde yetmiş beşini oluşturan payların sahiplerinin veya temsilcilerinin olumlu oylarını gerektirir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi A. Ş. genel kurul toplantısında alınan kararlara iptal davası açma yetkisine sahip değildir?",
+    "options": [
+      "A) Pay sahipleri",
+      "B) Organ olarak yönetim kurulu",
+      "C) Yönetim kurulu üyelerinden her biri",
+      "D) Toplantıya katılmayan tüm pay sahipleri",
+      "E) Üçüncü kişiler."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bağımsız denetime tabi bir anonim şirketin faaliyet döneminin görüşüldüğü olağan genel kurulunda aşağıdaki kararlardan hangisinin her yıl alınmasına gerek yoktur?",
+    "options": [
+      "A) Yönetim kurulu üyesi seçimi",
+      "B) Yönetim kurulunun ibrası",
+      "C) Finansal tabloların onaylanması",
+      "D) Kârın kullanım şeklinin belirlenmesi",
+      "E) Denetçinin seçim"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre, anonim şirketlerde genel kurul kararları aleyhine iptal davasının açılabileceği süre aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      "A) Karar tarihinden itibaren bir yıl içinde",
+      "B) Karar tarihinden itibaren üç ay içinde",
+      "C) Haklı sebeplerin varlığı hâlinde genel kurulun toplandığı tarihten başlayarak iki yıl içinde",
+      "D) Kararın ortaklara noter aracılığıyla tebliğinden itibaren altı ay içinde",
+      "E) Kararın ortaklara noter aracılığıyla tebliğinden itibaren bir yıl içinde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "I. Anonim şirkette denetim, şirketin zorunlu organı olan denetim kurulu tarafından yapılır.<br>II. Bir yeminli mali müşavir, denetlenecek şirkette yönetici olarak görev yapıyorsa, o şirkette denetçi olamaz.<br>III. Denetime tabi olduğu hâlde, denetlettirilmemiş finansal tablolar ile yönetim kurulunun yıllık faaliyet raporu düzenlenmemiş hükmündedir.<br>IV. Denetçi, şirket yönetim kurulu tarafından seçilir.<br><br>6102 sayılı Türk Ticaret Kanunu’na göre, anonim şirketin denetimi hakkında yukarıdakilerden hangileri doğrudur?",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) I ve IV",
+      "D) II ve III",
+      "E) III ve IV"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre, aşağıdakilerden hangisi anonim şirkette yönetim kurulunun vazgeçilmez ve devredilmez yetkilerinden biri değildir?",
+    "options": [
+      "A) Şirketin yönetim teşkilatının belirlenmesi",
+      "B) Şirketin üst düzeyde yönetimine ilişkin talimat verilmesi",
+      "C) Yıllık kârın dağıtımına karar verilmesi",
+      "D) Genel kurul toplantılarının hazırlanması",
+      "E) Borca batıklık durumunda mahkemeye bildirimde bulunulması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Z Anonim Şirketi’nin esas sermayesi 5.000.000 TL’dir. Pay sahibi A’nın paylarının itibari değeri toplamı 125.000 TL’dir. A şirket işleri hakkında özel denetim talebinde bulunmak istemektedir.<br><br>6102 sayılı Türk Ticaret Kanunu’na göre olayla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) A, daha önce bilgi alma veya inceleme hakkını kullanmaksızın da özel denetim talebinde bulunabilir.",
+      "B) A’nın özel denetim talebinde bulunabilmesi için bu hususun genel kurul gündeminde yer alması gerekir.",
+      "C) A’nın usulüne uygun özel denetim talebi genel kurulda reddedilirse A, mahkemeye başvurarak özel denetçi atanmasını talep edemez.",
+      "D) A’nın özel denetim talebi kabul edilirse özel denetçi de şirket genel kurulunca atanır.",
+      "E) Özel denetim tamamlandıktan sonra özel denetim raporu sadece yönetim kurulu üyelerine sunulur, pay sahipleriyle paylaşılamaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Anonim şirketlerde sermaye artırımının şirket içi kaynaklardan yapılması hâlinde, pay sahiplerine dağıtılan paylara ne ad verilir?",
+    "options": [
+      "A) İmtiyazlı pay",
+      "B) Ayın karşılığı pay",
+      "C) Oydan yoksun pay",
+      "D) Primli pay",
+      "E) Bedelsiz pay"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdaki haklardan hangisi, anonim şirkette sadece azlık oluşturan pay sahiplerine tanınmış olup pay oranı azlık oluşturmaya yetmeyen pay sahipleri tarafından kullanılamaz?",
+    "options": [
+      "A) Kâr payı almak",
+      "B) Genel kurul toplantısına katılmak",
+      "C) Genel kurulda oy kullanmak",
+      "D) Genel kurul kararının iptali için dava açmak",
+      "E) Mali konularla ilgili genel kurul görüşmelerini erteletmek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi anonim şirketlerde azınlık pay sahiplerine tanınmış olumsuz haklardan biridir?",
+    "options": [
+      "A) Finansal tabloların görüşmelerini erteletme",
+      "B) Özel denetçi atanmasını sağlama",
+      "C) Sulh ve ibraya engel olma",
+      "D) Yönetim kurulunu toplantıya davet etme",
+      "E) Şirketin haklı nedenle feshini isteme"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "I. Anonim şirketin alacaklıları, şirketin borçları için pay sahiplerinin şahsi mal varlıklarına başvurabilirler.<br>II. Anonim şirket, tüzel kişiliği haiz bir şirket türüdür.<br>III. Anonim şirket, sadece gerçek kişiler tarafından kurulabilir.<br><br>Türk Ticaret Kanunu’na göre, anonim şirketler ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Halka kapalı bir anonim şirketin genel kurulunda sermayenin onda birine sahip pay sahiplerinin talep etmesi hâlinde finansal tabloların müzakeresi ve buna bağlı konular ertelenir.<br><br>6102 sayılı Türk Ticaret Kanunu'na göre bu erteleme süresi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 3 ay",
+      "B) 1 ay",
+      "C) 3 hafta",
+      "D) 15 gün",
+      "E) 1 hafta"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tasfiye memurları atanmadıysa aşağıdakilerden hangisi bu görevi üstlenir?",
+    "options": [
+      "A) Pay Sahiplerinden Gönüllü Olanlar",
+      "B) Genel Kurul",
+      "C) Müdürler",
+      "D) Yönetim Kurulu",
+      "E) Azlık Pay Sahipleri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Limited şirketlerin temel özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Limited şirketler tek kişiyle kurulabilir.",
+      "B) Azami ortak sayısı ellidir.",
+      "C) Ortaklarının kamu borçlarından dolayı sorumluluğu bulunmaktadır.",
+      "D) Esas sermayesi en az 50.000 ₺ olmak zorundadır.",
+      "E) Şahıs şirketi özellikleri göstermesi itibarıyla sadece gerçek kişiler limited şirkete ortak olabilir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre aşağıdakilerden hangisi limited şirketin sona erme sebeplerinden biri değildir?",
+    "options": [
+      "A) Müdür sıfatına sahip olan ortağın iflası",
+      "B) Şirketin iflasının açılması",
+      "C) Şirket sözleşmesinde öngörülen sona erme sebeplerinden birinin gerçekleşmesi",
+      "D) Genel kurulda sona erme kararı alınması",
+      "E) Organ eksikliği nedeniyle mahkemenin karar alması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre, limited şirketler hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Ortakların sayısı yüzü aşamaz.",
+      "B) Ortakların şirketten çıkması hiçbir şekilde mümkün değildir.",
+      "C) Ortaklara şirket sözleşmesiyle, ek ödeme ve yan edim yükümlülüğü getirilebilir.",
+      "D) Şahıs şirketi özellikleri taşır.",
+      "E) En az iki ortakla kurulmalıdır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre, limited şirketlerin asgari ve azami ortak sayısı aşağıdakilerin hangisinde sırasıyla ve doğru şekilde gösterilmiştir?",
+    "options": [
+      "A) 1-50",
+      "B) 2-50",
+      "C) 5-50",
+      "D) 1-5",
+      "E) 2-10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu’na göre, limited şirketlere ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Limited şirketlerde ortakların sayısı elliyi aşamaz.",
+      "B) Limited şirketler, en az iki veya daha çok gerçek veya tüzel kişi tarafından kurulabilir.",
+      "C) Limited şirketler, kanunen yasak olmayan her türlü ekonomik amaç ve konu için kurulabilirler.",
+      "D) Limited şirketlerde ortaklar şirket sözleşmesiyle, esas sermaye payı bedeli dışında ek ödeme ile de yükümlü tutulabilirler.",
+      "E) Limited şirketlerin zorunlu organları genel kurul ve müdürlerdir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "I- Üzerinde banka lehine ipotek bulunan taşınmaz<br>II- Marka<br>III- Şahsi emek<br>IV- Nakit<br><br>TTK’ya yukarıdakilerden hangileri limited şirkete sermaye olarak getirilemez?",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) II ve III",
+      "D) II ve IV",
+      "E) III ve IV"
+    ],
+    "answer": 1
+  }
+],
   "D - Türk İdari Yargılama Hukuku||1- İdari Yargı Hukuku": [
     {
       "q": "2577 sayılı İdari Yargılama Usulü Kanunu'na göre, aşağıdaki mahkemelerden hangisinin görevine giren uyuşmazlıkların çözümü bu Kanun'da gösterilen usullere tabi değildir?",
