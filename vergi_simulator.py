@@ -5,9 +5,9 @@ import time
 from google import genai
 
 # Sayfa Ayarları
-st.set_page_config(page_title="SMM Vergi Mevzuat Antrenörü", page_icon="⚖️", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="SMM Akademi Antrenörü", page_icon="⚖️", layout="wide", initial_sidebar_state="expanded")
 
-# PREMIUM CSS (MOBİL MENÜ BUTONUNU GERİ GETİREN ŞEFFAF HEADER)
+# PREMIUM CSS (MOBİL MENÜ BUTONUNU GERİ GETİREN ŞEFFAF HEADER EKLİ)
 st.markdown("""
     <style>
     /* Üst barı SİLME, sadece ŞEFFAF yap ki mobil menü butonu (> işareti) görünsün */
@@ -79,10 +79,10 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --- AKILLI JSON TARAYICI ---
+# --- AKILLI JSON TARAYICI (DİNAMİK DOSYA ADI ALIR) ---
 @st.cache_data
-def sorulari_yukle():
-    def derin_tarama(veri, mevcut_konu="Genel Vergi Mevzuatı"):
+def sorulari_yukle(dosya_adi):
+    def derin_tarama(veri, mevcut_konu="Genel Modül"):
         sorular = []
         if isinstance(veri, list):
             for eleman in veri:
@@ -99,7 +99,7 @@ def sorulari_yukle():
         return sorular
 
     try:
-        with open('vergi_mevzuati.json', 'r', encoding='utf-8') as dosya:
+        with open(dosya_adi, 'r', encoding='utf-8') as dosya:
             ham_veri = json.load(dosya)
             return derin_tarama(ham_veri)
     except Exception as e:
@@ -112,13 +112,8 @@ if 'ai_yanit' not in st.session_state:
     st.session_state.ai_yanit = ""
 if 'show_ref' not in st.session_state:
     st.session_state.show_ref = False
-
-if 'original_questions' not in st.session_state:
-    st.session_state.original_questions = sorulari_yukle()
-    baslangic_listesi = st.session_state.original_questions.copy()
-    random.shuffle(baslangic_listesi)
-    st.session_state.filtered_questions = baslangic_listesi[:20] if len(baslangic_listesi) > 20 else baslangic_listesi
-    st.session_state.current_idx = 0
+if 'aktif_ders' not in st.session_state:
+    st.session_state.aktif_ders = "Vergi Mevzuatı"
 
 try:
     API_KEY = st.secrets["GEMINI_API_KEY"]
@@ -135,6 +130,35 @@ with st.sidebar:
         </div>
     """, unsafe_allow_html=True)
     
+    st.markdown("<p class='sidebar-title' style='margin-top:20px;'>📚 Ders Seçimi</p>", unsafe_allow_html=True)
+    
+    # YENİ EKLENEN: DERS SEÇİM MENÜSÜ
+    secilen_ders = st.selectbox("Çalışılacak Modülü Seçin:", ["Vergi Mevzuatı", "SPK Mevzuatı"])
+    
+    # Ders değiştiyse verileri sıfırla ve yeni dersi yükle
+    if secilen_ders != st.session_state.aktif_ders:
+        st.session_state.aktif_ders = secilen_ders
+        st.session_state.current_idx = 0
+        st.session_state.show_ref = False
+        st.session_state.ai_analiz = False
+        if 'original_questions' in st.session_state:
+            del st.session_state['original_questions']
+        st.rerun() # Arayüzü hemen güncelle
+        
+    # Hangi dosyanın okunacağını belirliyoruz
+    dosya_haritasi = {
+        "Vergi Mevzuatı": "vergi_mevzuati.json",
+        "SPK Mevzuatı": "spk_mevzuati.json"
+    }
+    aktif_dosya = dosya_haritasi[st.session_state.aktif_ders]
+
+    if 'original_questions' not in st.session_state:
+        st.session_state.original_questions = sorulari_yukle(aktif_dosya)
+        baslangic_listesi = st.session_state.original_questions.copy()
+        random.shuffle(baslangic_listesi)
+        st.session_state.filtered_questions = baslangic_listesi[:20] if len(baslangic_listesi) > 20 else baslangic_listesi
+        st.session_state.current_idx = 0
+
     st.markdown("<p class='sidebar-title' style='margin-top:20px;'>⚙️ Antrenman Ayarları</p>", unsafe_allow_html=True)
     
     tum_sorular = st.session_state.original_questions
@@ -146,7 +170,7 @@ with st.sidebar:
     
     max_soru = len(tum_sorular) if selected_topic == "Tüm Konular (Karma)" else len([q for q in tum_sorular if q.get('konu') == selected_topic])
 
-    hedef_soru_sayisi = st.number_input("📝 Soru Sayısı Hedefi:", min_value=1, max_value=max_soru, value=min(20, max_soru))
+    hedef_soru_sayisi = st.number_input("📝 Soru Sayısı Hedefi:", min_value=1, max_value=max_soru, value=min(20, max_soru) if max_soru > 0 else 1)
 
     if st.button("🔀 Yeni Test Başlat"):
         if selected_topic == "Tüm Konular (Karma)":
@@ -166,11 +190,11 @@ with st.sidebar:
     st.markdown("<p style='text-align:center; color:#888; font-size:14px;'>SMM Akademi Dijital Eğitim Ekosistemi</p>", unsafe_allow_html=True)
 
 # --- ANA EKRAN ---
-st.title("⚖️ SMM Vergi Mevzuat Antrenörü")
+st.title(f"⚖️ SMM {st.session_state.aktif_ders} Antrenörü")
 st.markdown("---")
 
 if not st.session_state.filtered_questions:
-    st.warning("Veri tabanında soru bulunamadı.")
+    st.warning(f"Soru bulunamadı. Lütfen '{aktif_dosya}' dosyasının yüklü olduğundan emin olun.")
     st.stop()
 
 toplam = len(st.session_state.filtered_questions)
@@ -196,7 +220,7 @@ for i, sec in enumerate(orijinal_secenekler):
 
 st.markdown(f"""
     <div class="question-card">
-        <h4 style='color:#d4af37; font-size: 22px; margin-bottom: 10px;'>{q.get('konu', 'Genel Vergi Mevzuatı')}</h4>
+        <h4 style='color:#d4af37; font-size: 22px; margin-bottom: 10px;'>{q.get('konu', 'Genel')}</h4>
         <p style='font-size:26px; line-height: 1.4;'>{soru_metni}</p>
     </div>
 """, unsafe_allow_html=True)
@@ -220,7 +244,7 @@ if dogru_deger is not None:
             dogru_metin = dogru_deger
 
 st.write("")
-if st.button("✅ Cevabı Onayla & Mevzuatı İncele"):
+if st.button("✅ Cevabı Onayla & İncele"):
     if secim:
         if str(secim).strip().lower() == str(dogru_metin).strip().lower():
             st.markdown("""
@@ -267,7 +291,10 @@ if st.session_state.show_ref:
                 with st.spinner("Mevzuat taranıyor, argüman oluşturuluyor..."):
                     try:
                         client = genai.Client(api_key=API_KEY)
-                        prompt = f"Sen uzman bir Mali Müşavir ve vergi hukuku eğitmenisin. Şu sorunun doğru cevabının '{dogru_metin}' olduğunu biliyoruz. Lütfen bu cevabın neden doğru olduğunu, hangi kanunun (VUK, GVK, KVK vb.) hangi maddesine dayandığını SMMM yeterlilik sınavına hazırlanan birine anlatır gibi profesyonelce ve kısaca açıkla.\n\nSoru: {soru_metni}\nSeçenekler: {gosterilecek_secenekler}"
+                        
+                        # YAPAY ZEKA KİMLİĞİ DİNAMİKLEŞTİRİLDİ
+                        uzmanlik_alani = "Vergi Hukuku" if st.session_state.aktif_ders == "Vergi Mevzuatı" else "Sermaye Piyasası Mevzuatı (SPK)"
+                        prompt = f"Sen uzman bir Mali Müşavir ve {uzmanlik_alani} eğitmenisin. Şu sorunun doğru cevabının '{dogru_metin}' olduğunu biliyoruz. Lütfen bu cevabın neden doğru olduğunu, ilgili mevzuata dayanarak SMMM yeterlilik sınavına hazırlanan birine anlatır gibi profesyonelce ve kısaca açıkla.\n\nSoru: {soru_metni}\nSeçenekler: {gosterilecek_secenekler}"
                         
                         response = client.models.generate_content(
                             model='gemini-2.5-flash',
@@ -286,7 +313,7 @@ st.markdown("---")
 colA, colB = st.columns(2)
 
 with colA:
-    if st.button("➡️ Sonraki Mevzuat Sorusu"):
+    if st.button(f"➡️ Sonraki Soru"):
         if st.session_state.current_idx < len(st.session_state.filtered_questions) - 1:
             st.session_state.current_idx += 1
             st.session_state.show_ref = False
