@@ -132,7 +132,7 @@ with st.sidebar:
     
     st.markdown("<p class='sidebar-title' style='margin-top:20px;'>📚 Ders Seçimi</p>", unsafe_allow_html=True)
     
-    # YENİ EKLENEN: DERS SEÇİM MENÜSÜ
+    # DERS SEÇİM MENÜSÜ
     secilen_ders = st.selectbox("Çalışılacak Modülü Seçin:", ["Vergi Mevzuatı", "SPK Mevzuatı"])
     
     # Ders değiştiyse verileri sıfırla ve yeni dersi yükle
@@ -143,7 +143,7 @@ with st.sidebar:
         st.session_state.ai_analiz = False
         if 'original_questions' in st.session_state:
             del st.session_state['original_questions']
-        st.rerun() # Arayüzü hemen güncelle
+        st.rerun() 
         
     # Hangi dosyanın okunacağını belirliyoruz
     dosya_haritasi = {
@@ -170,21 +170,26 @@ with st.sidebar:
     
     max_soru = len(tum_sorular) if selected_topic == "Tüm Konular (Karma)" else len([q for q in tum_sorular if q.get('konu') == selected_topic])
 
-    hedef_soru_sayisi = st.number_input("📝 Soru Sayısı Hedefi:", min_value=1, max_value=max_soru, value=min(20, max_soru) if max_soru > 0 else 1)
-
-    if st.button("🔀 Yeni Test Başlat"):
-        if selected_topic == "Tüm Konular (Karma)":
-            yeni_liste = tum_sorular.copy()
-        else:
-            yeni_liste = [q for q in tum_sorular if q.get('konu') == selected_topic]
-            
-        random.shuffle(yeni_liste)
-        st.session_state.filtered_questions = yeni_liste[:hedef_soru_sayisi]
-        st.session_state.current_idx = 0
-        st.session_state.show_ref = False
-        st.session_state.ai_analiz = False
-        st.session_state.ai_yanit = ""
-        st.rerun()
+    # SIFIR SORU ÇÖKME KORUMASI BURADA!
+    if max_soru > 0:
+        hedef_soru_sayisi = st.number_input("📝 Soru Sayısı Hedefi:", min_value=1, max_value=max_soru, value=min(20, max_soru))
+        if st.button("🔀 Yeni Test Başlat"):
+            if selected_topic == "Tüm Konular (Karma)":
+                yeni_liste = tum_sorular.copy()
+            else:
+                yeni_liste = [q for q in tum_sorular if q.get('konu') == selected_topic]
+                
+            random.shuffle(yeni_liste)
+            st.session_state.filtered_questions = yeni_liste[:hedef_soru_sayisi]
+            st.session_state.current_idx = 0
+            st.session_state.show_ref = False
+            st.session_state.ai_analiz = False
+            st.session_state.ai_yanit = ""
+            st.rerun()
+    else:
+        # Dosya yoksa veya soru sayısı 0 ise numara kutusunu gizle, uyarı ver.
+        hedef_soru_sayisi = 0
+        st.warning(f"⚠️ '{aktif_dosya}' dosyası yüklenmemiş veya içinde soru yok!")
         
     st.divider()
     st.markdown("<p style='text-align:center; color:#888; font-size:14px;'>SMM Akademi Dijital Eğitim Ekosistemi</p>", unsafe_allow_html=True)
@@ -194,7 +199,7 @@ st.title(f"⚖️ SMM {st.session_state.aktif_ders} Antrenörü")
 st.markdown("---")
 
 if not st.session_state.filtered_questions:
-    st.warning(f"Soru bulunamadı. Lütfen '{aktif_dosya}' dosyasının yüklü olduğundan emin olun.")
+    st.info("👈 Lütfen sol menüden soru bankası yüklü olan bir ders seçin.")
     st.stop()
 
 toplam = len(st.session_state.filtered_questions)
@@ -288,11 +293,10 @@ if st.session_state.show_ref:
             if not API_KEY:
                 st.error("⚠️ Sistem Hatası: API Anahtarı bulunamadı.")
             else:
-                with st.spinner("Mevzuat taranıyor, argüman oluşturuluyor..."):
+                with st.spinner("Taranıyor, argüman oluşturuluyor..."):
                     try:
                         client = genai.Client(api_key=API_KEY)
                         
-                        # YAPAY ZEKA KİMLİĞİ DİNAMİKLEŞTİRİLDİ
                         uzmanlik_alani = "Vergi Hukuku" if st.session_state.aktif_ders == "Vergi Mevzuatı" else "Sermaye Piyasası Mevzuatı (SPK)"
                         prompt = f"Sen uzman bir Mali Müşavir ve {uzmanlik_alani} eğitmenisin. Şu sorunun doğru cevabının '{dogru_metin}' olduğunu biliyoruz. Lütfen bu cevabın neden doğru olduğunu, ilgili mevzuata dayanarak SMMM yeterlilik sınavına hazırlanan birine anlatır gibi profesyonelce ve kısaca açıkla.\n\nSoru: {soru_metni}\nSeçenekler: {gosterilecek_secenekler}"
                         
