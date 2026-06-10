@@ -289,25 +289,26 @@ if st.session_state.show_ref:
         """, unsafe_allow_html=True)
         
         st.markdown('<div class="ai-button">', unsafe_allow_html=True)
-        if st.button("🤖 Yapay Zeka Asistanından Analiz İste"):
-            if not API_KEY:
-                st.error("⚠️ Sistem Hatası: API Anahtarı bulunamadı.")
-            else:
-                with st.spinner("Taranıyor, argüman oluşturuluyor..."):
-                    try:
-                        client = genai.Client(api_key=API_KEY)
-                        
-                        uzmanlik_alani = "Vergi Hukuku" if st.session_state.aktif_ders == "Vergi Mevzuatı" else "Sermaye Piyasası Mevzuatı (SPK)"
-                        prompt = f"Sen uzman bir Mali Müşavir ve {uzmanlik_alani} eğitmenisin. Şu sorunun doğru cevabının '{dogru_metin}' olduğunu biliyoruz. Lütfen bu cevabın neden doğru olduğunu, ilgili mevzuata dayanarak SMMM yeterlilik sınavına hazırlanan birine anlatır gibi profesyonelce ve kısaca açıkla.\n\nSoru: {soru_metni}\nSeçenekler: {gosterilecek_secenekler}"
-                        
-                        response = client.models.generate_content(
-                            model='gemini-3.5-flash',
-                            contents=prompt
-                        )
-                        st.session_state.ai_yanit = response.text
-                        st.session_state.ai_analiz = True
-                    except Exception as e:
-                        st.error(f"Bir hata oluştu: Lütfen bağlantınızı kontrol edin. Detay: {e}")
+        # Analiz butonu bloğunu bu haliyle güncelle:
+if st.button("🤖 Yapay Zeka Asistanından Analiz İste"):
+    if not API_KEY:
+        st.error("⚠️ API Anahtarı bulunamadı.")
+    else:
+        with st.spinner("Analiz ediliyor..."):
+            try:
+                client = genai.Client(api_key=API_KEY)
+                # Burayı daha net ve zorlayıcı yaptık:
+                uzmanlik = "Sermaye Piyasası Mevzuatı (SPK)" if st.session_state.aktif_ders == "SPK Mevzuatı" else "Vergi Hukuku"
+                prompt = f"Sen profesyonel bir {uzmanlik} uzmanısın. Soru: {soru_metni} \n Cevap: {dogru_metin}. Bu sorunun neden doğru olduğunu madde madde açıkla."
+                
+                response = client.models.generate_content(
+                    model='gemini-3.5-flash', # En stabil modelimiz
+                    contents=prompt
+                )
+                st.session_state.ai_yanit = response.text
+                st.session_state.ai_analiz = True
+            except Exception as e:
+                st.error("Sunucu yoğun, lütfen 2 saniye sonra tekrar dene.")
         st.markdown('</div>', unsafe_allow_html=True)
         
         if st.session_state.ai_analiz and st.session_state.ai_yanit:
