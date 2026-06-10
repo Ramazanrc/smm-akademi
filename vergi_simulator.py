@@ -301,7 +301,7 @@ if st.session_state.show_ref:
                         prompt = f"Sen uzman bir Mali Müşavir ve {uzmanlik_alani} eğitmenisin. Şu sorunun doğru cevabının '{dogru_metin}' olduğunu biliyoruz. Lütfen bu cevabın neden doğru olduğunu, ilgili mevzuata dayanarak SMMM yeterlilik sınavına hazırlanan birine anlatır gibi profesyonelce ve kısaca açıkla.\n\nSoru: {soru_metni}\nSeçenekler: {gosterilecek_secenekler}"
                         
                         response = client.models.generate_content(
-                            model='gemini-2.5-flash',
+                            model='gemini-1.5-flash',
                             contents=prompt
                         )
                         st.session_state.ai_yanit = response.text
