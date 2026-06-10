@@ -148,7 +148,7 @@ with st.sidebar:
     # Hangi dosyanın okunacağını belirliyoruz
     dosya_haritasi = {
         "Vergi Mevzuatı": "vergi_mevzuati.json",
-        "SPK Mevzuatı": "spk_mevzuati.json"
+        "SPK Mevzuatı": "sermaye_piyasasi.json"
     }
     aktif_dosya = dosya_haritasi[st.session_state.aktif_ders]
 
