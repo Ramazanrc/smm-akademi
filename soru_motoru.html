@@ -107,11 +107,79 @@
             --text-dark: #1e293b; --border-color: #e2e8f0; --white: #ffffff;
         }
 
+        /* --- YENİ EKLENEN: DARK MODE KODLARI --- */
+        body.dark-mode {
+            --bg-color: #020617;
+            --text-dark: #f8fafc;
+            --border-color: #334155;
+            --white: #0f172a;
+            --sidebar-bg: #020617;
+        }
+        body.dark-mode .question-card, 
+        body.dark-mode header, 
+        body.dark-mode .kilit-kutu,
+        body.dark-mode .exam-drawer,
+        body.dark-mode .drawer-header,
+        body.dark-mode .drawer-body,
+        body.dark-mode #karalama-tahtasi,
+        body.dark-mode #karalama-header,
+        body.dark-mode .ai-modal-kutu,
+        body.dark-mode #puan-karti {
+            background: var(--white) !important;
+            border-color: var(--border-color) !important;
+            color: var(--text-dark) !important;
+        }
+        body.dark-mode .option-btn {
+            background: var(--white) !important;
+            color: var(--text-dark) !important;
+        }
+        body.dark-mode .option-btn:hover:not(:disabled) {
+            background: #1e293b !important;
+        }
+        body.dark-mode .oturum-secim-btn {
+            background: var(--white);
+            color: var(--text-dark);
+        }
+        body.dark-mode #soru-metni table th, 
+        body.dark-mode #soru-metni table td {
+            background-color: var(--white) !important;
+            color: var(--text-dark) !important;
+            border-color: var(--border-color) !important;
+        }
+        body.dark-mode #soru-metni table tr:nth-child(even) {
+            background-color: #1e293b !important;
+        }
+        body.dark-mode .optik-kutu {
+            background: #1e293b !important;
+            border-color: var(--border-color) !important;
+            color: #94a3b8 !important;
+        }
+        body.dark-mode .optik-kutu:hover {
+            background: #334155 !important;
+        }
+        body.dark-mode .progress-ring-inner {
+            background: var(--white) !important;
+        }
+        body.dark-mode #karalama-tahtasi > div:last-child {
+            background: #1e293b !important;
+        }
+        body.dark-mode #karalama-metin {
+            color: var(--text-dark) !important;
+        }
+        body.dark-mode .yasal-uyari-metni {
+            color: #64748b !important;
+        }
+        body.dark-mode .ai-tavsiye-balonu {
+            background: #1e293b !important;
+            color: #fb923c !important;
+        }
+        /* ---------------------------------------- */
+
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
-        body { background: var(--bg-color); display: flex; height: 100vh; overflow: hidden; color: var(--text-dark); }
+        body { background: var(--bg-color); display: flex; height: 100vh; overflow: hidden; color: var(--text-dark); transition: background 0.3s, color 0.3s; }
 
         /* --- SIDEBAR --- */
-        .sidebar { width: 340px; background: var(--sidebar-bg); color: white; display: flex; flex-direction: column; border-right: 6px solid var(--primary-orange); }
+        .sidebar { width: 340px; background: var(--sidebar-bg); color: white; display: flex; flex-direction: column; border-right: 6px solid var(--primary-orange); transition: background 0.3s; }
         .sidebar-header { padding: 30px; text-align: center; border-bottom: 1px solid #334155; }
         .logo-box { font-size: 24px; font-weight: 800; color: var(--primary-orange); border: 3px solid var(--primary-orange); padding: 5px 10px; border-radius: 8px; display: inline-block; }
         
@@ -125,15 +193,15 @@
 
         /* --- ANA İÇERİK --- */
         .main-content { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
-        header { background: var(--white); padding: 20px 40px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 15px rgba(0,0,0,0.05); z-index: 10; }
+        header { background: var(--white); padding: 20px 40px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 15px rgba(0,0,0,0.05); z-index: 10; transition: background 0.3s; }
         .content-scroll { flex: 1; padding: 30px; overflow-y: auto; }
 
         /* --- SORU KARTI & SONUÇ EKRANI --- */
-        .question-card { background: var(--white); border-radius: 15px; padding: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); border-top: 5px solid var(--primary-orange); }
-        .option-btn { width: 100%; text-align: left; padding: 15px; margin-bottom: 10px; border: 1px solid var(--border-color); border-radius: 10px; background: white; cursor: pointer; font-size: 14.5px; transition: all 0.3s ease; }
-        .option-btn:hover:not(:disabled) { background: #f1f5f9; border-color: var(--primary-orange); box-shadow: 0 0 8px rgba(249, 115, 22, 0.4); transform: translateX(5px);}
-        .option-btn.correct { background: #22c55e !important; color: white; border-color: #16a34a; }
-        .option-btn.wrong { background: #ef4444 !important; color: white; border-color: #dc2626; }
+        .question-card { background: var(--white); border-radius: 15px; padding: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); border-top: 5px solid var(--primary-orange); transition: background 0.3s; }
+        .option-btn { width: 100%; text-align: left; padding: 15px; margin-bottom: 10px; border: 1px solid var(--border-color); border-radius: 10px; background: var(--white); color: var(--text-dark); cursor: pointer; font-size: 14.5px; transition: all 0.3s ease; }
+        .option-btn:hover:not(:disabled) { border-color: var(--primary-orange); box-shadow: 0 0 8px rgba(249, 115, 22, 0.4); transform: translateX(5px);}
+        .option-btn.correct { background: #22c55e !important; color: white !important; border-color: #16a34a !important; }
+        .option-btn.wrong { background: #ef4444 !important; color: white !important; border-color: #dc2626 !important; }
 
         .btn-nav { padding: 10px 25px; border-radius: 8px; border: none; font-weight: 600; cursor: pointer; transition: 0.2s; }
         .btn-next { background: var(--primary-orange); color: white; }
@@ -149,16 +217,16 @@
         .nav-menu::-webkit-scrollbar { width: 6px; }
         .nav-menu::-webkit-scrollbar-thumb { background: #334155; border-radius: 10px; }
         
-        .ilerleme-kapsayici { width: 100%; height: 6px; background-color: #e2e8f0; border-radius: 4px; margin-bottom: 20px; overflow: hidden; }
+        .ilerleme-kapsayici { width: 100%; height: 6px; background-color: var(--border-color); border-radius: 4px; margin-bottom: 20px; overflow: hidden; }
         .ilerleme-cubugu { height: 100%; background-color: var(--primary-orange); border-radius: 4px; transition: width 0.4s ease; }
 
         @keyframes roketZiplama { 0% { transform: scale(1); } 30% { transform: scale(1.6); } 50% { transform: scale(0.9); } 100% { transform: scale(1); } }
         .roket-efekti { display: inline-block !important; animation: roketZiplama 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important; }
 
         .ai-modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(5px); z-index: 9999; align-items: center; justify-content: center; }
-        .ai-modal-kutu { background: white; width: 90%; max-width: 450px; border-radius: 20px; padding: 25px; text-align: center; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); border-top: 5px solid #ff9800; transform: scale(0.7); animation: modalPıt 0.3s forwards; }
+        .ai-modal-kutu { background: var(--white); width: 90%; max-width: 450px; border-radius: 20px; padding: 25px; text-align: center; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); border-top: 5px solid #ff9800; transform: scale(0.7); animation: modalPıt 0.3s forwards; }
         @keyframes modalPıt { to { transform: scale(1); } }
-        .ai-modal-baslik h3 { margin: 10px 0; color: #1e293b; font-size: 20px; }
+        .ai-modal-baslik h3 { margin: 10px 0; color: inherit; font-size: 20px; }
         .ai-kategori-satir { margin-bottom: 15px; text-align: left; }
         .ai-bar-dis { width: 100%; height: 8px; background: #e2e8f0; border-radius: 10px; margin-top: 5px; overflow: hidden; }
         .ai-bar-ic { height: 100%; background: #ff9800; border-radius: 10px; transition: width 1s ease-in-out; }
@@ -168,13 +236,13 @@
         .konfeti { position: absolute; width: 10px; height: 10px; background: #ff9800; border-radius: 2px; z-index: 10000; pointer-events: none; animation: konfetiDusus 3s ease-out forwards; }
         @keyframes konfetiDusus { 0% { transform: translateY(0) rotate(0); opacity: 1; } 100% { transform: translateY(500px) rotate(720deg); opacity: 0; } }
 
-        #soru-metni table { width: auto; min-width: 50%; max-width: 100%; border-collapse: collapse; margin: 15px 0; background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); font-size: 13px; }
-        #soru-metni th, #soru-metni td { border: 1px solid #e2e8f0; padding: 8px 12px; text-align: left; }
-        #soru-metni th { background-color: #f8fafc; font-weight: 700; color: #0f172a; border-bottom: 2px solid #f97316; }
-        #soru-metni tr:nth-child(even) { background-color: #f8fafc; }
+        #soru-metni table { width: auto; min-width: 50%; max-width: 100%; border-collapse: collapse; margin: 15px 0; background: var(--white); border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.05); font-size: 13px; }
+        #soru-metni th, #soru-metni td { border: 1px solid var(--border-color); padding: 8px 12px; text-align: left; }
+        #soru-metni th { background-color: var(--bg-color); font-weight: 700; border-bottom: 2px solid #f97316; }
+        #soru-metni tr:nth-child(even) { background-color: var(--bg-color); }
 
         /* --- SİMÜLATÖR (DENEME) STİLLERİ --- */
-        .option-btn.selected-deneme { background: #f97316 !important; color: white; border-color: #ea580c; font-weight: bold; }
+        .option-btn.selected-deneme { background: #f97316 !important; color: white !important; border-color: #ea580c !important; font-weight: bold; }
         .btn-bos-gec { background: #94a3b8; color: white; }
         .btn-bos-gec:hover { background: #64748b; }
         .exam-timer { font-size: 18px; font-weight: bold; color: #ef4444; background: #fee2e2; padding: 5px 15px; border-radius: 20px; display: none; align-items: center; gap: 8px; }
@@ -183,34 +251,34 @@
 
         /* Sağ Optik Çekmece */
         .exam-drawer-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); backdrop-filter: blur(8px); z-index: 100000; display: none; }
-        .exam-drawer { position: fixed; top: 0; right: -350px; width: 320px; height: 100%; background: #ffffff; z-index: 100001; box-shadow: -10px 0 30px rgba(0,0,0,0.2); transition: right 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); display: flex; flex-direction: column; }
+        .exam-drawer { position: fixed; top: 0; right: -350px; width: 320px; height: 100%; background: var(--white); z-index: 100001; box-shadow: -10px 0 30px rgba(0,0,0,0.2); transition: right 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); display: flex; flex-direction: column; }
         .exam-drawer.open { right: 0; }
-        .drawer-header { padding: 25px 20px; border-bottom: 1px solid #e2e8f0; display: flex; justify-content: space-between; align-items: center; background: #f8fafc; }
-        .drawer-header h3 { font-size: 16px; color: #0f172a; margin: 0; font-weight: 800; }
+        .drawer-header { padding: 25px 20px; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center; background: var(--bg-color); }
+        .drawer-header h3 { font-size: 16px; margin: 0; font-weight: 800; }
         .drawer-close { font-size: 24px; cursor: pointer; color: #94a3b8; transition: 0.2s; }
         .drawer-close:hover { color: #dc2626; }
         .drawer-body { padding: 20px; overflow-y: auto; flex: 1; }
         .optik-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
-        .optik-kutu { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; border-radius: 10px; border: 2px solid #e2e8f0; font-weight: bold; color: #64748b; cursor: pointer; transition: 0.2s; background: #f8fafc; }
+        .optik-kutu { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; border-radius: 10px; border: 2px solid var(--border-color); font-weight: bold; color: #64748b; cursor: pointer; transition: 0.2s; background: var(--bg-color); }
         .optik-kutu:hover { border-color: #cbd5e1; background: #e2e8f0; }
-        .optik-kutu.cozuldu { background: #f97316; color: white; border-color: #ea580c; }
-        .optik-kutu.aktif { border-color: #0f172a; box-shadow: 0 0 0 3px rgba(15,23,42,0.2); }
+        .optik-kutu.cozuldu { background: #f97316 !important; color: white !important; border-color: #ea580c !important; }
+        .optik-kutu.aktif { border-color: var(--primary-orange) !important; box-shadow: 0 0 0 3px rgba(249,115,22,0.2); }
 
         /* --- PREMIUM BAŞARI HALKASI (APPLE WATCH STİLİ) --- */
         .progress-ring-container { display: flex; justify-content: center; align-items: center; margin: 30px 0; }
-        .progress-ring { width: 160px; height: 160px; border-radius: 50%; background: conic-gradient(#e2e8f0 100%, #e2e8f0 0%); display: flex; justify-content: center; align-items: center; box-shadow: 0 10px 25px rgba(0,0,0,0.1); transition: background 1.5s ease-out, box-shadow 1.5s ease-out; }
-        .progress-ring-inner { width: 130px; height: 130px; background: white; border-radius: 50%; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: inset 0 5px 10px rgba(0,0,0,0.05); }
-        .progress-ring-value { font-size: 36px; font-weight: 800; color: #0f172a; line-height: 1; }
+        .progress-ring { width: 160px; height: 160px; border-radius: 50%; background: conic-gradient(var(--border-color) 100%, var(--border-color) 0%); display: flex; justify-content: center; align-items: center; box-shadow: 0 10px 25px rgba(0,0,0,0.1); transition: background 1.5s ease-out, box-shadow 1.5s ease-out; }
+        .progress-ring-inner { width: 130px; height: 130px; background: var(--white); border-radius: 50%; display: flex; flex-direction: column; justify-content: center; align-items: center; box-shadow: inset 0 5px 10px rgba(0,0,0,0.05); }
+        .progress-ring-value { font-size: 36px; font-weight: 800; line-height: 1; }
         .progress-ring-label { font-size: 13px; color: #64748b; margin-top: 5px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
 
         /* OTURUM SEÇİM EKRANI BUTONLARI İÇİN STİL */
         .oturum-secim-btn {
-            background: white; border: 2px solid var(--primary-orange); color: var(--text-dark);
+            background: var(--white); border: 2px solid var(--primary-orange); color: var(--text-dark);
             padding: 20px; font-size: 16px; font-weight: bold; border-radius: 12px; cursor: pointer;
             transition: all 0.3s ease; display: flex; justify-content: space-between; align-items: center;
         }
         .oturum-secim-btn:hover {
-            background: var(--primary-orange); color: white; transform: translateY(-3px); box-shadow: 0 10px 20px rgba(249,115,22,0.2);
+            background: var(--primary-orange); color: white !important; transform: translateY(-3px); box-shadow: 0 10px 20px rgba(249,115,22,0.2);
         }
         .oturum-secim-btn i { font-size: 20px; }
     </style>
@@ -229,7 +297,7 @@
 
 <div id="kilit-ekrani">
   <div class="kilit-kutu">
-    <h2 style="color: #0f172a; font-weight: 800; margin-bottom: 10px;">SMM AKADEMİ</h2>
+    <h2 style="color: inherit; font-weight: 800; margin-bottom: 10px;">SMM AKADEMİ</h2>
     <p style="font-size: 14px; color: #64748b;">Bu portal kapalı devre bir çalışma grubudur. İçeriklere erişmek için lütfen şifrenizi giriniz.</p>
     <input type="password" id="giris-sifresi" placeholder="Erişim Şifresi" onkeypress="if(event.key === 'Enter') kilitAc()">
     <button onclick="kilitAc()">Giriş Yap</button>
@@ -243,6 +311,15 @@
 <script>
   // Sayfa açıldığında cihazın hafızasını kontrol eden yeni bölüm
 document.addEventListener("DOMContentLoaded", function() {
+    // --- YENİ EKLENEN: KARANLIK MOD KONTROLÜ ---
+    const isDark = localStorage.getItem('smm_dark_mode') === 'true';
+    if (isDark) {
+        document.body.classList.add('dark-mode');
+        const btnIcon = document.querySelector('#dark-mode-btn i');
+        if(btnIcon) { btnIcon.classList.remove('fa-moon'); btnIcon.classList.add('fa-sun'); btnIcon.style.color = '#facc15'; }
+    }
+    // --------------------------------------------
+
     // Eğer kullanıcı daha önce doğru şifreyi girdiyse, kilit ekranını hiç gösterme
     if (localStorage.getItem("dersOnayi") === "basarili") {
         document.getElementById('kilit-ekrani').style.display = "none";
@@ -261,6 +338,23 @@ function kilitAc() {
     } 
     else { 
         document.getElementById('sifre-hata').style.display = "block"; 
+    }
+}
+
+// --- YENİ EKLENEN: KARANLIK MOD FONKSİYONU ---
+function toggleDarkMode() {
+    const isDark = document.body.classList.toggle('dark-mode');
+    localStorage.setItem('smm_dark_mode', isDark);
+    
+    const btnIcon = document.querySelector('#dark-mode-btn i');
+    if (isDark) {
+        btnIcon.classList.remove('fa-moon');
+        btnIcon.classList.add('fa-sun');
+        btnIcon.style.color = '#facc15'; // Güneş sarısı
+    } else {
+        btnIcon.classList.remove('fa-sun');
+        btnIcon.classList.add('fa-moon');
+        btnIcon.style.color = 'inherit'; // Tema rengi
     }
 }
 </script>
@@ -293,7 +387,12 @@ function kilitAc() {
             <div style="display: flex; align-items: center; gap: 15px;">
                 <div id="exam-timer" class="exam-timer"><i class="fas fa-clock"></i> <span id="timer-text">00:00</span></div>
                 <button id="open-drawer-btn" class="grid-icon-btn" onclick="toggleDrawer()"><i class="fas fa-grip-horizontal"></i></button>
-                <div style="color: var(--primary-orange); font-weight: 700; background: #fff7ed; padding: 8px 15px; border-radius: 20px; border: 1px solid #fdba74;">
+                
+                <button id="dark-mode-btn" onclick="toggleDarkMode()" style="background: var(--bg-color); color: var(--text-dark); border: 1px solid var(--border-color); padding: 8px 15px; border-radius: 20px; cursor: pointer; font-size: 16px; transition: 0.3s; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 5px rgba(0,0,0,0.05);" title="Gece/Gündüz Modu">
+                    <i class="fas fa-moon"></i>
+                </button>
+
+                <div style="color: var(--primary-orange); font-weight: 700; background: transparent; padding: 8px 15px; border-radius: 20px; border: 1px solid var(--primary-orange);">
                     <i class="fas fa-check-circle"></i> SMM AKADEMİ v2026
                 </div>
             </div>
@@ -315,7 +414,7 @@ function kilitAc() {
             <div id="soru-alani" class="question-card hidden">
                 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
                     <span id="soru-sayac" class="badge" style="background: var(--sidebar-bg); color: white; padding: 8px 15px; border-radius: 20px; font-size: 13px;">Soru: 0/0</span>
-                    <span id="klasik-skor-etiketi" class="badge" style="background: #e2e8f0; color: #475569; padding: 8px 15px; border-radius: 20px; font-size: 13px;">
+                    <span id="klasik-skor-etiketi" class="badge" style="background: var(--border-color); color: var(--text-dark); padding: 8px 15px; border-radius: 20px; font-size: 13px;">
                         <span style="color:#16a34a; font-weight:bold; margin-right:10px;"><i class="fas fa-check"></i> <span id="anlik-dogru">0</span></span>
                         <span style="color:#dc2626; font-weight:bold;"><i class="fas fa-times"></i> <span id="anlik-yanlis">0</span></span>
                     </span>
@@ -323,7 +422,7 @@ function kilitAc() {
                 <div class="ilerleme-kapsayici">
                     <div class="ilerleme-cubugu" id="ilerleme-cubugu" style="width: 5%;"></div>
                 </div>
-                <h3 id="soru-metni" style="margin-bottom: 25px; line-height: 1.6; color: #0f172a;">Sorular hazırlanıyor...</h3>
+                <h3 id="soru-metni" style="margin-bottom: 25px; line-height: 1.6;">Sorular hazırlanıyor...</h3>
                 <div id="secenekler-listesi"></div>
                 
                 <div style="margin-top: 30px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px;">
@@ -348,10 +447,10 @@ function kilitAc() {
                     <div id="skor-bos-kutu" class="score-item" style="display:none; background:#f1f5f9; color:#64748b; border:1px solid #cbd5e1;"><i class="fas fa-minus-circle"></i> Boş: <span id="skor-bos">0</span></div>
                 </div>
 
-                <div id="puan-karti" style="display:none; background: #f8fafc; border: 2px solid #e2e8f0; border-radius: 15px; padding: 20px; margin: 20px auto; max-width: 400px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
-                    <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #cbd5e1; padding-bottom: 10px; margin-bottom: 10px;">
+                <div id="puan-karti" style="display:none; border: 2px solid var(--border-color); border-radius: 15px; padding: 20px; margin: 20px auto; max-width: 400px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
+                    <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 10px; margin-bottom: 10px;">
                         <span style="color: #64748b; font-weight: 600; font-size: 14px;">Gerçek Netiniz:</span>
-                        <span id="skor-net" style="font-weight: 800; font-size: 20px; color: #0f172a;">0.00</span>
+                        <span id="skor-net" style="font-weight: 800; font-size: 20px; color: var(--text-dark);">0.00</span>
                     </div>
                     <div style="text-align: center;">
                         <span style="display: block; color: #94a3b8; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 5px;">Tahmini Sınav Puanı</span>
@@ -388,7 +487,7 @@ function kilitAc() {
         <div class="drawer-body">
             <div id="optik-grid" class="optik-grid"></div>
         </div>
-        <div style="padding: 20px; border-top: 1px solid #e2e8f0; background: #f8fafc;">
+        <div style="padding: 20px; border-top: 1px solid var(--border-color); background: var(--bg-color);">
             <button onclick="denemeyiBitir(true)" class="btn-nav btn-next" style="width: 100%; background: #10b981; padding: 15px; font-size: 16px;"><i class="fas fa-flag-checkered"></i> Sınavı Bitir</button>
         </div>
     </div>
@@ -398,7 +497,7 @@ function kilitAc() {
             <div class="ai-modal-baslik"><span style="font-size: 24px;">🤖</span><h3>SMM AI Rehber Analizi</h3></div>
             <div id="ai-modal-icerik"></div>
             <div id="ai-modal-tavsiye" class="ai-tavsiye-balonu"></div>
-            <div id="hata-listesi-konteynir" style="display:none; max-height: 200px; overflow-y: auto; margin-top: 15px; border-top: 1px solid #e2e8f0; padding-top: 10px;">
+            <div id="hata-listesi-konteynir" style="display:none; max-height: 200px; overflow-y: auto; margin-top: 15px; border-top: 1px solid var(--border-color); padding-top: 10px;">
                 <h4 style="font-size: 14px; color: #e11d48; margin-bottom: 10px;">🔴 Hatalı Cevapların ve Doğruları:</h4>
                 <div id="hata-listesi-icerik" style="text-align: left; font-size: 12px; line-height: 1.6;"></div>
             </div>
@@ -409,17 +508,17 @@ function kilitAc() {
 
     <button id="btn-karalama-ac" onclick="karalamaTahtasiniAc()" style="position: fixed; bottom: 30px; right: 30px; background: #f97316; color: white; border: none; border-radius: 50px; width: 60px; height: 60px; font-size: 24px; box-shadow: 0 4px 15px rgba(249,115,22,0.4); cursor: pointer; z-index: 9000; transition: 0.3s;" title="Soru Çözme Alanı"><i class="fas fa-pen-nib"></i></button>
 
-    <div id="karalama-tahtasi" style="display: none; position: fixed; top: 15%; left: 60%; width: 350px; background: #fff; border-radius: 12px; box-shadow: 0 15px 40px rgba(0,0,0,0.4); border: 2px solid #f97316; z-index: 9999; overflow: hidden; flex-direction: column;">
-        <div id="karalama-header" style="background: #0f172a; padding: 10px 15px; color: white; display: flex; justify-content: space-between; align-items: center; cursor: move; user-select: none;">
-            <span style="font-size: 13px; font-weight: bold;"><i class="fas fa-drafting-compass"></i> Soru Çözme Alanı</span>
+    <div id="karalama-tahtasi" style="display: none; position: fixed; top: 15%; left: 60%; width: 350px; border-radius: 12px; box-shadow: 0 15px 40px rgba(0,0,0,0.4); border: 2px solid #f97316; z-index: 9999; overflow: hidden; flex-direction: column;">
+        <div id="karalama-header" style="background: #0f172a; padding: 10px 15px; display: flex; justify-content: space-between; align-items: center; cursor: move; user-select: none;">
+            <span style="font-size: 13px; font-weight: bold; color:white;"><i class="fas fa-drafting-compass"></i> Soru Çözme Alanı</span>
             <div>
                 <button onclick="karalamaModDegistir()" id="btn-karalama-mod" style="background: transparent; color: #3b82f6; border: none; cursor: pointer; margin-right: 15px; font-size: 16px;" title="Çizim Moduna Geç"><i class="fas fa-keyboard"></i></button>
                 <button onclick="karalamaTemizle()" style="background: transparent; color: #facc15; border: none; cursor: pointer; margin-right: 15px; font-size: 16px;" title="Sayfayı Temizle"><i class="fas fa-trash-alt"></i></button>
                 <button onclick="karalamaTahtasiniKapat()" style="background: transparent; color: #ef4444; border: none; cursor: pointer; font-size: 16px;" title="Kapat"><i class="fas fa-times"></i></button>
             </div>
         </div>
-        <div style="position: relative; width: 350px; height: 400px; background: #f8fafc;">
-            <textarea id="karalama-metin" placeholder="Hesaplamalarınızı klavye veya dokunmatik ile buraya yazabilirsiniz..." style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; padding: 15px; font-size: 15px; font-family: monospace; resize: none; outline: none; background: transparent; z-index: 2; line-height: 1.5; color: #0f172a; box-sizing: border-box;"></textarea>
+        <div style="position: relative; width: 350px; height: 400px; background: var(--bg-color);">
+            <textarea id="karalama-metin" placeholder="Hesaplamalarınızı klavye veya dokunmatik ile buraya yazabilirsiniz..." style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; padding: 15px; font-size: 15px; font-family: monospace; resize: none; outline: none; background: transparent; z-index: 2; line-height: 1.5; color: var(--text-dark); box-sizing: border-box;"></textarea>
             <canvas id="karalama-canvas" width="350" height="400" style="position: absolute; top: 0; left: 0; cursor: crosshair; touch-action: none; z-index: 1; display: none;"></canvas>
         </div>
     </div>
@@ -657,7 +756,7 @@ function kilitAc() {
                 
                 const soruSayisi = tumKategoriler[konuAdi] ? tumKategoriler[konuAdi].length : 0;
                 let kayitRozeti = ""; let bitisRozeti = ""; 
-                let ikon = "fa-folder"; let ikonRenk = "color:#f97316;"; let ekstraStil = "";
+                let ikon = "fa-folder"; let ikonRenk = "color:var(--primary-orange);"; let ekstraStil = "";
                 
                 let eskiKayit = localStorage.getItem("SMM_Kayit_" + dersID + "_" + konuAdi); 
                 let bitirdiMi = localStorage.getItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
@@ -671,8 +770,8 @@ function kilitAc() {
 
                 if (eskiKayit) {
                     let veri = JSON.parse(eskiKayit);
-                    kayitRozeti = `<span style="font-size:10px; background:#f97316; color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
-                    ikon = "fa-hourglass-half"; ikonRenk = "color:#f97316;";
+                    kayitRozeti = `<span style="font-size:10px; background:var(--primary-orange); color:white; padding:2px 6px; border-radius:10px; margin-right:5px;">⏱️ ${veri.index + 1}. S</span>`;
+                    ikon = "fa-hourglass-half"; ikonRenk = "color:var(--primary-orange);";
                     if(bitirdiMi === "evet") {
                         localStorage.removeItem("SMM_Bitirdi_" + dersID + "_" + konuAdi);
                         localStorage.removeItem("SMM_SoruSayisi_" + dersID + "_" + konuAdi);
@@ -856,9 +955,9 @@ function kilitAc() {
             }
 
             if(isIncelemeMode) {
-                document.getElementById('soru-sayac').innerHTML = `İnceleme Modu: Soru ${mevcutSoruIndex + 1} / ${aktifSorular.length} <br><span style="font-size:10px; background:#3b82f6; padding:3px 8px; border-radius:10px; margin-top:5px; display:inline-block;">📚 ${dersVeKonuMetni}</span>`;
+                document.getElementById('soru-sayac').innerHTML = `İnceleme Modu: Soru ${mevcutSoruIndex + 1} / ${aktifSorular.length} <br><span style="font-size:10px; background:#3b82f6; padding:3px 8px; border-radius:10px; margin-top:5px; display:inline-block; color:white;">📚 ${dersVeKonuMetni}</span>`;
             } else {
-                document.getElementById('soru-sayac').innerHTML = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length} <br><span style="font-size:10px; background:#f97316; padding:3px 8px; border-radius:10px; margin-top:5px; display:inline-block;">📚 ${dersVeKonuMetni}</span>`;
+                document.getElementById('soru-sayac').innerHTML = `Soru: ${mevcutSoruIndex + 1} / ${aktifSorular.length} <br><span style="font-size:10px; background:#f97316; padding:3px 8px; border-radius:10px; margin-top:5px; display:inline-block; color:white;">📚 ${dersVeKonuMetni}</span>`;
             }
 
             document.getElementById('soru-metni').innerHTML = marked.parse(s.q); 
@@ -946,10 +1045,10 @@ function kilitAc() {
             if(yuzde >= 80) ringColor = "#10b981"; 
             else if (yuzde < 50) ringColor = "#ef4444"; 
 
-            ring.style.background = `conic-gradient(#e2e8f0 100%, #e2e8f0 0%)`;
+            ring.style.background = `conic-gradient(var(--border-color) 100%, var(--border-color) 0%)`;
             ring.style.boxShadow = `none`;
             setTimeout(() => {
-                ring.style.background = `conic-gradient(${ringColor} ${yuzde}%, #e2e8f0 ${yuzde}%)`;
+                ring.style.background = `conic-gradient(${ringColor} ${yuzde}%, var(--border-color) ${yuzde}%)`;
                 ring.style.boxShadow = `0 10px 30px ${ringColor}60`; 
             }, 300);
         }
@@ -1083,7 +1182,7 @@ function kilitAc() {
         
         function hatalariListele() {
             const icerik = document.getElementById('hata-listesi-icerik');
-            icerik.innerHTML = window.hataliSorular.map((h, i) => `<div style="background: #fff1f2; padding: 10px; border-radius: 8px; margin-bottom: 8px; border-left: 3px solid #e11d48;"><b>Soru ${i+1}:</b> ${h.soru}<br><span style="color: #059669;"><b>✅ Doğru Cevap:</b> ${h.dogru}</span></div>`).join('');
+            icerik.innerHTML = window.hataliSorular.map((h, i) => `<div style="background: #fff1f2; padding: 10px; border-radius: 8px; margin-bottom: 8px; border-left: 3px solid #e11d48; color:#0f172a;"><b>Soru ${i+1}:</b> ${h.soru}<br><span style="color: #059669;"><b>✅ Doğru Cevap:</b> ${h.dogru}</span></div>`).join('');
             document.getElementById('hata-listesi-konteynir').style.display = 'block'; 
             document.getElementById('btn-hatalari-gor').style.display = 'none'; 
         }

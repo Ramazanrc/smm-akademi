@@ -17,10 +17,11 @@
 
     <style>
         :root { --primary-orange: #f97316; --dark-blue: #0f172a; }
-        body { background-color: #f8fafc; font-family: 'Inter', sans-serif; color: var(--dark-blue); }
+        body { background-color: #f8fafc; font-family: 'Inter', sans-serif; color: var(--dark-blue); transition: background-color 0.3s, color 0.3s; }
         .hero-section { 
             background: linear-gradient(135deg, var(--dark-blue) 0%, #1e293b 100%); 
             color: white; padding: 80px 0; border-bottom: 8px solid var(--primary-orange);
+            position: relative; /* Buton yerleşimi için eklendi */
         }
         .lesson-card { 
             transition: all 0.3s ease; cursor: pointer; border: none; 
@@ -63,6 +64,7 @@
         }
         .mode-switcher {
             background: white; padding: 8px; border-radius: 50px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); display: inline-flex; gap: 10px;
+            transition: background 0.3s;
         }
         .mode-btn {
             padding: 12px 30px; border-radius: 50px; border: none; background: transparent; color: #64748b;
@@ -93,7 +95,7 @@
         /* --- OKUMA EKRANI STİLLERİ (RENKLİ BAŞLIKLAR) --- */
         #okuma-ekrani {
             background: white; padding: 40px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.05);
-            display: none; animation: fadeIn 0.4s;
+            display: none; animation: fadeIn 0.4s; transition: background 0.3s;
         }
         #okuma-metni h1 { color: var(--primary-orange); font-weight: 900; border-bottom: 3px solid #f1f5f9; padding-bottom: 10px; margin-top: 30px; margin-bottom: 20px; font-size: 2.2rem; }
         #okuma-metni h2 { color: #10b981; font-weight: 800; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; margin-top: 25px; margin-bottom: 15px; font-size: 1.8rem; }
@@ -104,12 +106,12 @@
 
         /* Modal ve Kilit Ekranı */
         .modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(10px); display: flex; justify-content: center; align-items: center; z-index: 100000; }
-        .modal-content-custom { background: white; padding: 30px; border-radius: 20px; width: 90%; max-width: 550px; box-shadow: 0 20px 50px rgba(0,0,0,0.3); position: relative; }
+        .modal-content-custom { background: white; padding: 30px; border-radius: 20px; width: 90%; max-width: 550px; box-shadow: 0 20px 50px rgba(0,0,0,0.3); position: relative; transition: background 0.3s; }
         .modal-header-custom { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 15px; margin-bottom: 20px; }
         .modal-header-custom h2 { margin: 0; font-weight: 800; color: #0f172a; font-size: 1.5rem; }
         .close-icon { font-size: 1.5rem; font-weight: bold; color: #94a3b8; cursor: pointer; transition: 0.2s; }
         .close-icon:hover { color: #dc2626; }
-        .user-input-section { background: #f8fafc; padding: 15px; border-radius: 12px; margin-bottom: 25px; border-left: 4px solid #f97316; }
+        .user-input-section { background: #f8fafc; padding: 15px; border-radius: 12px; margin-bottom: 25px; border-left: 4px solid #f97316; transition: background 0.3s; }
         .user-input-section label { font-weight: 600; color: #475569; display: block; margin-bottom: 5px; }
         .user-input-section input { width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 8px; font-size: 1rem; outline: none; transition: 0.3s; }
         .user-input-section input:focus { border-color: #f97316; box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.2); }
@@ -129,13 +131,94 @@
         .countdown-text { font-size: 2rem; font-weight: 700; letter-spacing: 5px; }
         @media (max-width: 768px) { .hero-banner { flex-direction: column; text-align: center; } .hero-icon { margin-top: 20px; } }
         
-        #kilit-ekrani { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #0f172a; z-index: 99999; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; font-family: 'Inter', sans-serif; }
-        .kilit-kutu { background: white; color: #333; padding: 40px 30px; border-radius: 12px; text-align: center; box-shadow: 0 15px 30px rgba(0,0,0,0.5); max-width: 400px; width: 90%; border-top: 5px solid #f97316; }
+        #kilit-ekrani { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #0f172a; z-index: 99999; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; font-family: 'Inter', sans-serif; transition: background 0.3s; }
+        .kilit-kutu { background: white; color: #333; padding: 40px 30px; border-radius: 12px; text-align: center; box-shadow: 0 15px 30px rgba(0,0,0,0.5); max-width: 400px; width: 90%; border-top: 5px solid #f97316; transition: background 0.3s; }
         .kilit-kutu input { width: 100%; padding: 12px; margin: 20px 0; border: 2px solid #e2e8f0; border-radius: 8px; font-size: 16px; text-align: center; outline: none; }
         .kilit-kutu input:focus { border-color: #f97316; }
         .kilit-kutu button { width: 100%; padding: 12px; background: #f97316; color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 16px; cursor: pointer; transition: background 0.3s; }
         .kilit-kutu button:hover { background: #ea580c; }
         .yasal-uyari-metni { margin-top: 30px; font-size: 12px; color: #94a3b8; text-align: center; max-width: 600px; padding: 0 20px; line-height: 1.5; }
+
+        /* --- YENİ EKLENEN: DARK MODE KODLARI --- */
+        body.dark-mode {
+            background-color: #020617 !important;
+            color: #f8fafc !important;
+        }
+        body.dark-mode .lesson-card {
+            background: #0f172a !important;
+            border: 1px solid #1e293b;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+        }
+        body.dark-mode .lesson-card:hover {
+            box-shadow: 0 10px 25px rgba(249,115,22,0.2);
+            border-color: #f97316;
+        }
+        body.dark-mode .mode-switcher {
+            background: #0f172a !important;
+            border: 1px solid #1e293b;
+        }
+        body.dark-mode .mode-btn {
+            color: #94a3b8;
+        }
+        body.dark-mode .mode-btn.active {
+            background: #1e293b;
+            color: #f97316;
+        }
+        body.dark-mode #okuma-ekrani, 
+        body.dark-mode .modal-content-custom,
+        body.dark-mode .kilit-kutu {
+            background: #0f172a !important;
+            border: 1px solid #1e293b;
+            color: #f8fafc !important;
+        }
+        body.dark-mode #okuma-metni p, 
+        body.dark-mode #okuma-metni li,
+        body.dark-mode .modal-header-custom h2,
+        body.dark-mode .user-input-section label,
+        body.dark-mode .exam-summary,
+        body.dark-mode .kilit-kutu h2 {
+            color: #e2e8f0 !important;
+        }
+        body.dark-mode #okuma-metni strong {
+            color: #f97316 !important;
+        }
+        body.dark-mode .user-input-section {
+            background: #1e293b !important;
+        }
+        body.dark-mode .user-input-section input {
+            background: #0f172a;
+            color: white;
+            border-color: #334155;
+        }
+        body.dark-mode .chip {
+            background: #1e293b !important;
+            border-color: #334155 !important;
+            color: #cbd5e1 !important;
+        }
+        body.dark-mode .chip:hover {
+            background: #334155 !important;
+        }
+        body.dark-mode .chip.selected {
+            background: #f97316 !important;
+            color: white !important;
+            border-color: #f97316 !important;
+        }
+        body.dark-mode .modal-header-custom {
+            border-bottom-color: #1e293b;
+        }
+        body.dark-mode #okuma-metni h1, 
+        body.dark-mode #okuma-metni h2 {
+            border-bottom-color: #1e293b !important;
+        }
+        body.dark-mode #kilit-ekrani {
+            background: #020617 !important;
+        }
+        body.dark-mode .kilit-kutu input {
+            background: #1e293b;
+            color: white;
+            border-color: #334155;
+        }
+        /* ---------------------------------------- */
     </style>
 </head>
 <body>
@@ -154,6 +237,10 @@
 </div>
 
 <div class="hero-section text-center">
+    <button id="dark-mode-btn" onclick="toggleDarkMode()" style="position: absolute; top: 20px; right: 20px; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); color: white; padding: 8px 15px; border-radius: 20px; cursor: pointer; font-size: 16px; transition: 0.3s; z-index: 100;" title="Gece/Gündüz Modu">
+        <i class="fas fa-moon"></i>
+    </button>
+    
     <div class="container">
         <h1 class="display-4 fw-bold">SMM AKADEMİ</h1>
         <p class="lead opacity-75">Mali Müşavirlik Sınavlarına Hazırlıkta Profesyonel Soru Bankası</p>
@@ -695,6 +782,33 @@
 </div>
 
 <script>
+// --- YENİ EKLENEN: KARANLIK MOD FONKSİYONU VE KONTROLÜ ---
+document.addEventListener("DOMContentLoaded", function() {
+    const isDark = localStorage.getItem('smm_dark_mode') === 'true';
+    if (isDark) {
+        document.body.classList.add('dark-mode');
+        const btnIcon = document.querySelector('#dark-mode-btn i');
+        if(btnIcon) { btnIcon.classList.remove('fa-moon'); btnIcon.classList.add('fa-sun'); btnIcon.style.color = '#facc15'; }
+    }
+});
+
+function toggleDarkMode() {
+    const isDark = document.body.classList.toggle('dark-mode');
+    localStorage.setItem('smm_dark_mode', isDark);
+    
+    const btnIcon = document.querySelector('#dark-mode-btn i');
+    if (isDark) {
+        btnIcon.classList.remove('fa-moon');
+        btnIcon.classList.add('fa-sun');
+        btnIcon.style.color = '#facc15';
+    } else {
+        btnIcon.classList.remove('fa-sun');
+        btnIcon.classList.add('fa-moon');
+        btnIcon.style.color = 'white';
+    }
+}
+// --------------------------------------------------------
+
 // --- YENİ EKLENEN KLASÖR GEÇİŞ FONKSİYONLARI ---
 function altDersleriGoster(hedefKlasorId) {
     document.getElementById('ana-dersler-vitrini').style.display = 'none';
