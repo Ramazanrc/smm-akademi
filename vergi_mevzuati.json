@@ -15136,5 +15136,1549 @@
     ],
     "answer": 2
   }
-]
+],
+"Vergi Mevzuatı Denemesi (Çıkmış Sorular Klasik)": [
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, bilanço esasına göre tutulması zorunlu olan defterler aşağıdakilerden hangisinde tam ve doğru olarak verilmiştir?",
+    "options": [
+      "A) Yevmiye defteri, Defterikebir, İşletme hesabı defteri",
+      "B) Yevmiye defteri, Defterikebir, Envanter defteri",
+      "C) Serbest meslek kazanç defteri, Yevmiye defteri, Envanter defteri",
+      "D) Yevmiye defteri, Envanter defteri, Karar defteri",
+      "E) İşletme hesabı defteri, Envanter defteri, Karar defteri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'nda yer alan 'hesap hataları' aşağıdakilerden hangisini kapsamaz?",
+    "options": [
+      "A) Matrah hataları",
+      "B) Vergi miktarında hata",
+      "C) Verginin mükerrer olması",
+      "D) Mükellefiyette hata",
+      "E) Hiçbiri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "193 Sayılı Gelir Vergisi Kanunu'na göre aşağıdakilerden hangisi gelir vergisi beyanname çeşitlerinden biri değildir?",
+    "options": [
+      "A) Yıllık beyanname",
+      "B) Muhtasar beyanname",
+      "C) Münferit beyanname",
+      "D) Özel beyanname",
+      "E) Hiçbiri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bilanço esasına göre defter tutan ve ticari kazancı nedeniyle yıllık beyanname vermek zorunda olan bir mükellefin ilgili yıldaki ticari kazancı 550.000 TL, ödediği Bağ-Kur primi 45.000 TL'dir. Mükellef ayrıca tevkifatlı mevduat faizi olarak 400.000 TL ve mesken olarak kiraya verdiği gayrimenkulünden 45.000 TL kira geliri elde etmiştir. Götürü gider usulü (%15) seçildiğine göre mükellefin Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 543.250 TL",
+      "B) 505.000 TL",
+      "C) 943.250 TL",
+      "D) 550.000 TL",
+      "E) 581.500 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdaki mükellef gruplarından hangisi Defter-Beyan sisteminden faydalanamaz?",
+    "options": [
+      "A) Serbest meslek kazancı elde eden mükellefler",
+      "B) Basit usule tabi mükellefler",
+      "C) İşletme hesabı esasına göre defter tutan mükellefler",
+      "D) Bilanço esasına göre defter tutan mükellefler",
+      "E) Hiçbiri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre aşağıdakilerden hangisi matraha dâhil olan unsurlardan biridir?",
+    "options": [
+      "A) Fatura ve benzeri vesikalarda gösterilen ticari teamüllere uygun iskontolar",
+      "B) Hesaplanan katma değer vergisi",
+      "C) Ambalaj giderleri, sigorta ve komisyon giderleri",
+      "D) Özel İletişim Vergisi",
+      "E) Kurumlar Vergisi"
+    ],
+    "answer": 2
+  },
+  
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, amme borcunun tecil olunabilmesi için azami süre ne kadardır?",
+    "options": [
+      "A) 12 ay",
+      "B) 18 ay",
+      "C) 24 ay",
+      "D) 36 ay",
+      "E) 48 ay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İnşaat faaliyetiyle uğraşan bir şirketin Türkiye'deki faaliyetinden hasılatı 100.000 TL, kayıtlı gideri 30.000 TL'dir. Azerbaycan'daki şubesi aracılığıyla yürüttüğü istisna kapsamındaki inşaat işlerinden ise 80.000 TL hasılat, 20.000 TL gideri bulunmaktadır. Ancak Azerbaycan'da çalışan mühendislerin 2.000 TL'lik ücretinin Türkiye'deki giderler içinde (30.000 TL'nin içinde) muhasebeleştirildiği tespit edilmiştir. Buna göre şirketin Türkiye'deki Kurumlar Vergisi matrahı kaç TL olmalıdır?",
+    "options": [
+      "A) 70.000 TL",
+      "B) 72.000 TL",
+      "C) 130.000 TL",
+      "D) 132.000 TL",
+      "E) 68.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Verginin tahakkuku kavramının Vergi Usul Kanunu'ndaki tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Vergi alacağının kanunlarında gösterilen matrah ve nispetler üzerinden hesaplanmasıdır.",
+      "B) Tarh ve tebliğ edilen bir verginin ödenmesi gereken bir safhaya gelmesidir.",
+      "C) Vergilendirmeyi ilgilendiren ve hüküm ifade eden hususların mükellefe yazı ile bildirilmesidir.",
+      "D) Verginin kanunlarında gösterilen süreler içinde ödenmesidir.",
+      "E) Vergi matrahının idarece tespit edilmesidir."
+    ],
+    "answer": 1
+  },
+ 
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre 'Tebliğ Usulleri' arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "A) Posta ile tebliğ",
+      "B) İlan yoluyla tebliğ",
+      "C) Elektronik ortamda tebliğ",
+      "D) Memur vasıtasıyla tebliğ",
+      "E) Sözlü tebliğ"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İngiltere'de ikamet eden ve Türkiye'de dar mükellef statüsünde olan bir kişi, Ankara'daki dairesini konut olarak kiralayıp 7.000 Avro (Kur: 3,50 TL), İzmir'deki işyerini kiralayıp 9.000 Avro (Tevkifatlı) kira elde etmiştir. Götürü gider (%25) usulünü seçen mükellefin, ilgili yılın mesken istisna tutarı (3.800 TL) düşüldükten sonra beyan edeceği GMSİ matrahı kaç TL'dir?",
+    "options": [
+      "A) 39.150 TL",
+      "B) 15.525 TL",
+      "C) 20.700 TL",
+      "D) 42.000 TL",
+      "E) 56.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Vergi Usul Kanunu'na göre bir iktisadi kıymetin muhasebe kayıtlarında gösterilen hesap değerine ne ad verilir?",
+    "options": [
+      "A) Emsal bedeli",
+      "B) Rayiç bedel",
+      "C) Mukayyet değer",
+      "D) Tasarruf değeri",
+      "E) İtibari değer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre amme borcunun cebren tahsilinde, borçlunun elinde haczedilen bir malın üçüncü bir şahsa ait olduğunun (veya rehni olduğunun) ileri sürülmesine ne ad verilir?",
+    "options": [
+      "A) İstihkak iddiası",
+      "B) Aciz hali",
+      "C) İhtiyati haciz",
+      "D) Rüçhan hakkı",
+      "E) Teminat gösterme"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mobilya ticareti faaliyetiyle uğraşan bir mükellefin 2023 takvim yılı ticari kazancı 950.000 TL, ödediği Bağ-Kur primi 100.000 TL, geçmiş yıl zararı 300.000 TL'dir. Mükellef eşi ve çocuğu için 135.000 TL şahıs (sağlık) sigortası ödemiştir. Sigorta primlerinin beyan edilen gelirin (GVK 89/1) %15'ini aşamayacağı kuralı dikkate alındığında, bu mükellefin Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 415.000 TL",
+      "B) 422.500 TL",
+      "C) 550.000 TL",
+      "D) 850.000 TL",
+      "E) 522.500 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Vergi kanunlarına göre kendisine vergi borcu terettüp eden gerçek veya tüzel kişiye ne ad verilir?",
+    "options": [
+      "A) Vergi Sorumlusu",
+      "B) Mükellef",
+      "C) Kanuni Temsilci",
+      "D) Müteselsil Sorumlu",
+      "E) Vergi Keseni"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İngiltere'de ikamet eden ve Türkiye'de dar mükellef olan (A), Ankara'daki dairesini konut olarak kiraya verip 7.000 Avro (Kur: 3,50 TL) ve İzmir'deki işyerinden 9.000 Avro brüt (üzerinden tevkifat yapılmış) kira geliri elde etmiştir. Başkaca geliri olmayan ve götürü gider (%25) yöntemini seçen mükellefin, ilgili yıldaki mesken istisna tutarı 3.800 TL olduğuna göre beyan edeceği Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 15.525 TL",
+      "B) 20.700 TL",
+      "C) 39.150 TL",
+      "D) 42.000 TL",
+      "E) 24.500 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu'na göre tasfiye beyannameleri kimler tarafından verilir?",
+    "options": [
+      "A) Şirket Ortakları",
+      "B) Kanuni Temsilciler",
+      "C) Tasfiye Memurları",
+      "D) Yönetim Kurulu",
+      "E) Yeminli Mali Müşavir"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İtalya'da ikamet eden ve dar mükellef statüsünde olan (D), Malatya'daki işyerini basit usulde vergilendirilen bir mükellefe kiralamış ve üzerinden tevkifat yapılmaksızın 5.500 TL işyeri kira geliri elde etmiştir. Götürü gider (%15) yöntemini seçen mükellefin ilgili yıla ait Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) Beyan edilmez (0 TL)",
+      "B) 5.500 TL",
+      "C) 4.675 TL",
+      "D) 3.850 TL",
+      "E) 4.950 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre diş protezciliği faaliyetinden elde edilen kazanç hangi kazanç unsuru kapsamında değerlendirilir?",
+    "options": [
+      "A) Serbest Meslek Kazancı",
+      "B) Ücret",
+      "C) Arızi Kazanç",
+      "D) Ticari Kazanç",
+      "E) Diğer Kazanç ve İratlar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Diş hekimi (D)'nin serbest meslek hasılatı 180.000 TL, mesleki genel gideri ise 60.000 TL'dir. Mükellef ayrıca yazmış olduğu bir kitaptan dolayı (Kültür Bakanlığı tescilli) 27.000 TL telif kazancı elde etmiş ve üzerinden 4.590 TL tevkifat yapılmıştır. İlgili yılda telif kazancı istisna sınırını (dördüncü dilim) aşmadığına göre, mükellefin yıllık beyannamede bildireceği vergiye tabi gelir (matrah) kaç TL'dir?",
+    "options": [
+      "A) 180.000 TL",
+      "B) 147.000 TL",
+      "C) 120.000 TL",
+      "D) 142.410 TL",
+      "E) 87.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Verginin ödenmesi bakımından alacaklı vergi dairesine karşı muhatap olan kişiye ne ad verilir?",
+    "options": [
+      "A) Vergi Sorumlusu",
+      "B) Mükellef",
+      "C) Vergi Taşıyıcısı",
+      "D) Kefil",
+      "E) Aracı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sporculara transfer ücreti veya sair adlarla yapılan ödemeler ve sağlanan menfaatler Gelir Vergisi Kanunu'nun hangi kazanç unsuruna göre vergilendirilir?",
+    "options": [
+      "A) Ticari Kazanç",
+      "B) Serbest Meslek Kazancı",
+      "C) Ücret",
+      "D) Arızi Kazanç",
+      "E) Menkul Sermaye İradı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Teknoloji Geliştirme Bölgesi'nde (Teknopark) faaliyet gösteren bir limitet şirket, bu bölgedeki istisna kapsamındaki faaliyetinden 700.000 TL gider yapmış ancak hasılat elde etmemiştir (Zarar). Aynı kurumun bölge dışındaki ticari faaliyetlerinden 1.500.000 TL hasılatı ve 1.350.000 TL gideri bulunmaktadır. Buna göre şirketin Kurumlar Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 0 TL (Zarar)",
+      "B) 850.000 TL",
+      "C) 150.000 TL",
+      "D) 250.000 TL",
+      "E) 550.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre repo kazançları hangi kazanç unsuruna göre vergilendirilir?",
+    "options": [
+      "A) Ticari Kazanç",
+      "B) Menkul Sermaye İradı",
+      "C) Gayrimenkul Sermaye İradı",
+      "D) Diğer Kazanç ve İratlar",
+      "E) Ücret"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bilanço esasına göre defter tutan (AB) İnşaat A.Ş.'nin ticari bilanço kârı 8.600.000 TL'dir. Bu kârın içinde 2.500.000 TL Serbest Bölge şubesinden elde edilen kazanç ve 2.000.000 TL tam mükellef kuruma iştirak kazancı bulunmaktadır. Kurumun 400.000 TL kanunen kabul edilmeyen gideri mevcut olduğuna göre, Kurumlar Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 4.100.000 TL",
+      "B) 8.600.000 TL",
+      "C) 4.500.000 TL",
+      "D) 9.000.000 TL",
+      "E) 4.000.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Zarar yazılan şüpheli alacağın, mükellefin faaliyetinin sonlandırılmasından (işi bırakmasından) sonra tahsil edilmesi durumunda bu gelir hangi kazanç türü olarak değerlendirilir?",
+    "options": [
+      "A) Ticari Kazanç",
+      "B) Diğer Olağandışı Gelir ve Karlar",
+      "C) Arızi Ticari Kazanç",
+      "D) Menkul Sermaye İradı",
+      "E) Serbest Meslek Kazancı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Avukatlık faaliyetinden dolayı serbest meslek erbabı olan mükellefin hasılatı 260.000 TL, mesleki gideri 100.000 TL'dir. Mükellef, Türkiye Kızılay Derneği'ne makbuz karşılığı 10.000 TL bağış yapmıştır. Ayrıca yazdığı kitaptan sınırın altında kalan ve tevkifatlı 150.000 TL telif kazancı bulunmaktadır. Mükellefin yıllık Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 160.000 TL",
+      "B) 150.000 TL",
+      "C) 300.000 TL",
+      "D) 310.000 TL",
+      "E) 260.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "193 Sayılı Gelir Vergisi Kanunu'nda yer alan mükellef türleri aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "options": [
+      "A) Sınırlı Mükellef - Sınırsız Mükellef",
+      "B) Tam Mükellef - Dar Mükellef",
+      "C) Gerçek Usulde Mükellef - Basit Usulde Mükellef",
+      "D) Kanuni Mükellef - Fiili Mükellef",
+      "E) Asıl Mükellef - Sorumlu Mükellef"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre, ikmalen, re'sen veya idarece tarh olunan vergiler taksit süreleri kısmen veya tamamen geçtikten sonra tahakkuk etmişse, ne kadar süre içinde ödenir?",
+    "options": [
+      "A) Tahakkuk tarihinden başlayarak 15 gün içinde",
+      "B) Tahakkuk tarihinden başlayarak 1 ay içinde",
+      "C) Tebliğ tarihinden itibaren 1 ay içinde",
+      "D) Takip eden ayın sonuna kadar",
+      "E) Tahakkuk tarihinden itibaren 2 ay içinde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre, cezaya karşı vergi mahkemesinde dava açılmamışsa, vergi cezaları ne zaman ödenir?",
+    "options": [
+      "A) Ceza ihbarnamesinin tebliğ tarihinden itibaren 1 ay içinde",
+      "B) Ceza ihbarnamesinin tebliğ tarihinden itibaren 15 gün içinde",
+      "C) Dava açma süresinin bittiği tarihten başlayarak 1 ay içinde",
+      "D) Tahakkuk tarihinden itibaren 1 ay içinde",
+      "E) Dava açma süresinin bittiği tarihten başlayarak 15 gün içinde"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanununa göre 'hizmet sayılan haller' tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bir malın tasarruf hakkının devredilmesi",
+      "B) Vergiye tabi bir hizmetten, işletme sahibinin, personelinin veya diğer şahısların karşılıksız yararlandırılması",
+      "C) Malın alıcıya gönderilmesi",
+      "D) İşletme personelinin başka bir firmaya geçici kiralanması",
+      "E) İşletmenin kendi ihtiyacı için mal üretmesi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre, aşağıdakilerden hangisi teminat olarak kabul edilecek değerlerden biri değildir?",
+    "options": [
+      "A) Para",
+      "B) Bankalar tarafından verilen süresiz ve şartsız teminat mektupları",
+      "C) Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri",
+      "D) İlgililer lehine üçüncü şahıslar tarafından gösterilen ve haczedilen gayrimenkul mallar",
+      "E) Üçüncü şahıslar tarafından verilmiş vadeli çekler ve emre muharrer senetler"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre, aşağıdakilerden hangisi işe başlamayı bildirmeye mecbur olan mükelleflerden biri değildir?",
+    "options": [
+      "A) Vergiye tabi ticaret ve sanat erbabı",
+      "B) Serbest meslek erbabı",
+      "C) Kurumlar Vergisi mükellefleri",
+      "D) Kolektif ve adi şirket ortakları",
+      "E) Gelir vergisinden muaf olan esnaf"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanununa göre, aşağıdakilerden hangisi matraha dahil olmayan unsurlardan biridir?",
+    "options": [
+      "A) Teslim alanın gösterdiği yere kadar satıcı tarafından yapılan taşıma giderleri",
+      "B) Ambalaj giderleri, sigorta, komisyon giderleri",
+      "C) Vade farkı, fiyat farkı, kur farkı, faiz, prim gibi gelirler",
+      "D) Ticari teamüllere uygun miktardaki iskontolar",
+      "E) Vergi, resim, harç, pay, fon karşılığı gibi unsurlar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Söz ve beste çalışmaları yapan S.G., 2020 yılında tescilli eserlerinden (telif) 700.000 TL brüt hasılat elde etmiş ve üzerinden 119.000 TL tevkifat yapılmıştır. Belgelendirdiği mesleki giderleri 70.000 TL, sağlık/eğitim harcaması ise 50.000 TL'dir. İlgili yılda gelir vergisi tarifesinin dördüncü dilimi (istisna sınırı) 600.000 TL olduğuna göre mükellefin beyan edeceği Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 630.000 TL",
+      "B) 700.000 TL",
+      "C) İstisna kapsamında olduğundan beyanname verilmez",
+      "D) 580.000 TL",
+      "E) 461.000 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre, limited şirket ortaklarının şirketten tahsil edilemeyen amme alacağından sorumluluğu nasıldır?",
+    "options": [
+      "A) Şirket müdürü ile müteselsilen tüm borçtan sorumludurlar.",
+      "B) Sermaye hisseleri oranında doğrudan doğruya sorumlu olurlar.",
+      "C) Amme alacağından sadece yönetim kurulu üyeleri sorumludur.",
+      "D) Ortaklar amme alacağından sorumlu tutulamazlar.",
+      "E) Sadece şirketteki kar payları oranında sorumludurlar."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre, muhafazası mecbur olan defterler ve belgelerin muhafaza süresi ne zaman başlar ve ne kadardır?",
+    "options": [
+      "A) Defterin tasdik edildiği tarihten itibaren 10 yıl",
+      "B) İlgili bulundukları yılı takip eden takvim yılından başlayarak 5 yıl",
+      "C) Takvim yılının başından itibaren 5 yıl",
+      "D) Beyannamenin verildiği tarihten itibaren 5 yıl",
+      "E) İlgili bulundukları yılı takip eden takvim yılından başlayarak 10 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hollanda'dan emekli olup Türkiye'de ticari faaliyette bulunan bir mükellefin yıllık ticari kazancı 18.000 TL'dir. Mükellef aynı yıl Hollanda'daki sosyal güvenlik kurumundan 19.000 TL emekli aylığı (ücret) ve Türkiye'deki işyerinden tevkifata tabi tutulmuş 9.000 TL işyeri kira geliri elde etmiştir. İlgili yıl için beyanname verme sınırı 34.000 TL olduğuna göre, mükellefin yıllık gelir vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 18.000 TL",
+      "B) 27.000 TL",
+      "C) 37.000 TL",
+      "D) 46.000 TL",
+      "E) 0 TL (Beyanname verilmez)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre, aşağıdakilerden hangisi ihtiyati haciz sebeplerinden biri değildir?",
+    "options": [
+      "A) Borçlunun belli ikametgahının olmaması",
+      "B) Borçlunun mallarını kaçırması ve hileli yollara sapması ihtimalinin bulunması",
+      "C) Mal bildirimine çağrılan borçlunun belli müddet içinde mal bildiriminde bulunmaması",
+      "D) Borçlunun vergi dairesine vadesi geçmiş borcunun belirli bir tutarı aşması",
+      "E) Borçludan teminat gösterilmesi istendiği halde belli müddette teminat göstermemesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanununa göre, aşağıdakilerden hangisi Özel Tüketim Vergisinin mükellefi değildir?",
+    "options": [
+      "A) (I), (III) ve (IV) sayılı listelerdeki malları imal edenler",
+      "B) İlgili malların ithalini gerçekleştirenler",
+      "C) İlgili malların müzayede yoluyla satışını gerçekleştirenler",
+      "D) Motorlu araç ticareti yapanlar",
+      "E) Söz konusu malları nihai tüketici olarak satın alanlar"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Süre geçmesi suretiyle vergi alacağının kalkmasına ne ad verilir?",
+    "options": [
+      "A) Tahakkuk",
+      "B) Terkin",
+      "C) Zamanaşımı",
+      "D) Tecil",
+      "E) Takas"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aktif ve pasif olarak iki ana bölüme ayrılan finansal tabloya ne ad verilir?",
+    "options": [
+      "A) Mizan",
+      "B) Bilanço",
+      "C) Gelir Tablosu",
+      "D) Nakit Akım Tablosu",
+      "E) Envanter Defteri"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gerçek bir muamele veya duruma dayanmakla birlikte bu muamele veya durumu mahiyet veya miktar itibariyle gerçeğe aykırı şekilde yansıtan belgeye ne denir?",
+    "options": [
+      "A) Sahte belge",
+      "B) Muhteviyatı itibariyle yanıltıcı belge",
+      "C) Çifte defter",
+      "D) Yok Hükmünde Belge",
+      "E) Kanunsuz Belge"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların safi tutarına ne ad verilir?",
+    "options": [
+      "A) Hasılat",
+      "B) Ciro",
+      "C) Servet",
+      "D) Gelir",
+      "E) Matrah"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'nun 4'üncü maddesi hükmüne göre, teslim ve teslim sayılan haller ile mal ithalatı dışında kalan işlemlere ne denir?",
+    "options": [
+      "A) İfa",
+      "B) Hizmet",
+      "C) Eser",
+      "D) İşletme hakkı devri",
+      "E) İhracat"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, muhafazası mecbur olan defterler ve belgelerin 5 yıllık muhafaza süresi ne zaman başlar?",
+    "options": [
+      "A) Defterin tasdik edildiği tarihten itibaren",
+      "B) Beyannamenin verildiği yılı takip eden yıldan başlayarak",
+      "C) İlgili bulundukları yılı takip eden takvim yılından başlayarak",
+      "D) İşlemin yapıldığı aydan itibaren",
+      "E) İşe başlama tarihinden itibaren"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Her ne şekilde olursa olsun bir vergi tarh edildikten sonra bu vergiye müteallik olarak meydana çıkan ve defter, kayıt ve belgelere veya kanuni ölçülere dayanılarak miktarı tespit olunan bir matrah veya matrah farkı üzerinden alınacak verginin tarh edilmesine ne denir?",
+    "options": [
+      "A) Re'sen vergi tarhı",
+      "B) İkmalen vergi tarhı",
+      "C) İdarece vergi tarhı",
+      "D) Düzeltme yoluyla tarh",
+      "E) Yoklama ile tarh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, aşağıdakilerden hangisi ihtiyati haciz tatbik olunacak hallerden biri değildir?",
+    "options": [
+      "A) Borçlunun belli ikametgahı yoksa",
+      "B) Borçlu kaçmışsa veya mallarını kaçırması ihtimali varsa",
+      "C) Mal bildirimine çağrılan borçlu belli müddet içinde bildirimde bulunmamışsa",
+      "D) Borçlunun vergi borcu kanuni süresinde ödenmemiş ve vadesi 1 yılı geçmişse",
+      "E) Para cezasını müstelzim fiil dolayısiyle amme davası açılmış ise"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanunu'na göre, (I), (III) ve (IV) sayılı listelerdeki mallar ile (II) sayılı listedeki mallardan kayıt ve tescile tâbi olmayanlar için ÖTV mükellefi kimdir?",
+    "options": [
+      "A) Bu malları nihai tüketici olarak alanlar",
+      "B) Bu malları imal, inşa veya ithal edenler ile müzayede yoluyla satışını gerçekleştirenler",
+      "C) Bu malların perakende satışını yapan tüm esnaf",
+      "D) Sadece motorlu araç ticareti yapanlar",
+      "E) Sadece yurt içine dağıtım yapan nakliyeciler"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, teminat sağlayamayanların göstereceği 'şahsi kefalet' nasıl tesis olunur?",
+    "options": [
+      "A) Vergi dairesi müdürünün huzurunda sözlü beyanla",
+      "B) Ticaret siciline tescil ettirerek",
+      "C) Noterden tasdikli mukavele ile",
+      "D) Yeminli Mali Müşavir raporu ile",
+      "E) Kefilin banka hesabına bloke konularak"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, aşağıdakilerden hangisi Maliye Bakanlığınca 'İzaha Davet' kapsamına alınan konulardan biri değildir?",
+    "options": [
+      "A) Ba-Bs bildirim formlarında yer alan bilgilerin analizi sonucunda uyumsuzluk tespiti",
+      "B) Kredi kartı satış bilgileri ile KDV beyannamelerinin karşılaştırılması",
+      "C) Gayrimenkul alım/satım bedelinin eksik beyan edilmiş olabileceğine dair tespitler",
+      "D) Sahte veya muhteviyatı itibarıyla yanıltıcı belge kullanılması",
+      "E) Vergi matrahının defter, kayıt ve belgelere dayanılarak tespit edilmesinin tamamen imkansız olması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Serbest meslek erbabı A.Ş., 108.000 TL serbest meslek kazancı elde etmiştir. Ayrıca birinci işverenden 80.000 TL, ikinci işverenden 52.000 TL ve üçüncü işverenden 45.000 TL (tamamı tevkifatlı) ücret geliri ile 60.000 TL brüt mesken kira geliri mevcuttur. Birden sonraki işverenden alınan ücretler için beyan sınırı 34.000 TL ve GMSİ götürü gider oranı %15 olduğuna göre mükellefin yıllık Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 159.000 TL",
+      "B) 336.000 TL",
+      "C) 285.000 TL",
+      "D) 228.000 TL",
+      "E) 387.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, basit usulde vergilendirilen bir mükellefe işyeri kiralanması sonucu elde edilen ve vergi kesintisine (tevkifat) tabi olmayan işyeri kira gelirlerinin beyan durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Hiçbir şekilde beyan edilmez",
+      "B) Sadece belirli bir maktu istisna düşüldükten sonra beyan edilir",
+      "C) Yıllık beyanname verme sınırını aşarsa beyan edilir",
+      "D) Tutar ne olursa olsun tamamı yıllık beyanname ile beyan edilir",
+      "E) Tevkifat yapılmadığı için kurumlara rücu edilir"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gelir Vergisi Kanunu 18. maddesi kapsamında eser olarak kayıt-tescil edilen beste, kitap gibi çalışmalardan elde edilen serbest meslek kazançlarına (telif kazançları) ilişkin uygulanan istisnayla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Elde edilen kazanç tutarı ne olursa olsun her zaman tam istisnadan yararlanılır",
+      "B) Elde edilen kazanç, Kanunun 103'üncü maddesinde yazılı tarifenin dördüncü gelir diliminde yer alan tutarı aşarsa söz konusu istisnadan faydalanılamaz",
+      "C) Bu kazançlar üzerinden hiçbir zaman stopaj (tevkifat) yapılamaz",
+      "D) İstisnadan yararlananlar yıl içindeki mesleki giderlerini indirim konusu yapamazlar",
+      "E) Sadece dar mükellefler bu istisnadan faydalanabilir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Yurt dışında işçi olarak çalışıp emekli olduktan sonra Türkiye'ye yerleşen ve ticari faaliyette bulunan bir mükellefin, yabancı ülkedeki sosyal güvenlik kurumlarından aldığı emekli aylığının gelir vergisi karşısındaki durumu nedir?",
+    "options": [
+      "A) Ticari kazancıyla birleştirilerek yıllık beyannameye dahil edilir",
+      "B) Gelir Vergisi Kanunu'nun 23. maddesi uyarınca gelir vergisinden istisnadır ve beyannameye dahil edilmez",
+      "C) Dar mükellefiyet esasında stopaja tabi tutulur",
+      "D) Tutarın %50'si mesken istisnası gibi değerlendirilip kalan kısım beyan edilir",
+      "E) Ayrı bir Münferit Beyanname ile beyan edilmesi zorunludur"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, ticari, zirai veya mesleki kazancını yıllık beyanname ile bildirmek zorunda olan bir mükellefin, aynı yıl elde ettiği mesken (konut) kira gelirlerine ilişkin istisna (mesken istisnası) uygulaması hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Mesken istisnasından her halükarda tam olarak yararlanır",
+      "B) Sadece ticari kazancı zararla sonuçlanmışsa istisnadan yararlanabilir",
+      "C) Ticari, zirai ve mesleki kazancı nedeniyle beyanname verenler mesken kira gelirine ilişkin istisnadan yararlanamaz",
+      "D) İstisna tutarının sadece yarısı kadar indirim yapabilir",
+      "E) Mesken istisnası limitini aşan ticari kazançlarda istisna %25 oranında uygulanır"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dijital hizmet sağlayıcıları tarafından verilen dijital hizmetlere ilişkin matrah hesaplaması ile ilgili olarak; kendisine ait dijital oyuna erişim hakkını kendi sanal mağazasında 10 TL'ye, başka bir işletmenin sanal mağazası aracılığıyla 13 TL'ye (ve bu satış için aracı firmaya 3 TL komisyon ödeyerek) satan bir dijital hizmet sağlayıcısının bu dönemki toplam dijital hizmet vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 10 TL",
+      "B) 13 TL",
+      "C) 20 TL",
+      "D) 23 TL",
+      "E) 26 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu'na göre, yurt dışında yapılan inşaat, onarma ve montaj işlerinden elde edilen ve kurumlar vergisinden istisna olan kazançların elde edilmesi için yapılan giderlerin işletme kayıtlarındaki durumu nasıl olmalıdır?",
+    "options": [
+      "A) Türkiye'deki diğer faaliyetlerden elde edilen kazançlardan indirim konusu yapılabilir",
+      "B) Bu giderler, diğer faaliyetlerden elde edilen kazançlarla ilişkilendirilmemeli ve kanunen kabul edilmeyen gider (KKEG) olarak dikkate alınmalıdır",
+      "C) Giderlerin tamamı genel üretim giderlerine atılarak amortisman yoluyla itfa edilir",
+      "D) Sadece yurt dışı şubenin tasfiyesi sırasında gider yazılabilir",
+      "E) İstisna kazanç tutarının %50'sini aşmamak kaydıyla Türkiye'deki matrahtan düşülebilir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "(A) Limited Şirketi'nin yurt içi mobilya imalatı hasılatı 120.000.000 TL, giderleri 90.000.000 TL'dir. Şirket aynı yıl serbest bölgedeki şubesinden 10.000.000 TL hasılat elde etmiş ve 6.000.000 TL gidere katlanmıştır. Kurumun başkaca faaliyeti veya KKEG'si bulunmadığına göre Kurumlar Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 34.000.000 TL",
+      "B) 40.000.000 TL",
+      "C) 30.000.000 TL",
+      "D) 24.000.000 TL",
+      "E) 36.000.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıdakilerden hangisi mükellefin vergiye tabi işlemleri üzerinden hesaplanan katma değer vergisinden İNDİRİLEMEYECEK (KKEG olan) katma değer vergilerinden biri DEĞİLDİR? (Yani hangisi indirilebilir?)",
+    "options": [
+      "A) Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması olanların bu amaçla kullandıkları binek otomobillerinin alış vesikalarında gösterilen KDV",
+      "B) Gelir ve Kurumlar Vergisi kanunlarına göre kazancın tespitinde indirimi kabul edilmeyen giderler dolayısıyla ödenen KDV",
+      "C) Değersiz hale gelen alacaklara ilişkin alıcı tarafından ödenmeyen KDV",
+      "D) Vergiye tabi olmayan malların teslimi ile ilgili alış vesikalarında gösterilen KDV",
+      "E) Zayi olan (deprem, sel gibi istisnai haller hariç) mallara ait KDV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre aynı vergi kanununun uygulanmasında belli bir vergilendirme dönemi için aynı matrah üzerinden bir defadan fazla vergi istenmesi veya alınması hangi hesap hatası türü kapsamına girer?",
+    "options": [
+      "A) Matrah Hatası",
+      "B) Vergi Miktarında Hata",
+      "C) Verginin Mükerrer Olması",
+      "D) Mükellefiyette Hata",
+      "E) Mevzuda Hata"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre gayrimenkul sermaye iradı elde eden bir mükellef, safi iradın tespiti için gider yöntemi olarak 'Götürü Gider' usulünü seçtiğinde kural olarak kaç yıl geçmedikçe bu usulden dönerek gerçek gider usulüne geçemez?",
+    "options": [
+      "A) 1 Yıl",
+      "B) 2 Yıl",
+      "C) 3 Yıl",
+      "D) 4 Yıl",
+      "E) 5 Yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir otomobil firmasının Türkiye'deki distribütörü olan (A) A.Ş., ithal ettiği otomobili İstanbul bayisi (B) A.Ş.'ye satmış, bayi (B) A.Ş. de aynı otomobili nihai tüketici olan (C) Bey'e satmıştır. Buna göre bu otomobil için Özel Tüketim Vergisi (ÖTV) beyannamesini kim vermelidir?",
+    "options": [
+      "A) Distribütör (A) A.Ş.",
+      "B) Bayi (B) A.Ş.",
+      "C) Nihai tüketici (C) Bey",
+      "D) Distribütör ve Bayi müteselsilen",
+      "E) İthalatı gerçekleştiren gümrük idaresi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dar mükellefiyete tabi yabancı bir kurumun Türkiye'deki faaliyetlerini sonlandırmasından (işi bırakmasından) sonraki bir tarihte tahsil ettiği (ve daha önce zarar yazılan) şüpheli alacakları için hangi beyanname türü verilmelidir?",
+    "options": [
+      "A) Yıllık Kurumlar Vergisi Beyannamesi",
+      "B) Muhtasar Beyanname",
+      "C) Münferit Beyanname",
+      "D) Özel Beyanname",
+      "E) KDV Beyannamesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hasılat esaslı vergilendirme usulüne geçen bir mükellef (Örneğin Özel Halk Otobüsü İşletmesi), kanuni sürelere göre en az kaç yıl geçmedikçe bu usulden çıkamaz?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 4 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Teknoloji Geliştirme Bölgesinde faaliyet gösteren bir şirketin, bu bölgedeki istisna kapsamındaki faaliyetinden doğan zararlarının, aynı kurumun bölge dışındaki vergiye tabi diğer faaliyetlerinden elde ettiği kazançlardan indirilmesi hususunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Zararın tamamı diğer faaliyetlerden elde edilen kazançtan indirilebilir.",
+      "B) Zararın sadece %50'si indirim konusu yapılabilir.",
+      "C) İstisna faaliyetten doğan zararlar diğer faaliyet kazançlarından indirilemez, kanunen kabul edilmeyen gider (KKEG) olarak dikkate alınır.",
+      "D) Zarar 5 yıl süreyle devredilerek her türlü ticari kazançtan düşülebilir.",
+      "E) Şirketin talebi üzerine Maliye Bakanlığı'nın belirleyeceği oranda indirim yapılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, Bireysel Emeklilik Sistemine (BES) ödenen katkı paylarının yıllık beyannamede matrahtan indirim durumu aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      "A) Beyan edilen gelirin %15'ini aşmamak şartıyla indirilir.",
+      "B) Yıllık asgari ücretin brüt tutarını aşmamak şartıyla indirilebilir.",
+      "C) Hem gelirin %15'i hem de asgari ücret sınırı kontrol edilerek indirilir.",
+      "D) Sadece ücretliler ile serbest meslek kazancı elde edenler indirebilir.",
+      "E) Bireysel emeklilik sistemine ödenen katkı payları hiçbir suretle yıllık beyannamede vergi matrahının tespitinde indirilemez."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre, ikmalen, re'sen veya idarece tarh olunan vergiler taksit zamanlarından EVVEL tahakkuk etmişse, bu vergilerin ödeme zamanı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Tahakkuk tarihinden itibaren 1 ay içinde ödenir.",
+      "B) Taksit süreleri içinde ödenir.",
+      "C) Tahakkuk tarihinden itibaren 15 gün içinde ödenir.",
+      "D) İhbarname tebliğ tarihinden itibaren 30 gün içinde ödenir.",
+      "E) İzleyen ayın 26. günü akşamına kadar ödenir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tam mükellef olarak gerçek usulde ticari kazanç elde eden bir kişi, aynı zamanda iktisadi işletmesine dâhil olmayan bir meskeninden (konutundan) kira geliri elde etmiştir. Bu mükellefin konut kira gelirine uygulanacak 'mesken istisnası' ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Ticari kazancı zarar olsa dahi istisnadan tam yararlanır.",
+      "B) Ticari kazanç tutarı istisna haddini aşmıyorsa yararlanabilir.",
+      "C) Sadece götürü gider usulünü seçerse mesken istisnasından faydalanabilir.",
+      "D) Ticari, zirai ve mesleki kazancını yıllık beyanname ile bildirmek zorunda olan mükellefler konut kira gelirine ilişkin istisnadan yararlanamazlar.",
+      "E) Mesken istisnası konutun emlak vergi değerine göre hesaplanarak uygulanır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumlar vergisi mükellefi (X) A.Ş., geçici vergi matrahını tespit ederken ilgili döneme ait 'Ticari Bilanço Kârı' üzerinden aşağıdakilerden hangisini yaparak 'Geçici Vergi Matrahı'na ulaşır?",
+    "options": [
+      "A) Ticari kârdan sadece geçmiş yıl zararları düşülür.",
+      "B) Ticari kârdan kanunen kabul edilmeyen giderler düşülür, geçmiş yıl zararları eklenir.",
+      "C) Ticari kâra kanunen kabul edilmeyen giderler eklenir, mahsup edilecek geçmiş yıl zararları düşülür.",
+      "D) Ticari kâra hem kanunen kabul edilmeyen giderler hem de geçmiş yıl zararları eklenir.",
+      "E) Geçici vergi matrahı, ticari bilançodaki brüt satış kârı üzerinden doğrudan hesaplanır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanununa göre, aşağıdakilerden hangisi KDV matrahına dâhil EDİLMEYEN unsurlardan biridir?",
+    "options": [
+      "A) Fatura ve benzeri vesikalarda gösterilen ticari teamüllere uygun miktardaki iskontolar ile hesaplanan KDV",
+      "B) Ambalaj giderleri",
+      "C) Sigorta ve komisyon gider karşılıkları",
+      "D) Vade farkı ve fiyat farkı",
+      "E) Teslim alanın gösterdiği yere kadar satıcı tarafından yapılan yükleme ve boşaltma giderleri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanununa göre, beyan edilen gelirin %15'ini ve yıllık asgari ücretin brüt tutarını aşmamak şartıyla mükellefin şahsına, eşine ve küçük çocuklarına ait beyannamede indirim konusu yapılabilecek harcama aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bireysel emeklilik sistemi (BES) katkı payları",
+      "B) Şahıs (sağlık/hastalık) ile hayat sigortası primleri",
+      "C) Özel amaçlı taşıt ve konut kredisi faizleri",
+      "D) İsteğe bağlı Bağ-Kur hizmet borçlanması primleri",
+      "E) Ticari faaliyette kullanılmayan binek otomobilin kasko sigortası"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ticari kazancı nedeniyle bilanço esasına göre defter tutan mükellefin ticari kârı 600.000 TL, ödediği Bağ-Kur primi 60.000 TL'dir. Mükellefin ayrıca tevkifatlı 500.000 TL mevduat faizi ve ticari işletmeye dâhil olmayan 60.000 TL mesken kira geliri vardır (Götürü gider %15 seçilmiştir). Mükellefin yıllık beyannamede bildireceği Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 540.000 TL",
+      "B) 600.000 TL",
+      "C) 1.091.000 TL",
+      "D) 591.000 TL",
+      "E) 582.000 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gerçek bedeli olmayan veya bilinmeyen veyahut doğru olarak tespit edilemeyen bir malın, değerleme gününde satılması halinde emsaline nazaran haiz olacağı değere ne ad verilir?",
+    "options": [
+      "A) Rayiç Bedel",
+      "B) Tasarruf Değeri",
+      "C) İtibari Değer",
+      "D) Emsal Bedeli",
+      "E) Mukayyet Değer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Adana'da tekstil faaliyeti yürüten ticari kazanç sahibinin yıllık kârı 800.000 TL, ödediği Bağ-Kur primi 80.000 TL'dir. Mükellef aynı yıl 200.000 TL tevkifatlı repo geliri ile mesken olarak kiraladığı dairesinden 80.000 TL brüt kira tahsil etmiştir. Götürü gider yöntemini (%15) tercih eden mükellefin Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 788.000 TL",
+      "B) 720.000 TL",
+      "C) 988.000 TL",
+      "D) 800.000 TL",
+      "E) 776.000 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mükellefin veya sorumlunun vergilendirme ile ilgili ödevlerini zamanında yerine getirmemesi veya eksik yerine getirmesi yüzünden verginin zamanında tahakkuk ettirilmemesine veya eksik tahakkuk ettirilmesine ne ad verilir?",
+    "options": [
+      "A) Vergi Kaçakçılığı",
+      "B) Usulsüzlük",
+      "C) Vergi Ziyaı",
+      "D) Gecikme Zammı",
+      "E) Pişmanlık"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mimarlık faaliyeti yürüten serbest meslek erbabının hasılatı 1.500.000 TL, mesleki genel gideri 380.000 TL'dir. AFAD'a makbuz karşılığı 30.000 TL bağışta bulunan mükellefin, ayrıca yazdığı kitaptan elde ettiği istisna sınırını aşmayan 250.000 TL tevkifatlı telif kazancı bulunmaktadır. Mükellefin Gelir Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 1.120.000 TL",
+      "B) 1.340.000 TL",
+      "C) 1.090.000 TL",
+      "D) 1.370.000 TL",
+      "E) 1.500.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 Sayılı Vergi Usul Kanunu'na göre; matrah hataları, vergi miktarında hatalar ve verginin mükerrer olması genel olarak hangi hata grubu içinde değerlendirilir?",
+    "options": [
+      "A) Hesap Hataları",
+      "B) Vergilendirme Hataları",
+      "C) Mükellefiyette Hata",
+      "D) Mevzuda Hata",
+      "E) Muafiyette Hata"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, fatura ve benzeri vesikalarda gösterilen ticari teamüllere uygun miktardaki iskontoların KDV matrahı karşısındaki durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) KDV matrahına dahil edilir.",
+      "B) KDV matrahına dahil edilmez.",
+      "C) İskonto tutarının sadece %50'si matraha dahil edilir.",
+      "D) Mükellefin tercihine bağlı olarak matraha eklenebilir.",
+      "E) Sadece ihracat teslimlerinde matraha dahil edilmez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Beyaz eşya imalatçısı bir firma, aynı dönem içerisinde bir kamu kuruluşuna 100.000 TL, ihracatçı bir firmaya ise ihraç kaydıyla 200.000 TL tutarında teslim yapmıştır. Firmanın bu döneme ait toplam KDV indirimi 50.000 TL'dir. KDV oranı %18 olduğuna göre, mükellefin tecil edilecek KDV ve iade edilecek KDV tutarları sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 36.000 TL - 0 TL",
+      "B) 4.000 TL - 32.000 TL",
+      "C) 0 TL - 36.000 TL",
+      "D) 18.000 TL - 18.000 TL",
+      "E) 54.000 TL - 4.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, limited şirket ortaklarının amme alacağından sorumluluğu ile ilgili aşağıdakilerden hangisi YANLIŞTIR?",
+    "options": [
+      "A) Sermaye hisseleri oranında doğrudan doğruya sorumlu olurlar.",
+      "B) Şirketten tamamen veya kısmen tahsil edilemeyen borçlardan sorumludurlar.",
+      "C) Ortağın şirketteki sermaye payını devretmesi halinde, payı devreden amme alacağından tamamen kurtulur, tüm sorumluluk devralana geçer.",
+      "D) Payı devreden ve devralan şahıslar, devir öncesine ait amme alacaklarının ödenmesinden müteselsilen sorumlu tutulur.",
+      "E) Şirketten tahsil edilemeyeceği anlaşılan amme alacağı için kanun gereğince takibe tabi tutulurlar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türkiye'de tam mükellef olan ve ticari faaliyette bulunan bir gerçek kişi, aynı zamanda yabancı bir ülkedeki sosyal güvenlik kurumundan emekli aylığı (örneğin Almanya'dan) almaktadır. Bu emekli aylığının gelir vergisi beyanındaki durumu nedir?",
+    "options": [
+      "A) Türkiye'deki ticari kazancıyla birleştirilerek tamamı beyan edilir.",
+      "B) Ticari faaliyeti olduğu için bu geliri de ticari kazanç hükümlerine göre vergilendirilir.",
+      "C) Yabancı ülkede vergilendirildiği için vergi mahsubu yapılır ancak beyannameye mutlaka eklenir.",
+      "D) Gelir Vergisi Kanunu uyarınca istisna olduğundan beyannameye dahil edilmez.",
+      "E) Dar mükellefiyet kurallarına göre sadece stopaj yoluyla vergilendirilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, mükellefin şahsına, eşine ve küçük çocuklarına ait ödenen 'hayat sigortası' primlerinin, beyan edilen gelirden indirim konusu yapılabilmesi için dikkate alınacak oran aşağıdakilerden hangisidir? (Asgari ücretin yıllık brüt tutarını ve beyan edilen gelirin %15'ini aşmamak şartıyla)",
+    "options": [
+      "A) Ödenen primlerin %10'u",
+      "B) Ödenen primlerin %50'si",
+      "C) Ödenen primlerin %100'ü (Tamamı)",
+      "D) Ödenen primlerin %15'i",
+      "E) Hayat sigortası primleri hiçbir suretle indirilemez"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'nun 153. maddesine göre, aşağıdakilerden hangisi 'işe başlamayı bildirmeye mecbur olan' mükelleflerden biri olarak açıkça sayılmamıştır?",
+    "options": [
+      "A) Vergiye tabi ticaret ve sanat erbabı",
+      "B) Serbest meslek erbabı",
+      "C) Kurumlar Vergisi mükellefleri",
+      "D) Kolektif ve adi şirket ortakları",
+      "E) Komandit şirketlerin komanditer (sınırlı sorumlu) ortakları"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre; 'Vergiye tabi bir hizmetten, işletme sahibinin, işletme personelinin veya diğer şahısların karşılıksız yararlandırılması' işlemine kanunda ne ad verilmektedir?",
+    "options": [
+      "A) Teslim sayılan haller",
+      "B) Hizmet sayılan haller",
+      "C) Öz tüketim bedeli",
+      "D) Emsal bedel uygulaması",
+      "E) Arızi hizmet teslimi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, aşağıdakilerden hangisi amme alacağının güvence altına alınması için KABUL EDİLECEK teminatlardan biri değildir?",
+    "options": [
+      "A) Para",
+      "B) Bankalar tarafından verilen süresiz ve şartsız teminat mektupları",
+      "C) Hazine Müsteşarlığınca ihraç edilen Devlet iç borçlanma senetleri",
+      "D) Mükellefin ticari faaliyetiyle ilgili alıcılarından aldığı vadeli müşteri çekleri",
+      "E) İlgililer veya üçüncü şahıslar tarafından gösterilen ve haczedilen gayrimenkul mallar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Serbest meslek erbabı B.Y., 2017 yılında 97.000 TL serbest meslek kazancı elde etmiştir. Aynı yıl içerisinde birinci işverenden 72.000 TL, ikinci işverenden ise 28.000 TL tamamı tevkif yoluyla vergilendirilmiş ücret geliri bulunmaktadır. 2017 yılı için beyanname verme sınırı (ikinci gelir dilimi) 30.000 TL olduğuna göre, B.Y.'nin ilgili yıla ait Gelir Vergisi beyannamesinde beyan edeceği vergiye tabi gelir (matrah) tutarı kaç TL'dir?",
+    "options": [
+      "A) 197.000 TL",
+      "B) 169.000 TL",
+      "C) 125.000 TL",
+      "D) 97.000 TL",
+      "E) 67.000 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4760 sayılı Özel Tüketim Vergisi Kanunu'na göre, Kanuna ekli (II) sayılı listedeki mallardan 'kayıt ve tescile tâbi olanlar' için ÖTV mükellefi aşağıdakilerden hangisi DEĞİLDİR?",
+    "options": [
+      "A) Motorlu araç ticareti yapanlar",
+      "B) Bu araçları kullanmak üzere ithal edenler",
+      "C) Bu araçların müzayede yoluyla satışını gerçekleştirenler",
+      "D) Fabrikadan veya bayiden kendi kullanımı için araç satın alan nihai perakende tüketiciler",
+      "E) Ticari maksatla motorlu araçların alım satımını yürüten galeriler"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir (X) Anonim Şirketinin ilgili dönem ticari bilanço kârı 17.200.000 TL'dir. Kurumun kanunen kabul edilmeyen gideri 800.000 TL, tam mükellef kuruma iştirakinden elde ettiği istisna kazancı 4.000.000 TL ve Serbest Bölge şubesinden elde ettiği istisna kazancı 5.000.000 TL'dir. Bu kurumun Kurumlar Vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 18.000.000 TL",
+      "B) 9.000.000 TL",
+      "C) 8.200.000 TL",
+      "D) 13.200.000 TL",
+      "E) 12.400.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kurumlar vergisi mükellefi bir şirketin ilgili geçici vergi dönemi ticari kazancı 500.000 TL, kanunen kabul edilmeyen giderleri 42.000 TL ve indirebileceği geçmiş yıl zararı tutarı 80.000 TL'dir. Bu mükellefin geçici vergi matrahı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 462.000 TL",
+      "B) 500.000 TL",
+      "C) 542.000 TL",
+      "D) 420.000 TL",
+      "E) 582.000 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, ikmalen, re'sen veya idarece tarh olunan vergiler kanuni taksit süreleri kısmen veya tamamen GECİKTİKTEN sonra tahakkuk etmişse, bu geçmiş taksitlerin ödeme süresi nedir?",
+    "options": [
+      "A) İhbarnamenin tebliğ tarihinden itibaren 15 gün içinde",
+      "B) Tahakkuk tarihinden başlayarak 1 ay içinde",
+      "C) Dava açma süresinin sonuna kadar",
+      "D) İzleyen ayın 26. günü akşamına kadar",
+      "E) Tahakkuk tarihinden başlayarak 15 gün içinde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Serbest meslek erbabı (örneğin bir diş hekimi) elde ettiği kazancına ilişkin yıllık beyanname verirken, ödediği Bireysel Emeklilik Sistemi (BES) katkı payları ile sağlık sigortası primlerinin matrahtan indirimi hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İkisi de kanuni sınırlar dahilinde beyannamede indirim konusu yapılabilir.",
+      "B) Sadece BES katkı payı %15 sınırına kadar indirilebilir.",
+      "C) BES katkı payları hiçbir suretle indirilemez, sağlık sigortası primleri ise sınırları dahilinde indirilebilir.",
+      "D) Her ikisi de mesleki gider olarak doğrudan kazançtan düşülür, beyannamede ayrıca indirilmez.",
+      "E) İkisi de kanunen kabul edilmeyen giderdir ve indirim konusu yapılamaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir otomobil markasının Türkiye distribütörü, yurt dışından 400.000 TL bedel ile binek otomobil ithal etmiştir. Otomobilin ÖTV oranı %100, KDV oranı ise %18'dir. Bu aracın distribütör firma tarafından gümrükten çekilmesi (ithali) sırasında ödenecek olan Katma Değer Vergisi tutarı kaç TL'dir?",
+    "options": [
+      "A) 72.000 TL",
+      "B) 144.000 TL",
+      "C) 36.000 TL",
+      "D) 0 TL",
+      "E) 400.000 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Gelir Vergisi Kanunu Madde 18 kapsamında telif (eser) kazancı elde eden bir mükellef (örneğin bir besteci), elde ettiği bu kazanç GVK 103. maddedeki dördüncü gelir dilimini (beyan sınırını) AŞTIĞINDA durumu ne olur?",
+    "options": [
+      "A) Sınırı aşsa da eser tescilli olduğu için her zaman tam istisnadır, beyan edilmez.",
+      "B) Söz konusu istisnadan faydalanılması mümkün olmaz ve kazancın tamamı beyan edilir.",
+      "C) Sadece sınırı aşan kısım için beyanname verilir.",
+      "D) İstisna %50 oranında uygulanır ve kalan tutar beyan edilir.",
+      "E) Sadece tevkifat yapılmayan kısımlar beyannameye dahil edilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kurumlar Vergisi mükellefi bir şirketin yurt dışı (örneğin Azerbaycan) şubesi aracılığıyla yürüttüğü inşaat ve onarım işlerinden doğan (ve kurumlar vergisinden istisna olan) kazançlarının elde edilmesi için yapılan giderlerin, şirketin Türkiye'deki kazanç matrahı karşısındaki durumu nedir?",
+    "options": [
+      "A) İstisna kazançlara ilişkin bu giderler, diğer faaliyetlerden elde edilen kazançlarla ilişkilendirilemez ve Kanunen Kabul Edilmeyen Gider (KKEG) olarak dikkate alınır.",
+      "B) Türkiye'deki ticari kazançtan sınırsız olarak indirim konusu yapılabilir.",
+      "C) Giderin %50'si indirim konusu yapılabilir.",
+      "D) Yurt dışı zararlar olarak 5 yıl boyunca devredilip Türkiye kazancından düşülebilir.",
+      "E) Amortismana tabi tutularak yıllara sari şekilde itfa edilir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Gayrimenkul Sermaye İradı (kira geliri) elde eden bir mükellef, safi iradın tespiti için 'götürü gider' usulünü tercih etmiş ve bu yönteme göre beyanda bulunmuştur. Bu mükellefin 'gerçek gider' usulüne geçebilmesi ile ilgili kanuni kural aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Götürü gider usulünü kabul edenler 1 yıl geçmedikçe bu usulden dönemezler.",
+      "B) Götürü gider usulünü kabul edenler 2 yıl geçmedikçe bu usulden dönemezler.",
+      "C) Götürü gider usulünü kabul edenler 3 yıl geçmedikçe bu usulden dönemezler.",
+      "D) Götürü gider usulünü kabul edenler 5 yıl geçmedikçe bu usulden dönemezler.",
+      "E) Mükellef her yıl kendi isteğine göre dilediği usulü seçmekte serbesttir."
+    ],
+    "answer": 1
+  },
+   {
+    "q": "Diş hekimliği yapan bir serbest meslek erbabının yıllık hasılatı 630.000 TL, mesleki giderleri 210.000 TL, ödediği Bağ-Kur primi 40.000 TL'dir. Mükellef ayrıca çocuğu için 35.000 TL sağlık sigortası, 15.000 TL de Bireysel Emeklilik (BES) katkı payı ödemiştir. Buna göre mükellefin yıllık beyannamede bildireceği vergiye tabi gelir (matrah) kaç TL'dir? (Asgari ücret sınırı dikkate alınmamıştır)",
+    "options": [
+      "A) 380.000 TL",
+      "B) 345.000 TL",
+      "C) 330.000 TL",
+      "D) 395.000 TL",
+      "E) 420.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre amme borcunun tahsilinde, borçlu elinde haczedilen bir mal üzerinde üçüncü şahsın mülkiyet iddia etmesi (istihkak iddiası) durumunda, tahsil dairesi bu iddiayı reddederse üçüncü şahsın mahkemeye müracaat etmesi için öngörülen kanuni süre kaç gündür?",
+    "options": [
+      "A) 3 gün",
+      "B) 7 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Yıllık gelir vergisi beyannamesinde, mükellefin eşi ve küçük çocukları adına ödemiş olduğu şahıs (hastalık) sigorta primlerinin indirim konusu yapılabilmesi için kanunda öngörülen üst sınırlar (limitler) hangi seçenekte doğru olarak verilmiştir?",
+    "options": [
+      "A) Asgari ücretin aylık brüt tutarını ve beyan edilen gelirin %10'unu aşamaz.",
+      "B) Asgari ücretin yıllık brüt tutarını ve beyan edilen gelirin %15'ini aşamaz.",
+      "C) Asgari ücretin yıllık net tutarını ve beyan edilen gelirin %20'sini aşamaz.",
+      "D) Sadece beyan edilen gelirin %15'ini aşamaz (Tutar sınırı yoktur).",
+      "E) Tutar veya oran sınırı olmaksızın ödenen primin tamamı indirilebilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu'na göre, tasfiyeye giren bir kurumun tasfiye beyannameleri kimler tarafından verilir?",
+    "options": [
+      "A) Kurumun ortakları",
+      "B) Kanuni Temsilciler",
+      "C) Tasfiye Memurları",
+      "D) Bağımsız Denetçiler",
+      "E) Vergi Dairesi Müdürlüğü"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre; Vergi Usul Kanunu madde 322 hükmünce 'değersiz hale gelen alacaklara' ilişkin alıcı tarafından ödenmeyen Katma Değer Vergisi'nin satıcı tarafındaki durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Matrahtan indirim konusu yapılır.",
+      "B) Şüpheli alacak karşılığı ayrılarak ertelenir.",
+      "C) Vergiye tabi işlemler üzerinden hesaplanan katma değer vergisinden indirilemez (KKEG niteliğindedir).",
+      "D) Vergi dairesinden doğrudan iadesi talep edilir.",
+      "E) Alıcının vergi dairesine rücu edilerek tahsil edilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hasılat esaslı vergilendirme usulüne tabi olan bir Özel Halk Otobüsü İşletmesi, ilgili ayda 50.000 TL tutarında toplu taşıma hizmeti vermiş ve 9.000 TL KDV hesaplamıştır. Bu usulde uygulanacak oran %1,5 olduğuna göre, işletmenin ilgili dönemde ödemesi gereken katma değer vergisi kaç TL'dir?",
+    "options": [
+      "A) 750 TL",
+      "B) 885 TL",
+      "C) 900 TL",
+      "D) 1.500 TL",
+      "E) 6.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre; mükellefin veya sorumlunun vergilendirme ile ilgili ödevlerini zamanında yerine getirmemesi veya eksik yerine getirmesi yüzünden verginin zamanında tahakkuk ettirilmemesine veya eksik tahakkuk ettirilmesine ne denir?",
+    "options": [
+      "A) Vergi Kaçakçılığı",
+      "B) Vergi Ziyaı",
+      "C) Özel Usulsüzlük",
+      "D) Genel Usulsüzlük",
+      "E) Kusur"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, teminat sağlayamayan bir mükellefin borcuna karşılık 'muteber bir şahsı kefil göstermesi (şahsi kefalet)' hangi usulle tesis olunur?",
+    "options": [
+      "A) İki şahit huzurunda imzalanan adi sözleşme ile",
+      "B) Ticaret siciline tescil ettirerek",
+      "C) Noterden tasdikli mukavele ile",
+      "D) Vergi dairesi yoklama fişine şerh düşülerek",
+      "E) Kefilin banka hesabına nakit blokaj konularak"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, satın alınan emtianın (ticari malların) değerleme ölçüsü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Rayiç bedel",
+      "B) İtibari değer",
+      "C) Maliyet bedeli",
+      "D) Tasarruf değeri",
+      "E) Emsal bedeli"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kurumlar Vergisi mükellefi (X) A.Ş.'nin ilgili hesap dönemi 4. geçici vergi dönemi ticari kazancı 500.000 TL, kanunen kabul edilmeyen giderleri 42.000 TL, mahsup edilecek geçmiş yıl zararı 80.000 TL'dir. Şirket 1. geçici vergi döneminde 40.000 TL geçici vergi ödemiştir. Geçici vergi oranı %22 olduğuna göre, 4. dönemde 'ödenmesi gereken' geçici vergi tutarı kaç TL'dir?",
+    "options": [
+      "A) 110.000 TL",
+      "B) 101.640 TL",
+      "C) 119.240 TL",
+      "D) 61.640 TL",
+      "E) 79.240 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu'na göre; kurumların, ortaklarından veya ortaklarla ilişkili olan kişilerden doğrudan veya dolaylı olarak temin ederek işletmede kullandıkları borçların, hesap dönemi içinde herhangi bir tarihte kurumun öz sermayesinin kaç katını aşan kısmı ilgili hesap dönemi için örtülü sermaye sayılır?",
+    "options": [
+      "A) 1 katını",
+      "B) 2 katını",
+      "C) 3 katını",
+      "D) 4 katını",
+      "E) 5 katını"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'a göre, amme alacağının vadesinde ödenmeyen kısmına, vadenin bitim tarihinden itibaren her ay için ayrı ayrı uygulanan yaptırımın adı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Gecikme Faizi",
+      "B) Tecil Faizi",
+      "C) Gecikme Zammı",
+      "D) Kusur Cezası",
+      "E) Usulsüzlük Cezası"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, faturanın, malın teslimi veya hizmetin yapıldığı tarihten itibaren azami kaç gün içinde düzenlenmesi zorunludur?",
+    "options": [
+      "A) 3 gün",
+      "B) 5 gün",
+      "C) 7 gün",
+      "D) 10 gün",
+      "E) 15 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, iktisap (edinme) tarihinden başlayarak kaç yıl içinde elden çıkarılan gayrimenkullerden sağlanan kazançlar 'Değer Artışı Kazancı' olarak vergiye tabidir?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 4 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre bilanço esasına göre defter tutan mükelleflerin azalan bakiyeler usulüyle amortisman ayırması halinde uygulanacak oran, normal amortisman oranının kaç katını ve azami yüzde kaçı geçemez?",
+    "options": [
+      "A) 2 katını geçemez, azami %50'dir",
+      "B) 2 katını geçemez, azami %40'tır",
+      "C) 3 katını geçemez, azami %50'dir",
+      "D) 1,5 katını geçemez, azami %25'tir",
+      "E) 2 katını geçemez, azami %60'tır"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu kapsamında yer alan 'Uzlaşma' müessesesi ile ilgili aşağıdakilerden hangisi kesinlikle uzlaşma kapsamına GİRMEZ?",
+    "options": [
+      "A) Vergi ziyaı cezası",
+      "B) Özel usulsüzlük cezaları",
+      "C) İkmalen tarh edilen vergiler",
+      "D) 359'uncu maddede yazılı (Kaçakçılık) fiillerle vergi ziyaına sebebiyet verilmesi halinde kesilen cezalar",
+      "E) Re'sen tarh edilen vergiler"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre, ticari kazanç sahipleri ile serbest meslek erbabının cari vergilendirme döneminin gelir vergisine mahsup edilmek üzere ödedikleri 'Geçici Vergi'nin oranı yüzde kaçtır?",
+    "options": [
+      "A) %10",
+      "B) %15",
+      "C) %20",
+      "D) %22",
+      "E) %25"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6183 sayılı Kanun'a göre kendisine ödeme emri tebliğ edilen bir borçlu, böyle bir borcu olmadığı, borcu kısmen ödediği veya borcun zamanaşımına uğradığı iddialarıyla, ödeme emrinin tebliğ tarihinden itibaren kaç gün içinde vergi mahkemesinde dava açabilir?",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'nun 371. maddesinde yer alan 'Pişmanlık ve Islah' hükümlerinden yararlanabilmek için, haber verme dilekçesi verildikten sonra eksik veya hiç beyan edilmeyen verginin ve pişmanlık zammının kaç gün içinde ödenmesi zorunludur?",
+    "options": [
+      "A) 7 gün",
+      "B) 10 gün",
+      "C) 15 gün",
+      "D) 30 gün",
+      "E) 60 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu'na göre 'Transfer Fiyatlandırması Yoluyla Örtülü Kazanç Dağıtımı' kapsamında emsallere uygunluk ilkesi doğrultusunda fiyat tespitinde kullanılabilecek yöntemlerden biri AŞAĞIDAKİLERDEN HANGİSİ DEĞİLDİR?",
+    "options": [
+      "A) Karşılaştırılabilir Fiyat Yöntemi",
+      "B) Maliyet Artı Yöntemi",
+      "C) Yeniden Satış Fiyatı Yöntemi",
+      "D) Kâr Bölüşüm Yöntemi",
+      "E) Yeniden Değerleme Yöntemi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre aşağıdakilerden hangisi 'Yoklama' yapmaya yetkili olanlar arasında YER ALMAZ?",
+    "options": [
+      "A) Vergi Dairesi Müdürleri",
+      "B) Yoklama Memurları",
+      "C) Yetkili Makamlar Tarafından Yoklama İşine Görevlendirilenler",
+      "D) Vergi Müfettişleri",
+      "E) Yeminli Mali Müşavirler"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıda sayılan işlemlerden hangisi KDV'den tam istisna (indirim ve iade hakkı veren istisna) kapsamındadır?",
+    "options": [
+      "A) Banka ve sigorta muameleleri",
+      "B) PTT'nin pul ve kâğıt teslimleri",
+      "C) İhracat teslimleri ve bu teslimlere ilişkin hizmetler",
+      "D) İştirak hisseleri ve gayrimenkul satış kazancı istisnası",
+      "E) Kültür ve eğitim amacı taşıyan teslim ve hizmetler"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vergi mahremiyeti kuralı gereğince, vergi işlemleriyle uğraşan memurlar mükelleflerin sırlarını ifşa edemezler. Ancak 213 sayılı Vergi Usul Kanunu'na göre aşağıdakilerden hangisi vergi mahremiyetinin İHLALİ SAYILMAZ?",
+    "options": [
+      "A) Mükellefin vergi matrahını yerel basına bildirmek",
+      "B) Mükellefin borcunu rakip firmalarla paylaşmak",
+      "C) Kesinleşen vergi ve cezalar ile vadesi geçtiği halde ödenmemiş amme alacaklarının Maliye Bakanlığınca açıklanması",
+      "D) Vergi denetim tutanaklarının üçüncü kişilerle gayriresmi olarak paylaşılması",
+      "E) İşletmenin mali krizde olduğunun bankalara şifahen söylenmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir mükellefin sahte veya muhteviyatı itibariyle yanıltıcı belge düzenlediği veya kullandığı vergi incelemesine yetkili olanlarca tespit edilmişse, bu durum 6183 sayılı Kanun kapsamında hangi işlemin yapılmasına doğrudan gerekçe oluşturur?",
+    "options": [
+      "A) Tecil",
+      "B) Terkin",
+      "C) İhtiyati Tahakkuk",
+      "D) Takas",
+      "E) Uzlaşma"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre, aşağıdakilerden hangisi Maliye Bakanlığınca 'İzaha Davet' kapsamına alınan konulardan biri değildir?",
+    "options": [
+      "A) Ba-Bs bildirim formlarında yer alan bilgilerin analizi sonucunda uyumsuzluk tespiti",
+      "B) Kredi kartı satış bilgileri ile KDV beyannamelerinin karşılaştırılması",
+      "C) Gayrimenkul alım/satım bedelinin eksik beyan edilmiş olabileceğine dair tespitler",
+      "D) Sahte veya muhteviyatı itibarıyla yanıltıcı belge kullanılması",
+      "E) Vergi matrahının defter, kayıt ve belgelere dayanılarak tespit edilmesinin tamamen imkansız olması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, basit usulde vergilendirilen bir mükellefe işyeri kiralanması sonucu elde edilen ve vergi kesintisine (tevkifat) tabi olmayan işyeri kira gelirlerinin beyan durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Hiçbir şekilde beyan edilmez",
+      "B) Sadece belirli bir maktu istisna düşüldükten sonra beyan edilir",
+      "C) Yıllık beyanname verme sınırını aşarsa beyan edilir",
+      "D) Tutar ne olursa olsun tamamı yıllık beyanname ile beyan edilir",
+      "E) Tevkifat yapılmadığı için kurumlara rücu edilir"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gelir Vergisi Kanunu 18. maddesi kapsamında eser olarak kayıt-tescil edilen beste, kitap gibi çalışmalardan elde edilen serbest meslek kazançlarına (telif kazançları) ilişkin uygulanan istisnayla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Elde edilen kazanç tutarı ne olursa olsun her zaman tam istisnadan yararlanılır",
+      "B) Elde edilen kazanç, Kanunun 103'üncü maddesinde yazılı tarifenin dördüncü gelir diliminde yer alan tutarı aşarsa söz konusu istisnadan faydalanılamaz",
+      "C) Bu kazançlar üzerinden hiçbir zaman stopaj (tevkifat) yapılamaz",
+      "D) İstisnadan yararlananlar yıl içindeki mesleki giderlerini indirim konusu yapamazlar",
+      "E) Sadece dar mükellefler bu istisnadan faydalanabilir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Yurt dışında işçi olarak çalışıp emekli olduktan sonra Türkiye'ye yerleşen ve ticari faaliyette bulunan bir mükellefin, yabancı ülkedeki sosyal güvenlik kurumlarından aldığı emekli aylığının gelir vergisi karşısındaki durumu nedir?",
+    "options": [
+      "A) Ticari kazancıyla birleştirilerek yıllık beyannameye dahil edilir",
+      "B) Gelir Vergisi Kanunu'nun 23. maddesi uyarınca gelir vergisinden istisnadır ve beyannameye dahil edilmez",
+      "C) Dar mükellefiyet esasında stopaja tabi tutulur",
+      "D) Tutarın %50'si mesken istisnası gibi değerlendirilip kalan kısım beyan edilir",
+      "E) Ayrı bir Münferit Beyanname ile beyan edilmesi zorunludur"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dijital hizmet sağlayıcıları tarafından verilen dijital hizmetlere ilişkin matrah hesaplaması ile ilgili olarak; kendisine ait dijital oyuna erişim hakkını kendi sanal mağazasında 10 TL'ye, başka bir işletmenin sanal mağazası aracılığıyla 13 TL'ye (ve bu satış için aracı firmaya 3 TL komisyon ödeyerek) satan bir dijital hizmet sağlayıcısının bu dönemki toplam dijital hizmet vergisi matrahı kaç TL'dir?",
+    "options": [
+      "A) 10 TL",
+      "B) 13 TL",
+      "C) 20 TL",
+      "D) 23 TL",
+      "E) 26 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumlar Vergisi Kanunu'na göre, yurt dışında yapılan inşaat, onarma ve montaj işlerinden elde edilen ve kurumlar vergisinden istisna olan kazançların elde edilmesi için yapılan giderlerin işletme kayıtlarındaki durumu nasıl olmalıdır?",
+    "options": [
+      "A) Türkiye'deki diğer faaliyetlerden elde edilen kazançlardan indirim konusu yapılabilir",
+      "B) Bu giderler, diğer faaliyetlerden elde edilen kazançlarla ilişkilendirilmemeli ve kanunen kabul edilmeyen gider (KKEG) olarak dikkate alınmalıdır",
+      "C) Giderlerin tamamı genel üretim giderlerine atılarak amortisman yoluyla itfa edilir",
+      "D) Sadece yurt dışı şubenin tasfiyesi sırasında gider yazılabilir",
+      "E) İstisna kazanç tutarının %50'sini aşmamak kaydıyla Türkiye'deki matrahtan düşülebilir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanunu'na göre, aşağıdakilerden hangisi mükellefin vergiye tabi işlemleri üzerinden hesaplanan katma değer vergisinden İNDİRİLEMEYECEK (KKEG olan) katma değer vergilerinden biri DEĞİLDİR? (Yani hangisi indirilebilir?)",
+    "options": [
+      "A) Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması olanların bu amaçla kullandıkları binek otomobillerinin alış vesikalarında gösterilen KDV",
+      "B) Gelir ve Kurumlar Vergisi kanunlarına göre kazancın tespitinde indirimi kabul edilmeyen giderler dolayısıyla ödenen KDV",
+      "C) Değersiz hale gelen alacaklara ilişkin alıcı tarafından ödenmeyen KDV",
+      "D) Vergiye tabi olmayan malların teslimi ile ilgili alış vesikalarında gösterilen KDV",
+      "E) Zayi olan (deprem, sel gibi istisnai haller hariç) mallara ait KDV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanunu'na göre aynı vergi kanununun uygulanmasında belli bir vergilendirme dönemi için aynı matrah üzerinden bir defadan fazla vergi istenmesi veya alınması hangi hesap hatası türü kapsamına girer?",
+    "options": [
+      "A) Matrah Hatası",
+      "B) Vergi Miktarında Hata",
+      "C) Verginin Mükerrer Olması",
+      "D) Mükellefiyette Hata",
+      "E) Mevzuda Hata"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanunu'na göre gayrimenkul sermaye iradı elde eden bir mükellef, safi iradın tespiti için gider yöntemi olarak 'Götürü Gider' usulünü seçtiğinde kural olarak kaç yıl geçmedikçe bu usulden dönerek gerçek gider usulüne geçemez?",
+    "options": [
+      "A) 1 Yıl",
+      "B) 2 Yıl",
+      "C) 3 Yıl",
+      "D) 4 Yıl",
+      "E) 5 Yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir otomobil firmasının Türkiye'deki distribütörü olan (A) A.Ş., ithal ettiği otomobili İstanbul bayisi (B) A.Ş.'ye satmış, bayi (B) A.Ş. de aynı otomobili nihai tüketici olan (C) Bey'e satmıştır. Buna göre bu otomobil için Özel Tüketim Vergisi (ÖTV) beyannamesini kim vermelidir?",
+    "options": [
+      "A) Distribütör (A) A.Ş.",
+      "B) Bayi (B) A.Ş.",
+      "C) Nihai tüketici (C) Bey",
+      "D) Distribütör ve Bayi müteselsilen",
+      "E) İthalatı gerçekleştiren gümrük idaresi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dar mükellefiyete tabi yabancı bir kurumun Türkiye'deki faaliyetlerini sonlandırmasından (işi bırakmasından) sonraki bir tarihte tahsil ettiği (ve daha önce zarar yazılan) şüpheli alacakları için hangi beyanname türü verilmelidir?",
+    "options": [
+      "A) Yıllık Kurumlar Vergisi Beyannamesi",
+      "B) Muhtasar Beyanname",
+      "C) Münferit Beyanname",
+      "D) Özel Beyanname",
+      "E) KDV Beyannamesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hasılat esaslı vergilendirme usulüne geçen bir mükellef (Örneğin Özel Halk Otobüsü İşletmesi), kanuni sürelere göre en az kaç yıl geçmedikçe bu usulden çıkamaz?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 4 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Teknoloji Geliştirme Bölgesinde faaliyet gösteren bir şirketin, bu bölgedeki istisna kapsamındaki faaliyetinden doğan zararlarının, aynı kurumun bölge dışındaki vergiye tabi diğer faaliyetlerinden elde ettiği kazançlardan indirilmesi hususunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Zararın tamamı diğer faaliyetlerden elde edilen kazançtan indirilebilir.",
+      "B) Zararın sadece %50'si indirim konusu yapılabilir.",
+      "C) İstisna faaliyetten doğan zararlar diğer faaliyet kazançlarından indirilemez, kanunen kabul edilmeyen gider (KKEG) olarak dikkate alınır.",
+      "D) Zarar 5 yıl süreyle devredilerek her türlü ticari kazançtan düşülebilir.",
+      "E) Şirketin talebi üzerine Maliye Bakanlığı'nın belirleyeceği oranda indirim yapılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'na göre, Bireysel Emeklilik Sistemine (BES) ödenen katkı paylarının yıllık beyannamede matrahtan indirim durumu aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      "A) Beyan edilen gelirin %15'ini aşmamak şartıyla indirilir.",
+      "B) Yıllık asgari ücretin brüt tutarını aşmamak şartıyla indirilebilir.",
+      "C) Hem gelirin %15'i hem de asgari ücret sınırı kontrol edilerek indirilir.",
+      "D) Sadece ücretliler ile serbest meslek kazancı elde edenler indirebilir.",
+      "E) Bireysel emeklilik sistemine ödenen katkı payları hiçbir suretle yıllık beyannamede vergi matrahının tespitinde indirilemez."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "213 sayılı Vergi Usul Kanununa göre, ikmalen, re'sen veya idarece tarh olunan vergiler taksit zamanlarından EVVEL tahakkuk etmişse, bu vergilerin ödeme zamanı aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Tahakkuk tarihinden itibaren 1 ay içinde ödenir.",
+      "B) Taksit süreleri içinde ödenir.",
+      "C) Tahakkuk tarihinden itibaren 15 gün içinde ödenir.",
+      "D) İhbarname tebliğ tarihinden itibaren 30 gün içinde ödenir.",
+      "E) İzleyen ayın 26. günü akşamına kadar ödenir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tam mükellef olarak gerçek usulde ticari kazanç elde eden bir kişi, aynı zamanda iktisadi işletmesine dâhil olmayan bir meskeninden (konutundan) kira geliri elde etmiştir. Bu mükellefin konut kira gelirine uygulanacak 'mesken istisnası' ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Ticari kazancı zarar olsa dahi istisnadan tam yararlanır.",
+      "B) Ticari kazanç tutarı istisna haddini aşmıyorsa yararlanabilir.",
+      "C) Sadece götürü gider usulünü seçerse mesken istisnasından faydalanabilir.",
+      "D) Ticari, zirai ve mesleki kazancını yıllık beyanname ile bildirmek zorunda olan mükellefler konut kira gelirine ilişkin istisnadan yararlanamazlar.",
+      "E) Mesken istisnası konutun emlak vergi değerine göre hesaplanarak uygulanır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kurumlar vergisi mükellefi (X) A.Ş., geçici vergi matrahını tespit ederken ilgili döneme ait 'Ticari Bilanço Kârı' üzerinden aşağıdakilerden hangisini yaparak 'Geçici Vergi Matrahı'na ulaşır?",
+    "options": [
+      "A) Ticari kârdan sadece geçmiş yıl zararları düşülür.",
+      "B) Ticari kârdan kanunen kabul edilmeyen giderler düşülür, geçmiş yıl zararları eklenir.",
+      "C) Ticari kâra kanunen kabul edilmeyen giderler eklenir, mahsup edilecek geçmiş yıl zararları düşülür.",
+      "D) Ticari kâra hem kanunen kabul edilmeyen giderler hem de geçmiş yıl zararları eklenir.",
+      "E) Geçici vergi matrahı, ticari bilançodaki brüt satış kârı üzerinden doğrudan hesaplanır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "3065 sayılı Katma Değer Vergisi Kanununa göre, aşağıdakilerden hangisi KDV matrahına dâhil EDİLMEYEN unsurlardan biridir?",
+    "options": [
+      "A) Fatura ve benzeri vesikalarda gösterilen ticari teamüllere uygun miktardaki iskontolar ile hesaplanan KDV",
+      "B) Ambalaj giderleri",
+      "C) Sigorta ve komisyon gider karşılıkları",
+      "D) Vade farkı ve fiyat farkı",
+      "E) Teslim alanın gösterdiği yere kadar satıcı tarafından yapılan yükleme ve boşaltma giderleri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "193 sayılı Gelir Vergisi Kanununa göre, beyan edilen gelirin %15'ini ve yıllık asgari ücretin brüt tutarını aşmamak şartıyla mükellefin şahsına, eşine ve küçük çocuklarına ait beyannamede indirim konusu yapılabilecek harcama aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bireysel emeklilik sistemi (BES) katkı payları",
+      "B) Şahıs (sağlık/hastalık) ile hayat sigortası primleri",
+      "C) Özel amaçlı taşıt ve konut kredisi faizleri",
+      "D) İsteğe bağlı Bağ-Kur hizmet borçlanması primleri",
+      "E) Ticari faaliyette kullanılmayan binek otomobilin kasko sigortası"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir Vergisi Kanunu'nun Geçici 67. maddesine göre, Türkiye'de tevkif yoluyla vergilendirilmiş mevduat faizi ve repo gelirlerinin gerçek usulde ticari kazanç elde eden bir mükellefin yıllık gelir vergisi beyannamesindeki durumu nedir?",
+    "options": [
+      "A) Ticari kazançla toplanarak tamamı beyan edilir.",
+      "B) Elde edilen tutar beyanname sınırını aşıyorsa beyan edilir.",
+      "C) Ticari işletmeye dahil olup olmadığına bakılmaksızın %50'si beyan edilir.",
+      "D) Ticari işletmeye dahil değilse hiçbir tutar şartı aranmaksızın beyannameye dahil edilmez.",
+      "E) Menkul sermaye iradı olarak ayrı bir beyanname ile bildirilir."
+    ],
+    "answer": 3
+  }
+ ]
 }
