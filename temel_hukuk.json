@@ -11733,17 +11733,6 @@
     "answer": 3
   },
   {
-    "q": "18 yaşından küçük olan A'ya bir ticari işletme miras kalmıştır. Yasal temsilcisi (velisi), işletmeyi A adına işletmektedir. <br><br>Bu durumda Türk Ticaret Kanunu'na göre tacir sıfatı ve cezai müeyyidelerin muhatabı hakkında aşağıdakilerden hangisi doğrudur?",
-    "options": [
-      "A) Tacir sıfatı veliye aittir, tüm cezai sorumluluk da velinindir.",
-      "B) Tacir sıfatı A'ya aittir, cezai yaptırımlar yönünden yasal temsilci (veli) tacir gibi sorumlu olur.",
-      "C) Hem A hem de velisi müteselsilen tacir sayılır, cezalar ortak kesilir.",
-      "D) Küçükler tacir olamayacağı için tacir sıfatı doğmaz, işletme adi şirket hükmündedir.",
-      "E) İşletme reşit olana kadar ticaret sicilinden askıya alınır."
-    ],
-    "answer": 1
-  },
-  {
     "q": "Türk Borçlar Kanunu'na göre, kesin hükümsüz (mutlak butlan) sayılacak bir sözleşmenin içerdiği hükümlerden sadece bir kısmının hükümsüz olması kural olarak diğerlerinin geçerliliğini etkilemez. <br><br>Ancak kanun, hangi özel durumda sözleşmenin tamamının kesin olarak hükümsüz sayılacağını belirtmiştir?",
     "options": [
       "A) Hükümsüz kısmın sözleşme ana bedelinin yarısından fazlasını oluşturması durumunda",
@@ -11755,15 +11744,15 @@
     "answer": 2
   },
   {
-    "q": "5510 sayılı Kanun'a göre aşağıdakilerden hangisi bir olayın \"İş Kazası\" sayılabilmesi için kanunda bizzat sayılan durumlardan biri değildir?",
+    "q": "İdari Yargılama Usulü Kanunu'na (İYUK) göre idari dava türleri olan 'İptal' ve 'Tam Yargı' davalarının açılma ehliyetleri ile ilgili olarak;\n\n| Dava Ehliyeti Kuralları |\n| :--- |\n| I. İptal davası açabilmek için idari işlemin davacının kişisel bir hakkını ihlal etmesi şarttır; sadece menfaat ihlali yeterli değildir. |\n| II. Tam yargı davası, idari eylem ve işlemlerden dolayı kişisel hakları doğrudan ihlal edilenler (muhtel olanlar) tarafından açılır. |\n| III. İlgililer, bir idari işlemden dolayı hakları ihlal edildiğinde iptal davası ile tam yargı davasını birlikte (aynı dilekçeyle) açabilirler. |\n\nYargılarından hangisi veya hangileri hukuken doğrudur?",
     "options": [
-      "A) Sigortalının işyerinde bulunduğu sırada meydana gelmesi",
-      "B) İşveren tarafından yürütülmekte olan iş nedeniyle meydana gelmesi",
-      "C) Sigortalının, görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda meydana gelmesi",
-      "D) Emziren kadın sigortalının, çocuğuna süt vermek için ayrılan zamanlarda meydana gelmesi",
-      "E) Sigortalının kendi şahsi aracıyla ikametgahından işe gidiş gelişi sırasında meydana gelmesi"
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
     ],
-    "answer": 4
+    "answer": 3
   },
   {
     "q": "5510 sayılı Kanun'a göre aşağıdakilerden hangisi sigortalının vefatı halinde \"Ölüm Sigortasından\" hak sahiplerine sağlanan haklardan biri değildir?",
@@ -11786,6 +11775,512 @@
       "E) İşyerini devralan yeni İşveren"
     ],
     "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre 'Ticari Temsilci', işletme sahibinin (tacirin) en geniş yetkili bağımlı yardımcısıdır. Ancak kanun, ticari temsilcinin bazı işlemleri yapabilmesi için tacirden 'özel (açık) yetki' almış olmasını zorunlu kılmıştır.\n\n| Ticari Temsilcinin Yaptığı İşlemler |\n| :--- |\n| I. İşletme adına kambiyo senedi (poliçe, bono, çek) düzenlemek ve kâşide etmek |\n| II. İşletmenin taşınmazlarını (gayrimenkullerini) satmak veya bunlar üzerinde ipotek tesis etmek |\n| III. İşletme adına bankalardan kredi çekmek ve sözleşme imzalamak |\n\nBuna göre, ticari temsilcinin yukarıdaki işlemlerden hangisini veya hangilerini yapabilmesi için mutlaka 'özel yetki' almış olması şarttır?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "18 yaşından küçük olan A'ya bir ticari işletme miras kalmıştır. Yasal temsilcisi (velisi), işletmeyi A adına işletmektedir. <br><br>Bu durumda Türk Ticaret Kanunu'na göre tacir sıfatı ve cezai müeyyidelerin muhatabı hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Tacir sıfatı veliye aittir, tüm cezai sorumluluk da velinindir.",
+      "B) Tacir sıfatı A'ya aittir, cezai yaptırımlar yönünden yasal temsilci (veli) tacir gibi sorumlu olur.",
+      "C) Hem A hem de velisi müteselsilen tacir sayılır, cezalar ortak kesilir.",
+      "D) Küçükler tacir olamayacağı için tacir sıfatı doğmaz, işletme adi şirket hükmündedir.",
+      "E) İşletme reşit olana kadar ticaret sicilinden askıya alınır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre sözleşmelerin geçerliliği kanunda belirtilen şekil şartlarına tabidir.\n\n| Sözleşme Türleri ve Şekil Şartları |\n| :--- |\n| I. Taşınmaz satış sözleşmelerinin 'resmi şekilde' yapılması geçerlilik şartıdır. |\n| II. Alacağın devri (temliki) sözleşmesinin 'yazılı şekilde' yapılması geçerlilik şartıdır. |\n| III. Kefalet sözleşmesinde kefilin sorumlu olacağı azami miktarın ve kefalet tarihinin 'kendi el yazısıyla' belirtilmesi zorunludur. |\n\nYukarıdaki sözleşme türleri ve şekil şartı eşleştirmelerinden hangisi veya hangileri kesinlikle doğrudur?",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) II ve III",
+      "D) Yalnız I",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre aşağıdakilerden hangisi bir olayın \"İş Kazası\" sayılabilmesi için kanunda bizzat sayılan durumlardan biri değildir?",
+    "options": [
+      "A) Sigortalının işyerinde bulunduğu sırada meydana gelmesi",
+      "B) İşveren tarafından yürütülmekte olan iş nedeniyle meydana gelmesi",
+      "C) Sigortalının, görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda meydana gelmesi",
+      "D) Emziren kadın sigortalının, çocuğuna süt vermek için ayrılan zamanlarda meydana gelmesi",
+      "E) Sigortalının kendi şahsi aracıyla ikametgahından işe gidiş gelişi sırasında meydana gelmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre 'Ticari İşletmenin Devri' ile ilgili olarak borçlardan sorumluluk durumu kanunla sınırlandırılmıştır.\n\n| Devreden ve Devralanın Sorumluluğu |\n| :--- |\n| I. Devralan, işletmenin borçlarından dolayı sadece devir tarihinden sonra doğan borçlardan sorumludur; eski borçlar onu bağlamaz. |\n| II. Devreden, devir öncesi doğan borçlardan dolayı devralanla birlikte 2 yıl süreyle müteselsilen sorumlu kalır. |\n| III. Devredenin iki yıllık müteselsil sorumluluk süresi; muaccel borçlar için devrin ticaret sicilinde tescil ve ilan edildiği tarihten, vadesi gelmemiş (müeccel) borçlar için ise vadenin geldiği tarihten itibaren işlemeye başlar. |\n\nTicari işletme devrinde uygulanan yukarıdaki kurallardan hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre Anonim Şirketlerde 'Genel Kurulun' devredilemez görev ve yetkileri bulunmaktadır.\n\n| Genel Kurulun Görev ve Yetkileri |\n| :--- |\n| I. Şirketin esas sözleşmesini değiştirmek |\n| II. Yönetim kurulu üyelerini seçmek, görevden almak ve ibra etmek |\n| III. Şirketin günlük ticari işlerini idare etmek ve personeli işe almak |\n\nYukarıdakilerden hangisi veya hangileri Anonim Şirketlerde sadece 'Genel Kurul' tarafından kullanılabilecek, başka bir organa devredilemez yetkilerdendir?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi, Ticari Temsilcinin işletme sahibi tacirden 'özel (açık) yetki' almadan da tek başına yapabileceği işlemlerden biridir?",
+    "options": [
+      "A) İşletmeye ait gayrimenkulü (taşınmazı) satmak",
+      "B) İşletmeye ait gayrimenkul üzerinde ipotek tesis etmek",
+      "C) İşletme adına kambiyo senedi (poliçe, bono) düzenlemek",
+      "D) İşletmenin tamamını bir başkasına devretmek",
+      "E) İşletmeye yeni bir ortak almak"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu'na göre, 4/1-b (Bağ-Kur) kapsamında sigortalı sayılanların sigortalılıklarının sona erme anları kanunla belirlenmiştir.\n\n| Sigortalılığın Sona Erme Hâlleri |\n| :--- |\n| I. Gelir vergisi mükelleflerinin, mükellefiyetlerini sildirdikleri (terkin) tarihte |\n| II. Limited şirket ortaklarının, şirketteki hisselerinin tamamını devretmeleri hâlinde devir kararının ticaret sicilinde tescil edildiği tarihte |\n| III. Anonim şirketlerin yönetim kurulu üyesi olan ortaklarının, bu görevlerinin sona erdiği tarihte |\n\nYukarıdaki durumlardan hangisinde veya hangilerinde ilgililerin 4/1-b kapsamındaki sigortalılığı kanunen sona erer?",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) II ve III",
+      "D) Yalnız I",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre Limited şirket ortaklarının 4/1-b (Bağ-Kur) kapsamındaki sigortalılıkları, hisselerini devretmeleri hâlinde hangi tarih itibarıyla sona erer?",
+    "options": [
+      "A) Hisselerini devrettiklerine dair noter sözleşmesinin imzalandığı gün",
+      "B) Ortaklar kurulu kararının alındığı gün",
+      "C) Hisse devrinin ticaret sicilinde tescil edildiği gün",
+      "D) Hisse devrinin pay defterine kaydedildiği gün",
+      "E) Şirketin vergi dairesine bildirim yaptığı gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre, kanunda aksine bir hüküm bulunmadıkça, her alacak genel kural olarak kaç yıllık zamanaşımına tabidir?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 5 yıl",
+      "D) 10 yıl",
+      "E) 20 yıl"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, işçinin 'Kıdem Tazminatına' hak kazanabilmesi için kural olarak işveren tarafından haksız veya işçi tarafından haklı nedenle fesih gereklidir. Ancak kanun, bazı istisnai durumlarda işçi kendi isteğiyle işten ayrılsa dahi kıdem tazminatına hak kazanabileceğini belirtmiştir.\n\n| İstisnai Kıdem Tazminatı Hâlleri |\n| :--- |\n| I. Kadın işçinin evlendiği tarihten itibaren 1 yıl içinde kendi arzusuyla iş sözleşmesini sona erdirmesi |\n| II. İşçinin muvazzaf askerlik hizmeti dolayısıyla kendi arzusuyla işten ayrılması |\n| III. İşçinin deneme süresi içinde iş şartlarını beğenmeyerek kendi isteğiyle işten ayrılması |\n\nYukarıdaki durumlardan hangisi veya hangilerinde işçi (diğer şartları da taşıması kaydıyla) kıdem tazminatına hak kazanır?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sözleşme özgürlüğü sınırlarının aşılması, örneğin zamanaşımına tabi bir alacağın kanunun öngördüğünden farklı bir zamanaşımı süresine bağlanması veya ahlaka, kamu düzenine aykırı şartlar içermesi durumunda sözleşmenin hukuki durumu (yaptırımı) aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İptal edilebilirlik",
+      "B) Nispi butlan",
+      "C) Tek taraflı bağlamazlık",
+      "D) Kesin hükümsüzlük (Mutlak butlan)",
+      "E) Yokluk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre sözleşmelerin kurulması aşamasında 'İcap (Öneri)' ve 'Kabul' irade beyanlarının bağlayıcılık süreleri düzenlenmiştir.\n\n| İcap ve Kabul Kuralları |\n| :--- |\n| I. Süreli icapta (öneride) bulunan kişi, belirlediği süre bitinceye kadar icabıyla bağlıdır. |\n| II. Hazır olanlar arasında (yüz yüze veya telefonda) süre belirlenmeksizin yapılan icap, derhal kabul edilmezse önereni bir daha bağlamaz. |\n| III. Hazır olmayanlar arasında (mektup vb.) yapılan süresiz icapta, öneren kişi, kabul haberinin kendisine ulaşması için geçecek 'olağan (normal) süre' boyunca icabıyla bağlı kalır. |\n\nSözleşmenin kurulmasıyla ilgili yukarıdaki yargılardan hangisi veya hangileri hukuken doğrudur?",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) II ve III",
+      "D) Yalnız I",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İş Kanunu'na göre, on sekiz ve daha küçük yaştaki işçilerle, elli ve daha yukarı yaştaki işçilere verilecek yıllık ücretli izin süresi, işçinin kıdemi ne olursa olsun kural olarak en az kaç gün olmak zorundadır?",
+    "options": [
+      "A) 14 gün",
+      "B) 16 gün",
+      "C) 20 gün",
+      "D) 24 gün",
+      "E) 26 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdare Hukuku teorisine ve İdari Yargılama Usulü Kanunu'na göre bir 'İdari İşlemin Unsurları' (Yetki, Şekil, Sebep, Konu, Maksat) bulunmaktadır.\n\n| İdari İşlem Unsurları Kuralları |\n| :--- |\n| I. Yetki unsuru yönünden; idari işlemin kural olarak açıkça kanunla yetkilendirilmiş bir idari merci veya kamu görevlisi tarafından yapılması gerekir. |\n| II. Sebep unsuru yönünden; idari işlemlerin tamamında sebep olarak mutlaka bir 'kamu zararı'nın doğmuş olması şarttır. |\n| III. Maksat (Amaç) unsuru yönünden; tüm idari işlemlerde nihai amaç daima ve yalnızca 'kamu yararı'dır. |\n\nİdari işlemin unsurları ile ilgili yukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre ticaret şirketleri nitelikleri bakımından şahıs ve sermaye şirketleri olarak ayrılır. Aşağıdakilerden hangisi TTK'da düzenlenen bir 'sermaye' şirketi türüdür?",
+    "options": [
+      "A) Kollektif şirket",
+      "B) Adi komandit şirket",
+      "C) Adi şirket",
+      "D) Sermayesi paylara bölünmüş komandit şirket",
+      "E) Kooperatif"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre 'Haksız Fiilde Müteselsil Sorumluluk' hâlleri düzenlenmiştir. Birden çok kişinin birlikte bir zarara sebep olması durumunda;\n\n| Müteselsil Sorumluluk Kuralları |\n| :--- |\n| I. Zarar gören kişi, dilerse zarar verenlerin tümüne birden, dilerse sadece içlerinden birine (örneğin ödeme gücü en yüksek olana) başvurarak zararın tamamının tazminini isteyebilir. |\n| II. Zararı kendi cebinden tamamen ödeyen zarar veren kişinin, kusur paylarına göre diğer zarar verenlere dönme (rücu etme) hakkı bulunmamaktadır. |\n| III. Hâkim, ödemeyi yapanın diğerlerine rücu edip edemeyeceğini ve edecekse hangi oranda rücu edeceğini bütün durum ve koşulları göz önünde tutarak belirler. |\n\nHaksız fiilde müteselsil sorumlulukla ilgili yukarıdaki yargılardan hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6098 sayılı Türk Borçlar Kanunu'na göre aşağıdakilerden hangisi 'sebepsiz zenginleşmenin' unsurlarından biri değildir?",
+    "options": [
+      "A) Zenginleşme",
+      "B) Yoksullaşma",
+      "C) Kusur",
+      "D) Nedensellik bağı",
+      "E) Haklı bir sebebin bulunmaması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı SGK Kanunu'na göre, işyerlerinde veya eklentilerinde meydana gelen olayların SGK'ya 'İş Kazası Bildirimi' süreci sıkı kurallara bağlanmıştır.\n\n| İş Kazası Bildirim Süreleri |\n| :--- |\n| I. İşveren tarafından, kazanın olduğu yerdeki yetkili kolluk kuvvetlerine derhal (anında) bildirilmelidir. |\n| II. İşveren tarafından, SGK'ya kazadan sonraki en geç 3 işgünü içinde bildirim yapılmalıdır. |\n| III. 4/1-b (Bağ-Kur) sigortalıları kendileri geçirdikleri iş kazasını, rahatsızlığının bildirim yapmaya engel olmadığı günden itibaren 3 işgünü içinde bildirmelidir. |\n\nYukarıdaki iş kazası bildirim süreleri ve muhatapları eşleştirmelerinden hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) I ve II",
+      "B) I ve III",
+      "C) II ve III",
+      "D) Yalnız II",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre anonim şirketlerin zorunlu organları aşağıdakilerden hangisinde birlikte ve doğru olarak verilmiştir?",
+    "options": [
+      "A) Yönetim Kurulu - Denetim Kurulu",
+      "B) Genel Kurul - Denetim Kurulu",
+      "C) Ortaklar Kurulu - Müdür",
+      "D) Yönetim Kurulu - Ortaklar Kurulu",
+      "E) Yönetim Kurulu - Genel Kurul"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre işçilere verilecek 'Ara Dinlenmeleri' (Mola) günlük çalışma süresine göre kanunla asgari olarak belirlenmiştir.\n\n| Günlük Çalışma Süresi ve Asgari Ara Dinlenmesi |\n| :--- |\n| I. 4 saat veya daha kısa süreli işlerde 15 dakika |\n| II. 4 saatten fazla ve 7,5 saate kadar (7,5 saat dâhil) süreli işlerde yarım saat |\n| III. 7,5 saatten fazla süreli işlerde 1 saat |\n\nYukarıdaki tabloda verilen çalışma süreleri ve asgari ara dinlenmesi eşleştirmelerinden hangisi veya hangileri kanuna uygundur?",
+    "options": [
+      "A) Yalnız II",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Ticari işletmede tacir adına faaliyet gösteren yardımcılar 'bağımlı' ve 'bağımsız' olarak ikiye ayrılır. Buna göre aşağıdakilerden hangisi tacirin 'bağımlı' yardımcılarından biri değildir?",
+    "options": [
+      "A) Ticari temsilci",
+      "B) Acente",
+      "C) Ticari vekil",
+      "D) Pazarlamacı",
+      "E) Seyyar tacir memuru"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "6102 sayılı Türk Ticaret Kanunu'na göre 'Çeklerde İbraz Süreleri' katı kurallara bağlanmıştır. Bir çekin muhatap bankaya ibrazı ile ilgili süreler değerlendirildiğinde;\n\n| Çekin Düzenlenme ve Ödeme Yeri |\n| :--- |\n| I. Çek, düzenlendiği yerde ödenecekse ibraz süresi 10 gündür. |\n| II. Çek, düzenlendiği yerden başka bir yerde ödenecekse (aynı kıtada olmak şartıyla) ibraz süresi 1 aydır. |\n| III. Çek, düzenlendiği kıtadan başka bir kıtada ödenecekse ibraz süresi 3 aydır. |\n\nYukarıdaki çek ibraz sürelerinden hangisi veya hangileri kanunda doğru olarak verilmiştir?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "4857 sayılı İş Kanunu uyarınca kural olarak iş sözleşmeleri şekil şartına tabi olmamakla birlikte, bazı sözleşmelerin yazılı yapılması zorunludur. Aşağıdakilerden hangisi yazılı yapılması kanunen zorunlu olan iş sözleşmelerinden biri değildir?",
+    "options": [
+      "A) Belirli süreli iş sözleşmesi (Süresi 1 yıl ve daha fazla olan)",
+      "B) Takım sözleşmesi",
+      "C) Çağrı üzerine çalışmayı öngören iş sözleşmesi",
+      "D) Süresi 6 aydan az olan belirsiz süreli iş sözleşmesi",
+      "E) Deneme süreli iş sözleşmesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre aşağıdakilerden hangisi bir faaliyetin 'ticari işletme' sayılabilmesi için aranan unsurlardan biri değildir?",
+    "options": [
+      "A) Gelir sağlamayı hedef tutmak",
+      "B) Esnaf işletmesi düzeyini aşacak şekilde faaliyet göstermek",
+      "C) Devamlılık",
+      "D) Bağımsızlık",
+      "E) Tüzel kişiliğe sahip olmak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Türk Ticaret Kanunu'nda yer alan 'kambiyo senetlerinin' (Poliçe, Bono, Çek) genel özellikleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bir alacak hakkını içerir ve bir borç ilişkisini kurucu niteliktedir.",
+      "B) İmzaların ve beyanların bağımsızlığı (istiklali) ilkesi geçerlidir.",
+      "C) Temelindeki asıl borç ilişkisine (sebebe) sıkı sıkıya bağlı (illî) senetlerdir.",
+      "D) Kanun gereği emre yazılı senetler olarak kabul edilirler.",
+      "E) Senedi imzalayanlar, kefil sıfatı ile imzalamış olsalar dahi müteselsil borçlu durumundadır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, bir işçinin iş sözleşmesinin işveren tarafından 'geçerli nedenle' feshedilebilmesi ve işçinin 'İşe İade Davası' (İş Güvencesi) açabilmesi için kanunda belirtilen bazı zorunlu şartlar bulunmaktadır.\n\n| İşe İade Davası Açabilmenin Ön Şartları |\n| :--- |\n| I. İşyerinde en az 30 işçi çalıştırılıyor olması |\n| II. İşçinin o işyerinde en az 6 aylık kıdeminin bulunması |\n| III. İş sözleşmesinin 'belirli süreli' iş sözleşmesi olması |\n\nYukarıdaki yargılardan hangisi veya hangileri işe iade davası açabilmek için kanunen aranan zorunlu şartlardandır?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kollektif bir şirketin, ticaret siciline tescil işlemi yapılmadan şirket adına ticari işlemlere ve faaliyetlere başlanması halinde; bu dönemde yapılan işlerden dolayı ortakların üçüncü kişilere karşı sorumluluk türü aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Sınırlı sorumluluk",
+      "B) İkinci dereceden (tali) sorumluluk",
+      "C) Yalnızca şirkete koymayı taahhüt ettikleri sermaye kadar sorumluluk",
+      "D) Müteselsil (sınırsız / tacir gibi) sorumluluk",
+      "E) Kusur oranında şahsi sorumluluk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'nun (İYUK) güncel hükümlerine göre; ilgililerin idari davaya konu olabilecek bir işlem veya eylemin yapılması için idari makamlara yaptıkları başvurularda, idarenin cevap vermemesi halinde bekleme süresi (istemin zımnen reddedilmiş sayılma süresi) kaç gündür?",
+    "options": [
+      "A) 15 gün",
+      "B) 30 gün",
+      "C) 45 gün",
+      "D) 60 gün",
+      "E) 90 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Konut ve çatılı işyeri kiralarında, kiracı belirli süreli sözleşmelerin süresinin bitiminden en az ne kadar süre önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl için uzatılmış sayılır?",
+    "options": [
+      "A) 15 gün",
+      "B) 1 ay",
+      "C) 2 ay",
+      "D) 3 ay",
+      "E) 6 ay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre Anonim Şirket yönetim kurulu üyeleri, genel kurul tarafından kural olarak en çok kaç yıl süreyle görev yapmak üzere seçilebilirler?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 4 yıl",
+      "E) 5 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre aşağıdakilerden hangisi bir olayın 'İş Kazası' sayılabilmesi için kanunda bizzat sayılan durumlardan biri değildir?",
+    "options": [
+      "A) Sigortalının işyerinde bulunduğu sırada meydana gelmesi",
+      "B) İşveren tarafından yürütülmekte olan iş nedeniyle meydana gelmesi",
+      "C) Sigortalının, görevli olarak işyeri dışında başka bir yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda meydana gelmesi",
+      "D) Emziren kadın sigortalının, çocuğuna süt vermek için ayrılan zamanlarda meydana gelmesi",
+      "E) Sigortalının kendi şahsi aracıyla ikametgahından işe gidiş gelişi sırasında meydana gelmesi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, bir işçinin iş sözleşmesinin işveren tarafından 'geçerli nedenle' feshedilebilmesi ve işçinin 'İşe İade Davası' (İş Güvencesi) açabilmesi için o işyerinde en az kaç işçinin çalıştırılıyor olması kanuni bir zorunluluktur?",
+    "options": [
+      "A) 5 işçi",
+      "B) 10 işçi",
+      "C) 30 işçi",
+      "D) 50 işçi",
+      "E) 100 işçi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdari Yargılama Usulü Kanunu'na (İYUK) göre idari işlemlere karşı açılan 'İptal Davası'nın ehliyet şartı ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İşlemden dolayı sadece kişisel bir hakkın ihlal edilmiş olması şarttır.",
+      "B) İşlemden dolayı sadece maddi bir zarar doğmuş olması şarttır.",
+      "C) İşlemden dolayı meşru, kişisel ve güncel bir menfaatin ihlal edilmiş olması yeterlidir.",
+      "D) İşlemin doğrudan kamu yararını zedelemesi durumunda herkes dava açabilir.",
+      "E) İşlemin anayasaya aykırı olması durumunda sadece siyasi partiler dava açabilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sözleşmelerin geçerlilik şekil şartlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Taşınmaz satış sözleşmelerinin resmi şekilde yapılması zorunludur.",
+      "B) Alacağın devri (temliki) sözleşmesinin yazılı şekilde yapılması şarttır.",
+      "C) Kefalet sözleşmesinde kefilin sorumlu olacağı azami miktar kendi el yazısıyla belirtilmelidir.",
+      "D) Motorlu araç satış sözleşmeleri noter huzurunda resmi şekilde yapılmalıdır.",
+      "E) Konut kira sözleşmelerinin geçerli olabilmesi için mutlaka noterde onaylatılması şarttır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "6102 sayılı TTK'ya göre, bir ticari işletmenin devrinde 'devredenin' devir öncesi doğan borçlardan dolayı devralanla birlikte müteselsil sorumluluğu kaç yıl daha devam eder?",
+    "options": [
+      "A) 1 yıl",
+      "B) 2 yıl",
+      "C) 3 yıl",
+      "D) 5 yıl",
+      "E) 10 yıl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Anonim Şirketlerde aşağıdakilerden hangisi sadece Genel Kurul tarafından kullanılabilecek, başka bir organa veya yönetim kuruluna devredilemez görev ve yetkilerden biri değildir?",
+    "options": [
+      "A) Şirketin esas sözleşmesini değiştirmek",
+      "B) Yönetim kurulu üyelerini seçmek ve görevden almak",
+      "C) Yönetim kurulunu ibra etmek (aklamak)",
+      "D) Şirketin günlük ticari işlerini ve operasyonlarını yürütmek",
+      "E) Şirketin feshine (tasfiyesine) karar vermek"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdaki hâllerin hangisinde işçi, iş sözleşmesini kendi isteğiyle (istifa ederek) sona erdirmesine rağmen kıdem tazminatına hak kazanır?",
+    "options": [
+      "A) Başka bir işyerinde daha yüksek maaşlı bir iş bulması",
+      "B) Kadın işçinin evlendiği tarihten itibaren bir yıl içinde işten ayrılması",
+      "C) İşçinin şehir dışına taşınması",
+      "D) Deneme süresi içinde işi beğenmeyerek ayrılması",
+      "E) İşçinin kendi isteğiyle emeklilik yaşını beklemeden işi bırakması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre, hazır olmayanlar arasında (örneğin mektup veya e-posta ile) süre belirlenmeksizin yapılan bir icapta (öneride), öneren kişi ne zamana kadar icabıyla bağlı kalır?",
+    "options": [
+      "A) İcabı gönderdiği andan itibaren 24 saat boyunca",
+      "B) Karşı tarafın kabul beyanını okuduğu ana kadar",
+      "C) Sadece mesai saatleri bitimine kadar",
+      "D) Usulüne uygun olarak gönderilmiş bir kabul haberinin kendisine ulaşması için geçecek olağan (normal) süre boyunca",
+      "E) Herhangi bir süre sınırı yoktur, istediği zaman tek taraflı dönebilir"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre, düzenlendiği kıtadan başka bir kıtada (örneğin İstanbul'da düzenlenip New York'ta) ödenecek olan bir çekin kanuni ibraz süresi kaç aydır?",
+    "options": [
+      "A) 10 gün",
+      "B) 1 ay",
+      "C) 3 ay",
+      "D) 6 ay",
+      "E) 1 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İdare Hukuku teorisine göre, yetkili merciiler tarafından gerçekleştirilen tüm idari işlemlerin 'Maksat (Amaç)' unsuru daima aşağıdakilerden hangisi olmak zorundadır?",
+    "options": [
+      "A) Devletin gelirini artırmak",
+      "B) Kamu yararı",
+      "C) Kurumun bütçe açığını kapatmak",
+      "D) Üst makamların talimatlarını yerine getirmek",
+      "E) Kamu görevlisinin kişisel inisiyatifini kullanması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Türk Borçlar Kanunu'na göre 'Haksız Fiilde Müteselsil Sorumluluk' kapsamında, birden çok kişinin birlikte bir zarara sebep olması hâlinde zarar gören kişi tazminat talebini kime karşı yöneltebilir?",
+    "options": [
+      "A) Sadece kusur oranı en yüksek olana başvurabilir.",
+      "B) Dilerse zarar verenlerin tümüne birden, dilerse sadece içlerinden birine başvurarak zararın tamamını isteyebilir.",
+      "C) Sadece kendi seçtiği kişiden, o kişinin kusuru oranında tazminat isteyebilir.",
+      "D) Tüm zarar verenlere sadece eşit paylarla (bölerek) dava açmak zorundadır.",
+      "E) Ancak zarar verenlerin kendi aralarında anlaşması hâlinde onlara dava açabilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "4857 sayılı İş Kanunu'na göre, günlük çalışma süresi 7,5 saatten (7,5 saat dâhil) fazla süren işlerde işçiye verilmesi gereken asgari 'ara dinlenmesi (mola)' süresi ne kadardır?",
+    "options": [
+      "A) 15 dakika",
+      "B) Yarım saat",
+      "C) 1 saat",
+      "D) 1,5 saat",
+      "E) 2 saat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre 'Tacir Olmanın Hükümleri' arasında yer alan fatura ve teyit mektubu kuralları değerlendirildiğinde;\n\n| Fatura ve Teyit Mektubu Kuralları |\n| :--- |\n| I. Tacirler, işletmeleriyle ilgili bir iş veya hizmeti gördükten sonra karşı tarafa fatura vermek zorundadır. |\n| II. Faturayı alan kişi, aldığı tarihten itibaren 8 gün içinde faturanın içeriğine itiraz etmezse, içeriğini kabul etmiş sayılır. |\n| III. Sözlü olarak yapılan bir ticari anlaşmanın içeriğini doğrulayan 'teyit mektubunu' alan kişi, 8 gün içinde itiraz etmezse sözlü anlaşmanın mektuptaki gibi yapıldığını kabul etmiş sayılır. |\n\nYargılarından hangisi veya hangileri kanunda açıkça düzenlenen kurallardandır?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Türk Ticaret Kanunu'na göre, sözleşmenin esaslı noktalarını teyit eden bir 'teyit mektubu' veya 'fatura' alan tacir, içeriğine itiraz etmek istiyorsa bu itirazı kural olarak faturayı aldığı tarihten itibaren kaç gün içinde yapmalıdır?",
+    "options": [
+      "A) 3 gün",
+      "B) 7 gün",
+      "C) 8 gün",
+      "D) 10 gün",
+      "E) 15 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5510 sayılı Kanun'a göre, işyerinde bir iş kazası meydana geldiğinde işverenin bu durumu Sosyal Güvenlik Kurumuna (SGK) bildirme süresi en geç ne kadardır?",
+    "options": [
+      "A) Kazanın olduğu gün mesai bitimine kadar",
+      "B) Kazadan sonraki 24 saat içinde",
+      "C) Kazadan sonraki en geç 3 işgünü içinde",
+      "D) Kazayı takip eden 5 işgünü içinde",
+      "E) Kaza tarihini takip eden ayın sonuna kadar"
+    ],
+    "answer": 2
   }
-]
+ ]
 }
