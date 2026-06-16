@@ -5452,5 +5452,1492 @@
       ],
       "answer": 0
     }
-  ]
-}
+  ],
+  "Finansal Analiz Denemesi ( Çıkmış Sorular Klasik)": [
+  {
+    "q": "Ticari faaliyette bulunan bir firmanın, yıllar itibarıyla Cari Oran ile Likidite (Asit-Test) Oranı değerlerinin birbirine çok yakın (örneğin Cari Oran: 1.60, Likidite Oranı: 1.50) seyrettiği görülmektedir. Bu durum, firmanın stok yapısı hakkında öncelikle aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "A) Stok devir hızının yüksek, elde kalma süresinin kısa olduğunu",
+      "B) Stokların tamamının modası geçmiş veya satılamaz durumda olduğunu",
+      "C) Stok devir hızının yavaş, elde kalma süresinin çok uzun olduğunu",
+      "D) İşletmenin maliyetlerinin sektör ortalamasının çok üzerinde olduğunu",
+      "E) İşletmenin hiç stok bulundurmadan sadece sipariş üzerine çalıştığını"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir işletmenin ilgili dönemdeki verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 4.702.500 ₺ |\n| Dönem Başı Ticari Alacaklar | 434.000 ₺ |\n| Dönem Sonu Ticari Alacaklar | 820.000 ₺ |\n\nBuna göre işletmenin 'Ticari Alacak Devir Hızı' kaçtır?",
+    "options": [
+      "A) 5,00",
+      "B) 7,50",
+      "C) 8,25",
+      "D) 10,00",
+      "E) 11,40"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir ticari firmanın eğilim yüzdeleri (trend) analizine göre; baz yıla oranla Net Satışlar kalemi %260'a yükselirken, Ticari Alacaklar kaleminin %290'a tırmandığı görülmüştür. Bu tablo, firmanın ticari alacak yönetimi açısından nasıl yorumlanır?",
+    "options": [
+      "A) Firmanın alacak tahsilat süresinin kısaldığı ve likiditenin arttığı",
+      "B) Peşin satışların kredili satışlara oranla daha fazla arttığı",
+      "C) Alacak devir hızında gerileme olduğu ve tahsilat süresinin uzadığı",
+      "D) Stok devir hızının yavaşladığı ve elde kalma süresinin uzadığı",
+      "E) Firmanın kredibilitesinin artarak bankalardan daha kolay borçlandığı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Üretim işletmesinin ilgili döneme ait maliyet kayıtları şöyledir:\n\n| Gider Türü / Hesaplar | Tutar |\n| :--- | :--- |\n| Direkt İlk Madde ve Malzeme Giderleri | 836.000 ₺ |\n| Direkt İşçilik Giderleri | 890.000 ₺ |\n| Genel Üretim Giderleri | 810.000 ₺ |\n| Dönem Başı Yarı Mamul Stoku | 292.000 ₺ |\n| Dönem Sonu Yarı Mamul Stoku | 228.000 ₺ |\n\nBuna göre 'Üretilen Mamul Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 2.536.000 ₺",
+      "B) 2.600.000 ₺",
+      "C) 2.472.000 ₺",
+      "D) 2.828.000 ₺",
+      "E) 2.700.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletmenin 2019 yılı verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 280.000 ₺ |\n| Ticari Alacaklar (Brüt) Artışı | 18.000 ₺ |\n\nDiğer şartlar sabitken Nakit Akım Tablosu hazırlanırken 'Satışlardan Elde Edilen Nakit' tutarı kaç ₺ olarak hesaplanır?",
+    "options": [
+      "A) 298.000 ₺",
+      "B) 262.000 ₺",
+      "C) 280.000 ₺",
+      "D) 350.000 ₺",
+      "E) 250.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Altman Z-Puanı modeline göre, hesaplanan Z-Puanının 1,1 ile 2,6 değerleri arasında çıkması (örneğin 1,69 olarak hesaplanması), ilgili firmanın finansal durumu hakkında hangi sonucu ifade eder?",
+    "options": [
+      "A) Firmanın kesin iflas durumunda olduğu",
+      "B) Firmanın güvenli alanda (sağlam yapıda) bulunduğu",
+      "C) Firmanın Gri Alanda (belirsizlik veya risk bölgesi) olduğu",
+      "D) Firmanın yüksek büyüme trendinde olduğu",
+      "E) Firmanın tasfiye sürecine girdiği"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin mali verileri şöyledir:\n\n| Hesaplar / Rasyolar | Değer |\n| :--- | :--- |\n| Likidite (Asit-Test) Oranı | 1,00 |\n| Kısa Vadeli Yabancı Kaynaklar | 30.000 ₺ |\n| Stoklar | 10.000 ₺ |\n\nBuna göre Dönen Varlıklar toplamı kaç ₺'dir?",
+    "options": [
+      "A) 20.000 ₺",
+      "B) 30.000 ₺",
+      "C) 40.000 ₺",
+      "D) 50.000 ₺",
+      "E) 60.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin 2021 yılı için hedeflenen net satışlar tutarı 4.927.500 ₺'dir. İşletme, 'alacak tahsil süresini' sektör ortalaması olan 146 güne indirmeyi hedeflemektedir. Bu hedefe ulaşılabilmesi için 2021 dönemi sonundaki ortalama Ticari Alacaklar tutarı kaç ₺ olmalıdır? (1 yıl = 365 gün)",
+    "options": [
+      "A) 1.971.000 ₺",
+      "B) 1.250.000 ₺",
+      "C) 1.450.000 ₺",
+      "D) 2.500.000 ₺",
+      "E) 2.100.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nakit Akım Tablosu düzenlenirken 'Faaliyet Giderlerine İlişkin Nakit Çıkışları' hesaplanmaktadır. İlgili dönemde faaliyet giderleri şöyledir:\n\n| Faaliyet Giderleri | Tutar |\n| :--- | :--- |\n| Pazarlama Giderleri | 12.300 ₺ |\n| Genel Yönetim Giderleri | 18.700 ₺ |\n| Toplam Faaliyet Gideri İçindeki Amortisman Payı | 2.800 ₺ |\n\nBuna göre faaliyet giderlerinden kaynaklanan gerçek nakit çıkışı tutarı kaç ₺'dir?",
+    "options": [
+      "A) 31.000 ₺",
+      "B) 33.800 ₺",
+      "C) 28.200 ₺",
+      "D) 15.900 ₺",
+      "E) 12.300 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin finansal verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Aktif Toplamı | 4.000.000 ₺ |\n| Brüt Satış Kârı | 1.200.000 ₺ |\n| Dönem Net Kârı | 475.000 ₺ |\n\nBuna göre bu firmanın 'Varlıkların Kârlılık Oranı' (Aktif Kârlılığı) yaklaşık olarak yüzde kaçtır?",
+    "options": [
+      "A) %11,88",
+      "B) %30,00",
+      "C) %25,50",
+      "D) %8,20",
+      "E) %15,00"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Nakit döngüsü (faaliyet döngüsü) analizinde, döngü süresini (Nakit İhtiyaç Süresi) formülize eden hesaplama denklemi aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) Stok Devir Süresi - Ticari Alacak Tahsil Süresi + Borç Ödeme Süresi",
+      "B) Stok Devir Süresi + Ticari Alacak Tahsil Süresi - Borç Ödeme Süresi",
+      "C) Stok Devir Süresi + Ticari Borç Ödeme Süresi - Ticari Alacak Tahsil Süresi",
+      "D) Alacak Tahsil Süresi + Borç Ödeme Süresi",
+      "E) Stok Devir Süresi + Nakit Oran - Cari Oran"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletmenin gelir tablosu verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Faaliyet Kârı | 1.600.000 ₺ |\n| Finansman Giderleri | 800.000 ₺ |\n\nDiğer olağan dışı gider/gelir bulunmamaktadır. İşletmenin 'Finans Giderini (Faiz) Karşılama Oranı' kaçtır?",
+    "options": [
+      "A) 0,5",
+      "B) 1,5",
+      "C) 2,0",
+      "D) 2,5",
+      "E) 3,0"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin bilançosunda yer alan veriler şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Pasif Toplamı | 1.700.000 ₺ |\n| Özkaynaklar | 780.000 ₺ |\n| Uzun Vadeli Yabancı Kaynaklar | 420.000 ₺ |\n\nBuna göre işletmenin 'Devamlı Sermaye Oranı' yaklaşık yüzde kaçtır?",
+    "options": [
+      "A) %45,88",
+      "B) %24,70",
+      "C) %100,00",
+      "D) %70,59",
+      "E) %50,00"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Karşılaştırmalı mali tablolarda 'Eğilim Yüzdeleri (Trend)' analizi yapılırken, ilgili yıla ait dikey yüzde endeksleri oluşturulurken cari yıldaki hesap kalemi tutarı aşağıdaki değerlerden hangisine bölünerek 100 ile çarpılır?",
+    "options": [
+      "A) Cari yılın Net Satışlarına",
+      "B) Cari yılın Aktif Toplamına",
+      "C) Baz (Temel) yılın aynı hesap tutarına",
+      "D) Sektör ortalamasına",
+      "E) Önceki yılın Dönen Varlıklar toplamına"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dikey Yüzde (Common-Size) analiz yöntemine göre, 2023 yılı bilançosunda Dönen Varlıklar toplamı 1.760.000 ₺ ve Aktif Toplamı 2.288.000 ₺ olan bir işletmenin, dönen varlıklarının dikey yüzdesi yaklaşık olarak kaçtır?",
+    "options": [
+      "A) %30,77",
+      "B) %76,92",
+      "C) %50,00",
+      "D) %62,00",
+      "E) %41,00"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Altman Z-Puanı hesaplamasında kullanılan rasyolar (T1, T2, T3, T4) arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "A) Net Çalışma Sermayesi / Aktif Toplamı",
+      "B) Dağıtılmayan Kârlar / Toplam Varlıklar",
+      "C) Faaliyet Kârı / Aktif Toplamı",
+      "D) Net Dönem Kârı / Özkaynaklar Toplamı",
+      "E) Özkaynakların Defter Değeri / Pasif Toplamı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Finansal analizde 'Ticari Alacak Devir Hızı' hesaplanırken, şüpheli ticari alacaklar ve bu alacaklara ayrılan karşılıkların (Şüpheli Ticari Alacaklar Karşılığı) formüldeki durumuyla ilgili genel kural aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Alacakların net değeri (karşılıklar düşülmüş hali) dikkate alınır.",
+      "B) Şüpheli alacaklar tamamen hesaplama dışı bırakılır.",
+      "C) Ticari alacakların brüt değeri dikkate alınır, şüpheli alacak karşılığı düşülmez.",
+      "D) Alacak devir hızında yalnızca 'Alacak Senetleri' kullanılır, 'Alıcılar' hesaba katılmaz.",
+      "E) Şüpheli alacak karşılığı kadar tutar, dönen varlıklara eklenerek formüle katılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin dönem sonu verilerine göre;\n\n| Hesaplar / Rasyolar | Değer |\n| :--- | :--- |\n| Aktif Toplamı | 1.000 ₺ |\n| Özkaynak Oranı | %40 |\n| Uzun Vadeli Yabancı Kaynak Oranı | %20 |\n\nBu verilere göre işletmenin Kısa Vadeli Yabancı Kaynaklar tutarı kaç ₺'dir?",
+    "options": [
+      "A) 200 ₺",
+      "B) 300 ₺",
+      "C) 400 ₺",
+      "D) 500 ₺",
+      "E) 600 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin Kısa Vadeli Yabancı Kaynakları 400 ₺, Cari Oranı 1,50 ve Likidite (Asit-Test) Oranı 0,75'tir. Buna göre işletmenin 'Stoklar' kaleminin değeri kaç ₺'dir?",
+    "options": [
+      "A) 100 ₺",
+      "B) 200 ₺",
+      "C) 300 ₺",
+      "D) 400 ₺",
+      "E) 500 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin Kısa Vadeli Yabancı Kaynakları 400 ₺ ve Nakit Oranı 0,25'tir. Buna göre işletmenin 'Hazır Değerler ve Menkul Kıymetler' (Nakit ve nakit benzerleri) toplamı kaç ₺'dir?",
+    "options": [
+      "A) 50 ₺",
+      "B) 100 ₺",
+      "C) 150 ₺",
+      "D) 200 ₺",
+      "E) 250 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Karşılaştırmalı mali tabloların eğilim yüzdeleri (trend) yöntemiyle analizinde; baz yıla (100) oranla cari yılda Net Satışlar kaleminin %260'a, Satışların Maliyeti kaleminin ise %238'e yükseldiği görülmüştür. Bu durum finansal açıdan nasıl yorumlanır?",
+    "options": [
+      "A) İşletmenin üretim maliyetlerini kontrol etmekte başarısız olduğu",
+      "B) Brüt satış kâr marjında (satışların kârlılığında) bir iyileşme/artış olduğu",
+      "C) Stok devir hızının aşırı derecede yavaşladığı",
+      "D) Satışların artmasına rağmen firmanın net zarar ettiği",
+      "E) İşletmenin yalnızca kredili satışlara ağırlık verdiği"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Yine eğilim yüzdeleri (trend) analizinde; baz yıla (100) göre cari yılda Net Satışlar %260'a yükselirken, Aktif Toplamının %180'de kaldığı saptanmıştır. Bu tablo, işletmenin varlık yönetimi hakkında neyi ifade eder?",
+    "options": [
+      "A) Varlıkların atıl kaldığını ve verimsiz kullanıldığını",
+      "B) Duran varlık yatırımlarının gereksiz yere aşırı artırıldığını",
+      "C) Önemli bir varlık artırımı/yatırım yapılmadan varlık devir hızının (verimliliğin) arttığını",
+      "D) İşletmenin ciddi bir likidite krizine girdiğini",
+      "E) Yabancı kaynak kullanımının tamamen durdurulduğunu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir firmanın hesaplanan verileri aşağıdaki gibidir:\n\n| Süreler | Değer |\n| :--- | :--- |\n| Stok Devir Süresi | 56 gün |\n| Ticari Alacak Tahsil Süresi | 73 gün |\n| Ticari Borç Ödeme Süresi | 91 gün |\n\nBu firmanın 'Nakit Döngüsü' (Faaliyet Döngüsü / Nakit İhtiyaç Süresi) kaç gündür?",
+    "options": [
+      "A) 38 gün",
+      "B) 129 gün",
+      "C) 220 gün",
+      "D) 74 gün",
+      "E) 20 gün"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir işletme, 100.000 ₺'lik gelecek aylara ait finansman giderini hatalı olarak Dönen Varlıklar içinde göstermiş ve aynı tutarı Kısa Vadeli Yabancı Kaynaklardaki Banka Kredileri içinde tutmuştur. Bu hatanın düzeltilerek 100.000 ₺'nin karşılıklı olarak hem Dönen Varlıklar'dan hem de KVYK'dan düşülmesi (mevcut durumda Dönen Varlıkların KVYK'dan büyük olduğu varsayımıyla) Cari Oran ve Finansal Kaldıraç Oranını nasıl etkiler?",
+    "options": [
+      "A) Cari Oran azalır, Kaldıraç Oranı artar.",
+      "B) Cari Oran artar, Kaldıraç Oranı azalır.",
+      "C) Her iki oran da değişmeden sabit kalır.",
+      "D) Cari Oran artar, Kaldıraç Oranı da artar.",
+      "E) Cari Oran azalır, Kaldıraç Oranı da azalır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin pasif tablosundaki verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Kısa Vadeli Yabancı Kaynaklar | 115.100 ₺ |\n| Uzun Vadeli Yabancı Kaynaklar | 12.600 ₺ |\n| Özkaynaklar | 100.300 ₺ |\n\nBuna göre işletmenin 'Devamlı Sermaye Oranı' yaklaşık yüzde kaçtır?",
+    "options": [
+      "A) %30,25",
+      "B) %50,48",
+      "C) %49,52",
+      "D) %85,00",
+      "E) %44,00"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin net satışları 3.942.000 ₺'dir. Gelecek yıl net satışlarını %25 artırarak 4.927.500 ₺'ye çıkarmayı hedefleyen işletme, aynı zamanda 'Alacak Tahsil Süresi'ni 146 güne indirmek istemektedir. Bu hedefe ulaşılması için dönem sonunda 'Ticari Alacaklar' bakiyesi kaç ₺ olmalıdır? (1 Yıl = 365 gün)",
+    "options": [
+      "A) 1.971.000 ₺",
+      "B) 1.500.000 ₺",
+      "C) 1.450.000 ₺",
+      "D) 2.100.000 ₺",
+      "E) 2.463.750 ₺"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aynı işletme satışların maliyetini yeni dönemde 3.597.075 ₺ olarak bütçelemiştir. Firmanın 'Ticari Borç Ödeme Süresi' hedefini 73 gün olarak belirlemesi halinde, dönem sonu 'Ortalama Ticari Borçlar' tutarı kaç ₺ olmalıdır? (1 Yıl = 365 gün)",
+    "options": [
+      "A) 985.500 ₺",
+      "B) 500.000 ₺",
+      "C) 719.415 ₺",
+      "D) 1.200.000 ₺",
+      "E) 850.250 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dikey yüzde (common-size) analizi yöntemiyle bir işletmenin bilançosu incelenirken, 'Ticari Alacaklar' kaleminin oransal ağırlığı (yüzdesi) bulunmak istendiğinde ilgili tutar kural olarak hangi kaleme bölünerek 100 ile çarpılır?",
+    "options": [
+      "A) Dönen Varlıklar Toplamına",
+      "B) Özkaynaklar Toplamına",
+      "C) Net Satışlara",
+      "D) Aktif (Varlıklar) Toplamına",
+      "E) Kısa Vadeli Yabancı Kaynaklara"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gelir tablosunun dikey yüzde yöntemi ile analizinde, tablodaki diğer tüm gelir ve gider kalemlerinin oransal ağırlıklarının (yüzdelerinin) hesaplanabilmesi için 'baz' (100) kabul edilen temel kalem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Brüt Satışlar",
+      "B) Brüt Satış Kârı",
+      "C) Dönem Net Kârı",
+      "D) Satışların Maliyeti",
+      "E) Net Satışlar"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Nakit Akım Tablosunda 'Maliyetlerden Kaynaklanan Nakit Çıkışları' hesaplanırken aşağıdaki formül bileşenlerinden hangisi tutara 'negatif' (-) etki yapar (yani ilgili dönemde nakit çıkışı yaratmadığı için maliyetler için ödenen nakdi azaltır)?",
+    "options": [
+      "A) Satışların Maliyeti",
+      "B) Stoklardaki Artışlar",
+      "C) Ticari Borçlardaki (Alımlardan Kaynaklanan) Artışlar",
+      "D) Ticari Borçlardaki Azalışlar",
+      "E) Gelecek Aylara Ait Giderlerdeki Artışlar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin döngü verileri şöyledir:\n\n| Rasyo / Süre | Değer |\n| :--- | :--- |\n| Nakit (Faaliyet) Döngüsü | 45 gün |\n| Stok Devir Süresi | 60 gün |\n| Ticari Alacak Tahsil Süresi | 40 gün |\n\nBuna göre firmanın 'Ticari Borç Ödeme Süresi' kaç gündür?",
+    "options": [
+      "A) 145 gün",
+      "B) 55 gün",
+      "C) 65 gün",
+      "D) 85 gün",
+      "E) 25 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin finansal verileri şöyledir:\n\n| Hesaplar / Rasyolar | Değer |\n| :--- | :--- |\n| Özkaynaklar Toplamı | 1.200.000 ₺ |\n| Kaldıraç (Toplam Yabancı Kaynak) Oranı | %60 |\n\nBuna göre işletmenin Aktif Toplamı (Varlıklar Toplamı) kaç ₺'dir?",
+    "options": [
+      "A) 1.920.000 ₺",
+      "B) 2.000.000 ₺",
+      "C) 3.000.000 ₺",
+      "D) 1.800.000 ₺",
+      "E) 2.400.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Karşılaştırmalı mali tablolar (yatay) analizinde, bir kalemin önceki döneme göre oransal değişim yüzdesi (artış/azalış) bulunurken hangi matematiksel formül kullanılır?",
+    "options": [
+      "A) (Cari Dönem Tutarı / Önceki Dönem Tutarı) * 100",
+      "B) ((Cari Dönem Tutarı - Önceki Dönem Tutarı) / Önceki Dönem Tutarı) * 100",
+      "C) (Önceki Dönem Tutarı / Cari Dönem Tutarı) * 100",
+      "D) ((Önceki Dönem Tutarı - Cari Dönem Tutarı) / Cari Dönem Tutarı) * 100",
+      "E) (Cari Dönem Tutarı / Aktif Toplamı) * 100"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin 'Ticari Alacak Devir Hızı' hesaplanırken kural olarak formülün pay ve payda kısmına sırasıyla hangi kalemler yazılır?",
+    "options": [
+      "A) Brüt Satışlar / Ortalama Özkaynaklar",
+      "B) Net Satışlar / Ortalama Stoklar",
+      "C) Satışların Maliyeti / Ortalama Ticari Alacaklar",
+      "D) Net Satışlar / Ortalama Ticari Alacaklar",
+      "E) Vadeli Net Satışlar / Ortalama Ticari Borçlar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İşletmelerin mali analizinde 'Kur değerlemeleri ile oluşan kambiyo kâr ve zararının kârlılığa etki oranını' (Kur Etkisinden Arındırılmış Net Kârlılığı) analiz edebilmek için temel olarak hangi matematiksel düzeltme yapılır?",
+    "options": [
+      "A) Net Satışlardan Kambiyo Kârları çıkarılır, Kambiyo Zararları eklenir.",
+      "B) Dönem Net Kârından net kambiyo kârı düşülür (veya net kambiyo zararı eklenir) ve çıkan tutar Net Satışlara bölünür.",
+      "C) Faaliyet Kârı doğrudan Net Satışlara bölünür.",
+      "D) Kambiyo Kârı tutarı doğrudan Finansman Giderlerine bölünerek oran bulunur.",
+      "E) Brüt Satış Kârından net kambiyo kârı çıkarılarak Özkaynaklara bölünür."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nakit (Faaliyet) Döngüsü analizi sonucunda, döngü süresinin 'negatif (-)' (örneğin -37 gün) çıkması işletme açısından hangi finansal durumu ifade eder?",
+    "options": [
+      "A) İşletmenin ciddi bir likidite krizinde olduğunu ve borçlarını ödeyemediğini",
+      "B) İşletmenin stoklarını satıp alacaklarını tahsil etme süresinin, ticari borçlarını ödeme süresinden daha kısa olduğunu (faaliyetlerini tedarikçilerin finanse ettiğini)",
+      "C) İşletmenin hiç peşin satış yapamadığını",
+      "D) Stokların tamamının modası geçmiş olduğunu",
+      "E) Duran varlık yatırımlarının çok yüksek olduğunu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Karşılaştırmalı Tablolar (Yatay) Analizi tekniğiyle, bir hesap kaleminin önceki döneme göre 'yüzdesel değişimi (farkı)' hesaplanırken kullanılan formül aşağıdakilerden hangisidir?",
+    "options": [
+      "A) (Cari Dönem Tutarı / Önceki Dönem Tutarı) * 100",
+      "B) (Önceki Dönem Tutarı / Cari Dönem Tutarı) * 100",
+      "C) ((Cari Dönem Tutarı - Önceki Dönem Tutarı) / Önceki Dönem Tutarı) * 100",
+      "D) ((Önceki Dönem Tutarı - Cari Dönem Tutarı) / Cari Dönem Tutarı) * 100",
+      "E) (Cari Dönem Tutarı / Aktif Toplamı) * 100"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletmenin ilgili yılına ait bilanço verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönen Varlıklar | 404.000 ₺ |\n| Stoklar | 222.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar | 270.800 ₺ |\n\nBuna göre işletmenin 'Asit-Test (Likidite) Oranı' yaklaşık kaçtır?",
+    "options": [
+      "A) 1,49",
+      "B) 0,82",
+      "C) 0,67",
+      "D) 1,10",
+      "E) 0,95"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir ticari firmanın 'Devamlı Sermaye Oranı' hesaplanırken pay (bölünen) kısmına hangi bilanço kalemlerinin toplamı yazılır?",
+    "options": [
+      "A) Sadece Özkaynaklar",
+      "B) Kısa Vadeli Yabancı Kaynaklar + Uzun Vadeli Yabancı Kaynaklar",
+      "C) Dönen Varlıklar + Duran Varlıklar",
+      "D) Uzun Vadeli Yabancı Kaynaklar + Özkaynaklar",
+      "E) Kısa Vadeli Yabancı Kaynaklar + Özkaynaklar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Firmanın ilgili döneme ait verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Satışların Maliyeti | 290.000 ₺ |\n| Ortalama Ticari Borçlar | 120.000 ₺ |\n\nBuna göre işletmenin 'Ticari Borç Devir Hızı' yaklaşık olarak kaçtır?",
+    "options": [
+      "A) 2,42",
+      "B) 3,10",
+      "C) 1,50",
+      "D) 2,95",
+      "E) 4,20"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dikey Yüzde Analizi yönteminde, gelir tablosu kalemleri analiz edilirken her bir kalemin tutarı hangi ana kaleme bölünerek yüzdesi bulunur?",
+    "options": [
+      "A) Brüt Satışlar",
+      "B) Net Satışlar",
+      "C) Satışların Maliyeti",
+      "D) Aktif Toplamı",
+      "E) Faaliyet Kârı"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletmenin gelir tablosu verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 280.000 ₺ |\n| Faaliyet Kârı | 19.000 ₺ |\n\nBu işletmenin 'Faaliyet Kârlılık Oranı' yaklaşık olarak yüzde kaçtır?",
+    "options": [
+      "A) %5,1",
+      "B) %6,8",
+      "C) %8,2",
+      "D) %10,5",
+      "E) %4,5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir üretim işletmesinin verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Özkaynaklar Toplamı | 118.225 ₺ |\n| Dönem Net Kârı | 11.600 ₺ |\n\nBuna göre firmanın 'Özsermaye (Özkaynak) Kârlılık Oranı' yaklaşık yüzde kaçtır?",
+    "options": [
+      "A) %7,5",
+      "B) %9,8",
+      "C) %12,2",
+      "D) %15,0",
+      "E) %8,4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin maliyetlerinden kaynaklanan gerçek nakit çıkışını (ödemelerini) Nakit Akım Tablosunda hesaplarken, Satışların Maliyeti tutarına aşağıdakilerden hangisi ilave edilir (eklenir)?",
+    "options": [
+      "A) Stoklardaki azalışlar",
+      "B) Ticari borçlardaki (alımlardan kaynaklanan) artışlar",
+      "C) Ticari alacaklardaki azalışlar",
+      "D) Amortisman giderleri",
+      "E) Stoklardaki artışlar ve Ticari borçlardaki azalışlar"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Asit-Test (Likidite) oranının 1'in oldukça altında olması (örneğin 0,67) durumunda işletmenin kısa vadeli borçlarını ödeyebilme yeteneği hakkında hangi yorum yapılır?",
+    "options": [
+      "A) İşletme kısa vadeli borçlarını ödemede çok rahat durumdadır, stoklara bağımlı değildir.",
+      "B) İşletmenin bankalardan çok rahat yeni kredi çekebileceği anlaşılır.",
+      "C) İşletmenin kısa vadeli borçlarını ödeyebilmesi için büyük ölçüde stoklarını satmaya bağımlı olduğu anlaşılır.",
+      "D) İşletmenin tahsilat süresinin çok kısa olduğu görülür.",
+      "E) Duran varlıkların verimli kullanıldığı anlaşılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "DuPont Analiz sistemine göre bir işletmenin Özkaynak Kârlılık Oranı (ROE); Net Kâr Marjı, Aktif Devir Hızı ve Özkaynak (Kaldıraç) Çarpanının çarpımı ile bulunur. İşletmenin verileri aşağıdaki gibidir:\n\n| Rasyolar | Değer |\n| :--- | :--- |\n| Net Kâr Marjı | %10 |\n| Aktif Devir Hızı | 1,5 |\n| Özkaynak Çarpanı | 2 |\n\nBuna göre işletmenin Özkaynak Kârlılığı yüzde kaçtır?",
+    "options": [
+      "A) %10",
+      "B) %15",
+      "C) %20",
+      "D) %30",
+      "E) %45"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin döngü süreleri şöyledir:\n\n| Süreler | Değer |\n| :--- | :--- |\n| Ticari Alacak Tahsil Süresi | 60 gün |\n| Stok Devir Süresi | 40 gün |\n| Ticari Borç Ödeme Süresi | 110 gün |\n\nBu verilere göre işletmenin 'Nakit (Faaliyet) Döngüsü' süresi kaç gündür?",
+    "options": [
+      "A) -10 gün",
+      "B) 10 gün",
+      "C) 90 gün",
+      "D) 150 gün",
+      "E) 210 gün"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bilanço verilerine göre;\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönen Varlıklar | 500.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar | 650.000 ₺ |\n\nBu işletmenin likidite durumu ve net işletme sermayesi (NİS) için aşağıdaki ifadelerden hangisi kesinlikle doğrudur?",
+    "options": [
+      "A) İşletmenin Net İşletme Sermayesi fazlası bulunmaktadır.",
+      "B) İşletmenin Cari Oranı 1'den küçüktür (Net İşletme Sermayesi noksanı vardır).",
+      "C) İşletmenin Asit-Test Oranı kesinlikle 1'den büyüktür.",
+      "D) Firmanın duran varlıkları özkaynaklarından daha küçüktür.",
+      "E) İşletme uzun vadeli borçlarını ödemekte kriz yaşamaktadır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Net İşletme Sermayesi (Fon) Akım Tablosu düzenlenirken, bir hesap kaleminin tablonun 'Kaynaklar' bölümünde mi yoksa 'Kullanımlar' bölümünde mi yer alacağı belirlenir. Buna göre aşağıdakilerden hangisi bir Fon Kaynağı değildir (fon kullanımıdır)?",
+    "options": [
+      "A) Ayrılan amortismanlar ve karşılıklar",
+      "B) Sermaye artırımı (Nakit)",
+      "C) Uzun vadeli yabancı kaynaklardaki artışlar",
+      "D) Maddi duran varlıklardaki (brüt) artışlar",
+      "E) Faaliyetlerden sağlanan net fon (Dönem Net Kârı)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Yatay analiz (Karşılaştırmalı Tablolar) yapan bir işletmenin verileri şöyledir:\n\n| Hesaplar | 2022 Yılı | 2023 Yılı |\n| :--- | :--- | :--- |\n| Brüt Satışlar | 500.000 ₺ | 800.000 ₺ |\n| Satış İadeleri | 0 ₺ | 100.000 ₺ |\n\nBu firmanın 'Net Satışlar' kalemindeki yüzdesel değişim (artış oranı) kaçtır?",
+    "options": [
+      "A) %20",
+      "B) %40",
+      "C) %50",
+      "D) %60",
+      "E) %80"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nakit Akım Tablosu hazırlanırken vergi ödemelerinden kaynaklanan gerçek nakit çıkışı hesaplanacaktır. İşletmenin verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönem Başı Ödenecek Vergi ve Fonlar | 10.000 ₺ |\n| Dönem Sonu Ödenecek Vergi ve Fonlar | 15.000 ₺ |\n| Dönem Kârı Vergi ve Diğer Yasal Yük. Karşılığı | 30.000 ₺ |\n\nBuna göre, ilgili dönemde nakden ödenen vergi tutarı kaç ₺'dir?",
+    "options": [
+      "A) 30.000 ₺",
+      "B) 15.000 ₺",
+      "C) 25.000 ₺",
+      "D) 10.000 ₺",
+      "E) 45.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Borsa İstanbul'da işlem gören bir firmanın piyasa değeri analiz edilirken veriler şu şekilde açıklanmıştır:\n\n| Göstergeler | Değer |\n| :--- | :--- |\n| Hisse Senedi Güncel Piyasa Fiyat | 50 ₺ |\n| Hisse Başına Kazanç (HBK) | 5 ₺ |\n\nBuna göre firmanın F/K (Fiyat/Kazanç) oranı kaçtır?",
+    "options": [
+      "A) 0,10",
+      "B) 5",
+      "C) 10",
+      "D) 50",
+      "E) 250"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dikey yüzde (Common-size) analizine göre bir işletmenin pasif verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Pasif (Kaynaklar) Toplamı | 2.000.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar | 800.000 ₺ |\n| Uzun Vadeli Yabancı Kaynaklar | 400.000 ₺ |\n\nBu işletmenin 'Özkaynaklar' kaleminin dikey yüzdesi kaçtır?",
+    "options": [
+      "A) %30",
+      "B) %40",
+      "C) %50",
+      "D) %60",
+      "E) %80"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin hazır değerleri ve menkul kıymetleri ile ticari alacaklarının toplamının kısa vadeli yabancı kaynakları karşılamaya yetmediği durumlarda; işletmenin vadesi gelen borçlarını ödeyebilmesi için 'stoklarının yüzde kaçını kesinlikle satmak zorunda olduğunu' gösteren finansal rasyo aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Nakit Oranı",
+      "B) Cari Oran",
+      "C) Finansal Kaldıraç Oranı",
+      "D) Stok Bağımlılık Oranı",
+      "E) Faaliyet Döngüsü Oranı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İşletmenin gelir tablosu verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönem Net Kârı | 200.000 ₺ |\n| Vergi Gideri (Karşılığı) | 50.000 ₺ |\n| Finansman Gideri | 100.000 ₺ |\n\nİşletmenin vergi ve faiz öncesi kazancının (FVÖK), ödemek zorunda olduğu finansman giderlerini kaç kez karşıladığını gösteren 'Faiz Karşılama Oranı' kaçtır?",
+    "options": [
+      "A) 2,0",
+      "B) 2,5",
+      "C) 3,0",
+      "D) 3,5",
+      "E) 4,0"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Karşılaştırmalı mali tablolarda (Yatay Analiz), bir işletmenin 'Ticari Alacak Devir Hızı'nın önceki yıla göre anlamlı derecede düştüğü (yavaşladığı) tespit edilmiştir. Bu durum finansal yönetim açısından nasıl yorumlanır?",
+    "options": [
+      "A) Satışların tamamının peşin yapılmaya başlandığı",
+      "B) Alacakların tahsil edilme süresinin kısaldığı ve likiditenin güçlendiği",
+      "C) Alacakların tahsil edilme süresinin uzadığı ve tahsilat politikasında zayıflama olduğu",
+      "D) Şüpheli alacakların tamamen tahsil edilip silindiği",
+      "E) Firmanın ticari borçlarını çok daha hızlı ödediği"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir firmanın ilgili döneme ait verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 1.200.000 ₺ |\n| Ortalama Dönen Varlıklar | 400.000 ₺ |\n| Ortalama Kısa Vadeli Yabancı Kaynaklar | 100.000 ₺ |\n\nBu verilere göre işletmenin 'Net İşletme Sermayesi Devir Hızı' kaçtır?",
+    "options": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 5",
+      "E) 6"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Özkaynak Çarpanı (Kaldıraç Çarpanı), işletmenin toplam varlıklarının (aktiflerinin) ne kadarlık kısmının özkaynakların bir katı olduğunu gösterir. Buna göre firmanın verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Aktif Toplamı | 1.000.000 ₺ |\n| Özkaynaklar | 200.000 ₺ |\n\nBu verilere göre işletmenin 'Özkaynak Çarpanı' kaçtır?",
+    "options": [
+      "A) 0,2",
+      "B) 1,5",
+      "C) 2,5",
+      "D) 4,0",
+      "E) 5,0"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir işletmenin kendi yarattığı iç kaynaklarla (özellikle kâr payı dağıtmayarak) ne ölçüde finansman sağladığını ve büyüdüğünü gösteren 'Otofinansman Oranı' aşağıdaki kalemlerin hangilerinin birbirine bölünmesiyle hesaplanır?",
+    "options": [
+      "A) Toplam Yabancı Kaynaklar / Özkaynaklar Toplamı",
+      "B) Dönem Net Kârı / Aktif Toplamı",
+      "C) (Kâr Yedekleri + Birikmiş Kârlar) / Ödenmiş Sermaye",
+      "D) Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+      "E) Hazır Değerler / Özkaynaklar Toplamı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Finansal analizde kullanılan '(Birikmiş Amortismanlar) / Maddi Duran Varlıklar (Brüt)' formülü, temel olarak işletmenin hangi durumunu ölçmek/analiz etmek için kullanılır?",
+    "options": [
+      "A) Duran varlıkların nakde çevrilme süresini",
+      "B) Maddi duran varlıkların eskime, yıpranma oranını ve yenilenme ihtiyacını",
+      "C) Amortisman giderlerinin kârlılığa olan negatif etkisini",
+      "D) İşletmenin yeni yatırımlara ayırdığı bütçe yüzdesini",
+      "E) Vergi avantajı sağlayan amortisman kalkanı oranını"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Finansal analiz araçlarından Asit-Test (Likidite) Oranı ve Cari Oran ile ilgili olarak;<br>I. Stokların nakde dönüşüm hızı yavaşladıkça, asit-test oranı ile cari oran arasındaki fark açılır.<br>II. Asit-test oranının hesaplanmasında dönen varlıklardan sadece stoklar düşülür, gelecek aylara ait giderler her zaman formüle dahil edilir.<br>III. Cari oranın 1'den küçük olması, işletmenin net işletme sermayesinin negatif (noksan) olduğunu gösterir.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin ilgili döneme ait verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 1.200.000 ₺ |\n| Dönem Başı Ticari Alacaklar | 100.000 ₺ |\n| Dönem Sonu Ticari Alacaklar | 140.000 ₺ |\n\nDiğer şartlar sabitken, bu işletmenin 'Alacak Tahsil Süresi' kaç gündür? (1 yıl = 360 gün)",
+    "options": [
+      "A) 30 gün",
+      "B) 36 gün",
+      "C) 42 gün",
+      "D) 60 gün",
+      "E) 72 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nakit Akım Tablosu hazırlanırken nakit giriş ve çıkışları belirli faaliyet gruplarına ayrılır. Buna göre aşağıdakilerden hangisi doğrudan 'Finansman Faaliyetlerinden Kaynaklanan Nakit Çıkışı' olarak sınıflandırılır?",
+    "options": [
+      "A) Tedarikçilere yapılan ticari borç ödemeleri",
+      "B) Yeni bir üretim tesisi satın alınması için yapılan ödemeler",
+      "C) Çalışanlara ödenen maaş ve ikramiyeler",
+      "D) Banka kredisi anapara geri ödemeleri",
+      "E) Devlete ödenen kurumlar vergisi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Karşılaştırmalı mali tabloların 'Eğilim Yüzdeleri (Trend)' yöntemiyle analizi hakkında;<br>I. Eğilim yüzdeleri analizinde baz (temel) yılın tüm kalemleri kural olarak 100 kabul edilir.<br>II. Temel alınan baz yılın, işletmenin normal faaliyet koşullarını yansıtan ve olağandışı dalgalanmaların (kriz vb.) olmadığı bir yıl olması gerekir.<br>III. Eğilim yüzdeleri analizi sadece gelir tablosu kalemleri için uygulanabilir, bilanço kalemlerinin analizinde kullanılamaz.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "DuPont Analiz Sistemine göre Özkaynak Kârlılığı; Net Kâr Marjı, Aktif Devir Hızı ve Kaldıraç (Özkaynak) Çarpanının çarpımıyla bulunur. İşletmenin verileri şöyledir:\n\n| Rasyolar | Değer |\n| :--- | :--- |\n| Net Kâr Marjı | %8 |\n| Özkaynak Kârlılığı | %24 |\n| Kaldıraç Çarpanı | 1,5 |\n\nBuna göre bir işletmenin 'Aktif Devir Hızı' kaçtır?",
+    "options": [
+      "A) 1,50",
+      "B) 2,00",
+      "C) 2,50",
+      "D) 3,00",
+      "E) 4,00"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Yatay analiz (Karşılaştırmalı Tablolar) yapan bir mali analist, işletmenin Net Satışlarının önceki yıla göre %40 arttığını, Satışların Maliyetinin ise %60 arttığını tespit etmiştir. Diğer veriler sabitken, bu durum işletmenin gelir tablosunda birincil olarak nasıl bir etki yaratır?",
+    "options": [
+      "A) Brüt Satış Kâr Marjı (satışların kârlılığı) kesinlikle daralmıştır (düşmüştür).",
+      "B) Faaliyet kârı aynı oranda (%50) artmıştır.",
+      "C) İşletmenin stok devir hızı yükselmiştir.",
+      "D) Dönen varlıkların verimliliği artmıştır.",
+      "E) Net dönem kârı zarar dönüşmüştür."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir işletmenin verileri aşağıdaki gibidir:\n\n| Hesap / Rasyo | Değer |\n| :--- | :--- |\n| Dönen Varlıklar | 800.000 ₺ |\n| Cari Oran | 0,80 |\n\nBuna göre bu işletmenin 'Net İşletme Sermayesi' durumu için aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) 200.000 ₺ Net İşletme Sermayesi Fazlası vardır.",
+      "B) 200.000 ₺ Net İşletme Sermayesi Noksanı vardır.",
+      "C) 1.000.000 ₺ Net İşletme Sermayesi Noksanı vardır.",
+      "D) 800.000 ₺ Net İşletme Sermayesi Fazlası vardır.",
+      "E) Net İşletme Sermayesi 0'dır (Başa baştır)."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Finansal Kaldıraç Oranı (Toplam Yabancı Kaynaklar / Aktif Toplamı) ile ilgili olarak;<br>I. Finansal kaldıraç oranı %50'den büyük olan işletmelerin varlıklarının yarıdan fazlası borçlarla finanse edilmektedir.<br>II. Özkaynakların toplam pasif (kaynaklar) içindeki payı arttıkça finansal kaldıraç oranı düşer.<br>III. Finansal kaldıraç oranının çok yüksek olması, kredi veren alacaklılar açısından riskin çok düşük olduğunu gösterir.<br><br>Yargılarından hangisi veya hangileri yanlıştır?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) Yalnız III",
+      "D) I ve II",
+      "E) II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir üretim işletmesinin ilgili döneme ait verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Satışların Maliyeti | 4.800.000 ₺ |\n| Dönem Başı Stoklar | 400.000 ₺ |\n| Dönem Sonu Stoklar | 800.000 ₺ |\n\nBu verilere göre işletmenin 'Stok Devir Hızı' kaçtır?",
+    "options": [
+      "A) 4",
+      "B) 6",
+      "C) 8",
+      "D) 10",
+      "E) 12"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin rasyo analizinde 'Faiz Karşılama Oranı'nın (Faaliyet Kârı / Finansman Giderleri) 1'den küçük çıkması finansal yönetim açısından temel olarak neyi ifade eder?",
+    "options": [
+      "A) İşletmenin satış iadelerinin çok yüksek olduğunu",
+      "B) Firmanın asıl faaliyetlerinden elde ettiği kârın, mevcut borçlarının faiz yükünü ödemeye bile yetmediğini",
+      "C) Kısa vadeli borç ödeme gücünün sektör ortalamasının üzerinde olduğunu",
+      "D) Amortisman giderlerinin işletmeye büyük bir nakit girişi sağladığını",
+      "E) Firmanın sermaye artırımına kesinlikle ihtiyaç duymadığını"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Net İşletme Sermayesi (Fon) Akım Tablosu hazırlanırken kalemler kaynak ve kullanım olarak ayrılır. Buna göre;<br>I. Duran varlıklardaki azalışlar (örneğin bir makinenin satılması) bir fon kaynağıdır.<br>II. Sermaye artırımı (nakden ödenen) bir fon kaynağıdır.<br>III. Ortaklara nakit temettü (kâr payı) ödenmesi bir fon kullanımıdır.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir işletmenin mali verileri şöyledir:\n\n| Hesap / Oran | Değer |\n| :--- | :--- |\n| Aktif Toplamı | 2.000.000 ₺ |\n| Dönen Varlıkların Aktif İçindeki Payı | %40 |\n| Ticari Alacakların Dönen Varlıklar İçindeki Payı | %25 |\n\nBu verilere göre işletmenin Ticari Alacaklar bakiyesi kaç ₺'dir?",
+    "options": [
+      "A) 150.000 ₺",
+      "B) 200.000 ₺",
+      "C) 250.000 ₺",
+      "D) 400.000 ₺",
+      "E) 500.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin gelir tablosu yatay ve dikey olarak analiz edildiğinde, 'Brüt Satış Kâr Marjı'nın yıllar itibarıyla sürekli ve keskin bir düşüş eğiliminde olduğu görülmüştür. Aşağıdakilerden hangisi bu durumun temel nedenlerinden biri olamaz?",
+    "options": [
+      "A) Pazarda pazar payı kapmak için satış fiyatlarında yüksek indirimler yapılması",
+      "B) Satılan malın veya üretilen mamulün birim maliyetlerinde aşırı artış yaşanması",
+      "C) Hammadde tedarik fiyatlarındaki beklenmedik kur artışları",
+      "D) Genel Yönetim ve Pazarlama Satış Dağıtım giderlerinin kontrolden çıkıp aşırı artması",
+      "E) Kapasite kullanım oranının düşmesi sonucu birim başına düşen sabit üretim maliyetlerinin artması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Nakit Döngüsü (Faaliyet Döngüsü / Nakit İhtiyaç Süresi) ile ilgili olarak;<br>I. Ticari alacakların tahsil süresinin uzaması, işletmenin nakit döngüsünü kısaltır.<br>II. Ticari borç ödeme süresinin uzaması (tedarikçi finansmanının artması), nakit döngüsünü kısaltır.<br>III. Stokların elde kalma (satılma) süresinin kısalması, nakit döngüsünü kısaltır.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Nakit Akım Tablosu hazırlanırken 'Satışlardan Sağlanan Nakit' hesaplanacaktır. İşletmenin ilgili dönem verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 2.400.000 ₺ |\n| Dönem Başı Ticari Alacaklar | 400.000 ₺ |\n| Dönem Sonu Ticari Alacaklar | 650.000 ₺ |\n\nŞüpheli alacak veya reeskont gibi düzeltici kalemler bulunmadığı varsayımıyla, satışlardan sağlanan nakit girişi kaç ₺'dir?",
+    "options": [
+      "A) 2.000.000 ₺",
+      "B) 2.150.000 ₺",
+      "C) 2.400.000 ₺",
+      "D) 2.650.000 ₺",
+      "E) 2.800.000 ₺"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DuPont Analiz Sistemine göre, bir işletmenin Aktif Kârlılık Oranı (ROA) hesaplanırken hangi iki temel finansal rasyo birbiriyle çarpılır?",
+    "options": [
+      "A) Net Kâr Marjı x Özkaynak Çarpanı",
+      "B) Brüt Satış Kârı x Alacak Devir Hızı",
+      "C) Net Kâr Marjı x Varlık (Aktif) Devir Hızı",
+      "D) Faaliyet Kârlılığı x Stok Devir Hızı",
+      "E) Özkaynak Kârlılığı x Finansal Kaldıraç Oranı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin yıllar itibarıyla 'Ticari Alacak Devir Hızı'nın sürekli olarak arttığı (örneğin 4'ten 8'e çıktığı) gözlemlenmiştir. Bu durum işletmenin finansal yapısı hakkında öncelikle aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "A) İşletmenin satışlarının tamamını kredili (vadeli) yapmaya başladığını",
+      "B) Müşterilerden alacakların tahsil edilme süresinin uzadığını",
+      "C) Firmanın ticari borçlarını ödemekte zorlandığını",
+      "D) Alacakların tahsilat süresinin kısaldığını ve likidite girişinin hızlandığını",
+      "E) Şüpheli ticari alacakların oranında büyük bir artış olduğunu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Dikey yüzde analizi (Common-Size) ile gelir tablosu incelenen bir işletmede, baz kalem olan Net Satışlar 100 kabul edildiğinde, 'Satışların Maliyeti' kaleminin dikey yüzdesinin önceki yıla göre %65'ten %78'e çıktığı görülmüştür. Bu durumun direkt sonucu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Brüt Satış Kâr Marjının daralması (düşmesi)",
+      "B) Faaliyet giderlerinin oransal olarak artması",
+      "C) Net kârın kesinlikle zarara dönüşmesi",
+      "D) Stok devir hızının yavaşlaması",
+      "E) Özkaynakların erimesi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir işletmenin Dolaylı Yöntemle Nakit Akım Tablosu hazırlanmaktadır. İlgili dönem verileri şöyledir:\n\n| Hesaplar / Değişimler | Tutar |\n| :--- | :--- |\n| Dönem Net Kârı | 50.000 ₺ |\n| Amortisman Giderleri | 10.000 ₺ |\n| Ticari Alacaklardaki Artış | 15.000 ₺ |\n| Stoklardaki Azalış | 5.000 ₺ |\n| Ticari Borçlardaki Azalış | 8.000 ₺ |\n\nBu verilere göre işletmenin 'İşletme Faaliyetlerinden Sağlanan Net Nakit Akışı' kaç ₺'dir?",
+    "options": [
+      "A) 78.000 ₺",
+      "B) 42.000 ₺",
+      "C) 68.000 ₺",
+      "D) 58.000 ₺",
+      "E) 32.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Eğilim Yüzdeleri (Trend) Analizi ile ilgili olarak;<br>I. Bilanço ve gelir tablosu kalemlerinin zaman içindeki eğilimini görmek için kullanılır.<br>II. Seçilen baz (temel) yılın değerleri kural olarak her zaman 100 kabul edilir.<br>III. Baz olarak seçilen yılın; ekonomik kriz, grev veya afet gibi olağandışı etkilerin görülmediği, işletme için 'normal' sayılan bir yıl olması gerekir.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir firmanın bilanço verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönen Varlıklar Toplamı | 800.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar (KVYK) | 550.000 ₺ |\n\nBuna göre firmanın 'Net İşletme Sermayesi' (NİS) durumu aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      "A) 250.000 ₺ Net İşletme Sermayesi Noksanı vardır.",
+      "B) 250.000 ₺ Net İşletme Sermayesi Fazlası vardır.",
+      "C) 1.350.000 ₺ Toplam İşletme Sermayesi vardır.",
+      "D) İşletmenin net işletme sermayesi negatiftir.",
+      "E) İşletmenin cari oranı 1'den küçüktür."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir ticari işletmenin ilgili döneme ait verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Satışların Maliyeti | 900.000 ₺ |\n| Dönem Başı Ticari Mallar Stoku | 120.000 ₺ |\n| Dönem Sonu Ticari Mallar Stoku | 180.000 ₺ |\n\nBuna göre işletmenin 'Stok Devir Hızı' kaçtır?",
+    "options": [
+      "A) 4,00",
+      "B) 5,00",
+      "C) 6,00",
+      "D) 7,50",
+      "E) 9,00"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin Stok Devir Hızı 6,00 olarak hesaplanmıştır. 1 yılın 360 gün kabul edildiği bir analizde, bu işletmenin malları depoya girmesiyle satılması arasında geçen ortalama 'Stokta Kalma Süresi' kaç gündür?",
+    "options": [
+      "A) 30 gün",
+      "B) 45 gün",
+      "C) 60 gün",
+      "D) 75 gün",
+      "E) 90 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin bilançosu analiz edildiğinde 'Net İşletme Sermayesinin Negatif (Noksan)' olduğu görülmüştür. Bu durum, işletmenin bilanço yapısı hakkında kesin olarak neyi ifade eder?",
+    "options": [
+      "A) Duran Varlıkların, Dönen Varlıklardan büyük olduğunu",
+      "B) Özkaynakların, Toplam Yabancı Kaynaklardan büyük olduğunu",
+      "C) Kısa Vadeli Yabancı Kaynakların, Dönen Varlıklardan büyük olduğunu (Dönen varlıklarla kısa vadeli borçların ödenemeyeceğini)",
+      "D) İşletmenin kesinlikle zarar ettiğini",
+      "E) Nakit oranının 1'den büyük olduğunu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Finansal Kaldıraç Oranı (Toplam Borçlar / Aktif Toplamı) yıllar itibarıyla sürekli olarak artan (örneğin %40'tan %70'e çıkan) bir işletme için finansal açıdan aşağıdaki yorumlardan hangisi yapılır?",
+    "options": [
+      "A) İşletmenin finansal riski artmakta ve alacaklıların güven payı daralmaktadır.",
+      "B) İşletme tamamen kendi özkaynaklarıyla büyümeyi tercih etmektedir.",
+      "C) İşletmenin ödeme gücü ve likiditesi olağanüstü derecede artmıştır.",
+      "D) Duran varlık yatırımları tamamen durdurulmuştur.",
+      "E) İşletmenin kârlılığı kesinlikle düşmüştür."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir firmanın ilgili döneme ait finansal verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Aktif Toplamı | 1.500.000 ₺ |\n| Dönem Net Kârı | 150.000 ₺ |\n\nBuna göre bu firmanın 'Varlıkların (Aktif) Kârlılık Oranı' yüzde kaçtır?",
+    "options": [
+      "A) %5",
+      "B) %8",
+      "C) %10",
+      "D) %15",
+      "E) %20"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Borsada işlem gören imtiyazlı payı bulunmayan bir anonim şirketin verileri şöyledir:\n\n| Kalemler | Değer |\n| :--- | :--- |\n| Dönem Net Kârı | 400.000 ₺ |\n| Ödenmiş Sermaye | 100.000 ₺ |\n| İhraç Edilmiş Hisse Senedi Adedi | 100.000 |\n\nBuna göre şirketin 'Hisse Başına Kazanç (HBK)' tutarı kaç ₺'dir?",
+    "options": [
+      "A) 1,00 ₺",
+      "B) 2,00 ₺",
+      "C) 4,00 ₺",
+      "D) 5,00 ₺",
+      "E) 10,00 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Nakit Döngüsü (Faaliyet Döngüsü) analiziyle ilgili olarak;<br>I. Nakit Döngüsü Süresi = Stok Devir Süresi + Ticari Alacak Tahsil Süresi - Ticari Borç Ödeme Süresi formülüyle hesaplanır.<br>II. Nakit döngüsünün negatif çıkması, işletmenin faaliyetlerini ağırlıklı olarak tedarikçilerine (satıcılara) finanse ettirdiğini gösterir.<br>III. Tedarikçilere yapılan ödeme vadesinin (Ticari Borç Ödeme Süresinin) uzatılması, nakit döngüsü süresini artırır (uzatır).<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Özkaynak Çarpanı (Kaldıraç Çarpanı), işletmenin toplam varlıklarının ne kadarının özkaynaklarla finanse edildiğini gösteren bir rasyodur. Bir firmanın verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Aktif Toplamı | 800.000 ₺ |\n| Toplam Yabancı Kaynaklar | 600.000 ₺ |\n\nBuna göre firmanın 'Özkaynak Çarpanı' kaçtır?",
+    "options": [
+      "A) 1,33",
+      "B) 2,50",
+      "C) 3,00",
+      "D) 4,00",
+      "E) 5,00"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin finansal verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönen Varlıklar | 600.000 ₺ |\n| Stoklar | 250.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar | 350.000 ₺ |\n\nBuna göre işletmenin 'Asit-Test (Likidite) Oranı' tam olarak kaçtır?",
+    "options": [
+      "A) 1,00",
+      "B) 1,20",
+      "C) 1,50",
+      "D) 1,71",
+      "E) 2,00"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir işletmenin nakit akım tablosu verileri şöyledir:\n\n| Hesaplar / Değişimler | Tutar |\n| :--- | :--- |\n| Dönem Net Kârı | 80.000 ₺ |\n| Amortisman Giderleri | 20.000 ₺ |\n| Duran Varlık Satış Zararı | 5.000 ₺ |\n| Ticari Alacaklardaki Artış | 10.000 ₺ |\n| Stoklardaki Azalış | 4.000 ₺ |\n\nBu verilere göre işletmenin 'İşletme Faaliyetlerinden Sağlanan Net Nakit Akışı' kaç ₺'dir?",
+    "options": [
+      "A) 89.000 ₺",
+      "B) 99.000 ₺",
+      "C) 79.000 ₺",
+      "D) 105.000 ₺",
+      "E) 85.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dikey yüzde analizi (Common-Size) ile bilanço analizi yaparken, her bir varlık kaleminin dikey yüzdesini bulmak için baz alınan tutar aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Net Satışlar",
+      "B) Özkaynaklar Toplamı",
+      "C) Dönen Varlıklar Toplamı",
+      "D) Aktif (Varlıklar) Toplamı",
+      "E) Kısa Vadeli Yabancı Kaynaklar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin 'Ticari Borç Devir Hızı'nın yıllar itibarıyla 5,0'dan 2,0'ye düşmesi finansal yönetim açısından aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "A) İşletmenin borçlarını daha hızlı ödemeye başladığını",
+      "B) İşletmenin borç ödeme süresinin uzadığını (tedarikçi finansmanının arttığını)",
+      "C) İşletmenin likidite durumunun çok güçlendiğini",
+      "D) Satışların maliyetinin olağanüstü azaldığını",
+      "E) Firmanın ticari borçlarının tamamen kapandığını"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin net satış verileri aşağıdaki gibidir:\n\n| Yıl | Net Satışlar |\n| :--- | :--- |\n| 2023 | 1.500.000 ₺ |\n| 2024 | 1.800.000 ₺ |\n\nYatay (Karşılaştırmalı) analize göre 2024 yılı için Net Satışlardaki 'Eğilim Yüzdesi' (Trend Yüzdesi) kaçtır? (2023 yılı baz = 100)",
+    "options": [
+      "A) %110",
+      "B) %120",
+      "C) %125",
+      "D) %130",
+      "E) %140"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin bilanço verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Aktif Toplamı | 1.200.000 ₺ |\n| Dönen Varlıklar | 600.000 ₺ |\n| Duran Varlıklar | 600.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar | 300.000 ₺ |\n| Uzun Vadeli Yabancı Kaynaklar | 400.000 ₺ |\n\nBuna göre işletmenin 'Devamlı Sermaye Oranı' yüzde kaçtır?",
+    "options": [
+      "A) %30",
+      "B) %45",
+      "C) %55",
+      "D) %65",
+      "E) %75"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Nakit Döngüsü (Faaliyet Döngüsü) analizi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Stok devir süresinin kısalması nakit döngüsünü kısaltır.",
+      "B) Ticari alacak tahsil süresinin uzaması nakit döngüsünü uzatır.",
+      "C) Ticari borç ödeme süresinin uzaması nakit döngüsünü uzatır.",
+      "D) İşletmenin faaliyetlerini tedarikçileri aracılığıyla finanse etmesi nakit döngüsünü kısaltır.",
+      "E) Nakit döngüsünün negatif çıkması, işletmenin finansal açıdan güçlü bir tedarikçi finansmanı kullandığını gösterir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir firmanın ilgili dönem verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Brüt Satış Kârı | 400.000 ₺ |\n| Net Satışlar | 1.600.000 ₺ |\n\nFirmanın 'Brüt Satış Kâr Marjı' yüzde kaçtır?",
+    "options": [
+      "A) %10",
+      "B) %15",
+      "C) %20",
+      "D) %25",
+      "E) %40"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "DuPont Analizine göre 'Özkaynak Çarpanı' (Kaldıraç Çarpanı) 2,5 olan bir işletmede, varlıkların ne kadarlık kısmı borçlarla (yabancı kaynaklarla) finanse edilmektedir?",
+    "options": [
+      "A) %40",
+      "B) %50",
+      "C) %60",
+      "D) %75",
+      "E) %80"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin finansal verileri şöyledir:\n\n| Kalemler | Değer |\n| :--- | :--- |\n| Dönem Net Kârı | 150.000 ₺ |\n| Ödenmiş Sermaye | 500.000 ₺ |\n| Dağıtılacak Kâr Payı Oranı | %40 |\n\nBuna göre firmanın 'Hisse Başına Kâr' (HBK) değil, dağıtılacak 'Hisse Başına Temettü' (hisse adedinin sermaye tutarına eşit olduğu varsayımıyla) kaç ₺'dir?",
+    "options": [
+      "A) 0,10 ₺",
+      "B) 0,12 ₺",
+      "C) 0,15 ₺",
+      "D) 0,20 ₺",
+      "E) 0,30 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Finansal tablolar analizinde 'Stok Bağımlılık Oranı' (Stoklar / Net İşletme Sermayesi) 1'den büyük olan (örneğin 1,5 olan) bir işletme için ne söylenebilir?",
+    "options": [
+      "A) İşletme tamamen nakit odaklı çalışmaktadır.",
+      "B) İşletmenin likidite riski oldukça yüksektir, çünkü net işletme sermayesi stokların tamamını bile karşılamaya yetmemektedir.",
+      "C) İşletmenin stok devir hızı sektör ortalamasının çok üzerindedir.",
+      "D) İşletmenin kısa vadeli borç ödeme gücü mükemmeldir.",
+      "E) İşletme sadece sipariş üzerine üretim yapmaktadır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nakit Akım Tablosu hazırlanırken 'Satışların Maliyeti' üzerinden nakit çıkışına ulaşmak için;<br>I. Stoklardaki azalışlar toplanır.<br>II. Ticari borçlardaki azalışlar toplanır.<br>III. Ticari borçlardaki artışlar çıkartılır.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir firmanın rasyo değerleri şöyledir:\n\n| Rasyolar | Değer |\n| :--- | :--- |\n| Cari Oran | 1,2 |\n| Likidite (Asit-Test) Oranı | 0,5 |\n\nBu firmanın stoklarının toplam dönen varlıklar içindeki payı (dikey yüzdesi) yaklaşık yüzde kaçtır?",
+    "options": [
+      "A) %40",
+      "B) %50",
+      "C) %58",
+      "D) %60",
+      "E) %70"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Finansal analizde kullanılan 'Verimlilik Rasyoları' arasında aşağıdakilerden hangisi yer almaz?",
+    "options": [
+      "A) Stok Devir Hızı",
+      "B) Ticari Alacak Devir Hızı",
+      "C) Aktif Devir Hızı",
+      "D) Nakit Oranı",
+      "E) Ticari Borç Devir Hızı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin karşılaştırmalı verileri aşağıdaki gibidir:\n\n| Hesaplar | 2023 Yılı | 2024 Yılı |\n| :--- | :--- | :--- |\n| Aktif Toplamı | 1.000.000 ₺ | 1.500.000 ₺ |\n| Net Satışlar | 2.000.000 ₺ | 2.700.000 ₺ |\n\nBuna göre işletmenin 'Aktif Devir Hızı' 2023'ten 2024'e nasıl bir değişim göstermiştir?",
+    "options": [
+      "A) 2,0'dan 1,8'e düşmüştür.",
+      "B) 2,0'dan 2,2'ye yükselmiştir.",
+      "C) 1,5'ten 2,0'a yükselmiştir.",
+      "D) 2,0'dan 1,5'e düşmüştür.",
+      "E) Sabit kalmıştır."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir işletmenin ilgili döneme ait stok verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönem Başı Stoklar | 200.000 ₺ |\n| Dönem Sonu Stoklar | 300.000 ₺ |\n| Satışların Maliyeti | 1.000.000 ₺ |\n\nİşletmenin stokta kalma süresi kaç gündür? (1 yıl = 360 gün)",
+    "options": [
+      "A) 60 gün",
+      "B) 72 gün",
+      "C) 90 gün",
+      "D) 100 gün",
+      "E) 120 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin yıllar itibarıyla gelir tablosu eğilim (trend) yüzdeleri incelendiğinde, Net Satışlar eğilim yüzdesinin %153,54, Satışların Maliyeti eğilim yüzdesinin ise %140,00 olduğu görülmüştür.<br><br>Diğer şartlar sabitken, bu durum işletmenin finansal performansı hakkında aşağıdakilerden hangisini ifade eder?",
+    "options": [
+      "A) Brüt satış kâr marjının daraldığını",
+      "B) Faaliyet giderlerinin oransal olarak azaldığını",
+      "C) Satışların kârlılığında (brüt kâr marjında) artış olduğunu",
+      "D) Stok devir hızının yavaşladığını",
+      "E) Zarar edildiğini"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin Dolaylı Yöntemle Nakit Akım Tablosu hazırlanmaktadır. İlgili döneme ait veriler aşağıdaki gibidir:\n\n| Hesaplar / Değişimler | Tutar |\n| :--- | :--- |\n| Dönem Net Kârı | 190.000 ₺ |\n| Amortisman Giderleri | 100.000 ₺ |\n| Ticari Alacaklardaki Artış | 50.000 ₺ |\n| Ticari Borçlardaki Artış | 30.000 ₺ |\n\nBu verilere göre işletmenin 'İşletme Faaliyetlerinden Sağlanan Net Nakit Akışı' kaç ₺'dir?",
+    "options": [
+      "A) 370.000 ₺",
+      "B) 270.000 ₺",
+      "C) 170.000 ₺",
+      "D) 210.000 ₺",
+      "E) 240.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin gelir tablosu verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 2.474.392 ₺ |\n| Satışların Maliyeti | 2.060.392 ₺ |\n\nDikey yüzde (common-size) analiz yöntemine göre, Satışların Maliyeti kaleminin dikey yüzdesi yaklaşık olarak kaçtır?",
+    "options": [
+      "A) %16,73",
+      "B) %83,27",
+      "C) %100,00",
+      "D) %20,00",
+      "E) %45,50"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin 2018 yılı baz alınarak hazırlanan 2021 yılı trend (eğilim) yüzdeleri şöyledir:\n\n| Hesaplar | 2018 (Baz Yıl) Tutarı | 2021 Eğilim Yüzdesi |\n| :--- | :--- | :--- |\n| Net Satışlar | 800.000 ₺ | %180 |\n| Ticari Alacaklar | 120.000 ₺ | %170 |\n\nBu verilere göre işletmenin 2021 yılı 'Ticari Alacak Devir Hızı' kaçtır?",
+    "options": [
+      "A) 7,06",
+      "B) 6,67",
+      "C) 8,00",
+      "D) 5,50",
+      "E) 9,20"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir işletmenin finansal verileri şöyledir:\n\n| Rasyolar / Hesaplar | Değer |\n| :--- | :--- |\n| Cari Oran | 1,60 |\n| Likidite (Asit-Test) Oranı | 1,00 |\n| Kısa Vadeli Yabancı Kaynaklar | 500.000 ₺ |\n\nBuna göre işletmenin 'Stoklar' kaleminin değeri kaç ₺'dir?",
+    "options": [
+      "A) 300.000 ₺",
+      "B) 500.000 ₺",
+      "C) 800.000 ₺",
+      "D) 200.000 ₺",
+      "E) 150.000 ₺"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DuPont Analiz Sistemine göre bir işletmenin Özkaynak Kârlılığı; Net Kâr Marjı, Aktif Devir Hızı ve Kaldıraç (Özkaynak) Çarpanının çarpımıyla bulunur. İşletmenin finansal rasyoları şöyledir:\n\n| Rasyolar | Değer |\n| :--- | :--- |\n| Net Kâr Marjı | %8 |\n| Varlık (Aktif) Devir Hızı | 1,50 |\n| Kaldıraç (Toplam Borç) Oranı | %60 |\n\nBu verilere göre işletmenin 'Özkaynak Kârlılığı' yüzde kaçtır?",
+    "options": [
+      "A) %12",
+      "B) %15",
+      "C) %20",
+      "D) %30",
+      "E) %40"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Finansal analizde Ticari Alacak Devir Hızı ve Tahsil Süresi hesaplanırken;<br>I. Şüpheli ticari alacaklar ve bunlara ayrılan karşılıklar formüle dahil edilmeden ticari alacakların net değeri üzerinden hesaplama yapıldığında alacak tahsil süresi uzar.<br>II. Şüpheli ticari alacaklar ve bunlara ayrılan karşılıklar dikkate alınmadan alacakların brüt değeri üzerinden hesaplama yapıldığında alacak tahsil süresi kısalır.<br>III. Alacak devir hızı hesaplanırken kural olarak formülün pay kısmında Net Satışlar yer alır.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız III",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir üretim işletmesinin stok verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Satışların Maliyeti | 1.232.000 ₺ |\n| Dönem Başı Stoklar | 528.000 ₺ |\n| Dönem Sonu Stoklar | 704.000 ₺ |\n\nBuna göre işletmenin 'Stok Devir Hızı' kaçtır?",
+    "options": [
+      "A) 1,75",
+      "B) 2,00",
+      "C) 2,33",
+      "D) 2,50",
+      "E) 3,00"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin bilanço verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Aktif Toplamı | 2.288.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar | 1.144.000 ₺ |\n| Uzun Vadeli Yabancı Kaynaklar | 528.000 ₺ |\n\nBuna göre işletmenin 'Kaldıraç Oranı' (Finansal Kaldıraç) yaklaşık olarak yüzde kaçtır?",
+    "options": [
+      "A) %50,00",
+      "B) %60,45",
+      "C) %73,08",
+      "D) %26,92",
+      "E) %80,50"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mali analizi yapılan bir firmanın gelir tablosunda yer alan kambiyo kâr ve zararları ile ilgili olarak;<br>I. Kambiyo kârlarının net satışlardan düşülmesi ve kambiyo zararlarının eklenmesiyle firmanın kur etkisinden arındırılmış net satış tutarına ulaşılır.<br>II. Kur değerlemeleri ile oluşan kambiyo kâr veya zararı, firmanın 'Brüt Satış Kârı' kalemi içerisinde yer almaz, diğer faaliyetlerden olağan gelir/giderler kısmında raporlanır.<br>III. Kambiyo zararlarının artması firmanın faaliyet kârını doğrudan azaltır.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Nakit Döngüsü (Faaliyet Döngüsü) analizi ile ilgili olarak;<br>I. Stokların depoda bekleme (devir) süresinin kısalması, nakit döngüsünü kısaltır.<br>II. Müşterilere tanınan vade süresinin (alacak tahsil süresinin) uzaması, nakit döngüsünü uzatır.<br>III. Tedarikçilere yapılacak ödemelerin vadesinin (borç ödeme süresinin) uzaması, nakit döngüsünü kısaltır.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir firmanın bilançosunda yer alan değerler şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönen Varlıklar | 1.760.000 ₺ |\n| Kısa Vadeli Yabancı Kaynaklar | 1.144.000 ₺ |\n| Özkaynaklar | 616.000 ₺ |\n\nBuna göre firmanın 'Net İşletme Sermayesi' (NİS) kaç ₺'dir?",
+    "options": [
+      "A) 528.000 ₺",
+      "B) 616.000 ₺",
+      "C) 1.144.000 ₺",
+      "D) 1.760.000 ₺",
+      "E) 2.904.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Karşılaştırmalı mali tabloların yatay (eğilim) analizi sonuçlarına göre, bir işletmenin Aktif Toplamındaki artış oranının, Net Satışlarındaki artış oranından çok daha yüksek olduğu görülmüştür.<br><br>Diğer şartlar sabitken, bu durum işletmenin varlık yönetimi hakkında neyi ifade eder?",
+    "options": [
+      "A) Varlıkların (aktiflerin) verimli kullanıldığını ve devir hızının arttığını",
+      "B) Duran varlık yatırımlarının tamamen durdurulduğunu",
+      "C) Varlıkların atıl kaldığını ve varlık devir hızının (verimliliğinin) düştüğünü",
+      "D) Kısa vadeli borç ödeme gücünün zayıfladığını",
+      "E) Firmanın tamamen özkaynakla finanse edildiğini"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletmenin gelir tablosundaki verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Faaliyet Kârı (FVÖK) | 152.924 ₺ |\n| Finansman Giderleri | 85.907 ₺ |\n\nBuna göre işletmenin 'Faiz (Finansman Giderini) Karşılama Oranı' yaklaşık olarak kaçtır?",
+    "options": [
+      "A) 1,50",
+      "B) 1,78",
+      "C) 2,10",
+      "D) 0,56",
+      "E) 2,55"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mali tabloların Dikey Yüzde (Common-Size) yöntemiyle analizi hakkında;<br>I. Bilanço kalemleri analiz edilirken kural olarak Aktif Toplamı ve Pasif Toplamı baz (100) kabul edilir.<br>II. Gelir tablosu kalemleri analiz edilirken kural olarak Net Satışlar baz (100) kabul edilir.<br>III. Dikey yüzde analizi sadece tek bir döneme ait mali tablolar üzerinden yapılabilir, yıllar arası karşılaştırma yapmaya imkan vermez.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dikey yüzde (common-size) analizi yöntemiyle bir bilançonun incelenmesinde; bir bilânço kaleminin oransal büyüklüğü hesaplanırken aktif ve pasif toplamları yerine doğrudan 'ana hesap grupları' da baz (100) alınabilmektedir.<br><br>Bu yaklaşımla, pasif tablosunda yer alan 'Satıcılar' hesabının dikey yüzdesi, (Satıcılar / Kısa Vadeli Yabancı Kaynaklar) x 100 formülüyle hesaplandığında elde edilen sonuç finansal analiz açısından neyi ifade eder?",
+    "options": [
+      "A) Satıcılar hesabının işletmenin toplam varlıkları içindeki payını",
+      "B) Satıcılar hesabının işletmenin sadece dönen varlıklarına oranını",
+      "C) Satıcılar hesabının ait olduğu ana grup (Kısa Vadeli Yabancı Kaynaklar) içindeki ağırlığını (payını)",
+      "D) İşletmenin satıcılara olan borçlarını ödeme hızını",
+      "E) İşletmenin kendi özkaynaklarıyla finansman yaratma gücünü"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Karşılaştırmalı mali tablolar analizinde (Yatay Analiz), bir işletmenin verileri aşağıdaki gibidir:\n\n| Hesaplar | 2022 Yılı | 2023 Yılı |\n| :--- | :--- | :--- |\n| Faaliyet Kârı | 28.770 ₺ | 78.470 ₺ |\n\nBuna göre Faaliyet Kârı kalemindeki yüzdesel değişim (artış oranı) yaklaşık olarak kaçtır?",
+    "options": [
+      "A) %50,00",
+      "B) %100,00",
+      "C) %172,75",
+      "D) %272,75",
+      "E) %72,75"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin nakit döngüsü (faaliyet döngüsü) süresini kısaltmak (iyileştirmek) isteyen bir finans yöneticisinin alması gereken aksiyonlardan hangisi yanlıştır?",
+    "options": [
+      "A) Ticari alacakların tahsilatını hızlandırmak.",
+      "B) Stokların depoda bekleme (devir) süresini azaltmak.",
+      "C) Tedarikçilerden (satıcılardan) alınan hammadde vadelerini uzatmak.",
+      "D) Müşterilere tanınan vadeyi (tahsilat süresini) uzatmak.",
+      "E) Stok devir hızını artırmak."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Eğilim yüzdeleri (Trend) analizine göre; bir işletmenin baz yıla oranla Ticari Alacaklarındaki artış hızının, Net Satışlarındaki artış hızından önemli ölçüde yüksek olması aşağıdaki durumlardan hangisiyle açıklanabilir?",
+    "options": [
+      "A) Peşin satışların toplam satışlar içindeki payının artması",
+      "B) Alacakların tahsilat süresinin kısalması ve likiditenin güçlenmesi",
+      "C) Kredili (vadeli) satışlarda müşterilere tanınan vadenin uzatılması veya tahsilat güçlükleri yaşanması",
+      "D) Şüpheli alacak karşılıklarının tamamen iptal edilmesi",
+      "E) Satışların kârlılık oranının hızla yükselmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Nakit Akım Tablosu hazırlanırken, işletmenin faaliyetlerinden kaynaklanan 'Gerçek Nakit Çıkışlarını' hesaplamak amacıyla Gelir Tablosundaki 'Satışların Maliyeti' rakamına çeşitli bilanço düzeltmeleri yapılır.<br><br>Buna göre, aşağıdaki hesap kalemlerinden hangisindeki 'artış', işletmeden doğrudan bir nakit çıkışı sağlamadığı (ödemeyi ertelediği) için Satışların Maliyetinden düşülerek (çıkarılarak) dikkate alınır?",
+    "options": [
+      "A) Ticari Alacaklardaki artış",
+      "B) Stoklardaki artış",
+      "C) Hazır Değerlerdeki artış",
+      "D) Ticari Borçlardaki (alımlardan kaynaklanan) artış",
+      "E) Gelecek aylara ait giderlerdeki artış"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Mali yapısı analiz edilen bir firmanın 'Devamlı Sermaye Oranı' %60 olarak hesaplanmıştır. Firmanın Pasif Toplamı (Kaynaklar Toplamı) 500.000 ₺ olduğuna göre, Kısa Vadeli Yabancı Kaynakları kaç ₺'dir?",
+    "options": [
+      "A) 100.000 ₺",
+      "B) 150.000 ₺",
+      "C) 200.000 ₺",
+      "D) 300.000 ₺",
+      "E) 400.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin finansal verileri şöyledir:\n\n| Rasyolar / Hesaplar | Değer |\n| :--- | :--- |\n| Finansal Kaldıraç Oranı | %75 |\n| Aktif Toplamı | 800.000 ₺ |\n\nBuna göre firmanın 'Özkaynaklar' tutarı kaç ₺'dir?",
+    "options": [
+      "A) 100.000 ₺",
+      "B) 150.000 ₺",
+      "C) 200.000 ₺",
+      "D) 400.000 ₺",
+      "E) 600.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Finansal tablolar analizinde, 'Kur değerlemeleri ile oluşan kambiyo kâr ve zararlarının işletme kârlılığına olan etkisini' arındırmak (Kur Etkisinden Arındırılmış Net Kârlılığı bulmak) isteyen bir analistin izlemesi gereken matematiksel yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Faaliyet Kârını doğrudan Aktif Toplamına bölmek.",
+      "B) Brüt Satış Kârından Finansman Giderlerini çıkarmak.",
+      "C) Finansman Giderlerini Net Satışlara bölmek.",
+      "D) Dönem Net Kârından 'Net Kambiyo Kârını' (veya zararını) arındırarak elde edilen düzeltilmiş kârı Net Satışlara bölmek.",
+      "E) Özkaynakları Vergi Öncesi Kâra bölmek."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin ilgili döneme ait verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 363.900 ₺ |\n| Dönem Başı Ticari Alacaklar | 111.000 ₺ |\n| Dönem Sonu Ticari Alacaklar | 143.000 ₺ |\n\nDiğer şartlar sabitken, bu işletmenin (ortalama ticari alacaklar üzerinden hesaplanan) 'Ticari Alacak Devir Hızı' yaklaşık kaçtır?",
+    "options": [
+      "A) 1,95",
+      "B) 2,54",
+      "C) 2,87",
+      "D) 3,27",
+      "E) 4,10"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Likidite (Asit-Test) Oranı, Cari Orana göre işletmenin kısa vadeli borç ödeme gücünü daha hassas ölçen bir rasyodur.<br><br>Asit-Test oranı hesaplanırken, kural olarak Dönen Varlıklar toplamından aşağıdaki kalemlerden hangisinin (veya hangilerinin) kesinlikle düşülmesi (formülden çıkarılması) gerekir?",
+    "options": [
+      "A) Kasa ve Bankalar",
+      "B) Hazır Değerler ve Menkul Kıymetler",
+      "C) Yalnızca Ticari Alacaklar",
+      "D) Alacak Senetleri",
+      "E) Stoklar (ve likiditesi düşük olan Diğer Dönen Varlıklar)"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir işletmenin üretim verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Satışların Maliyeti | 290.000 ₺ |\n| Ortalama Stoklar | 222.000 ₺ |\n\n1 yılın 365 gün olarak kabul edildiği varsayımıyla, bu işletmenin malları depoya girmesiyle satılması arasında geçen ortalama süre (Stok Devir Süresi) yaklaşık kaç gündür?",
+    "options": [
+      "A) 60 gün",
+      "B) 120 gün",
+      "C) 150 gün",
+      "D) 279 gün",
+      "E) 320 gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin finansal verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Net Satışlar | 2.500.000 ₺ |\n| Aktif Toplamı | 1.000.000 ₺ |\n| Dönen Varlıklar Toplamı | 600.000 ₺ |\n\nBu verilere göre işletmenin 'Duran Varlık Devir Hızı' kaçtır?",
+    "options": [
+      "A) 2,50",
+      "B) 4,16",
+      "C) 6,25",
+      "D) 8,00",
+      "E) 10,00"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Finansal oranların analizi ve yorumlanması ile ilgili olarak;<br>I. Faiz Karşılama Oranının 1'den küçük çıkması, işletmenin asıl faaliyetlerinden elde ettiği kârın mevcut borçlarının faiz yükünü karşılamaya yetmediğini gösterir.<br>II. Stok Bağımlılık Oranının 1'den büyük çıkması, firmanın kısa vadeli borçlarını ödeyebilmek için kesinlikle stoklarının bir kısmını satmak zorunda olduğunu ifade eder.<br>III. Cari Oranın 1,50 ve Asit-Test Oranının 0,50 olması, işletmenin dönen varlıkları içinde stokların ağırlığının (payının) çok düşük olduğunu gösterir.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) Yalnız II",
+      "C) I ve II",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "DuPont Analiz sisteminde kullanılan 'Özkaynak Çarpanı' (Kaldıraç Çarpanı), işletmenin toplam varlıklarının ne kadarlık kısmının özkaynakların bir katı olduğunu gösterir.<br><br>Buna göre, 'Özkaynak Çarpanı'nın değeri 4,00 olan bir anonim şirketin, varlıklarının (aktif toplamının) yüzde kaçı 'Yabancı Kaynaklarla' (borçlarla) finanse edilmektedir?",
+    "options": [
+      "A) %25",
+      "B) %40",
+      "C) %50",
+      "D) %60",
+      "E) %75"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Borsada işlem gören bir anonim şirketin mali döneme ait verileri şöyledir:\n\n| Hesaplar / Bilgiler | Tutar / Adet |\n| :--- | :--- |\n| Dönem Net Kârı | 126.000 ₺ |\n| Ödenmiş Sermaye | 630.000 ₺ |\n| Pay Senedi İtibari (Nominal) Değeri | 1 ₺ |\n| İhraç Edilmiş Pay Senedi Adedi | 630.000 Adet |\n\nŞirketin imtiyazlı payı bulunmadığına göre 'Hisse Başına Kazanç (HBK)' tutarı kaç ₺'dir?",
+    "options": [
+      "A) 0,10 ₺",
+      "B) 0,20 ₺",
+      "C) 0,25 ₺",
+      "D) 0,50 ₺",
+      "E) 5,00 ₺"
+    ],
+    "answer": 1
+  }
+ ]
+} 

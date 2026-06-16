@@ -2876,6 +2876,1328 @@
     ],
     "answer": 1
   }
-]
+ ],
+ "Maliyet Muhasebesi Denemesi (Çıkmış Sorular Klasik)": [
+  {
+    "q": "Bir üretim işletmesinde 'Fabrika Binası Amortismanı' giderinin üretim ve hizmet gider yerlerine birinci dağıtımında aşağıdaki dağıtım anahtarlarından hangisinin kullanılması en uygundur?",
+    "options": [
+      "A) Direkt işçilik saatleri (DİS)",
+      "B) Makine saatleri",
+      "C) Gider yerlerinin kapladığı alan (m²)",
+      "D) Harcanan elektrik enerjisi (kW/saat)",
+      "E) Tüketilen ilk madde ve malzeme miktarı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "X İşletmesinde gerçekleşen 400.000 ₺ tutarındaki 'Fabrika Binası Amortismanı' gideri, gider yerlerinin kapladığı alan (m²) esasına göre dağıtılacaktır. Gider yerlerinin m² bilgileri şöyledir:\n\n| Gider Yeri | Alan (m²) |\n| :--- | :--- |\n| Esas Üretim Yeri A | 80 |\n| Esas Üretim Yeri B | 70 |\n| Yardımcı Hizmet Yeri I | 30 |\n| Yardımcı Hizmet Yeri II | 20 |\n\nBuna göre Esas Üretim Yeri A'ya birinci dağıtımda yüklenecek amortisman payı kaç ₺'dir?",
+    "options": [
+      "A) 60.000 ₺",
+      "B) 140.000 ₺",
+      "C) 160.000 ₺",
+      "D) 180.000 ₺",
+      "E) 200.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Safha maliyet sistemini ve Ortalama Maliyet Yöntemini uygulayan bir işletmenin ilgili aydaki üretim verileri şöyledir:\n\n| Üretim Verileri | Miktar (Adet) |\n| :--- | :--- |\n| Dönem Başı Yarı Mamul | 2.000 |\n| Dönem İçinde Üretime Başlanan | 8.000 |\n| Tamamlanıp Devredilen | 7.000 |\n| Dönem Sonu Yarı Mamul | 3.000 |\n\nDönem sonu yarı mamullerin tamamlanma derecesi Direkt İlk Madde ve Malzeme (DİMM) açısından %100, Şekillendirme giderleri açısından %60'tır.<br><br>Buna göre Şekillendirme giderleri açısından 'Eşdeğer Mamul Miktarı' kaç adettir?",
+    "options": [
+      "A) 7.000",
+      "B) 8.800",
+      "C) 9.000",
+      "D) 10.000",
+      "E) 10.800"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Soru 3'teki üretim verileri geçerliyken, işletme Ortalama Maliyet yerine FİFO (İlk Giren İlk Çıkar) yöntemini kullansaydı ve Dönem Başı Yarı Mamullerin önceki dönemdeki tamamlanma derecesi Şekillendirme giderleri açısından %40 olsaydı, bu dönemin Şekillendirme giderleri açısından Eşdeğer Mamul Miktarı kaç adet olurdu?",
+    "options": [
+      "A) 7.200",
+      "B) 7.800",
+      "C) 8.000",
+      "D) 8.800",
+      "E) 9.000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Safha maliyet sisteminde Ortalama Maliyet Yöntemini kullanan bir işletmenin DİMM (Direkt İlk Madde ve Malzeme) maliyet verileri aşağıdaki gibidir:\n\n| Maliyet Kalemi | Tutar |\n| :--- | :--- |\n| Dönem Başı Yarı Mamullerin DİMM Maliyeti | 50.000 ₺ |\n| Dönem İçi DİMM Harcamaları | 350.000 ₺ |\n\nDİMM açısından hesaplanan Eşdeğer Mamul Miktarı 10.000 adet olduğuna göre, DİMM'in 'Eşdeğer Mamul Birim Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 35 ₺",
+      "B) 40 ₺",
+      "C) 45 ₺",
+      "D) 50 ₺",
+      "E) 60 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sipariş maliyet sistemini uygulayan bir işletmede, belirli bir parti mamulün üretimi için katlanılan direkt ilk madde ve malzeme giderleri ile direkt işçilik giderleri doğrudan ilgili siparişin maliyet kartına yüklenirken; Genel Üretim Giderleri (GÜG) siparişlere nasıl yüklenir?",
+    "options": [
+      "A) Doğrudan gerçekleştiği fiili tutar üzerinden eşit olarak dağıtılır.",
+      "B) GÜG'ler sipariş maliyetlerine dahil edilmez, doğrudan dönem gideri yazılır.",
+      "C) Önceden saptanmış (tahmini) GÜG yükleme oranları kullanılarak yüklenir.",
+      "D) Yalnızca dönem sonunda, satılan siparişlerin maliyetine eklenir.",
+      "E) Sadece direkt işçilik saatlerine eşit bölünerek aktarılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir üretim işletmesinde, döneme ilişkin 'Önceden Saptanmış GÜG Yükleme Oranı', 1 Direkt İşçilik Saati (DİS) için 50 ₺ olarak belirlenmiştir. Dönem içinde fiili olarak 4.000 DİS çalışılmış ve fiili GÜG tutarı 210.000 ₺ olarak gerçekleşmiştir.<br><br>Bu bilgilere göre işletmenin GÜG sapması hangi yönde ve ne kadardır?",
+    "options": [
+      "A) 10.000 ₺ Fazla Yükleme",
+      "B) 10.000 ₺ Eksik Yükleme",
+      "C) 15.000 ₺ Eksik Yükleme",
+      "D) 20.000 ₺ Fazla Yükleme",
+      "E) Sapma yoktur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinden çıkan A ve B ana mamullerine ilişkin veriler şöyledir:\n\n| Mamul | Üretim Miktarı (Adet) |\n| :--- | :--- |\n| A Mamulü | 6.000 |\n| B Mamulü | 4.000 |\n\nAyrım noktasına kadar katlanılan ortak üretim maliyeti 500.000 ₺'dir. İşletme ortak maliyetleri dağıtırken 'Fiziksel Miktarlar Yöntemini' kullandığına göre, B mamulüne yüklenecek ortak maliyet payı kaç ₺'dir?",
+    "options": [
+      "A) 150.000 ₺",
+      "B) 200.000 ₺",
+      "C) 250.000 ₺",
+      "D) 300.000 ₺",
+      "E) 350.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinden çıkan ve ayrım noktasından sonra ek işlem görerek satılan mamullerin ortak maliyetlerden alacakları pay hesaplanırken 'Net Gerçekleşebilir Değer Yöntemi' kullanılmaktadır.<br><br>Bu yöntemde bir mamulün net gerçekleşebilir değeri (veya farazi satış değeri) matematiksel olarak nasıl bulunur?",
+    "options": [
+      "A) Mamulün nihai (son) satış değerinden, ayrım noktasından sonra katlanılan ek maliyetlerin çıkarılmasıyla",
+      "B) Mamulün nihai satış değerine, ortak maliyetlerin eklenmesiyle",
+      "C) Üretim miktarı ile birim başı ortak maliyetin çarpılmasıyla",
+      "D) Mamulün nihai satış değerinden, brüt satış kârının çıkarılmasıyla",
+      "E) Ek üretim maliyetlerine genel üretim giderlerinin eklenmesiyle"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Safha maliyet sistemini uygulayan bir işletmede, üretim sürecinde (fire ve bozuk mamul) meydana gelmiştir.<br><br>Bu firenin olağan (normal) kabul edilen sınırların üstünde kalan 'anormal' kısmı için muhasebe açısından nasıl bir işlem yapılır?",
+    "options": [
+      "A) Tamamı sağlam mamullerin maliyetine yüklenir.",
+      "B) Dönem sonu yarı mamullerin maliyetine ilave edilir.",
+      "C) Anormal firenin maliyeti doğrudan '689 Diğer Olağandışı Gider ve Zararlar' hesabına aktarılarak dönem gideri yazılır.",
+      "D) Bir sonraki dönemin üretim maliyetine devredilir.",
+      "E) Satılan mamullerin maliyetine eklenerek brüt kâr düşürülür."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Standart Maliyet Sisteminde, 'Direkt İlk Madde ve Malzeme Fiyat Sapması' hesaplanırken kullanılan formül aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) (Fiili Fiyat - Standart Fiyat) x Standart Miktar",
+      "B) (Fiili Fiyat - Standart Fiyat) x Fiili Miktar",
+      "C) (Fiili Miktar - Standart Miktar) x Standart Fiyat",
+      "D) (Fiili Miktar - Standart Miktar) x Fiili Fiyat",
+      "E) (Standart Fiyat / Fiili Fiyat) x Fiili Miktar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir mamulün üretimi için belirlenen standart DİMM miktarı 5 kg ve standart DİMM birim fiyatı 10 ₺/kg'dır. İşletme ilgili dönemde söz konusu mamulden 1.000 adet üretmiş ve toplam 5.200 kg DİMM kullanmıştır.<br><br>Bu bilgilere göre DİMM 'Miktar (Kullanım) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 2.000 ₺ Olumlu (Kârına)",
+      "B) 2.000 ₺ Olumsuz (Zararına)",
+      "C) 5.000 ₺ Olumsuz (Zararına)",
+      "D) 10.000 ₺ Olumlu (Kârına)",
+      "E) 50.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletmenin katlandığı bir üretim maliyet kalemi; üretim miktarı sıfır olsa dahi belirli bir sabit tutarda gerçekleşmekte, üretim miktarı arttıkça ise toplam tutarı (doğrusal olarak) artmaya devam etmektedir.<br><br>Bu tür giderlerin maliyet muhasebesindeki sınıflandırması aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Tam Sabit Giderler",
+      "B) Tam Değişken Giderler",
+      "C) Yarı Değişken (Karma) Giderler",
+      "D) Basamaklı (Sıçramalı) Giderler",
+      "E) Kontrol Edilemeyen Giderler"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Üretim işletmelerinde, yardımcı hizmet gider yerlerinde toplanan giderlerin, esas üretim gider yerlerine dağıtıldığı aşamaya 'İkinci Dağıtım' denir.<br><br>İkinci dağıtımda, yardımcı hizmet gider yerlerinin sadece esas üretim yerlerine dağıtıldığı ve birbirlerine sundukları hizmetleri kesinlikle dikkate almadığı (yok saydığı) dağıtım yöntemi aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Kademeli Dağıtım Yöntemi",
+      "B) Matematiksel Dağıtım Yöntemi",
+      "C) Doğrudan (Basit) Dağıtım Yöntemi",
+      "D) Planlı Dağıtım Yöntemi",
+      "E) Çifte Dağıtım Yöntemi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir üretim işletmesinin ilgili aya ait verileri aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Direkt İlk Madde ve Malzeme Giderleri | 150.000 ₺ |\n| Direkt İşçilik Giderleri | 100.000 ₺ |\n| Genel Üretim Giderleri | 50.000 ₺ |\n| Dönem Başı Yarı Mamul Stoku | 40.000 ₺ |\n| Dönem Sonu Yarı Mamul Stoku | 20.000 ₺ |\n\nBuna göre, işletmenin o aya ait 'Üretilen Mamul Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 280.000 ₺",
+      "B) 300.000 ₺",
+      "C) 320.000 ₺",
+      "D) 340.000 ₺",
+      "E) 360.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Üretim işletmelerinde, yardımcı hizmet gider yerlerinde toplanan maliyetlerin diğer hizmet ve esas üretim gider yerlerine dağıtıldığı 'İkinci Dağıtım' evresinde, Kademeli Dağıtım Yöntemi kullanılıyorsa aşağıdaki temel kuraldan hangisi uygulanır?",
+    "options": [
+      "A) Dağıtıma en az hizmet veren (veya gideri en az olan) gider yerinden başlanır ve bu yere bir daha pay verilmez.",
+      "B) Yardımcı gider yerleri sadece esas üretim yerlerine dağıtılır, birbirlerine sundukları hizmetler tamamen yok sayılır.",
+      "C) Karşılıklı hizmet sunumları matematiksel denklemler yardımıyla tam olarak dikkate alınır.",
+      "D) Dağıtıma diğer gider yerlerine en fazla hizmet veren (veya tutarı en yüksek olan) gider yerinden başlanır ve dağıtım yapan gider yerine bir daha pay verilmez.",
+      "E) Yardımcı gider yerleri, dönemin satış hacmine göre doğrudan gelir tablosuna aktarılır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İkinci dağıtım yöntemleri arasında gerçeğe en yakın ve en hassas sonucu veren, ancak hesaplaması en karmaşık olan; yardımcı hizmet gider yerlerinin birbirlerine verdikleri hizmetleri tam olarak dikkate alan yöntem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Basit (Doğrudan) Dağıtım Yöntemi",
+      "B) Kademeli Dağıtım Yöntemi",
+      "C) Matematiksel (Cebirsel) Dağıtım Yöntemi",
+      "D) Planlı Dağıtım Yöntemi",
+      "E) Standart Dağıtım Yöntemi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Maliyet muhasebesinde 'Üçüncü Dağıtım' aşaması temel olarak hangi işlemi ifade eder?",
+    "options": [
+      "A) Tüm fabrika giderlerinin üretim ve hizmet gider yerlerine dağıtılması",
+      "B) Esas üretim gider yerlerinde toplanan toplam maliyetlerin, üretilen mamullerin ve yarı mamullerin maliyetine (ürünlere) yüklenmesi",
+      "C) Yardımcı hizmet yerlerinin birbirlerine dağıtılması",
+      "D) Pazarlama ve genel yönetim giderlerinin ürünlere yüklenmesi",
+      "E) Dönem sonu mamul stoklarının satılan mamul maliyetine devredilmesi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Standart Maliyet Sisteminde, 'Direkt İşçilik Ücret (Fiyat) Sapması' hesaplanırken kullanılan matematiksel formül aşağıdakilerden hangisidir?",
+    "options": [
+      "A) (Fiili Ücret - Standart Ücret) x Standart Süre",
+      "B) (Fiili Ücret - Standart Ücret) x Fiili Süre",
+      "C) (Fiili Süre - Standart Süre) x Standart Ücret",
+      "D) (Fiili Süre - Standart Süre) x Fiili Ücret",
+      "E) (Standart Ücret / Fiili Ücret) x Fiili Süre"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir üretim işletmesinin Direkt İşçilik Giderleri (DİG) ile ilgili verileri aşağıdaki gibidir:\n\n| Veriler | Değer |\n| :--- | :--- |\n| Standart İşçilik Süresi (Birim) | 2 saat/adet |\n| Standart Saat Ücreti | 50 ₺/saat |\n| Fiili Üretim Miktarı | 1.000 adet |\n| Fiili Çalışılan Toplam Süre | 2.200 saat |\n\nBu bilgilere göre DİG 'Süre (Verim) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 10.000 ₺ Olumlu (Kârına)",
+      "B) 10.000 ₺ Olumsuz (Zararına)",
+      "C) 20.000 ₺ Olumsuz (Zararına)",
+      "D) 5.000 ₺ Olumlu (Kârına)",
+      "E) 5.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Safha maliyet sisteminde, FİFO (İlk Giren İlk Çıkar) yöntemi uygulandığında, Dönem Başı Yarı Mamullerin (DBYM) maliyet hesaplamasındaki durumuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "A) DBYM'nin önceki dönemden devreden maliyetleri, cari dönem maliyetleriyle toplanarak eşdeğer birim maliyet hesaplanır.",
+      "B) DBYM'nin önceki dönemden gelen maliyetleri cari dönem harcamalarından ayrı tutulur ve DBYM'nin tamamlanması için sadece bu dönemde yapılan ek maliyetler hesaplanır.",
+      "C) DBYM'nin tamamı dönem sonunda yarı mamul olarak kalmış kabul edilir.",
+      "D) FİFO yönteminde DBYM tamamen yok sayılır ve sadece dönem içinde başlanıp bitirilenler dikkate alınır.",
+      "E) DBYM miktarı doğrudan satılan mamul maliyetine aktarılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Safha maliyet sistemini ve Ortalama Maliyet Yöntemini kullanan bir işletmenin üretim verileri şöyledir:\n\n| Üretim Verileri | Miktar (Adet) |\n| :--- | :--- |\n| Dönem Başı Yarı Mamul | 1.000 |\n| Dönem İçi Üretime Başlanan | 9.000 |\n| Dönem Sonu Yarı Mamul | 2.000 |\n| Tamamlanıp Devredilen | 8.000 |\n\nDönem sonu yarı mamullerin Şekillendirme (DİG+GÜG) açısından tamamlanma derecesi %50'dir. Buna göre Şekillendirme maliyetleri açısından 'Eşdeğer Mamul Miktarı' kaç adettir?",
+    "options": [
+      "A) 8.000",
+      "B) 8.500",
+      "C) 9.000",
+      "D) 9.500",
+      "E) 10.000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinde, ana mamullerin yanında ortaya çıkan ve satış değeri ana mamullere göre nispeten çok düşük olan ikincil ürünlere 'Yan Mamul' denir.<br><br>Muhasebe standartları ve maliyet uygulamalarına göre, yan mamullerin tahmini satış değeri (veya net gerçekleşebilir değeri) kural olarak nasıl muhasebeleştirilir?",
+    "options": [
+      "A) Esas üretim yerinin amortisman giderlerine eklenir.",
+      "B) Doğrudan olağandışı kâr olarak gelir tablosuna aktarılır.",
+      "C) Ana mamullerin yükleneceği ortak üretim maliyetlerinden düşülür (çıkarılır).",
+      "D) Pazarlama gideri olarak kaydedilir.",
+      "E) Yeni bir yatırım fonu olarak bilançoda bekletilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Maliyet davranışlarına (hacimle ilişkilerine) göre giderler incelendiğinde; 'Sabit Giderler' ile ilgili aşağıdaki ifadelerden hangisi finansal olarak kesinlikle doğrudur?",
+    "options": [
+      "A) Üretim hacmi arttıkça, toplam sabit gider tutarı da aynı oranda artar.",
+      "B) Üretim hacmi arttıkça, birim başına düşen sabit gider payı azalır.",
+      "C) Üretim hacmi azaldıkça, birim başına düşen sabit gider payı da azalır.",
+      "D) Üretim hacmi artsa da azalsa da, birim başına düşen sabit gider payı hep aynı (sabit) kalır.",
+      "E) Sabit giderler yalnızca dönem kârı üzerinden hesaplanan yasal kesintilerden oluşur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdaki üretim kollarından hangisi, maliyetlerin partiler, işler veya siparişler bazında ayrı ayrı izlenmesini gerektiren 'Sipariş Maliyet Sisteminin' uygulanmasına en uygun örnektir?",
+    "options": [
+      "A) Çimento fabrikası",
+      "B) Petrol rafinerisi",
+      "C) Şeker üretim tesisi",
+      "D) Özel tasarım yat ve gemi inşası",
+      "E) Sürekli kâğıt üreten bir selüloz fabrikası"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Normal Maliyet Sistemi uygulayan bir işletmede, ürün maliyetleri hesaplanırken maliyet unsurlarının hangileri 'fiili' tutarlarıyla, hangileri 'tahmini (önceden saptanmış)' tutarlarıyla sisteme dahil edilir?",
+    "options": [
+      "A) Direkt İlk Madde fiili; Direkt İşçilik ve GÜG tahmini alınır.",
+      "B) Direkt İlk Madde ve Direkt İşçilik fiili alınır; Genel Üretim Giderleri (GÜG) tahmini (önceden saptanmış yükleme oranı ile) alınır.",
+      "C) Tüm maliyet unsurları sadece tahmini (standart) değerlerle alınır.",
+      "D) Tüm maliyet unsurları yıl sonunda oluşan kesin fiili değerlerle alınır.",
+      "E) GÜG fiili alınır; Direkt İlk Madde ve Direkt İşçilik tahmini alınır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Standart maliyet uygulayan bir işletmede Genel Üretim Giderleri (GÜG) sapmaları analiz edilmektedir.<br><br>İşletmenin 'Bütçe Sapması' (Harcama Sapması) hesaplanırken aşağıdaki formüllerden hangisi kullanılır?",
+    "options": [
+      "A) Fiili GÜG - Standart GÜG",
+      "B) Fiili GÜG - (Standart Kapasite x Sabit GÜG Yükleme Oranı)",
+      "C) Fiili GÜG - Bütçelenen (İzin Verilen) GÜG",
+      "D) Bütçelenen GÜG - Standart GÜG",
+      "E) (Fiili Kapasite - Standart Kapasite) x Değişken GÜG Oranı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir üretim işletmesinin dönem sonu Satılan Mamuller Maliyeti Tablosuna ait bazı veriler şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Üretilen (Tamamlanan) Mamul Maliyeti | 500.000 ₺ |\n| Dönem Başı Mamul Stoku | 100.000 ₺ |\n| Dönem Sonu Mamul Stoku | 150.000 ₺ |\n\nBu verilere göre işletmenin 'Satılan Mamullerin Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 450.000 ₺",
+      "B) 550.000 ₺",
+      "C) 600.000 ₺",
+      "D) 750.000 ₺",
+      "E) 400.000 ₺"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Üretim faaliyetleri sırasında kalite standartlarına uymadığı için ayrılan, üzerinde ek bir harcama yapılsa dahi sağlam mamul haline getirilemeyen, ancak çok düşük bir değerle de olsa hurda olarak satılabilen ürünlere ne ad verilir?",
+    "options": [
+      "A) Kusurlu Mamul",
+      "B) Bozuk Mamul",
+      "C) Fire",
+      "D) Artık",
+      "E) Yan Mamul"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir üretim işletmesi, döneme başlamadan önce 'Genel Üretim Giderleri (GÜG) Yükleme Oranını' belirlemek istemektedir.<br><br>GÜG Yükleme Oranının hesaplanabilmesi için aşağıdaki değerlerden hangilerinin birbirine bölünmesi gerekir?",
+    "options": [
+      "A) Fiili GÜG Tutarı / Fiili Faaliyet Hacmi",
+      "B) Bütçelenen (Tahmini) GÜG Tutarı / Bütçelenen (Tahmini) Faaliyet Hacmi",
+      "C) Standart GÜG Tutarı / Fiili Faaliyet Hacmi",
+      "D) Fiili GÜG Tutarı / Standart Faaliyet Hacmi",
+      "E) Tahmini GÜG Tutarı / Dönem Başı Yarı Mamul Miktarı"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinden çıkan A ve B ana mamullerine ilişkin üretim miktarları şöyledir:\n\n| Mamul | Üretim Miktarı (kg) |\n| :--- | :--- |\n| A Mamulü | 6.000 kg |\n| B Mamulü | 4.000 kg |\n\nAyrım noktasına kadar katlanılan ortak üretim maliyeti toplam 600.000 ₺'dir. İşletme ortak maliyetleri dağıtırken 'Fiziksel Ölçü (Miktar) Yöntemini' kullandığına göre, A mamulüne yüklenecek ortak maliyet payı kaç ₺'dir?",
+    "options": [
+      "A) 240.000 ₺",
+      "B) 300.000 ₺",
+      "C) 360.000 ₺",
+      "D) 400.000 ₺",
+      "E) 450.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinden çıkan A ve B ana mamullerine ilişkin üretim ve fiyat verileri aşağıdaki gibidir:\n\n| Mamul | Üretim Miktarı (kg) | Ayrım Noktasındaki Satış Fiyatı |\n| :--- | :--- | :--- |\n| A Mamulü | 6.000 kg | 10 ₺/kg |\n| B Mamulü | 4.000 kg | 15 ₺/kg |\n\nAyrım noktasına kadar katlanılan ortak üretim maliyeti toplam 600.000 ₺'dir.<br><br>İşletme, ortak maliyetleri 'Satış Değeri Yöntemine' göre dağıttığında B mamulüne yüklenecek ortak maliyet payı kaç ₺ olur?",
+    "options": [
+      "A) 240.000 ₺",
+      "B) 300.000 ₺",
+      "C) 360.000 ₺",
+      "D) 400.000 ₺",
+      "E) 450.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Standart maliyet uygulayan bir işletmenin Değişken Genel Üretim Giderleri (GÜG) verileri şöyledir:\n\n| Veriler | Değer |\n| :--- | :--- |\n| Fiili Değişken GÜG Tutarı | 120.000 ₺ |\n| Fiili Çalışılan Süre | 10.000 saat |\n| Standart Değişken GÜG Yükleme Oranı | 11 ₺/saat |\n\nBuna göre, işletmenin 'Değişken GÜG Bütçe (Harcama) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 10.000 ₺ Olumlu (Kârına)",
+      "B) 10.000 ₺ Olumsuz (Zararına)",
+      "C) 11.000 ₺ Olumlu (Kârına)",
+      "D) 11.000 ₺ Olumsuz (Zararına)",
+      "E) Sapma Yoktur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Safha Maliyet Sisteminde 'Eşdeğer Mamul Miktarı' hesaplanırken kullanılan FİFO ve Ortalama Maliyet yöntemleri ile ilgili olarak;<br><br>I. FİFO yönteminde dönem başı yarı mamullerin önceki dönemden devreden maliyetleri cari dönem harcamalarından ayrı tutulur.<br>II. Ortalama maliyet yönteminde, dönem başı yarı mamullerin maliyeti ile cari dönem maliyetleri birleştirilerek tek bir eşdeğer birim maliyet bulunur.<br>III. Dönem başı yarı mamul stokunun hiç bulunmadığı bir durumda, her iki yöntemin de vereceği eşdeğer mamul miktarı aynıdır.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Tek tip ürün üreten bir işletmenin Maliyet-Hacim-Kâr (CVP) analizi verileri şöyledir:\n\n| Kalemler | Tutar |\n| :--- | :--- |\n| Birim Satış Fiyatı | 50 ₺ |\n| Birim Değişken Gider | 30 ₺ |\n| Toplam Sabit Giderler | 100.000 ₺ |\n\nBuna göre, işletmenin faaliyetlerinde zarar etmemesi için (Başabaş Noktası) satması gereken minimum miktar kaç adettir?",
+    "options": [
+      "A) 2.000",
+      "B) 3.000",
+      "C) 4.000",
+      "D) 5.000",
+      "E) 6.000"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Safha maliyet sistemini ve Ortalama Maliyet Yöntemini kullanan bir işletmenin üretim verileri şöyledir:\n\n| Üretim Verileri | Miktar (Adet) |\n| :--- | :--- |\n| Dönem Başı Yarı Mamul | 2.000 |\n| Dönem İçi Üretime Başlanan | 8.000 |\n| Tamamlanıp Devredilen | 9.000 |\n| Dönem Sonu Yarı Mamul | 1.000 |\n\nDönem sonu yarı mamullerin Şekillendirme (DİG+GÜG) giderleri açısından tamamlanma derecesi %60'tır. Buna göre Şekillendirme maliyetleri açısından 'Eşdeğer Mamul Miktarı' kaç adettir?",
+    "options": [
+      "A) 9.000",
+      "B) 9.400",
+      "C) 9.600",
+      "D) 10.000",
+      "E) 10.600"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İkinci dağıtım aşamasında 'Kademeli Dağıtım Yöntemini' kullanan ve dağıtıma X Hizmet Yerinden başlayan bir işletmenin verileri şöyledir:\n\n| Gider Yerleri | Birinci Dağıtım Toplamı | Dağıtım Oranları (X'in Payı) |\n| :--- | :--- | :--- |\n| X Yardımcı Hizmet Yeri | 100.000 ₺ | - |\n| Y Yardımcı Hizmet Yeri | 80.000 ₺ | %20 |\n| A Esas Üretim Yeri | 300.000 ₺ | %50 |\n| B Esas Üretim Yeri | 400.000 ₺ | %30 |\n\nKademeli dağıtım kurallarına göre, dağıtım sırası kendisine geldiğinde Y Yardımcı Hizmet Yerinin üretim yerlerine dağıtacağı toplam maliyet tutarı kaç ₺ olacaktır?",
+    "options": [
+      "A) 80.000 ₺",
+      "B) 90.000 ₺",
+      "C) 100.000 ₺",
+      "D) 110.000 ₺",
+      "E) 120.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Standart Maliyet sisteminde Direkt İlk Madde ve Malzeme (DİMM) verileri şöyledir:\n\n| Veriler | Değer |\n| :--- | :--- |\n| Standart DİMM Birim Fiyatı | 10 ₺/kg |\n| Fiili Satın Alınan DİMM Miktarı | 10.000 kg |\n| Satın Alınan DİMM'in Fiili Birim Fiyatı | 12 ₺/kg |\n| Üretimde Kullanılan Fiili DİMM Miktarı | 8.000 kg |\n\nİşletme 'Fiyat Sapmasını' hammadde satın alındığı anda hesaplıyorsa, DİMM Fiyat Sapması hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 16.000 ₺ Olumlu (Kârına)",
+      "B) 16.000 ₺ Olumsuz (Zararına)",
+      "C) 20.000 ₺ Olumlu (Kârına)",
+      "D) 20.000 ₺ Olumsuz (Zararına)",
+      "E) 24.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir üretim işletmesinin Satılan Mamuller Maliyeti Tablosu verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Toplam Üretim Maliyeti (DİMM + DİG + GÜG) | 600.000 ₺ |\n| Dönem Başı Yarı Mamul Stoku | 50.000 ₺ |\n| Dönem Sonu Yarı Mamul Stoku | 70.000 ₺ |\n| Dönem Başı Mamul Stoku | 100.000 ₺ |\n| Dönem Sonu Mamul Stoku | 80.000 ₺ |\n\nBu verilere göre işletmenin 'Üretilen (Tamamlanan) Mamul Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 550.000 ₺",
+      "B) 580.000 ₺",
+      "C) 600.000 ₺",
+      "D) 620.000 ₺",
+      "E) 650.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hedef kâr planlaması yapan bir işletmenin verileri şöyledir:\n\n| Kalemler | Tutar / Oran |\n| :--- | :--- |\n| Birim Satış Fiyatı | 100 ₺ |\n| Birim Değişken Gider | 60 ₺ |\n| Toplam Sabit Giderler | 200.000 ₺ |\n| Hedeflenen Net Kâr (Vergi Sonrası) | 120.000 ₺ |\n| Kurumlar Vergisi Oranı | %20 |\n\nİşletmenin hedeflenen net (vergi sonrası) kâra ulaşabilmesi için kaç birim mamul satması gerekmektedir?",
+    "options": [
+      "A) 5.000",
+      "B) 6.500",
+      "C) 7.500",
+      "D) 8.000",
+      "E) 8.750"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Safha maliyet sisteminde üretim esnasında ortaya çıkan fireler (kayıplar) ile ilgili olarak;<br><br>I. Normal (olağan) fire maliyeti, sağlam mamullerin maliyetine yüklenir.<br>II. Anormal fire maliyeti, üretim maliyetlerine eklenmeyip doğrudan dönem gideri veya zararı yazılır.<br>III. Firelerin (normal veya anormal) bir hurda satış değeri varsa, elde edilen bu değer üretim maliyetinden düşülür veya diğer gelir olarak kaydedilir.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir işletmenin Genel Üretim Giderleri (GÜG) ile ilgili verileri aşağıdaki gibidir:\n\n| Veriler | Değer |\n| :--- | :--- |\n| Önceden Saptanmış GÜG Yükleme Oranı | 20 ₺ / Makine Saati |\n| Fiili Çalışılan Makine Saati | 5.000 Saat |\n| Gerçekleşen Fiili GÜG Tutarı | 110.000 ₺ |\n\nBu bilgilere göre, işletmenin GÜG sapması hangi yönde ve ne kadardır?",
+    "options": [
+      "A) 10.000 ₺ Fazla Yükleme",
+      "B) 10.000 ₺ Eksik Yükleme",
+      "C) 5.000 ₺ Fazla Yükleme",
+      "D) 5.000 ₺ Eksik Yükleme",
+      "E) Sapma Yoktur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İkinci dağıtım aşamasında 'Matematiksel (Cebirsel) Dağıtım Yöntemini' kullanan bir işletmenin A ve B yardımcı hizmet yerleri bulunmaktadır.<br><br>A gider yerinin kendi birinci dağıtım toplamı 10.000 ₺ olup, B gider yerinin sunduğu toplam hizmetin %20'sinden faydalanmaktadır. Buna göre A gider yerinin dağıtıma tabi tutulacak toplam maliyetini veren matematiksel denklem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) A = 10.000 ₺ + 0,10 B",
+      "B) A = 10.000 ₺ + 0,20 B",
+      "C) A = 20.000 ₺ + 0,10 B",
+      "D) B = 10.000 ₺ + 0,20 A",
+      "E) A = 10.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Standart Maliyet Sisteminde Direkt İşçilik Giderleri (DİG) verileri şöyledir:\n\n| Veriler | Değer |\n| :--- | :--- |\n| Standart İşçilik Saat Ücreti | 40 ₺/saat |\n| Fiili İşçilik Saat Ücreti | 45 ₺/saat |\n| Fiili Çalışılan Toplam Süre | 1.200 saat |\n| Fiili Üretim İçin İzin Verilen Standart Süre | 1.000 saat |\n\nBu verilere göre, işletmenin DİG 'Ücret (Fiyat) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 5.000 ₺ Olumlu (Kârına)",
+      "B) 5.000 ₺ Olumsuz (Zararına)",
+      "C) 6.000 ₺ Olumlu (Kârına)",
+      "D) 6.000 ₺ Olumsuz (Zararına)",
+      "E) 10.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Yarı değişken (karma) giderleri sabit ve değişken kısımlarına ayırmak için kullanılan 'En Yüksek ve En Düşük Hacim Yöntemine (Uç Değerler)' ait veriler şöyledir:\n\n| Faaliyet Düzeyi | Üretim Miktarı (Adet) | Toplam Maliyet (₺) |\n| :--- | :--- | :--- |\n| En Yüksek Hacim | 10.000 | 250.000 ₺ |\n| En Düşük Hacim | 4.000 | 130.000 ₺ |\n\nBuna göre, işletmenin 'Birim Değişken Gider' tutarı kaç ₺'dir?",
+    "options": [
+      "A) 10 ₺",
+      "B) 15 ₺",
+      "C) 20 ₺",
+      "D) 25 ₺",
+      "E) 30 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir üretim işletmesinin birinci dağıtım aşamasında, 'Yemekhane Giderleri' toplamı 100.000 ₺ olarak gerçekleşmiştir. Bu gider, gider yerlerinde çalışan personel sayısı dikkate alınarak dağıtılacaktır.\n\n| Gider Yerleri | Personel Sayısı |\n| :--- | :--- |\n| A Esas Üretim Yeri | 40 Kişi |\n| B Esas Üretim Yeri | 30 Kişi |\n| X Yardımcı Hizmet Yeri | 20 Kişi |\n| Y Yardımcı Hizmet Yeri | 10 Kişi |\n\nBuna göre, A Esas Üretim Yerine yüklenecek yemekhane gideri payı kaç ₺'dir?",
+    "options": [
+      "A) 20.000 ₺",
+      "B) 30.000 ₺",
+      "C) 40.000 ₺",
+      "D) 50.000 ₺",
+      "E) 60.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Safha maliyet sistemini ve Ortalama Maliyet yöntemini kullanan bir işletmede, Direkt İlk Madde ve Malzeme (DİMM) üretimin en başında (0 noktasında) sürece tam olarak (%100) eklenmektedir. İlgili dönemin miktar hareketleri şöyledir:\n\n| Üretim Verileri | Miktar (Adet) |\n| :--- | :--- |\n| Dönem Başı Yarı Mamul | 2.000 |\n| Dönem İçinde Üretime Başlanan | 8.000 |\n| Tamamlanıp Devredilen Mamul | 7.000 |\n| Dönem Sonu Yarı Mamul | 3.000 |\n\nDönem sonu yarı mamullerin şekillendirme derecesi %40'tır. Buna göre, DİMM açısından 'Eşdeğer Mamul Miktarı' kaç adettir?",
+    "options": [
+      "A) 7.000",
+      "B) 8.200",
+      "C) 8.800",
+      "D) 9.000",
+      "E) 10.000"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Standart Maliyet Sisteminde Genel Üretim Giderleri (GÜG) sapmaları analiz edilmektedir. İşletmenin kapasite verileri şöyledir:\n\n| Veriler | Değer |\n| :--- | :--- |\n| Standart Kapasite (Bütçelenen Süre) | 10.000 saat |\n| Fiili Çalışılan Kapasite (Süre) | 9.000 saat |\n| Standart Sabit GÜG Yükleme Oranı | 5 ₺/saat |\n\nBuna göre işletmenin GÜG 'Kapasite Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 5.000 ₺ Olumlu (Kârına)",
+      "B) 5.000 ₺ Olumsuz (Zararına)",
+      "C) 10.000 ₺ Olumsuz (Zararına)",
+      "D) 15.000 ₺ Olumlu (Kârına)",
+      "E) 45.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İkinci dağıtımda Kademeli Dağıtım Yöntemini uygulayan bir işletmede, en çok hizmet sunan A Yardımcı Gider Yerinin birinci dağıtım toplamı 100.000 ₺'dir. A gider yeri maliyetlerini sırasıyla şu oranlarda dağıtacaktır:\n\n| Gider Yerleri | Dağıtım Oranı |\n| :--- | :--- |\n| B Yardımcı Hizmet Yeri | %20 |\n| X Esas Üretim Yeri | %50 |\n| Y Esas Üretim Yeri | %30 |\n\nDağıtıma A gider yerinden başlandığına göre, B Yardımcı Hizmet Yerine A'dan aktarılacak maliyet payı kaç ₺'dir?",
+    "options": [
+      "A) 10.000 ₺",
+      "B) 20.000 ₺",
+      "C) 30.000 ₺",
+      "D) 50.000 ₺",
+      "E) Dağıtım yapılmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tek tip mamul üreten bir işletmenin Maliyet-Hacim-Kâr (CVP) analizi verileri şöyledir:\n\n| Kalemler | Tutar |\n| :--- | :--- |\n| Birim Satış Fiyatı | 50 ₺ |\n| Birim Değişken Gider | 30 ₺ |\n| Toplam Sabit Giderler | 120.000 ₺ |\n\nBuna göre, işletmenin faaliyetlerinde zarar etmemesi için (Başabaş Noktasına ulaşması için) yapması gereken 'Minimum Satış Tutarı (Hasılatı)' kaç ₺'dir?",
+    "options": [
+      "A) 120.000 ₺",
+      "B) 200.000 ₺",
+      "C) 300.000 ₺",
+      "D) 400.000 ₺",
+      "E) 600.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinden çıkan A mamulünün ortak maliyetlerden alacağı pay 'Net Gerçekleşebilir Değer (NGD) Yöntemine' göre hesaplanacaktır.\n\n| Veriler | Değer |\n| :--- | :--- |\n| A Mamulü Üretim Miktarı | 5.000 kg |\n| A Mamulünün Nihai (Son) Satış Fiyatı | 20 ₺/kg |\n| Ayrım Noktasından Sonraki Ek Maliyet | 4 ₺/kg |\n\nBu verilere göre A mamulünün ortak maliyet dağıtımında kullanılacak Net Gerçekleşebilir (Farazi) Değeri toplam kaç ₺'dir?",
+    "options": [
+      "A) 80.000 ₺",
+      "B) 100.000 ₺",
+      "C) 120.000 ₺",
+      "D) 150.000 ₺",
+      "E) 180.000 ₺"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir işletmenin satış ve başabaş (sıfır kâr) noktası verileri şöyledir:\n\n| Kalemler | Tutar |\n| :--- | :--- |\n| Fiili (Veya Bütçelenen) Satış Tutarı | 500.000 ₺ |\n| Başabaş Noktası Satış Tutarı | 400.000 ₺ |\n\nİşletmenin satışlarının yüzde kaç düşmesi halinde zarar etmeye başlayacağını gösteren 'Güvenlik Marjı Oranı' yüzde kaçtır?",
+    "options": [
+      "A) %10",
+      "B) %20",
+      "C) %25",
+      "D) %40",
+      "E) %80"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sipariş maliyet sistemini kullanan bir işletmede, Genel Üretim Giderleri (GÜG) önceden saptanmış yükleme oranlarıyla siparişlere yüklenmiştir. Dönem sonunda fiili GÜG ile yüklenen GÜG arasında oluşan 'Eksik veya Fazla Yükleme Farkı' oransal olarak çok önemsiz (küçük) bir tutardır.<br><br>Muhasebe kurallarına göre, bu önemsiz tutardaki sapma kural olarak doğrudan hangi hesaba aktarılarak kapatılır?",
+    "options": [
+      "A) 151 Yarı Mamuller - Üretim",
+      "B) 152 Mamuller",
+      "C) 620 Satılan Mamuller Maliyeti",
+      "D) 689 Diğer Olağandışı Gider ve Zararlar",
+      "E) 690 Dönem Kârı veya Zararı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Safha maliyet sisteminde üretim süreci boyunca ortaya çıkan fireler (kayıplar) ile ilgili olarak;<br><br>I. Üretim teknolojisinin veya sürecin doğal bir sonucu olan önlenemez firelere 'Normal Fire' denir.<br>II. İşçi hatası, elektrik kesintisi veya makine arızası gibi nedenlerle oluşan firelere 'Anormal Fire' denir.<br>III. Normal firelerin maliyeti doğrudan dönem gideri yazılırken, anormal firelerin maliyeti sağlam mamullere yüklenir.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Standart Maliyet Sisteminde Direkt İşçilik Giderleri (DİG) verileri şöyledir:\n\n| Veriler | Değer |\n| :--- | :--- |\n| Standart İşçilik Saat Ücreti | 50 ₺/saat |\n| Fiili İşçilik Saat Ücreti | 55 ₺/saat |\n| Fiili Çalışılan Toplam Süre | 2.000 saat |\n\nBu verilere göre, işletmenin DİG 'Ücret (Fiyat) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 10.000 ₺ Olumsuz (Zararına)",
+      "B) 10.000 ₺ Olumlu (Kârına)",
+      "C) 11.000 ₺ Olumsuz (Zararına)",
+      "D) 11.000 ₺ Olumlu (Kârına)",
+      "E) 5.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir üretim işletmesinin Satın Alınan ve Üretilen Mamuller Maliyet Tablosu verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Direkt İlk Madde ve Malzeme Giderleri | 200.000 ₺ |\n| Direkt İşçilik Giderleri | 150.000 ₺ |\n| Genel Üretim Giderleri | 100.000 ₺ |\n| Dönem Başı Yarı Mamul Stoku | 50.000 ₺ |\n| Dönem Sonu Yarı Mamul Stoku | 80.000 ₺ |\n\nBu verilere göre işletmenin 'Üretilen (Tamamlanan) Mamul Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 400.000 ₺",
+      "B) 420.000 ₺",
+      "C) 450.000 ₺",
+      "D) 500.000 ₺",
+      "E) 530.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Yarı değişken (karma) giderleri, sabit ve değişken kısımlarına ayırmak için kullanılan 'En Yüksek ve En Düşük Hacim (Uç Değerler) Yöntemi' verileri şöyledir:\n\n| Faaliyet Düzeyi | Üretim Miktarı (Adet) | Toplam Karma Maliyet (₺) |\n| :--- | :--- | :--- |\n| En Yüksek Hacim Noktası | 10.000 | 300.000 ₺ |\n| En Düşük Hacim Noktası | 5.000 | 200.000 ₺ |\n\nBuna göre, bu gider kaleminin 'Toplam Sabit Gider' kısmı kaç ₺'dir?",
+    "options": [
+      "A) 50.000 ₺",
+      "B) 80.000 ₺",
+      "C) 100.000 ₺",
+      "D) 120.000 ₺",
+      "E) 200.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Safha maliyet sisteminde FİFO (İlk Giren İlk Çıkar) yöntemini kullanan bir işletmenin üretim verileri şöyledir:\n\n| Üretim Verileri | Miktar (Adet) |\n| :--- | :--- |\n| Dönem Başı Yarı Mamul (%40 Tamamlanmış) | 2.000 |\n| Dönem İçinde Üretime Başlanan | 8.000 |\n| Tamamlanıp Devredilen Mamul | 9.000 |\n| Dönem Sonu Yarı Mamul (%60 Tamamlanmış) | 1.000 |\n\nFİFO yöntemine göre, bu dönemin Şekillendirme maliyetleri açısından 'Eşdeğer Mamul Miktarı' kaç adettir?",
+    "options": [
+      "A) 8.400",
+      "B) 8.800",
+      "C) 9.000",
+      "D) 9.600",
+      "E) 10.000"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Safha maliyet sistemini ve Ortalama Maliyet Yöntemini uygulayan bir işletmede, Şekillendirme maliyetlerine ilişkin veriler şöyledir:\n\n| Maliyet Kalemi | Tutar |\n| :--- | :--- |\n| Dönem Başı Yarı Mamul Şekillendirme Maliyeti | 40.000 ₺ |\n| Dönem İçi Şekillendirme Harcamaları | 200.000 ₺ |\n\nİlgili dönemin Şekillendirme açısından 'Eşdeğer Mamul Miktarı' 12.000 adet olarak hesaplanmıştır. Buna göre, Şekillendirme Eşdeğer Mamul Birim Maliyeti kaç ₺'dir?",
+    "options": [
+      "A) 15 ₺",
+      "B) 16,66 ₺",
+      "C) 20 ₺",
+      "D) 25 ₺",
+      "E) 30 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Birinci dağıtım aşamasında ortak giderlerin gider yerlerine dağıtılabilmesi için 'Dağıtım Anahtarları' kullanılır.<br><br>Buna göre, aşağıdaki ortak fabrika giderleri ve kullanılması önerilen dağıtım anahtarı eşleştirmelerinden hangisi finansal ve teknik açıdan uygun değildir?",
+    "options": [
+      "A) Fabrika Binası Amortismanı -> Gider yerlerinin kapladığı alan (m²)",
+      "B) Aydınlatma Giderleri -> Gider yerlerindeki aydınlatma lamba/ampul sayısı veya watt gücü",
+      "C) İşveren SGK Primi Payı -> Gider yerlerindeki toplam işçi sayısı veya ücret tutarları",
+      "D) Makinelerin Elektrik Tüketimi -> Gider yerlerindeki makinelerin çalıştıkları saat (veya kw gücü)",
+      "E) Makine Amortisman Giderleri -> Gider yerlerinin kapladığı alan (m²)"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İkinci dağıtımda Kademeli Dağıtım Yöntemini kullanan bir üretim işletmesinin gider yerlerine ait birinci dağıtım toplamları ve yardımcı hizmet yerlerinin sundukları hizmet yüzdeleri aşağıdaki tabloda detaylı olarak verilmiştir:\n\n| Gider Yerleri | I. Dağıtım Toplamı | X'in Hizmet Dağılımı | Y'nin Hizmet Dağılımı |\n| :--- | :--- | :--- | :--- |\n| X Yardımcı Hizmet Yeri | 100.000 ₺ | % - | % 10 |\n| Y Yardımcı Hizmet Yeri | 80.000 ₺ | % 20 | % - |\n| A Esas Üretim Yeri | 300.000 ₺ | % 30 | % 40 |\n| B Esas Üretim Yeri | 400.000 ₺ | % 50 | % 50 |\n| **TOPLAM** | **880.000 ₺** | **% 100** | **% 100** |\n\nİşletme kademeli dağıtıma en çok hizmet sunan X Yardımcı Hizmet Yerinden başlamaktadır. Buna göre dağıtım sırası Y Yardımcı Hizmet Yerine geldiğinde, Y'nin A Esas Üretim Yerine aktaracağı toplam maliyet tutarı kaç ₺ olacaktır?",
+    "options": [
+      "A) 32.000 ₺",
+      "B) 40.000 ₺",
+      "C) 44.444 ₺",
+      "D) 50.000 ₺",
+      "E) 80.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Safha maliyet sisteminde FİFO (İlk Giren İlk Çıkar) yöntemini kullanan bir işletmenin üretim safhasına ait karmaşık stok ve tamamlanma derecesi verileri aşağıdaki gibidir:\n\n| Üretim Miktar Hareketleri | Miktar (Adet) | Direkt İlk Madde Tamamlanma | Şekillendirme Tamamlanma |\n| :--- | :--- | :--- | :--- |\n| Dönem Başı Yarı Mamul | 2.000 Adet | % 100 | % 40 |\n| Dönem İçinde Üretime Başlanan | 8.000 Adet | - | - |\n| Tamamlanıp Devredilen Mamul | 7.000 Adet | % 100 | % 100 |\n| Dönem Sonu Yarı Mamul | 3.000 Adet | % 100 | % 60 |\n\nBu verilere göre, FİFO yöntemi dikkate alındığında dönemin 'Şekillendirme Maliyetleri' açısından hesaplanacak Eşdeğer Mamul Miktarı kaç adettir?",
+    "options": [
+      "A) 7.000 Adet",
+      "B) 8.000 Adet",
+      "C) 8.800 Adet",
+      "D) 9.000 Adet",
+      "E) 10.000 Adet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Standart maliyet sistemini uygulayan bir işletmede, iki farklı hammadde türüne (A ve B) ait standart ve fiili veriler dönem sonunda aşağıdaki tabloda özetlenmiştir:\n\n| Veri Türü | A Hammaddesi | B Hammaddesi |\n| :--- | :--- | :--- |\n| Standart Birim Fiyat | 10 ₺/kg | 15 ₺/kg |\n| Fiili Birim Fiyat | 12 ₺/kg | 14 ₺/kg |\n| Üretimde Kullanılan Fiili Miktar | 2.200 kg | 1.800 kg |\n| İzin Verilen Standart Miktar | 2.000 kg | 2.000 kg |\n\nBu tabloya göre, sadece A Hammaddesi için oluşan 'Fiyat (Satın Alma) Sapması' hangi yönde ve kaç ₺ tutarındadır?",
+    "options": [
+      "A) 4.000 ₺ Olumlu (Kârına)",
+      "B) 4.000 ₺ Olumsuz (Zararına)",
+      "C) 4.400 ₺ Olumlu (Kârına)",
+      "D) 4.400 ₺ Olumsuz (Zararına)",
+      "E) 5.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin ortak üretim sürecinden X, Y ve Z ana mamulleri elde edilmektedir. Ortak maliyetlerin dağıtımında 'Net Gerçekleşebilir Değer Yöntemi' kullanılmaktadır. Veriler şöyledir:\n\n| Mamul Türü | Üretim Miktarı | Nihai (Son) Satış Fiyatı | Ayrım Noktasından Sonraki Ek Maliyet |\n| :--- | :--- | :--- | :--- |\n| X Mamulü | 10.000 kg | 20 ₺/kg | 5 ₺/kg |\n| Y Mamulü | 20.000 kg | 15 ₺/kg | 3 ₺/kg |\n| Z Mamulü | 5.000 kg | 30 ₺/kg | 10 ₺/kg |\n\nAyrım noktasına kadar katlanılan ortak üretim maliyeti toplam 500.000 ₺'dir.<br><br>Sadece X Mamulünün ortak maliyet dağıtımına esas teşkil edecek 'Net Gerçekleşebilir (Farazi) Değeri' toplam kaç ₺'dir?",
+    "options": [
+      "A) 100.000 ₺",
+      "B) 150.000 ₺",
+      "C) 200.000 ₺",
+      "D) 250.000 ₺",
+      "E) 300.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Genel Üretim Giderleri (GÜG) sapmalarını detaylı olarak analiz eden bir işletmenin bütçe ve fiili gerçekleşme verileri aşağıdaki gibidir:\n\n| Kapasite ve Maliyet Verileri | Tutar / Süre |\n| :--- | :--- |\n| Bütçelenen Toplam Sabit GÜG | 50.000 ₺ |\n| Standart Değişken GÜG Yükleme Oranı | 10 ₺ / saat |\n| Üretim İçin İzin Verilen Standart Süre | 10.000 saat |\n| Gerçekleşen Fiili Çalışma Süresi | 11.000 saat |\n| Dönem Sonu Gerçekleşen Toplam Fiili GÜG | 170.000 ₺ |\n\nBu karmaşık tabloya göre, işletmenin 'Genel Üretim Giderleri Toplam Sapması' (Fiili GÜG ile Yüklenen GÜG arasındaki fark) hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 10.000 ₺ Olumsuz (Zararına)",
+      "B) 15.000 ₺ Olumsuz (Zararına)",
+      "C) 20.000 ₺ Olumsuz (Zararına)",
+      "D) 20.000 ₺ Olumlu (Kârına)",
+      "E) 30.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin altı aylık üretim hacmi ve gerçekleşen karma (yarı değişken) elektrik giderleri tablosu aşağıdaki gibidir. İşletme, maliyetleri sabit ve değişken kısımlara ayırmak için 'En Yüksek ve En Düşük Hacim (Uç Değerler) Yöntemini' kullanmaktadır.\n\n| Aylar | Makine Çalışma Süresi (Saat) | Toplam Elektrik Gideri (₺) |\n| :--- | :--- | :--- |\n| Ocak | 1.000 Saat | 5.000 ₺ |\n| Şubat | 1.500 Saat | 6.500 ₺ |\n| Mart | 800 Saat | 4.400 ₺ |\n| Nisan | 2.000 Saat | 8.000 ₺ |\n| Mayıs | 1.200 Saat | 5.600 ₺ |\n| Haziran | 1.800 Saat | 7.400 ₺ |\n\nBu yöntem kullanılarak yapılan hesaplamaya göre, elektrik giderinin 'Aylık Toplam Sabit Kısmı' kaç ₺ olarak bulunur?",
+    "options": [
+      "A) 1.000 ₺",
+      "B) 2.000 ₺",
+      "C) 2.400 ₺",
+      "D) 3.000 ₺",
+      "E) 4.400 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Birden fazla mamul üreten bir işletmenin karma Maliyet-Hacim-Kâr (CVP) analizi tablosu şöyledir:\n\n| Mamul Türü | Satış Karması (Bileşimi) | Birim Satış Fiyatı | Birim Değişken Gider |\n| :--- | :--- | :--- | :--- |\n| A Mamulü | % 60 | 100 ₺ | 60 ₺ |\n| B Mamulü | % 40 | 150 ₺ | 90 ₺ |\n\nİşletmenin döneme ait Toplam Sabit Giderleri 384.000 ₺'dir.<br><br>Bu verilere göre, işletmenin zarar etmemesi için (Başabaş Noktasında) A ve B mamullerinden toplamda (karma olarak) kaç adet satması gerekir?",
+    "options": [
+      "A) 4.000 Adet",
+      "B) 6.000 Adet",
+      "C) 8.000 Adet",
+      "D) 10.000 Adet",
+      "E) 12.000 Adet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir fabrika binasının birinci dağıtımında, çeşitli ortak giderler ilgili dağıtım anahtarları kullanılarak üretim ve hizmet yerlerine paylaştırılacaktır. Dağıtıma esas olan devasa tablo şöyledir:\n\n| Gider Yerleri | Kapladığı Alan (m²) | Kurulu Makine Gücü (kW) | Çalışılan Makine Saati |\n| :--- | :--- | :--- | :--- |\n| A Esas Üretim | 500 m² | 1.000 kW | 2.000 Saat |\n| B Esas Üretim | 300 m² | 2.000 kW | 3.000 Saat |\n| C Yardımcı Hizmet | 200 m² | 1.000 kW | 1.000 Saat |\n| **TOPLAM** | **1.000 m²** | **4.000 kW** | **6.000 Saat** |\n\nDönem içinde Fabrika Kirası 100.000 ₺ (m²'ye göre), Elektrik Gideri 40.000 ₺ (kW'a göre) ve Makine Bakım Gideri 60.000 ₺ (Makine Saatine göre) gerçekleşmiştir.<br><br>Sadece A Esas Üretim Yerine yüklenecek olan toplam ortak gider payı kaç ₺'dir?",
+    "options": [
+      "A) 50.000 ₺",
+      "B) 60.000 ₺",
+      "C) 70.000 ₺",
+      "D) 80.000 ₺",
+      "E) 90.000 ₺"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Maliyet sistemleri ile ilgili teorik bir vaka incelemesinde aşağıdaki yargılar sunulmuştur:<br><br>I. Sipariş maliyet sisteminde her bir parti, iş veya sipariş için ayrı bir maliyet kartı açılarak DİMM, DİG ve GÜG bu kartlarda toplanır.<br>II. Safha maliyet sisteminde maliyetler belirli bir zaman diliminde (örneğin aylık) üretim safhalarında (gider yerlerinde) toplanır ve ortalama birim maliyet hesaplanır.<br>III. Safha maliyet sisteminde üretim kesintili ve tamamen özel müşteri taleplerine (spesifikasyonlarına) göre yapılır.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşçilik maliyetlerinde standart sapan bir üretim bandında gerçekleşen detaylı veriler aşağıdaki tabloda özetlenmiştir:\n\n| İşçilik Parametreleri | Değerler |\n| :--- | :--- |\n| Planlanan Standart Üretim Miktarı | 5.000 Adet |\n| Birim Mamul İçin Standart Süre | 0,5 Saat / Adet |\n| Standart İşçilik Saat Ücreti | 100 ₺ / Saat |\n| Gerçekleşen Fiili Üretim Miktarı | 4.800 Adet |\n| Fiili Çalışılan Toplam Süre | 2.500 Saat |\n| Fiili İşçilik Saat Ücreti | 105 ₺ / Saat |\n\nBu tabloya göre, firmanın Direkt İşçilik Giderleri 'Süre (Zaman / Verim) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 5.000 ₺ Olumlu (Kârına)",
+      "B) 5.000 ₺ Olumsuz (Zararına)",
+      "C) 10.000 ₺ Olumlu (Kârına)",
+      "D) 10.000 ₺ Olumsuz (Zararına)",
+      "E) 12.500 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Safha maliyet sisteminde Ortalama Maliyet Yöntemini kullanan bir işletmenin maliyet ve eşdeğer üretim tablosu şöyledir:\n\n| Maliyet Unsuru | Dönem Başı Yarı Mamul Maliyeti | Cari Dönem Harcamaları | Eşdeğer Mamul Miktarı |\n| :--- | :--- | :--- | :--- |\n| DİMM | 25.000 ₺ | 175.000 ₺ | 10.000 Adet |\n| Şekillendirme (DİG+GÜG) | 15.000 ₺ | 135.000 ₺ | 10.000 Adet |\n\nOrtalama Maliyet Yöntemine göre hesaplanan 'Toplam Eşdeğer Birim Mamul Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 30 ₺",
+      "B) 31 ₺",
+      "C) 35 ₺",
+      "D) 40 ₺",
+      "E) 45 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dönem sonu Satılan Mamuller Maliyeti (SMM) Tablosunu hazırlayan bir endüstri işletmesinin detaylı stok ve gider mizanı şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Üretimde Kullanılan DİMM | 300.000 ₺ |\n| Direkt İşçilik Giderleri | 200.000 ₺ |\n| Genel Üretim Giderleri | 150.000 ₺ |\n| Dönem Başı Yarı Mamul Stoku | 80.000 ₺ |\n| Dönem Sonu Yarı Mamul Stoku | 60.000 ₺ |\n| Dönem Başı Mamul Stoku | 120.000 ₺ |\n| Dönem Sonu Mamul Stoku | 90.000 ₺ |\n\nBu büyük tabloya göre işletmenin gelir tablosuna aktaracağı 'Satılan Mamullerin Maliyeti (SMM)' kaç ₺'dir?",
+    "options": [
+      "A) 650.000 ₺",
+      "B) 670.000 ₺",
+      "C) 700.000 ₺",
+      "D) 720.000 ₺",
+      "E) 750.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Genel Üretim Giderlerinin (GÜG) ikinci dağıtımıyla ilgili yöntemler tartışılırken şu öncüller öne sürülmüştür:<br><br>I. Matematiksel dağıtım yöntemi, yardımcı gider yerlerinin birbirine sunduğu hizmetleri tam olarak dikkate alan en hassas yöntemdir.<br>II. Kademeli dağıtım yönteminde dağıtıma başlanacak gider yeri, diğer gider yerlerine en az hizmet sunan yer olmalıdır.<br>III. Basit (doğrudan) dağıtım yönteminde yardımcı gider yerleri birbirine kesinlikle pay vermez, sadece esas üretim yerlerine pay verir.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İlk madde ve malzeme stok değerleme yöntemlerinden 'Ağırlıklı Ortalama Maliyet' yöntemini uygulayan bir işletmenin Mart ayı hammadde hareket tablosu şöyledir:\n\n| Tarih | İşlem Türü | Miktar | Birim Fiyat | Toplam Tutar |\n| :--- | :--- | :--- | :--- | :--- |\n| 01 Mart | Dönem Başı Devir | 1.000 Birim | 10 ₺ | 10.000 ₺ |\n| 10 Mart | Alış | 3.000 Birim | 14 ₺ | 42.000 ₺ |\n\nİşletme 15 Mart tarihinde üretime 2.500 birim hammadde sevk etmiştir. Ağırlıklı Ortalama Maliyet yöntemine göre üretime sevk edilen bu hammaddenin toplam maliyeti kaç ₺ olarak kaydedilecektir?",
+    "options": [
+      "A) 25.000 ₺",
+      "B) 30.000 ₺",
+      "C) 32.500 ₺",
+      "D) 35.000 ₺",
+      "E) 37.500 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Standart maliyet uygulayan bir işletmede, üretim kapasitesinin kullanımıyla ilgili GÜG sapmaları analiz edilirken; 'Bütçelenen Sabit GÜG' ile 'Fiili Üretime Yüklenen Standart Sabit GÜG' arasındaki fark hesaplanmıştır.<br><br>Bu farkın ifade ettiği maliyet sapması türü literatürde hangi isimle adlandırılır?",
+    "options": [
+      "A) GÜG Bütçe (Harcama) Sapması",
+      "B) GÜG Verim Sapması",
+      "C) GÜG Kapasite Sapması",
+      "D) DİG Süre Sapması",
+      "E) DİMM Fiyat Sapması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tam Maliyet Yöntemi ile Değişken Maliyet Yöntemi arasındaki temel fark, Sabit Genel Üretim Giderlerinin (GÜG) ürün maliyetlerine yüklenip yüklenmemesidir. Bir işletmenin ilk faaliyet yılına ait verileri şöyledir:\n\n| Veriler | Miktar / Tutar |\n| :--- | :--- |\n| Üretim Miktarı | 10.000 Adet |\n| Satış Miktarı | 8.000 Adet |\n| Birim Değişken Üretim Maliyeti | 20 ₺/Adet |\n| Toplam Sabit Genel Üretim Gideri | 50.000 ₺ |\n\nBu verilere göre, Tam Maliyet Yöntemine göre hesaplanan faaliyet kârı, Değişken Maliyet Yöntemine göre hesaplanan faaliyet kârından ne kadar farklıdır?",
+    "options": [
+      "A) Tam Maliyet kârı 10.000 ₺ daha düşüktür.",
+      "B) Tam Maliyet kârı 10.000 ₺ daha yüksektir.",
+      "C) Değişken Maliyet kârı 50.000 ₺ daha yüksektir.",
+      "D) İki yönteme göre kâr aynıdır.",
+      "E) Tam Maliyet kârı 40.000 ₺ daha yüksektir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir işletmenin hedef kâr ve başabaş analizi (CVP) verileri aşağıdaki tabloda sunulmuştur:\n\n| Kalemler | Tutar / Oran |\n| :--- | :--- |\n| Birim Satış Fiyatı | 200 ₺ |\n| Birim Değişken Gider | 120 ₺ |\n| Toplam Sabit Giderler | 300.000 ₺ |\n| Hedeflenen Net Kâr (Vergi Sonrası) | 160.000 ₺ |\n| Kurumlar Vergisi Oranı | %20 |\n\nİşletmenin hedeflediği bu vergi sonrası net kâra ulaşabilmesi için satış yapması gereken miktar kaç adettir?",
+    "options": [
+      "A) 5.000 Adet",
+      "B) 5.750 Adet",
+      "C) 6.250 Adet",
+      "D) 6.500 Adet",
+      "E) 7.000 Adet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Safha maliyet sisteminde Ağırlıklı Ortalama Maliyet yöntemini kullanan bir işletmenin 'Direkt İlk Madde ve Malzeme (DİMM)' üretim akışı verileri şöyledir:\n\n| Üretim Verileri | Miktar (Adet) | DİMM Tamamlanma |\n| :--- | :--- | :--- |\n| Dönem Başı Yarı Mamul | 4.000 | % 100 |\n| Dönem İçinde Üretime Başlanan | 12.000 | - |\n| Tamamlanıp Devredilen Mamul | 13.000 | % 100 |\n| Dönem Sonu Yarı Mamul | 3.000 | % 100 |\n\n(DİMM, üretim sürecinin başında tam olarak eklenmektedir.) Bu verilere göre, dönemin DİMM açısından 'Eşdeğer Mamul Miktarı' kaç adettir?",
+    "options": [
+      "A) 12.000 Adet",
+      "B) 13.000 Adet",
+      "C) 15.000 Adet",
+      "D) 16.000 Adet",
+      "E) 17.000 Adet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Safha maliyet sisteminde FİFO (İlk Giren İlk Çıkar) yöntemini uygulayan bir fabrikanın üretim verileri aşağıdaki gibidir:\n\n| Üretim Miktar Hareketleri | Miktar (Adet) | Şekillendirme Tamamlanma |\n| :--- | :--- | :--- |\n| Dönem Başı Yarı Mamul | 3.000 Adet | % 40 |\n| Dönem İçinde Üretime Başlanan | 15.000 Adet | - |\n| Tamamlanıp Devredilen Mamul | 14.000 Adet | % 100 |\n| Dönem Sonu Yarı Mamul | 4.000 Adet | % 60 |\n\nBu tabloya göre FİFO yöntemi dikkate alındığında dönemin 'Şekillendirme (DİG+GÜG) Maliyetleri' açısından hesaplanacak Eşdeğer Mamul Miktarı kaç adettir?",
+    "options": [
+      "A) 14.000 Adet",
+      "B) 15.200 Adet",
+      "C) 16.400 Adet",
+      "D) 17.000 Adet",
+      "E) 17.600 Adet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Standart maliyet sistemini uygulayan bir işletmenin Değişken Genel Üretim Giderleri (GÜG) Verim (Etkinlik) sapması analizi için verileri şöyledir:\n\n| Veri Türü | Değerler |\n| :--- | :--- |\n| Fiili Üretim Miktarı | 2.000 Adet |\n| Birim Mamul İçin Standart Süre | 3 Saat / Adet |\n| Fiili Çalışılan Toplam Süre | 6.200 Saat |\n| Standart Değişken GÜG Yükleme Oranı | 15 ₺ / Saat |\n\nBuna göre, Değişken GÜG 'Verim (Etkinlik) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 3.000 ₺ Olumlu (Kârına)",
+      "B) 3.000 ₺ Olumsuz (Zararına)",
+      "C) 6.000 ₺ Olumlu (Kârına)",
+      "D) 6.000 ₺ Olumsuz (Zararına)",
+      "E) 9.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sipariş maliyet sistemini uygulayan bir işletme, Genel Üretim Giderlerini (GÜG) siparişlere yüklemek için 'Tahmini Direkt İşçilik Saatlerini (DİS)' kullanmaktadır. İlgili dönemin başındaki bütçe ve dönem sonundaki fiili veriler şöyledir:\n\n| Kalemler | Bütçelenen (Tahmini) | Fiili Gerçekleşen |\n| :--- | :--- | :--- |\n| Toplam GÜG Tutarı | 500.000 ₺ | 520.000 ₺ |\n| Toplam Direkt İşçilik Süresi | 50.000 Saat | 48.000 Saat |\n\nBu verilere göre, dönem içinde üretimdeki siparişlere 'Yüklenen (Uygulanan) Toplam GÜG Tutarı' kaç ₺'dir?",
+    "options": [
+      "A) 480.000 ₺",
+      "B) 500.000 ₺",
+      "C) 520.000 ₺",
+      "D) 541.666 ₺",
+      "E) 460.000 ₺"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinden çıkan A ve B ana mamullerine ait maliyet dağıtım tablosu verileri şöyledir:\n\n| Mamul | Üretim Miktarı | Nihai Satış Fiyatı | Ayrım Noktasından Sonra Ek Maliyet |\n| :--- | :--- | :--- | :--- |\n| A Mamulü | 5.000 Adet | 30 ₺/Adet | 10 ₺/Adet |\n| B Mamulü | 10.000 Adet | 20 ₺/Adet | 5 ₺/Adet |\n\nAyrım noktasına kadar katlanılan ortak maliyet toplamı 120.000 ₺'dir. Ortak maliyetlerin dağıtımında 'Net Gerçekleşebilir Değer Yöntemi' kullanıldığına göre, A Mamulüne yüklenecek ortak maliyet payı kaç ₺'dir?",
+    "options": [
+      "A) 40.000 ₺",
+      "B) 48.000 ₺",
+      "C) 60.000 ₺",
+      "D) 72.000 ₺",
+      "E) 80.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kalite kontrol sürecinde tespit edilen üretim fireleri ile ilgili işletmenin dönem sonu raporu şöyledir:\n\n| Kalite Kontrol Verileri | Miktar (Adet) |\n| :--- | :--- |\n| Kalite Kontrolden Geçen Toplam Üretim | 10.000 |\n| Sağlam Olarak Ayrılan Mamul | 9.000 |\n| Toplam Fire Miktarı | 1.000 |\n\nİşletme politikasına göre 'Normal Fire' sınırı, sağlam mamul miktarının %5'i olarak kabul edilmektedir.<br><br>Bu üretim sürecinde oluşan 'Anormal Fire' miktarı kaç adettir?",
+    "options": [
+      "A) 450",
+      "B) 500",
+      "C) 550",
+      "D) 950",
+      "E) 1.000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Genel Üretim Giderlerinin ikinci dağıtımında 'Kademeli Dağıtım Yöntemini' kullanan işletmenin X ve Y yardımcı hizmet yerlerine ait I. Dağıtım toplamları ve hizmet yüzdeleri şöyledir:\n\n| Gider Yerleri | I. Dağıtım Toplamı | X'in Hizmet Dağılımı |\n| :--- | :--- | :--- |\n| X Yardımcı Hizmet Yeri | 100.000 ₺ | - |\n| Y Yardımcı Hizmet Yeri | 80.000 ₺ | % 20 |\n\nDağıtıma kurallar gereği X gider yerinden başlanmaktadır. Kademeli dağıtım mantığına göre, sıra Y gider yerine geldiğinde, Y'nin üretim yerlerine dağıtması gereken toplam (birikimli) maliyet tutarı kaç ₺ olacaktır?",
+    "options": [
+      "A) 80.000 ₺",
+      "B) 100.000 ₺",
+      "C) 120.000 ₺",
+      "D) 180.000 ₺",
+      "E) 200.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tek tip mamul satan bir işletmenin Güvenlik Marjı analiz verileri şöyledir:\n\n| Kalemler | Tutar |\n| :--- | :--- |\n| Birim Satış Fiyatı | 40 ₺ |\n| Birim Değişken Gider | 24 ₺ |\n| Toplam Sabit Giderler | 160.000 ₺ |\n| Fiili Gerçekleşen Satış Miktarı | 12.000 Adet |\n\nBu verilere göre işletmenin 'Güvenlik Marjı Miktarı' (satışların zarar etmeden düşebileceği maksimum adet sınırı) kaç birimdir?",
+    "options": [
+      "A) 2.000 Adet",
+      "B) 4.000 Adet",
+      "C) 8.000 Adet",
+      "D) 10.000 Adet",
+      "E) 12.000 Adet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Standart maliyet uygulayan üretim işletmesinin Direkt İlk Madde ve Malzeme (DİMM) Miktar (Kullanım) Sapması analizi şöyledir:\n\n| Veri Türü | Değerler |\n| :--- | :--- |\n| Birim Mamul İçin Standart DİMM Miktarı | 4 kg / Adet |\n| Standart DİMM Birim Fiyatı | 5 ₺ / kg |\n| Fiili Gerçekleşen Üretim Miktarı | 1.000 Adet |\n| Üretimde Kullanılan Toplam Fiili DİMM | 4.200 kg |\n| Fiili Satın Alma Birim Fiyatı | 6 ₺ / kg |\n\nBuna göre işletmenin DİMM 'Miktar (Kullanım) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 1.000 ₺ Olumlu (Kârına)",
+      "B) 1.000 ₺ Olumsuz (Zararına)",
+      "C) 1.200 ₺ Olumsuz (Zararına)",
+      "D) 4.200 ₺ Olumsuz (Zararına)",
+      "E) 5.200 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletmenin Direkt İşçilik Giderleri (DİG) Ücret (Fiyat/Oran) Sapması detayları aşağıdaki gibidir:\n\n| İşçilik Parametreleri | Değerler |\n| :--- | :--- |\n| Standart İşçilik Saat Ücreti | 20 ₺ / Saat |\n| Fiili İşçilik Saat Ücreti | 22 ₺ / Saat |\n| Dönem İçinde Çalışılan Fiili Toplam Süre | 3.000 Saat |\n| Üretim İçin İzin Verilen Standart Süre | 2.800 Saat |\n\nBuna göre, işletmenin DİG 'Ücret (Fiyat/Oran) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 4.000 ₺ Olumsuz (Zararına)",
+      "B) 5.600 ₺ Olumsuz (Zararına)",
+      "C) 6.000 ₺ Olumlu (Kârına)",
+      "D) 6.000 ₺ Olumsuz (Zararına)",
+      "E) 10.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir endüstri işletmesinin Üretilen (Tamamlanan) Mamuller Maliyeti Tablosu hesaplamaları için elindeki detaylı mizan verileri şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Dönem Başı DİMM Stoku | 20.000 ₺ |\n| Dönem İçi DİMM Alışları | 100.000 ₺ |\n| Dönem Sonu DİMM Stoku | 30.000 ₺ |\n| Direkt İşçilik Giderleri (DİG) | 80.000 ₺ |\n| Genel Üretim Giderleri (GÜG) | 60.000 ₺ |\n| Dönem Başı Yarı Mamul Stoku | 40.000 ₺ |\n| Dönem Sonu Yarı Mamul Stoku | 50.000 ₺ |\n\nBu karmaşık tabloya göre işletmenin 'Üretilen (Tamamlanan) Mamullerin Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 210.000 ₺",
+      "B) 220.000 ₺",
+      "C) 230.000 ₺",
+      "D) 250.000 ₺",
+      "E) 270.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Geleneksel hacme dayalı maliyetleme sistemlerinin yetersizliklerini gidermek için geliştirilen 'Faaliyete Dayalı Maliyetleme (ABC - Activity Based Costing)' sistemi ile ilgili olarak;<br><br>I. Maliyetlerin dağıtımında sadece tek bir hacim ölçüsü (örneğin direkt işçilik saati) yerine, faaliyetlere özel çok sayıda 'Maliyet Etkeni (Sürücüsü)' kullanır.<br>II. Eğer ürünlerin üretimine veya satışına doğrudan neden oluyorsa, üretim dışı (pazarlama/tasarım gibi) bazı maliyetleri de ürünlere yükleyebilir.<br>III. Düşük hacimli ancak çok çeşitli ürünlerin üretildiği karmaşık süreçlerde maliyet sapmalarını ve sübvansiyonları minimize eder.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) II ve III",
+      "D) I ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Maliyet-Hacim-Kâr (CVP) analizinde işletmenin faaliyet kaldıracını ölçen bir tablo aşağıdadır:\n\n| Kalemler | Tutar |\n| :--- | :--- |\n| Net Satış Hasılatı | 500.000 ₺ |\n| Toplam Değişken Giderler | 300.000 ₺ |\n| Toplam Sabit Giderler | 100.000 ₺ |\n\nBuna göre işletmenin 'Faaliyet Kaldıraç Derecesi (Operating Leverage)' kaçtır?",
+    "options": [
+      "A) 1,5",
+      "B) 2,0",
+      "C) 2,5",
+      "D) 3,0",
+      "E) 5,0"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Standart Maliyet Sistemini uygulayan bir işletmenin Direkt İlk Madde ve Malzeme (DİMM) analizlerine ilişkin verileri şöyledir:\n\n| Parametreler | Değerler |\n| :--- | :--- |\n| Birim Mamul İçin İzin Verilen Standart Miktar | 5 kg/Adet |\n| Standart DİMM Birim Fiyatı | 20 ₺/kg |\n| Dönem İçinde Gerçekleşen Fiili Üretim | 2.000 Adet |\n| Üretimde Kullanılan Fiili Toplam DİMM | 10.500 kg |\n| Fiili Satın Alma Birim Fiyatı | 22 ₺/kg |\n\nBuna göre, işletmenin bu döneme ait DİMM 'Toplam Sapması' (Fiili Maliyet ile Standart Maliyet arasındaki toplam fark) hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 21.000 ₺ Olumsuz (Zararına)",
+      "B) 31.000 ₺ Olumsuz (Zararına)",
+      "C) 31.000 ₺ Olumlu (Kârına)",
+      "D) 10.000 ₺ Olumsuz (Zararına)",
+      "E) 11.000 ₺ Olumlu (Kârına)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Safha maliyet sisteminde Ortalama Maliyet Yöntemini uygulayan bir işletmenin eşdeğer mamul maliyet analizine ait karmaşık verileri şöyledir:\n\n| Maliyet Unsuru | Dönem Başı Yarı Mamul Maliyeti | Cari Dönem Üretim Harcamaları | Dönem Eşdeğer Mamul Miktarı |\n| :--- | :--- | :--- | :--- |\n| Direkt İlk Madde ve Malzeme (DİMM) | 50.000 ₺ | 250.000 ₺ | 10.000 Adet |\n| Şekillendirme (DİG + GÜG) | 30.000 ₺ | 150.000 ₺ | 9.000 Adet |\n\nOrtalama Maliyet Yöntemi mantığına göre, bu işletmenin 'Toplam Eşdeğer Birim Mamul Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 40 ₺",
+      "B) 45 ₺",
+      "C) 50 ₺",
+      "D) 55 ₺",
+      "E) 60 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Birden fazla mamul üreten bir işletmenin Maliyet-Hacim-Kâr (CVP) analizi karma tablosu aşağıdaki gibidir:\n\n| Mamul Türü | Satış Karması (Bileşimi) | Birim Satış Fiyatı | Birim Değişken Gider |\n| :--- | :--- | :--- | :--- |\n| A Mamulü | % 40 | 100 ₺ | 60 ₺ |\n| B Mamulü | % 60 | 200 ₺ | 120 ₺ |\n\nİşletmenin döneme ait Toplam Sabit Giderleri 320.000 ₺ olarak bütçelenmiştir.<br><br>Sadece B Mamulü açısından düşünüldüğünde, işletmenin zarar etmemesi (karma Başabaş Noktasına ulaşılması) için B mamulünden kaç adet satması gerekir?",
+    "options": [
+      "A) 2.000 Adet",
+      "B) 3.000 Adet",
+      "C) 4.000 Adet",
+      "D) 5.000 Adet",
+      "E) 6.000 Adet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kademeli Dağıtım Yöntemini kullanan bir işletmenin birinci dağıtım toplamları ve yardımcı hizmet yerlerinin hizmet sunum yüzdeleri şöyledir:\n\n| Gider Yerleri | I. Dağıtım Toplamı | X'in Hizmet Dağılımı | Y'nin Hizmet Dağılımı |\n| :--- | :--- | :--- | :--- |\n| X Yardımcı Hizmet Yeri | 100.000 ₺ | % - | % 10 |\n| Y Yardımcı Hizmet Yeri | 80.000 ₺ | % 20 | % - |\n| A Esas Üretim Yeri | 300.000 ₺ | % 50 | % 60 |\n| B Esas Üretim Yeri | 400.000 ₺ | % 30 | % 30 |\n\nKademeli dağıtım kuralları gereği en çok hizmet sunan X gider yerinden dağıtıma başlanmıştır. Dağıtım sırası Y gider yerine geldiğinde, Y'nin üretim yerlerine (A ve B'ye) dağıtacağı ikinci dağıtım 'Toplam (Birikimli) Maliyet' tutarı kaç ₺ olacaktır?",
+    "options": [
+      "A) 80.000 ₺",
+      "B) 90.000 ₺",
+      "C) 100.000 ₺",
+      "D) 110.000 ₺",
+      "E) 120.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dönem sonu Satılan Mamuller Maliyeti (SMM) Tablosunu hazırlayan bir endüstri işletmesinin detaylı mizanı şöyledir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Üretimde Kullanılan DİMM | 150.000 ₺ |\n| Direkt İşçilik Giderleri (DİG) | 100.000 ₺ |\n| Genel Üretim Giderleri (GÜG) | 50.000 ₺ |\n| Dönem Başı Yarı Mamul Stoku | 40.000 ₺ |\n| Dönem Sonu Yarı Mamul Stoku | 60.000 ₺ |\n| Dönem Başı Mamul Stoku | 90.000 ₺ |\n| Dönem Sonu Mamul Stoku | 70.000 ₺ |\n\nBu tabloya göre işletmenin gelir tablosuna aktaracağı 'Satılan Mamullerin Maliyeti (SMM)' kaç ₺'dir?",
+    "options": [
+      "A) 250.000 ₺",
+      "B) 280.000 ₺",
+      "C) 300.000 ₺",
+      "D) 320.000 ₺",
+      "E) 350.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletmenin Direkt İşçilik Giderleri (DİG) sapma analizine ait verileri aşağıdaki gibidir:\n\n| İşçilik Parametreleri | Değerler |\n| :--- | :--- |\n| Birim Mamul İçin Standart Süre | 4 Saat/Adet |\n| Standart İşçilik Saat Ücreti | 20 ₺/Saat |\n| Gerçekleşen Fiili Üretim | 1.000 Adet |\n| Fiili Çalışılan Toplam Süre | 4.500 Saat |\n| Fiili İşçilik Saat Ücreti | 22 ₺/Saat |\n\nBu bilgilere göre, işletmenin DİG 'Ücret (Fiyat/Oran) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 8.000 ₺ Olumsuz (Zararına)",
+      "B) 9.000 ₺ Olumlu (Kârına)",
+      "C) 9.000 ₺ Olumsuz (Zararına)",
+      "D) 10.000 ₺ Olumsuz (Zararına)",
+      "E) 12.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinden çıkan A ve B ana mamullerine ilişkin maliyet ve satış verileri şöyledir:\n\n| Mamul | Üretim Miktarı | Nihai (Son) Satış Fiyatı | Ayrım Noktasından Sonra Ek Maliyet |\n| :--- | :--- | :--- | :--- |\n| A Mamulü | 5.000 kg | 25 ₺/kg | 5 ₺/kg |\n| B Mamulü | 10.000 kg | 20 ₺/kg | 5 ₺/kg |\n\nAyrım noktasına kadar katlanılan ortak üretim maliyeti toplam 500.000 ₺'dir.<br><br>Ortak maliyetler 'Net Gerçekleşebilir Değer Yöntemine' göre dağıtıldığında, A Mamulüne yüklenecek ortak maliyet payı kaç ₺ olur?",
+    "options": [
+      "A) 150.000 ₺",
+      "B) 200.000 ₺",
+      "C) 250.000 ₺",
+      "D) 300.000 ₺",
+      "E) 350.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Safha maliyet sisteminde FİFO (İlk Giren İlk Çıkar) yöntemini uygulayan bir işletmede, Şekillendirme giderleri için hesaplanan Eşdeğer Mamul Miktarı 12.000 adet olarak bulunmuştur.\n\n| Maliyet Kalemi | Tutar |\n| :--- | :--- |\n| Dönem Başı Yarı Mamul Şekillendirme Maliyeti | 60.000 ₺ |\n| Cari Dönem Şekillendirme Harcamaları | 360.000 ₺ |\n\nFİFO yönteminin teorik kuralı (geçmiş dönemi cari dönemden ayırma prensibi) dikkate alındığında, cari dönemin 'Şekillendirme Eşdeğer Birim Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 25 ₺",
+      "B) 30 ₺",
+      "C) 35 ₺",
+      "D) 40 ₺",
+      "E) 50 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tek tip mamul satan bir işletmenin Güvenlik Marjı ve Başabaş (CVP) analiz verileri şöyledir:\n\n| Kalemler | Tutar / Oran |\n| :--- | :--- |\n| Fiili (Veya Hedeflenen) Net Satış Hasılatı | 800.000 ₺ |\n| Katkı Payı Oranı (Marjı) | % 25 |\n| Toplam Sabit Giderler | 150.000 ₺ |\n\nBu verilere göre, işletmenin satışlarının yüzde kaç düşmesi halinde zarar etmeye başlayacağını gösteren 'Güvenlik Marjı Oranı' yüzde kaçtır?",
+    "options": [
+      "A) % 15",
+      "B) % 20",
+      "C) % 25",
+      "D) % 30",
+      "E) % 40"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kalite kontrol sürecinde tespit edilen üretim fireleri (kayıplar) ile ilgili hesaplamalar şöyledir:\n\n| Üretim / Kalite Kontrol Verileri | Miktar / Tutar |\n| :--- | :--- |\n| Sağlam Mamul Miktarı | 10.000 Adet |\n| Normal (Olağan) Fire Miktarı | 500 Adet |\n| Anormal Fire Miktarı | 500 Adet |\n| Bu Süreçte Katlanılan Toplam Üretim Maliyeti | 550.000 ₺ |\n\nİşletme, firelerin maliyetini eşdeğer birim üzerinden hesaplamaktadır. Bu bilgilere göre, doğrudan dönem gideri/zararı olarak kaydedilmesi gereken 'Anormal Fire Maliyeti' toplam kaç ₺'dir?",
+    "options": [
+      "A) 20.000 ₺",
+      "B) 25.000 ₺",
+      "C) 30.000 ₺",
+      "D) 50.000 ₺",
+      "E) 55.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Faaliyete Dayalı Maliyetleme (ABC) sistemini uygulayan bir üretim işletmesinde 'Makine Ayar Giderleri' için faaliyet maliyeti havuzu oluşturulmuştur.\n\n| Faaliyet Maliyet Verileri | Değerler |\n| :--- | :--- |\n| Toplam Makine Ayar Giderleri (Havuz) | 100.000 ₺ |\n| İşletmedeki Toplam Ayar Sayısı (Maliyet Etkeni) | 500 Kez |\n| Sadece X Mamulü İçin Yapılan Ayar Sayısı | 100 Kez |\n\nBu maliyetleme sistemine göre, X mamulüne yüklenecek olan Makine Ayar Gideri payı toplam kaç ₺'dir?",
+    "options": [
+      "A) 10.000 ₺",
+      "B) 15.000 ₺",
+      "C) 20.000 ₺",
+      "D) 25.000 ₺",
+      "E) 50.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Normal Maliyet Sistemini uygulayan bir işletmede Genel Üretim Giderleri (GÜG), bütçelenen Direkt İşçilik Saatleri (DİS) baz alınarak siparişlere yüklenmektedir.\n\n| Kalemler | Tutar / Süre |\n| :--- | :--- |\n| Bütçelenen (Tahmini) Toplam GÜG | 400.000 ₺ |\n| Bütçelenen (Tahmini) Toplam DİS | 20.000 Saat |\n| Gerçekleşen Fiili DİS | 18.000 Saat |\n| Gerçekleşen Fiili Toplam GÜG | 370.000 ₺ |\n\nBu verilere göre, dönem sonunda ortaya çıkan GÜG 'Eksik veya Fazla Yükleme Farkı' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 10.000 ₺ Fazla Yükleme",
+      "B) 10.000 ₺ Eksik Yükleme",
+      "C) 30.000 ₺ Fazla Yükleme",
+      "D) 30.000 ₺ Eksik Yükleme",
+      "E) 40.000 ₺ Eksik Yükleme"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Birinci dağıtım aşamasında 'Yemekhane Giderleri' toplamı 150.000 ₺ olarak gerçekleşmiştir. Bu gider, gider yerlerinde çalışan personel yüzdelerine göre dağıtılacaktır:\n\n| Gider Yerleri | Personel Oranı |\n| :--- | :--- |\n| A Esas Üretim Yeri | % 40 |\n| B Esas Üretim Yeri | % 30 |\n| X Yardımcı Hizmet Yeri | % 20 |\n| Y Yardımcı Hizmet Yeri | % 10 |\n\nBuna göre, doğrudan B Esas Üretim Yerine yüklenecek yemekhane gideri payı kaç ₺'dir?",
+    "options": [
+      "A) 15.000 ₺",
+      "B) 30.000 ₺",
+      "C) 45.000 ₺",
+      "D) 60.000 ₺",
+      "E) 75.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Standart maliyet sisteminde sabit üretim giderlerinin (Kapasite) sapması analiz edilmektedir:\n\n| Veriler | Değer |\n| :--- | :--- |\n| Bütçelenen (Normal) Kapasite Süresi | 10.000 Saat |\n| Gerçekleşen Fiili Çalışma Süresi | 8.500 Saat |\n| Standart Sabit GÜG Yükleme Oranı | 15 ₺/Saat |\n\nBu tabloya göre, işletmenin GÜG 'Kapasite Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 22.500 ₺ Olumlu (Kârına)",
+      "B) 22.500 ₺ Olumsuz (Zararına)",
+      "C) 15.000 ₺ Olumsuz (Zararına)",
+      "D) 15.000 ₺ Olumlu (Kârına)",
+      "E) 30.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sipariş maliyet sistemini uygulayan bir işletmede, (No: 101) numaralı sipariş tamamlanmıştır. Sipariş maliyet kartındaki gerçekleşmeler şöyledir:\n\n| Maliyet Unsurları | Gerçekleşme |\n| :--- | :--- |\n| Direkt İlk Madde ve Malzeme (DİMM) | 50.000 ₺ |\n| Direkt İşçilik Giderleri (DİG) | 30.000 ₺ |\n| Bu Sipariş İçin Harcanan DİS | 1.000 Saat |\n\nİşletme, Genel Üretim Giderlerini (GÜG) Direkt İşçilik Saati (DİS) başına 40 ₺ tahmini yükleme oranı ile siparişlere yüklemektedir.<br><br>Buna göre (No: 101) numaralı siparişin 'Toplam Üretim Maliyeti' kaç ₺ olarak hesaplanıp mamuller hesabına devredilir?",
+    "options": [
+      "A) 80.000 ₺",
+      "B) 100.000 ₺",
+      "C) 120.000 ₺",
+      "D) 150.000 ₺",
+      "E) 180.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Faaliyete Dayalı Maliyetleme (ABC) sistemi uygulayan bir işletmede, ürünlere maliyet yüklemek için 'Maliyet Etkenleri (Sürücüleri)' kullanılmaktadır.<br><br>Buna göre, 'Kalite Kontrol Giderleri' faaliyet havuzunun ürünlere dağıtılmasında aşağıdaki maliyet etkenlerinden hangisinin kullanılması en uygundur?",
+    "options": [
+      "A) Üretilen toplam birim (adet) sayısı",
+      "B) Yapılan kalite kontrol test / muayene sayısı",
+      "C) Makinelerin çalışma süresi",
+      "D) Tüketilen direkt ilk madde ve malzeme tutarı",
+      "E) İşçilerin fabrikada geçirdikleri toplam süre"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Safha maliyet sisteminde FİFO (İlk Giren İlk Çıkar) yöntemini kullanan bir işletmenin Şekillendirme maliyetlerine ait verileri şöyledir:\n\n| Üretim Miktar Hareketleri | Miktar (Adet) | Şekillendirme Tamamlanma |\n| :--- | :--- | :--- |\n| Dönem Başı Yarı Mamul | 5.000 Adet | % 30 |\n| Dönem İçinde Üretime Başlanan | 20.000 Adet | - |\n| Tamamlanıp Devredilen Mamul | 21.000 Adet | % 100 |\n| Dönem Sonu Yarı Mamul | 4.000 Adet | % 50 |\n\nBu karmaşık tabloya göre FİFO yöntemi kullanıldığında, cari dönemin 'Şekillendirme (DİG+GÜG) Maliyetleri' açısından hesaplanacak Eşdeğer Mamul Miktarı kaç adettir?",
+    "options": [
+      "A) 21.000 Adet",
+      "B) 21.500 Adet",
+      "C) 23.000 Adet",
+      "D) 24.500 Adet",
+      "E) 25.000 Adet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Genel Üretim Giderlerinin (GÜG) ikinci dağıtımında, 'Matematiksel (Cebirsel) Dağıtım Yöntemini' kullanan bir işletmede X ve Y yardımcı hizmet yerleri bulunmaktadır.\n\n| Gider Yerleri | I. Dağıtım Toplamı | Birbirlerine Sunulan Hizmet Oranları |\n| :--- | :--- | :--- |\n| X Yardımcı Hizmet Yeri | 150.000 ₺ | Y'den % 20 hizmet almaktadır. |\n| Y Yardımcı Hizmet Yeri | 120.000 ₺ | X'ten % 10 hizmet almaktadır. |\n\nBu bilgilere göre, Y gider yerinin dağıtıma tabi tutulacak toplam (birikimli) maliyetini gösteren cebirsel denklem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Y = 120.000 ₺ + 0,10 X",
+      "B) Y = 120.000 ₺ + 0,20 X",
+      "C) Y = 150.000 ₺ + 0,10 X",
+      "D) X = 150.000 ₺ + 0,10 Y",
+      "E) Y = 120.000 ₺"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Standart maliyet sistemini uygulayan bir işletmenin Direkt İşçilik Giderleri (DİG) Süre (Verim) sapmasına ait detayları aşağıdaki gibidir:\n\n| İşçilik Parametreleri | Değerler |\n| :--- | :--- |\n| Standart İşçilik Saat Ücreti | 50 ₺ / Saat |\n| Fiili Çalışılan Toplam Süre | 4.200 Saat |\n| Üretim İçin İzin Verilen Standart Süre | 4.000 Saat |\n\nBuna göre, işletmenin DİG 'Süre (Verim) Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 10.000 ₺ Olumlu (Kârına)",
+      "B) 10.000 ₺ Olumsuz (Zararına)",
+      "C) 11.000 ₺ Olumlu (Kârına)",
+      "D) 11.000 ₺ Olumsuz (Zararına)",
+      "E) 20.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletmenin hedef kâr ve başabaş analizi (CVP) planlamasında kullandığı veriler aşağıdaki tabloda sunulmuştur:\n\n| Kalemler | Tutar / Oran |\n| :--- | :--- |\n| Birim Satış Fiyatı | 500 ₺ |\n| Birim Değişken Gider | 300 ₺ |\n| Toplam Sabit Giderler | 400.000 ₺ |\n| Hedeflenen Net Kâr (Vergi Öncesi) | 200.000 ₺ |\n\nİşletmenin hedeflediği bu vergi öncesi kâra ulaşabilmesi için satış yapması gereken miktar kaç adettir?",
+    "options": [
+      "A) 2.000 Adet",
+      "B) 3.000 Adet",
+      "C) 4.000 Adet",
+      "D) 5.000 Adet",
+      "E) 6.000 Adet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sipariş maliyet sistemini uygulayan ve GÜG (Genel Üretim Giderleri) yükleme oranı kullanan bir işletmede, yıl sonunda şu veriler tespit edilmiştir:\n\n| Kalemler | Tutar |\n| :--- | :--- |\n| Siparişlere Yüklenen Toplam GÜG | 650.000 ₺ |\n| Gerçekleşen Fiili Toplam GÜG | 620.000 ₺ |\n\nDönem sonu muhasebe kayıtlarında bu sapma (fark) ile ilgili yapılacak işlem aşağıdakilerden hangisidir?",
+    "options": [
+      "A) 30.000 ₺ 'Eksik Yükleme' olduğu için Satılan Mamuller Maliyetine borç kaydedilir.",
+      "B) 30.000 ₺ 'Fazla Yükleme' olduğu için Satılan Mamuller Maliyeti (veya Sapma hesabı) alacaklandırılarak kâr artırıcı etki yaratılır.",
+      "C) 30.000 ₺ doğrudan gelecek yıla devredilir.",
+      "D) Tüm fark 152 Mamuller hesabına borç kaydedilir.",
+      "E) Fiili tutar geçerli kabul edilir ve fark için hiçbir muhasebe kaydı yapılmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ortak (birleşik) üretim sürecinden elde edilen X, Y ve Z mamullerinin maliyet dağıtım verileri şöyledir:\n\n| Mamul Türü | Üretim Miktarı | Ayrım Noktasındaki Satış Fiyatı |\n| :--- | :--- | :--- |\n| X Mamulü | 2.000 kg | 40 ₺/kg |\n| Y Mamulü | 5.000 kg | 20 ₺/kg |\n| Z Mamulü | 3.000 kg | 60 ₺/kg |\n\nAyrım noktasına kadar katlanılan ortak maliyet toplamı 720.000 ₺'dir.<br><br>İşletme, ortak maliyetleri 'Satış Değeri Yöntemine' göre dağıttığında Z mamulüne yüklenecek ortak maliyet payı kaç ₺ olur?",
+    "options": [
+      "A) 160.000 ₺",
+      "B) 200.000 ₺",
+      "C) 240.000 ₺",
+      "D) 360.000 ₺",
+      "E) 400.000 ₺"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir işletmenin safha maliyet üretim sürecinde gerçekleşen firelerle ilgili verileri şöyledir:\n\n| Üretim / Kalite Kontrol Verileri | Miktar / Tutar |\n| :--- | :--- |\n| Sağlam Mamul Miktarı | 8.000 Adet |\n| Toplam Fire Miktarı | 1.000 Adet |\n| Bu Süreçte Katlanılan Toplam Üretim Maliyeti | 360.000 ₺ |\n\nİşletme politikasına göre 'Normal Fire' sınırı, üretime giren toplam miktarın %5'i olarak belirlenmiştir.<br><br>Bu bilgilere göre, 'Anormal Fire' miktarı kaç adettir?",
+    "options": [
+      "A) 400 Adet",
+      "B) 450 Adet",
+      "C) 500 Adet",
+      "D) 550 Adet",
+      "E) 600 Adet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İkinci dağıtımda Kademeli Dağıtım Yöntemini kullanan bir işletmenin verileri aşağıdaki tabloda detaylı olarak verilmiştir:\n\n| Gider Yerleri | I. Dağıtım Toplamı | A'nın Hizmet Dağılımı | B'nin Hizmet Dağılımı |\n| :--- | :--- | :--- | :--- |\n| A Yardımcı Hizmet Yeri | 200.000 ₺ | % - | % 20 |\n| B Yardımcı Hizmet Yeri | 150.000 ₺ | % 25 | % - |\n| X Esas Üretim Yeri | 500.000 ₺ | % 45 | % 50 |\n| Y Esas Üretim Yeri | 600.000 ₺ | % 30 | % 30 |\n\nDağıtıma diğer yerlere daha çok hizmet sunan A Yardımcı Hizmet Yerinden başlanmaktadır. Dağıtım kuralları gereği A gider yeri, B gider yerine ne kadarlık bir maliyet payı aktaracaktır?",
+    "options": [
+      "A) 30.000 ₺",
+      "B) 45.000 ₺",
+      "C) 50.000 ₺",
+      "D) 60.000 ₺",
+      "E) 75.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yarı değişken (karma) bir maliyet olan 'Bakım Onarım Giderlerini' sabit ve değişken kısımlara ayırmak için kullanılan En Yüksek ve En Düşük Hacim (Uç Değerler) Yöntemine ait veriler şöyledir:\n\n| Faaliyet Düzeyi | Makine Çalışma Süresi | Toplam Karma Bakım Maliyeti |\n| :--- | :--- | :--- |\n| En Yüksek Hacim Noktası | 12.000 Saat | 280.000 ₺ |\n| En Düşük Hacim Noktası | 4.000 Saat | 120.000 ₺ |\n\nBuna göre, bu gider kaleminin 'Birim Değişken Gideri (Saat başına düşen pay)' kaç ₺'dir?",
+    "options": [
+      "A) 10 ₺",
+      "B) 15 ₺",
+      "C) 20 ₺",
+      "D) 25 ₺",
+      "E) 30 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Maliyet muhasebesinde kullanılan Standart Maliyet Sistemi ile ilgili olarak;<br><br>I. Standart maliyetler, gelecekte olması gereken 'bilimsel ve rasyonel' hedefleri gösterir.<br>II. Gerçekleşen fiili maliyetler ile standart maliyetler arasındaki farklara 'Sapma' denir.<br>III. Standart maliyet sistemi sadece üretim işletmelerinde kullanılabilir, hizmet işletmelerinde kullanılamaz.<br><br>Yargılarından hangisi veya hangileri doğrudur?",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dönem sonu Satılan Mamuller Maliyeti Tablosunu hazırlayan bir işletmenin stok tutarları aşağıdaki gibidir:\n\n| Hesaplar | Tutar |\n| :--- | :--- |\n| Üretimde Kullanılan Toplam Maliyet (DİMM+DİG+GÜG) | 800.000 ₺ |\n| Dönem Başı Yarı Mamul Stoku | 100.000 ₺ |\n| Dönem Sonu Yarı Mamul Stoku | 150.000 ₺ |\n\nBu verilere göre, işletmenin o döneme ait 'Üretilen (Tamamlanan) Mamullerin Maliyeti' kaç ₺'dir?",
+    "options": [
+      "A) 650.000 ₺",
+      "B) 700.000 ₺",
+      "C) 750.000 ₺",
+      "D) 850.000 ₺",
+      "E) 900.000 ₺"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletmenin Standart Maliyet Sisteminde Direkt İlk Madde ve Malzeme (DİMM) Fiyat (Satın Alma) Sapması analizi şöyledir:\n\n| Veri Türü | Değerler |\n| :--- | :--- |\n| Standart DİMM Birim Fiyatı | 30 ₺ / kg |\n| Fiili Satın Alınan DİMM Miktarı | 5.000 kg |\n| Üretimde Kullanılan Fiili DİMM | 4.500 kg |\n| Fiili Satın Alma Birim Fiyatı | 28 ₺ / kg |\n\nİşletme fiyat sapmasını 'satın alma anında' kaydettiğine göre, DİMM 'Fiyat Sapması' hangi yönde ve kaç ₺'dir?",
+    "options": [
+      "A) 9.000 ₺ Olumlu (Kârına)",
+      "B) 9.000 ₺ Olumsuz (Zararına)",
+      "C) 10.000 ₺ Olumlu (Kârına)",
+      "D) 10.000 ₺ Olumsuz (Zararına)",
+      "E) 140.000 ₺ Olumsuz (Zararına)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tek tip mamul satan bir işletmenin Güvenlik Marjı ve Başabaş (CVP) analiz verileri şöyledir:\n\n| Kalemler | Tutar |\n| :--- | :--- |\n| Fiili (Veya Hedeflenen) Net Satış Hasılatı | 1.000.000 ₺ |\n| Başabaş (Kâra Geçiş) Noktası Satış Tutarı | 600.000 ₺ |\n\nBu verilere göre işletmenin 'Güvenlik Marjı Tutarı' (satışların zarar etmeden düşebileceği maksimum ciro sınırı) kaç ₺'dir?",
+    "options": [
+      "A) 200.000 ₺",
+      "B) 400.000 ₺",
+      "C) 600.000 ₺",
+      "D) 800.000 ₺",
+      "E) 1.600.000 ₺"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdaki dağıtım anahtarlarından hangisi, üretim işletmelerinde 'Personel Taşıma (Servis) Giderlerinin' gider yerlerine birinci dağıtımında kullanılacak en uygun, mantıklı ve adil ölçüttür?",
+    "options": [
+      "A) Gider yerlerinin kapladığı m² alan",
+      "B) Gider yerlerindeki makinelerin toplam çalışma saati",
+      "C) Gider yerlerinde çalışan personel sayısı",
+      "D) Gider yerlerinde tüketilen malzeme miktarı",
+      "E) Gider yerlerindeki kurulu makine gücü (kW)"
+    ],
+    "answer": 2
+  }
+ ]
 }
 
