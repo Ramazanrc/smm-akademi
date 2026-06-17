@@ -7742,6 +7742,633 @@
       "E) 131 Ortaklardan Alacaklar Hs."
     ],
     "answer": 1
+  },
+  {
+    "q": "İşletme, bir projenin finansmanı için 500.000 TL nominal değerli, 2 yıl vadeli tahvilleri banka aracılığıyla 450.000 TL bedelle (iskontolu) ihraç etmiştir. Satış bedeli işletmenin banka hesabına geçmiştir.<br><br>Bu tahvil ihracına ait yevmiye kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>780 FİNANSMAN GİDERLERİ HS.<br><span style='margin-left: 15px;'>405 ÇIKARILMIŞ TAHVİLLER HS.</span></td><td style='text-align: right; width: 70px;'>450.000<br>50.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>500.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>308 MENKUL KIYMET İHRAÇ FARKI HS.<br><span style='margin-left: 15px;'>405 ÇIKARILMIŞ TAHVİLLER HS.</span></td><td style='text-align: right; width: 70px;'>450.000<br>50.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>500.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>408 MENKUL KIYMET İHRAÇ FARKI HS.<br><span style='margin-left: 15px;'>405 ÇIKARILMIŞ TAHVİLLER HS.</span></td><td style='text-align: right; width: 70px;'>450.000<br>50.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>500.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>405 ÇIKARILMIŞ TAHVİLLER HS.</span><br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>500.000<br><br><br></td><td style='text-align: right; width: 70px;'><br>450.000<br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>656 KAMBİYO ZARARLARI HS.<br><span style='margin-left: 15px;'>405 ÇIKARILMIŞ TAHVİLLER HS.</span></td><td style='text-align: right; width: 70px;'>450.000<br>50.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>500.000</td></tr></table>"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletmenin dönem sonu KDV tahakkuku öncesinde hesaplarının durumu şu şekildedir:<br>191 İndirilecek KDV Hs: 40.000 TL<br>391 Hesaplanan KDV Hs: 30.000 TL<br>190 Devreden KDV Hs (Önceki dönemden): 5.000 TL<br><br>Bu bilgilere göre, KDV tahakkuk kaydı yapıldığında '190 Devreden KDV Hs.'na ilgili aya ait olarak kaydedilecek ilave devreden KDV tutarı (borç kaydı) ne kadardır?",
+    "options": [
+      "A) 5.000 TL",
+      "B) 10.000 TL",
+      "C) 15.000 TL",
+      "D) 30.000 TL",
+      "E) Hiçbiri, 360 hesaba alacak kaydedilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletmenin daha önce 1 USD = 25 TL kurundan kaydedilen kredili ihracattan doğan 10.000 USD'lik müşteri alacağı, banka aracılığıyla tahsil edilmiştir. Tahsilat tarihinde kur 1 USD = 24 TL'ye düşmüştür.<br><br>Bu tahsilat işlemine ait yevmiye kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>656 KAMBİYO ZARARLARI HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>240.000<br>10.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>250.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>240.000<br>10.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>250.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span><br><span style='margin-left: 15px;'>646 KAMBİYO KARLARI HS.</span></td><td style='text-align: right; width: 70px;'>250.000<br><br><br></td><td style='text-align: right; width: 70px;'><br>240.000<br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>240.000<br><br></td><td style='text-align: right; width: 70px;'><br>240.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>780 FİNANSMAN GİDERLERİ HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>240.000<br>10.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>250.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Vergi Usul Kanunu'na göre maddi duran varlıklarda uygulanan 'Azalan Bakiyeler (Hızlandırılmış) Amortisman Yöntemi' ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Uygulanacak amortisman oranı, normal amortisman oranının iki katıdır.",
+      "B) Bu yöntemde uygulanacak azami amortisman oranı %50'yi geçemez.",
+      "C) Amortisman süresinin son yılında, o yıla kadar itfa edilmemiş (kalan) tutarın tamamı tek seferde gider yazılır.",
+      "D) İşletmeler azalan bakiyeler yönteminden vazgeçip normal amortisman yöntemine dönebilirler.",
+      "E) Normal amortisman yönteminden vazgeçip azalan bakiyeler yöntemine geçiş yapılması serbesttir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İşletmenin dönem sonu kasa sayımında kasada fiilen 15.000 TL nakit bulunduğu saptanmış, muhasebe kayıtlarında ise '100 Kasa Hs.' borç kalanının 13.000 TL olduğu görülmüştür. Farkın nedeni anlaşılamamıştır.<br><br>Dönem sonunda bu durumun yevmiye kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>397 SAYIM VE TESELLÜM FAZLALARI HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>197 SAYIM VE TESELLÜM NOKSANLARI HS.<br><span style='margin-left: 15px;'>100 KASA HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>397 SAYIM VE TESELLÜM FAZLALARI HS.<br><span style='margin-left: 15px;'>100 KASA HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aralıklı (Aralıklı) envanter yöntemini kullanan bir ticari işletmenin dönem sonu verileri şu şekildedir:<br>Dönem Başı Mal Mevcudu: 20.000 TL<br>Dönem İçi Alışlar: 80.000 TL<br>Alış İadeleri: 10.000 TL<br>Dönem Sonu Mal Mevcudu: 30.000 TL<br><br>Bu verilere göre, işletmenin Satılan Ticari Mallar Maliyeti (STMM) kaç TL'dir?",
+    "options": [
+      "A) 40.000 TL",
+      "B) 50.000 TL",
+      "C) 60.000 TL",
+      "D) 70.000 TL",
+      "E) 80.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletme aleyhine iş kazası sebebiyle açılan ve devam eden 50.000 TL'lik tazminat davası için dönem sonunda ihtiyatlılık gereği tam karşılık ayrılmasına karar verilmiştir.<br><br>Bu karşılık ayırma işlemine ait yevmiye kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>654 KARŞILIK GİDERLERİ HS.<br><span style='margin-left: 15px;'>379 DİĞER BORÇ VE GİDER KARŞILIKLARI HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>336 DİĞER ÇEŞİTLİ BORÇLAR HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>654 KARŞILIK GİDERLERİ HS.<br><span style='margin-left: 15px;'>372 KIDEM TAZMİNATI KARŞILIĞI HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ HS.<br><span style='margin-left: 15px;'>379 DİĞER BORÇ VE GİDER KARŞILIKLARI HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>659 DİĞER OLAĞAN GİDER VE ZARARLAR HS.<br><span style='margin-left: 15px;'>336 DİĞER ÇEŞİTLİ BORÇLAR HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, bir ihaleye girebilmek için bankadan aldığı 100.000 TL'lik teminat mektubunu ilgili kuruma teslim etmiştir.<br><br>Mali nitelikte olmayan ve işletme için sadece şarta bağlı (olası) bir yükümlülük yaratan bu tür işlemler, Tek Düzen Hesap Planında (THP) kural olarak hangi hesapta takip edilir?",
+    "options": [
+      "A) 136 Diğer Çeşitli Alacaklar Hs.",
+      "B) 226 Verilen Depozito ve Teminatlar Hs.",
+      "C) 326 Alınan Depozito ve Teminatlar Hs.",
+      "D) 336 Diğer Çeşitli Borçlar Hs.",
+      "E) 900 Nazım Hesaplar"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İşletme kuruluş aşamasında ortakların taahhüt ettiği ancak henüz ödemediği sermaye payları için '501 Ödenmemiş Sermaye Hs.'na borç kaydı yapmıştır. Daha sonra Ortak A, taahhüt ettiği 40.000 TL'yi şirket kasasına nakit olarak yatırmıştır.<br><br>Bu taahhüdün yerine getirilmesi işlemine ait yevmiye kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>501 ÖDENMEMİŞ SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>501 ÖDENMEMİŞ SERMAYE HS.<br><span style='margin-left: 15px;'>100 KASA HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>131 ORTAKLARDAN ALACAKLAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>131 ORTAKLARDAN ALACAKLAR HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ticari alacak ve borç senetlerinin reeskont (iskonto) değerlemesine tabi tutulmasıyla ilgili olarak aşağıda verilen bilgilerden hangileri doğrudur?<br><br>I. Alacak senetleri için ayrılan reeskont tutarı, 657 Reeskont Faiz Giderleri hesabına borç kaydedilir.<br>II. Borç senetleri için ayrılan reeskont tutarı, 647 Reeskont Faiz Gelirleri hesabına alacak kaydedilir.<br>III. Reeskont ayrılması işlemi sonucunda bilançodaki dönen varlık toplamı ve kısa vadeli yabancı kaynak toplamı azalır.",
+    "options": [
+      "A) Yalnız I",
+      "B) I ve II",
+      "C) I ve III",
+      "D) II ve III",
+      "E) I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İşletme, aktifinde 100.000 TL maliyet bedeli ile kayıtlı ve o güne kadar 40.000 TL amortisman ayırdığı bir demirbaşı, yenileme amacı olmaksızın 50.000 TL + %20 KDV bedelle satmış ve bedelini nakit tahsil etmiştir.<br><br>Bu duran varlık satışına ait yevmiye kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>255 DEMİRBAŞLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span></td><td style='text-align: right; width: 70px;'>60.000<br>40.000<br>10.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br><br>100.000<br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br>659 DİĞER OLAĞAN GİDER VE ZAR. HS.<br><span style='margin-left: 15px;'>255 DEMİRBAŞLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span></td><td style='text-align: right; width: 70px;'>60.000<br>40.000<br>10.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br><br>100.000<br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br><span style='margin-left: 15px;'>255 DEMİRBAŞLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span><br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GEL. VE KAR. HS.</span></td><td style='text-align: right; width: 70px;'>60.000<br>40.000<br><br><br><br></td><td style='text-align: right; width: 70px;'><br><br>80.000<br>10.000<br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>255 DEMİRBAŞLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span></td><td style='text-align: right; width: 70px;'>60.000<br>50.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>100.000<br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br><span style='margin-left: 15px;'>255 DEMİRBAŞLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br>40.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>80.000<br>10.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tek Düzen Hesap Planında (THP) yer alan maddi olmayan duran varlıklardan '261 Şerefiye' hesabı yalnızca hangi özel durum gerçekleştiğinde kullanılabilir?",
+    "options": [
+      "A) İşletme kendi markasını veya patentini tescil ettirmek için harcama yaptığında",
+      "B) Bir başka işletme devralınırken, o işletmenin net varlıklarının rayiç değerinden daha fazla bir bedel ödendiğinde",
+      "C) İşletme kiraladığı binaya değer artırıcı özel maliyet harcaması yaptığında",
+      "D) Borsadaki hisse senetleri satın alınırken komisyon gideri ödendiğinde",
+      "E) Franchise (imtiyaz) hakları satın alındığında"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletme sahip olduğu binayı 1 Kasım tarihinde, aylık 2.000 TL'den bir yıllığına peşin olarak (toplam 24.000 TL) nakit kiraya vermiştir.<br><br>Kiranın peşin tahsil edildiği gün yapılacak yevmiye kaydında alacaklandırılacak hesaplar ve tutarları aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) 649 Diğer Olağan Gelir ve Karlar Hs. - 24.000 TL",
+      "B) 380 Gelecek Aylara Ait Gelirler Hs. - 24.000 TL",
+      "C) 380 Gelecek Aylara Ait Gelirler Hs. - 4.000 TL ve 480 Gelecek Yıllara Ait Gelirler Hs. - 20.000 TL",
+      "D) 380 Gelecek Aylara Ait Gelirler Hs. - 20.000 TL ve 480 Gelecek Yıllara Ait Gelirler Hs. - 4.000 TL",
+      "E) 600 Yurtiçi Satışlar Hs. - 24.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Pazarlama bölümü personeline ait ücret bordrosu verileri şöyledir:\n\n| Bordro Kalemi | Tutar |\n| :--- | :--- |\n| Brüt Ücret | 20.000 TL |\n| İşçi SGK Payı | 2.800 TL |\n| İşçi İşsizlik Sigortası Payı | 200 TL |\n| Gelir Vergisi Kesintisi | 3.000 TL |\n| Damga Vergisi Kesintisi | 150 TL |\n\nBu bilgilere göre, personele net ödenecek tutar (335 Personele Borçlar Hs. alacağı) kaç TL'dir?",
+    "options": [
+      "A) 17.000 TL",
+      "B) 16.850 TL",
+      "C) 14.050 TL",
+      "D) 13.850 TL",
+      "E) 20.000 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Dönem içinde ihtiyatlılık gereği hiçbir karşılık ayrılmayan 8.000 TL'lik senetsiz bir müşteri alacağı, müşterinin iflas etmesi sebebiyle tahsil edilemez (değersiz alacak) hale gelmiş ve doğrudan kayıtlardan çıkarılmıştır.<br><br>Bu işleme ait yevmiye kaydı aşağıdakilerden hangisidir?",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>654 KARŞILIK GİDERLERİ HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>8.000<br><br></td><td style='text-align: right; width: 70px;'><br>8.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>8.000<br><br></td><td style='text-align: right; width: 70px;'><br>8.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>129 ŞÜPHELİ TİC. ALACAK KARŞ. HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>8.000<br><br></td><td style='text-align: right; width: 70px;'><br>8.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>8.000<br><br></td><td style='text-align: right; width: 70px;'><br>8.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>659 DİĞER OLAĞAN GİDER VE ZAR. HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>8.000<br><br></td><td style='text-align: right; width: 70px;'><br>8.000</td></tr></table>"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İşletmenin bankadaki vadesiz ticari hesabı için dönem sonunda gelen banka ekstresi incelendiğinde; işletme lehine 2.000 TL faiz tahakkuk ettiği, bu faiz üzerinden %15 (300 TL) gelir vergisi kesintisi yapıldığı ve işletme aleyhine 500 TL havale/EFT masrafı kesildiği görülmüştür. Bu işlemlerin hiçbiri henüz kayıtlara alınmamıştır.<br><br><b>Banka ekstresine göre yapılacak muhasebe kaydında aşağıdakilerden hangisi gerçekleşir?</b>",
+    "options": [
+      "A) 102 Bankalar Hs. 1.200 TL borçlandırılır.",
+      "B) 780 Finansman Giderleri Hs. 500 TL alacaklandırılır.",
+      "C) 642 Faiz Gelirleri Hs. 1.700 TL alacaklandırılır.",
+      "D) 193 Peşin Ödenen Vergi ve Fonlar Hs. 300 TL borçlandırılır.",
+      "E) 653 Komisyon Giderleri Hs. 500 TL alacaklandırılır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İşletmenin yurt dışı müşterilerinden olan 20.000 EUR tutarındaki alacağı '120 Alıcılar Hs.' içinde 600.000 TL olarak kayıtlıdır. Dönem sonu itibarıyla kur 1 EUR = 32 TL olarak ilan edilmiştir.<br><br><b>Bu dövizli alacağın dönem sonu değerleme kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>120 ALICILAR HS.<br><span style='margin-left: 15px;'>646 KAMBİYO KARLARI HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>656 KAMBİYO ZARARLARI HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>120 ALICILAR HS.<br><span style='margin-left: 15px;'>601 YURT DIŞI SATIŞLAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>646 KAMBİYO KARLARI HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>120 ALICILAR HS.<br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br><br></td><td style='text-align: right; width: 70px;'><br>40.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, bir önceki dönem 10.000 TL tutarında %100 karşılık ayırdığı şüpheli ticari alacağının 6.000 TL'lik kısmını cari dönemde nakit olarak tahsil etmiştir. Kalan 4.000 TL'lik kısmın ise tahsil edilemeyeceği (değersiz alacak olduğu) kesinleşmiştir.<br><br><b>Bu tahsilat ve terkin (kayıttan silme) işlemine ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.</span></td><td style='text-align: right; width: 70px;'>6.000<br>4.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>129 ŞÜPHELİ TİC. ALACAK KARŞ. HS.<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.</span><br><span style='margin-left: 15px;'>644 KONUSU KALMAYAN KARŞILIKLAR HS.</span></td><td style='text-align: right; width: 70px;'>6.000<br>10.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>10.000<br>6.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>129 ŞÜPHELİ TİC. ALACAK KARŞ. HS.<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.</span><br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>6.000<br>4.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>4.000<br>6.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>654 KARŞILIK GİDERLERİ HS.<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.</span><br><span style='margin-left: 15px;'>644 KONUSU KALMAYAN KARŞILIKLAR HS.</span></td><td style='text-align: right; width: 70px;'>6.000<br>4.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>6.000<br>4.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span><br><span style='margin-left: 15px;'>644 KONUSU KALMAYAN KARŞILIKLAR HS.</span></td><td style='text-align: right; width: 70px;'>6.000<br><br><br></td><td style='text-align: right; width: 70px;'><br>4.000<br>2.000</td></tr></table>"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Anonim şirket statüsündeki bir işletme, sermayesini artırma kararı almış ve nominal (itibari) değeri 1.000.000 TL olan yeni hisse senetlerini borsada 1.250.000 TL bedelle ihraç ederek satmıştır.<br><br><b>Hisse senetlerinin nominal değerinin üzerinde bir bedelle ihraç edilmesinden doğan 250.000 TL'lik olumlu fark, Tek Düzen Hesap Planında hangi hesaba alacak olarak kaydedilir?</b>",
+    "options": [
+      "A) 649 Diğer Olağan Gelir ve Karlar Hs.",
+      "B) 679 Diğer Olağandışı Gelir ve Karlar Hs.",
+      "C) 520 Hisse Senetleri İhraç Primleri Hs.",
+      "D) 500 Sermaye Hs.",
+      "E) 521 Hisse Senedi İptal Karları Hs."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletmenin '110 Hisse Senetleri' hesabında 50.000 TL alış bedeliyle kayıtlı olan B A.Ş.'ye ait hisse senetlerinin borsa rayicinin dönem sonunda yaşanan ani bir krizle 35.000 TL'ye düştüğü tespit edilmiş ve aradaki fark için karşılık ayrılmıştır.<br><br><b>Bu karşılık ayırma işleminde alacaklandırılacak hesap aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "A) 654 Karşılık Giderleri Hs.",
+      "B) 119 Menkul Kıymet Değer Düşüklüğü Karşılığı Hs.",
+      "C) 689 Diğer Olağandışı Gider ve Zararlar Hs.",
+      "D) 655 Menkul Kıymet Satış Zararları Hs.",
+      "E) 129 Şüpheli Ticari Alacaklar Karşılığı Hs."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletme, aktifinde '254 Taşıtlar Hs.' içinde 200.000 TL maliyet bedeliyle kayıtlı ve '257 Birikmiş Amortismanlar Hs.' içinde o güne kadar 120.000 TL amortisman ayrılmış olan bir aracı, 90.000 TL + %20 KDV bedelle veresiye (kredili) satmıştır.<br><br><b>Bu duran varlık satışına ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>120 ALICILAR HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br><span style='margin-left: 15px;'>254 TAŞITLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span><br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>108.000<br>120.000<br><br><br><br></td><td style='text-align: right; width: 70px;'><br><br>200.000<br>18.000<br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>120 ALICILAR HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br>689 DİĞER OLAĞANDIŞI GİDER VE ZARARLAR HS.<br><span style='margin-left: 15px;'>254 TAŞITLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span></td><td style='text-align: right; width: 70px;'>108.000<br>120.000<br>10.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br><br>200.000<br>38.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br><span style='margin-left: 15px;'>254 TAŞITLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span><br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>108.000<br>120.000<br><br><br><br></td><td style='text-align: right; width: 70px;'><br><br>200.000<br>18.000<br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>120 ALICILAR HS.<br><span style='margin-left: 15px;'>254 TAŞITLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span><br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>108.000<br><br><br><br></td><td style='text-align: right; width: 70px;'><br>80.000<br>18.000<br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>120 ALICILAR HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br><span style='margin-left: 15px;'>254 TAŞITLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span></td><td style='text-align: right; width: 70px;'>108.000<br>120.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>210.000<br>18.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Genel Yönetim bölümüne ait bir ücret bordrosu özeti şöyledir:\n\n| Bordro Kalemi | Tutar |\n| :--- | :--- |\n| Brüt Ücret | 40.000 TL |\n| İşveren SGK Payı | 6.200 TL |\n| İşveren İşsizlik Sigortası Payı | 800 TL |\n| İşçi SGK + İşsizlik Payı Kesintisi | 6.000 TL |\n| Gelir ve Damga Vergisi Kesintisi Toplamı | 6.500 TL |\n\n<b>Bu tahakkuk kaydında '770 Genel Yönetim Giderleri Hs.' hesabına borç yazılacak toplam personel maliyeti kaç TL'dir?</b>",
+    "options": [
+      "A) 40.000 TL",
+      "B) 47.000 TL",
+      "C) 34.000 TL",
+      "D) 53.000 TL",
+      "E) 46.200 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletme, 1 Kasım tarihinde bir işyerini 6 aylığına kiraya vermiş ve 6 aylık toplam kira bedeli olan 60.000 TL'yi nakit olarak tahsil etmiştir.<br><br><b>Kiranın tahsil edildiği 1 Kasım tarihindeki yevmiye kaydında '380 Gelecek Aylara Ait Gelirler Hs.' hesabına alacak kaydedilecek tutar ne kadardır?</b>",
+    "options": [
+      "A) 60.000 TL",
+      "B) 20.000 TL",
+      "C) 30.000 TL",
+      "D) 40.000 TL",
+      "E) 10.000 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aralıklı (Aralıklı) envanter yöntemini uygulayan bir işletmenin maliyet hesaplarına ilişkin dönem sonu bilgileri aşağıdaki gibidir:\n\n| Hesap / Kalem | Tutar |\n| :--- | :--- |\n| Dönem Başı Mal Mevcudu | 50.000 TL |\n| Dönem İçi Ticari Mal Alışları | 150.000 TL |\n| Alış Giderleri | 10.000 TL |\n| Alış İade ve İskontoları Toplamı | 20.000 TL |\n| Dönem Sonu Mal Mevcudu (Sayım Sonucu) | 40.000 TL |\n\n<b>Bu verilere göre işletmenin Satılan Ticari Mallar Maliyeti (STMM) kaç TL'dir?</b>",
+    "options": [
+      "A) 190.000 TL",
+      "B) 150.000 TL",
+      "C) 140.000 TL",
+      "D) 130.000 TL",
+      "E) 170.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dönem sonu KDV tahakkuku (mahsubu) işlemi öncesinde KDV hesaplarının borç ve alacak bakiyeleri şöyledir:<br>'391 Hesaplanan KDV Hs.' : 120.000 TL (Alacak Kalanı)<br>'191 İndirilecek KDV Hs.' : 90.000 TL (Borç Kalanı)<br>'190 Devreden KDV Hs.' (Önceki Aydan) : 10.000 TL (Borç Kalanı)<br><br><b>Bu bilgilere göre, KDV tahakkuk kaydı yapıldığında aşağıdakilerden hangisi gerçekleşir?</b>",
+    "options": [
+      "A) 190 Devreden KDV Hs. 20.000 TL borçlandırılır.",
+      "B) 360 Ödenecek Vergi ve Fonlar Hs. 30.000 TL alacaklandırılır.",
+      "C) 360 Ödenecek Vergi ve Fonlar Hs. 20.000 TL alacaklandırılır.",
+      "D) 191 İndirilecek KDV Hs. 120.000 TL alacaklandırılır.",
+      "E) 136 Diğer Çeşitli Alacaklar Hs. 20.000 TL borçlandırılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dönem sonunda kasa hesabının borç kalanı 15.000 TL'dir. Ancak yapılan fiili sayımda kasada 17.000 TL nakit olduğu tespit edilmiştir. Kesin mizan öncesinde fazlalığın nedeni henüz anlaşılamamıştır.<br><br><b>Bu kasa fazlalığının kayıtlara alınmasına ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>397 SAYIM VE TESELLÜM FAZLALARI HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>397 SAYIM VE TESELLÜM FAZLALARI HS.<br><span style='margin-left: 15px;'>100 KASA HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>197 SAYIM VE TESELLÜM NOKSANLARI HS.<br><span style='margin-left: 15px;'>100 KASA HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>2.000<br><br></td><td style='text-align: right; width: 70px;'><br>2.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, dönem sonunda tüm personel için hesapladığı toplam 80.000 TL kıdem tazminatı tutarını ihtiyatlılık kavramı gereği kayıtlara almak istemiştir.<br><br><b>Bu karşılık ayırma işleminde borçlandırılacak hesap aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "A) 372 Kıdem Tazminatı Karşılığı Hs.",
+      "B) 472 Kıdem Tazminatı Karşılığı Hs.",
+      "C) 654 Karşılık Giderleri Hs.",
+      "D) 770 Genel Yönetim Giderleri Hs.",
+      "E) 689 Diğer Olağandışı Gider ve Zararlar Hs."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İşletme nominal değeri 200.000 TL olan uzun vadeli tahvillerini, banka aracılığıyla 190.000 TL bedelle iskontolu (başabaş değerin altında) olarak ihraç etmiştir.<br><br><b>Bu tahvil ihracında ortaya çıkan 10.000 TL'lik aleyhte fark ilk kayıtta hangi hesaba borç kaydedilir?</b>",
+    "options": [
+      "A) 780 Finansman Giderleri Hs.",
+      "B) 308 Menkul Kıymet İhraç Farkı Hs.",
+      "C) 408 Menkul Kıymet İhraç Farkı Hs.",
+      "D) 656 Kambiyo Zararları Hs.",
+      "E) 280 Gelecek Yıllara Ait Giderler Hs."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dönem sonunda bilançonun düzenlenmesi sırasında, daha önceki bir dönemde ayrılmış olan 5.000 TL tutarındaki '322 Borç Senetleri Reeskontu Hs.' kalıntısının kapatılarak yeni döneme devredilmediği görülmüştür.<br><br><b>Dönem başında (veya izleyen dönemde) bu reeskont tutarının iptal edilip kapatılması için yapılacak yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>647 REESKONT FAİZ GELİRLERİ HS.<br><span style='margin-left: 15px;'>322 BORÇ SENETLERİ REESKONTU HS.</span></td><td style='text-align: right; width: 70px;'>5.000<br><br></td><td style='text-align: right; width: 70px;'><br>5.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>322 BORÇ SENETLERİ REESKONTU HS.<br><span style='margin-left: 15px;'>647 REESKONT FAİZ GELİRLERİ HS.</span></td><td style='text-align: right; width: 70px;'>5.000<br><br></td><td style='text-align: right; width: 70px;'><br>5.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>322 BORÇ SENETLERİ REESKONTU HS.<br><span style='margin-left: 15px;'>657 REESKONT FAİZ GİDERLERİ HS.</span></td><td style='text-align: right; width: 70px;'>5.000<br><br></td><td style='text-align: right; width: 70px;'><br>5.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>657 REESKONT FAİZ GİDERLERİ HS.<br><span style='margin-left: 15px;'>322 BORÇ SENETLERİ REESKONTU HS.</span></td><td style='text-align: right; width: 70px;'>5.000<br><br></td><td style='text-align: right; width: 70px;'><br>5.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>321 BORÇ SENETLERİ HS.<br><span style='margin-left: 15px;'>322 BORÇ SENETLERİ REESKONTU HS.</span></td><td style='text-align: right; width: 70px;'>5.000<br><br></td><td style='text-align: right; width: 70px;'><br>5.000</td></tr></table>"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletme, gelecekte teslim edeceği ticari mallar için müşterisinden 20.000 TL tutarında banka havalesi yoluyla nakit avans almıştır.<br><br><b>Bu işlemin muhasebe kaydında alacaklandırılacak hesap aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "A) 159 Verilen Sipariş Avansları Hs.",
+      "B) 340 Alınan Sipariş Avansları Hs.",
+      "C) 120 Alıcılar Hs.",
+      "D) 600 Yurtiçi Satışlar Hs.",
+      "E) 326 Alınan Depozito ve Teminatlar Hs."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aralıklı envanter yöntemini kullanan bir işletmenin dönem sonu muhasebe kayıtlarından alınan bazı veriler aşağıdaki gibidir:\n\n| Hesap Adı | Tutar |\n| :--- | :--- |\n| Dönem Başı | 100.000 TL |\n| Dönem İçi Alışlar | 400.000 TL |\n| Alış Giderleri | 20.000 TL |\n| Alış İadeleri | 30.000 TL |\n| Alış İskontoları | 10.000 TL |\n| Dönem Sonu Mal Mevcudu | 120.000 TL |\n\n<b>Bu verilere göre, işletmenin Satılan Ticari Mallar Maliyeti (STMM) kaç TL'dir?</b>",
+    "options": [
+      "A) 360.000 TL",
+      "B) 400.000 TL",
+      "C) 380.000 TL",
+      "D) 520.000 TL",
+      "E) 340.000 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, aktifinde 150.000 TL maliyet bedeli ile kayıtlı ve o güne kadar 90.000 TL amortisman ayırdığı bir üretim makinesini, 'yenilemek amacıyla' 80.000 TL + %20 KDV bedelle peşin olarak satmıştır.<br><br><b>Bu makine satışına ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br><span style='margin-left: 15px;'>253 TESİS, MAKİNE VE CİHAZLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span><br><span style='margin-left: 15px;'>549 ÖZEL FONLAR HS.</span></td><td style='text-align: right; width: 70px;'>96.000<br>90.000<br><br><br><br></td><td style='text-align: right; width: 70px;'><br><br>150.000<br>16.000<br>20.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br><span style='margin-left: 15px;'>253 TESİS, MAKİNE VE CİHAZLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span><br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>96.000<br>90.000<br><br><br><br></td><td style='text-align: right; width: 70px;'><br><br>150.000<br>16.000<br>20.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>253 TESİS, MAKİNE VE CİHAZLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span></td><td style='text-align: right; width: 70px;'>96.000<br>60.000<br>10.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br><br>150.000<br>16.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>253 TESİS, MAKİNE VE CİHAZLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span><br><span style='margin-left: 15px;'>549 ÖZEL FONLAR HS.</span></td><td style='text-align: right; width: 70px;'>96.000<br><br><br><br></td><td style='text-align: right; width: 70px;'><br>60.000<br>16.000<br>20.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>257 BİRİKMİŞ AMORTİSMANLAR HS.<br><span style='margin-left: 15px;'>253 TESİS, MAKİNE VE CİHAZLAR HS.</span><br><span style='margin-left: 15px;'>391 HESAPLANAN KDV HS.</span><br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>96.000<br>90.000<br><br><br><br></td><td style='text-align: right; width: 70px;'><br><br>150.000<br>16.000<br>20.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletmenin üretim bölümünde çalışan işçilere ait ücret bordrosu verileri şöyledir:\n\n| Bordro Kalemi | Tutar |\n| :--- | :--- |\n| Brüt Ücret | 60.000 TL |\n| İşveren SGK Payı | 9.300 TL |\n| İşveren İşsizlik Sigortası Payı | 1.200 TL |\n| İşçi SGK + İşsizlik Payı Kesintisi | 9.000 TL |\n| Gelir ve Damga Vergisi Kesintisi Toplamı | 8.500 TL |\n\n<b>Bu tahakkuk kaydında '361 Ödenecek Sosyal Güvenlik Kesintileri Hs.' hesabına alacak yazılacak toplam tutar kaç TL'dir?</b>",
+    "options": [
+      "A) 19.500 TL",
+      "B) 10.500 TL",
+      "C) 18.300 TL",
+      "D) 9.000 TL",
+      "E) 17.800 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dönem sonu KDV tahakkuku (mahsubu) işlemi öncesinde hesapların borç ve alacak bakiyeleri şöyledir:\n\n| Hesap Adı | Bakiye Durumu | Tutar |\n| :--- | :--- | :--- |\n| 191 İndirilecek KDV Hs. | Borç Kalanı | 45.000 TL |\n| 391 Hesaplanan KDV Hs. | Alacak Kalanı | 60.000 TL |\n| 190 Devreden KDV Hs. | Borç Kalanı (Önceki Aydan) | 25.000 TL |\n\n<b>Bu KDV mahsup kaydında aşağıdakilerden hangisi gerçekleşir?</b>",
+    "options": [
+      "A) 360 Ödenecek Vergi ve Fonlar Hs. 10.000 TL alacaklandırılır.",
+      "B) 190 Devreden KDV Hs. cari ay için 10.000 TL borçlandırılır.",
+      "C) 191 İndirilecek KDV Hs. 60.000 TL alacaklandırılır.",
+      "D) 391 Hesaplanan KDV Hs. 45.000 TL borçlandırılır.",
+      "E) 136 Diğer Çeşitli Alacaklar Hs. 15.000 TL borçlandırılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletme, vadesi geçmiş olan ve '120 Alıcılar Hs.' içinde 40.000 TL, '121 Alacak Senetleri Hs.' içinde 20.000 TL olarak kayıtlı bulunan bir müşterisinin iflas ettiğini öğrenmiş, alacaklarını dava aşamasına taşıyarak tamamı için %50 oranında karşılık ayırmıştır.<br><br><b>Bu şüpheli alacak kaydı ve karşılık ayrılması işleminde '654 Karşılık Giderleri Hs.' ne kadar borçlandırılır?</b>",
+    "options": [
+      "A) 60.000 TL",
+      "B) 40.000 TL",
+      "C) 30.000 TL",
+      "D) 20.000 TL",
+      "E) 10.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletme, bir önceki dönem sonunda %20 değer düşüklüğü (10.000 TL) karşılığı ayırdığı 50.000 TL maliyetli A A.Ş. hisse senetlerini, borsadaki toparlanma sonrası peşin olarak 45.000 TL'ye satmıştır.<br><br><b>Bu satış işlemine ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>119 MENKUL KIYMET DEĞ. DÜŞ. KARŞ. HS.<br><span style='margin-left: 15px;'>110 HİSSE SENETLERİ HS.</span><br><span style='margin-left: 15px;'>644 KONUSU KALMAYAN KARŞILIKLAR HS.</span></td><td style='text-align: right; width: 70px;'>45.000<br>10.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>50.000<br>5.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>655 MENKUL KIYMET SATIŞ ZARARLARI HS.<br><span style='margin-left: 15px;'>110 HİSSE SENETLERİ HS.</span></td><td style='text-align: right; width: 70px;'>45.000<br>5.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>119 MENKUL KIYMET DEĞ. DÜŞ. KARŞ. HS.<br><span style='margin-left: 15px;'>110 HİSSE SENETLERİ HS.</span><br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>45.000<br>10.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>50.000<br>5.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>689 DİĞER OLAĞANDIŞI GİDER VE ZARARLAR HS.<br><span style='margin-left: 15px;'>110 HİSSE SENETLERİ HS.</span></td><td style='text-align: right; width: 70px;'>45.000<br>5.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>110 HİSSE SENETLERİ HS.</span><br><span style='margin-left: 15px;'>644 KONUSU KALMAYAN KARŞILIKLAR HS.</span></td><td style='text-align: right; width: 70px;'>45.000<br><br><br></td><td style='text-align: right; width: 70px;'><br>40.000<br>5.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme 1 Ekim 2023 tarihinde nakit ihtiyacını karşılamak üzere bankadan 100.000 TL tutarında, 6 ay vadeli ve yıllık %24 faiz oranlı kredi kullanmıştır. Anapara ve faiz ödemesi vade sonunda (1 Nisan 2024) tek seferde yapılacaktır.<br><br><b>31 Aralık 2023 tarihinde yapılacak dönem sonu faiz tahakkuk kaydında '780 Finansman Giderleri Hs.' ne kadar borçlandırılır?</b>",
+    "options": [
+      "A) 24.000 TL",
+      "B) 12.000 TL",
+      "C) 6.000 TL",
+      "D) 4.000 TL",
+      "E) 8.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletme, yurt dışından ithal edeceği ticari mallar için satıcıya 10.000 EUR tutarında sipariş avansı göndermiştir (Avans anında kur: 1 EUR = 30 TL). Bir ay sonra mallar millileşmiş ve gümrükten çekilmiştir. Toplam fatura bedeli 25.000 EUR olup, kalan 15.000 EUR'luk kısım kredili (veresiye) olarak kaydedilmiştir (İthalat anında kur: 1 EUR = 32 TL).<br><br><b>Vergi Usul Kanunu'na (VUK) göre yapılan değerlemede, ithalatın gerçekleştiği gün '153 Ticari Mallar Hs.' hesabına borç kaydedilecek toplam maliyet tutarı ne kadardır?</b>",
+    "options": [
+      "A) 800.000 TL",
+      "B) 780.000 TL",
+      "C) 750.000 TL",
+      "D) 820.000 TL",
+      "E) 760.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletme, nominal değeri 1.000.000 TL olan 1 yıl vadeli finansman bonolarını banka aracılığıyla 900.000 TL'ye (iskontolu) ihraç etmiştir. İhracın üzerinden 6 ay geçmiş ve dönem sonu (31 Aralık) gelmiştir.<br><br><b>Dönem sonunda, bono ihraç farkının 6 aylık (cari döneme isabet eden) kısmının itfa edilmesine ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>780 FİNANSMAN GİDERLERİ HS.<br><span style='margin-left: 15px;'>308 MENKUL KIYMET İHRAÇ FARKI HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>308 MENKUL KIYMET İHRAÇ FARKI HS.<br><span style='margin-left: 15px;'>780 FİNANSMAN GİDERLERİ HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>780 FİNANSMAN GİDERLERİ HS.<br><span style='margin-left: 15px;'>305 ÇIKARILMIŞ BONO VE SENETLER HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>305 ÇIKARILMIŞ BONO VE SENETLER HS.<br><span style='margin-left: 15px;'>308 MENKUL KIYMET İHRAÇ FARKI HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>780 FİNANSMAN GİDERLERİ HS.<br><span style='margin-left: 15px;'>408 MENKUL KIYMET İHRAÇ FARKI HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, finansal kiralama (leasing) yoluyla kiraladığı bir makine için ilk taksit ödemesini banka havalesiyle gerçekleştirmiştir. Ödenen toplam 25.000 TL'nin; 20.000 TL'si anapara, 5.000 TL'si ise bu döneme ait faiz gideridir.<br><br><b>Bu taksit ödemesinin muhasebeleştirilmesinde aşağıdakilerden hangisi gerçekleşir?</b>",
+    "options": [
+      "A) 301 Finansal Kiralama İşlemlerinden Borçlar Hs. 25.000 TL borçlandırılır.",
+      "B) 780 Finansman Giderleri Hs. 5.000 TL borçlandırılır, 302 Ertelenmiş Fin. Kir. Borçlanma Maliyetleri Hs. 5.000 TL alacaklandırılır.",
+      "C) 302 Ertelenmiş Finansal Kiralama Borçlanma Maliyetleri Hs. 5.000 TL borçlandırılır.",
+      "D) 260 Haklar Hs. 20.000 TL borçlandırılır.",
+      "E) 656 Kambiyo Zararları Hs. 5.000 TL borçlandırılır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dönem sonunda '121 Alacak Senetleri Hs.'nın borç kalanı 50.000 TL'dir. İşletmenin yaptığı değerleme çalışması sonucunda bu senetlerin dönem sonu tasarruf (peşin) değerinin 48.000 TL olduğu tespit edilmiştir.<br><br><b>İhtiyatlılık kavramı gereği yapılacak reeskont kaydında hangi hesap, ne kadar borçlandırılır?</b>",
+    "options": [
+      "A) 122 Alacak Senetleri Reeskontu Hs. - 2.000 TL",
+      "B) 657 Reeskont Faiz Giderleri Hs. - 2.000 TL",
+      "C) 647 Reeskont Faiz Gelirleri Hs. - 2.000 TL",
+      "D) 689 Diğer Olağandışı Gider ve Zararlar Hs. - 2.000 TL",
+      "E) 121 Alacak Senetleri Hs. - 2.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletme, başka bir işletmeyi tüm aktif ve pasifleriyle devralmıştır. Devralınan işletmenin varlıklarının rayiç (piyasa) bedeli 500.000 TL, borçlarının rayiç bedeli ise 100.000 TL'dir. İşletme bu devir işlemi için satıcıya banka aracılığıyla toplam 450.000 TL ödemiştir.<br><br><b>Bu devralma işleminde '261 Şerefiye Hs.' hesabına borç kaydedilecek tutar kaç TL'dir?</b>",
+    "options": [
+      "A) 100.000 TL",
+      "B) 400.000 TL",
+      "C) 50.000 TL",
+      "D) 150.000 TL",
+      "E) Şerefiye hesabı kullanılmaz, doğrudan gidere yazılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletme, sahibi olduğu bir mağazayı kiraya vermiş ancak kiracı Aralık ayına ait 15.000 TL tutarındaki kira bedelini ödememiş, sözleşme gereği bu bedeli Ocak ayında ödeyeceğini bildirmiştir. İşletme tahakkuk esası gereği bu geliri Aralık ayında kayıtlara almak zorundadır.<br><br><b>Aralık ayı sonunda yapılacak gelir tahakkuku kaydında borçlandırılacak hesap aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "A) 120 Alıcılar Hs.",
+      "B) 380 Gelecek Aylara Ait Gelirler Hs.",
+      "C) 181 Gelir Tahakkukları Hs.",
+      "D) 649 Diğer Olağan Gelir ve Karlar Hs.",
+      "E) 281 Gelir Tahakkukları Hs."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletme, kiralayarak ofis olarak kullandığı bir binaya, sözleşme bitiminde sökülüp götürülmesi mümkün olmayan ve binanın değerini artıran 40.000 TL + %20 KDV tutarında asansör sistemi kurdurmuş, bedelini bankadan ödemiştir.<br><br><b>Bu değer artırıcı harcamaya ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>264 ÖZEL MALİYETLER HS.<br>191 İNDİRİLECEK KDV HS.<br><span style='margin-left: 15px;'>102 BANKALAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br>8.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>48.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>252 BİNALAR HS.<br>191 İNDİRİLECEK KDV HS.<br><span style='margin-left: 15px;'>102 BANKALAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br>8.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>48.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ HS.<br>191 İNDİRİLECEK KDV HS.<br><span style='margin-left: 15px;'>102 BANKALAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br>8.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>48.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>255 DEMİRBAŞLAR HS.<br>191 İNDİRİLECEK KDV HS.<br><span style='margin-left: 15px;'>102 BANKALAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br>8.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>48.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>253 TESİS MAKİNE VE CİHAZLAR HS.<br>191 İNDİRİLECEK KDV HS.<br><span style='margin-left: 15px;'>102 BANKALAR HS.</span></td><td style='text-align: right; width: 70px;'>40.000<br>8.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>48.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Üç ortak bir araya gelerek 1.000.000 TL sermayeli bir Limited Şirket kurmaya karar vermişler ve bu tutarı şirket ana sözleşmesinde yazılı olarak taahhüt etmişlerdir. Henüz bankaya yatırılmış bir para yoktur.<br><br><b>Bu kuruluş ve sermaye taahhüdü aşamasında yapılacak ilk yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>501 ÖDENMEMİŞ SERMAYE HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>1.000.000<br><br></td><td style='text-align: right; width: 70px;'><br>1.000.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>131 ORTAKLARDAN ALACAKLAR HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>1.000.000<br><br></td><td style='text-align: right; width: 70px;'><br>1.000.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>500 SERMAYE HS.<br><span style='margin-left: 15px;'>501 ÖDENMEMİŞ SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>1.000.000<br><br></td><td style='text-align: right; width: 70px;'><br>1.000.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>1.000.000<br><br></td><td style='text-align: right; width: 70px;'><br>1.000.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>501 ÖDENMEMİŞ SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>1.000.000<br><br></td><td style='text-align: right; width: 70px;'><br>1.000.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aralıklı (Aralıklı) envanter yöntemini ve <b>İlk Giren İlk Çıkar (FIFO)</b> stok değerleme yöntemini kullanan bir işletmenin döneme ait ticari mal hareketleri aşağıdaki gibidir:\n\n| İşlem Türü | Miktar | Birim Fiyat | Toplam Tutar |\n| :--- | :--- | :--- | :--- |\n| Dönem Başı Mevcut | 100 Adet | 10 TL | 1.000 TL |\n| 1. Alış | 200 Adet | 12 TL | 2.400 TL |\n| 2. Alış | 150 Adet | 14 TL | 2.100 TL |\n\nDönem içinde toplam 300 adet ticari mal satılmıştır.\n\n<b>Bu bilgilere göre, işletmenin Satılan Ticari Mallar Maliyeti (STMM) kaç TL'dir?</b>",
+    "options": [
+      "A) 3.400 TL",
+      "B) 2.100 TL",
+      "C) 3.100 TL",
+      "D) 3.600 TL",
+      "E) 2.400 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aralıklı envanter yöntemini ve <b>Tartılı (Ağırlıklı) Ortalama Maliyet</b> yöntemini uygulayan bir işletmenin stok hareketleri şöyledir:\n\n| İşlem Türü | Miktar | Birim Fiyat | Toplam Tutar |\n| :--- | :--- | :--- | :--- |\n| Dönem Başı Mevcut | 200 Adet | 20 TL | 4.000 TL |\n| Dönem İçi Alış | 300 Adet | 30 TL | 9.000 TL |\n\nDönem sonunda yapılan fiili sayımda depoda 100 adet ticari mal kaldığı tespit edilmiştir.\n\n<b>Bu verilere göre, dönem sonunda yapılacak Satılan Ticari Mallar Maliyeti (STMM) tahakkuk kaydında '621 Satılan Ticari Mallar Maliyeti Hs.' kaç TL borçlandırılır?</b>",
+    "options": [
+      "A) 13.000 TL",
+      "B) 10.400 TL",
+      "C) 2.600 TL",
+      "D) 9.000 TL",
+      "E) 10.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İşletmenin '100 Kasa Hs.' (Yabancı Para/Efektif Kasası) içinde 5.000 EUR bulunmaktadır ve bu tutarın defter kayıtlı değeri 150.000 TL'dir (1 EUR = 30 TL). Dönem sonu envanter gününde Maliye Bakanlığınca ilan edilen efektif alış kuru 1 EUR = 32 TL olmuştur.\n\n<b>Bu döviz kasasının dönem sonu değerlemesine ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>646 KAMBİYO KARLARI HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>656 KAMBİYO ZARARLARI HS.<br><span style='margin-left: 15px;'>100 KASA HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>646 KAMBİYO KARLARI HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>601 YURT DIŞI SATIŞLAR HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, 1 Eylül 2023 tarihinde nakliye araçlarının 1 yıllık (12 aylık) kasko sigortası bedeli olan 24.000 TL'yi bankadan peşin ödemiştir.\n\n<b>Poliçenin düzenlendiği 1 Eylül tarihindeki 'ilk muhasebeleştirme' işleminde (dönemsellik kavramı gereği) hangi hesaplar, ne kadar borçlandırılır?</b>",
+    "options": [
+      "A) 770 Genel Yönetim Giderleri Hs. - 24.000 TL",
+      "B) 180 Gelecek Aylara Ait Giderler Hs. - 24.000 TL",
+      "C) 760 Pazarlama Satış ve Dağıtım Giderleri Hs. - 8.000 TL ve 180 Gelecek Aylara Ait Giderler Hs. - 16.000 TL",
+      "D) 760 Pazarlama Satış ve Dağıtım Giderleri Hs. - 16.000 TL ve 280 Gelecek Yıllara Ait Giderler Hs. - 8.000 TL",
+      "E) 180 Gelecek Aylara Ait Giderler Hs. - 8.000 TL ve 280 Gelecek Yıllara Ait Giderler Hs. - 16.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İşletmenin 31.12.2023 tarihli dönem sonu mizanında '280 Gelecek Yıllara Ait Giderler Hs.' bakiyesi 50.000 TL'dir. Yapılan envanter çalışmasında, bu tutarın 30.000 TL'lik kısmının 2024 yılına, kalan 20.000 TL'lik kısmının ise 2025 yılına ait olduğu tespit edilmiştir.\n\n<b>31.12.2023 tarihinde yapılması gereken dönem sonu virman (aktarım) kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>180 GELECEK AYLARA AİT GİDERLER HS.<br><span style='margin-left: 15px;'>280 GELECEK YILLARA AİT GİDERLER HS.</span></td><td style='text-align: right; width: 70px;'>30.000<br><br></td><td style='text-align: right; width: 70px;'><br>30.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>180 GELECEK AYLARA AİT GİDERLER HS.<br><span style='margin-left: 15px;'>280 GELECEK YILLARA AİT GİDERLER HS.</span></td><td style='text-align: right; width: 70px;'>20.000<br><br></td><td style='text-align: right; width: 70px;'><br>20.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ HS.<br><span style='margin-left: 15px;'>280 GELECEK YILLARA AİT GİDERLER HS.</span></td><td style='text-align: right; width: 70px;'>30.000<br><br></td><td style='text-align: right; width: 70px;'><br>30.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>280 GELECEK YILLARA AİT GİDERLER HS.<br><span style='margin-left: 15px;'>180 GELECEK AYLARA AİT GİDERLER HS.</span></td><td style='text-align: right; width: 70px;'>30.000<br><br></td><td style='text-align: right; width: 70px;'><br>30.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>180 GELECEK AYLARA AİT GİDERLER HS.<br><span style='margin-left: 15px;'>280 GELECEK YILLARA AİT GİDERLER HS.</span></td><td style='text-align: right; width: 70px;'>50.000<br><br></td><td style='text-align: right; width: 70px;'><br>50.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, önceki hesap döneminde dava aşamasında olduğu için %100 oranında karşılık ayırdığı (129 Hs. kullanılmış) 15.000 TL'lik şüpheli ticari alacağının tamamını, cari dönemde (izleyen yılda) nakit olarak tahsil etmeyi başarmıştır.\n\n<b>Bu geçmiş yıl şüpheli alacağının tahsilat kaydı aşağıdakilerden hangisinde tam ve doğru olarak verilmiştir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>129 ŞÜPHELİ TİC. ALACAK KARŞ. HS.<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.</span><br><span style='margin-left: 15px;'>671 ÖNCEKİ DÖN. GELİR VE KARLARI HS.</span></td><td style='text-align: right; width: 70px;'>15.000<br>15.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>15.000<br>15.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>129 ŞÜPHELİ TİC. ALACAK KARŞ. HS.<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.</span><br><span style='margin-left: 15px;'>644 KONUSU KALMAYAN KARŞILIKLAR HS.</span></td><td style='text-align: right; width: 70px;'>15.000<br>15.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>15.000<br>15.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.</span></td><td style='text-align: right; width: 70px;'>15.000<br><br></td><td style='text-align: right; width: 70px;'><br>15.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br>129 ŞÜPHELİ TİC. ALACAK KARŞ. HS.<br><span style='margin-left: 15px;'>128 ŞÜPHELİ TİCARİ ALACAKLAR HS.</span><br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GEL. VE KAR. HS.</span></td><td style='text-align: right; width: 70px;'>15.000<br>15.000<br><br><br></td><td style='text-align: right; width: 70px;'><br><br>15.000<br>15.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>120 ALICILAR HS.</span></td><td style='text-align: right; width: 70px;'>15.000<br><br></td><td style='text-align: right; width: 70px;'><br>15.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Anonim şirket statüsündeki işletme, daha önce hisse senetlerinin nominal değerinin üzerinde ihraç edilmesinden kaynaklanan ve '520 Hisse Senetleri İhraç Primleri Hs.' içinde bekleyen 100.000 TL'lik fonu, yasal prosedürleri tamamlayarak doğrudan şirketin sermayesine ilave etme (bedelsiz sermaye artırımı) kararı almıştır.\n\n<b>Bu sermaye artırımı (iç kaynaklardan karşılama) işleminin yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>520 HİSSE SENETLERİ İHRAÇ PRİMLERİ HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>100.000<br><br></td><td style='text-align: right; width: 70px;'><br>100.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>521 HİSSE SENEDİ İPTAL KARLARI HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>100.000<br><br></td><td style='text-align: right; width: 70px;'><br>100.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>100.000<br><br></td><td style='text-align: right; width: 70px;'><br>100.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>500 SERMAYE HS.<br><span style='margin-left: 15px;'>520 HİSSE SENETLERİ İHRAÇ PRİMLERİ HS.</span></td><td style='text-align: right; width: 70px;'>100.000<br><br></td><td style='text-align: right; width: 70px;'><br>100.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>570 GEÇMİŞ YILLAR KARLARI HS.<br><span style='margin-left: 15px;'>500 SERMAYE HS.</span></td><td style='text-align: right; width: 70px;'>100.000<br><br></td><td style='text-align: right; width: 70px;'><br>100.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, perakende olarak 50.000 TL + %20 KDV bedelli ticari malı müşterisine kredi kartı (tek çekim) ile satmıştır. Bedel kredi kartı şirketinden (bankadan) henüz tahsil edilmemiştir.\n\n<b>Bu satış işleminin ilk tahakkuk kaydında (satış anında) borçlandırılacak hesap aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "A) 102 Bankalar Hs. - 60.000 TL",
+      "B) 100 Kasa Hs. - 60.000 TL",
+      "C) 120 Alıcılar Hs. - 60.000 TL",
+      "D) 108 Diğer Hazır Değerler Hs. - 60.000 TL",
+      "E) 121 Alacak Senetleri Hs. - 60.000 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Dönem içinde yapılan sayımda kasada 3.000 TL fazlalık bulunmuş ve '397 Sayım ve Tesellüm Fazlaları' hesabına kaydedilmiştir. Dönem sonuna kadar fazlalığın nedeni bulunamamış ve yönetim bu tutarın gelir yazılmasına karar vermiştir.\n\n<b>Bu kasa fazlasının gelir yazılması işlemine ait yevmiye kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>397 SAYIM VE TESELLÜM FAZLALARI HS.<br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>3.000<br><br></td><td style='text-align: right; width: 70px;'><br>3.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>100 KASA HS.<br><span style='margin-left: 15px;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>3.000<br><br></td><td style='text-align: right; width: 70px;'><br>3.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>397 SAYIM VE TESELLÜM FAZLALARI HS.<br><span style='margin-left: 15px;'>649 DİĞER OLAĞAN GELİR VE KARLAR HS.</span></td><td style='text-align: right; width: 70px;'>3.000<br><br></td><td style='text-align: right; width: 70px;'><br>3.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>397 SAYIM VE TESELLÜM FAZLALARI HS.<br><span style='margin-left: 15px;'>100 KASA HS.</span></td><td style='text-align: right; width: 70px;'>3.000<br><br></td><td style='text-align: right; width: 70px;'><br>3.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>679 DİĞER OLAĞANDIŞI GELİR VE KARLAR HS.<br><span style='margin-left: 15px;'>397 SAYIM VE TESELLÜM FAZLALARI HS.</span></td><td style='text-align: right; width: 70px;'>3.000<br><br></td><td style='text-align: right; width: 70px;'><br>3.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, daha önce 30.000 TL maliyetle satın alıp '112 Kamu Kesimi Tahvil Senet ve Bonoları Hs.'na kaydettiği Devlet Tahvillerini, acil nakit ihtiyacı nedeniyle banka üzerinden peşin olarak 27.000 TL'ye satmıştır.\n\n<b>Bu menkul kıymet satışından doğan zararın kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>655 MENKUL KIYMET SATIŞ ZARARLARI HS.<br><span style='margin-left: 15px;'>112 KAMU KESİMİ TAH. SEN. VE BON. HS.</span></td><td style='text-align: right; width: 70px;'>27.000<br>3.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>30.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>689 DİĞER OLAĞANDIŞI GİDER VE ZAR. HS.<br><span style='margin-left: 15px;'>112 KAMU KESİMİ TAH. SEN. VE BON. HS.</span></td><td style='text-align: right; width: 70px;'>27.000<br>3.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>30.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>656 KAMBİYO ZARARLARI HS.<br><span style='margin-left: 15px;'>112 KAMU KESİMİ TAH. SEN. VE BON. HS.</span></td><td style='text-align: right; width: 70px;'>27.000<br>3.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>30.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br><span style='margin-left: 15px;'>112 KAMU KESİMİ TAH. SEN. VE BON. HS.</span><br><span style='margin-left: 15px;'>645 MENKUL KIYMET SATIŞ KARLARI HS.</span></td><td style='text-align: right; width: 70px;'>30.000<br><br><br></td><td style='text-align: right; width: 70px;'><br>27.000<br>3.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>102 BANKALAR HS.<br>780 FİNANSMAN GİDERLERİ HS.<br><span style='margin-left: 15px;'>112 KAMU KESİMİ TAH. SEN. VE BON. HS.</span></td><td style='text-align: right; width: 70px;'>27.000<br>3.000<br><br></td><td style='text-align: right; width: 70px;'><br><br>30.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, dönem sonunda cüzdanında bulunan 100.000 TL nominal (yazılı) bedelli alacak senetleri için reeskont (iskonto) hesaplaması yapmış ve senedin dönem sonu peşin (tasarruf) değerini 96.000 TL olarak saptamıştır.\n\n<b>Bu senedin tasarruf değerine indirgenmesi için yapılacak reeskont kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>657 REESKONT FAİZ GİDERLERİ HS.<br><span style='margin-left: 15px;'>122 ALACAK SENETLERİ REESKONTU HS.</span></td><td style='text-align: right; width: 70px;'>4.000<br><br></td><td style='text-align: right; width: 70px;'><br>4.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>122 ALACAK SENETLERİ REESKONTU HS.<br><span style='margin-left: 15px;'>647 REESKONT FAİZ GELİRLERİ HS.</span></td><td style='text-align: right; width: 70px;'>4.000<br><br></td><td style='text-align: right; width: 70px;'><br>4.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>657 REESKONT FAİZ GİDERLERİ HS.<br><span style='margin-left: 15px;'>121 ALACAK SENETLERİ HS.</span></td><td style='text-align: right; width: 70px;'>4.000<br><br></td><td style='text-align: right; width: 70px;'><br>4.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>647 REESKONT FAİZ GELİRLERİ HS.<br><span style='margin-left: 15px;'>122 ALACAK SENETLERİ REESKONTU HS.</span></td><td style='text-align: right; width: 70px;'>4.000<br><br></td><td style='text-align: right; width: 70px;'><br>4.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>122 ALACAK SENETLERİ REESKONTU HS.</span></td><td style='text-align: right; width: 70px;'>4.000<br><br></td><td style='text-align: right; width: 70px;'><br>4.000</td></tr></table>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "İşletme, geliştirdiği bir ürün için 50.000 TL ödeyerek marka/patent hakkı tescil ettirmiş ve bunu '260 Haklar Hs.'na kaydetmiştir. Bu hakkın faydalı ömrü 5 yıldır. Dönem sonunda genel yönetimde kullanılacak olan bu hak için normal (eşit tutarlı) amortisman (itfa) ayrılacaktır.\n\n<b>Bu maddi olmayan duran varlığın ilk yıl sonundaki amortisman kaydı aşağıdakilerden hangisidir?</b>",
+    "options": [
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ HS.<br><span style='margin-left: 15px;'>268 BİRİKMİŞ AMORTİSMANLAR HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ HS.<br><span style='margin-left: 15px;'>260 HAKLAR HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>770 GENEL YÖNETİM GİDERLERİ HS.<br><span style='margin-left: 15px;'>257 BİRİKMİŞ AMORTİSMANLAR HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>689 DİĞER OLAĞANDIŞI GİD. ZAR. HS.<br><span style='margin-left: 15px;'>268 BİRİKMİŞ AMORTİSMANLAR HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>",
+      "<table style='width: 100%; max-width: 550px; border-collapse: collapse;'><tr style='vertical-align: middle;'><td style='text-align: left; padding-right: 5px; word-break: break-word;'>730 GENEL ÜRETİM GİDERLERİ HS.<br><span style='margin-left: 15px;'>268 BİRİKMİŞ AMORTİSMANLAR HS.</span></td><td style='text-align: right; width: 70px;'>10.000<br><br></td><td style='text-align: right; width: 70px;'><br>10.000</td></tr></table>"
+    ],
+    "answer": 0
   }
-]
+ ]
 }
