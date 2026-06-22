@@ -5033,7 +5033,7 @@
       "A) Tahakkuk fişi",
       "B) İhbarname",
       "C) Ödeme emri",
-      "D) Vergi ceza ihbarnamesi",
+      "D) Yoklama fişi",
       "E) Tutanak"
     ],
     "answer": 1
@@ -5608,7 +5608,7 @@
       "D) Hazine ve Maliye Bakanlığında",
       "E) Vergi mahkemesinde"
     ],
-    "answer": 0
+    "answer": 1
   },
   {
     "q": "Vergi alacağı, vergi kanunlarının vergiyi bağladıkları olayın vukuu veya hukuki durumunun tekemmülü ile doğar. Buna göre aşağıdakilerden hangisinde vergi alacağının aşamaları tam ve doğru verilmiştir?",
