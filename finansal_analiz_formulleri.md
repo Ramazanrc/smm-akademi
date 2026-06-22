@@ -2,170 +2,176 @@
 
 ## BÖLÜM 1: LİKİDİTE ORANLARI
 
-### 🔑 Anahtar Kelimeler:
-Cari Oran, Asit-Test, Nakit Oranı, Stok Bağımlılık.
-
 ### 📌 Hap Bilgiler (Hızlı Tekrar Notları):
 * **Cari Oran:**
-$$\color{red}{\text{Cari Oran}=\frac{\text{Dönen Varlıklar}}{\text{Kısa Vadeli Yabancı Kaynaklar}}}$$
+$$\color{red}{\text{Cari Oran}}=\frac{\text{Dönen Varlıklar}}{\text{KVYK}}$$
 
 * **Asit-Test (Likidite) Oranı:**
-$$\color{red}{\text{Asit-Test}=\frac{\text{Dönen Varlıklar}-\text{Stoklar}}{\text{Kısa Vadeli Yabancı Kaynaklar}}}$$
+$$\color{red}{\text{Asit-Test}}=\frac{\text{Dönen Varlıklar}-\text{Stok}}{\text{KVYK}}$$
 
 * **Nakit Oranı:**
-$$\color{red}{\text{Nakit Oranı}=\frac{\text{Hazır Değerler}}{\text{Kısa Vadeli Yabancı Kaynaklar}}}$$ (Sorularda genellikle Hazır Değerler + Menkul Kıymetler alınır).
+$$\color{red}{\text{Nakit Oranı}}=\frac{\text{Hazır Değerler}}{\text{KVYK}}$$
 
 * **Stok Bağımlılık Oranı:**
-$$\color{red}{\text{Stok Bağımlılık}=\frac{\text{KVYK}-(\text{Hazır Değerler}+\text{Menkul Kıymetler})}{\text{Stoklar}}}$$
+$$\color{red}{\text{Stok Bağımlılık}}=\frac{\text{KVYK}-(\text{HD}+\text{M.KIY})}{\text{Stoklar}}$$
 
 ---
 
 ## BÖLÜM 2: MALİ YAPI ORANLARI
 
-### 🔑 Anahtar Kelimeler:
-Kaldıraç Oranı, Öz Kaynak, Finansman, Öz Sermaye Çarpanı.
-
 ### 📌 Hap Bilgiler (Hızlı Tekrar Notları):
 * **Kaldıraç Oranı:**
-$$\color{red}{\text{Kaldıraç Oranı}=\frac{\text{Yabancı Kaynaklar (KVYK+UVYK)}}{\text{Aktif (Pasif) Toplamı}}}$$
-
-* **Öz Kaynak Oranı:**
-$$\color{red}{\text{Öz Kaynak Oranı}=\frac{\text{Öz Kaynaklar}}{\text{Aktif (Pasif) Toplamı}}}$$
-
-* **Finansman Oranı:**
-$$\color{red}{\text{Finansman Oranı}=\frac{\text{Özkaynaklar}}{\text{Yabancı Kaynaklar}}}$$
-
-* **Öz Sermaye Çarpanı:**
-$$\color{red}{\text{Öz Sermaye Çarpanı}=\frac{\text{Aktif Toplamı}}{\text{Öz Sermaye}}}$$
-
-* **Yabancı Kaynak Oranı:**
-$$\color{red}{\text{Yabancı Kaynak Oranı}=\frac{\text{Toplam Yabancı Kaynak}}{\text{Aktif Toplamı}}}$$
-
-* **Karşılama Oranı (Faiz Karşılama):**
-$$\color{red}{\text{Karşılama Oranı}=\frac{\text{Dönem Karı}+\text{Faiz Gideri}}{\text{Faiz Gideri}}}$$
+$$\color{red}{\text{Kaldıraç Oranı}}=\frac{\text{Yabancı Kaynaklar (KVYK+UVYK)}}{\text{Aktif (Pasif)}}$$
 
 * **Devamlı Sermaye Oranı:**
-$$\color{red}{\text{Devamlı Sermaye Oranı}=\frac{\text{Devamlı Sermaye (UVYK+Öz Kaynaklar)}}{\text{Aktif (Pasif) Toplamı}}}$$
+$$\color{red}{\text{Devamlı Sermaye Oranı}}=\frac{\text{Devamlı Sermaye (UVYK+Ö.KAY)}}{\text{Aktif (Pasif)}}$$
+
+* **Finansman Oranı:**
+$$\color{red}{\text{Finansman Oranı}}=\frac{\text{Özkaynaklar}}{\text{Devamlı Sermaye (UVYK+Ö.KAY)}}$$
+
+* **Oto Finansman Oranı:**
+$$\color{red}{\text{Oto Finansman Oranı}}=\frac{\text{Kar Ydk}-\text{G. Yıl Zararı}}{\text{Ödenmiş Sermaye}}$$
+
+* **Öz Kaynak Oranı:**
+$$\color{red}{\text{Öz Kaynak Oranı}}=\frac{\text{Öz Kaynaklar}}{\text{Aktif (Pasif)}}$$
+
+* **Öz Sermaye Çarpanı:**
+$$\color{red}{\text{Öz Sermaye Çarpanı}}=\frac{\text{Aktif}}{\text{Öz Sermaye}}$$
+
+* **Yabancı Kaynak Oranı:**
+$$\color{red}{\text{Yabancı Kaynak Oranı}}=\frac{\text{Toplam Yabancı Kaynak}}{\text{Aktif}}$$
+
+* **İçsel Büyüme Oranı:**
+$$\color{red}{\text{İçsel Büyüme Oranı}}=\frac{\text{Dağıtılmayan Karlar}}{\text{Aktif}}$$
+
+
 
 ---
 
 ## BÖLÜM 3: KARLILIK ORANLARI
 
-### 🔑 Anahtar Kelimeler:
-Varlık Karlılığı, Özkaynak Karlılığı, Satışların Karlılığı, DuPont Analizi.
-
 ### 📌 Hap Bilgiler (Hızlı Tekrar Notları):
 * **Varlık (Aktif) Karlılık Oranı:**
-$$\color{red}{\text{Varlık Karlılık Oranı}=\frac{\text{Dönem Net Karı}}{\text{Aktif Toplamı}}}$$
+$$\color{red}{\text{Varlık Karlılık}}=\frac{\text{Dönem Net Karı}}{\text{Aktif}}$$
 
 * **Özkaynak Karlılık Oranı:**
-$$\color{red}{\text{Özkaynak Karlılık Oranı}=\frac{\text{Dönem Net Karı}}{\text{Özkaynaklar}}}$$
+$$\color{red}{\text{Özkaynak Karlılık}}=\frac{\text{Dönem Net Karı}}{\text{Özkaynaklar}}$$
 
 * **Duran Varlık Karlılık Oranı:**
-$$\color{red}{\text{Duran Varlık Karlılık Oranı}=\frac{\text{Dönem Net Karı}}{\text{Duran Varlıklar}}}$$
+$$\color{red}{\text{Duran Varlık Karlılık}}=\frac{\text{Dönem Net Karı}}{\text{Duran Varlıklar}}$$
 
-* **Satışların Karlılığı:**
-$$\color{red}{\text{Satışların Karlılığı}=\frac{\text{Dönem Net Karı (veya Zararı)}}{\text{Net Satışlar}}}$$
+* **Satışların Karlılığı Oranı:**
+$$\color{red}{\text{Satışların Karlılığı}}=\frac{\text{Dönem Net Karı/Zararı}}{\text{Net Satışlar}}$$
 
 * **Brüt Satış Karı Oranı:**
-$$\color{red}{\text{Brüt Satış Karı Oranı}=\frac{\text{Brüt Satış Karı (veya Zararı)}}{\text{Net Satışlar}}}$$
+$$\color{red}{\text{Brüt Satış Karı Oranı}}=\frac{\text{Brüt Satış Karı/Zararı}}{\text{Net Satışlar}}$$
 
 * **Faaliyet Karı Oranı:**
-$$\color{red}{\text{Faaliyet Karı Oranı}=\frac{\text{Faaliyet Karı (veya Zararı)}}{\text{Net Satışlar}}}$$
+$$\color{red}{\text{Faaliyet Karı Oranı}}=\frac{\text{Faaliyet Karı/Zararı}}{\text{Net Satışlar}}$$
 
 * **Olağan Kar Oranı:**
-$$\color{red}{\text{Olağan Kar Oranı}=\frac{\text{Olağan Kar (veya Zarar)}}{\text{Net Satışlar}}}$$
+$$\color{red}{\text{Olağan Kar Oranı}}=\frac{\text{Olağan Kar/Zarar}}{\text{Net Satışlar}}$$
 
-* **İçsel Büyüme Oranı:**
-$$\color{red}{\text{İçsel Büyüme Oranı}=\frac{\text{Dağıtılmayan Karlar}}{\text{Aktif Toplamı}}}$$
-
-* **Yatırımın Karlılığı Oranı (DuPont):**
-$$\color{red}{\text{Yatırımın Karlılığı}=\text{Kar Marjı}\times\text{Aktif Devir Hızı}}$$
+* **Yatırımın Karlılığı Oranı:**
+$$\color{red}{\text{Yatırımın Karlılığı Oranı}}=\text{Net Kar Marjı} \times \text{Aktif Devir Hızı}$$
 
 ---
 
 ## BÖLÜM 4: PERFORMANS ORANLARI
 
-### 🔑 Anahtar Kelimeler:
-Hisse Başına Kar, Temettü, Fiyat Kazanç Oranı (F/K), Reel Artış.
-
 ### 📌 Hap Bilgiler (Hızlı Tekrar Notları):
+* **Karşılama (Faiz Karşılama) Oranı:**
+$$\color{red}{\text{Karşılama Oranı}}=\frac{\text{Dönem Karı}+\text{Faiz Gideri}}{\text{Faiz Gideri}}$$
+
 * **Hisse Senedi Sayısı:**
-$$\color{red}{\text{Hisse Senedi Sayısı}=\frac{\text{Ödenmiş Sermaye}}{\text{Hisse Senedi Nominal Değeri}}}$$
+$$\color{red}{\text{Hisse Senedi Sayısı}}=\frac{\text{Ödenmiş Sermaye}}{\text{Hisse Snd. Nominal Değeri}}$$
 
 * **Hisse Başına Kar:**
-$$\color{red}{\text{Hisse Başına Kar}=\frac{\text{Dönem Net Karı}}{\text{Hisse Senedi Sayısı}}}$$
+$$\color{red}{\text{Hisse Başına Kar}}=\frac{\text{Dönem Net Karı}}{\text{Hisse Senedi Sayısı}}$$
 
 * **Hisse Başına Temettü:**
-$$\color{red}{\text{Hisse Başına Temettü}=\frac{\text{Dağıtılan Kar}}{\text{Hisse Senedi Sayısı}}}$$
+$$\color{red}{\text{Hisse Başına Temettü}}=\frac{\text{Dağıtılan Kar}}{\text{Hisse Senedi Sayısı}}$$
 
 * **Fiyat Kazanç Oranı (F/K):**
-$$\color{red}{\text{F/K}=\frac{\text{Hisse Senedi Piyasa Fiyatı}}{\text{Hisse Başına Kar}}}$$
+$$\color{red}{\text{Fiyat Kazanç Oranı}}=\frac{\text{His. Snd. Piyasa Fiyatı}}{\text{Hisse Başına Kar}}$$
 
 * **Reel Artış Oranı:**
-$$\color{red}{\text{Reel Artış Oranı}=\left(\frac{1+\text{Nominal Artış Oranı}}{1+\text{Enflasyon Artış Oranı}}\right)-1}$$
+$$\color{red}{\text{Reel Artış Oranı}}=\frac{\text{1 + Nominal Artış Oranı}}{\text{1 + Enflasyon Artış Oranı}}-1$$
 
 ---
 
 ## BÖLÜM 5: FAALİYET ORANLARI (DEVİR HIZLARI)
 
-### 🔑 Anahtar Kelimeler:
-Stok Devir Hızı, Alacak Devir Hızı, Ticari Borç Devir Hızı, Ortalama Süreler.
-
 ### 📌 Hap Bilgiler (Hızlı Tekrar Notları):
-* **NOT:** İki yılın bilançosu verilirse ortalamalar:
-$$\color{red}{\frac{\text{Önceki Yıl}+\text{Cari Yıl}}{2}}$$ 
-şeklinde hesaplanır.
-* **Alacak Devir Hızı:**
-$$\color{red}{\text{Alacak Devir Hızı}=\frac{\text{Net Satışlar (Kredili)}}{\text{Ortalama Alacaklar}}}$$
-$$\color{red}{\text{Tahsilat Süresi}=\frac{365}{\text{Alacak Devir Hızı}}}$$
+* **NOT:** İki yılın bilançosu verilirse ortalamalar genel olarak şu şekilde hesaplanır:
+$$\color{red}{\text{Ortalama}}=\frac{\text{Önceki Yıl DS} + \text{Cari Yıl DS}}{2} \quad \text{ya da} \quad \frac{\text{Dönem Başı} + \text{Dönem Sonu}}{2}$$
 
-* **Stok Devir Hızı:**
-$$\color{red}{\text{Stok Devir Hızı}=\frac{\text{Satışların Maliyeti}}{\text{Ortalama Stok}}}$$
-$$\color{red}{\text{Stokta Kalma Süresi}=\frac{365}{\text{Stok Devir Hızı}}}$$
+* **Alacak Devir Hızı ve Tahsilat Süresi:**
+$$\color{red}{\text{Alacak Devir Hızı}}=\frac{\text{Net Satışlar (Kredili Satışlar)}}{\text{Ortalama Alacaklar (Brüt Alacaklar)}}$$
+$$\color{red}{\text{Tahsilat Süresi}}=\frac{365}{\text{Alacak Devir Hızı}}$$
+
+* **Stok Devir Hızı ve Stokta Kalma Süresi:**
+$$\color{red}{\text{Stok Devir Hızı}}=\frac{\text{Satışların Maliyeti}}{\text{Ortalama Stok}}$$
+$$\color{red}{\text{Stokta Kalma Süresi}}=\frac{365}{\text{Stok Devir Hızı}}$$
 
 * **İlk Madde ve Malzeme Devir Hızı:**
-$$\color{red}{\text{Devir Hızı}=\frac{\text{710 DİMM Gideri}}{\text{Ortalama İlk Madde}}}$$
+$$\color{red}{\text{İlk Md. ve Mlz. Devir Hızı}}=\frac{\text{710 DİMM Gideri}}{\text{Ort. İlk Md. Mlz.}}$$
+$$\color{red}{\text{Bekleme Süresi}}=\frac{365}{\text{İlk Md. Devir Hızı}}$$
 
 * **Yarı Mamul Devir Hızı:**
-$$\color{red}{\text{Devir Hızı}=\frac{\text{Üretilen Mamul Maliyeti}}{\text{Ortalama Yarı Mamul}}}$$
+$$\color{red}{\text{Yarı Mamul Devir Hızı}}=\frac{\text{Üretilen Mamul Maliyeti}}{\text{Ortalama Yarı Mamul}}$$
+$$\color{red}{\text{Üretim Süresi}}=\frac{365}{\text{Y. Mamul Devir Hızı}}$$
 
 * **Mamul Devir Hızı:**
-$$\color{red}{\text{Devir Hızı}=\frac{\text{Satılan Mamul Maliyeti}}{\text{Ortalama Mamul}}}$$
+$$\color{red}{\text{Mamul Devir Hızı}}=\frac{\text{Satılan Mamul Maliyeti}}{\text{Ortalama Mamul}}$$
+$$\color{red}{\text{Mamul Satış Süresi}}=\frac{365}{\text{Mamul Devir Hızı}}$$
 
 * **Ticari Mal Devir Hızı:**
-$$\color{red}{\text{Devir Hızı}=\frac{\text{Satılan Ticari Malın Maliyeti}}{\text{Ortalama Ticari Mal}}}$$
+$$\color{red}{\text{Ticari Mal Devir Hızı}}=\frac{\text{Sat. Tic. Malın Maliyeti}}{\text{Ortalama Ticari Mal}}$$
+$$\color{red}{\text{Süre}}=\frac{365}{\text{Tic. Mal Devir Hızı}}$$
 
 * **Ticari Borç Devir Hızı:**
-$$\color{red}{\text{Devir Hızı}=\frac{\text{Satışların Maliyeti (Kredili Alışlar)}}{\text{Ortalama Ticari Borçlar}}}$$
+$$\color{red}{\text{Ticari Borç Devir Hızı}}=\frac{\text{Satışların Maliyeti (ya da Kredili Alışlar)}}{\text{Ortalama Ticari Borçlar}}$$
+$$\color{red}{\text{Borç Ödeme Süresi}}=\frac{365}{\text{Ticari Borç Devir Hızı}}$$
+
+* **Duran Varlık Devir Hızı:**
+$$\color{red}{\text{Duran Varlık Devir Hızı}}=\frac{\text{Net Satışlar}}{\text{Ort. Duran Varlık}}$$
+$$\color{red}{\text{Süre}}=\frac{365}{\text{Dur. Var. Devir Hızı}}$$
 
 * **Aktif (Varlık) Devir Hızı:**
-$$\color{red}{\text{Devir Hızı}=\frac{\text{Net Satışlar}}{\text{Ortalama Aktif}}}$$
+$$\color{red}{\text{Aktif Devir Hızı}}=\frac{\text{Net Satışlar}}{\text{Aktif}}$$
+$$\color{red}{\text{Süre}}=\frac{365}{\text{Aktif Devir Hızı}}$$
 
 * **Özkaynak Devir Hızı:**
-$$\color{red}{\text{Devir Hızı}=\frac{\text{Net Satışlar}}{\text{Ortalama Öz Kaynaklar}}}$$
+$$\color{red}{\text{Özkaynak Devir Hızı}}=\frac{\text{Net Satışlar}}{\text{Öz Kaynaklar}}$$
+$$\color{red}{\text{Süre}}=\frac{365}{\text{Öz Kay. Devir Hızı}}$$
+
+* **Yabancı Kaynak Devir Hızı:**
+$$\color{red}{\text{Yabancı Kaynak Devir Hızı}}=\frac{\text{Net Satışlar}}{\text{Yabancı Kaynaklar}}$$
+$$\color{red}{\text{Süre}}=\frac{365}{\text{Yab. Kay. Devir Hızı}}$$
+
+* **Nakit Dönüşüm Süresi (Genel Formül):**
+$$\color{red}{\text{Nakit Dönüşüm Süresi}} = \text{Stokta Kalma Süresi} + \text{Tahsilat Süresi} - \text{Borç Ödeme Süresi}$$
+
+* **Nakit Dönüşüm Süresi (Detaylı Üretim Formülü):**
+$$\color{red}{\text{Nakit Dönüşüm Süresi}} = \text{İlk Md. Bekleme S.} + \text{Üretim S.} + \text{Mamul Satış S.} + \text{Tahsilat S.} - \text{Borç Ödeme S.}$$
 
 ---
 
-## BÖLÜM 6: KRİTİK KAVRAMLAR VE NAKİT DÖNÜŞÜM
+## BÖLÜM 6: EKSTRA BİLGİLER (ÇALIŞMA SERMAYESİ VE KAR KAVRAMLARI)
 
-### 🔑 Anahtar Kelimeler:
-Çalışma Sermayesi, Nakit Dönüşüm Süresi, Brüt Alacaklar Kuralı.
-
-### 📌 Hap Bilgiler (Hızlı Tekrar Notları):
+### 📌 Hap Bilgiler:
 * **Brüt Çalışma Sermayesi:**
-$$\color{red}{\text{Brüt Çalışma Sermayesi}=\text{Dönen Varlıklar}}$$
+$$\color{red}{\text{Brüt Çalışma Sermayesi}}=\text{Dönen Varlıklar}$$
 
 * **Net Çalışma Sermayesi:**
-$$\color{red}{\text{Net Çalışma Sermayesi}=\text{Dönen Varlıklar}-\text{KVYK}}$$
+$$\color{red}{\text{Net Çalışma Sermayesi}}=\text{Dönen Varlıklar} - \text{KVYK}$$
 
 * **Devamlı Sermaye:**
-$$\color{red}{\text{Devamlı Sermaye}=\text{UVYK}+\text{Öz Kaynaklar}}$$
+$$\color{red}{\text{Devamlı Sermaye}}=\text{UVYK} + \text{Öz Kaynaklar}$$
 
-* **Nakit Dönüşüm Süresi (Ticari):**
-$$\color{red}{\text{Nakit Dönüşüm Süresi}=\text{Stokta Kalma Süresi}+\text{Tahsilat Süresi}-\text{Borç Ödeme Süresi}}$$
+* **Vergi Öncesi Kar:**
+$$\color{red}{\text{Vergi Öncesi Kar}}=\text{Dönem Karı Veya Zararı}$$
 
-* **Nakit Dönüşüm Süresi (Üretim):**
-$$\color{red}{\text{Nakit Dönüşüm Süresi}=\text{İlk Md. Bekleme}+\text{Üretim Süresi}+\text{Mamul Satış Süresi}+\text{Tahsilat Süresi}-\text{Borç Ödeme Süresi}}$$
-
-* **DİKKAT: BRÜT ALACAKLAR KURALI!** Ticari Alacaklar grubunda yer alan "Şüpheli Alacak Karşılığı" ve "Reeskontlar" azaltıcı etkiye sahiptir. Formüllerde <strong class="text-danger">Brüt Alacak</strong> esas alındığı için, bu indirimler dikkate alınmadan (brüt tutara ulaşılarak) hesaplama yapılmalıdır.
+* **Faiz ve Vergi Öncesi Kar:**
+$$\color{red}{\text{Faiz ve Vergi Öncesi Kar}}=\text{Dönem Karı Veya Zararı} + \text{Finansman Gideri}$$
