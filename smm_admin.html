@@ -138,7 +138,6 @@
 
         durumYazisi.innerHTML = "🧹 Eski sonuçlar temizleniyor... Lütfen bekleyin.";
         
-        // YENİ EKLENEN KISIM: Kamp başlarken veritabanındaki dünkü/eski tabloyu tamamen siler.
         try {
             const eskiSonuclar = await getDocs(collection(db, "kamp_sonuclari"));
             eskiSonuclar.forEach((docItem) => {
@@ -149,7 +148,8 @@
         }
 
         soruyuAtesle();
-        kampTimer = setInterval(kampDongusu, 63000); 
+        // ZAMANLAYICI GÜNCELLENDİ: 63000 -> 93000 (90 sn + 3 sn geçiş payı)
+        kampTimer = setInterval(kampDongusu, 93000); 
     });
 
     btnDuraklat.addEventListener('click', () => {
@@ -166,8 +166,9 @@
         durumYazisi.innerHTML = `🔥 Soru <b>${aktifIndex + 1} / ${limit}</b> Yayında!`;
         durumYazisi.style.color = "#4cd137";
         
-        clearInterval(kampTimer); // YENİ: Ne olur ne olmaz, eski döngüyü kesin olarak öldür
-        kampTimer = setInterval(kampDongusu, 63000); 
+        clearInterval(kampTimer); 
+        // ZAMANLAYICI GÜNCELLENDİ: 63000 -> 93000 (90 sn + 3 sn geçiş payı)
+        kampTimer = setInterval(kampDongusu, 93000); 
     });
 
     btnBitir.addEventListener('click', () => {
@@ -204,7 +205,6 @@
                 secenekler: temizSecenekler,
                 dogru_cevap: gercekDogruCevap,
                 oylar: { A: 0, B: 0, C: 0, D: 0, E: 0 },
-                // YENİ EKLENEN VERİLER (Sayaç ve Senkronizasyon için)
                 soru_no: aktifIndex + 1,
                 toplam_soru: limit,
                 baslangic_zamani: Date.now(),
