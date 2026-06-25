@@ -18,7 +18,9 @@
         #zaman-gosterge { font-size: 55px; font-weight: bold; color: #10b981; text-shadow: 0 0 15px rgba(16, 185, 129, 0.4); transition: color 0.3s; }
         #zaman-gosterge.tehlike { color: #ef4444; text-shadow: 0 0 15px rgba(239, 68, 68, 0.4); }
         
-        .soru-metni { font-size: 17px; font-weight: 600; margin-bottom: 25px; line-height: 1.6; color: #f8fafc; }
+        /* YENİ İLAVE: Soru metnindeki yevmiye kayıtları için boşlukları koruma eklendi (white-space: pre-wrap;) */
+        .soru-metni { font-size: 17px; font-weight: 600; margin-bottom: 25px; line-height: 1.6; color: #f8fafc; white-space: pre-wrap; }
+        
         .secenek-btn { background-color: #2a313c; border: 2px solid #4b5563; color: #e2e8f0; border-radius: 8px; padding: 15px; margin-bottom: 12px; width: 100%; text-align: left; font-size: 15px; cursor: pointer; transition: all 0.2s ease; display: flex; justify-content: space-between; align-items: center; position: relative; overflow: hidden; }
         .secenek-btn:hover:not(:disabled) { border-color: #6b7280; background-color: #374151; }
         .secenek-btn.secildi { border-color: #3b82f6; background-color: rgba(59, 130, 246, 0.15); }
@@ -36,15 +38,20 @@
         .bekleniyor { text-align: center; color: #9ca3af; font-style: italic; margin-top: 20px; font-size: 18px; }
         .rapor-satir { display: flex; justify-content: space-between; padding: 15px; background: #1a1e24; border-radius: 8px; margin-bottom: 12px; font-size: 16px; font-weight: bold; }
         
-        /* YENİ EKLENEN CSS: İnceleme Modalı */
         #incelemeModal { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:2000; justify-content:center; align-items:flex-start; padding: 20px; box-sizing: border-box; overflow-y:auto; }
         .inceleme-kutu { background:#242a33; border-radius:12px; padding:25px; width:100%; max-width:650px; border: 1px solid #374151; margin-top: 20px; margin-bottom: 40px; }
         .inceleme-soru-item { background: #1a1e24; padding: 15px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #374151; }
         .inceleme-sik { padding: 8px 12px; margin-bottom: 8px; border-radius: 6px; border: 1px solid #4b5563; font-size: 14px; }
         .inceleme-sik.dogru-sik { border-color: #10b981; background: rgba(16, 185, 129, 0.15); color: #10b981; font-weight: bold; }
         .inceleme-sik.yanlis-sik { border-color: #ef4444; background: rgba(239, 68, 68, 0.15); color: #ef4444; }
+
+        .soru-metni table, .inceleme-soru-item table { width: 100%; border-collapse: collapse; margin: 15px 0; font-size: 15px; background-color: #1a1e24; }
+        .soru-metni th, .soru-metni td, .inceleme-soru-item th, .inceleme-soru-item td { border: 1px solid #4b5563; padding: 10px; text-align: left; }
+        .soru-metni th, .inceleme-soru-item th { background-color: #374151; color: #f59e0b; font-weight: bold; }
+        .soru-metni p, .inceleme-soru-item p { margin: 0 0 10px 0; }
     </style>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
 
@@ -147,7 +154,6 @@
         }
     });
 
-    // Rapor Kapatma ve YENİ TEST İÇİN SIFIRLAMA (Hafıza Temizliği)
     document.getElementById("raporKapatBtn").addEventListener("click", () => {
         document.getElementById("rapor-alani").style.display = "none";
         document.getElementById("sinav-ana-kasa").style.display = "block";
@@ -170,7 +176,6 @@
         localStorage.removeItem("son_soru"); 
     });
 
-    // PDF Olarak İndirme Fonksiyonu
     document.getElementById("pdfIndirBtn").addEventListener("click", () => {
         const element = document.getElementById("rapor-alani");
         
@@ -187,17 +192,14 @@
 
         html2pdf().set(opt).from(element).save().then(() => {
             butonlar.forEach(b => b.style.display = "block");
-          
         });
     });
 
-    // İnceleme Modalı Açma
     document.getElementById("cevaplariInceleBtn").addEventListener("click", () => {
         gecmisiCiz();
         document.getElementById("incelemeModal").style.display = "flex";
     });
 
-    // İnceleme Modalı Kapatma
     document.getElementById("incelemeKapatBtn").addEventListener("click", () => {
         document.getElementById("incelemeModal").style.display = "none";
     });
@@ -210,8 +212,6 @@
                 if(guncelData && guncelData.kamp_bitti) {
                     clearInterval(sayacInterval);
 
-                    // --- YENİ EKLENEN: KAMP BİTİNCE ZORUNLU TESLİM ---
-                    // Kamp aniden biterse ve adayın süresi donmuşsa son soruyu zorla kurtar
                     if (window.aktifSoruNo > 0 && !skorEklendiMi) {
                         let eskiDogru = window.aktifDogruCevap;
                         if(!secilenSik) istatistik.bos++;
@@ -223,7 +223,6 @@
                         }).catch(e => console.error(e));
                         skorEklendiMi = true;
                     }
-                    // -------------------------------------------------
 
                     document.getElementById("sinav-ana-kasa").style.display = "none";
                     document.getElementById("rapor-alani").style.display = "block";
@@ -250,7 +249,6 @@
                 let hafizaSoruNo = parseInt(localStorage.getItem("smm_aktif_soru_no")) || 0;
                 let yeniSoruGeldi = (window.aktifSoruNo !== firebaseSoruNo);
 
-                // --- YENİ EKLENEN: MOBİL YAVAŞLAMA İÇİN ZORUNLU TESLİM ---
                 if (yeniSoruGeldi && window.aktifSoruNo > 0 && !skorEklendiMi) {
                     let eskiDogru = window.aktifDogruCevap;
                     let eskiMetin = window.aktifSoruMetni;
@@ -273,7 +271,6 @@
                     
                     skorEklendiMi = true;
                 }
-                // ---------------------------------------------------------
 
                 if(sayfaBosMu || yeniSoruGeldi) {
                     secilenSik = "";
@@ -282,11 +279,9 @@
                     raporGonderildiMi = false;
                     window.aktifSoruNo = firebaseSoruNo; 
 
-                    // --- YENİ EKLENEN: ZORUNLU TESLİM İÇİN SORU KİMLİĞİ HAFIZASI ---
                     window.aktifDogruCevap = guncelData.dogru_cevap;
                     window.aktifSoruMetni = guncelData.soru_metni;
                     window.aktifSecenekler = guncelData.secenekler;
-                    // ---------------------------------------------------------------
 
                     if(firebaseSoruNo === 1 && yeniSoruGeldi) {
                         istatistik = { dogru: 0, yanlis: 0, bos: 0 };
@@ -295,7 +290,6 @@
                         localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
                     }
 
-                    // F5 Koruması
                     if (firebaseSoruNo === hafizaSoruNo) {
                         let hafizaSure = parseInt(localStorage.getItem("smm_kalan_sure"));
                         kalanSure = (isNaN(hafizaSure) || hafizaSure <= 0) ? 0 : hafizaSure;
@@ -355,7 +349,9 @@
     function arayuzuCiz(data) {
         document.getElementById("soru-yukleniyor").style.display = "none";
         document.getElementById("sinav-alani").style.display = "block";
-        document.getElementById("soru-metni").innerHTML = data.soru_metni;
+        
+        document.getElementById("soru-metni").innerHTML = marked.parse(data.soru_metni);
+        
         document.getElementById("soru-sayaci").innerText = `Soru: ${data.soru_no} / ${data.toplam_soru}`;
 
         const seceneklerDiv = document.getElementById("secenekler-kapsayici");
@@ -370,7 +366,8 @@
             btn.innerHTML = `
                 <div class="sonuc-bari" id="bar-${harf}"></div>
                 <div class="secenek-icerik">
-                    <span><span class="harf">${harf})</span> ${data.secenekler[harf]}</span>
+                    <!-- YENİ İLAVE: Şıklardaki boşlukları korumak için style eklendi -->
+                    <span style="white-space: pre-wrap;"><span class="harf">${harf})</span> ${data.secenekler[harf]}</span>
                     <span class="yuzde-yazi" id="yuzde-${harf}">%0</span>
                 </div>
             `;
@@ -431,7 +428,6 @@
             localStorage.setItem("smm_soru_gecmisi", JSON.stringify(soruGecmisi));
             skorEklendiMi = true;
 
-            // CANLI OTOMATİK KAYIT (AUTO-SAVE)
             setDoc(doc(db, "kamp_sonuclari", kullaniciAdi), {
                 dogru: istatistik.dogru, 
                 yanlis: istatistik.yanlis, 
@@ -469,7 +465,8 @@
             kutu.className = "inceleme-soru-item";
             
             let html = `<div style="color:#9ca3af; font-size:13px; margin-bottom:8px; font-weight:bold;">Soru ${k.no}</div>`;
-            html += `<div style="font-size:16px; font-weight:bold; margin-bottom:15px; color:#f8fafc;">${k.soru}</div>`;
+            
+            html += `<div style="font-size:16px; font-weight:bold; margin-bottom:15px; color:#f8fafc; white-space: pre-wrap;">${marked.parse(k.soru)}</div>`;
             
             const harfler = ["A", "B", "C", "D", "E"];
             harfler.forEach(h => {
@@ -481,7 +478,7 @@
                     sinif += " yanlis-sik";
                 }
                 
-                html += `<div class="${sinif}"><strong>${h})</strong> ${k.secenekler[h]}</div>`;
+                html += `<div class="${sinif}" style="white-space: pre-wrap;"><strong>${h})</strong> ${k.secenekler[h]}</div>`;
             });
             
             if(!k.secilen) {
