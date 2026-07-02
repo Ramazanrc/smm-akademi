@@ -10,7 +10,7 @@ $$\color{red}{\text{Cari Oran}}=\frac{\text{Dönen Varlıklar}}{\text{KVYK}}$$
 $$\color{red}{\text{Asit-Test}}=\frac{\text{Dönen Varlıklar}-\text{Stok}}{\text{KVYK}}$$
 
 * **Nakit Oranı:**
-$$\color{red}{\text{Nakit Oranı}}=\frac{\text{Hazır Değerler}}{\text{KVYK}}$$
+$$\color{red}{\text{Nakit Oranı}}=\frac{\text{Hazır Değerler+Men.Kıymetler}}{\text{KVYK}}$$
 
 * **Stok Bağımlılık Oranı:**
 $$\color{red}{\text{Stok Bağımlılık}}=\frac{\text{KVYK}-(\text{HD}+\text{M.KIY})}{\text{Stoklar}}$$
@@ -27,7 +27,7 @@ $$\color{red}{\text{Kaldıraç Oranı}}=\frac{\text{Yabancı Kaynaklar (KVYK+UVY
 $$\color{red}{\text{Devamlı Sermaye Oranı}}=\frac{\text{Devamlı Sermaye (UVYK+Ö.KAY)}}{\text{Aktif (Pasif)}}$$
 
 * **Finansman Oranı:**
-$$\color{red}{\text{Finansman Oranı}}=\frac{\text{Özkaynaklar}}{\text{Devamlı Sermaye (UVYK+Ö.KAY)}}$$
+$$\color{red}{\text{Finansman Oranı}}=\frac{\text{Özkaynaklar}}{\text{KVYK+UVYK}}$$
 
 * **Oto Finansman Oranı:**
 $$\color{red}{\text{Oto Finansman Oranı}}=\frac{\text{Kar Ydk}-\text{G. Yıl Zararı}}{\text{Ödenmiş Sermaye}}$$
