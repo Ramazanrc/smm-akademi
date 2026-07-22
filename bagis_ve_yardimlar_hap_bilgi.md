@@ -24,8 +24,8 @@ Sınavda en çok hata yapılan nokta indirim sınırının hesaplanacağı matra
     </tr>
     <tr>
       <td style="padding: 12px; border: 1px solid #ddd;"><strong>2. KKEG Eklemesi</strong></td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><strong class="text-danger">(+) Eklenir</strong> (Zarar olsa bile eklenir)</td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><strong class="text-danger">(+) Eklenir</strong> (Ticari kazançtan geliyorsa)</td>
+      <td style="padding: 12px; border: 1px solid #ddd; background-color: #ffe6e6;"><strong class="text-danger">(X) KESİNLİKLE EKLENMEZ!</strong> (Matrah formülünde yoktur)</td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><strong class="text-success">(+) Eklenir</strong> (Ticari kazançtan geliyorsa)</td>
     </tr>
     <tr>
       <td style="padding: 12px; border: 1px solid #ddd;"><strong>3. Geçmiş Yıl Zararları</strong></td>
@@ -49,7 +49,6 @@ Sınavda en çok hata yapılan nokta indirim sınırının hesaplanacağı matra
     </tr>
   </tbody>
 </table>
-
 
 ## BÖLÜM 2: İNDİRİM ORANLARI VE ŞARTLARI
 
@@ -83,9 +82,9 @@ Bulduğunuz matrah üzerinden, bağışın yapıldığı kuruma göre aşağıda
     <!-- 1. ÖRNEK -->
     <tr>
       <td style="padding: 15px 10px; border-bottom: 1px dashed #bbb; vertical-align: top;"><strong>1. Kurumlar Vergisi</strong><br><em>(%5 Sınırı)</em></td>
-      <td style="padding: 15px 10px; border-bottom: 1px dashed #bbb; vertical-align: top;">- Ticari Kâr: 2.000.000 TL<br>- KKEG: 300.000 TL<br>- Geçmiş Yıl Zararı: 400.000 TL<br>- İştirak Kazancı: 100.000 TL<br><br><strong>Bağış:</strong> 150.000 TL</td>
-      <td style="padding: 15px 10px; border-bottom: 1px dashed #bbb; vertical-align: top;"><strong>Matrah:</strong> 2.000.000 + 300.000 - 400.000 - 100.000 = <strong class="text-danger">1.800.000 TL</strong><br><br><strong>Sınır:</strong> 1.800.000 x %5 = <strong class="text-danger">90.000 TL</strong></td>
-      <td style="padding: 15px 10px; border-bottom: 1px dashed #bbb; vertical-align: top;">Bağış (150.000 TL) sınırı aştığı için <strong class="text-danger">sadece 90.000 TL</strong> indirilebilir. Kalanı KKEG'dir.</td>
+      <td style="padding: 15px 10px; border-bottom: 1px dashed #bbb; vertical-align: top;">- Ticari Kâr: 2.000.000 TL<br>- KKEG: 300.000 TL <em class="text-danger">(Dikkate Alınmaz)</em><br>- Geçmiş Yıl Zararı: 400.000 TL<br>- İştirak Kazancı: 100.000 TL<br><br><strong>Bağış:</strong> 150.000 TL</td>
+      <td style="padding: 15px 10px; border-bottom: 1px dashed #bbb; vertical-align: top;"><strong>Matrah:</strong> 2.000.000 - 400.000 - 100.000 = <strong class="text-danger">1.500.000 TL</strong><br><br><strong>Sınır:</strong> 1.500.000 x %5 = <strong class="text-danger">75.000 TL</strong></td>
+      <td style="padding: 15px 10px; border-bottom: 1px dashed #bbb; vertical-align: top;">Bağış (150.000 TL) sınırı aştığı için <strong class="text-danger">sadece 75.000 TL</strong> indirilebilir. Kalanı KKEG'dir.</td>
     </tr>
     <!-- 2. ÖRNEK -->
     <tr>
