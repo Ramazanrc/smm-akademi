@@ -19174,10 +19174,702 @@
       "E) Teşvik hakkı tamamen yanar ve sonraki yıllarda da kullanılamaz."
     ],
     "answer": 3
+  },
+  {
+    "q": "Mükellef, 2025 yılında aylık 45.000 TL (KDV hariç) bedelle binek otomobil kiralamıştır. Bu işleme ilişkin KDV oranı %20'dir. Binek otomobil kiralama gideri kısıtlamaları dikkate alındığında, mükellefin bu işlem için hesaplayacağı Kanunen Kabul Edilmeyen Gider (KKEG) tutarı toplam ne kadardır?",
+    "options": [
+      "A) 8.000 TL",
+      "B) 9.600 TL",
+      "C) 37.000 TL",
+      "D) 45.000 TL",
+      "E) 1.600 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ticari kazanç sahibi bir mükellef 2025 yılında sıfır kilometre bir binek otomobil satın almış ve Özel Tüketim Vergisi (ÖTV) ile Katma Değer Vergisini (KDV) doğrudan gider yazmayı tercih etmiştir. Gelir Vergisi Kanununa göre, 2025 yılı için kazancın tespitinde gider yazılabilecek azami ÖTV ve KDV toplamı ile amortismana tabi tutulabilecek azami vergisiz ilk iktisap bedeli sırasıyla aşağıdakilerden hangisinde doğru verilmiştir?",
+    "options": [
+      "A) 900.000 TL / 1.000.000 TL",
+      "B) 990.000 TL / 1.100.000 TL",
+      "C) 990.000 TL / 2.100.000 TL",
+      "D) 1.100.000 TL / 2.100.000 TL",
+      "E) 37.000 TL / 990.000 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması olmayan bir kurumlar vergisi mükellefi, aktifine kayıtlı binek otomobili için 2025 yılında 100.000 TL akaryakıt, 50.000 TL kasko ve 30.000 TL Motorlu Taşıtlar Vergisi (MTV) ödemiştir. Bu giderlerden safi kazancın tespitinde indirim konusu yapılabilecek toplam tutar kaç TL'dir?",
+    "options": [
+      "A) 105.000 TL",
+      "B) 126.000 TL",
+      "C) 150.000 TL",
+      "D) 75.000 TL",
+      "E) 180.000 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ticari işletmesinde kullanmak üzere 2025 yılında ikinci el bir binek otomobil satın alan mükellef, binek otomobillerin amortisman gideri kısıtlamasında 2025 yılı için en fazla hangi tutara isabet eden amortismanı gider olarak dikkate alabilir?",
+    "options": [
+      "A) 990.000 TL",
+      "B) 1.100.000 TL",
+      "C) 2.100.000 TL",
+      "D) 3.000.000 TL",
+      "E) İkinci el otomobillerde amortisman kısıtlaması uygulanmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gümrük Tarife Cetvelinin 87.03 pozisyonunda yer almasına rağmen, aşağıdaki motorlu taşıtlardan hangisi binek otomobillere ilişkin gider kısıtlamaları kapsamında değerlendirilmez?",
+    "options": [
+      "A) Steyşın vagonlar",
+      "B) Çok amaçlı araçlar (hem insan hem eşya taşıyanlar)",
+      "C) Şirket yöneticilerine tahsis edilen sedan araçlar",
+      "D) Ambulanslar ve cenaze arabaları",
+      "E) Yarış arabaları"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Faaliyetleri KDV'den istisna olan (B) Bankası, 2025 yılında aylık KDV dâhil 60.000 TL (50.000 TL + %20 KDV) bedelle bir binek otomobil kiralamıştır. KDV Kanununa göre bankaların işlemleri KDV'den istisna olduğundan KDV indirim hakkı bulunmamaktadır. Bu durumda, (B) Bankasının bu kiralama işlemi nedeniyle kurum kazancının tespitinde dikkate alacağı aylık Kanunen Kabul Edilmeyen Gider (KKEG) tutarı kaç TL'dir?",
+    "options": [
+      "A) 13.000 TL",
+      "B) 15.600 TL",
+      "C) 23.000 TL",
+      "D) 37.000 TL",
+      "E) 60.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir işletme, 2025 yılının Nisan ayında (30 gün) günlük 10.000 TL bedelle 20 günlüğüne bir binek otomobil kiralamış ve toplam 200.000 TL ödemiştir. Günlük kiralama kısıtlaması (Aylık sınır: 37.000 TL) dikkate alındığında, bu kiralama işlemi için safi kazancın tespitinde Kanunen Kabul Edilmeyen Gider (KKEG) olarak yazılacak tutar tam olarak kaç TL'dir?",
+    "options": [
+      "A) 24.666,66 TL",
+      "B) 126.000,00 TL",
+      "C) 163.000,00 TL",
+      "D) 175.333,34 TL",
+      "E) 200.000,00 TL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Finansal kiralama (leasing) yoluyla edinilen binek otomobillerin gider kısıtlamalarına ilişkin aşağıdaki ifadelerden hangisi mevzuata kesinlikle uygundur?",
+    "options": [
+      "A) Finansal kiralama ödemeleri de aylık 37.000 TL'lik kiralama gideri kısıtlamasına tabidir.",
+      "B) Finansal kiralama sözleşmesine göre yapılan borç anapara ödemelerinin %70'i doğrudan gider yazılabilir.",
+      "C) İlk yıl ödenen faiz giderleri doğrudan gider yazılabilir ancak %70 kısıtlamasına tabidir.",
+      "D) İlk yıl ödenen faiz giderleri otomobilin maliyetine dâhil edilmek zorundadır; sonraki yıllarda ödenen faizler ise tercihen doğrudan gider yazılabilir ancak bu durumda %70 kısıtlamasına tabi olur.",
+      "E) Finansal kiralama ile edinilen araçlarda amortisman kısıtlaması (2.100.000 TL) hiçbir şekilde uygulanmaz."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Mükellef, 14 Haziran 2025 tarihinde 2.600.000 TL (KDV ve ÖTV maliyete eklenmiştir) bedelle ticari işletmesi için binek otomobil satın almıştır. Amortismana tabi azami tutarın 2025 yılı için 2.100.000 TL olduğu ve faydalı ömrün 5 yıl (%20) olduğu dikkate alındığında; kıst amortisman uygulaması gereği mükellefin 2025 takvim yılında ve itfa süresinin son yılı olan 2029 takvim yılında gider olarak dikkate alabileceği amortisman tutarları sırasıyla kaç TL'dir?",
+    "options": [
+      "A) 420.000 TL / 420.000 TL",
+      "B) 245.000 TL / 420.000 TL",
+      "C) 245.000 TL / 595.000 TL",
+      "D) 210.000 TL / 595.000 TL",
+      "E) 420.000 TL / 595.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Avukat Bay (E), serbest meslek faaliyetinde kullanmak üzere 3 Haziran 2025 tarihinde aylık KDV hariç 45.000 TL'ye binek otomobil kiralamış ve 1 yıllık kira bedeli olan 540.000 TL'yi peşin ödemiştir. Serbest meslek kazancında 'tahsil esası' (ödemenin yapıldığı dönemin dikkate alınması) geçerli olduğuna göre, Bay (E)'nin 2025 takvim yılı kazancının tespitinde gider olarak indirebileceği azami kira tutarı kaç TL'dir?",
+    "options": [
+      "A) 259.000 TL",
+      "B) 333.000 TL",
+      "C) 444.000 TL",
+      "D) 450.000 TL",
+      "E) 540.000 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Binek otomobil kiralama işleminde aylık sınırın (37.000 TL) aşılması durumunda, aşan kısma isabet eden Katma Değer Vergisinin (KDV) akıbeti ne olur?",
+    "options": [
+      "A) Aşan kısma ait KDV, indirim konusu yapılmaya devam edilir.",
+      "B) KDV'nin tamamı (sınır altı ve üstü dâhil) indirim konusu yapılamaz ve maliyete eklenir.",
+      "C) Aşan kısma ait KDV, hesaplanan KDV'den indirilemez ve kazancın tespitinde kanunen kabul edilmeyen gider (KKEG) olarak matraha ilave edilir.",
+      "D) Aşan kısma ait KDV, doğrudan devreden KDV hesaplarına aktarılır.",
+      "E) Sadece %70'i indirim konusu yapılabilir, %30'u KKEG olur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir şirket, aktifine kayıtlı binek otomobili için 2025 yılında 300.000 TL akaryakıt, 75.000 TL sigorta ve 30.000 TL Motorlu Taşıtlar Vergisi (MTV) ödemiştir. Binek otomobillere ait genel giderlerin (%70) kısıtlaması ile MTV'nin özel durumu dikkate alındığında, bu harcamalardan dolayı kurum kazancına ilave edilecek toplam Kanunen Kabul Edilmeyen Gider (KKEG) tutarı kaç TL'dir?",
+    "options": [
+      "A) 112.500 TL",
+      "B) 121.500 TL",
+      "C) 142.500 TL",
+      "D) 150.000 TL",
+      "E) 283.500 TL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir vergisi mükellefi, 2025 yılının Nisan ayında (30 gün) 10 günlüğüne bir binek otomobil kiralamış ve KDV hariç toplam 15.000 TL ödemiştir. Mükellefin bu kiralamaya ilişkin ticari kazancından indirebileceği günlük bedel uygulaması dikkate alındığında azami kiralama gideri toplam kaç TL'dir?",
+    "options": [
+      "A) 12.333,33 TL",
+      "B) 15.000,00 TL",
+      "C) 37.000,00 TL",
+      "D) 2.666,67 TL",
+      "E) 10.000,00 TL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Finansal kiralama yoluyla edinilen binek otomobillere ilişkin gider kısıtlaması uygulamasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Aylık kiralama gideri kısıtlaması (37.000 TL sınırı) söz konusu değildir.",
+      "B) İlk yıl ödenen faiz giderleri binek otomobilin maliyetine (Haklar hesabı) dâhil edilmek zorundadır.",
+      "C) Sonraki yıllara ilişkin ödenen faiz giderleri tercihen doğrudan gider veya maliyet olarak dikkate alınabilir.",
+      "D) Finansal kiralama sözleşmesine göre yapılan anapara ödemeleri doğrudan gider yazılır.",
+      "E) Doğrudan gider yazılması tercih edilen faiz giderlerinin en fazla %70'i safi kazancın tespitinde indirim konusu yapılabilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gelir Vergisi Kanununun 18 inci maddesi kapsamındaki istisnadan yararlanan bir yazarın, 2025 yılında elde ettiği telif kazançları toplamı 5.000.000 TL olup bu kazanç için yapıp belgelendirdiği mesleki giderleri 1.000.000 TL'dir (Net kazanç: 4.000.000 TL). 2025 yılı için tarifin dördüncü dilim sınırı 4.300.000 TL olduğuna göre, bu yazarın vergilendirilme durumu ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Net kazanç (4.000.000 TL), 4.300.000 TL'lik sınırı aşmadığı için istisnadan faydalanır, beyanname verilmez ve yıl içinde kesilen stopajlar nihai vergi olur.",
+      "B) Hasılat brüt 5.000.000 TL olduğu için sınır aşılmıştır; bu nedenle istisnadan yararlanılamaz ve tamamı üzerinden yıllık beyanname verilir.",
+      "C) İstisna sınırı hasılat üzerinden değil, safi kazanç üzerinden değerlendirildiği için yazar istisnadan yararlanır ancak yine de geçici vergi ödemek zorundadır.",
+      "D) Hasılat 4.300.000 TL'yi aşsa bile giderler düşüldükten sonra kalan tutar esas alındığı için mükellef esnaf muaflığına geçer.",
+      "E) Yazar, telif kazançları için her durumda dilediği takdirde istisnadan vazgeçip gerçek usulü seçebilir."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Serbest meslek kazanç istisnası kapsamında teslim ve hizmetleri bulunan bir serbest meslek erbabının, KDV sorumluluk uygulamasından (alıcının KDV'yi sorumlu sıfatıyla 2 No.lu KDV ile beyan etmesi) yararlanabilmesi için taşıması gereken **zorunlu şartlar** aşağıdakilerden hangisinde eksiksiz verilmiştir?",
+    "options": [
+      "A) Sadece serbest meslek kazanç istisnası kapsamında işlemlerden ibaret olması ve işlemlerinin tamamının GVK 94. maddesine göre gelir vergisi tevkifatına tabi bulunması.",
+      "B) Yıllık hasılatının 4.300.000 TL'yi aşmamış olması ve Defter-Beyan Sistemi kullanması.",
+      "C) Faaliyetinin arızi nitelikte olması ve KDV mükellefiyetinin bulunmaması.",
+      "D) Sadece ticari şirketlere iş yapıyor olması ve faturasında KDV hesaplamaması.",
+      "E) Kültür ve Turizm Bakanlığınca tescil edilmiş eser sahibi olması."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Gelir vergisi tarifesinin dördüncü dilimini (4.300.000 TL) aşması nedeniyle serbest meslek kazanç istisnasından yararlanamayacak olan bir serbest meslek erbabının (eser sahibinin) **Geçici Vergi** ve **Yıl İçi Tevkifat (Stopaj)** yükümlülükleri hakkındaki yasal durum nedir?",
+    "options": [
+      "A) Yıl içinde tevkifat yapılmaz, sadece geçici vergi ödenir.",
+      "B) Yıl içinde GVK 94. madde kapsamında %17 oranında tevkifat yapılmaya devam edilir; ancak istisnadan yararlanılamayacağı için geçici vergi beyannamesi verme yükümlülükleri bulunmamaktadır.",
+      "C) Hem yıl içinde %17 stopaj yapılır hem de üçer aylık dönemler halinde geçici vergi beyannamesi verilmesi zorunludur.",
+      "D) İstisna aşıldığı an stopaj oranı otomatik olarak %20'ye çıkartılır ve geçici vergi başlar.",
+      "E) Yıl içinde ne stopaj yapılır ne de geçici vergi ödenir, vergi sadece yıllık beyannamede tahakkuk eder."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "5846 sayılı Fikir ve Sanat Eserleri Kanununa göre bazı eserlerde kayıt ve tescil zorunlu, bazı eserlerde ise ihtiyari tutulmuştur. Buna göre, GVK 18. madde istisnasından yararlanabilmek için eserlerin kayıt ve tescili ile ilgili kural aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Tüm eserlerin istisnadan yararlanabilmesi için Kültür ve Turizm Bakanlığına tescil ettirilmesi mutlak zorunluluktur.",
+      "B) Kayıt ve tescil şartı hiçbir eserde aranmaz, beyan esastır.",
+      "C) Maddede belirtilen eserlerden kayıt ve tescili zorunlu olanların tescil ettirilmesi şart olup, diğer eserlerde kayıt ve tescil şartı aranmaz.",
+      "D) Sadece bilgisayar yazılımları için tescil zorunludur, diğerlerinde aranmaz.",
+      "E) Kayıt ve tescil sadece dar mükellefler için zorunludur, tam mükellefler muaftır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İstisna kapsamındaki serbest meslek faaliyetleri dolayısıyla elde edilen kazançların dördüncü gelir dilimini (4.300.000 TL) aşması nedeniyle yıllık beyanname vermesi gereken bir mükellefin, beyanname üzerinden indirebileceği **eğitim ve sağlık harcamaları** için uygulanan üst sınır oranı yüzde kaçtır?",
+    "options": [
+      "A) Beyan edilen gelirin %5'i",
+      "B) Beyan edilen gelirin %10'u",
+      "C) Beyan edilen gelirin %15'i",
+      "D) Beyan edilen gelirin %20'si",
+      "E) Sınır yoktur, tamamı indirilebilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "GVK 18. madde istisnasından yararlanan bir ressam, faaliyetini yürütebilmek için kiralamış olduğu bir atölye için her ay iş yeri kirası ödemektedir. Bu ressamın ödediği iş yeri kirası üzerinden **gelir vergisi tevkifatı (stopaj)** yapma yükümlülüğü var mıdır?",
+    "options": [
+      "A) Evet, her kiracı gibi %20 stopaj yapmak zorundadır.",
+      "B) Hayır, serbest meslek kazanç istisnasından yararlanan mükelleflerin tevkifat yapma (stopaj) yükümlülüğü bulunmamaktadır.",
+      "C) Sadece yıllık kirası 330.000 TL'yi aşarsa stopaj yapar.",
+      "D) Atölye konut statüsünde olduğu için stopaj yapılmaz, iş yeri ise yapılır.",
+      "E) Sadece ticari şirketlere iş yapıyorsa stopaj yükümlülüğü doğar."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dergilere karikatür çizen ve GVK 18. madde istisnasından yararlanan bir karikatürist, KDV sorumluluk uygulamasını seçmiştir. Bu karikatüristin dergi işletmesine yaptığı hizmet karşılığında hesaplanan KDV'nin beyan ve ödeme yükümlülüğü nasıl yerine getirilir?",
+    "options": [
+      "A) Karikatürist bizzat 1 No.lu KDV beyannamesi ile beyan edip öder.",
+      "B) Dergi işletmesi (alıcı) tarafından 2 No.lu KDV beyannamesi ile sorumlu sıfatıyla beyan edilir ve karikatürist ayrıca KDV beyannamesi vermez.",
+      "C) KDV tamamen muaftır, hiçbir beyanname verilmez.",
+      "D) KDV yalnızca fatura kesilerek mal alışında indirim konusu yapılır.",
+      "E) Dergi işletmesi stopajla birlikte %20 KDV'yi de muhtasar beyannamede bildirir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir Vergisi Kanununun 18 inci maddesinde yer alan serbest meslek kazanç istisnasından faydalanan bir yazar, 2025 takvim yılında telif haklarından 5.000.000 TL hasılat elde etmiş ve 500.000 TL belgelendirilmiş gider yapmıştır. 2025 yılı tarifenin dördüncü gelir dilimi 4.300.000 TL olduğuna göre, bu mükellefin vergilendirilme durumu ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Hasılatı 4.300.000 TL'yi aştığı için istisnadan yararlanamaz, yıllık beyanname verir ve geçici vergi mükellefiyeti açtırır.",
+      "B) Net kazancı (4.500.000 TL), 4.300.000 TL'lik sınırı aştığı için istisnadan yararlanamaz, kazancını yıllık gelir vergisi beyannamesi ile beyan eder ancak geçici vergi beyannamesi verme yükümlülüğü yoktur.",
+      "C) Sadece aradaki 200.000 TL'lik fark için yıllık beyanname verir ve bu tutar üzerinden %17 stopaj öder.",
+      "D) Elde ettiği kazanç üzerinden sadece %20 stopaj yapılarak nihai vergilendirme sağlanır, beyanname verilmez.",
+      "E) İstisna uygulamasında giderler düşülemediğinden 5.000.000 TL'nin tamamı vergiye tabi olur ve ticari kazanç hükümlerine göre beyan edilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Telif haklarının ve ihtira beratlarının, eser sahipleri ve kanuni mirasçıları dışında kalan **üçüncü kişiler** tarafından elden çıkarılması veya kiralanması durumunda elde edilen kazançların vergi türü sırasıyla aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Serbest Meslek Kazancı - Gayrimenkul Sermaye İradı",
+      "B) Ticari Kazanç - Serbest Meslek Kazancı",
+      "C) Değer Artışı Kazancı - Gayrimenkul Sermaye İradı",
+      "D) Değer Artışı Kazancı - Serbest Meslek Kazancı",
+      "E) Serbest Meslek Kazancı - Serbest Meslek Kazancı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir Vergisi Kanununun 18 inci maddesi kapsamına giren serbest meslek işleri dolayısıyla, GVK 94 üncü maddesinde sayılan kişi ve kurumlar tarafından yapılacak ödemelerden (avanslar dâhil) yüzde kaç oranında gelir vergisi tevkifatı (stopaj) yapılır?",
+    "options": [
+      "A) %10",
+      "B) %15",
+      "C) %17",
+      "D) %20",
+      "E) %25"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Serbest meslek kazanç istisnası kapsamına giren teslim ve hizmetleri yapan bir mükellefin, hesaplanacak Katma Değer Vergisinin (KDV) alıcı (sorumlu) tarafından beyan edilmesini (sorumluluk uygulaması) tercih etmesi durumunda aşağıdakilerden hangisi **yanlıştır**?",
+    "options": [
+      "A) İşlemlerinin tamamının GVK 94. maddesine göre gelir vergisi tevkifatına tabi bulunması gerekir.",
+      "B) Bu uygulamadan faydalanan serbest meslek erbapları ayrıca KDV beyannamesi vermez ve defter tutmazlar.",
+      "C) Sorumlu sıfatıyla alıcı tarafından hesaplanan KDV tutarı, gelir vergisi tevkifat matrahına dâhil edilmez.",
+      "D) Sorumluluk uygulamasını seçen serbest meslek erbabı KDV beyannamesi vermese de KDV defteri tutmak zorundadır.",
+      "E) İşlem yapılmasını önceden vergi sorumlusuna (alıcıya) bildirmesi gerekmektedir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Dar mükellefiyete tabi bir bilgisayar programcısının (örneğin Almanya vatandaşı), Türkiye'de arızi olarak bir yazılım programını tam mükellef bir şirkete satması durumunda, bu kazancın Türkiye'deki vergilendirilme usulü ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Dar mükellefler serbest meslek kazanç istisnasından faydalanamaz, %20 stopaj uygulanır ve yıllık beyanname verir.",
+      "B) İstisna kapsamında %17 gelir vergisi tevkifatı yapılır ve tutarı ne olursa olsun bu kazanç için Türkiye'de yıllık gelir vergisi beyannamesi verilmez.",
+      "C) Faaliyet arızi dahi olsa KDV mükellefiyeti açtırıp %20 KDV beyan etmek zorundadır.",
+      "D) İstisnadan yararlanabilmesi için Türkiye'de en az 6 ay ikamet etmesi şarttır.",
+      "E) Dar mükellef kazancı ticari kazanç sayılacağından hiçbir tevkifat yapılmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir vergisi tarifesinin dördüncü dilimini aşması nedeniyle istisnadan yararlanamayıp yıllık gelir vergisi beyannamesi veren bir bestekârın, beyannamesi üzerinden indirebileceği **eğitim ve sağlık harcamaları** için aranan şartlardan hangisi **yanlıştır**?",
+    "options": [
+      "A) Harcamanın Türkiye'de yapılmış olması gerekir.",
+      "B) Gelir veya kurumlar vergisi mükellefi olan gerçek veya tüzel kişilerden alınacak belgelerle tevsik edilmesi şarttır.",
+      "C) İndirilecek tutar, beyan edilen gelirin %15'ini aşmamalıdır.",
+      "D) Mükellefin kendisi, eşi ve küçük çocuklarına ilişkin olmalıdır.",
+      "E) Yıllık beyanname ile bildirilecek bir gelirin bulunması şarttır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "5846 sayılı Fikir ve Sanat Eserleri Kanununa göre eserlerin kayıt ve tescil zorunluluğu ile Gelir Vergisi Kanununun 18 inci maddesindeki istisna uygulamasının ilişkisi hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İstisnadan yararlanabilmek için üretilen tüm eserlerin eksiksiz olarak Kültür ve Turizm Bakanlığınca kayıt ve tescil edilmesi zorunludur.",
+      "B) Kültür ve Turizm Bakanlığınca kayıt ve tescil edilen her eser, GVK 18. maddede sayılmasa bile otomatik olarak istisna kapsamına girer.",
+      "C) Sadece 5846 sayılı Kanuna göre kayıt ve tescili zorunlu olan eserlerin tescil ettirilmesi şarttır; ihtiyari olanlarda kayıt ve tescil şartı aranmaz.",
+      "D) Eserlerin kayıt ve tescil işlemi sadece değer artışı kazancına konu edilecekse zorunludur.",
+      "E) İstisna uygulamasında 5846 sayılı Kanunun hiçbir hükmü dikkate alınmaz."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gelir Vergisi Kanununa göre, genel ve özel şartları taşısalar dahi aşağıda sayılan mükellef gruplarından hangisinin kazancı hiçbir şekilde basit usulde tespit edilemez?",
+    "options": [
+      "A) Terzilik faaliyeti ile uğraşanlar",
+      "B) Sarraflar ile kıymetli maden ve mücevherat alım satımı ile uğraşanlar",
+      "C) Ayakkabı tamircileri",
+      "D) Mahalle arasında bakkal işletenler",
+      "E) Gezici olarak perakende ticaret yapanlar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Basit usule tabi olmanın genel şartlarından biri olan 'kendi işinde bilfiil çalışmak veya bulunmak' kuralına göre, aşağıdaki durumlardan hangisi bu şartın ihlali anlamına gelir ve mükellefi gerçek usule geçirir?",
+    "options": [
+      "A) İşinde yardımcı işçi veya çırak kullanmak",
+      "B) Hastalık veya seyahat nedeniyle geçici olarak işin başında bulunmamak",
+      "C) Sahibi sıfatıyla birden fazla motorlu ticari araçla veya birden fazla iş yerinde faaliyette bulunmak",
+      "D) Ölüm halinde iş sahibinin dul eşi veya küçük çocukları namına işe devam olunması",
+      "E) İşin başında bilfiil bulunmak kaydıyla, boş zamanlarında kısmi süreli (mevsimlik) olarak başka bir iş yerinde ücretli çalışmak"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Basit usule tabi bir mükellefin yanında çalışan ve tevkif suretiyle vergilendirilmemiş yıllık brüt ücreti, asgari ücretin yıllık gelir vergisi matrahını aşan bir işçinin vergilendirilmesi nasıl yapılır?",
+    "options": [
+      "A) İşveren tarafından muhtasar beyanname ile %20 stopaj yapılır.",
+      "B) Vergi karnesi alarak vergi dairesine gidip vergisini tarh ve tahakkuk ettirir.",
+      "C) Elde edilen ücret gelirinin tamamı yıllık gelir vergisi beyannamesi ile beyan edilir ve hesaplanan gelir vergisinden asgari ücret üzerinden hesaplanan yıllık gelir vergisi mahsup edilir.",
+      "D) Basit usulde çalışan işçiler hiçbir şekilde beyanname vermez, vergiden tamamen muaftırlar.",
+      "E) Basit usul mükellefi defter tutmadığından işçinin ücreti diğer kazanç ve irat olarak vergilendirilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yeni mükellefiyet tesis ettiren basit usul mükelleflerinin, elektronik kayıt ve beyan sistemi olan 'Defter-Beyan Sistemi'ne başvuru işlemlerini en geç ne zamana kadar yapmaları zorunludur?",
+    "options": [
+      "A) İşe başlama tarihini izleyen 1 ay içerisinde.",
+      "B) İşe başlama bildiriminin verildiği günü izleyen yedinci iş günü mesai saati sonuna (saat 23.59'a) kadar.",
+      "C) İşe başlanılan takvim yılının son gününe kadar.",
+      "D) İlk vergi beyannamesinin verileceği dönemin son gününe kadar.",
+      "E) Takip eden yılın Şubat ayının sonuna kadar."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kazancı basit usulde tespit edilen mükelleflerin kiraladıkları iş yeri için ödedikleri kira bedellerinin tevsik zorunluluğu (banka veya PTT kanalıyla ödeme) kuralına uymamaları durumunda uygulanacak ceza miktarı nedir?",
+    "options": [
+      "A) Sadece uyarı cezası verilir, maddi yaptırım uygulanmaz.",
+      "B) Her bir işlem için, belirlenen özel usulsüzlük cezası miktarından az olmamak üzere bu işleme konu tutarın %10'u kadar ceza kesilir (2/8/2024 sonrası kuralı).",
+      "C) İşleme konu tutarın %50'si kadar vergi ziyaı cezası kesilir.",
+      "D) Ceza sadece kiralayana kesilir, basit usuldeki kiracıya ceza uygulanmaz.",
+      "E) Basit usul mükellefleri tevsik zorunluluğundan muaf olduğundan ceza kesilmez."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kazancı basit usulde tespit edilen ve 29 yaşını doldurmamış bir tam mükellefin 'Genç Girişimci Kazanç İstisnası' ve 'Sigorta Prim Teşviki' karşısındaki durumu aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+    "options": [
+      "A) Ticari kazancı zaten vergiden istisna olduğu için hiçbir teşvikten yararlanamaz.",
+      "B) Genç girişimci istisnasına başvurmak için gerçek usule geçmek zorundadır.",
+      "C) Kazancının tamamı gelir vergisinden istisna olduğu için beyanname vermez; ancak şartları taşıyorsa bağlı bulunduğu vergi dairesinden yazı alarak sigorta prim teşvikinden (Bağ-Kur desteği) yararlanabilir.",
+      "D) Beyanname vererek gelir vergisi tarifesinin ikinci dilimine kadar olan istisnadan ayrıca nakden iade alır.",
+      "E) Sadece teknoloji alanında faaliyet gösteriyorsa sigorta prim teşvikinden faydalanabilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kazançları basit usulde tespit edilen mükelleflerin Katma Değer Vergisi (KDV) uygulamasına ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Teslim ve hizmetleri KDV'den istisnadır ve KDV Beyannamesi vermezler.",
+      "B) Mal ve hizmet satın alırken ödedikleri KDV'yi indirim konusu yapamazlar, gider veya maliyet olarak dikkate alırlar.",
+      "C) İlgili vergi dairesine yazılı başvuruda bulunarak kendi istekleriyle KDV mükellefiyeti tesis ettirebilirler.",
+      "D) İşlemleri KDV'den istisna olduğu halde düzenledikleri faturada KDV gösterirlerse, bu KDV'yi beyan edip ödemek zorundadırlar.",
+      "E) Mal aldıkları gerçek usuldeki mükelleflere kendi KDV istisnalarını göstererek KDV'siz (sıfır KDV ile) mal satın alabilirler."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Gelir Vergisi Kanununa göre uygulanan engellilik indiriminde, 2025 yılında çalışma gücünün asgari %60'ını kaybetmiş (2. derece engelli) bir ücretlinin yararlanabileceği aylık engellilik indirimi tutarı ne kadardır?",
+    "options": [
+      "A) 9.900 TL",
+      "B) 5.700 TL",
+      "C) 2.400 TL",
+      "D) 118.800 TL",
+      "E) 68.400 TL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Engellilik derecesi %90 veya daha fazla olan malul ve engellilerin, 2025 yılında yurt içinden Özel Tüketim Vergisi (ÖTV) istisnasından yararlanarak taşıt iktisap etmelerine ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Türk Gümrük Tarife Cetvelinin 87.03 pozisyonunda yer alan taşıtlar için motor silindir hacminin 1600 cm³'ü geçmemesi zorunludur.",
+      "B) Taşıtın, hesaplanması gereken ÖTV ve diğer her türlü vergiler dâhil bedelinin 2025 yılı için 2.290.200 TL'nin altında olması gerekir.",
+      "C) Taşıtın mutlaka malul veya engelli tarafından bizzat kullanılması amacıyla özel tertibat yaptırılmış olması şarttır.",
+      "D) Bu istisnadan her 5 yılda bir defaya mahsus olmak üzere yararlanılabilir.",
+      "E) Sadece %90'ın üzerinde ortopedik engeli bulunanlar bu istisnadan faydalanabilir, zihinsel veya görme engelliler faydalanamaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Engellilik derecesi %90'ın altında olanların ÖTV istisnalı taşıt alımlarında aranılan 'özel tertibat' şartı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İlk iktisaptan önce hareket ettirici aksamda (debriyaj, fren, gaz, vites) engelliliğe uygun olarak sabitlenmiş özel tertibat yapılması zorunludur.",
+      "B) Sadece sol alt ekstremitede (sol bacak/ayak) engeli bulunanların otomatik vitesli taşıtları, başkaca özel tertibat aranmaksızın istisna kapsamında değerlendirilebilir.",
+      "C) Direksiyon simidine sadece topuz takılması, taşıtı hareket ettirici aksamda özel tertibat kapsamında değerlendirilir ve istisna için yeterlidir.",
+      "D) Sağ ayağı ampute olan bir engellinin, fren ve gaz pedallarında özel tertibat yaptırmadan salt otomatik vitesli bir taşıtı istisnalı alması mümkün değildir.",
+      "E) İşitme engellilerin, görme engellilerin veya kalp nakli olanların (%90'ın altında engel oranına sahiplerse) ÖTV'den müstesna taşıt iktisap etmeleri mümkün değildir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Motorlu Taşıtlar Vergisi (MTV) malul ve engelli istisnası uygulamasına ilişkin aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Engellilik derecesi %90 ve daha fazla olanların bu istisnadan yararlanabilmesi için taşıtlarında mutlaka özel tertibat bulunması şarttır.",
+      "B) Engellilik derecesi %90'dan az olanların MTV istisnasından yararlanabilmesi için, adlarına kayıtlı taşıtların engellilik durumlarına uygun özel tertibatlı hale getirilmiş olması gerekir.",
+      "C) MTV istisnasından faydalanabilmek için taşıtın mutlaka ilk alımında ÖTV istisnasından faydalanılarak alınmış olması kanuni bir zorunluluktur.",
+      "D) Sadece sol bacağından engelli olanların otomatik vitesli araçlarına, ek bir mekanik özel tertibat yaptırmadıkları sürece MTV istisnası uygulanmaz.",
+      "E) Süreli sağlık kurulu raporu ile istisnadan yararlananların, rapor süresi bitse dahi istisnaları taşıtı satana kadar devam eder."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Engellilere sağlanan Emlak Vergisi indirimli (sıfır) bina vergisi oranı uygulaması hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Uygulamadan yararlanabilmek için Türkiye sınırları içinde brüt 200 m²'yi geçmeyen tek meskene (veya tek meskende hisseye) sahip olmak gerekir.",
+      "B) Engellinin tek meskenini kiraya verip kendisinin de başka bir yerde ikamet etmesi (oturması) durumunda bu istisnadan yararlanması mümkün değildir.",
+      "C) Engellinin herhangi bir gelirinin bulunması (örneğin ücret veya kira geliri), sıfır oranlı emlak vergisi uygulamasından yararlanmasına engel teşkil etmez.",
+      "D) İndirimli bina vergisi oranından yararlanmak için engel durumunun belirli bir oranın (örneğin %40) üzerinde olması şartı aranmamaktadır.",
+      "E) Belirli zamanlarda dinlenme amacıyla kullanılan yazlık vb. meskenler için bu istisna uygulanmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Katma Değer Vergisi (KDV) Kanununda engellilere sağlanan vergi avantajlarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Engellilerin bizzat kullanmak amacıyla yurt içinden satın aldıkları tüm binek otomobillerin teslimi KDV'den istisnadır.",
+      "B) Engellilerin eğitimleri, meslekleri ve günlük yaşamları için özel olarak üretilmiş her türlü araç-gereç (tekerlekli sandalye, kabartma klavye vb.) ile özel bilgisayar programlarının teslimi KDV'den istisnadır.",
+      "C) Engelli olmayanlar tarafından da kullanılabilen standart cihazlar, engellilere satıldığında KDV istisnasına tabidir.",
+      "D) Engellilere bakım evlerinde verilen hizmetlere KDV istisnası uygulanarak KDV oranı %0 olarak hesaplanır.",
+      "E) Engelliler tarafından ithal edilen araçların KDV'si gümrükte tahsil edilmez, tamamen muaftır."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gümrük vergilerinden muaf olarak ithal edilen özel tertibatlı engelli araçlarının devir, satış ve intikal işlemlerine ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bu araçların, aranan şartları taşıyan başka bir engelli kişiye herhangi bir süre kısıtı bulunmaksızın gümrük vergisi ödenmeden devri mümkündür.",
+      "B) Araçların engelli olmayan başka bir kişiye, serbest dolaşıma girdiği tarihten itibaren 3 yıl geçmeden satışı mümkün değildir.",
+      "C) Serbest dolaşıma girdiği tarihten itibaren 3 ila 5 yıl arasında engelli olmayan kişilere satışında gümrük vergileri tahsil edilir.",
+      "D) Serbest dolaşıma girdiği tarihten itibaren 5 yıl sonrasında engelli olmayan kişilere satışında gümrük vergileri aranmaz.",
+      "E) Aracı muafiyet kapsamında ithal eden engelli kişinin vefatı halinde, varislerin aracı engelli olmayan birine satabilmesi için 5 yıllık süre dolmuş olsa bile gümrük vergilerini ödemesi şarttır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Gelir Vergisi Kanununun 9 uncu maddesinin birinci fıkrasının (6) numaralı bendi kapsamında esnaf muaflığından faydalanmak isteyen ve evinde ürettiği ürünleri internet üzerinden de satan bir kişinin taşıması gereken şartlarla ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Dışarıdan işçi çalıştırmaması gerekir.",
+      "B) Sanayi tipi veya seri üretim yapabilen makine ve aletler (mutfak robotu, dikiş makinesi vb. hariç) kullanmaması gerekir.",
+      "C) İnternet ve benzeri elektronik ortamlar üzerinden yıl içinde gerçekleştirdiği satış tutarının, o yıl geçerli olan asgari ücretin yıllık brüt tutarını aşmaması gerekir.",
+      "D) Esnaf Vergi Muafiyeti Belgesi alması zorunludur.",
+      "E) Ürünlerini kermes, festival, panayır gibi kamu kurumlarınca belirlenen geçici yerlerde satması muafiyetten faydalanmasına engel değildir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gelir Vergisi Kanununun 9 uncu maddesinin birinci fıkrasının (10) numaralı bendi kapsamında, evlerde imal edilen ürünlerin **sadece internet ve benzeri elektronik ortamlar üzerinden** satışında esnaf muaflığından yararlanma şartları ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Satışların bir kısmı kermeslerde, bir kısmı internetten yapılabilir.",
+      "B) Ticari bir hesap açılması zorunlu değildir, kişisel hesaplar kullanılabilir.",
+      "C) Bir takvim yılında elde edilen hasılatın 2025 yılı için 1.580.000 Türk lirasını aşmaması gerekir.",
+      "D) Esnaf Vergi Muafiyeti Belgesi alınması isteğe bağlıdır.",
+      "E) Dışarıdan işçi çalıştırılması kanunen kesinlikle yasaktır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "GVK 9. madde 1. fıkra (10) numaralı bendi kapsamında evlerde üretilen ürünleri sadece internet üzerinden satan ve Esnaf Vergi Muafiyeti Belgesi bulunan bir kişinin banka işlemleri ve tevkifat uygulamasına ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bankalar, açılan ticari hesaba aktarılan tutarlar üzerinden %4 oranında tevkifat yapar.",
+      "B) Mükellef bir veya üzeri işçi çalıştırıyorsa ve bunu bankaya bildirmişse tevkifat oranı %2 olarak uygulanır.",
+      "C) İndirimli tevkifat oranından faydalanmak için bir işçinin ilgili ayda en az on gün çalıştırılması zorunludur.",
+      "D) Tevkifat yapmakla sorumlu olanlar alıcılar değil, sadece bankalardır.",
+      "E) Çalıştırılan işçinin işten ayrıldığının bankaya bildirilmemesi halinde eksik hesaplanan vergilerin sorumluluğu bankaya aittir."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bayan (A), Gelir Vergisi Kanununun 9 uncu maddesinin (6) numaralı bendi kapsamında evinde ürettiği turistik eşyaları hem internetten hem de pazar yerlerinde satmaktadır. 2025 yılında internet üzerinden yapmış olduğu satış tutarı 300.000 TL, diğer satış tutarı ise 200.000 TL'dir. 2025 yılı asgari ücretin yıllık brüt tutarının 312.066 TL olduğu varsayıldığında, Bayan (A)'nın muafiyet durumu nedir?",
+    "options": [
+      "A) Toplam satış tutarı (500.000 TL) 312.066 TL'yi aştığı için muafiyetini hemen kaybeder.",
+      "B) İnternet üzerinden yapmış olduğu satış tutarı 312.066 TL'yi aşmadığından muafiyetten faydalanmaya devam eder.",
+      "C) İnternet satışları ayrı, diğer satışlar ayrı değerlendirileceğinden her birinin %50'si muaftır.",
+      "D) Diğer satışları 312.066 TL'yi aşmadığı için sadece diğer satışlarından dolayı mükellefiyet açtırır.",
+      "E) Sadece internet satışı limiti olduğu için diğer satış tutarı ne olursa olsun muafiyet geçersiz olur."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir Vergisi Kanununun 9 uncu maddesinin (10) numaralı bendi (sadece internetten satış) kapsamında muafiyet şartlarını sağlayan ancak elde ettiği hasılat limiti olan (2025 yılı için 1.580.000 TL) tutarı aşan mükellef hakkında nasıl bir işlem tesis edilir?",
+    "options": [
+      "A) Aştığı tutar üzerinden %20 stopaj öder ve muafiyetine devam eder.",
+      "B) İçinde bulunulan takvim yılında esnaf muaflığından faydalanmaya devam eder, izleyen takvim yılı başından itibaren gelir vergisi mükellefi olur.",
+      "C) Limiti aştığı ayın sonu itibarıyla derhal gelir vergisi mükellefiyeti tesis edilir.",
+      "D) İzleyen takvim yılında (6) numaralı bende geçiş yaparak muafiyetini sürdürebilir.",
+      "E) Esnaf Vergi Muafiyet Belgesi geriye dönük olarak iptal edilir ve vergi ziyaı cezası kesilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Esnaf muaflığından (ister 6 numaralı, ister 10 numaralı bent kapsamında) faydalananların belge düzeni ve yükümlülükleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Fatura düzenlemek zorundadırlar.",
+      "B) Vergi usul kanunu gereği defter tutmak zorundadırlar.",
+      "C) Her yıl Mart ayında Yıllık Gelir Vergisi Beyannamesi vermek zorundadırlar.",
+      "D) Kendilerine düzenlenen gider pusulalarını ve faaliyetleri ile ilgili olarak satın aldıkları mal ve giderlerine ilişkin belgelerini 5 yıl boyunca saklamak zorundadırlar.",
+      "E) Kendilerinden ürün alan birinci sınıf tüccarlar, bedeli banka aracılığıyla ödeseler bile mutlaka ıslak imzalı gider pusulası düzenlemek zorundadırlar."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "GVK 9. madde (10) numaralı bent (münhasıran internet üzerinden satış) kapsamında Esnaf Vergi Muafiyeti Belgesi alarak faaliyette bulunanların muafiyet şartlarını ihlal ettiklerinin (örneğin evden değil iş yerinden faaliyette bulundukları veya dışarıdan satın alınan malları sattıkları) tespit edilmesi halinde uygulanacak yaptırım aşağıdakilerden hangisidir?",
+    "options": [
+      "A) İhlalin yapıldığı aydan itibaren mükellefiyet başlatılarak sadece cüzi bir idari para cezası kesilir.",
+      "B) İlgili takvim yılının başından itibaren esnaf muaflığından faydalanılamayacak ve alınmayan vergiler, vergi ziyaı cezası kesilmek suretiyle gecikme faiziyle birlikte tahsil edilecektir.",
+      "C) Bir sonraki yılın başından itibaren gelir vergisi mükellefi yapılırlar, geçmiş yıla dönük ceza uygulanmaz.",
+      "D) Esnaf Vergi Muafiyeti Belgesi 3 yıl süreyle askıya alınır.",
+      "E) Hasılatı limiti aşmadığı sürece bu ihlaller muaflığı bozmaz."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gelir Vergisi Kanununun mükerrer 20/B maddesinde yer alan Sosyal İçerik Üreticiliği ve Uygulama Geliştiriciliğinde Kazanç İstisnasından yararlanabilmek için aranan şartlardan biri olan 'Türkiye'de kurulu bankalarda bir hesap açılması' kuralına ilişkin aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) İstisna kapsamındaki faaliyetlere ilişkin tüm hasılat bu hesap aracılığıyla tahsil edilmelidir.",
+      "B) Mükelleflerin bankalardaki mevcut hesapları, istisna belgesinin ibraz edilmesi durumunda bu amaçla kullanılamaz, mutlaka yeni bir ticari hesap açılmalıdır.",
+      "C) Hesap açılış tarihinden veya mevcut hesabın kullanılmaya başlandığı (istisna belgesinin ibraz edildiği) tarihten itibaren bir ay içerisinde banka hesap bilgilerinin bağlı bulunulan vergi dairesine bildirilmesi gerekir.",
+      "D) Açılacak hesaba yatırılan tüm ödemelerden tevkifat yapılacağından, hesap münhasıran istisna kapsamındaki hasılatın tahsili için kullanılmalıdır.",
+      "E) Banka hesabı açıldıktan sonra, bu hesap bilgileri Dijital Vergi Dairesi üzerinden elektronik ortamda vergi dairesine iletilebilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sosyal içerik üreticiliği ve mobil cihazlar için uygulama geliştiriciliği faaliyeti kapsamında istisnadan faydalanan bir mükellefin, 2025 yılı içerisindeki kazançlarının vergilendirilme usulü ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) İstisnadan yararlanılan bu faaliyetler için hiçbir surette %15 oranında tevkifat yapılmaz.",
+      "B) Elde edilen gelir 2025 yılı tarifenin dördüncü dilimi olan 4.300.000 TL'yi aşsa bile sadece tevkifat nihai vergi olur, beyanname verilmez.",
+      "C) İstisna tutarının (4.300.000 TL) aşılması halinde yıllık gelir vergisi beyannamesi verilir ve bankalarca daha önce kesilen vergiler hesaplanan vergiden mahsup edilir.",
+      "D) İstisnadan faydalanan mükellefler yıl boyunca defter tasdik ettirmek ve elektronik belge düzenlemek zorundadır.",
+      "E) Kurumlar vergisi mükellefleri de sosyal içerik ürettikleri takdirde bu istisnadan aynen faydalanabilirler."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İstisna kapsamındaki faaliyetleri (Örneğin ürün tanıtımı) karşılığında ayni (cep telefonu, bilgisayar vb.) tahsilat yapan bir sosyal içerik üreticisi, istisna şartlarını ihlal etmemek için aşağıdakilerden hangisini yapmalıdır?",
+    "options": [
+      "A) Ayni tahsilatlar istisna kapsamında değerlendirilmeyeceğinden derhal fatura kesmelidir.",
+      "B) Tahsile konu malın tahsil tarihindeki rayiç bedelini, gelirin elde edildiği ay içerisinde (veya son yedi gün içindeyse en geç takip eden ayın ikinci iş günü bitimine kadar) nakit olarak istisna kapsamında açılan banka hesabına yatırmalıdır.",
+      "C) Ayni mal bedeli üzerinden %15 stopajı bizzat kendi vergi dairesine gidip nakden ödemelidir.",
+      "D) Sadece nakit tahsilatlar geçerli olduğundan ayni tahsilat yapması kanunen tamamen yasaktır ve istisnayı o an bozar.",
+      "E) Ayni bedeli bankaya yatırmasına gerek yoktur, yıl sonunda beyanname ile bildirmesi yeterlidir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sosyal içerik üreticileri, internet ortamı üzerinden sunulan hizmetler ve uygulama geliştiriciliğinde sağlanan kazanç istisnasının **Katma Değer Vergisi (KDV)** karşısındaki durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Gelir vergisinden istisna edilse bile KDV Kanununa göre bu hizmetlerden %20 KDV tahsil edilmelidir.",
+      "B) Sadece mobil uygulama geliştiricilerin kazançları KDV'den istisnadır, sosyal içerik üreticileri KDV öder.",
+      "C) GVK mükerrer 20/B maddesi kapsamında vergilendirilen kazançlara konu teslim ve hizmetler üzerinden KDV hesaplanmayacak olup bu işlemler KDV'den istisnadır.",
+      "D) KDV istisnası sadece yurt dışından elde edilen (dövizli) reklam gelirleri için geçerlidir.",
+      "E) Yıllık kazanç 4.300.000 TL sınırını aşarsa, hem gelir vergisi beyannamesi verilir hem de geriye dönük KDV hesaplanır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bankalar tarafından Sosyal İçerik Üreticiliği (GVK Mük. 20/B) istisnası kapsamında açılan ticari hesaplara aktarılan tutarlar (döviz veya TL) üzerinden yapılacak vergi kesintisi (tevkifat) işlemleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Bankalar, hesaba aktarılan hasılat tutarı üzerinden %15 oranında tevkifat yaparlar.",
+      "B) Döviz cinsinden bedellerin yatırılması durumunda, aktarım tarihindeki kur (işlem tarihindeki döviz alış kuru) üzerinden TL karşılığı bulunarak tevkifat matrahı tespit edilir.",
+      "C) Bankaların, bir takvim yılında elde edilen hasılatın Kanunda öngörülen tutarı (4.300.000 TL) aşıp aşmadığını kontrol etme sorumluluğu bulunmamaktadır.",
+      "D) İstisna sınırı (4.300.000 TL) aşıldığında bankalar tevkifat oranını %20'ye çıkartarak kesinti yapmaya devam ederler.",
+      "E) Bankalarca tevkif edilen vergiler muhtasar ve prim hizmet beyannamesi ile beyan edilip ödenir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "İstisna kapsamındaki faaliyetlerin yanı sıra başka faaliyetleri de (örneğin ticari, zirai veya serbest meslek kazancı) bulunan mükelleflerin yükümlülükleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Başkaca faaliyetleri nedeniyle defter tasdik ettirme, defter tutma ve belge düzenleme zorunlulukları devam eder.",
+      "B) İstisna kapsamındaki faaliyete ilişkin hasılat, maliyet ve gider unsurları diğer faaliyetlerle ilişkilendirilemez ve ayrı izlenir.",
+      "C) İstisna faaliyeti ile kapsama girmeyen işlerin birlikte yapılması durumunda oluşan müşterek genel giderler, cari yılda oluşan hasılatın toplam hasılat içindeki oranı dikkate alınarak dağıtılır.",
+      "D) Müşterek genel giderlerden istisna kapsamındaki faaliyete düşen pay, diğer faaliyetlere ilişkin vergiye tabi kazancın tespitinde gider olarak dikkate alınmaz.",
+      "E) Başkaca faaliyetlerinden zarar eden mükellefler, bu zararı sosyal içerik üreticiliği hasılatından (bankadaki istisna hesabından) doğrudan mahsup ederek stopaj iadesi alabilirler."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Takvim yılı içerisinde istisna şartlarını sonradan kaybeden (örneğin hasılatı banka hesabı dışından nakden tahsil ettiği tespit edilen) mükelleflerin durumuyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Sadece şartın ihlal edildiği aydan itibaren istisnadan çıkarlar, önceki aylar istisna olarak kalır.",
+      "B) Şartın ihlal edildiği yıl için söz konusu istisnadan yararlanamazlar ve bu kapsamda elde edilen kazançların tamamını yıllık gelir vergisi beyannamesi ile beyan ederler.",
+      "C) Şartı ihlal ettikleri için bir daha hiçbir zaman (sonraki yıllarda da) bu istisnadan faydalanamazlar.",
+      "D) İhlalin tespit edildiği yılda bankaların daha önce kestiği stopajlar doğrudan vergi dairesi tarafından mükellefe iade edilir.",
+      "E) İhlal tespit edildiğinde KDV mükellefiyeti de geriye dönük faiziyle açılır ve tüm işlemlerden %20 KDV tahsil edilir."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sponsorluk harcamaları ile reklam harcamalarının ayrımı ve vergilendirilmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "A) Her ikisi de ticari kazancın elde edilmesi ve idame ettirilmesi ile doğrudan ilgili kabul edildiğinden hasılattan doğrudan gider olarak indirilir.",
+      "B) Saha kenarındaki LED panolara ve sporcuların formalarının göğüs kısmına amblem konulması karşılığı yapılan ödemeler sponsorluk harcamasıdır.",
+      "C) Sponsorluk harcamaları doğrudan ticari fayda sağlamaktan ziyade sosyal amacı öne çıkan harcamalardır ve kurum kazancının bulunması halinde beyanname üzerinden indirim konusu yapılır.",
+      "D) Reklam harcamaları kurum kazancının yeterli olup olmadığına bakılmaksızın %50 oranında indirilebilir.",
+      "E) Sponsorluk sözleşmelerinde sponsor olan kurumun adının anılması yasaktır, aksi halde reklam harcaması sayılır."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kurumlar Vergisi mükellefi bir şirket, Türkiye Basketbol Süper Liginde mücadele eden bir basketbol kulübüne 2.000.000 TL ve Türkiye Futbol Federasyonu 2. Liginde mücadele eden bir futbol kulübüne 2.000.000 TL nakdi sponsorluk harcaması yapmıştır. Bu harcamaların kurumlar vergisi beyannamesinde indirim tutarları sırasıyla ne kadar olacaktır?",
+    "options": [
+      "A) Basketbol: 1.000.000 TL / Futbol: 1.000.000 TL",
+      "B) Basketbol: 2.000.000 TL / Futbol: 2.000.000 TL",
+      "C) Basketbol: 1.000.000 TL / Futbol: 2.000.000 TL",
+      "D) Basketbol: 2.000.000 TL / Futbol: 1.000.000 TL",
+      "E) İkisi de Süper/2. Lig seviyesinde olduğu için profesyonel sayılır, 1.000.000 TL / 1.000.000 TL indirilir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sponsorluk uygulamasına ilişkin sözleşme, vergi borcu ve sözleşmenin tabi olduğu Damga Vergisi hakkında aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      "A) Sponsor olacak kurumların bağlı bulundukları vergi dairesinden vergi borcu olmadığına dair bir yazı almaları zorunludur.",
+      "B) Sponsorluk sözleşmelerinin bir sureti imzalandıktan sonra on gün içerisinde Gençlik ve Spor Genel Müdürlüğüne gönderilmelidir.",
+      "C) Belli veya hesaplanabilir bir bedel içeren sponsorluk sözleşmeleri maktu (sabit) damga vergisine tabidir.",
+      "D) Sponsorların tahakkuk eden vergi borçlarını ödememeleri halinde vergi dairesi durumu Gençlik ve Spor İl Müdürlüğüne bildirir.",
+      "E) Sponsorluk süresinin bitiminden sonraki on gün içerisinde yükümlülüklerin yerine getirilip getirilmediğine ilişkin bilgiler Genel Müdürlüğe gönderilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sponsorluk harcamalarının kurumlar vergisi beyannamesinde indirim konusu yapılması (zarar durumu, KKEG ve devir kuralı) ile ilgili aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "options": [
+      "A) Harcamalar önce KKEG (Kanunen Kabul Edilmeyen Gider) olarak dikkate alınır, kazancın yeterli olması halinde beyanname üzerinden indirilir ve indirilemeyen kısım sonraki yıllara devredilemez.",
+      "B) Harcamalar doğrudan hasılattan gider olarak düşülür, ticari bilanço zararı çıkarsa sonraki yıla devredilir.",
+      "C) Kurum kazancı yeterli olmasa bile sponsorluk harcamaları indirim hakkı kaybolmaz, sonraki 5 yıl boyunca devredilebilir.",
+      "D) Sponsorluk harcamaları, yurt içi asgari kurumlar vergisi matrahından da düşülebilmektedir.",
+      "E) Amatör spor dallarına yapılan harcamaların tamamı devredilebilirken, profesyonel dallara yapılan harcamalar devredilemez."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sponsorluk harcamalarının belgelendirilmesine (tevsikine) ilişkin olarak aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "options": [
+      "A) Banka aracılığıyla yapılan nakdi ödemelerde dekontta veya makbuzda paranın 'sponsorluk amacıyla' yatırıldığına dair ifade bulunması zorunludur.",
+      "B) Nakdi desteğin hizmeti alanlara elden teslim edilmesi halinde, hizmeti alan kişi veya kurumlarca düzenlenecek alındı makbuzu tevsik edici belge sayılır.",
+      "C) Ayni değerlerin dışarıdan satın alınarak bağışlanması durumunda, hizmeti alanlarca teslim alınacak bu değerler için fatura düzenlenmesi zorunludur.",
+      "D) İşletmenin varlıklarından ayni destek verilmesi halinde, hizmeti alan adına fatura düzenlenmeli ve faturanın arkası hizmeti alana imzalatılmalıdır.",
+      "E) Makbuz karşılığı olmaksızın yapılan sponsorluk harcamalarının mükelleflerce indirim olarak dikkate alınabilmesi mümkün değildir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Katma Değer Vergisi (KDV) Kanununun 17/1 inci maddesinde sayılan kamu kurum ve kuruluşlarına (Örn: Belediyeler, Üniversiteler, Genel Bütçeli İdareler) sponsorluk sözleşmesi kapsamında bedelsiz olarak spor malzemesi teslim eden bir mükellefin, bu işleme ait KDV uygulaması ile ilgili durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "A) Bu teslimler KDV'ye tabidir ancak %1 indirimli oran uygulanır.",
+      "B) Bu teslimler KDV'den istisnadır ve mal alımında yüklenilen KDV KDV beyannamesinde serbestçe indirim konusu yapılabilir.",
+      "C) Nakdi bağışlar KDV'ye tabi iken, ayni bağışlarda KDV istisnası uygulanır.",
+      "D) Bu teslimler KDV'den istisnadır, teslim nedeniyle yüklenilen KDV indirim konusu yapılamaz ancak kurum kazancının tespitinde gider veya maliyet olarak dikkate alınabilir.",
+      "E) Teslim edilen malzemeler için emsal bedel üzerinden KDV hesaplanıp alıcı tarafından sorumlu sıfatıyla ödenmesi gerekir."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "2025 takvim yılında bir Kurumlar Vergisi Mükellefi, amatör bir spor kulübüne spor organizasyonları için 4.000.000 TL nakit ödeme ve 1.000.000 TL değerinde spor malzemesi vermiştir (Sponsorluk harcaması). Ayrıca sporcuların formalarında şirket ambleminin yer alması karşılığında doğrudan 3.000.000 TL ödeme yapılmıştır (Reklam harcaması). Şirketin 2025 yılı Gayrisafi Hasılatı 10.000.000 TL'dir. Bu verilere göre şirketin beyan edeceği 'Dönem Safi Kurum Kazancı' ne kadardır? (Başkaca bir KKEG veya istisna olmadığı varsayılacaktır)",
+    "options": [
+      "A) 12.000.000 TL",
+      "B) 7.000.000 TL",
+      "C) 5.000.000 TL",
+      "D) 2.000.000 TL",
+      "E) 10.000.000 TL"
+    ],
+    "answer": 1
   }
 ],
   "Çalışma Soruları (Rehber-Kurumlar Vergisi)": [
-  
   {
     "q": "Payları Borsa İstanbul Pay Piyasasında ilk defa işlem görmek üzere en az %20 oranında halka arz edilen kurumlar, kurumlar vergisi oranını 5 hesap dönemi boyunca **2 puan indirimli** uygularlar. Bu indirim şartlarının ihlaline ilişkin aşağıdakilerden hangisi **doğrudur**?",
     "options": [
