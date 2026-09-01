@@ -1,0 +1,29 @@
+name: Canlı Sınav Yöneticisi
+
+on:
+  schedule:
+    # TSİ 22:30 (Günün Dersi) -> UTC saati ile 19:30
+    - cron: '30 19 * * *'
+    # TSİ 23:15 (Vergi Mevzuatı) -> UTC saati ile 20:15
+    - cron: '15 20 * * *'
+  workflow_dispatch: # Manuel tetikleme butonu
+
+jobs:
+  sinavi-baslat:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Dosyaları Klonla
+      uses: actions/checkout@v3
+
+    - name: Node.js Kur
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Gerekli Paketleri Yükle (Firebase Admin)
+      run: npm install firebase-admin
+
+    - name: Sınavı Ateşle
+      env:
+        FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      run: node otomatik_sinav_botu.js
