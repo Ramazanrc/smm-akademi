@@ -23,34 +23,30 @@ async function eskiSonuclariTemizle() {
 
 async function sinaviBaslat() {
     try {
-        // Zaman Algılayıcı: GitHub sunucusu UTC'dir. Türkiye Saati (TSİ) için 3 saat ekliyoruz.
         const now = new Date();
         const tsiZaman = new Date(now.getTime() + (3 * 60 * 60 * 1000));
-        const gun = tsiZaman.getUTCDay(); // 0: Pazar, 1: Pazartesi ... 6: Cumartesi
+        const gun = tsiZaman.getUTCDay();
         const saat = tsiZaman.getUTCHours();
 
         let secilenDers = "";
 
-        // Eğer saat 23 ise (23:15 seansı), doğrudan vergi mevzuatı seç
         if (saat === 23) {
             secilenDers = "vergi_mevzuati.json";
             console.log("⏰ 23:15 Gece Seansı Tespit Edildi: Vergi Mevzuatı");
         } else {
-            // Değilse (22:30 seansı veya manuel tıklama), günün dersini bul
             const program = {
-                1: "finansal_muhasebe.json",   // Pazartesi
-                2: "muhasebe_denetimi.json",   // Salı
-                3: "temel_hukuk.json",         // Çarşamba
-                4: "finansal_analiz.json",     // Perşembe
-                5: "meslek_hukuku.json",       // Cuma
-                6: "vergi_mevzuati.json",      // Cumartesi
-                0: "sermaye_piyasasi.json"     // Pazar
+                1: "finansal_muhasebe.json",
+                2: "muhasebe_denetimi.json",
+                3: "temel_hukuk.json",
+                4: "finansal_analiz.json",
+                5: "meslek_hukuku.json",
+                6: "vergi_mevzuati.json",
+                0: "sermaye_piyasasi.json"
             };
             secilenDers = program[gun];
             console.log(`⏰ 22:30 Seansı (veya Manuel Test) Tespit Edildi. Günün Dersi: ${secilenDers}`);
         }
 
-        // Seçilen dosya var mı kontrol et
         if (!fs.existsSync(secilenDers)) {
             console.error(`❌ HATA: ${secilenDers} dosyası bulunamadı!`);
             process.exit(1);
@@ -59,7 +55,6 @@ async function sinaviBaslat() {
         const hamData = JSON.parse(fs.readFileSync(secilenDers, 'utf8'));
         let anaSoruListesi = [];
         
-        // Veriyi standart dizi formatına çevir
         if (Array.isArray(hamData)) {
             anaSoruListesi = hamData;
         } else {
@@ -70,18 +65,30 @@ async function sinaviBaslat() {
             }
         }
 
-        console.log(`🎯 ${secilenDers} dosyasından ${anaSoruListesi.length} soru çekildi. Oturum başlıyor...`);
+        console.log(`🎯 ${secilenDers} dosyasından toplam ${anaSoruListesi.length} soru bulundu.`);
         
         if (anaSoruListesi.length === 0) {
             console.log("❌ Havuzda hiç soru bulunamadı. Sistem durduruluyor.");
             process.exit(1);
         }
 
+        // --- YENİ EKLENEN KISIM: KARIŞTIR VE 20 SORU SEÇ ---
+        // Fisher-Yates algoritması ile tüm listeyi rastgele karıştırıyoruz
+        for (let i = anaSoruListesi.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [anaSoruListesi[i], anaSoruListesi[j]] = [anaSoruListesi[j], anaSoruListesi[i]];
+        }
+        // Karışmış listeden sadece ilk 20 soruyu kesip alıyoruz (Eğer havuzda 20'den az soru varsa olanı alır)
+        const hedefSoruSayisi = 20;
+        anaSoruListesi = anaSoruListesi.slice(0, hedefSoruSayisi);
+        
+        console.log(`🔀 Sorular karıştırıldı. Rastgele seçilen ${anaSoruListesi.length} soru ile oturum başlıyor...`);
+        // --------------------------------------------------
+
         await eskiSonuclariTemizle();
         const soruRef = db.collection('aktif_sinav').doc('guncel_soru');
         const limit = anaSoruListesi.length;
 
-        // Soruları sırayla ekrana bas
         for (let i = 0; i < limit; i++) {
             let jsonSoru = anaSoruListesi[i];
             
