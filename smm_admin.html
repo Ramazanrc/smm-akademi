@@ -148,8 +148,8 @@
         }
 
         soruyuAtesle();
-        // ZAMANLAYICI GÜNCELLENDİ: 63000 -> 93000 (90 sn + 3 sn geçiş payı)
-        kampTimer = setInterval(kampDongusu, 93000); 
+        // ZAMANLAYICI GÜNCELLENDİ: 63000 -> 63000 (60 sn + 3 sn geçiş payı)
+        kampTimer = setInterval(kampDongusu, 63000); 
     });
 
     btnDuraklat.addEventListener('click', () => {
@@ -167,8 +167,10 @@
         durumYazisi.style.color = "#4cd137";
         
         clearInterval(kampTimer); 
-        // ZAMANLAYICI GÜNCELLENDİ: 63000 -> 93000 (90 sn + 3 sn geçiş payı)
-        kampTimer = setInterval(kampDongusu, 93000); 
+        // YENİ İLAVE: Devam et dediğimiz an beklemeden sıradaki soruyu ateşle
+        kampDongusu();
+        // ZAMANLAYICI GÜNCELLENDİ: 63000 -> 63000 (60 sn + 3 sn geçiş payı)
+        kampTimer = setInterval(kampDongusu, 63000); 
     });
 
     btnBitir.addEventListener('click', () => {

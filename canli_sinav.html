@@ -68,7 +68,7 @@
         
         <div id="sinav-alani" style="display: none;">
             <div id="soru-sayaci" style="text-align: center; color: #9ca3af; font-size: 14px; font-weight: bold; margin-bottom: 10px; letter-spacing: 1px;"></div>
-            <div class="timer-kutu"><div id="zaman-gosterge">90</div></div>
+            <div class="timer-kutu"><div id="zaman-gosterge">60</div></div>
             <div class="soru-metni" id="soru-metni"></div>
             <div id="secenekler-kapsayici"></div>
         </div>
@@ -123,7 +123,7 @@
 
     let secilenSik = "";
     let sayacInterval;
-    let kalanSure = 90;
+    let kalanSure = 60;
     let sureBittiMi = false;
     let guncelData = null;
     let raporGonderildiMi = false;
@@ -294,9 +294,9 @@
                         let hafizaSure = parseInt(localStorage.getItem("smm_kalan_sure"));
                         kalanSure = (isNaN(hafizaSure) || hafizaSure <= 0) ? 0 : hafizaSure;
                     } else {
-                        kalanSure = 90;
+                        kalanSure = 60;
                         localStorage.setItem("smm_aktif_soru_no", firebaseSoruNo);
-                        localStorage.setItem("smm_kalan_sure", 90);
+                        localStorage.setItem("smm_kalan_sure", 60);
                     }
 
                     if(kalanSure <= 0) {
