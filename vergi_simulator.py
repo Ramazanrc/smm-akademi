@@ -79,6 +79,34 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+# --- KİLİT SİSTEMİ BAŞLANGICI ---
+def check_password():
+    if "authenticated" not in st.session_state:
+        st.session_state.authenticated = False
+
+    if not st.session_state.authenticated:
+        st.markdown("<h1 style='text-align: center; color: #d4af37; margin-top: 10vh;'>🔒 GÜVENLİ GİRİŞ</h1>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: center; color: #cbd5e1; margin-bottom: 30px;'>SMM Mevzuat Antrenörü'ne erişmek için lütfen yetki şifrenizi girin.</p>", unsafe_allow_html=True)
+        
+        col1, col2, col3 = st.columns([1, 2, 1])
+        with col2:
+            kullanici_sifre = st.text_input("Erişim Şifresi:", type="password")
+            if st.button("Sistemi Aç 🚀", use_container_width=True):
+                try:
+                    if kullanici_sifre == st.secrets["admin"]["sifre"]:
+                        st.session_state.authenticated = True
+                        st.rerun()
+                    else:
+                        st.error("❌ Hatalı şifre! Lütfen tekrar deneyin.")
+                except KeyError:
+                    st.error("⚠️ Sistem Hatası: .streamlit/secrets.toml dosyasında şifre ayarlanmamış!")
+        
+        # Doğru şifre girilene kadar kodun aşağısını okumayı DURDUR
+        st.stop() 
+
+check_password()
+# --- KİLİT SİSTEMİ BİTİŞİ ---
+
 # --- AKILLI JSON TARAYICI (DİNAMİK DOSYA ADI ALIR) ---
 @st.cache_data
 def sorulari_yukle(dosya_adi):
