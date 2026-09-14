@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMM Akademi - Deneme Sınavı</title>
+    <style>
+        body { background-color: #1a1e24; color: #e2e8f0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; margin: 0; padding: 20px; box-sizing: border-box; }
+        .container { background-color: #242a33; border-radius: 12px; padding: 30px; width: 100%; max-width: 650px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); border: 1px solid #374151; margin-top: 2vh; }
+        .header { text-align: center; border-bottom: 1px solid #374151; padding-bottom: 15px; margin-bottom: 25px; display: flex; justify-content: space-between; align-items: center; }
+        .header h2 { color: #f59e0b; font-size: 18px; margin: 0; text-transform: uppercase; letter-spacing: 1px; }
+        
+        .login-input { width: 100%; padding: 15px; margin-bottom: 20px; border-radius: 8px; background: #1a1e24; border: 2px solid #374151; color: white; font-size: 16px; text-align: center; font-weight: bold; }
+        .login-input:focus { border-color: #10b981; outline: none; }
+        .btn-ana { background: #10b981; color: white; border: none; padding: 15px; width: 100%; border-radius: 8px; font-size: 16px; font-weight: bold; cursor: pointer; transition: 0.2s; }
+        .btn-ana:hover { background: #059669; }
+        .btn-bitir { background: #ef4444; color: white; border: none; padding: 10px 15px; border-radius: 8px; font-size: 14px; font-weight: bold; cursor: pointer; }
+        .btn-bitir:hover { background: #dc2626; }
+
+        .sayac-kutu { font-size: 24px; font-weight: bold; color: #10b981; text-shadow: 0 0 10px rgba(16, 185, 129, 0.4); }
+        .sayac-kutu.tehlike { color: #ef4444; text-shadow: 0 0 10px rgba(239, 68, 68, 0.4); }
+        
+        .soru-metni { font-size: 17px; font-weight: 600; margin-bottom: 25px; line-height: 1.6; color: #f8fafc; white-space: pre-wrap; }
+        
+        .secenek-btn { background-color: #2a313c; border: 2px solid #4b5563; color: #e2e8f0; border-radius: 8px; padding: 15px; margin-bottom: 12px; width: 100%; text-align: left; font-size: 15px; cursor: pointer; transition: all 0.2s ease; display: flex; align-items: center; }
+        .secenek-btn:hover { border-color: #6b7280; background-color: #374151; }
+        .secenek-btn.secildi { border-color: #3b82f6; background-color: rgba(59, 130, 246, 0.15); box-shadow: 0 0 10px rgba(59, 130, 246, 0.3); }
+        .harf { color: #f59e0b; font-weight: bold; margin-right: 10px; font-size: 16px; }
+        
+        .nav-butonlar { display: flex; justify-content: space-between; margin-top: 25px; gap: 15px; }
+        .nav-btn { flex: 1; padding: 15px; border: none; border-radius: 8px; font-size: 15px; font-weight: bold; cursor: pointer; background: #374151; color: white; transition: 0.2s; }
+        .nav-btn:hover:not(:disabled) { background: #4b5563; }
+        .nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+        .bekleniyor { text-align: center; color: #9ca3af; font-style: italic; margin-top: 30px; font-size: 18px; }
+        
+        /* RAPOR EKRANI SKOR CSS İLAVELERİ */
+        .rapor-satir { display: flex; justify-content: space-between; padding: 15px; background: #1a1e24; border-radius: 8px; margin-bottom: 12px; font-size: 16px; font-weight: bold; }
+        .puan-kutu { background: #1a1e24; border: 1px solid #374151; border-radius: 8px; padding: 25px 20px; text-align: center; margin-bottom: 20px; position: relative; overflow: hidden; }
+        .puan-baslik { color: #9ca3af; font-size: 13px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; font-weight: bold; }
+        .puan-deger { font-size: 48px; font-weight: bold; color: #f59e0b; margin-bottom: 10px; line-height: 1; }
+        .net-bilgi { font-size: 13px; color: #ef4444; font-weight: bold; }
+        .istatistik-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 20px; }
+        .istatistik-item { background: #1a1e24; border: 1px solid #374151; border-radius: 8px; padding: 15px; text-align: center; }
+        .istatistik-item span { display: block; font-size: 26px; font-weight: bold; color: #3b82f6; margin-top: 5px; }
+        
+        #incelemeModal { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:2000; justify-content:center; align-items:flex-start; padding: 20px; box-sizing: border-box; overflow-y:auto; }
+        .inceleme-kutu { background:#242a33; border-radius:12px; padding:25px; width:100%; max-width:650px; border: 1px solid #374151; margin-top: 20px; margin-bottom: 40px; }
+        .inceleme-soru-item { background: #1a1e24; padding: 15px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #374151; }
+        .inceleme-sik { padding: 8px 12px; margin-bottom: 8px; border-radius: 6px; border: 1px solid #4b5563; font-size: 14px; }
+        .inceleme-sik.dogru-sik { border-color: #10b981; background: rgba(16, 185, 129, 0.15); color: #10b981; font-weight: bold; }
+        .inceleme-sik.yanlis-sik { border-color: #ef4444; background: rgba(239, 68, 68, 0.15); color: #ef4444; }
+
+        table { width: 100%; border-collapse: collapse; margin: 15px 0; font-size: 15px; background-color: #1a1e24; }
+        th, td { border: 1px solid #4b5563; padding: 10px; text-align: left; }
+        th { background-color: #374151; color: #f59e0b; }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+    <!-- GİRİŞ EKRANI -->
+    <div class="container" id="login-alani" style="display: none; text-align: center;">
+        <h2 style="color: #f59e0b; margin-bottom: 20px;">🎓 SMM DENEME SINAVI</h2>
+        <p style="color: #9ca3af; margin-bottom: 25px;">Karneni oluşturabilmemiz için adını soyadını gir.</p>
+        <input type="text" id="kullaniciInput" class="login-input" placeholder="Örn: İsim Soyisim">
+        <button id="kampaKatilBtn" class="btn-ana">🚀 Sınava Katıl</button>
+    </div>
+
+    <!-- BEKLEME EKRANI -->
+    <div class="container" id="bekleme-alani" style="display: none;">
+        <div style="text-align: center;">
+            <h2 style="color: #3b82f6;">⏳ HAZIRLIK...</h2>
+            <div class="bekleniyor">Sınav paketinin yöneticiden gönderilmesi bekleniyor...</div>
+        </div>
+    </div>
+
+    <!-- SINAV EKRANI -->
+    <div class="container" id="sinav-alani" style="display: none;">
+        <div class="header">
+            <div id="soru-sayaci" style="color: #9ca3af; font-weight: bold;">Soru: 1/20</div>
+            <div id="zaman-gosterge" class="sayac-kutu">30:00</div>
+            <button id="sinaviBitirBtn" class="btn-bitir">Sınavı Bitir</button>
+        </div>
+        
+        <div class="soru-metni" id="soru-metni">Soru yükleniyor...</div>
+        <div id="secenekler-kapsayici"></div>
+        
+        <div class="nav-butonlar">
+            <button id="btn-onceki" class="nav-btn" disabled>⬅ Önceki Soru</button>
+            <button id="btn-sonraki" class="nav-btn">Sonraki Soru ➡</button>
+        </div>
+    </div>
+
+    <!-- RAPOR EKRANI (GÜNCELLENDİ) -->
+    <div class="container" id="rapor-alani" style="display: none;">
+        <h2 style="color: #f59e0b; margin-bottom: 10px; font-size: 24px; text-align: center;">🏆 DENEME SONUCUN</h2>
+        <h3 id="rapor-isim" style="color: #fff; margin-bottom: 25px; border-bottom: 1px solid #374151; padding-bottom: 15px; text-align: center;"></h3>
+        
+        <div class="puan-kutu">
+            <div class="puan-baslik">Tahmini Sınav Puanı</div>
+            <div class="puan-deger" id="rapor-puan">0.0</div>
+            <div class="net-bilgi">⚠️ 4 Yanlış 1 Doğruyu Götürür</div>
+        </div>
+
+        <div class="istatistik-grid">
+            <div class="istatistik-item">
+                <div class="puan-baslik">Gerçek Net</div>
+                <span id="rapor-net" style="color: #10b981;">0.00</span>
+            </div>
+            <div class="istatistik-item">
+                <div class="puan-baslik">Başarı</div>
+                <span id="rapor-yuzde">%0</span>
+            </div>
+        </div>
+
+        <div class="rapor-satir" style="border-left: 5px solid #10b981;"><span>✅ Doğru:</span> <span id="rapor-dogru" style="color: #10b981;">0</span></div>
+        <div class="rapor-satir" style="border-left: 5px solid #ef4444;"><span>❌ Yanlış:</span> <span id="rapor-yanlis" style="color: #ef4444;">0</span></div>
+        <div class="rapor-satir" style="border-left: 5px solid #9ca3af;"><span>⚪ Boş:</span> <span id="rapor-bos" style="color: #9ca3af;">0</span></div>
+
+        <button id="cevaplariInceleBtn" class="btn-ana" style="background: #3b82f6; margin-top: 20px; margin-bottom: 10px;">🔍 Çözdüğüm Soruları İncele</button>
+        <button onclick="location.reload()" class="btn-ana" style="background: #4b5563;">Ana Sayfaya Dön</button>
+    </div>
+
+    <!-- İNCELEME MODALI -->
+    <div id="incelemeModal">
+        <div class="inceleme-kutu">
+            <h2 style="color: #3b82f6; text-align: center; margin-top: 0; border-bottom: 1px solid #374151; padding-bottom: 15px;">🔍 SORU İNCELEME</h2>
+            <div id="inceleme-icerik-alani"></div>
+            <button id="incelemeKapatBtn" class="btn-ana" style="margin-top: 25px; background: #ef4444;">Kapat</button>
+        </div>
+    </div>
+
+<script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
+    import { getFirestore, doc, onSnapshot, setDoc } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-firestore.js";
+
+    const firebaseConfig = {
+        apiKey: "AIzaSyBlnd8CoQKRlYCF0HCv3AjSq5y9pZD4fMM",
+        authDomain: "smmakademi-d4dc5.firebaseapp.com",
+        projectId: "smmakademi-d4dc5",
+        storageBucket: "smmakademi-d4dc5.firebasestorage.app",
+        messagingSenderId: "301579033232",
+        appId: "1:301579033232:web:fee03384d4b900a2445615"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+    const sinavRef = doc(db, "aktif_sinav", "deneme_paketi");
+
+    let kullaniciAdi = localStorage.getItem("deneme_isim");
+    let sinavVerisi = null;
+    let aktifSoruIndex = 0;
+    let kullaniciCevaplari = {}; 
+    let kalanSaniye = 0;
+    let sayacInterval;
+    let sinavBittiMi = false;
+
+    if(!kullaniciAdi) {
+        document.getElementById("login-alani").style.display = "block";
+    } else {
+        document.getElementById("bekleme-alani").style.display = "block";
+        baslaDinlemeye();
+    }
+
+    document.getElementById("kampaKatilBtn").addEventListener("click", () => {
+        let girilen = document.getElementById("kullaniciInput").value.trim();
+        if(girilen.length > 2) {
+            localStorage.setItem("deneme_isim", girilen);
+            kullaniciAdi = girilen;
+            document.getElementById("login-alani").style.display = "none";
+            document.getElementById("bekleme-alani").style.display = "block";
+            baslaDinlemeye();
+        } else {
+            alert("Lütfen geçerli bir isim gir!");
+        }
+    });
+
+    function baslaDinlemeye() {
+        onSnapshot(sinavRef, (docSnap) => {
+            if (docSnap.exists()) {
+                const data = docSnap.data();
+                
+                if (data.durum === "aktif" && !sinavBittiMi) {
+                    if(!sinavVerisi || sinavVerisi.baslangic_zamani !== data.baslangic_zamani) {
+                        sinavVerisi = data;
+                        kullaniciCevaplari = {}; 
+                        aktifSoruIndex = 0;
+                        
+                        let gecenSureSaniye = Math.floor((Date.now() - data.baslangic_zamani) / 1000);
+                        let toplamSaniye = data.toplam_sure_dk * 60;
+                        kalanSaniye = toplamSaniye - gecenSureSaniye;
+                        
+                        if(kalanSaniye > 0) {
+                            sinavBaslat();
+                        } else {
+                            alert("Sınav süresi çoktan dolmuş.");
+                        }
+                    }
+                } 
+                else if (data.durum === "bitti" && sinavVerisi && !sinavBittiMi) {
+                    sinaviBitirVeRaporla();
+                }
+            }
+        });
+    }
+
+    function sinavBaslat() {
+        document.getElementById("bekleme-alani").style.display = "none";
+        document.getElementById("sinav-alani").style.display = "block";
+        
+        sayaciBaslat();
+        soruyuEkranaBas();
+    }
+
+    function sayaciBaslat() {
+        clearInterval(sayacInterval);
+        guncelleSayacUI();
+        
+        sayacInterval = setInterval(() => {
+            kalanSaniye--;
+            guncelleSayacUI();
+            
+            if(kalanSaniye <= 0) {
+                clearInterval(sayacInterval);
+                sinaviBitirVeRaporla();
+            }
+        }, 1000);
+    }
+
+    function guncelleSayacUI() {
+        let dk = Math.floor(kalanSaniye / 60);
+        let sn = kalanSaniye % 60;
+        let metin = `${dk < 10 ? '0':''}${dk}:${sn < 10 ? '0':''}${sn}`;
+        
+        const gosterge = document.getElementById("zaman-gosterge");
+        gosterge.innerText = metin;
+        
+        if(kalanSaniye <= 60) gosterge.classList.add("tehlike");
+        else gosterge.classList.remove("tehlike");
+    }
+
+    function soruyuEkranaBas() {
+        const soru = sinavVerisi.sorular[aktifSoruIndex];
+        const toplamSoru = sinavVerisi.sorular.length;
+        
+        document.getElementById("soru-sayaci").innerText = `Soru: ${aktifSoruIndex + 1} / ${toplamSoru}`;
+        document.getElementById("soru-metni").innerHTML = marked.parse(soru.soru_metni);
+        
+        const seceneklerDiv = document.getElementById("secenekler-kapsayici");
+        seceneklerDiv.innerHTML = ""; 
+        
+        const harfler = ["A", "B", "C", "D", "E"];
+        harfler.forEach(harf => {
+            const btn = document.createElement("button");
+            btn.className = `secenek-btn`;
+            if (kullaniciCevaplari[aktifSoruIndex] === harf) {
+                btn.classList.add("secildi");
+            }
+            
+            btn.innerHTML = `<span class="harf">${harf})</span> <span style="white-space:pre-wrap;">${soru.secenekler[harf]}</span>`;
+            
+            btn.onclick = () => {
+                kullaniciCevaplari[aktifSoruIndex] = harf;
+                document.querySelectorAll('.secenek-btn').forEach(b => b.classList.remove('secildi'));
+                btn.classList.add("secildi");
+            };
+            seceneklerDiv.appendChild(btn);
+        });
+
+        document.getElementById("btn-onceki").disabled = (aktifSoruIndex === 0);
+        
+        const btnSonraki = document.getElementById("btn-sonraki");
+        if (aktifSoruIndex === toplamSoru - 1) {
+            btnSonraki.disabled = true;
+        } else {
+            btnSonraki.disabled = false;
+        }
+    }
+
+    document.getElementById("btn-onceki").addEventListener("click", () => {
+        if(aktifSoruIndex > 0) {
+            aktifSoruIndex--;
+            soruyuEkranaBas();
+        }
+    });
+
+    document.getElementById("btn-sonraki").addEventListener("click", () => {
+        if(aktifSoruIndex < sinavVerisi.sorular.length - 1) {
+            aktifSoruIndex++;
+            soruyuEkranaBas();
+        }
+    });
+
+    document.getElementById("sinaviBitirBtn").addEventListener("click", () => {
+        if(confirm("Sınavı bitirmek istediğine emin misin? Kalan sorun varsa boş sayılacaktır.")) {
+            sinaviBitirVeRaporla();
+        }
+    });
+
+    // NET VE PUAN HESAPLAMASI BURAYA EKLENDİ
+    function sinaviBitirVeRaporla() {
+        sinavBittiMi = true;
+        clearInterval(sayacInterval);
+        
+        document.getElementById("sinav-alani").style.display = "none";
+        document.getElementById("rapor-alani").style.display = "block";
+        
+        let dogru = 0, yanlis = 0, bos = 0;
+        let toplamSoru = sinavVerisi.sorular.length;
+        
+        sinavVerisi.sorular.forEach((soru, index) => {
+            let verilenCevap = kullaniciCevaplari[index];
+            if(!verilenCevap) bos++;
+            else if (verilenCevap === soru.dogru_cevap) dogru++;
+            else yanlis++;
+        });
+
+        // 4 Yanlış 1 Doğru Matematik Mantığı
+        let net = dogru - (yanlis / 4);
+        let hesaplananNet = Math.max(0, net); // Puan eksiye düşmesin diye 0'a sabitlenir
+        let puan = (hesaplananNet / toplamSoru) * 100;
+        let yuzde = Math.round((hesaplananNet / toplamSoru) * 100);
+
+        document.getElementById("rapor-isim").innerText = kullaniciAdi;
+        document.getElementById("rapor-dogru").innerText = dogru;
+        document.getElementById("rapor-yanlis").innerText = yanlis;
+        document.getElementById("rapor-bos").innerText = bos;
+        
+        document.getElementById("rapor-net").innerText = net.toFixed(2);
+        document.getElementById("rapor-puan").innerText = puan.toFixed(1);
+        document.getElementById("rapor-yuzde").innerText = "%" + yuzde;
+
+        setDoc(doc(db, "deneme_sonuclari", kullaniciAdi), {
+            dogru: dogru, yanlis: yanlis, bos: bos, net: net, puan: puan, zaman: new Date()
+        }).catch(e => console.log("Sonuç kaydedilemedi", e));
+    }
+
+    document.getElementById("cevaplariInceleBtn").addEventListener("click", () => {
+        gecmisiCiz();
+        document.getElementById("incelemeModal").style.display = "flex";
+    });
+
+    document.getElementById("incelemeKapatBtn").addEventListener("click", () => {
+        document.getElementById("incelemeModal").style.display = "none";
+    });
+
+    function gecmisiCiz() {
+        const alan = document.getElementById("inceleme-icerik-alani");
+        alan.innerHTML = "";
+        
+        if (!sinavVerisi || !sinavVerisi.sorular) return;
+
+        sinavVerisi.sorular.forEach((soru, index) => {
+            let kutu = document.createElement("div");
+            kutu.className = "inceleme-soru-item";
+            
+            let html = `<div style="color:#9ca3af; font-size:13px; margin-bottom:8px; font-weight:bold;">Soru ${index + 1}</div>`;
+            html += `<div style="font-size:16px; font-weight:bold; margin-bottom:15px; color:#f8fafc; white-space: pre-wrap;">${marked.parse(soru.soru_metni)}</div>`;
+            
+            const harfler = ["A", "B", "C", "D", "E"];
+            let secilen = kullaniciCevaplari[index];
+            let dogruCevap = soru.dogru_cevap;
+
+            harfler.forEach(h => {
+                let sinif = "inceleme-sik";
+                if (h === dogruCevap) {
+                    sinif += " dogru-sik";
+                } else if (h === secilen) {
+                    sinif += " yanlis-sik";
+                }
+                
+                html += `<div class="${sinif}" style="white-space: pre-wrap;"><strong>${h})</strong> ${soru.secenekler[h]}</div>`;
+            });
+            
+            if(!secilen) {
+                html += `<div style="color:#f59e0b; font-size:13px; margin-top:10px; font-style:italic;">⚠️ Bu soruyu boş bıraktınız.</div>`;
+            }
+
+            kutu.innerHTML = html;
+            alan.appendChild(kutu);
+        });
+    }
+</script>
+</body>
+</html>

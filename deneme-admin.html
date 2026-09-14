@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>SMM Deneme Sınavı Yönetimi</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #1e272e; color: #fff; padding: 20px; display: flex; justify-content: center; }
+        .container { background: #2f3640; padding: 30px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); width: 100%; max-width: 600px; text-align: center; }
+        h2 { color: #fbc531; margin-top: 0; border-bottom: 1px solid #718093; padding-bottom: 10px; margin-bottom: 20px;}
+        .kontrol-paneli { background: #353b48; padding: 20px; border-radius: 8px; border: 1px solid #718093; margin-bottom: 20px; text-align: left; }
+        .ayar-satiri { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; font-size: 15px; }
+        input[type="file"] { padding: 10px; background: #2f3640; border-radius: 5px; color: white; width: 100%; box-sizing: border-box; margin-bottom: 15px; border: 1px dashed #fbc531;}
+        input[type="number"] { padding: 8px; border-radius: 5px; border: 1px solid #fbc531; background: #2f3640; color: white; width: 80px; text-align: center; font-weight: bold; }
+        button { width: 100%; padding: 15px; border: none; border-radius: 6px; cursor: pointer; font-size: 16px; font-weight: bold; transition: 0.2s; color: white; margin-bottom: 10px; }
+        button:disabled { background: #718093 !important; cursor: not-allowed; opacity: 0.5; }
+        #baslatBtn { background: #4cd137; } #baslatBtn:hover:not(:disabled) { background: #44bd32; }
+        #bitirBtn { background: #e84118; display: none; } #bitirBtn:hover { background: #c23616; }
+        #durum { margin-top: 20px; font-size: 17px; font-weight: bold; color: #fbc531; background: #2f3640; padding: 15px; border-radius: 8px; border: 1px solid #fbc531;}
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>📝 SMM SERBEST DENEME YÖNETİMİ</h2>
+    <input type="file" id="jsonDosya" accept=".json">
+    <div class="kontrol-paneli">
+        <div class="ayar-satiri">
+            <label>🎯 Sorulacak Soru Sayısı:</label>
+            <input type="number" id="hedefSoru" value="20" min="1">
+        </div>
+        <div class="ayar-satiri">
+            <label>⏱️ Toplam Süre (Dakika):</label>
+            <input type="number" id="sinavSuresi" value="30" min="1">
+        </div>
+        
+        <button id="baslatBtn" disabled>🚀 Sınav Paketini Yükle ve Başlat</button>
+        <button id="bitirBtn">⏹ Sınavı Zorla Bitir</button>
+    </div>
+    <div id="durum">Sistem Hazır. JSON Bekleniyor...</div>
+</div>
+
+<script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
+    import { getFirestore, doc, setDoc } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-firestore.js";
+    
+    const firebaseConfig = {
+        apiKey: "AIzaSyBlnd8CoQKRlYCF0HCv3AjSq5y9pZD4fMM",
+        authDomain: "smmakademi-d4dc5.firebaseapp.com",
+        projectId: "smmakademi-d4dc5",
+        storageBucket: "smmakademi-d4dc5.firebasestorage.app",
+        messagingSenderId: "301579033232",
+        appId: "1:301579033232:web:fee03384d4b900a2445615"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+
+    let anaSoruListesi = []; 
+    const btnBaslat = document.getElementById('baslatBtn');
+    const btnBitir = document.getElementById('bitirBtn');
+    const durumYazisi = document.getElementById('durum');
+
+    document.getElementById('jsonDosya').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            try {
+                const hamData = JSON.parse(e.target.result);
+                anaSoruListesi = []; 
+                if (Array.isArray(hamData)) {
+                    anaSoruListesi = hamData; 
+                } else {
+                    for (let kategori in hamData) {
+                        if (Array.isArray(hamData[kategori])) anaSoruListesi = anaSoruListesi.concat(hamData[kategori]);
+                    }
+                }
+                
+                if(anaSoruListesi.length > 0) {
+                    durumYazisi.innerHTML = `✅ Havuza <b>${anaSoruListesi.length}</b> soru çekildi. Başlatmaya hazır.`;
+                    durumYazisi.style.color = "#4cd137";
+                    document.getElementById('hedefSoru').max = anaSoruListesi.length;
+                    btnBaslat.disabled = false;
+                }
+            } catch (error) {
+                durumYazisi.innerText = "❌ JSON okunurken hata oluştu!";
+                durumYazisi.style.color = "#e84118";
+            }
+        };
+        reader.readAsText(file);
+    });
+
+    btnBaslat.addEventListener('click', async () => {
+        let limit = parseInt(document.getElementById('hedefSoru').value);
+        let sure = parseInt(document.getElementById('sinavSuresi').value);
+        if(limit > anaSoruListesi.length) limit = anaSoruListesi.length;
+        
+        let paketSorular = [...anaSoruListesi].sort(() => Math.random() - 0.5).slice(0, limit);
+        
+        // Soruları Firebase'e uygun formata getir
+        let formatliSorular = paketSorular.map((jsonSoru, index) => {
+            const harfler = ["A", "B", "C", "D", "E"];
+            let dogruIndex = jsonSoru.answer !== undefined ? jsonSoru.answer : jsonSoru.correct;
+            let gercekDogruCevap = harfler[dogruIndex]; 
+            let temizSecenekler = {};
+            for(let i = 0; i < 5; i++) {
+                let hamMetin = jsonSoru.options[i] || "";
+                temizSecenekler[harfler[i]] = hamMetin.replace(/^[A-E]\)\s*/i, '');
+            }
+            return {
+                soru_no: index + 1,
+                soru_metni: jsonSoru.q,
+                secenekler: temizSecenekler,
+                dogru_cevap: gercekDogruCevap
+            };
+        });
+
+        btnBaslat.style.display = "none";
+        btnBitir.style.display = "block";
+        document.getElementById('hedefSoru').disabled = true;
+        document.getElementById('sinavSuresi').disabled = true;
+        durumYazisi.innerHTML = "⏳ Sorular Firebase'e yükleniyor...";
+
+        try {
+            await setDoc(doc(db, "aktif_sinav", "deneme_paketi"), {
+                sorular: formatliSorular,
+                toplam_sure_dk: sure,
+                baslangic_zamani: Date.now(),
+                durum: "aktif"
+            });
+            durumYazisi.innerHTML = `🔥 Sınav Başladı!<br>${limit} Soru, ${sure} Dakika olarak sisteme yüklendi.`;
+        } catch (e) {
+            console.error(e);
+            durumYazisi.innerHTML = "❌ Yükleme hatası!";
+        }
+    });
+
+    btnBitir.addEventListener('click', async () => {
+        try {
+            await setDoc(doc(db, "aktif_sinav", "deneme_paketi"), { durum: "bitti" }, { merge: true });
+            durumYazisi.innerHTML = "⏹ Sınav herkes için sonlandırıldı.";
+            btnBitir.style.display = "none";
+            btnBaslat.style.display = "block";
+            document.getElementById('hedefSoru').disabled = false;
+            document.getElementById('sinavSuresi').disabled = false;
+        } catch (e) { console.error(e); }
+    });
+</script>
+</body>
+</html>
