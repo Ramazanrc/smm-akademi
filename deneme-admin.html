@@ -185,7 +185,7 @@
                 return;
             }
 
-            let html = `<table><tr><th>Sıra</th><th>Katılımcı Adı</th><th>Puan</th><th>Net</th><th>Doğru</th><th>Yanlış</th></tr>`;
+            let html = `<table><tr><th>Sıra</th><th>Katılımcı Adı</th><th>Puan</th><th>Net</th><th>Doğru</th><th>Yanlış</th><th>Boş</th></tr>`;
             sonuclar.forEach((s, index) => {
                 html += `<tr>
                     <td><strong>${index + 1}.</strong></td>
@@ -194,6 +194,7 @@
                     <td style="color:#10b981; font-weight: bold;">${s.net.toFixed(2)}</td>
                     <td style="color:#10b981;">${s.dogru}</td>
                     <td style="color:#ef4444;">${s.yanlis}</td>
+                    <td style="color:#9ca3af; font-weight: bold;">${s.bos}</td>
                 </tr>`;
             });
             html += `</table>`;
