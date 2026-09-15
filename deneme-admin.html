@@ -18,6 +18,11 @@
         #raporBtn { background: #9b59b6; margin-top: 15px; } #raporBtn:hover { background: #8e44ad; }
         #durum { margin-top: 20px; font-size: 17px; font-weight: bold; color: #fbc531; background: #2f3640; padding: 15px; border-radius: 8px; border: 1px solid #fbc531;}
         
+        /* YENİ: Yönetici Sayacı CSS */
+        .admin-sayac { font-size: 24px; font-weight: bold; color: #fbc531; display: none; margin-bottom: 15px; border: 2px dashed #e84118; padding: 10px; border-radius: 8px;}
+        .admin-sayac.tehlike { color: #e84118; animation: pulse 1s infinite; }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+
         table { width: 100%; text-align: left; border-collapse: collapse; margin-top: 15px; }
         th, td { padding: 12px; border-bottom: 1px solid #718093; }
         th { color: #fbc531; border-bottom: 2px solid #fbc531; }
@@ -38,6 +43,9 @@
             <input type="number" id="sinavSuresi" value="30" min="1">
         </div>
         
+        <!-- YENİ: Yönetici Ekranında Geri Sayım -->
+        <div id="adminSayacGosterge" class="admin-sayac">00:00</div>
+
         <button id="baslatBtn" disabled>🚀 Sınav Paketini Yükle ve Başlat</button>
         <button id="bitirBtn">⏹ Sınavı Zorla Bitir</button>
         <button id="raporBtn">📊 Deneme Sonuçlarını Gör</button>
@@ -71,10 +79,12 @@
     const db = getFirestore(app);
 
     let anaSoruListesi = []; 
+    let adminSayacInterval; // YENİ: Zamanlayıcı değişkeni
     const btnBaslat = document.getElementById('baslatBtn');
     const btnBitir = document.getElementById('bitirBtn');
     const durumYazisi = document.getElementById('durum');
     const raporBtn = document.getElementById('raporBtn');
+    const adminSayacGosterge = document.getElementById('adminSayacGosterge'); // YENİ: Sayaç DOM öğesi
 
     document.getElementById('jsonDosya').addEventListener('change', function(e) {
         const file = e.target.files[0];
@@ -143,16 +153,65 @@
                 sorular: formatliSorular, toplam_sure_dk: sure, baslangic_zamani: Date.now(), durum: "aktif"
             });
             durumYazisi.innerHTML = `🔥 Sınav Başladı!<br>${limit} Soru, ${sure} Dakika olarak sisteme yüklendi.`;
+            
+            // YENİ: Admin tarafında otomatik sayacı başlat
+            baslatAdminSayaci(sure);
+
         } catch (e) {
             console.error(e);
             durumYazisi.innerHTML = "❌ Yükleme hatası!";
         }
     });
 
-    btnBitir.addEventListener('click', async () => {
+    // YENİ: Sınavı otomatik sonlandıran asıl fonksiyon
+    async function sinaviVeritabanindaBitir() {
         try {
             await setDoc(doc(db, "aktif_sinav", "deneme_paketi"), { durum: "bitti" }, { merge: true });
-            durumYazisi.innerHTML = "⏹ Sınav herkes için sonlandırıldı.";
+            durumYazisi.innerHTML = "⏹ Süre doldu. Sınav herkes için otomatik sonlandırıldı.";
+            btnBitir.style.display = "none";
+            btnBaslat.style.display = "block";
+            document.getElementById('hedefSoru').disabled = false;
+            document.getElementById('sinavSuresi').disabled = false;
+            adminSayacGosterge.style.display = "none"; // Sayacı gizle
+            clearInterval(adminSayacInterval);
+        } catch (e) { console.error("Otomatik bitirme hatası:", e); }
+    }
+
+    // YENİ: Admin panelinde geriye doğru sayan görsel motor
+    function baslatAdminSayaci(sureDakika) {
+        let kalanSaniye = sureDakika * 60;
+        adminSayacGosterge.style.display = "block";
+        adminSayacGosterge.classList.remove("tehlike");
+
+        clearInterval(adminSayacInterval);
+        
+        adminSayacInterval = setInterval(() => {
+            kalanSaniye--;
+            
+            let dk = Math.floor(kalanSaniye / 60);
+            let sn = kalanSaniye % 60;
+            adminSayacGosterge.innerText = `Kalan Süre: ${dk < 10 ? '0':''}${dk}:${sn < 10 ? '0':''}${sn}`;
+            
+            if (kalanSaniye <= 60) {
+                adminSayacGosterge.classList.add("tehlike");
+            }
+            
+            // Süre sıfırlandığında şalteri indir
+            if(kalanSaniye <= 0) {
+                clearInterval(adminSayacInterval);
+                sinaviVeritabanindaBitir(); 
+            }
+        }, 1000);
+    }
+
+    // Manuel "Zorla Bitir" butonu kodları güncellendi
+    btnBitir.addEventListener('click', async () => {
+        clearInterval(adminSayacInterval); // Sayacı manuel olarak durdur
+        adminSayacGosterge.style.display = "none";
+        
+        try {
+            await setDoc(doc(db, "aktif_sinav", "deneme_paketi"), { durum: "bitti" }, { merge: true });
+            durumYazisi.innerHTML = "⏹ Sınav yönetici tarafından manuel olarak sonlandırıldı.";
             btnBitir.style.display = "none";
             btnBaslat.style.display = "block";
             document.getElementById('hedefSoru').disabled = false;
