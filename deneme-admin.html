@@ -79,16 +79,21 @@
     const db = getFirestore(app);
 
     let anaSoruListesi = []; 
-    let adminSayacInterval; // YENİ: Zamanlayıcı değişkeni
+    let adminSayacInterval; 
+    let aktifDersAdi = "SMMM Yeterlilik Deneme Sınavı"; // YENİ: Ders adı değişkeni
     const btnBaslat = document.getElementById('baslatBtn');
     const btnBitir = document.getElementById('bitirBtn');
     const durumYazisi = document.getElementById('durum');
     const raporBtn = document.getElementById('raporBtn');
-    const adminSayacGosterge = document.getElementById('adminSayacGosterge'); // YENİ: Sayaç DOM öğesi
+    const adminSayacGosterge = document.getElementById('adminSayacGosterge'); 
 
     document.getElementById('jsonDosya').addEventListener('change', function(e) {
         const file = e.target.files[0];
         if (!file) return;
+
+        // YENİ: Dosya adından ders adını türetiyoruz (.json uzantısını silip, alt tireleri boşluk yapıyoruz)
+        let hamAd = file.name.replace(/\.json$/i, '');
+        aktifDersAdi = hamAd.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
 
         const reader = new FileReader();
         reader.onload = function(e) {
@@ -104,7 +109,8 @@
                 }
                 
                 if(anaSoruListesi.length > 0) {
-                    durumYazisi.innerHTML = `✅ Havuza <b>${anaSoruListesi.length}</b> soru çekildi. Başlatmaya hazır.`;
+                    // Durum yazısında seçilen dersin adını da gösteriyoruz
+                    durumYazisi.innerHTML = `✅ <b>${aktifDersAdi}</b> havuzuna ${anaSoruListesi.length} soru çekildi. Başlatmaya hazır.`;
                     durumYazisi.style.color = "#4cd137";
                     document.getElementById('hedefSoru').max = anaSoruListesi.length;
                     btnBaslat.disabled = false;
@@ -146,19 +152,22 @@
         document.getElementById('sinavSuresi').disabled = true;
         durumYazisi.innerHTML = "⏳ Eski sonuçlar temizleniyor...";
 
-        // Yeni sınava başlarken eski sonuçları veritabanından temizliyoruz
         try {
             const eskiSonuclar = await getDocs(collection(db, "deneme_sonuclari"));
             eskiSonuclar.forEach((docItem) => { deleteDoc(docItem.ref); });
         } catch (e) { console.error("Temizleme hatası:", e); }
 
         try {
+            // YENİ: Firebase'e ders_adi parametresini gönderiyoruz
             await setDoc(doc(db, "aktif_sinav", "deneme_paketi"), {
-                sorular: formatliSorular, toplam_sure_dk: sure, baslangic_zamani: Date.now(), durum: "aktif"
+                sorular: formatliSorular, 
+                toplam_sure_dk: sure, 
+                baslangic_zamani: Date.now(), 
+                durum: "aktif",
+                ders_adi: aktifDersAdi 
             });
-            durumYazisi.innerHTML = `🔥 Sınav Başladı!<br>${limit} Soru, ${sure} Dakika olarak sisteme yüklendi.`;
+            durumYazisi.innerHTML = `🔥 Sınav Başladı!<br>${aktifDersAdi} | ${limit} Soru, ${sure} Dakika.`;
             
-            // YENİ: Admin tarafında otomatik sayacı başlat
             baslatAdminSayaci(sure);
 
         } catch (e) {
@@ -167,7 +176,6 @@
         }
     });
 
-    // YENİ: Sınavı otomatik sonlandıran asıl fonksiyon
     async function sinaviVeritabanindaBitir() {
         try {
             await setDoc(doc(db, "aktif_sinav", "deneme_paketi"), { durum: "bitti" }, { merge: true });
@@ -176,12 +184,11 @@
             btnBaslat.style.display = "block";
             document.getElementById('hedefSoru').disabled = false;
             document.getElementById('sinavSuresi').disabled = false;
-            adminSayacGosterge.style.display = "none"; // Sayacı gizle
+            adminSayacGosterge.style.display = "none"; 
             clearInterval(adminSayacInterval);
         } catch (e) { console.error("Otomatik bitirme hatası:", e); }
     }
 
-    // YENİ: Admin panelinde geriye doğru sayan görsel motor
     function baslatAdminSayaci(sureDakika) {
         let kalanSaniye = sureDakika * 60;
         adminSayacGosterge.style.display = "block";
@@ -200,7 +207,6 @@
                 adminSayacGosterge.classList.add("tehlike");
             }
             
-            // Süre sıfırlandığında şalteri indir
             if(kalanSaniye <= 0) {
                 clearInterval(adminSayacInterval);
                 sinaviVeritabanindaBitir(); 
@@ -208,9 +214,8 @@
         }, 1000);
     }
 
-    // Manuel "Zorla Bitir" butonu kodları güncellendi
     btnBitir.addEventListener('click', async () => {
-        clearInterval(adminSayacInterval); // Sayacı manuel olarak durdur
+        clearInterval(adminSayacInterval); 
         adminSayacGosterge.style.display = "none";
         
         try {
@@ -223,7 +228,6 @@
         } catch (e) { console.error(e); }
     });
 
-    // SONUÇLARI ÇEKME VE LİSTELEME
     raporBtn.addEventListener('click', async () => {
         document.getElementById('raporModal').style.display = "flex";
         const raporDiv = document.getElementById('raporTabloAlani');
@@ -234,13 +238,11 @@
             let sonuclar = [];
             querySnapshot.forEach((doc) => {
                 let data = doc.data();
-                // Eski verilerde puan/net yoksa hata vermemesi için varsayılan değer atıyoruz
                 let puan = data.puan !== undefined ? data.puan : 0;
                 let net = data.net !== undefined ? data.net : 0;
                 sonuclar.push({ isim: doc.id, puan: puan, net: net, dogru: data.dogru, yanlis: data.yanlis, bos: data.bos });
             });
 
-            // PUANA GÖRE BÜYÜKTEN KÜÇÜĞE SIRALAMA
             sonuclar.sort((a, b) => b.puan - a.puan);
 
             if(sonuclar.length === 0) {
