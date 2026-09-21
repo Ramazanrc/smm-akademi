@@ -414,11 +414,14 @@
         const gercekNet = document.getElementById("rapor-net").innerText;
         const genelPuan = document.getElementById("rapor-puan").innerText;
 
+        // Firebase'den gelen ders adını alıyoruz (yoksa varsayılan metin)
+        const dinamikDersAdi = sinavVerisi.ders_adi || "SMMM Yeterlilik Deneme Sınavı";
+
         // Sayfa 1: Kapak Tasarımı
         let html = `
             <div style="text-align: center; margin-bottom: 50px; border-bottom: 2px solid #333; padding-bottom: 30px;">
                 <h1 style="color: #10b981; font-size: 32px; margin-bottom: 10px;">SMM AKADEMİ</h1>
-                <h2 style="font-size: 24px; color: #333;">Vergi Mevzuatı Deneme Sınavı</h2>
+                <h2 style="font-size: 24px; color: #333;">${dinamikDersAdi.toUpperCase()}</h2>
                 <div style="margin-top: 40px; font-size: 18px;">
                     <p><strong>Katılımcı:</strong> ${kullaniciAdi}</p>
                     <p><strong>Sınav Tarihi:</strong> ${tarih}</p>
@@ -474,10 +477,13 @@
         html += cevapAnahtariHTML;
         pdfContainer.innerHTML = html;
 
+        // Dosya adı için ders adını temizleyip boşlukları alt çizgi yapıyoruz
+        const temizDersAdi = dinamikDersAdi.replace(/[^a-zA-Z0-9]/g, '_').toLowerCase();
+        
         // PDF Ayarları ve Oluşturma İşlemi
         const opt = {
             margin:       15,
-            filename:     `SMM_Vergi_Mevzuati_${kullaniciAdi.replace(/\s+/g, '_')}.pdf`,
+            filename:     `SMM_${temizDersAdi}_${kullaniciAdi.replace(/\s+/g, '_')}.pdf`,
             image:        { type: 'jpeg', quality: 0.98 },
             html2canvas:  { scale: 2, useCORS: true },
             jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
