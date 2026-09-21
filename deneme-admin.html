@@ -122,7 +122,11 @@
         let sure = parseInt(document.getElementById('sinavSuresi').value);
         if(limit > anaSoruListesi.length) limit = anaSoruListesi.length;
         
-        let paketSorular = [...anaSoruListesi].sort(() => Math.random() - 0.5).slice(0, limit);
+        for (let i = anaSoruListesi.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [anaSoruListesi[i], anaSoruListesi[j]] = [anaSoruListesi[j], anaSoruListesi[i]];
+        }
+        let paketSorular = anaSoruListesi.slice(0, limit);
         
         let formatliSorular = paketSorular.map((jsonSoru, index) => {
             const harfler = ["A", "B", "C", "D", "E"];

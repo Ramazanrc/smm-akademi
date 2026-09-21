@@ -55,7 +55,9 @@
         th, td { border: 1px solid #4b5563; padding: 10px; text-align: left; }
         th { background-color: #374151; color: #f59e0b; }
     </style>
+    <!-- YENİ: PDF Kütüphanesi -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 </head>
 <body>
 
@@ -71,7 +73,7 @@
     <div class="container" id="bekleme-alani" style="display: none;">
         <div style="text-align: center;">
             <h2 style="color: #3b82f6;">⏳ HAZIRLIK...</h2>
-            <div class="bekleniyor">Sınav paketinin yöneticiden gönderilmesi bekleniyor...</div>
+            <div id="beklemeMetni" class="bekleniyor">Sınav paketinin yöneticiden gönderilmesi bekleniyor...</div>
         </div>
     </div>
 
@@ -119,6 +121,8 @@
         <div class="rapor-satir" style="border-left: 5px solid #9ca3af;"><span>⚪ Boş:</span> <span id="rapor-bos" style="color: #9ca3af;">0</span></div>
 
         <button id="cevaplariInceleBtn" class="btn-ana" style="background: #3b82f6; margin-top: 20px; margin-bottom: 10px;">🔍 Çözdüğüm Soruları İncele</button>
+        <!-- YENİ: PDF Butonu Eklendi -->
+        <button id="pdfIndirBtn" class="btn-ana" style="background: #f59e0b; margin-bottom: 10px;">📄 Sonuçları PDF Olarak İndir</button>
         <button onclick="location.reload()" class="btn-ana" style="background: #4b5563;">Ana Sayfaya Dön</button>
     </div>
 
@@ -181,7 +185,17 @@
             if (docSnap.exists()) {
                 const data = docSnap.data();
                 
+                // YENİ: Tekrarlı giriş engelleme (Anti-Loophole)
+                let sonCozulenSeans = localStorage.getItem("son_cozulen_seans");
+                
                 if (data.durum === "aktif" && !sinavBittiMi) {
+                    
+                    // Eğer bu seans zaten çözülmüşse, sınava almayıp bekleme ekranında tut
+                    if(sonCozulenSeans == data.baslangic_zamani) {
+                        document.getElementById("beklemeMetni").innerHTML = "Bu seansı tamamladınız.<br><br>Yöneticinin yeni sınav başlatması bekleniyor...";
+                        return;
+                    }
+                    
                     if(!sinavVerisi || sinavVerisi.baslangic_zamani !== data.baslangic_zamani) {
                         sinavVerisi = data;
                         kullaniciCevaplari = {}; 
@@ -298,10 +312,12 @@
         }
     });
 
-    // NET VE PUAN HESAPLAMASI BURAYA EKLENDİ
     function sinaviBitirVeRaporla() {
         sinavBittiMi = true;
         clearInterval(sayacInterval);
+        
+        // YENİ: Sınavı tamamlandığını localStorage'a yazıyoruz
+        localStorage.setItem("son_cozulen_seans", sinavVerisi.baslangic_zamani);
         
         document.getElementById("sinav-alani").style.display = "none";
         document.getElementById("rapor-alani").style.display = "block";
@@ -316,9 +332,8 @@
             else yanlis++;
         });
 
-        // 4 Yanlış 1 Doğru Matematik Mantığı
         let net = dogru - (yanlis / 4);
-        let hesaplananNet = Math.max(0, net); // Puan eksiye düşmesin diye 0'a sabitlenir
+        let hesaplananNet = Math.max(0, net); 
         let puan = (hesaplananNet / toplamSoru) * 100;
         let yuzde = Math.round((hesaplananNet / toplamSoru) * 100);
 
@@ -381,6 +396,98 @@
             alan.appendChild(kutu);
         });
     }
+
+    // YENİ: PDF İndirme Motoru
+    document.getElementById("pdfIndirBtn").addEventListener("click", () => {
+        const btn = document.getElementById("pdfIndirBtn");
+        btn.innerText = "⏳ PDF Hazırlanıyor, Lütfen Bekleyin...";
+        btn.disabled = true;
+
+        // Arka planda geçici bir div oluşturarak PDF şablonunu çiziyoruz
+        const pdfContainer = document.createElement("div");
+        pdfContainer.style.padding = "40px";
+        pdfContainer.style.fontFamily = "Arial, sans-serif";
+        pdfContainer.style.color = "#000";
+        pdfContainer.style.backgroundColor = "#fff";
+
+        const tarih = new Date(sinavVerisi.baslangic_zamani).toLocaleString("tr-TR");
+        const gercekNet = document.getElementById("rapor-net").innerText;
+        const genelPuan = document.getElementById("rapor-puan").innerText;
+
+        // Sayfa 1: Kapak Tasarımı
+        let html = `
+            <div style="text-align: center; margin-bottom: 50px; border-bottom: 2px solid #333; padding-bottom: 30px;">
+                <h1 style="color: #10b981; font-size: 32px; margin-bottom: 10px;">SMM AKADEMİ</h1>
+                <h2 style="font-size: 24px; color: #333;">Vergi Mevzuatı Deneme Sınavı</h2>
+                <div style="margin-top: 40px; font-size: 18px;">
+                    <p><strong>Katılımcı:</strong> ${kullaniciAdi}</p>
+                    <p><strong>Sınav Tarihi:</strong> ${tarih}</p>
+                    <p><strong>Başarı Puanı:</strong> <span style="color: #f59e0b; font-weight: bold;">${genelPuan} Puan</span></p>
+                    <p><strong>Toplam Net:</strong> ${gercekNet}</p>
+                </div>
+            </div>
+        `;
+
+        // Sayfa 2 ve devamı: Sorular
+        let cevapAnahtariHTML = `
+            <div style="page-break-before: always; text-align: center; padding-top: 20px;">
+                <h2 style="color: #3b82f6;">Detaylı Sınav Analizi ve Cevap Anahtarı</h2>
+                <table style="width:100%; border-collapse: collapse; margin-top: 20px; text-align: center;">
+                    <tr style="background-color: #f3f4f6;">
+                        <th style="border: 1px solid #ccc; padding: 12px; color: #333;">Soru No</th>
+                        <th style="border: 1px solid #ccc; padding: 12px; color: #333;">Doğru Cevap</th>
+                        <th style="border: 1px solid #ccc; padding: 12px; color: #333;">Senin Cevabın</th>
+                        <th style="border: 1px solid #ccc; padding: 12px; color: #333;">Durum</th>
+                    </tr>
+        `;
+
+        sinavVerisi.sorular.forEach((soru, index) => {
+            // Soruyu Ekle
+            html += `
+                <div style="margin-bottom: 35px; page-break-inside: avoid;">
+                    <h4 style="margin-bottom: 12px; font-size: 16px; border-bottom: 1px solid #eee; padding-bottom: 5px;">Soru ${index + 1}</h4>
+                    <div style="font-size: 15px; margin-bottom: 15px; line-height: 1.5;">${marked.parse(soru.soru_metni)}</div>
+            `;
+            const harfler = ["A", "B", "C", "D", "E"];
+            harfler.forEach(h => {
+                html += `<div style="font-size: 14px; margin-bottom: 8px;"><strong>${h})</strong> ${soru.secenekler[h]}</div>`;
+            });
+            html += `</div>`;
+
+            // Cevap Anahtarı Tablosuna Satır Ekle
+            let secilen = kullaniciCevaplari[index] || "Boş Bırakıldı";
+            let dogru = soru.dogru_cevap;
+            let durum = (secilen === dogru) ? "Doğru" : (secilen === "Boş Bırakıldı" ? "Boş" : "Yanlış");
+            let renk = (secilen === dogru) ? "#10b981" : (secilen === "Boş Bırakıldı" ? "#9ca3af" : "#ef4444");
+
+            cevapAnahtariHTML += `
+                <tr>
+                    <td style="border: 1px solid #ccc; padding: 10px;"><strong>${index + 1}</strong></td>
+                    <td style="border: 1px solid #ccc; padding: 10px; font-weight: bold;">${dogru}</td>
+                    <td style="border: 1px solid #ccc; padding: 10px; font-weight: bold;">${secilen}</td>
+                    <td style="border: 1px solid #ccc; padding: 10px; color: ${renk}; font-weight: bold;">${durum}</td>
+                </tr>
+            `;
+        });
+
+        cevapAnahtariHTML += `</table></div>`;
+        html += cevapAnahtariHTML;
+        pdfContainer.innerHTML = html;
+
+        // PDF Ayarları ve Oluşturma İşlemi
+        const opt = {
+            margin:       15,
+            filename:     `SMM_Vergi_Mevzuati_${kullaniciAdi.replace(/\s+/g, '_')}.pdf`,
+            image:        { type: 'jpeg', quality: 0.98 },
+            html2canvas:  { scale: 2, useCORS: true },
+            jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
+        };
+
+        html2pdf().set(opt).from(pdfContainer).save().then(() => {
+            btn.innerText = "📄 Sonuçları PDF Olarak İndir";
+            btn.disabled = false;
+        });
+    });
 </script>
 </body>
 </html>
