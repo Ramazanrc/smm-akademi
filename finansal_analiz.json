@@ -2807,18 +2807,6 @@
     },
     {
       "ders": "Finansal Tablolar Analizi",
-      "q": "Net satışları 2.000.000 ₺, ortalama stok bulundurma süresi 40 gün ve ortalama ticari alacakları 100.000 ₺ olan bir işletmenin ortalama alacak tahsilat süresi kaç gündür? (1 yıl = 360 gün olarak kabul edilecektir.)",
-      "options": [
-        "A) 9",
-        "B) 18",
-        "C) 22",
-        "D) 30",
-        "E) 58"
-      ],
-      "answer": 4
-    },
-    {
-      "ders": "Finansal Tablolar Analizi",
       "q": "Brüt kâr tutarı 200.000 ₺, brüt kârlılık oranı %25 olan bir işletmede; ortalama ticari alacaklar tutarı 100.000 ₺ ise bu işletmede ortalama tahsilat süresi kaç gündür? (Bir yıl 360 gün olarak kabul edilecektir.)",
       "options": [
         "A) 40",
