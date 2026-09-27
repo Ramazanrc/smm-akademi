@@ -7,75 +7,74 @@ from google import genai
 # Sayfa Ayarları
 st.set_page_config(page_title="SMM Akademi Antrenörü", page_icon="⚖️", layout="wide", initial_sidebar_state="expanded")
 
-# PREMIUM CSS (MOBİL MENÜ BUTONUNU GERİ GETİREN ŞEFFAF HEADER EKLİ)
+# PREMIUM COMPACT CSS (MOBİL VE TABLET UYUMLU)
 st.markdown("""
     <style>
-    /* Üst barı SİLME, sadece ŞEFFAF yap ki mobil menü butonu (> işareti) görünsün */
+    /* Üst bar şeffaf */
     [data-testid="stHeader"] { background: transparent !important; }
-    .block-container { padding-top: 2rem !important; }
+    
+    /* Sayfayı ortaya toplar, devasa yayılmayı önler */
+    .block-container { padding-top: 1.5rem !important; max-width: 900px !important; } 
     
     .stApp { background-color: #001a33; color: #ffffff; }
     
-    .question-card { background-color: #002b52; padding: 30px; border-radius: 15px; border-left: 10px solid #d4af37; margin-bottom: 25px; box-shadow: 0 10px 20px rgba(0,0,0,0.4); }
+    /* Soru Kartı Daraltıldı */
+    .question-card { background-color: #002b52; padding: 20px; border-radius: 10px; border-left: 6px solid #d4af37; margin-bottom: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+    .question-card h4 { font-size: 15px !important; margin-bottom: 8px !important; color: #d4af37 !important; text-transform: uppercase; letter-spacing: 1px;}
+    .question-card p { font-size: 18px !important; line-height: 1.5 !important; margin-bottom: 0 !important; }
     
-    /* Zarif ve Kusursuz Şık Tasarımı */
-    .stRadio { width: 100% !important; }
-    
-    div[role="radiogroup"] {
-        width: 100% !important;
-        display: flex !important;
-        flex-direction: column !important;
-        gap: 15px !important; 
-    }
+    /* Zarif ve Kompakt Şık Tasarımı */
+    .stRadio { width: 100% !important; margin-top: -10px !important; }
+    div[role="radiogroup"] { gap: 8px !important; }
     
     div[role="radiogroup"] > label {
         display: flex !important; 
-        align-items: center !important; 
+        align-items: center !important;
         width: 100% !important;
         background-color: rgba(255, 255, 255, 0.03) !important;
         border: 1px solid rgba(212, 175, 55, 0.3) !important;
-        border-radius: 12px !important;
-        padding: 15px 25px !important;
+        border-radius: 8px !important;
+        padding: 10px 15px !important;
         margin: 0 !important;
         cursor: pointer !important;
-        box-sizing: border-box !important;
-        transition: all 0.3s ease !important;
+        transition: all 0.2s ease !important;
     }
-    
-    div[role="radiogroup"] > label:hover {
-        background-color: rgba(212, 175, 55, 0.1) !important;
-        border-color: #d4af37 !important;
-        transform: translateX(10px);
-    }
-    
-    div[role="radiogroup"] label p { 
-        color: #ffffff !important; 
-        font-size: 22px !important; 
-        margin: 0 0 0 15px !important; 
-        white-space: normal !important; 
-        word-break: break-word !important;
-    }
+    div[role="radiogroup"] > label:hover { background-color: rgba(212, 175, 55, 0.1) !important; border-color: #d4af37 !important; transform: translateX(5px); }
+    div[role="radiogroup"] label p { color: #ffffff !important; font-size: 15px !important; margin: 0 0 0 10px !important; line-height: 1.4 !important; }
     
     /* Aksiyon Butonları */
-    div.stButton > button { background-color: #d4af37; color: #000; font-size: 18px !important; font-weight: bold; border-radius: 8px; transition: 0.3s; width: 100%; border: none; padding: 15px; }
-    div.stButton > button:hover { background-color: #f1c40f; transform: translateY(-2px); box-shadow: 0 5px 15px rgba(212, 175, 55, 0.4); }
+    div.stButton > button { background-color: #d4af37; color: #000; font-size: 15px !important; font-weight: bold; border-radius: 6px; padding: 10px 15px !important; width: 100%; border: none; transition: 0.3s; }
+    div.stButton > button:hover { background-color: #f1c40f; transform: translateY(-2px); box-shadow: 0 4px 10px rgba(212, 175, 55, 0.4); }
     
-    .reference-box { background-color: #0c0c0c; color: #d4af37; padding: 25px; border: 2px dashed #d4af37; border-radius: 12px; font-size: 20px; line-height: 1.6; margin-top: 20px; }
-    .ai-button > button { background-color: #1e3a8a !important; color: #fff !important; border: 1px solid #3b82f6 !important; margin-top:10px; }
+    /* Analiz ve Referans Kutuları */
+    .reference-box { background-color: #0c0c0c; color: #d4af37; padding: 20px; border: 1px dashed #d4af37; border-radius: 8px; font-size: 15px; line-height: 1.6; margin-top: 15px; }
+    .ai-button > button { background-color: #1e3a8a !important; color: #fff !important; border: 1px solid #3b82f6 !important; margin-top: 10px; }
     .ai-button > button:hover { background-color: #2563eb !important; }
     
-    [data-testid="stAlert"] { background-color: #0f172a !important; border-left: 5px solid #3b82f6 !important; }
-    [data-testid="stAlert"] p, [data-testid="stAlert"] li { color: #f8fafc !important; font-size: 19px !important; line-height: 1.7 !important; }
-    [data-testid="stAlert"] strong { color: #60a5fa !important; font-size: 20px !important; }
+    [data-testid="stAlert"] { padding: 12px 15px !important; background-color: #0f172a !important; border-left: 4px solid #3b82f6 !important;}
+    [data-testid="stAlert"] p, [data-testid="stAlert"] li { color: #f8fafc !important; font-size: 15px !important; line-height: 1.5 !important; }
+    [data-testid="stAlert"] strong { color: #60a5fa !important; font-size: 16px !important; }
     
-    [data-testid="stSidebar"] { background: linear-gradient(180deg, #001122 0%, #001a33 100%) !important; border-right: 2px solid #d4af37; }
-    .sidebar-title { color: #d4af37; font-size: 20px; font-weight: bold; margin-bottom: 10px; border-bottom: 1px solid #334; padding-bottom: 5px; }
-    .progress-text { font-size: 20px; color: #d4af37; font-weight: bold; margin-bottom: 10px; }
+    /* Sidebar */
+    [data-testid="stSidebar"] { background: linear-gradient(180deg, #001122 0%, #001a33 100%) !important; border-right: 1px solid #d4af37; }
+    .sidebar-title { color: #d4af37; font-size: 16px; font-weight: bold; margin-bottom: 10px; border-bottom: 1px solid #334; padding-bottom: 5px; }
+    .progress-text { font-size: 16px; color: #d4af37; font-weight: bold; margin-bottom: 5px; }
     
-    .profile-card { background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(212, 175, 55, 0.3); border-radius: 10px; padding: 20px; text-align: center; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); }
-    .profile-card h3 { color: #f1c40f; margin: 0 0 5px 0; font-size: 22px; font-weight: bold;}
-    .profile-card p { color: #cbd5e1; margin: 0; font-size: 16px; }
-    .profile-badge { display: inline-block; background-color: #d4af37; color: #000; padding: 3px 10px; border-radius: 20px; font-size: 12px; font-weight: bold; margin-top: 10px; }
+    .profile-card { background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(212, 175, 55, 0.3); border-radius: 8px; padding: 15px; text-align: center; margin-bottom: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+    .profile-card h3 { color: #f1c40f; margin: 0 0 5px 0; font-size: 18px; font-weight: bold;}
+    .profile-card p { color: #cbd5e1; margin: 0; font-size: 14px; }
+    .profile-badge { display: inline-block; background-color: #d4af37; color: #000; padding: 2px 8px; border-radius: 20px; font-size: 11px; font-weight: bold; margin-top: 8px; }
+
+    /* MOBİL VE TABLET UYUMU (Medya Sorguları) */
+    @media (max-width: 768px) {
+        .block-container { padding-top: 1rem !important; padding-left: 1rem !important; padding-right: 1rem !important; }
+        .question-card { padding: 15px; border-left-width: 4px; }
+        .question-card h4 { font-size: 13px !important; }
+        .question-card p { font-size: 15px !important; line-height: 1.4 !important; }
+        div[role="radiogroup"] > label { padding: 10px !important; border-radius: 6px !important; }
+        div[role="radiogroup"] label p { font-size: 14px !important; }
+        div.stButton > button { font-size: 14px !important; padding: 8px 10px !important; }
+    }
     </style>
 """, unsafe_allow_html=True)
 
@@ -253,8 +252,8 @@ for i, sec in enumerate(orijinal_secenekler):
 
 st.markdown(f"""
     <div class="question-card">
-        <h4 style='color:#d4af37; font-size: 22px; margin-bottom: 10px;'>{q.get('konu', 'Genel')}</h4>
-        <p style='font-size:26px; line-height: 1.4;'>{soru_metni}</p>
+        <h4>{q.get('konu', 'Genel')}</h4>
+        <p>{soru_metni}</p>
     </div>
 """, unsafe_allow_html=True)
 
@@ -281,16 +280,16 @@ if st.button("✅ Cevabı Onayla & İncele"):
     if secim:
         if str(secim).strip().lower() == str(dogru_metin).strip().lower():
             st.markdown("""
-                <div style="background-color: rgba(34, 197, 94, 0.15); border: 2px solid #22c55e; border-radius: 12px; padding: 25px; text-align: center; margin-bottom: 20px;">
-                    <h2 style="color: #4ade80; margin: 0; font-size: 34px; font-weight: bold;">🎯 DOĞRU!</h2>
-                    <p style="color: #f8fafc; font-size: 22px; margin-top: 10px; margin-bottom:0;">Mevzuat mantığını mükemmel kurdun.</p>
+                <div style="background-color: rgba(34, 197, 94, 0.15); border: 2px solid #22c55e; border-radius: 8px; padding: 15px; text-align: center; margin-bottom: 20px;">
+                    <h2 style="color: #4ade80; margin: 0; font-size: 24px; font-weight: bold;">🎯 DOĞRU!</h2>
+                    <p style="color: #f8fafc; font-size: 16px; margin-top: 5px; margin-bottom:0;">Mevzuat mantığını mükemmel kurdun.</p>
                 </div>
             """, unsafe_allow_html=True)
         else:
             st.markdown(f"""
-                <div style="background-color: rgba(239, 68, 68, 0.15); border: 2px solid #ef4444; border-radius: 12px; padding: 25px; text-align: center; margin-bottom: 20px;">
-                    <h2 style="color: #f87171; margin: 0; font-size: 34px; font-weight: bold;">❌ YANLIŞ!</h2>
-                    <p style="color: #f8fafc; font-size: 22px; margin-top: 10px; margin-bottom:0;">İşin doğrusu: <b style="color: #ffffff;">{dogru_metin}</b></p>
+                <div style="background-color: rgba(239, 68, 68, 0.15); border: 2px solid #ef4444; border-radius: 8px; padding: 15px; text-align: center; margin-bottom: 20px;">
+                    <h2 style="color: #f87171; margin: 0; font-size: 24px; font-weight: bold;">❌ YANLIŞ!</h2>
+                    <p style="color: #f8fafc; font-size: 16px; margin-top: 5px; margin-bottom:0;">İşin doğrusu: <b style="color: #ffffff;">{dogru_metin}</b></p>
                 </div>
             """, unsafe_allow_html=True)
             
@@ -304,14 +303,14 @@ if st.session_state.show_ref:
     if 'referans' in q and q['referans'].strip() != "":
         st.markdown(f"""
             <div class="reference-box">
-                <b style="font-size: 22px; border-bottom: 1px solid #d4af37;">📜 KANUN REFERANSI VE ARGÜMAN:</b><br><br>
+                <b style="font-size: 16px; border-bottom: 1px solid #d4af37;">📜 KANUN REFERANSI VE ARGÜMAN:</b><br><br>
                 {q.get('referans')}
             </div>
         """, unsafe_allow_html=True)
     else:
         st.markdown(f"""
             <div class="reference-box" style="border-color: #3b82f6;">
-                <b style="font-size: 22px; color:#3b82f6;">🤖 YAPAY ZEKA MEVZUAT ANALİZİ</b><br><br>
+                <b style="font-size: 16px; color:#3b82f6;">🤖 YAPAY ZEKA MEVZUAT ANALİZİ</b><br><br>
                 Bu sorunun veritabanında sabit bir kanun maddesi bulunmuyor. Mevzuat bağlantısını yapay zeka ile dinamik olarak sorgulayabilirsiniz.
             </div>
         """, unsafe_allow_html=True)
@@ -326,17 +325,30 @@ if st.session_state.show_ref:
                         client = genai.Client(api_key=API_KEY)
                         uzmanlik = "Sermaye Piyasası Mevzuatı (SPK)" if st.session_state.aktif_ders == "SPK Mevzuatı" else "Vergi Hukuku"
                         
-                        prompt = f"Sen uzman bir Mali Müşavir ve {uzmanlik} eğitmenisin. Soru: {soru_metni} \n Cevap: {dogru_metin}. Bu sorunun neden doğru olduğunu madde madde, kısa ve öz bir şekilde profesyonelce açıkla."
-                        
-                        # İlk günkü kusursuz çalışan hızlı modelimize dönüyoruz
+                        # --- YENİ EKLENEN MATRUŞKA SİSTEM KOMUTU BURADA ---
+                        prompt = f"""Sen SMMM Yeterlilik {uzmanlik} alanında master yapmış bir vergi ve mevzuat analiz motorusun.
+Öğrencinin çözdüğü soru şu: "{soru_metni}"
+Doğru Cevap: "{dogru_metin}"
+
+Görev: Öğrenciye hem mevzuatın orijinal dayanağını göstererek güven ver hem de sınavda uygulayacağı pratik 'filtreleme' mantığını sun. Çıktını sadece aşağıdaki şablona sadık kalarak üret:
+
+📜 İLGİLİ MEVZUAT HÜKMÜ: (Bu sorunun dayandığı Kanun, Madde veya Tebliğ hükmünü resmi ama anlaşılır bir dille, detayıyla açıkla. Öğrenci konunun hukuki zeminini burada tam anlamıyla görsün.)
+
+--- 🧠 SINAV İÇİN PRATİK FİLTRELEME (MATRUŞKA MODELİ) ---
+📌 GENEL KURAL: (Maddeyi tek cümlelik bir ana kurala indirge.)
+⚠️ İSTİSNA: (Varsa bu kuralı bozan durumu/sınırı yaz, yoksa 'Bulunmamaktadır' de.)
+🚨 İSTİSNANIN İSTİSNASI: (Varsa istisnayı geçersiz kılan detayı yaz, yoksa 'Bulunmamaktadır' de.)
+💡 TUZAK NOKTASI: (Soru kökünde veya şıklarda düşülmemesi gereken kelime/hesaplama tuzağı.)
+"""
+                        # --------------------------------------------------
+
                         response = client.models.generate_content(
-                            model='gemini-2.5-flash', 
+                            model='gemini-3.8-flash', 
                             contents=prompt
                         )
                         st.session_state.ai_yanit = response.text
                         st.session_state.ai_analiz = True
                     except Exception as e:
-                        # Maskeyi kaldırdık, Google'ın asıl derdini göreceğiz
                         st.error(f"Google API Detayı: {e}")
         st.markdown('</div>', unsafe_allow_html=True)
         
