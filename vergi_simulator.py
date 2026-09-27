@@ -2,7 +2,6 @@ import streamlit as st
 import json
 import random
 import time
-import streamlit.components.v1 as components
 from google import genai
 
 # ==========================================
@@ -16,7 +15,7 @@ st.set_page_config(
 )
 
 # ==========================================
-# PREMIUM COMPACT CSS (ORİJİNAL KENDİ KODUN)
+# PREMIUM COMPACT CSS (SENİN ORİJİNAL KODUN)
 # ==========================================
 st.markdown("""
     <style>
@@ -33,14 +32,10 @@ st.markdown("""
     .question-card h4 { font-size: 15px !important; margin-bottom: 8px !important; color: #d4af37 !important; text-transform: uppercase; letter-spacing: 1px;}
     .question-card p { font-size: 18px !important; line-height: 1.5 !important; margin-bottom: 0 !important; }
     
-    /* Zarif ve Kompakt Şık Tasarımı (Orijinal Kodun + Bulut Uyumu) */
+    /* Zarif ve Kompakt Şık Tasarımı (TAM GENİŞLİK) */
     .stRadio { width: 100% !important; margin-top: -10px !important; }
-    
-    div[role="radiogroup"], [data-testid="stRadio"] > div { 
-        gap: 8px !important; 
-        display: flex !important;
-        flex-direction: column !important;
-    }
+    div[role="radiogroup"] { gap: 8px !important; width: 100% !important; }
+    [data-testid="stRadio"] > div { width: 100% !important; }
     
     div[role="radiogroup"] > label, [data-testid="stRadio"] label {
         display: flex !important; 
@@ -54,21 +49,12 @@ st.markdown("""
         cursor: pointer !important;
         transition: all 0.2s ease !important;
     }
-    div[role="radiogroup"] > label:hover, [data-testid="stRadio"] label:hover { 
-        background-color: rgba(212, 175, 55, 0.1) !important; 
-        border-color: #d4af37 !important; 
-        transform: translateX(5px); 
-    }
-    div[role="radiogroup"] label p, [data-testid="stRadio"] label p { 
-        color: #ffffff !important; 
-        font-size: 15px !important; 
-        margin: 0 0 0 10px !important; 
-        line-height: 1.4 !important; 
-    }
+    div[role="radiogroup"] > label:hover, [data-testid="stRadio"] label:hover { background-color: rgba(212, 175, 55, 0.1) !important; border-color: #d4af37 !important; transform: translateX(5px); }
+    div[role="radiogroup"] label p, [data-testid="stRadio"] label p { color: #ffffff !important; font-size: 15px !important; margin: 0 0 0 10px !important; line-height: 1.4 !important; }
     
     /* Aksiyon Butonları */
-    div.stButton > button { background-color: #d4af37; color: #000; font-size: 15px !important; font-weight: bold; border-radius: 6px; padding: 10px 15px !important; width: 100%; border: none; transition: 0.3s; }
-    div.stButton > button:hover { background-color: #f1c40f; transform: translateY(-2px); box-shadow: 0 4px 10px rgba(212, 175, 55, 0.4); }
+    div.stButton > button { background-color: #d4af37 !important; color: #000 !important; font-size: 15px !important; font-weight: bold; border-radius: 6px; padding: 10px 15px !important; width: 100%; border: none; transition: 0.3s; }
+    div.stButton > button:hover { background-color: #f1c40f !important; transform: translateY(-2px); box-shadow: 0 4px 10px rgba(212, 175, 55, 0.4); }
     
     /* Analiz ve Referans Kutuları */
     .reference-box { background-color: #0c0c0c; color: #d4af37; padding: 20px; border: 1px dashed #d4af37; border-radius: 8px; font-size: 15px; line-height: 1.6; margin-top: 15px; }
@@ -118,7 +104,6 @@ def check_password():
         with col2:
             kullanici_sifre = st.text_input("Erişim Şifresi:", type="password")
             if st.button("Sistemi Aç 🚀", use_container_width=True):
-                # Hem PASSWORD = "..." hem de [admin] sifre = "..." formatlarını destekler
                 dogru_sifre = st.secrets.get("PASSWORD", st.secrets.get("admin", {}).get("sifre"))
                 
                 if dogru_sifre and kullanici_sifre == dogru_sifre:
@@ -129,7 +114,7 @@ def check_password():
                 else:
                     st.error("❌ Hatalı şifre! Lütfen tekrar deneyin.")
         
-        st.stop() # Doğru şifre girilene kadar kodun aşağısını okumayı DURDUR
+        st.stop() 
 
 check_password()
 
@@ -373,7 +358,7 @@ Görev: Öğrenciye hem mevzuatın orijinal dayanağını göstererek güven ver
 🚨 İSTİSNANIN İSTİSNASI: (Varsa istisnayı geçersiz kılan detayı yaz, yoksa 'Bulunmamaktadır' de.)
 💡 TUZAK NOKTASI: (Soru kökünde veya şıklarda düşülmemesi gereken kelime/hesaplama tuzağı.)
 """
-                        # Hata veren sürüm kaldırıldı, senin lokalinde çalışan modele dönüldü!
+                        
                         response = client.models.generate_content(
                             model='gemini-3.8-flash', 
                             contents=prompt
@@ -409,28 +394,3 @@ with colB:
         random.shuffle(st.session_state.original_questions)
         st.session_state.filtered_questions = st.session_state.original_questions[:hedef_soru_sayisi]
         st.rerun()
-        # ==========================================
-# BULUT (CLOUD) İÇİN ZORUNLU GENİŞLİK HİLESİ
-# ==========================================
-components.html(
-    """
-    <script>
-    // Streamlit bulut sunucusunun yüklenmesini bekle ve tüm radyo butonlarını zorla %100 yap
-    const forceFullWidth = () => {
-        const labels = window.parent.document.querySelectorAll('div[data-testid="stRadio"] label');
-        labels.forEach(label => {
-            label.style.width = '100%';
-            label.style.maxWidth = '100%';
-            label.style.display = 'flex';
-        });
-    };
-    
-    // Yükleme sırasında ve her tıklamada tetikle
-    window.parent.document.addEventListener('click', forceFullWidth);
-    setTimeout(forceFullWidth, 1000);
-    setTimeout(forceFullWidth, 2000);
-    </script>
-    """,
-    height=0,
-    width=0
-)
