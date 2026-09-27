@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # ==========================================
-# PREMIUM COMPACT CSS (MOBİL VE TABLET UYUMLU)
+# PREMIUM COMPACT CSS (ORİJİNAL KENDİ KODUN)
 # ==========================================
 st.markdown("""
     <style>
@@ -32,35 +32,33 @@ st.markdown("""
     .question-card h4 { font-size: 15px !important; margin-bottom: 8px !important; color: #d4af37 !important; text-transform: uppercase; letter-spacing: 1px;}
     .question-card p { font-size: 18px !important; line-height: 1.5 !important; margin-bottom: 0 !important; }
     
-    /* Zarif ve Kompakt Şık Tasarımı (LOKAL VE BULUT UYUMLU) */
+    /* Zarif ve Kompakt Şık Tasarımı (Orijinal Kodun + Bulut Uyumu) */
     .stRadio { width: 100% !important; margin-top: -10px !important; }
     
-    [data-testid="stRadio"] > div, div[role="radiogroup"] { 
-        gap: 10px !important; 
-        display: flex !important; 
-        flex-direction: column !important; 
+    div[role="radiogroup"], [data-testid="stRadio"] > div { 
+        gap: 8px !important; 
+        display: flex !important;
+        flex-direction: column !important;
     }
     
-    [data-testid="stRadio"] label, div[role="radiogroup"] > label {
+    div[role="radiogroup"] > label, [data-testid="stRadio"] label {
         display: flex !important; 
         align-items: center !important;
         width: 100% !important;
         background-color: rgba(255, 255, 255, 0.03) !important;
         border: 1px solid rgba(212, 175, 55, 0.3) !important;
         border-radius: 8px !important;
-        padding: 12px 15px !important;
+        padding: 10px 15px !important;
         margin: 0 !important;
         cursor: pointer !important;
         transition: all 0.2s ease !important;
     }
-    
-    [data-testid="stRadio"] label:hover, div[role="radiogroup"] > label:hover { 
+    div[role="radiogroup"] > label:hover, [data-testid="stRadio"] label:hover { 
         background-color: rgba(212, 175, 55, 0.1) !important; 
         border-color: #d4af37 !important; 
         transform: translateX(5px); 
     }
-    
-    [data-testid="stRadio"] label p, div[role="radiogroup"] label p { 
+    div[role="radiogroup"] label p, [data-testid="stRadio"] label p { 
         color: #ffffff !important; 
         font-size: 15px !important; 
         margin: 0 0 0 10px !important; 
@@ -96,8 +94,8 @@ st.markdown("""
         .question-card { padding: 15px; border-left-width: 4px; }
         .question-card h4 { font-size: 13px !important; }
         .question-card p { font-size: 15px !important; line-height: 1.4 !important; }
-        div[role="radiogroup"] > label { padding: 10px !important; border-radius: 6px !important; }
-        div[role="radiogroup"] label p { font-size: 14px !important; }
+        div[role="radiogroup"] > label, [data-testid="stRadio"] label { padding: 10px !important; border-radius: 6px !important; }
+        div[role="radiogroup"] label p, [data-testid="stRadio"] label p { font-size: 14px !important; }
         div.stButton > button { font-size: 14px !important; padding: 8px 10px !important; }
     }
     </style>
@@ -374,7 +372,7 @@ Görev: Öğrenciye hem mevzuatın orijinal dayanağını göstererek güven ver
 🚨 İSTİSNANIN İSTİSNASI: (Varsa istisnayı geçersiz kılan detayı yaz, yoksa 'Bulunmamaktadır' de.)
 💡 TUZAK NOKTASI: (Soru kökünde veya şıklarda düşülmemesi gereken kelime/hesaplama tuzağı.)
 """
-                        # Hata veren sürüm kaldırıldı, lokalde stabil çalışan orijinal model eklendi.
+                        # Hata veren sürüm kaldırıldı, senin lokalinde çalışan modele dönüldü!
                         response = client.models.generate_content(
                             model='gemini-3.8-flash', 
                             contents=prompt
