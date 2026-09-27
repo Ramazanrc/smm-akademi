@@ -2,6 +2,7 @@ import streamlit as st
 import json
 import random
 import time
+import streamlit.components.v1 as components
 from google import genai
 
 # ==========================================
@@ -408,3 +409,28 @@ with colB:
         random.shuffle(st.session_state.original_questions)
         st.session_state.filtered_questions = st.session_state.original_questions[:hedef_soru_sayisi]
         st.rerun()
+        # ==========================================
+# BULUT (CLOUD) İÇİN ZORUNLU GENİŞLİK HİLESİ
+# ==========================================
+components.html(
+    """
+    <script>
+    // Streamlit bulut sunucusunun yüklenmesini bekle ve tüm radyo butonlarını zorla %100 yap
+    const forceFullWidth = () => {
+        const labels = window.parent.document.querySelectorAll('div[data-testid="stRadio"] label');
+        labels.forEach(label => {
+            label.style.width = '100%';
+            label.style.maxWidth = '100%';
+            label.style.display = 'flex';
+        });
+    };
+    
+    // Yükleme sırasında ve her tıklamada tetikle
+    window.parent.document.addEventListener('click', forceFullWidth);
+    setTimeout(forceFullWidth, 1000);
+    setTimeout(forceFullWidth, 2000);
+    </script>
+    """,
+    height=0,
+    width=0
+)
