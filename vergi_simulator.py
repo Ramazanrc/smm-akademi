@@ -4,10 +4,19 @@ import random
 import time
 from google import genai
 
-# Sayfa Ayarları
-st.set_page_config(page_title="SMM Akademi Antrenörü", page_icon="⚖️", layout="wide", initial_sidebar_state="expanded")
+# ==========================================
+# SAYFA AYARLARI
+# ==========================================
+st.set_page_config(
+    page_title="SMM Akademi Antrenörü", 
+    page_icon="⚖️", 
+    layout="wide", 
+    initial_sidebar_state="expanded"
+)
 
+# ==========================================
 # PREMIUM COMPACT CSS (MOBİL VE TABLET UYUMLU)
+# ==========================================
 st.markdown("""
     <style>
     /* Üst bar şeffaf */
@@ -23,9 +32,9 @@ st.markdown("""
     .question-card h4 { font-size: 15px !important; margin-bottom: 8px !important; color: #d4af37 !important; text-transform: uppercase; letter-spacing: 1px;}
     .question-card p { font-size: 18px !important; line-height: 1.5 !important; margin-bottom: 0 !important; }
     
-    /* Zarif ve Kompakt Şık Tasarımı */
+    /* Zarif ve Kompakt Şık Tasarımı (TAM GENİŞLİK) */
     .stRadio { width: 100% !important; margin-top: -10px !important; }
-    div[role="radiogroup"] { gap: 8px !important; }
+    div[role="radiogroup"] { gap: 10px !important; display: flex !important; flex-direction: column !important; }
     
     div[role="radiogroup"] > label {
         display: flex !important; 
@@ -34,13 +43,22 @@ st.markdown("""
         background-color: rgba(255, 255, 255, 0.03) !important;
         border: 1px solid rgba(212, 175, 55, 0.3) !important;
         border-radius: 8px !important;
-        padding: 10px 15px !important;
+        padding: 12px 15px !important;
         margin: 0 !important;
         cursor: pointer !important;
         transition: all 0.2s ease !important;
     }
-    div[role="radiogroup"] > label:hover { background-color: rgba(212, 175, 55, 0.1) !important; border-color: #d4af37 !important; transform: translateX(5px); }
-    div[role="radiogroup"] label p { color: #ffffff !important; font-size: 15px !important; margin: 0 0 0 10px !important; line-height: 1.4 !important; }
+    div[role="radiogroup"] > label:hover { 
+        background-color: rgba(212, 175, 55, 0.1) !important; 
+        border-color: #d4af37 !important; 
+        transform: translateX(5px); 
+    }
+    div[role="radiogroup"] label p { 
+        color: #ffffff !important; 
+        font-size: 15px !important; 
+        margin: 0 0 0 10px !important; 
+        line-height: 1.4 !important; 
+    }
     
     /* Aksiyon Butonları */
     div.stButton > button { background-color: #d4af37; color: #000; font-size: 15px !important; font-weight: bold; border-radius: 6px; padding: 10px 15px !important; width: 100%; border: none; transition: 0.3s; }
@@ -78,7 +96,10 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --- KİLİT SİSTEMİ BAŞLANGICI ---
+
+# ==========================================
+# KİLİT SİSTEMİ (GÜVENLİ GİRİŞ)
+# ==========================================
 def check_password():
     if "authenticated" not in st.session_state:
         st.session_state.authenticated = False
@@ -91,22 +112,25 @@ def check_password():
         with col2:
             kullanici_sifre = st.text_input("Erişim Şifresi:", type="password")
             if st.button("Sistemi Aç 🚀", use_container_width=True):
-                try:
-                    if kullanici_sifre == st.secrets["admin"]["sifre"]:
-                        st.session_state.authenticated = True
-                        st.rerun()
-                    else:
-                        st.error("❌ Hatalı şifre! Lütfen tekrar deneyin.")
-                except KeyError:
+                # Hem PASSWORD = "..." hem de [admin] sifre = "..." formatlarını destekler
+                dogru_sifre = st.secrets.get("PASSWORD", st.secrets.get("admin", {}).get("sifre"))
+                
+                if dogru_sifre and kullanici_sifre == dogru_sifre:
+                    st.session_state.authenticated = True
+                    st.rerun()
+                elif not dogru_sifre:
                     st.error("⚠️ Sistem Hatası: .streamlit/secrets.toml dosyasında şifre ayarlanmamış!")
+                else:
+                    st.error("❌ Hatalı şifre! Lütfen tekrar deneyin.")
         
-        # Doğru şifre girilene kadar kodun aşağısını okumayı DURDUR
-        st.stop() 
+        st.stop() # Doğru şifre girilene kadar kodun aşağısını okumayı DURDUR
 
 check_password()
-# --- KİLİT SİSTEMİ BİTİŞİ ---
 
-# --- AKILLI JSON TARAYICI (DİNAMİK DOSYA ADI ALIR) ---
+
+# ==========================================
+# AKILLI JSON TARAYICI
+# ==========================================
 @st.cache_data
 def sorulari_yukle(dosya_adi):
     def derin_tarama(veri, mevcut_konu="Genel Modül"):
@@ -132,7 +156,10 @@ def sorulari_yukle(dosya_adi):
     except Exception as e:
         return []
 
-# --- OTURUM YÖNETİMİ ---
+
+# ==========================================
+# OTURUM YÖNETİMİ & API KEY
+# ==========================================
 if 'ai_analiz' not in st.session_state:
     st.session_state.ai_analiz = False
 if 'ai_yanit' not in st.session_state:
@@ -147,7 +174,10 @@ try:
 except:
     API_KEY = None
 
-# --- SIDEBAR: KONTROL PANELİ ---
+
+# ==========================================
+# SIDEBAR: KONTROL PANELİ
+# ==========================================
 with st.sidebar:
     st.markdown("""
         <div class="profile-card">
@@ -159,10 +189,8 @@ with st.sidebar:
     
     st.markdown("<p class='sidebar-title' style='margin-top:20px;'>📚 Ders Seçimi</p>", unsafe_allow_html=True)
     
-    # DERS SEÇİM MENÜSÜ
     secilen_ders = st.selectbox("Çalışılacak Modülü Seçin:", ["Vergi Mevzuatı", "SPK Mevzuatı"])
     
-    # Ders değiştiyse verileri sıfırla ve yeni dersi yükle
     if secilen_ders != st.session_state.aktif_ders:
         st.session_state.aktif_ders = secilen_ders
         st.session_state.current_idx = 0
@@ -172,7 +200,6 @@ with st.sidebar:
             del st.session_state['original_questions']
         st.rerun() 
         
-    # Hangi dosyanın okunacağını belirliyoruz
     dosya_haritasi = {
         "Vergi Mevzuatı": "vergi_mevzuati.json",
         "SPK Mevzuatı": "sermaye_piyasasi.json"
@@ -197,7 +224,6 @@ with st.sidebar:
     
     max_soru = len(tum_sorular) if selected_topic == "Tüm Konular (Karma)" else len([q for q in tum_sorular if q.get('konu') == selected_topic])
 
-    # SIFIR SORU ÇÖKME KORUMASI BURADA!
     if max_soru > 0:
         hedef_soru_sayisi = st.number_input("📝 Soru Sayısı Hedefi:", min_value=1, max_value=max_soru, value=min(20, max_soru))
         if st.button("🔀 Yeni Test Başlat"):
@@ -214,14 +240,16 @@ with st.sidebar:
             st.session_state.ai_yanit = ""
             st.rerun()
     else:
-        # Dosya yoksa veya soru sayısı 0 ise numara kutusunu gizle, uyarı ver.
         hedef_soru_sayisi = 0
         st.warning(f"⚠️ '{aktif_dosya}' dosyası yüklenmemiş veya içinde soru yok!")
         
     st.divider()
     st.markdown("<p style='text-align:center; color:#888; font-size:14px;'>SMM Akademi Dijital Eğitim Ekosistemi</p>", unsafe_allow_html=True)
 
-# --- ANA EKRAN ---
+
+# ==========================================
+# ANA EKRAN (SORU MOTORU VE YAPAY ZEKA)
+# ==========================================
 st.title(f"⚖️ SMM {st.session_state.aktif_ders} Antrenörü")
 st.markdown("---")
 
@@ -259,7 +287,7 @@ st.markdown(f"""
 
 secim = st.radio("Cevabınızı seçin:", gosterilecek_secenekler, key=f"radio_{st.session_state.current_idx}", index=None)
 
-# Doğru Cevap Bulucu
+# Doğru Cevap Kontrolü
 dogru_deger = q.get('correct') if q.get('correct') is not None else (q.get('answer') if q.get('answer') is not None else q.get('cevap'))
 dogru_metin = "Cevap bulunamadı"
 
@@ -325,7 +353,6 @@ if st.session_state.show_ref:
                         client = genai.Client(api_key=API_KEY)
                         uzmanlik = "Sermaye Piyasası Mevzuatı (SPK)" if st.session_state.aktif_ders == "SPK Mevzuatı" else "Vergi Hukuku"
                         
-                        # --- YENİ EKLENEN MATRUŞKA SİSTEM KOMUTU BURADA ---
                         prompt = f"""Sen SMMM Yeterlilik {uzmanlik} alanında master yapmış bir vergi ve mevzuat analiz motorusun.
 Öğrencinin çözdüğü soru şu: "{soru_metni}"
 Doğru Cevap: "{dogru_metin}"
@@ -340,10 +367,9 @@ Görev: Öğrenciye hem mevzuatın orijinal dayanağını göstererek güven ver
 🚨 İSTİSNANIN İSTİSNASI: (Varsa istisnayı geçersiz kılan detayı yaz, yoksa 'Bulunmamaktadır' de.)
 💡 TUZAK NOKTASI: (Soru kökünde veya şıklarda düşülmemesi gereken kelime/hesaplama tuzağı.)
 """
-                        # --------------------------------------------------
-
+                        # Sürüm hatasını gidermek için en güncel ve kararlı modele sabitlendi.
                         response = client.models.generate_content(
-                            model='gemini-3.8-flash', 
+                            model='gemini-1.5-flash', 
                             contents=prompt
                         )
                         st.session_state.ai_yanit = response.text
