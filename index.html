@@ -17,6 +17,18 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
     <style>
+        /* --- MATRUŞKA TABLO STİLLERİ --- */
+        #okuma-metni table { width: 100%; border-collapse: collapse; margin-top: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); border-radius: 10px; overflow: hidden; display: block; overflow-x: auto; white-space: nowrap; }
+        #okuma-metni th { background-color: var(--dark-blue); color: white; padding: 15px; font-weight: bold; text-align: left; }
+        #okuma-metni td { padding: 12px 15px; border-bottom: 1px solid #e2e8f0; vertical-align: top; white-space: normal; }
+        #okuma-metni tr:nth-child(even) { background-color: #f8fafc; }
+        #okuma-metni tr:hover { background-color: #f1f5f9; }
+        
+        /* Karanlık Mod Tablo Uyumu */
+        body.dark-mode #okuma-metni th { background-color: #0f172a; border-bottom: 2px solid #f97316; }
+        body.dark-mode #okuma-metni td { border-bottom: 1px solid #1e293b; color: #cbd5e1; }
+        body.dark-mode #okuma-metni tr:nth-child(even) { background-color: #020617; }
+        body.dark-mode #okuma-metni tr:hover { background-color: #0f172a; }
         :root { --primary-orange: #f97316; --dark-blue: #0f172a; }
         body { background-color: #f8fafc; font-family: 'Inter', sans-serif; color: var(--dark-blue); transition: background-color 0.3s, color 0.3s; }
         .hero-section { 
@@ -584,6 +596,15 @@
                             <h3 class="fw-bold">Bağış ve Yardımlar</h3>
                             <p class="text-muted small">GVK ve KVK kapsamında bağış matrahı hesaplama, indirim oranları, KKEG detayları ve tavan sınırı şablonları.</p>
                             <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #7c3aed;">Özeti Oku</button> </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_matruska_tablosu.md', 'Vergi Mevzuatı Matruşka Tablosu')">
+                            <div class="ders-rozeti" style="background-color: #eab308;">Özel Bölüm</div>
+                            <div class="card-icon" style="color: #eab308; margin-top: 15px;"><i class="fas fa-layer-group"></i></div>
+                            <h3 class="fw-bold">Matruşka Analizi</h3>
+                            <p class="text-muted small">Tüm vergi mevzuatının Genel Kural, İstisna ve Sınav Tuzakları tek bir tabloda.</p>
+                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #eab308;">Tabloyu İncele</button> </div>
                         </div>
                     </div>
                 </div>
