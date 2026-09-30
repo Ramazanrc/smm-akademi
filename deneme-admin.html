@@ -18,7 +18,7 @@
         #raporBtn { background: #9b59b6; margin-top: 15px; } #raporBtn:hover { background: #8e44ad; }
         #durum { margin-top: 20px; font-size: 17px; font-weight: bold; color: #fbc531; background: #2f3640; padding: 15px; border-radius: 8px; border: 1px solid #fbc531;}
         
-        /* YENİ: Yönetici Sayacı CSS */
+        /* Yönetici Sayacı CSS */
         .admin-sayac { font-size: 24px; font-weight: bold; color: #fbc531; display: none; margin-bottom: 15px; border: 2px dashed #e84118; padding: 10px; border-radius: 8px;}
         .admin-sayac.tehlike { color: #e84118; animation: pulse 1s infinite; }
         @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
@@ -43,7 +43,7 @@
             <input type="number" id="sinavSuresi" value="30" min="1">
         </div>
         
-        <!-- YENİ: Yönetici Ekranında Geri Sayım -->
+        <!-- Yönetici Ekranında Geri Sayım -->
         <div id="adminSayacGosterge" class="admin-sayac">00:00</div>
 
         <button id="baslatBtn" disabled>🚀 Sınav Paketini Yükle ve Başlat</button>
@@ -80,18 +80,26 @@
 
     let anaSoruListesi = []; 
     let adminSayacInterval; 
-    let aktifDersAdi = "SMMM Yeterlilik Deneme Sınavı"; // YENİ: Ders adı değişkeni
+    let aktifDersAdi = "SMMM Yeterlilik Deneme Sınavı";
     const btnBaslat = document.getElementById('baslatBtn');
     const btnBitir = document.getElementById('bitirBtn');
     const durumYazisi = document.getElementById('durum');
     const raporBtn = document.getElementById('raporBtn');
     const adminSayacGosterge = document.getElementById('adminSayacGosterge'); 
 
+    // GERÇEK RASTGELELİK FONKSİYONU (Fisher-Yates Shuffle)
+    function gercekKaristir(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+
     document.getElementById('jsonDosya').addEventListener('change', function(e) {
         const file = e.target.files[0];
         if (!file) return;
 
-        // YENİ: Dosya adından ders adını türetiyoruz (.json uzantısını silip, alt tireleri boşluk yapıyoruz)
         let hamAd = file.name.replace(/\.json$/i, '');
         aktifDersAdi = hamAd.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
 
@@ -109,7 +117,6 @@
                 }
                 
                 if(anaSoruListesi.length > 0) {
-                    // Durum yazısında seçilen dersin adını da gösteriyoruz
                     durumYazisi.innerHTML = `✅ <b>${aktifDersAdi}</b> havuzuna ${anaSoruListesi.length} soru çekildi. Başlatmaya hazır.`;
                     durumYazisi.style.color = "#4cd137";
                     document.getElementById('hedefSoru').max = anaSoruListesi.length;
@@ -128,12 +135,53 @@
         let sure = parseInt(document.getElementById('sinavSuresi').value);
         if(limit > anaSoruListesi.length) limit = anaSoruListesi.length;
         
-        for (let i = anaSoruListesi.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [anaSoruListesi[i], anaSoruListesi[j]] = [anaSoruListesi[j], anaSoruListesi[i]];
+        let paketSorular = [];
+
+        // EĞER DERS VERGİ MEVZUATI İSE (Dosya adında vergi geçiyorsa) SAYISAL/SÖZEL AYRIMI YAP
+        if (aktifDersAdi.toLowerCase().includes("vergi")) {
+            let sayisalHavuz = [];
+            let sozelHavuz = [];
+
+            anaSoruListesi.forEach(q => {
+                let rakamliSikSayisi = 0;
+                let seceneklerDizisi = q.options || q.secenekler || [];
+                
+                if (!Array.isArray(seceneklerDizisi) && typeof seceneklerDizisi === 'object') {
+                    seceneklerDizisi = Object.values(seceneklerDizisi);
+                }
+
+                seceneklerDizisi.forEach(opt => {
+                    if (/\d/.test(String(opt))) { rakamliSikSayisi++; }
+                });
+
+                if (rakamliSikSayisi >= 2) sayisalHavuz.push(q);
+                else sozelHavuz.push(q);
+            });
+
+            gercekKaristir(sayisalHavuz);
+            gercekKaristir(sozelHavuz);
+
+            let hedefSayisal = 7;
+            if (limit < 20) hedefSayisal = Math.floor(limit * 0.35); // Eğer limit 20'den azsa orantılı sayısal seç
+
+            if (sayisalHavuz.length < hedefSayisal) hedefSayisal = sayisalHavuz.length;
+            let hedefSozel = limit - hedefSayisal;
+
+            paketSorular = [
+                ...sayisalHavuz.slice(0, hedefSayisal),
+                ...sozelHavuz.slice(0, hedefSozel)
+            ];
+            
+            // Dağılımı testin içine serpiştir
+            gercekKaristir(paketSorular);
+        } 
+        else {
+            // DİĞER DERSLER İÇİN SADECE GERÇEK RASTGELE KARIŞTIRMA YAP (Eski Aynı Soru Sorununu Çözer)
+            let kopyaListe = [...anaSoruListesi];
+            gercekKaristir(kopyaListe);
+            paketSorular = kopyaListe.slice(0, limit);
         }
-        let paketSorular = anaSoruListesi.slice(0, limit);
-        
+
         let formatliSorular = paketSorular.map((jsonSoru, index) => {
             const harfler = ["A", "B", "C", "D", "E"];
             let dogruIndex = jsonSoru.answer !== undefined ? jsonSoru.answer : jsonSoru.correct;
@@ -158,7 +206,6 @@
         } catch (e) { console.error("Temizleme hatası:", e); }
 
         try {
-            // YENİ: Firebase'e ders_adi parametresini gönderiyoruz
             await setDoc(doc(db, "aktif_sinav", "deneme_paketi"), {
                 sorular: formatliSorular, 
                 toplam_sure_dk: sure, 
