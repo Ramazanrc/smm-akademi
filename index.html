@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-    
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
     <meta charset="UTF-8">
@@ -15,7 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
+    <script src="bulmaca_verileri.js"></script>
     <style>
         /* --- MATRUŞKA TABLO STİLLERİ --- */
         #okuma-metni table { width: 100%; border-collapse: collapse; margin-top: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); border-radius: 10px; overflow: hidden; display: block; overflow-x: auto; white-space: nowrap; }
@@ -34,7 +33,7 @@
         .hero-section { 
             background: linear-gradient(135deg, var(--dark-blue) 0%, #1e293b 100%); 
             color: white; padding: 80px 0; border-bottom: 8px solid var(--primary-orange);
-            position: relative; /* Buton yerleşimi için eklendi */
+            position: relative;
         }
         .lesson-card { 
             transition: all 0.3s ease; cursor: pointer; border: none; 
@@ -90,22 +89,14 @@
 
         /* --- ÖZET KARTLARINDA HİYERARŞİ (DERS ROZETİ) --- */
         .ders-rozeti {
-            position: absolute; 
-            top: -15px; 
-            left: 50%; 
-            transform: translateX(-50%); 
-            background: var(--primary-orange); 
-            color: white; 
-            padding: 6px 20px; 
-            border-radius: 20px; 
-            font-size: 0.95rem; 
-            font-weight: 900; 
-            letter-spacing: 1px; 
-            box-shadow: 0 4px 10px rgba(249, 115, 22, 0.3);
+            position: absolute; top: -15px; left: 50%; transform: translateX(-50%); 
+            background: var(--primary-orange); color: white; padding: 6px 20px; 
+            border-radius: 20px; font-size: 0.95rem; font-weight: 900; 
+            letter-spacing: 1px; box-shadow: 0 4px 10px rgba(249, 115, 22, 0.3);
             text-transform: uppercase;
         }
 
-        /* --- OKUMA EKRANI STİLLERİ (RENKLİ BAŞLIKLAR) --- */
+        /* --- OKUMA EKRANI STİLLERİ --- */
         #okuma-ekrani {
             background: white; padding: 40px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.05);
             display: none; animation: fadeIn 0.4s; transition: background 0.3s;
@@ -142,7 +133,6 @@
         .countdown-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.9); backdrop-filter: blur(15px); display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 100001; color: white; }
         #countdown-number { font-size: 8rem; font-weight: 900; color: #f97316; text-shadow: 0 0 30px rgba(249, 115, 22, 0.6); margin-bottom: 10px; }
         .countdown-text { font-size: 2rem; font-weight: 700; letter-spacing: 5px; }
-        @media (max-width: 768px) { .hero-banner { flex-direction: column; text-align: center; } .hero-icon { margin-top: 20px; } }
         
         #kilit-ekrani { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #0f172a; z-index: 99999; display: flex; align-items: center; justify-content: center; flex-direction: column; color: white; font-family: 'Inter', sans-serif; transition: background 0.3s; }
         .kilit-kutu { background: white; color: #333; padding: 40px 30px; border-radius: 12px; text-align: center; box-shadow: 0 15px 30px rgba(0,0,0,0.5); max-width: 400px; width: 90%; border-top: 5px solid #f97316; transition: background 0.3s; }
@@ -152,91 +142,52 @@
         .kilit-kutu button:hover { background: #ea580c; }
         .yasal-uyari-metni { margin-top: 30px; font-size: 12px; color: #94a3b8; text-align: center; max-width: 600px; padding: 0 20px; line-height: 1.5; }
 
-        /* --- YENİ EKLENEN: DARK MODE KODLARI --- */
-        body.dark-mode {
-            background-color: #020617 !important;
-            color: #f8fafc !important;
-        }
-        body.dark-mode .lesson-card {
-            background: #0f172a !important;
-            border: 1px solid #1e293b;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.5);
-        }
-        body.dark-mode .lesson-card:hover {
-            box-shadow: 0 10px 25px rgba(249,115,22,0.2);
-            border-color: #f97316;
-        }
-        body.dark-mode .mode-switcher {
-            background: #0f172a !important;
-            border: 1px solid #1e293b;
-        }
-        body.dark-mode .mode-btn {
-            color: #94a3b8;
-        }
-        body.dark-mode .mode-btn.active {
-            background: #1e293b;
-            color: #f97316;
-        }
-        body.dark-mode #okuma-ekrani, 
-        body.dark-mode .modal-content-custom,
-        body.dark-mode .kilit-kutu {
-            background: #0f172a !important;
-            border: 1px solid #1e293b;
-            color: #f8fafc !important;
-        }
-        body.dark-mode #okuma-metni p, 
-        body.dark-mode #okuma-metni li,
-        body.dark-mode .modal-header-custom h2,
-        body.dark-mode .user-input-section label,
-        body.dark-mode .exam-summary,
-        body.dark-mode .kilit-kutu h2 {
-            color: #e2e8f0 !important;
-        }
-        body.dark-mode #okuma-metni strong {
-            color: #f97316 !important;
-        }
-        body.dark-mode .user-input-section {
-            background: #1e293b !important;
-        }
-        body.dark-mode .user-input-section input {
-            background: #0f172a;
-            color: white;
-            border-color: #334155;
-        }
-        body.dark-mode .chip {
-            background: #1e293b !important;
-            border-color: #334155 !important;
-            color: #cbd5e1 !important;
-        }
-        body.dark-mode .chip:hover {
-            background: #334155 !important;
-        }
-        body.dark-mode .chip.selected {
-            background: #f97316 !important;
-            color: white !important;
-            border-color: #f97316 !important;
-        }
-        body.dark-mode .modal-header-custom {
-            border-bottom-color: #1e293b;
-        }
-        body.dark-mode #okuma-metni h1, 
-        body.dark-mode #okuma-metni h2 {
-            border-bottom-color: #1e293b !important;
-        }
-        body.dark-mode #kilit-ekrani {
-            background: #020617 !important;
-        }
-        body.dark-mode .kilit-kutu input {
-            background: #1e293b;
-            color: white;
-            border-color: #334155;
-        }
-        /* Ana ekrandaki Bootstrap text-muted (silik) yazılarını aydınlatma */
-        body.dark-mode .text-muted { color: #94a3b8 !important;
-        }
-        /* Karanlık modda kart içindeki ders isimlerini ve diğer tüm başlıkları aydınlatma */
+        /* --- BULMACA MODU STİLLERİ --- */
+        #bulmaca-modu-icerik { text-align: center; animation: fadeIn 0.4s; }
+        .crossword-container { display: flex; justify-content: center; overflow-x: auto; padding: 10px 0; }
+        #crossword-grid { display: grid; gap: 2px; background-color: var(--dark-blue); padding: 10px; border-radius: 10px; border: 4px solid var(--dark-blue); }
+        .cw-cell { width: 40px; height: 40px; background-color: transparent; position: relative; }
+        .cw-input { width: 100%; height: 100%; text-align: center; font-size: 1.2rem; font-weight: bold; text-transform: uppercase; border: 1px solid #cbd5e1; border-radius: 4px; outline: none; transition: 0.2s; color: var(--dark-blue); }
+        .cw-input:focus { border: 2px solid var(--primary-orange); background-color: #fff7ed; z-index: 10; position: relative; }
+        .cw-input.correct { background-color: #dcfce3; color: #166534; border-color: #22c55e; }
+        .cw-input.wrong { background-color: #fee2e2; color: #991b1b; border-color: #ef4444; }
+        .cw-number { position: absolute; top: 2px; left: 2px; font-size: 0.65rem; font-weight: 900; color: #64748b; z-index: 5; pointer-events: none; }
+        .cw-clues { margin-top: 20px; text-align: left; background: white; padding: 25px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); height: 100%; }
+        .cw-clues h4 { color: var(--primary-orange); border-bottom: 2px solid #f1f5f9; padding-bottom: 10px; font-weight: 800; }
+        .cw-clues ul { list-style: none; padding-left: 0; }
+        .cw-clues li { margin-bottom: 12px; font-size: 1.05rem; color: #475569; border-bottom: 1px dashed #e2e8f0; padding-bottom: 8px; }
+        .cw-clues strong { display: inline-block; width: 30px; color: var(--dark-blue); font-size: 1.1rem; }
+
+        /* --- DARK MODE KODLARI --- */
+        body.dark-mode { background-color: #020617 !important; color: #f8fafc !important; }
+        body.dark-mode .lesson-card { background: #0f172a !important; border: 1px solid #1e293b; box-shadow: 0 5px 15px rgba(0,0,0,0.5); }
+        body.dark-mode .lesson-card:hover { box-shadow: 0 10px 25px rgba(249,115,22,0.2); border-color: #f97316; }
+        body.dark-mode .mode-switcher { background: #0f172a !important; border: 1px solid #1e293b; }
+        body.dark-mode .mode-btn { color: #94a3b8; }
+        body.dark-mode .mode-btn.active { background: #1e293b; color: #f97316; }
+        body.dark-mode #okuma-ekrani, body.dark-mode .modal-content-custom, body.dark-mode .kilit-kutu { background: #0f172a !important; border: 1px solid #1e293b; color: #f8fafc !important; }
+        body.dark-mode #okuma-metni p, body.dark-mode #okuma-metni li, body.dark-mode .modal-header-custom h2, body.dark-mode .user-input-section label, body.dark-mode .exam-summary, body.dark-mode .kilit-kutu h2 { color: #e2e8f0 !important; }
+        body.dark-mode #okuma-metni strong { color: #f97316 !important; }
+        body.dark-mode .user-input-section { background: #1e293b !important; }
+        body.dark-mode .user-input-section input { background: #0f172a; color: white; border-color: #334155; }
+        body.dark-mode .chip { background: #1e293b !important; border-color: #334155 !important; color: #cbd5e1 !important; }
+        body.dark-mode .chip:hover { background: #334155 !important; }
+        body.dark-mode .chip.selected { background: #f97316 !important; color: white !important; border-color: #f97316 !important; }
+        body.dark-mode .modal-header-custom { border-bottom-color: #1e293b; }
+        body.dark-mode #okuma-metni h1, body.dark-mode #okuma-metni h2 { border-bottom-color: #1e293b !important; }
+        body.dark-mode #kilit-ekrani { background: #020617 !important; }
+        body.dark-mode .kilit-kutu input { background: #1e293b; color: white; border-color: #334155; }
+        body.dark-mode .text-muted { color: #94a3b8 !important; }
         body.dark-mode h3 { color: #f8fafc !important; }
-        /* ---------------------------------------- */
+
+        /* Dark Mode Bulmaca Uyumu */
+        body.dark-mode #crossword-grid { border-color: #f97316; }
+        body.dark-mode .cw-input { background-color: #1e293b; border-color: #334155; color: white; }
+        body.dark-mode .cw-input:focus { background-color: #0f172a; border-color: #f97316; }
+        body.dark-mode .cw-clues { background: #0f172a !important; border: 1px solid #1e293b; }
+        body.dark-mode .cw-clues li { color: #cbd5e1; border-bottom-color: #1e293b; }
+        body.dark-mode .cw-clues strong { color: #f97316; }
+        body.dark-mode .cw-number { color: #94a3b8; }
     </style>
 </head>
 <body>
@@ -273,9 +224,11 @@
         <div class="mode-switcher">
             <button id="btn-test" class="mode-btn active" onclick="setMode('test')">🎯 Test Çözüm Modu</button>
             <button id="btn-ozet" class="mode-btn" onclick="setMode('ozet')">📚 Çalışma (Özet) Modu</button>
+            <button id="btn-bulmaca" class="mode-btn" onclick="setMode('bulmaca')">🧩 Bulmaca Modu</button>
         </div>
     </div>
 
+    <!-- TEST MODU -->
     <div id="test-modu-icerik">
         <div id="exam-hero-banner" class="hero-banner mt-3">
             <div class="hero-text">
@@ -289,494 +242,208 @@
         </div>
 
         <div class="row g-4 justify-content-start mt-2">
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('deneme_sinavi')">
-                    <div class="card-icon"><i class="fas fa-pen"></i></div>
-                    <h3 class="fw-bold">Deneme Sınavı</h3>
-                    <p class="text-muted small">Hazır kurumsal denemeler.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('vergi')">
-                    <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
-                    <h3 class="fw-bold">Vergi Hukuku</h3>
-                    <p class="text-muted small">Teknik analizli ve güncel mevzuat odaklı sorular.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('muhasebe')">
-                    <div class="card-icon"><i class="fas fa-calculator"></i></div>
-                    <h3 class="fw-bold">Muhasebe Denetimi</h3>
-                    <p class="text-muted small">SMM standartlarında hesap planı ve uygulama testleri.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('meslek')">
-                    <div class="card-icon"><i class="fas fa-gavel"></i></div>
-                    <h3 class="fw-bold">Meslek Hukuku</h3>
-                    <p class="text-muted small">3568 Sayılı Kanun ve Yönetmelikler.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('sermaye')">
-                    <div class="card-icon"><i class="fas fa-chart-line"></i></div>
-                    <h3 class="fw-bold">Sermaye Piyasası</h3>
-                    <p class="text-muted small">SPK Kanunu ve yatırım araçları mevzuatı.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('maliyet')">
-                    <div class="card-icon"><i class="fas fa-chart-line"></i></div>
-                    <h3 class="fw-bold">Maliyet Muhasebesi</h3>
-                    <p class="text-muted small">Kapsamına göre maliyetler, safha maliyeti, dağıtımlar ve bütçe farkları üzerine uzmanlaşın.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('finansal_analiz')">
-                    <div class="card-icon"><i class="fas fa-search-dollar"></i></div>
-                    <h3 class="fw-bold">Finansal Tablolar Analizi</h3>
-                    <p class="text-muted small">Bilanço, gelir tablosu, rasyo analizleri ve yatay/dikey analiz tekniklerinde uzmanlaşın.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('temel_hukuk')">
-                    <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
-                    <h3 class="fw-bold">Temel Hukuk</h3>
-                    <p class="text-muted small">Borçlar, İş ve Ticaret Hukuku alt dallarında kanun ve mevzuat testleri.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('finansal_muhasebe')">
-                    <div class="card-icon"><i class="fas fa-balance-scale"></i></div>
-                    <h3 class="fw-bold">Finansal Muhasebe</h3>
-                    <p class="text-muted small">Hesaplar, Mali Tablolar, Hesap İşleyişleri, Açılış ve Kapanış İşlemleri</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('yeterlilik')">
-                    <div class="card-icon"><i class="fas fa-history"></i></div>
-                    <h3 class="fw-bold">Yeterlilik Çıkmış Sorular</h3>
-                    <p class="text-muted small">Çıkmış sınav soruları ve analizleri.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="card lesson-card text-center p-4 h-100" onclick="derseGit('sgs')">
-                    <div class="card-icon"><i class="fas fa-history"></i></div>
-                    <h3 class="fw-bold">SGS Çıkmış Sorular</h3>
-                    <p class="text-muted small">Son 10 yılın çıkmış sınav soruları ve analizleri.</p>
-                    <div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div>
-                </div>
-            </div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('deneme_sinavi')"><div class="card-icon"><i class="fas fa-pen"></i></div><h3 class="fw-bold">Deneme Sınavı</h3><p class="text-muted small">Hazır kurumsal denemeler.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('vergi')"><div class="card-icon"><i class="fas fa-balance-scale"></i></div><h3 class="fw-bold">Vergi Hukuku</h3><p class="text-muted small">Teknik analizli ve güncel mevzuat odaklı sorular.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('muhasebe')"><div class="card-icon"><i class="fas fa-calculator"></i></div><h3 class="fw-bold">Muhasebe Denetimi</h3><p class="text-muted small">SMM standartlarında hesap planı ve uygulama testleri.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('meslek')"><div class="card-icon"><i class="fas fa-gavel"></i></div><h3 class="fw-bold">Meslek Hukuku</h3><p class="text-muted small">3568 Sayılı Kanun ve Yönetmelikler.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('sermaye')"><div class="card-icon"><i class="fas fa-chart-line"></i></div><h3 class="fw-bold">Sermaye Piyasası</h3><p class="text-muted small">SPK Kanunu ve yatırım araçları mevzuatı.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('maliyet')"><div class="card-icon"><i class="fas fa-chart-line"></i></div><h3 class="fw-bold">Maliyet Muhasebesi</h3><p class="text-muted small">Kapsamına göre maliyetler, safha maliyeti, dağıtımlar ve bütçe farkları üzerine uzmanlaşın.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('finansal_analiz')"><div class="card-icon"><i class="fas fa-search-dollar"></i></div><h3 class="fw-bold">Finansal Tablolar Analizi</h3><p class="text-muted small">Bilanço, gelir tablosu, rasyo analizleri ve yatay/dikey analiz tekniklerinde uzmanlaşın.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('temel_hukuk')"><div class="card-icon"><i class="fas fa-balance-scale"></i></div><h3 class="fw-bold">Temel Hukuk</h3><p class="text-muted small">Borçlar, İş ve Ticaret Hukuku alt dallarında kanun ve mevzuat testleri.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('finansal_muhasebe')"><div class="card-icon"><i class="fas fa-balance-scale"></i></div><h3 class="fw-bold">Finansal Muhasebe</h3><p class="text-muted small">Hesaplar, Mali Tablolar, Hesap İşleyişleri, Açılış ve Kapanış İşlemleri</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('yeterlilik')"><div class="card-icon"><i class="fas fa-history"></i></div><h3 class="fw-bold">Yeterlilik Çıkmış Sorular</h3><p class="text-muted small">Çıkmış sınav soruları ve analizleri.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
+            <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="derseGit('sgs')"><div class="card-icon"><i class="fas fa-history"></i></div><h3 class="fw-bold">SGS Çıkmış Sorular</h3><p class="text-muted small">Son 10 yılın çıkmış sınav soruları ve analizleri.</p><div class="mt-auto"> <button class="btn btn-start">Soruları Çöz</button> </div></div></div>
         </div>
     </div> 
 
+    <!-- ÖZET MODU -->
     <div id="ozet-modu-icerik" style="display:none; margin-top: 30px;">
         <h3 class="mb-4 fw-bold" style="color: var(--dark-blue);">Konu Özetleri (Fasiküller)</h3>
         
         <div id="ozet-kartlari">
-            
             <div id="ana-dersler-vitrini" class="row g-4">
-                
-                <div class="col-md-6 col-lg-4">
-                    <div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-vergi')">
-                        <div class="card-icon" style="color: #ef4444;"><i class="fas fa-balance-scale"></i></div>
-                        <h3 class="fw-bold">Vergi Mevzuatı</h3>
-                        <p class="text-muted small">GVK, KVK, VUK, KDV ve diğer tüm vergi kanunları.</p>
-                        <div class="mt-auto"> <button class="btn btn-start" style="background-color: #ef4444;">Konuları Gör</button> </div>
-                    </div>
-                </div>
+                <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-vergi')"><div class="card-icon" style="color: #ef4444;"><i class="fas fa-balance-scale"></i></div><h3 class="fw-bold">Vergi Mevzuatı</h3><p class="text-muted small">GVK, KVK, VUK, KDV ve diğer tüm vergi kanunları.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #ef4444;">Konuları Gör</button> </div></div></div>
+                <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-finansal-muh')"><div class="card-icon" style="color: #2563eb;"><i class="fas fa-calculator"></i></div><h3 class="fw-bold">Finansal Muhasebe</h3><p class="text-muted small">Dönem içi, dönem sonu kayıtları ve mali tablolar.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #2563eb;">Konuları Gör</button> </div></div></div>
+                <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-maliyet')"><div class="card-icon" style="color: #8b5cf6;"><i class="fas fa-chart-line"></i></div><h3 class="fw-bold">Maliyet Muhasebesi</h3><p class="text-muted small">Dağıtımlar, safha maliyeti ve standart maliyetler.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #8b5cf6;">Konuları Gör</button> </div></div></div>
+                <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-analiz')"><div class="card-icon" style="color: #10b981;"><i class="fas fa-search-dollar"></i></div><h3 class="fw-bold">Finansal Analiz</h3><p class="text-muted small">Rasyo analizleri, devir hızları ve yorumlamalar.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #10b981;">Konuları Gör</button> </div></div></div>
+                <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-denetim')"><div class="card-icon" style="color: #f59e0b;"><i class="fas fa-clipboard-check"></i></div><h3 class="fw-bold">Muhasebe Denetimi</h3><p class="text-muted small">Denetim standartları, kanıtlar ve raporlama.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #f59e0b;">Konuları Gör</button> </div></div></div>
+                <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-spk')"><div class="card-icon" style="color: #7c3aed;"><i class="fas fa-chart-pie"></i></div><h3 class="fw-bold">SPK Mevzuatı</h3><p class="text-muted small">Sermaye piyasası kanunu ve uygulamaları.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #7c3aed;">Konuları Gör</button> </div></div></div>
+                <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-temel-hukuk')"><div class="card-icon" style="color: #d97706;"><i class="fas fa-gavel"></i></div><h3 class="fw-bold">Temel Hukuk</h3><p class="text-muted small">Borçlar, İş, Ticaret ve İdari Yargı hukukları.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #d97706;">Konuları Gör</button> </div></div></div>
+                <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-meslek')"><div class="card-icon" style="color: #059669;"><i class="fas fa-balance-scale"></i></div><h3 class="fw-bold">Meslek Hukuku</h3><p class="text-muted small">3568 Sayılı kanun, disiplin kuralları ve haksız rekabet.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #059669;">Konuları Gör</button> </div></div></div>
+            </div> 
 
-                <div class="col-md-6 col-lg-4">
-                    <div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-finansal-muh')">
-                        <div class="card-icon" style="color: #2563eb;"><i class="fas fa-calculator"></i></div>
-                        <h3 class="fw-bold">Finansal Muhasebe</h3>
-                        <p class="text-muted small">Dönem içi, dönem sonu kayıtları ve mali tablolar.</p>
-                        <div class="mt-auto"> <button class="btn btn-start" style="background-color: #2563eb;">Konuları Gör</button> </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                    <div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-maliyet')">
-                        <div class="card-icon" style="color: #8b5cf6;"><i class="fas fa-chart-line"></i></div>
-                        <h3 class="fw-bold">Maliyet Muhasebesi</h3>
-                        <p class="text-muted small">Dağıtımlar, safha maliyeti ve standart maliyetler.</p>
-                        <div class="mt-auto"> <button class="btn btn-start" style="background-color: #8b5cf6;">Konuları Gör</button> </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                    <div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-analiz')">
-                        <div class="card-icon" style="color: #10b981;"><i class="fas fa-search-dollar"></i></div>
-                        <h3 class="fw-bold">Finansal Analiz</h3>
-                        <p class="text-muted small">Rasyo analizleri, devir hızları ve yorumlamalar.</p>
-                        <div class="mt-auto"> <button class="btn btn-start" style="background-color: #10b981;">Konuları Gör</button> </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                    <div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-denetim')">
-                        <div class="card-icon" style="color: #f59e0b;"><i class="fas fa-clipboard-check"></i></div>
-                        <h3 class="fw-bold">Muhasebe Denetimi</h3>
-                        <p class="text-muted small">Denetim standartları, kanıtlar ve raporlama.</p>
-                        <div class="mt-auto"> <button class="btn btn-start" style="background-color: #f59e0b;">Konuları Gör</button> </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                    <div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-spk')">
-                        <div class="card-icon" style="color: #7c3aed;"><i class="fas fa-chart-pie"></i></div>
-                        <h3 class="fw-bold">SPK Mevzuatı</h3>
-                        <p class="text-muted small">Sermaye piyasası kanunu ve uygulamaları.</p>
-                        <div class="mt-auto"> <button class="btn btn-start" style="background-color: #7c3aed;">Konuları Gör</button> </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                    <div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-temel-hukuk')">
-                        <div class="card-icon" style="color: #d97706;"><i class="fas fa-gavel"></i></div>
-                        <h3 class="fw-bold">Temel Hukuk</h3>
-                        <p class="text-muted small">Borçlar, İş, Ticaret ve İdari Yargı hukukları.</p>
-                        <div class="mt-auto"> <button class="btn btn-start" style="background-color: #d97706;">Konuları Gör</button> </div>
-                    </div>
-                </div>
-
-                <div class="col-md-6 col-lg-4">
-                    <div class="card lesson-card text-center p-4 h-100" onclick="altDersleriGoster('klasor-meslek')">
-                        <div class="card-icon" style="color: #059669;"><i class="fas fa-balance-scale"></i></div>
-                        <h3 class="fw-bold">Meslek Hukuku</h3>
-                        <p class="text-muted small">3568 Sayılı kanun, disiplin kuralları ve haksız rekabet.</p>
-                        <div class="mt-auto"> <button class="btn btn-start" style="background-color: #059669;">Konuları Gör</button> </div>
-                    </div>
-                </div>
-
-                                
-            </div> <div id="klasor-vergi" class="alt-konu-konteyner" style="display: none;">
+            <!-- ÖZET ALT KLASÖRLERİ -->
+            <div id="klasor-vergi" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-vergi')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
                 <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('gelir_vergisi_ozeti.md', 'Gelir Vergisi Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #10b981; margin-top: 15px;"><i class="fas fa-book-reader"></i></div>
-                            <h3 class="fw-bold">Gelir Vergisi</h3>
-                            <p class="text-muted small">Tüm GVK maddeleri ve güncel hadler.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #10b981;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('kurumlar_vergisi_ozeti.md', 'Kurumlar Vergisi Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #3b82f6; margin-top: 15px;"><i class="fas fa-building"></i></div>
-                            <h3 class="fw-bold">Kurumlar Vergisi</h3>
-                            <p class="text-muted small">Kurum kazancı, istisnalar ve beyanlar.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #3b82f6;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('aatuhk_ozeti.md', '6183 Sayılı AATUHK Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #ef4444; margin-top: 15px;"><i class="fas fa-balance-scale-left"></i></div>
-                            <h3 class="fw-bold">AATUHK (6183)</h3>
-                            <p class="text-muted small">Tahsil usulü, ihtiyati haciz, tecil ve zamanaşımı.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #ef4444;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vuk_ozeti.md', 'Vergi Usul Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #f59e0b; margin-top: 15px;"><i class="fas fa-gavel"></i></div>
-                            <h3 class="fw-bold">Vergi Usul Kanunu</h3>
-                            <p class="text-muted small">Mükellefiyet, değerleme, cezalar ve uzlaşma.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #f59e0b;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('kdv_ozeti.md', 'Katma Değer Vergisi Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #8b5cf6; margin-top: 15px;"><i class="fas fa-percentage"></i></div>
-                            <h3 class="fw-bold">KDV Kanunu</h3>
-                            <p class="text-muted small">Teslim, hizmet, istisnalar ve indirim mekanizması.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #8b5cf6;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('otv_ozeti.md', 'Özel Tüketim Vergisi Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #ec4899; margin-top: 15px;"><i class="fas fa-car"></i></div>
-                            <h3 class="fw-bold">ÖTV Kanunu</h3>
-                            <p class="text-muted small">Listeler, teslim sayıları haller ve tecil-terkin.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #ec4899;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('damga_vergisi_ozeti.md', 'Damga Vergisi Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #6366f1; margin-top: 15px;"><i class="fas fa-stamp"></i></div>
-                            <h3 class="fw-bold">Damga Vergisi</h3>
-                            <p class="text-muted small">Kağıtlar, nispi/maktu oranlar ve mükellefiyet.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #6366f1;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('harclar_kanunu_ozeti.md', 'Harçlar Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #14b8a6; margin-top: 15px;"><i class="fas fa-file-signature"></i></div>
-                            <h3 class="fw-bold">Harçlar Kanunu</h3>
-                            <p class="text-muted small">Yargı, noter, tapu ve kadastro harçları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #14b8a6;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('mtv_ozeti.md', 'Motorlu Taşıtlar Vergisi Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #f97316; margin-top: 15px;"><i class="fas fa-truck"></i></div>
-                            <h3 class="fw-bold">MTV Kanunu</h3>
-                            <p class="text-muted small">Taşıt tanımları, tarifeler ve ödeme zamanları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #f97316;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('viv_ozeti.md', 'Veraset ve İntikal Vergisi Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #64748b; margin-top: 15px;"><i class="fas fa-hand-holding-heart"></i></div>
-                            <h3 class="fw-bold">Veraset ve İntikal</h3>
-                            <p class="text-muted small">Miras, ivazsız intikaller ve beyanname süreleri.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #64748b;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('emlak_vergisi_ozeti.md', 'Emlak Vergisi Kanunu Özeti')">
-                            <div class="ders-rozeti">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #b45309; margin-top: 15px;"><i class="fas fa-city"></i></div>
-                            <h3 class="fw-bold">Emlak Vergisi</h3>
-                            <p class="text-muted small">Bina, arazi ve değerli konut vergisi detayları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #b45309;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_mevzuati_sureler.md', 'Vergi Mevzuatı Süreler ve Bildirimler')">
-                            <div class="ders-rozeti" style="background-color: #dc2626;">Vergi</div>
-                            <div class="card-icon" style="color: #dc2626; margin-top: 15px;"><i class="fas fa-history"></i></div>
-                            <h3 class="fw-bold">Vergi Mevzuatı Süreler ve Bildirimler</h3>
-                            <p class="text-muted small">İşe başlama/bırakma, VİV beyan, dava açma, ödeme emrine itiraz, uzlaşma ve yasal ödeme vadeleri özeti.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #dc2626;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_el_yazmasi_notlar.md', 'Vergi El Yazması Notlar')">
-                            <div class="ders-rozeti" style="background-color: #dc2626;">Vergi</div>
-                            <div class="card-icon" style="color: #dc2626; margin-top: 15px;"><i class="fas fa-history"></i></div>
-                            <h3 class="fw-bold">Vergi El Yazması Notlar</h3>
-                            <p class="text-muted small">Vergi hukuku kaynakları, tarafları, sorumlukları, vergi süreci, vergi suç ve cezalar özeti.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #dc2626;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_istisnalari.md', 'Vergi Mevzuatı Komisyon Tuzakları')">
-                            <div class="ders-rozeti" style="background-color: #f97316;">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #ef4444; margin-top: 15px;"><i class="fas fa-exclamation-triangle"></i></div>
-                            <h3 class="fw-bold">Komisyon Tuzakları ve İstisnalar</h3>
-                            <p class="text-muted small">KDV, GVK, KVK ve diğer kanunlardaki en kritik istisnalar, ince detaylar ve hayat kurtaran hap bilgiler.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #ef4444;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                         <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('bagis_ve_yardimlar_hap_bilgi.md', 'Bağış ve Yardımlar İndirimi')">
-                            <div class="ders-rozeti" style="background-color: #8b5cf6;">Vergi Mevzuatı</div>
-                            <div class="card-icon" style="color: #7c3aed; margin-top: 15px;"><i class="fas fa-hand-holding-heart"></i></div>
-                            <h3 class="fw-bold">Bağış ve Yardımlar</h3>
-                            <p class="text-muted small">GVK ve KVK kapsamında bağış matrahı hesaplama, indirim oranları, KKEG detayları ve tavan sınırı şablonları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #7c3aed;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_matruska_tablosu.md', 'Vergi Mevzuatı Matruşka Tablosu')">
-                            <div class="ders-rozeti" style="background-color: #eab308;">Özel Bölüm</div>
-                            <div class="card-icon" style="color: #eab308; margin-top: 15px;"><i class="fas fa-layer-group"></i></div>
-                            <h3 class="fw-bold">Matruşka Analizi</h3>
-                            <p class="text-muted small">Tüm vergi mevzuatının Genel Kural, İstisna ve Sınav Tuzakları tek bir tabloda.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #eab308;">Tabloyu İncele</button> </div>
-                        </div>
-                    </div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('gelir_vergisi_ozeti.md', 'Gelir Vergisi Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #10b981; margin-top: 15px;"><i class="fas fa-book-reader"></i></div><h3 class="fw-bold">Gelir Vergisi</h3><p class="text-muted small">Tüm GVK maddeleri ve güncel hadler.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #10b981;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('kurumlar_vergisi_ozeti.md', 'Kurumlar Vergisi Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #3b82f6; margin-top: 15px;"><i class="fas fa-building"></i></div><h3 class="fw-bold">Kurumlar Vergisi</h3><p class="text-muted small">Kurum kazancı, istisnalar ve beyanlar.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #3b82f6;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('aatuhk_ozeti.md', '6183 Sayılı AATUHK Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #ef4444; margin-top: 15px;"><i class="fas fa-balance-scale-left"></i></div><h3 class="fw-bold">AATUHK (6183)</h3><p class="text-muted small">Tahsil usulü, ihtiyati haciz, tecil ve zamanaşımı.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #ef4444;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vuk_ozeti.md', 'Vergi Usul Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #f59e0b; margin-top: 15px;"><i class="fas fa-gavel"></i></div><h3 class="fw-bold">Vergi Usul Kanunu</h3><p class="text-muted small">Mükellefiyet, değerleme, cezalar ve uzlaşma.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #f59e0b;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('kdv_ozeti.md', 'Katma Değer Vergisi Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #8b5cf6; margin-top: 15px;"><i class="fas fa-percentage"></i></div><h3 class="fw-bold">KDV Kanunu</h3><p class="text-muted small">Teslim, hizmet, istisnalar ve indirim mekanizması.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #8b5cf6;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('otv_ozeti.md', 'Özel Tüketim Vergisi Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #ec4899; margin-top: 15px;"><i class="fas fa-car"></i></div><h3 class="fw-bold">ÖTV Kanunu</h3><p class="text-muted small">Listeler, teslim sayıları haller ve tecil-terkin.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #ec4899;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('damga_vergisi_ozeti.md', 'Damga Vergisi Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #6366f1; margin-top: 15px;"><i class="fas fa-stamp"></i></div><h3 class="fw-bold">Damga Vergisi</h3><p class="text-muted small">Kağıtlar, nispi/maktu oranlar ve mükellefiyet.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #6366f1;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('harclar_kanunu_ozeti.md', 'Harçlar Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #14b8a6; margin-top: 15px;"><i class="fas fa-file-signature"></i></div><h3 class="fw-bold">Harçlar Kanunu</h3><p class="text-muted small">Yargı, noter, tapu ve kadastro harçları.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #14b8a6;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('mtv_ozeti.md', 'Motorlu Taşıtlar Vergisi Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #f97316; margin-top: 15px;"><i class="fas fa-truck"></i></div><h3 class="fw-bold">MTV Kanunu</h3><p class="text-muted small">Taşıt tanımları, tarifeler ve ödeme zamanları.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #f97316;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('viv_ozeti.md', 'Veraset ve İntikal Vergisi Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #64748b; margin-top: 15px;"><i class="fas fa-hand-holding-heart"></i></div><h3 class="fw-bold">Veraset ve İntikal</h3><p class="text-muted small">Miras, ivazsız intikaller ve beyanname süreleri.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #64748b;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('emlak_vergisi_ozeti.md', 'Emlak Vergisi Kanunu Özeti')"><div class="ders-rozeti">Vergi Mevzuatı</div><div class="card-icon" style="color: #b45309; margin-top: 15px;"><i class="fas fa-city"></i></div><h3 class="fw-bold">Emlak Vergisi</h3><p class="text-muted small">Bina, arazi ve değerli konut vergisi detayları.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #b45309;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_mevzuati_sureler.md', 'Vergi Mevzuatı Süreler ve Bildirimler')"><div class="ders-rozeti" style="background-color: #dc2626;">Vergi</div><div class="card-icon" style="color: #dc2626; margin-top: 15px;"><i class="fas fa-history"></i></div><h3 class="fw-bold">Vergi Mevzuatı Süreler ve Bildirimler</h3><p class="text-muted small">İşe başlama/bırakma, VİV beyan, dava açma, ödeme emrine itiraz, uzlaşma ve yasal ödeme vadeleri özeti.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #dc2626;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_el_yazmasi_notlar.md', 'Vergi El Yazması Notlar')"><div class="ders-rozeti" style="background-color: #dc2626;">Vergi</div><div class="card-icon" style="color: #dc2626; margin-top: 15px;"><i class="fas fa-history"></i></div><h3 class="fw-bold">Vergi El Yazması Notlar</h3><p class="text-muted small">Vergi hukuku kaynakları, tarafları, sorumlukları, vergi süreci, vergi suç ve cezalar özeti.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #dc2626;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_istisnalari.md', 'Vergi Mevzuatı Komisyon Tuzakları')"><div class="ders-rozeti" style="background-color: #f97316;">Vergi Mevzuatı</div><div class="card-icon" style="color: #ef4444; margin-top: 15px;"><i class="fas fa-exclamation-triangle"></i></div><h3 class="fw-bold">Komisyon Tuzakları ve İstisnalar</h3><p class="text-muted small">KDV, GVK, KVK ve diğer kanunlardaki en kritik istisnalar, ince detaylar ve hayat kurtaran hap bilgiler.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #ef4444;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"> <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('bagis_ve_yardimlar_hap_bilgi.md', 'Bağış ve Yardımlar İndirimi')"><div class="ders-rozeti" style="background-color: #8b5cf6;">Vergi Mevzuatı</div><div class="card-icon" style="color: #7c3aed; margin-top: 15px;"><i class="fas fa-hand-holding-heart"></i></div><h3 class="fw-bold">Bağış ve Yardımlar</h3><p class="text-muted small">GVK ve KVK kapsamında bağış matrahı hesaplama, indirim oranları, KKEG detayları ve tavan sınırı şablonları.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #7c3aed;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('vergi_matruska_tablosu.md', 'Vergi Mevzuatı Matruşka Tablosu')"><div class="ders-rozeti" style="background-color: #eab308;">Özel Bölüm</div><div class="card-icon" style="color: #eab308; margin-top: 15px;"><i class="fas fa-layer-group"></i></div><h3 class="fw-bold">Matruşka Analizi</h3><p class="text-muted small">Tüm vergi mevzuatının Genel Kural, İstisna ve Sınav Tuzakları tek bir tabloda.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #eab308;">Tabloyu İncele</button> </div></div></div>
                 </div>
             </div>
-
             <div id="klasor-finansal-muh" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-finansal-muh')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('finansal_muhasebe_ozeti.md', 'Finansal Muhasebe')">
-                            <div class="ders-rozeti" style="background-color: #2563eb;">Muhasebe</div>
-                            <div class="card-icon" style="color: #2563eb; margin-top: 15px;"><i class="fas fa-calculator"></i></div>
-                            <h3 class="fw-bold">Finansal Muhasebe</h3>
-                            <p class="text-muted small">Yevmiye Kayıtları, Öz Kaynaklar, Ticari Alacaklar, Reeskont, Menkul Kıymetler ve Dönem Sonu Mahsup Tuzakları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #2563eb;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="row g-4"><div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('finansal_muhasebe_ozeti.md', 'Finansal Muhasebe')"><div class="ders-rozeti" style="background-color: #2563eb;">Muhasebe</div><div class="card-icon" style="color: #2563eb; margin-top: 15px;"><i class="fas fa-calculator"></i></div><h3 class="fw-bold">Finansal Muhasebe</h3><p class="text-muted small">Yevmiye Kayıtları, Öz Kaynaklar, Ticari Alacaklar, Reeskont, Menkul Kıymetler ve Dönem Sonu Mahsup Tuzakları.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #2563eb;">Özeti Oku</button> </div></div></div></div>
             </div>
-
             <div id="klasor-maliyet" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-maliyet')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('maliyet_muhasebesi_ozeti.md', 'Maliyet Muhasebesi')">
-                            <div class="ders-rozeti" style="background-color: #8b5cf6;">Maliyet</div>
-                            <div class="card-icon" style="color: #8b5cf6; margin-top: 15px;"><i class="fas fa-chart-line"></i></div>
-                            <h3 class="fw-bold">Maliyet Muhasebesi</h3>
-                            <p class="text-muted small">Maliyet Sistemleri, Safha Maliyeti, Gider Dağıtımları, Standart Bütçe Sapmaları ve İşçilik Tuzakları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #8b5cf6;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="row g-4"><div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('maliyet_muhasebesi_ozeti.md', 'Maliyet Muhasebesi')"><div class="ders-rozeti" style="background-color: #8b5cf6;">Maliyet</div><div class="card-icon" style="color: #8b5cf6; margin-top: 15px;"><i class="fas fa-chart-line"></i></div><h3 class="fw-bold">Maliyet Muhasebesi</h3><p class="text-muted small">Maliyet Sistemleri, Safha Maliyeti, Gider Dağıtımları, Standart Bütçe Sapmaları ve İşçilik Tuzakları.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #8b5cf6;">Özeti Oku</button> </div></div></div></div>
             </div>
-
             <div id="klasor-analiz" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-analiz')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('finansal_analiz_formulleri.md', 'Finansal Tablolar Analizi Formülleri')">
-                            <div class="ders-rozeti" style="background-color: #10b981;">Finansal Analiz</div>
-                            <div class="card-icon" style="color: #10b981; margin-top: 15px;"><i class="fas fa-chart-line"></i></div>
-                            <h3 class="fw-bold">Finansal Tablolar Analizi</h3>
-                            <p class="text-muted small">Likidite, mali yapı ve kârlılık oranları, devir hızı formülleri ve nakit dönüşüm süresi hesaplamaları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #10b981;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="row g-4"><div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('finansal_analiz_formulleri.md', 'Finansal Tablolar Analizi Formülleri')"><div class="ders-rozeti" style="background-color: #10b981;">Finansal Analiz</div><div class="card-icon" style="color: #10b981; margin-top: 15px;"><i class="fas fa-chart-line"></i></div><h3 class="fw-bold">Finansal Tablolar Analizi</h3><p class="text-muted small">Likidite, mali yapı ve kârlılık oranları, devir hızı formülleri ve nakit dönüşüm süresi hesaplamaları.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #10b981;">Özeti Oku</button> </div></div></div></div>
             </div>
-
             <div id="klasor-denetim" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-denetim')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('muhasebe_denetimi_ozeti.md', 'Muhasebe Denetimi')">
-                            <div class="ders-rozeti" style="background-color: #f59e0b;">Denetim</div>
-                            <div class="card-icon" style="color: #f59e0b; margin-top: 15px;"><i class="fas fa-clipboard-check"></i></div>
-                            <h3 class="fw-bold">Muhasebe Denetimi</h3>
-                            <p class="text-muted small">Bağımsız Denetim Yönetmeliği, TDS, Denetim Kanıtları, Prosedürler, Örnekleme ve Raporlama komisyon tuzakları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #f59e0b;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="row g-4"><div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('muhasebe_denetimi_ozeti.md', 'Muhasebe Denetimi')"><div class="ders-rozeti" style="background-color: #f59e0b;">Denetim</div><div class="card-icon" style="color: #f59e0b; margin-top: 15px;"><i class="fas fa-clipboard-check"></i></div><h3 class="fw-bold">Muhasebe Denetimi</h3><p class="text-muted small">Bağımsız Denetim Yönetmeliği, TDS, Denetim Kanıtları, Prosedürler, Örnekleme ve Raporlama komisyon tuzakları.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #f59e0b;">Özeti Oku</button> </div></div></div></div>
             </div>
-
             <div id="klasor-spk" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-spk')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('spk_ozeti.md', '6362 Sayılı Sermaye Piyasası Kanunu Özeti')">
-                            <div class="ders-rozeti" style="background-color: #7c3aed;">Sermaye Piyasası</div>
-                            <div class="card-icon" style="color: #7c3aed; margin-top: 15px;"><i class="fas fa-chart-pie"></i></div>
-                            <h3 class="fw-bold">SPK (6362)</h3>
-                            <p class="text-muted small">İhraç araçları, halka arz, piyasa dolandırıcılığı ve kurulun yetkileri.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #7c3aed;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="row g-4"><div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('spk_ozeti.md', '6362 Sayılı Sermaye Piyasası Kanunu Özeti')"><div class="ders-rozeti" style="background-color: #7c3aed;">Sermaye Piyasası</div><div class="card-icon" style="color: #7c3aed; margin-top: 15px;"><i class="fas fa-chart-pie"></i></div><h3 class="fw-bold">SPK (6362)</h3><p class="text-muted small">İhraç araçları, halka arz, piyasa dolandırıcılığı ve kurulun yetkileri.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #7c3aed;">Özeti Oku</button> </div></div></div></div>
             </div>
-
             <div id="klasor-temel-hukuk" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-temel-hukuk')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
                 <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('borclar_hukuku_ozeti.md', 'Borçlar Hukuku Master Özeti')">
-                            <div class="ders-rozeti" style="background-color: #d97706;">Borçlar Hukuku</div>
-                            <div class="card-icon" style="color: #d97706; margin-top: 15px;"><i class="fas fa-handshake"></i></div>
-                            <h3 class="fw-bold">Borçlar Hukuku</h3>
-                            <p class="text-muted small">Sözleşmelerin kurulması, edim türleri, haksız fiil, sebepsiz zenginleşme ve kusursuz sorumluluk halleri.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #d97706;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('is_hukuku_ozeti.md', 'İş Hukuku Master Özeti')">
-                            <div class="ders-rozeti" style="background-color: #dc2626;">İş Hukuku</div>
-                            <div class="card-icon" style="color: #dc2626; margin-top: 15px;"><i class="fas fa-hard-hat"></i></div>
-                            <h3 class="fw-bold">İş Hukuku ve SGK</h3>
-                            <p class="text-muted small">İş sözleşmesi türleri, çalışma/dinlenme süreleri, fesih sebepleri, kıdem tazminatı ve SGK sigorta kolları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #dc2626;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('ticaret_hukuku_ozeti.md', 'Ticaret Hukuku Master Özeti')">
-                            <div class="ders-rozeti" style="background-color: #2563eb;">Ticaret Hukuku</div>
-                            <div class="card-icon" style="color: #2563eb; margin-top: 15px;"><i class="fas fa-briefcase"></i></div>
-                            <h3 class="fw-bold">Ticaret Hukuku</h3>
-                            <p class="text-muted small">Ticari işletme, tacir yardımcıları, şahıs/sermaye şirketleri ve kıymetli evrak (Poliçe-Bono-Çek) kuralları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #2563eb;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('idari_yargi_ozeti.md', 'İdari Yargılama Hukuku Master Özeti')">
-                            <div class="ders-rozeti" style="background-color: #7c3aed;">İdari Yargı</div>
-                            <div class="card-icon" style="color: #7c3aed; margin-top: 15px;"><i class="fas fa-gavel"></i></div>
-                            <h3 class="fw-bold">İdari Yargılama</h3>
-                            <p class="text-muted small">İptal ve tam yargı davaları, görev/yetki kuralları, dava açma süreleri, ivedi yargılama ve kanun yolları.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #7c3aed;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('hukuk_istisnalari.md', 'Temel Hukuk Komisyon Tuzakları')">
-                            <div class="ders-rozeti" style="background-color: #d97706;">Temel Hukuk</div>
-                            <div class="card-icon" style="color: #ef4444; margin-top: 15px;"><i class="fas fa-balance-scale-right"></i></div>
-                            <h3 class="fw-bold">Komisyon Tuzakları ve İstisnalar</h3>
-                            <p class="text-muted small">Borçlar, İş, Ticaret ve İdari Yargı Hukukunda komisyonun adayları düşürdüğü yasal tuzaklar.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #d97706;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('borclar_hukuku_ozeti.md', 'Borçlar Hukuku Master Özeti')"><div class="ders-rozeti" style="background-color: #d97706;">Borçlar Hukuku</div><div class="card-icon" style="color: #d97706; margin-top: 15px;"><i class="fas fa-handshake"></i></div><h3 class="fw-bold">Borçlar Hukuku</h3><p class="text-muted small">Sözleşmelerin kurulması, edim türleri, haksız fiil, sebepsiz zenginleşme ve kusursuz sorumluluk halleri.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #d97706;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('is_hukuku_ozeti.md', 'İş Hukuku Master Özeti')"><div class="ders-rozeti" style="background-color: #dc2626;">İş Hukuku</div><div class="card-icon" style="color: #dc2626; margin-top: 15px;"><i class="fas fa-hard-hat"></i></div><h3 class="fw-bold">İş Hukuku ve SGK</h3><p class="text-muted small">İş sözleşmesi türleri, çalışma/dinlenme süreleri, fesih sebepleri, kıdem tazminatı ve SGK sigorta kolları.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #dc2626;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('ticaret_hukuku_ozeti.md', 'Ticaret Hukuku Master Özeti')"><div class="ders-rozeti" style="background-color: #2563eb;">Ticaret Hukuku</div><div class="card-icon" style="color: #2563eb; margin-top: 15px;"><i class="fas fa-briefcase"></i></div><h3 class="fw-bold">Ticaret Hukuku</h3><p class="text-muted small">Ticari işletme, tacir yardımcıları, şahıs/sermaye şirketleri ve kıymetli evrak (Poliçe-Bono-Çek) kuralları.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #2563eb;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('idari_yargi_ozeti.md', 'İdari Yargılama Hukuku Master Özeti')"><div class="ders-rozeti" style="background-color: #7c3aed;">İdari Yargı</div><div class="card-icon" style="color: #7c3aed; margin-top: 15px;"><i class="fas fa-gavel"></i></div><h3 class="fw-bold">İdari Yargılama</h3><p class="text-muted small">İptal ve tam yargı davaları, görev/yetki kuralları, dava açma süreleri, ivedi yargılama ve kanun yolları.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #7c3aed;">Özeti Oku</button> </div></div></div>
+                    <div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('hukuk_istisnalari.md', 'Temel Hukuk Komisyon Tuzakları')"><div class="ders-rozeti" style="background-color: #d97706;">Temel Hukuk</div><div class="card-icon" style="color: #ef4444; margin-top: 15px;"><i class="fas fa-balance-scale-right"></i></div><h3 class="fw-bold">Komisyon Tuzakları ve İstisnalar</h3><p class="text-muted small">Borçlar, İş, Ticaret ve İdari Yargı Hukukunda komisyonun adayları düşürdüğü yasal tuzaklar.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #d97706;">Özeti Oku</button> </div></div></div>
                 </div>
             </div>
-
             <div id="klasor-meslek" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-meslek')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('meslek_hukuku_ozeti.md', '3568 Sayılı Meslek Hukuku Özeti')">
-                            <div class="ders-rozeti" style="background-color: #059669;">Meslek Hukuku</div>
-                            <div class="card-icon" style="color: #059669; margin-top: 15px;"><i class="fas fa-balance-scale"></i></div>
-                            <h3 class="fw-bold">Meslek Hukuku (3568)</h3>
-                            <p class="text-muted small">SMMM/YMM şartları, oda/birlik yapıları, disiplin cezaları ve haksız rekabet.</p>
-                            <div class="mt-auto"> <button class="btn btn-start" style="background-color: #059669;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="row g-4"><div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('meslek_hukuku_ozeti.md', '3568 Sayılı Meslek Hukuku Özeti')"><div class="ders-rozeti" style="background-color: #059669;">Meslek Hukuku</div><div class="card-icon" style="color: #059669; margin-top: 15px;"><i class="fas fa-balance-scale"></i></div><h3 class="fw-bold">Meslek Hukuku (3568)</h3><p class="text-muted small">SMMM/YMM şartları, oda/birlik yapıları, disiplin cezaları ve haksız rekabet.</p><div class="mt-auto"> <button class="btn btn-start" style="background-color: #059669;">Özeti Oku</button> </div></div></div></div>
             </div>
-
             <div id="klasor-ozel" class="alt-konu-konteyner" style="display: none;">
                 <button class="btn btn-outline-secondary mb-4" onclick="anaDerslereDon('klasor-ozel')"><i class="fas fa-arrow-left"></i> 📂 Klasörlere Dön</button>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('istisnalar_ozeti.md', 'Sınav Tuzakları ve İstisnalar')">
-                            <div class="ders-rozeti" style="background-color: #eab308;">Özel Bölüm</div>
-                            <div class="card-icon" style="color: #eab308; margin-top: 15px;"><i class="fas fa-exclamation-triangle"></i></div>
-                            <h3 class="fw-bold">İstisnalar ve Tuzaklar</h3>
-                            <p class="text-muted small">Tüm hukuk derslerindeki kilit istisnalar, süre tuzakları ve komisyonun ters köşe yaptığı can alıcı hap bilgiler.</p>
-                            <div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #eab308;">Özeti Oku</button> </div>
-                        </div>
-                    </div>
-                </div>
+                <div class="row g-4"><div class="col-md-6 col-lg-4"><div class="card lesson-card text-center p-4 h-100" style="position: relative;" onclick="ozetOku('istisnalar_ozeti.md', 'Sınav Tuzakları ve İstisnalar')"><div class="ders-rozeti" style="background-color: #eab308;">Özel Bölüm</div><div class="card-icon" style="color: #eab308; margin-top: 15px;"><i class="fas fa-exclamation-triangle"></i></div><h3 class="fw-bold">İstisnalar ve Tuzaklar</h3><p class="text-muted small">Tüm hukuk derslerindeki kilit istisnalar, süre tuzakları ve komisyonun ters köşe yaptığı can alıcı hap bilgiler.</p><div class="mt-auto"> <button class="btn btn-start text-white" style="background-color: #eab308;">Özeti Oku</button> </div></div></div></div>
             </div>
+        </div> 
 
-        </div> <div id="okuma-ekrani">
+        <div id="okuma-ekrani">
             <button class="btn btn-outline-secondary mb-4" onclick="ozetGeriDon()"><i class="fas fa-arrow-left"></i> Fasikül Seçimine Dön</button>
             <div id="okuma-metni">Yükleniyor...</div>
         </div>
     </div> 
-</div> 
+
+    <!-- BULMACA MODU KATEGORİ VİTRİNİ VE OYUN ALANI -->
+    <div id="bulmaca-modu-icerik" style="display:none; margin-top: 30px;">
+        
+        <!-- Kategori Seçim Ekranı (EKSİK OLAN ID EKLENDİ) -->
+        <div id="bulmaca-kategori-secim">
+            <h3 class="mb-4 fw-bold text-center" style="color: var(--dark-blue);">Hangi Dersten Pratik Yapmak İstersin? 🧩</h3>
+            <div class="row g-4 justify-content-center">
+                <!-- 1. Borçlar Hukuku -->
+                <div class="col-md-4">
+                    <div class="card lesson-card text-center p-4 h-100" onclick="bulmacaBaslat('borclar')">
+                        <div class="card-icon" style="color: #d97706;"><i class="fas fa-handshake"></i></div>
+                        <h3 class="fw-bold">Borçlar Hukuku</h3>
+                        <p class="text-muted small">Sözleşmeler ve sorumluluk kavramları.</p>
+                        <div class="mt-auto"><button class="btn btn-start" style="background-color: #d97706;">Bulmaca Çöz</button></div>
+                    </div>
+                </div>
+
+                <!-- 2. İş Hukuku -->
+                <div class="col-md-4">
+                    <div class="card lesson-card text-center p-4 h-100" onclick="bulmacaBaslat('is_hukuku')">
+                        <div class="card-icon" style="color: #dc2626;"><i class="fas fa-hard-hat"></i></div>
+                        <h3 class="fw-bold">İş Hukuku</h3>
+                        <p class="text-muted small">İşçi, işveren ve sendika kavramları.</p>
+                        <div class="mt-auto"><button class="btn btn-start" style="background-color: #dc2626;">Bulmaca Çöz</button></div>
+                    </div>
+                </div>
+
+                <!-- 3. Ticaret Hukuku -->
+                <div class="col-md-4">
+                    <div class="card lesson-card text-center p-4 h-100" onclick="bulmacaBaslat('ticaret')">
+                        <div class="card-icon" style="color: #2563eb;"><i class="fas fa-briefcase"></i></div>
+                        <h3 class="fw-bold">Ticaret Hukuku</h3>
+                        <p class="text-muted small">Kıymetli evrak, şirket türleri ve tacir sıfatı.</p>
+                        <div class="mt-auto"><button class="btn btn-start" style="background-color: #2563eb;">Bulmaca Çöz</button></div>
+                    </div>
+                </div>
+
+                <!-- 4. Meslek Hukuku -->
+                <div class="col-md-4">
+                    <div class="card lesson-card text-center p-4 h-100" onclick="bulmacaBaslat('meslek')">
+                        <div class="card-icon" style="color: #059669;"><i class="fas fa-balance-scale"></i></div>
+                        <h3 class="fw-bold">Meslek Hukuku</h3>
+                        <p class="text-muted small">3568 Sayılı Kanun ve disiplin cezaları.</p>
+                        <div class="mt-auto"><button class="btn btn-start" style="background-color: #059669;">Bulmaca Çöz</button></div>
+                    </div>
+                </div>
+
+                <!-- 5. Vergi Hukuku -->
+                <div class="col-md-4">
+                    <div class="card lesson-card text-center p-4 h-100" onclick="bulmacaBaslat('vergi')">
+                        <div class="card-icon" style="color: #8b5cf6;"><i class="fas fa-file-invoice-dollar"></i></div>
+                        <h3 class="fw-bold">Vergi Hukuku</h3>
+                        <p class="text-muted small">Tarhiyat, KDV ve mükellefiyet süreleri.</p>
+                        <div class="mt-auto"><button class="btn btn-start" style="background-color: #8b5cf6;">Bulmaca Çöz</button></div>
+                    </div>
+                </div>
+
+                <!-- 6. Muhasebe Denetimi -->
+                <div class="col-md-4">
+                    <div class="card lesson-card text-center p-4 h-100" onclick="bulmacaBaslat('denetim')">
+                        <div class="card-icon" style="color: #f59e0b;"><i class="fas fa-clipboard-check"></i></div>
+                        <h3 class="fw-bold">Muhasebe Denetimi</h3>
+                        <p class="text-muted small">Denetim kanıtları ve raporlama standartları.</p>
+                        <div class="mt-auto"><button class="btn btn-start" style="background-color: #f59e0b;">Bulmaca Çöz</button></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Oyun Ekranı -->
+        <div id="bulmaca-oyun-alani" style="display: none;">
+            <button class="btn btn-outline-secondary mb-4" onclick="bulmacaVitrineDon()"><i class="fas fa-arrow-left"></i> Ders Seçimine Dön</button>
+            
+            <div class="hero-banner mt-3" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); margin-bottom: 20px; border-bottom: 5px solid #f97316;">
+                <div class="hero-text text-start">
+                    <h1 id="oyun-baslik" style="color: white; font-weight: 900;">Bulmaca Yükleniyor...</h1>
+                    <p style="color: #cbd5e1;">Boşlukları doldur, bilgini sına.</p>
+                </div>
+            </div>
+            
+            <div class="crossword-container"><div id="crossword-grid"></div></div>
+            
+            <div class="mt-4 mb-5">
+                <button onclick="cevaplariKontrolEt()" class="btn btn-start" style="font-size: 1.2rem; padding: 12px 40px;">Cevapları Kontrol Et <i class="fas fa-check ms-2"></i></button>
+                <button onclick="harfAl()" class="btn btn-outline-warning ms-3" style="font-size: 1.2rem; padding: 12px 25px; font-weight: bold;">Harf Al 💡</button>
+                <button id="btn-sonraki" onclick="sonrakiSeviyeyeGec()" class="btn btn-success ms-3" style="display: none; font-size: 1.2rem; padding: 12px 25px; font-weight: bold;">Sonraki Bölüm <i class="fas fa-forward ms-2"></i></button>
+            </div>
+
+            <div class="row text-start pb-5">
+                <div class="col-md-6"><div class="cw-clues"><h4>Soldan Sağa</h4><ul id="clues-across"></ul></div></div>
+                <div class="col-md-6"><div class="cw-clues mt-4 mt-md-0"><h4>Yukarıdan Aşağıya</h4><ul id="clues-down"></ul></div></div>
+            </div>
+        </div>
+
+    </div>
+    <!-- BULMACA BİTİŞ -->
+
+</div> <!-- Container End -->
 
 <footer class="text-center mt-5 py-5 text-muted">
     <p>&copy; 2026 SMM Akademi | Dijital Sınav Hazırlık Platformu</p>
 </footer>
 
+<!-- Modallar Aynen Bırakıldı -->
 <div id="exam-modal" class="modal-overlay" style="display: none;">
     <div class="modal-content-custom">
         <div class="modal-header-custom">
@@ -818,7 +485,7 @@
 </div>
 
 <script>
-// --- YENİ EKLENEN: KARANLIK MOD FONKSİYONU VE KONTROLÜ ---
+// --- KARANLIK MOD KONTROLÜ ---
 document.addEventListener("DOMContentLoaded", function() {
     const isDark = localStorage.getItem('smm_dark_mode') === 'true';
     if (isDark) {
@@ -843,9 +510,7 @@ function toggleDarkMode() {
         btnIcon.style.color = 'white';
     }
 }
-// --------------------------------------------------------
 
-// --- YENİ EKLENEN KLASÖR GEÇİŞ FONKSİYONLARI ---
 function altDersleriGoster(hedefKlasorId) {
     document.getElementById('ana-dersler-vitrini').style.display = 'none';
     document.getElementById(hedefKlasorId).style.display = 'block';
@@ -855,8 +520,6 @@ function anaDerslereDon(aktifKlasorId) {
     document.getElementById(aktifKlasorId).style.display = 'none';
     document.getElementById('ana-dersler-vitrini').style.display = 'flex'; 
 }
-// ----------------------------------------------
-
 
 window.addEventListener('DOMContentLoaded', () => {
     if (localStorage.getItem("smm_giris_onayi") === "evet") {
@@ -882,29 +545,40 @@ function derseGit(dersId) {
     window.location.href = "soru_motoru.html?ders=" + dersId;
 }
 
+// --- YENİLENMİŞ MOD GEÇİŞ (SETMODE) FONKSİYONU ---
 function setMode(mod) {
     const btnTest = document.getElementById('btn-test');
     const btnOzet = document.getElementById('btn-ozet');
+    const btnBulmaca = document.getElementById('btn-bulmaca');
+    
     const testIcerik = document.getElementById('test-modu-icerik');
     const ozetIcerik = document.getElementById('ozet-modu-icerik');
+    const bulmacaIcerik = document.getElementById('bulmaca-modu-icerik');
     
     document.getElementById('okuma-ekrani').style.display = 'none';
-    document.getElementById('ozet-kartlari').style.display = 'block'; // Block yapıyoruz ki kendi içindeki row çalışsın
-
-    // Moda geçerken her zaman vitrini açıp alt klasörleri kapatalım ki ekran temiz gelsin
+    document.getElementById('ozet-kartlari').style.display = 'block';
     document.getElementById('ana-dersler-vitrini').style.display = 'flex';
     document.querySelectorAll('.alt-konu-konteyner').forEach(el => el.style.display = 'none');
 
+    [btnTest, btnOzet, btnBulmaca].forEach(btn => { if(btn) btn.classList.remove('active'); });
+
+    testIcerik.style.display = 'none';
+    ozetIcerik.style.display = 'none';
+    if(bulmacaIcerik) bulmacaIcerik.style.display = 'none';
+
     if(mod === 'test') {
         btnTest.classList.add('active');
-        btnOzet.classList.remove('active');
         testIcerik.style.display = 'block';
-        ozetIcerik.style.display = 'none';
-    } else {
+    } else if (mod === 'ozet') {
         btnOzet.classList.add('active');
-        btnTest.classList.remove('active');
-        testIcerik.style.display = 'none';
         ozetIcerik.style.display = 'block';
+    } else if (mod === 'bulmaca') {
+        btnBulmaca.classList.add('active');
+        bulmacaIcerik.style.display = 'block';
+        
+        // HATA BURADAYDI ÇÖZÜLDÜ: Bulmaca moduna tıklandığında oyun değil, vitrin açılmalı!
+        document.getElementById("bulmaca-kategori-secim").style.display = "block";
+        document.getElementById("bulmaca-oyun-alani").style.display = "none";
     }
 }
 
@@ -922,16 +596,11 @@ function ozetOku(dosyaAdi, baslik) {
         })
         .then(markdownMetin => {
             const tamMetin = `# ${baslik}\n\n` + markdownMetin;
-            marked.setOptions({
-                breaks: true,
-                gfm: true
-            });
+            marked.setOptions({ breaks: true, gfm: true });
             icerikDiv.innerHTML = marked.parse(tamMetin);
         
-        if (window.MathJax) {
-    MathJax.typesetPromise();
-}
-})
+            if (window.MathJax) { MathJax.typesetPromise(); }
+        })
         .catch(error => {
             icerikDiv.innerHTML = `<p style="color:red; font-weight:bold;">Özet yüklenemedi: Lütfen '${dosyaAdi}' dosyasının proje klasöründe olduğundan emin olun.</p>`;
         });     
@@ -940,7 +609,6 @@ function ozetOku(dosyaAdi, baslik) {
 function ozetGeriDon() {
     document.getElementById('okuma-ekrani').style.display = 'none';
     document.getElementById('ozet-kartlari').style.display = 'block';  
-    // Geri dönüldüğünde en son hangi klasör açıksa o kalır, bu UX açısından mükemmeldir.
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -971,11 +639,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    if(closeBtn) {
-        closeBtn.addEventListener('click', () => {
-            modal.style.display = 'none';
-        });
-    }
+    if(closeBtn) closeBtn.addEventListener('click', () => modal.style.display = 'none');
 
     chips.forEach(chip => {
         chip.addEventListener('click', function() {
@@ -1027,6 +691,185 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
+// =======================================================
+// --- SMM AKADEMİ: BULMACA HAVUZU VE MOTORU (TEK PARÇA) ---
+// =======================================================
+
+let aktifKategori = "";
+let aktifSeviye = 0;
+let crosswordData = [];
+
+function bulmacaBaslat(kategori) {
+    aktifKategori = kategori;
+    
+    let kayitliSeviye = localStorage.getItem("smm_bulmaca_seviye_" + kategori);
+    aktifSeviye = kayitliSeviye ? parseInt(kayitliSeviye) : 0;
+    
+    if(!bulmacaHavuzu[kategori] || bulmacaHavuzu[kategori].length === 0) {
+        alert("Bu dersin bulmacaları henüz yüklenmedi, çok yakında eklenecek!");
+        return;
+    }
+
+    if(aktifSeviye >= bulmacaHavuzu[kategori].length) aktifSeviye = 0;
+
+    crosswordData = bulmacaHavuzu[kategori][aktifSeviye].data;
+    
+    document.getElementById("bulmaca-kategori-secim").style.display = "none";
+    document.getElementById("bulmaca-oyun-alani").style.display = "block";
+    document.getElementById("btn-sonraki").style.display = "none";
+    
+    const baslik = document.getElementById("oyun-baslik");
+    if(baslik) baslik.innerText = bulmacaHavuzu[kategori][aktifSeviye].baslik;
+    
+    cizBulmaca();
+}
+
+function bulmacaVitrineDon() {
+    document.getElementById("bulmaca-oyun-alani").style.display = "none";
+    document.getElementById("bulmaca-kategori-secim").style.display = "block";
+}
+
+function sonrakiSeviyeyeGec() {
+    aktifSeviye++;
+    
+    if (aktifSeviye >= bulmacaHavuzu[aktifKategori].length) {
+        alert("Tebrikler! Bu derse ait tüm bulmacaları bitirdiniz. Başa dönülüyor.");
+        aktifSeviye = 0;
+    }
+    
+    localStorage.setItem("smm_bulmaca_seviye_" + aktifKategori, aktifSeviye);
+    
+    crosswordData = bulmacaHavuzu[aktifKategori][aktifSeviye].data;
+    document.getElementById("btn-sonraki").style.display = "none";
+    document.getElementById("oyun-baslik").innerText = bulmacaHavuzu[aktifKategori][aktifSeviye].baslik;
+    
+    cizBulmaca();
+}
+
+function cizBulmaca() {
+    const grid = document.getElementById("crossword-grid");
+    const cluesAcross = document.getElementById("clues-across");
+    const cluesDown = document.getElementById("clues-down");
+    grid.innerHTML = ""; cluesAcross.innerHTML = ""; cluesDown.innerHTML = "";
+    
+    let rows = 0, cols = 0;
+    crosswordData.forEach(word => {
+        if (word.dir === "across") {
+            cols = Math.max(cols, word.col + word.answer.length - 1);
+            rows = Math.max(rows, word.row);
+        } else {
+            rows = Math.max(rows, word.row + word.answer.length - 1);
+            cols = Math.max(cols, word.col);
+        }
+    });
+
+    rows += 1; cols += 1;
+    grid.style.gridTemplateColumns = `repeat(${cols}, 45px)`;
+    grid.style.gridTemplateRows = `repeat(${rows}, 45px)`;
+    
+    let cells = {};
+    for(let r=1; r<=rows; r++) {
+        for(let c=1; c<=cols; c++) {
+            const cell = document.createElement("div");
+            cell.className = "cw-cell";
+            cell.id = `cell-${r}-${c}`;
+            grid.appendChild(cell);
+            cells[`${r}-${c}`] = cell;
+        }
+    }
+    
+    crosswordData.forEach(word => {
+        let r = word.row, c = word.col;
+        const li = document.createElement("li");
+        li.innerHTML = `<strong>${word.id}.</strong> ${word.clue}`;
+        if(word.dir === "across") cluesAcross.appendChild(li);
+        else cluesDown.appendChild(li);
+        
+        for(let i=0; i<word.answer.length; i++) {
+            const targetCell = cells[`${r}-${c}`];
+            if(!targetCell.querySelector("input")) {
+                const input = document.createElement("input");
+                input.type = "text"; input.maxLength = 1; input.className = "cw-input";
+                input.dataset.row = r; input.dataset.col = c; input.dataset.answer = word.answer[i];
+                input.addEventListener("keyup", (e) => bulmacaKlavyeKontrol(e, input));
+                targetCell.appendChild(input);
+            }
+            if(i === 0) {
+                if(!targetCell.querySelector(".cw-number")) {
+                    const span = document.createElement("span"); span.className = "cw-number"; span.innerText = word.id;
+                    targetCell.appendChild(span);
+                } else { targetCell.querySelector(".cw-number").innerText += "/" + word.id; }
+            }
+            if(word.dir === "across") c++; else r++;
+        }
+    });
+}
+
+function bulmacaKlavyeKontrol(e, input) {
+    const r = parseInt(input.dataset.row), c = parseInt(input.dataset.col);
+    let nextR = r, nextC = c;
+    
+    if(e.key === "ArrowRight") nextC++; else if(e.key === "ArrowLeft") nextC--;
+    else if(e.key === "ArrowDown") nextR++; else if(e.key === "ArrowUp") nextR--;
+    else {
+        if(/^[a-zA-ZğüşıöçĞÜŞİÖÇ]$/.test(e.key)) {
+            input.value = input.value.toLocaleUpperCase('tr-TR');
+            const nextAcross = document.querySelector(`.cw-input[data-row="${r}"][data-col="${c+1}"]`);
+            if(nextAcross) nextAcross.focus();
+            else { const nextDown = document.querySelector(`.cw-input[data-row="${r+1}"][data-col="${c}"]`); if(nextDown) nextDown.focus(); }
+        } else if (e.key === "Backspace" || e.key === "Delete") {
+            input.classList.remove("correct", "wrong");
+        }
+        return;
+    }
+    const nextInput = document.querySelector(`.cw-input[data-row="${nextR}"][data-col="${nextC}"]`);
+    if(nextInput) nextInput.focus();
+}
+
+function cevaplariKontrolEt() {
+    const inputs = document.querySelectorAll(".cw-input");
+    let hepsiDogru = true;
+    let bosVarMi = false;
+
+    inputs.forEach(input => {
+        input.classList.remove("correct", "wrong");
+        const val = input.value.toLocaleUpperCase('tr-TR');
+        const ans = input.dataset.answer;
+        
+        if(val !== "") { 
+            if(val === ans) input.classList.add("correct"); 
+            else { input.classList.add("wrong"); hepsiDogru = false; }
+        } else {
+            bosVarMi = true;
+            hepsiDogru = false;
+        }
+    });
+
+    if (hepsiDogru && !bosVarMi) {
+        document.getElementById("btn-sonraki").style.display = "inline-block";
+    }
+}
+
+function harfAl() {
+    const inputs = document.querySelectorAll(".cw-input");
+    const bosVeyaYanlis = Array.from(inputs).filter(input => {
+        return input.value.toLocaleUpperCase('tr-TR') !== input.dataset.answer;
+    });
+
+    if (bosVeyaYanlis.length > 0) {
+        const rastgeleInput = bosVeyaYanlis[Math.floor(Math.random() * bosVeyaYanlis.length)];
+        rastgeleInput.value = rastgeleInput.dataset.answer; 
+        rastgeleInput.classList.remove("wrong");
+        rastgeleInput.classList.add("correct"); 
+        
+        rastgeleInput.style.transform = "scale(1.3)";
+        rastgeleInput.style.transition = "0.3s";
+        setTimeout(() => rastgeleInput.style.transform = "scale(1)", 300);
+        
+        cevaplariKontrolEt(); 
+    }
+}
 </script>
 
 </body>
