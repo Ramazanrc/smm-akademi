@@ -406,6 +406,16 @@
                         <div class="mt-auto"><button class="btn btn-start" style="background-color: #f59e0b;">Bulmaca Çöz</button></div>
                     </div>
                 </div>
+                
+                <!-- 7. Sermaye Piyasası (SPK) -->
+                <div class="col-md-4">
+                    <div class="card lesson-card text-center p-4 h-100" onclick="bulmacaBaslat('sermaye')">
+                        <div class="card-icon" style="color: #7c3aed;"><i class="fas fa-chart-pie"></i></div>
+                        <h3 class="fw-bold">Sermaye Piyasası</h3>
+                        <p class="text-muted small">İhraççılar, yatırım fonları, halka arz ve kripto varlıklar.</p>
+                        <div class="mt-auto"><button class="btn btn-start" style="background-color: #7c3aed;">Bulmaca Çöz</button></div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -782,7 +792,10 @@ function cizBulmaca() {
     crosswordData.forEach(word => {
         let r = word.row, c = word.col;
         const li = document.createElement("li");
-        li.innerHTML = `<strong>${word.id}.</strong> ${word.clue}`;
+        
+        // YENİ: etiketlerini ekranda otomatik temizleyen filtre
+        const temizIpucu = word.clue.replace(/\]+\]/g, '');
+        li.innerHTML = `<strong>${word.id}.</strong> ${temizIpucu}`;
         if(word.dir === "across") cluesAcross.appendChild(li);
         else cluesDown.appendChild(li);
         
