@@ -137,7 +137,6 @@
         
         let paketSorular = [];
 
-        // EĞER DERS VERGİ MEVZUATI İSE (Dosya adında vergi geçiyorsa) SAYISAL/SÖZEL AYRIMI YAP
         if (aktifDersAdi.toLowerCase().includes("vergi")) {
             let sayisalHavuz = [];
             let sozelHavuz = [];
@@ -145,24 +144,33 @@
             anaSoruListesi.forEach(q => {
                 let rakamliSikSayisi = 0;
                 let seceneklerDizisi = q.options || q.secenekler || [];
+                let soruMetni = String(q.q || q.soru || "").toLowerCase();
                 
                 if (!Array.isArray(seceneklerDizisi) && typeof seceneklerDizisi === 'object') {
                     seceneklerDizisi = Object.values(seceneklerDizisi);
                 }
 
+                // 1. Şıkları tara
                 seceneklerDizisi.forEach(opt => {
                     if (/\d/.test(String(opt))) { rakamliSikSayisi++; }
                 });
 
-                if (rakamliSikSayisi >= 2) sayisalHavuz.push(q);
-                else sozelHavuz.push(q);
+                // 2. Soru metnini tara (GELİŞTİRİLDİ)
+                let metindeFinansalKelimeVarMi = /tl|tutar|hesaplan|oran|%|\d{3,}/.test(soruMetni);
+
+                // Eğer şıklarda en az 2 rakam varsa VEYA soru metni finansal kelimeler içeriyorsa sayısal kabul et
+                if (rakamliSikSayisi >= 2 || metindeFinansalKelimeVarMi) {
+                    sayisalHavuz.push(q);
+                } else {
+                    sozelHavuz.push(q);
+                }
             });
 
             gercekKaristir(sayisalHavuz);
             gercekKaristir(sozelHavuz);
 
             let hedefSayisal = 7;
-            if (limit < 20) hedefSayisal = Math.floor(limit * 0.35); // Eğer limit 20'den azsa orantılı sayısal seç
+            if (limit < 20) hedefSayisal = Math.floor(limit * 0.35); 
 
             if (sayisalHavuz.length < hedefSayisal) hedefSayisal = sayisalHavuz.length;
             let hedefSozel = limit - hedefSayisal;
@@ -172,15 +180,15 @@
                 ...sozelHavuz.slice(0, hedefSozel)
             ];
             
-            // Dağılımı testin içine serpiştir
             gercekKaristir(paketSorular);
         } 
         else {
-            // DİĞER DERSLER İÇİN SADECE GERÇEK RASTGELE KARIŞTIRMA YAP (Eski Aynı Soru Sorununu Çözer)
             let kopyaListe = [...anaSoruListesi];
             gercekKaristir(kopyaListe);
             paketSorular = kopyaListe.slice(0, limit);
         }
+
+        // ... (Bundan sonraki kodların aynen devam ediyor) ...
 
         let formatliSorular = paketSorular.map((jsonSoru, index) => {
             const harfler = ["A", "B", "C", "D", "E"];
