@@ -228,7 +228,7 @@
         .roket-efekti { display: inline-block !important; animation: roketZiplama 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important; }
 
         .ai-modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(5px); z-index: 9999; align-items: center; justify-content: center; }
-        .ai-modal-kutu { background: var(--white); width: 90%; max-width: 450px; border-radius: 20px; padding: 25px; text-align: center; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); border-top: 5px solid #ff9800; transform: scale(0.7); animation: modalPıt 0.3s forwards; }
+        .ai-modal-kutu { background: var(--white); width: 90%; max-width: 550px; border-radius: 20px; padding: 25px; text-align: center; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); border-top: 5px solid #ff9800; transform: scale(0.7); animation: modalPıt 0.3s forwards; }
         @keyframes modalPıt { to { transform: scale(1); } }
         .ai-modal-baslik h3 { margin: 10px 0; color: inherit; font-size: 20px; }
         .ai-kategori-satir { margin-bottom: 15px; text-align: left; }
@@ -313,31 +313,28 @@
 </div>
 
 <script>
-  // Sayfa açıldığında cihazın hafızasını kontrol eden yeni bölüm
 document.addEventListener("DOMContentLoaded", function() {
-    // --- YENİ EKLENEN: KARANLIK MOD KONTROLÜ ---
     const isDark = localStorage.getItem('smm_dark_mode') === 'true';
     if (isDark) {
         document.body.classList.add('dark-mode');
         const btnIcon = document.querySelector('#dark-mode-btn i');
         if(btnIcon) { btnIcon.classList.remove('fa-moon'); btnIcon.classList.add('fa-sun'); btnIcon.style.color = '#facc15'; }
     }
-    // --------------------------------------------
 
-    // Eğer kullanıcı daha önce doğru şifreyi girdiyse, kilit ekranını hiç gösterme
     if (localStorage.getItem("dersOnayi") === "basarili") {
         document.getElementById('kilit-ekrani').style.display = "none";
     }
+
+    // AI API Anahtarını Yükle
+    const savedKey = localStorage.getItem('smm_gemini_api_key');
+    if(savedKey) document.getElementById('api-key-input').value = savedKey;
 });
 
-// Senin mevcut fonksiyonunun "hafıza" özelliği eklenmiş hali
 function kilitAc() {
     const girilenSifre = document.getElementById('giris-sifresi').value;
     
     if (girilenSifre.toUpperCase() === "SMM1001") { 
         document.getElementById('kilit-ekrani').style.display = "none"; 
-        
-        // İŞTE SİHİRLİ DOKUNUŞ: Şifre doğruysa bunu cihazın hafızasına yazıyoruz
         localStorage.setItem("dersOnayi", "basarili"); 
     } 
     else { 
@@ -345,7 +342,6 @@ function kilitAc() {
     }
 }
 
-// --- YENİ EKLENEN: KARANLIK MOD FONKSİYONU ---
 function toggleDarkMode() {
     const isDark = document.body.classList.toggle('dark-mode');
     localStorage.setItem('smm_dark_mode', isDark);
@@ -354,11 +350,86 @@ function toggleDarkMode() {
     if (isDark) {
         btnIcon.classList.remove('fa-moon');
         btnIcon.classList.add('fa-sun');
-        btnIcon.style.color = '#facc15'; // Güneş sarısı
+        btnIcon.style.color = '#facc15'; 
     } else {
         btnIcon.classList.remove('fa-sun');
         btnIcon.classList.add('fa-moon');
-        btnIcon.style.color = 'inherit'; // Tema rengi
+        btnIcon.style.color = 'inherit'; 
+    }
+}
+
+// --- YENİ: AI API KAYDETME FONKSİYONU ---
+function kaydetAPIKey() {
+    const key = document.getElementById('api-key-input').value.trim();
+    if (key) {
+        localStorage.setItem('smm_gemini_api_key', key);
+        alert("SMM AI Koçu için API Anahtarı başarıyla kaydedildi!");
+        document.getElementById('ayarlar-modal').style.display='none';
+    } else {
+        alert("Lütfen geçerli bir anahtar girin.");
+    }
+}
+// --- YENİ: VERCEL SUNUCUSUNA BAĞLANAN GÜVENLİ AI MOTORU ---
+async function aiAnaliziIste() {
+    const soru = aktifSorular[mevcutSoruIndex];
+    const dogruIndex = soru.answer !== undefined ? soru.answer : soru.correct;
+    const kullaniciCevapIndex = denemeCevaplari[mevcutSoruIndex];
+
+    let seceneklerMetni = "";
+    soru.options.forEach((opt, i) => { seceneklerMetni += `${String.fromCharCode(65 + i)}) ${opt}\n`; });
+
+    const kullaniciMetni = (kullaniciCevapIndex != null && kullaniciCevapIndex !== undefined) 
+                           ? `${String.fromCharCode(65 + kullaniciCevapIndex)}) ${soru.options[kullaniciCevapIndex]}` 
+                           : "Kullanıcı soruyu boş bıraktı.";
+
+    const prompt = `LÜTFEN ŞU ROLÜ ÜSTLEN: Sen otoriter ama bir o kadar da motive edici, sıcakkanlı ve uzman bir SMMM Yeterlilik eğitmenisin. Asla yorum yapma ama öğrenciyi cesaretlendir. Açıklamalarını SADECE güncel Türk Vergi Mevzuatı, SPK, Ticaret Hukuku ve TMS/TFRS kurallarına dayandır. Yanıtını verirken HTML kullanma, Markdown kullan.
+
+Yanıtına DAİMA şu tarz samimi ve sıcak bir karşılama ile başla: "Sevgili Mali Müşavir Adayı, gel bu sorudaki tuzağı birlikte çözelim..." veya "Harika bir çaba Sevgili Meslektaşım, şimdi mevzuata yakından bakalım..."
+
+Aşağıdaki soruyu, kullanıcının verdiği cevabı ve doğru cevabı incele. Çeldiricinin neden yanlış olduğunu ve doğru şıkkın neden doğru olduğunu madde madde, kısa ve net açıkla. Önemli süre, oran ve cezaları vurgula (kalın yaz). Bol bol 🎯, 💡, ⚠️, ⚖️ gibi emojiler kullanarak metni renklendir ve canlandır.
+
+Soru: ${soru.q}
+Şıklar:
+${seceneklerMetni}
+Doğru Cevap: ${String.fromCharCode(65 + dogruIndex)}) ${soru.options[dogruIndex]}
+Kullanıcının Seçimi: ${kullaniciMetni}`;
+
+    const icerikAlani = document.getElementById('ai-modal-icerik');
+    const tavsiyeAlani = document.getElementById('ai-modal-tavsiye');
+    
+    document.getElementById('btn-hatalari-gor').style.display = 'none';
+    document.querySelector('.ai-modal-baslik h3').innerText = "✨ SMM AI Analizi";
+    
+    icerikAlani.innerHTML = `<div style="padding:30px; text-align:center;"><i class="fas fa-spinner fa-spin" style="font-size:40px; color:#8b5cf6;"></i><p style="margin-top:15px; color:#64748b; font-weight:bold;">SMM Yapay Zeka Koçuna Bağlanılıyor...</p></div>`;
+    tavsiyeAlani.style.display = 'none';
+    document.getElementById('ai-modal-arka').style.display = 'flex';
+
+    try {
+        // İŞTE SİHİR! Artık Google'a değil, kendi güvenli arka plan sunucumuza gidiyoruz.
+        const response = await fetch('/api/analiz', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ prompt: prompt })
+        });
+
+        const data = await response.json();
+        if (data.error) throw new Error(data.error);
+        
+        const analizSonucu = data.candidates[0].content.parts[0].text;
+        
+        icerikAlani.innerHTML = `
+            <style>
+                .ai-renkli-analiz p { margin-bottom: 12px; }
+                .ai-renkli-analiz strong { color: #ea580c; font-weight: 800; }
+                .ai-renkli-analiz ul { padding-left: 20px; margin-bottom: 12px; }
+                .ai-renkli-analiz li { margin-bottom: 8px; }
+            </style>
+            <div class="ai-renkli-analiz" style="text-align:left; font-size:14.5px; line-height:1.7; max-height:450px; overflow-y:auto; padding-right:10px; color: var(--text-dark);">
+                ${marked.parse(analizSonucu)}
+            </div>`;
+        
+    } catch (error) {
+        icerikAlani.innerHTML = `<div style="color:#ef4444; padding:20px; text-align:left;"><b>Sunucu Hatası:</b> Lütfen internet bağlantınızı kontrol edin veya daha sonra tekrar deneyin.<br><br><i>Detay: ${error.message}</i></div>`;
     }
 }
 </script>
@@ -391,7 +462,7 @@ function toggleDarkMode() {
             <div style="display: flex; align-items: center; gap: 15px;">
                 <div id="exam-timer" class="exam-timer"><i class="fas fa-clock"></i> <span id="timer-text">00:00</span></div>
                 <button id="open-drawer-btn" class="grid-icon-btn" onclick="toggleDrawer()"><i class="fas fa-grip-horizontal"></i></button>
-                
+                                
                 <button id="dark-mode-btn" onclick="toggleDarkMode()" style="background: var(--bg-color); color: var(--text-dark); border: 1px solid var(--border-color); padding: 8px 15px; border-radius: 20px; cursor: pointer; font-size: 16px; transition: 0.3s; display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 5px rgba(0,0,0,0.05);" title="Gece/Gündüz Modu">
                     <i class="fas fa-moon"></i>
                 </button>
@@ -434,6 +505,9 @@ function toggleDarkMode() {
                         <button id="btn-sonuclara-don" class="btn-nav" style="background: #0f172a; color: white; display: none;" onclick="sonuclaraDon()"><i class="fas fa-arrow-left"></i> Sonuçlara Dön</button>
                     </div>
                     <div style="display: flex; gap: 15px;">
+                        <!-- YENİ: AI BUTONU -->
+                        <button id="btn-ai-analiz" class="btn-nav" style="background: #8b5cf6; color: white; display: none;" onclick="aiAnaliziIste()"><i class="fas fa-magic"></i> AI Analizi İste</button>
+                        
                         <button id="btn-bos-gec" class="btn-nav btn-bos-gec" onclick="bosGec()" style="display:none;"><i class="fas fa-forward"></i> Boş Bırak / Geç</button>
                         <button id="btn-erken-bitir" class="btn-nav" style="background: #ef4444; color: white; display: none;" onclick="denemeyiBitir(true)"><i class="fas fa-flag-checkered"></i> Sınavı Bitir</button>
                         <button id="next-btn" class="btn-nav btn-next" onclick="sonrakiSoru()" disabled>Sonraki Soru <i class="fas fa-arrow-right" style="margin-left: 5px;"></i></button>
@@ -496,6 +570,7 @@ function toggleDarkMode() {
         </div>
     </div>
 
+    
     <div id="ai-modal-arka" class="ai-modal-overlay">
         <div class="ai-modal-kutu">
             <div class="ai-modal-baslik"><span style="font-size: 24px;">🤖</span><h3>SMM AI Rehber Analizi</h3></div>
@@ -535,14 +610,12 @@ function toggleDarkMode() {
         const urlParams = new URLSearchParams(window.location.search);
         const secilenDers = urlParams.get('ders'); 
         const denemeDersleri = urlParams.get('deneme'); 
-        const secilenSinav = urlParams.get('sinav'); // URL'den spesifik sınavı çek
-        const dersID = secilenDers || "genel"; // Hafıza çakışmasını önlemek için ders ID'si
+        const secilenSinav = urlParams.get('sinav'); 
+        const dersID = secilenDers || "genel"; 
         
         let isDenemeMode = !!denemeDersleri || (secilenDers === 'deneme_sinavi'); 
         let denemeCevaplari = []; 
         let examTimerInterval;
-        
-        // YENİ EKLENEN: Oturum takibi için benzersiz anahtar
         let oturumKey = ""; 
 
         function getDosyaYolu(dersId) {
@@ -622,8 +695,6 @@ function toggleDarkMode() {
                 const fetchPromises = secilenDerslerDizisi.map(dersId => fetch(getDosyaYolu(dersId)).then(r => r.json()));
                 
                 Promise.all(fetchPromises).then(sonuclar => {
-                    
-                    // OTURUM UPSERT (KARMA DENEME İÇİN)
                     oturumKey = "SMM_Karma_" + denemeDersleri.replace(/,/g, '_');
                     let kayitliOturum = localStorage.getItem(oturumKey);
                     let kayitliSorular = localStorage.getItem(oturumKey + "_sorular");
@@ -634,14 +705,13 @@ function toggleDarkMode() {
                             denemeCevaplari = JSON.parse(kayitliOturum);
                             document.getElementById('soru-alani').classList.remove('hidden');
                             optikPaletOlustur(); baslatSayac(aktifSorular.length * 2.25 * 60); soruYukle();
-                            return; // Eğer devam ediliyorsa alttaki kodları pas geç
+                            return; 
                         } else {
                             localStorage.removeItem(oturumKey);
                             localStorage.removeItem(oturumKey + "_sorular");
                         }
                     }
                     
-                    // Sıfırdan karma test yapılıyorsa
                     aktifSorular = [];
                     const dersIsimleri = {
                         'vergi': 'Vergi Mevzuatı', 'muhasebe': 'Muhasebe Denetimi', 'meslek': 'Meslek Hukuku', 
@@ -672,7 +742,6 @@ function toggleDarkMode() {
                         aktifSorular = aktifSorular.concat(sorular);
                     });
 
-                    // Oluşan random sınavı da hafızaya alalım ki devam edildiğinde sorular aynı kalsın
                     localStorage.setItem(oturumKey + "_sorular", JSON.stringify(aktifSorular));
                     denemeCevaplari = []; 
 
@@ -696,7 +765,6 @@ function toggleDarkMode() {
             });
         }
 
-        // --- YENİLENEN (UPSERT ENTEGRELİ) DENEMEYİ BAŞLAT FONKSİYONU ---
         function denemeyiBaslat(sinavAdi, sorular) {
             aktifSorular = sorular;
             document.getElementById('header-konu-adi').innerText = sinavAdi + " Çözülüyor";
@@ -705,16 +773,13 @@ function toggleDarkMode() {
                  if(!s.kaynakDersAdi) s.kaynakDersAdi = "Kurumsal Deneme Sınavı";
             });
 
-            // Oturum ID oluştur (Boşlukları alt çizgiye çeviriyoruz)
             oturumKey = "SMM_Deneme_" + (sinavAdi || "Genel").replace(/\s+/g, '_');
             let kayitliOturum = localStorage.getItem(oturumKey);
 
             if (kayitliOturum) {
                 if (confirm("Bu sınavda yarım kalan bir oturumunuz var.\n\nKaldığınız yerden (kayıtlı cevaplarınızla) devam etmek ister misiniz?")) {
-                    // Kaydedilmiş cevapları geri yükle
                     denemeCevaplari = JSON.parse(kayitliOturum);
                 } else {
-                    // Yeni baştan başla
                     denemeCevaplari = [];
                     localStorage.removeItem(oturumKey);
                 }
@@ -750,7 +815,6 @@ function toggleDarkMode() {
 
             let isFirst = true;
 
-            // 1. Normal Konular
             normalKonular.forEach((konuAdi) => { 
                 let isAktif = (aktifKategoriAdi === konuAdi) || (aktifKategoriAdi === "" && isFirst);
                 if (isAktif) { isFirst = false; aktifKategoriAdi = konuAdi; }
@@ -793,7 +857,6 @@ function toggleDarkMode() {
                 listeDiv.appendChild(btn); 
             });
 
-            // 2. Klasörlü Gruplar
             Object.keys(gruplar).forEach((anaBaslik) => {
                 const grupBtn = document.createElement('div'); 
                 grupBtn.className = 'nav-item'; 
@@ -856,7 +919,6 @@ function toggleDarkMode() {
                 listeDiv.appendChild(altKonuKutusu);
             });
 
-            // 3. Denemeler
             denemeKonular.forEach((konuAdi) => { 
                 let isAktif = (aktifKategoriAdi === konuAdi) || (aktifKategoriAdi === "" && isFirst);
                 if (isAktif) { isFirst = false; aktifKategoriAdi = konuAdi; }
@@ -909,7 +971,6 @@ function toggleDarkMode() {
         function kategoriSec(konuAdi, tiklananHtmlElementi) {
             if (!konuAdi) return; 
 
-            // SİHİRLİ DOKUNUŞ: Başka konuya geçildiğinde menüyü güncelliyoruz ki yarım kalanın kum saati hemen çıksın!
             aktifKategoriAdi = konuAdi; 
             menuyuOlustur(); 
 
@@ -923,15 +984,13 @@ function toggleDarkMode() {
                 if (confirm("Bu testte en son " + (veri.index + 1) + ". soruda kaldınız.\n\nKaldığınız yerden devam etmek ister misiniz?")) {
                     mevcutSoruIndex = veri.index; dogruSayisi = veri.dogru; yanlisSayisi = veri.yanlis;
                     
-                    // --- YENİ EKLENEN KISIM: Eski Cevapları ve Hata Geçmişini Geri Yükle ---
                     if (veri.cevaplar) denemeCevaplari = veri.cevaplar;
                     if (veri.hataliSorular) window.hataliSorular = veri.hataliSorular;
                     if (veri.kategoriAnalizi) window.kategoriAnalizi = veri.kategoriAnalizi;
-                    // ------------------------------------------------------------------------
                 } else {
                     localStorage.removeItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi);
                     mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
-                    menuyuOlustur(); // Hafızayı silerse kum saatini yok etmek için menüyü tekrar güncelle
+                    menuyuOlustur(); 
                 }
             } else {
                 mevcutSoruIndex = 0; dogruSayisi = 0; yanlisSayisi = 0;
@@ -972,22 +1031,24 @@ function toggleDarkMode() {
 
             guncelleOptikPalet(); 
 
+            let cevaplanmis = (!isDenemeMode && denemeCevaplari[mevcutSoruIndex] !== undefined && denemeCevaplari[mevcutSoruIndex] !== null);
+
+            // AI BUTONU KONTROLÜ
+            if (isIncelemeMode || cevaplanmis) {
+                document.getElementById('btn-ai-analiz').style.display = 'inline-block';
+            } else {
+                document.getElementById('btn-ai-analiz').style.display = 'none';
+            }
+
             s.options.forEach((metin, i) => {
                 const btn = document.createElement('button'); btn.className = 'option-btn';
                 
-                // 1. A, B, C gibi şık harflerini temizle
                 let temizMetin = metin.replace(/^[A-Ea-e]\)[\s]*/, "").replace(/^[A-Ea-e]\.[\s]*/, "");
-                
-                // --- İŞTE SİHİRLİ DOKUNUŞ BURASI ---
-                // JSON'dan gelen gizli &nbsp; kodlarını, özel karakterleri ve dev boşlukları tek seferde ezer!
                 temizMetin = temizMetin.replace(/(&nbsp;|\u00A0|\s)+/g, ' ');
-                // -----------------------------------
 
                 btn.innerHTML = `<b>${String.fromCharCode(65 + i)})</b> ${temizMetin}`;
                 let dogruAnahtar = s.answer !== undefined ? s.answer : s.correct;
                 
-                let cevaplanmis = (!isDenemeMode && denemeCevaplari[mevcutSoruIndex] !== undefined && denemeCevaplari[mevcutSoruIndex] !== null);
-
                 if(isIncelemeMode || cevaplanmis) {
                     btn.disabled = true; 
                     btn.style.cursor = 'default';
@@ -1004,13 +1065,11 @@ function toggleDarkMode() {
             document.getElementById('ilerleme-cubugu').style.width = (((mevcutSoruIndex + 1) / aktifSorular.length) * 100) + "%";
         }
         
-        // --- YENİLENEN (UPSERT ENTEGRELİ) CEVAPLAMA FONKSİYONU ---
         function cevapla(index, dogru, secilenBtn) {
             if(isDenemeMode) {
                 document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('selected-deneme'));
                 secilenBtn.classList.add('selected-deneme');
                 
-                // İŞTE UPSERT BÖLÜMÜ: Soru hafızaya anında güncellenerek eklenir
                 denemeCevaplari[mevcutSoruIndex] = index;
                 if (oturumKey) {
                     localStorage.setItem(oturumKey, JSON.stringify(denemeCevaplari));
@@ -1029,6 +1088,9 @@ function toggleDarkMode() {
 
             denemeCevaplari[mevcutSoruIndex] = index; 
             guncelleOptikPalet(); 
+            
+            // CEVAPLANDIĞI AN AI BUTONUNU GÖSTER
+            document.getElementById('btn-ai-analiz').style.display = 'inline-block';
 
             if (index === dogru) {
                 window.kategoriAnalizi[aktifKategoriAdi].dogru++; secilenBtn.classList.add('correct'); dogruSayisi++;
@@ -1061,7 +1123,6 @@ function toggleDarkMode() {
             if(mevcutSoruIndex < aktifSorular.length - 1) {
                 mevcutSoruIndex++; 
                 if(!isDenemeMode && !isIncelemeMode) {
-                    // --- GÜNCELLENEN KISIM: Kayıt paketine cevapları ve AI analiz verilerini ekledik ---
                     const kayitBilgisi = { 
                         index: mevcutSoruIndex, 
                         dogru: dogruSayisi, 
@@ -1070,7 +1131,6 @@ function toggleDarkMode() {
                         hataliSorular: window.hataliSorular || [],
                         kategoriAnalizi: window.kategoriAnalizi || {}
                     };
-                    // -------------------------------------------------------------------------------------
                     localStorage.setItem("SMM_Kayit_" + dersID + "_" + aktifKategoriAdi, JSON.stringify(kayitBilgisi));
                 }
                 soruYukle();
@@ -1080,11 +1140,9 @@ function toggleDarkMode() {
             }
         }
 
-        // --- YENİLENEN BOŞ GEÇME FONKSİYONU ---
         function bosGec() { 
             denemeCevaplari[mevcutSoruIndex] = null; 
             if (isDenemeMode && oturumKey) {
-                // Boş cevabı da anında kaydediyoruz
                 localStorage.setItem(oturumKey, JSON.stringify(denemeCevaplari));
             }
             sonrakiSoru(); 
@@ -1095,7 +1153,6 @@ function toggleDarkMode() {
         function toggleDrawer() { const drawer = document.getElementById('exam-drawer'); const overlay = document.getElementById('exam-drawer-overlay'); if (drawer.classList.contains('open')) { drawer.classList.remove('open'); overlay.style.display = 'none'; } else { drawer.classList.add('open'); overlay.style.display = 'block'; } }
         function baslatSayac(toplamSaniye) { let kalan = toplamSaniye; const timerText = document.getElementById('timer-text'); examTimerInterval = setInterval(() => { let dk = Math.floor(kalan / 60); let sn = kalan % 60; timerText.innerText = `${dk.toString().padStart(2, '0')}:${sn.toString().padStart(2, '0')}`; if (kalan <= 0) { clearInterval(examTimerInterval); alert("Süre Doldu!"); denemeyiBitir(true); } kalan--; }, 1000); }
         
-        // --- YENİLENEN (GARBAGE COLLECTION ENTEGRELİ) SINAVI BİTİR FONKSİYONU ---
         function denemeyiBitir(erkenBitirmeMi = false) {
             if (!isDenemeMode) {
                 if(erkenBitirmeMi && !confirm("Testi bitirmek istiyor musunuz?")) return;
@@ -1127,13 +1184,11 @@ function toggleDarkMode() {
                 return; 
             }
 
-            // DENEME MODU BİTİRME İŞLEMLERİ:
             if(erkenBitirmeMi && !confirm("Sınavı bitirmek istiyor musunuz?")) return;
             clearInterval(examTimerInterval); 
             document.getElementById('exam-timer').style.display = 'none';
             if(document.getElementById('exam-drawer').classList.contains('open')) toggleDrawer(); 
             
-            // GARBAGE COLLECTION: Sınavı bitirdik, artık bu oturuma ait çöp veriyi siliyoruz
             if (oturumKey) {
                 localStorage.removeItem(oturumKey);
                 localStorage.removeItem(oturumKey + "_sorular");
@@ -1195,6 +1250,10 @@ function toggleDarkMode() {
             const icerikAlani = document.getElementById('ai-modal-icerik'); 
             const tavsiyeAlani = document.getElementById('ai-modal-tavsiye'); 
             if (!icerikAlani || !tavsiyeAlani) return; 
+            
+            document.querySelector('.ai-modal-baslik h3').innerText = "SMM AI Rehber Analizi";
+            tavsiyeAlani.style.display = 'block';
+
             icerikAlani.innerHTML = "";
             let toplamDogru = 0, toplamSoru = 0, enZayifKategori = "", enDusukOran = 101;
             for (let kat in window.kategoriAnalizi) { 
@@ -1243,7 +1302,6 @@ function toggleDarkMode() {
         
         let isDragging = false, startX, startY, initialX, initialY; 
 
-        // === FARE (MOUSE) İLE SÜRÜKLEME KODLARI (MASAÜSTÜ) ===
         baslik.addEventListener("mousedown", (e) => { 
             isDragging = true; 
             startX = e.clientX; 
@@ -1255,14 +1313,12 @@ function toggleDarkMode() {
         
         document.addEventListener("mousemove", (e) => { 
             if (!isDragging) return; 
-            // !important ekleyerek CSS'in sabitlemesini eziyoruz
             tahta.style.setProperty("left", (initialX + (e.clientX - startX)) + "px", "important"); 
             tahta.style.setProperty("top", (initialY + (e.clientY - startY)) + "px", "important"); 
         }); 
         
         document.addEventListener("mouseup", () => { isDragging = false; });
         
-        // === DOKUNMATİK (TOUCH) İLE SÜRÜKLEME KODLARI (MOBİL) ===
         baslik.addEventListener("touchstart", (e) => { 
             isDragging = true; 
             startX = e.touches[0].clientX; 
@@ -1274,9 +1330,7 @@ function toggleDarkMode() {
         
         document.addEventListener("touchmove", (e) => { 
             if (!isDragging) return; 
-            e.preventDefault(); // Sürüklerken arkadaki sayfanın kaymasını engeller!
-            
-            // !important ekleyerek CSS'in sabitlemesini eziyoruz
+            e.preventDefault(); 
             tahta.style.setProperty("left", (initialX + (e.touches[0].clientX - startX)) + "px", "important"); 
             tahta.style.setProperty("top", (initialY + (e.touches[0].clientY - startY)) + "px", "important"); 
         }, { passive: false }); 
@@ -1286,7 +1340,6 @@ function toggleDarkMode() {
         
         let isDrawing = false; 
 
-        // === FARE (MOUSE) İLE ÇİZİM KODLARI (MASAÜSTÜ) ===
         canvas.addEventListener("mousedown", (e) => { 
             isDrawing = true; 
             ctx.beginPath(); 
@@ -1305,9 +1358,8 @@ function toggleDarkMode() {
         canvas.addEventListener("mouseup", () => { isDrawing = false; }); 
         canvas.addEventListener("mouseleave", () => { isDrawing = false; });
 
-        // === DOKUNMATİK (TOUCH) İLE ÇİZİM KODLARI (MOBİL) ===
         canvas.addEventListener("touchstart", (e) => { 
-            e.preventDefault(); // Sayfanın kaymasını engeller
+            e.preventDefault(); 
             isDrawing = true; 
             const rect = canvas.getBoundingClientRect();
             ctx.beginPath(); 
@@ -1316,7 +1368,7 @@ function toggleDarkMode() {
         
         canvas.addEventListener("touchmove", (e) => { 
             if (!isDrawing) return; 
-            e.preventDefault(); // Sayfanın kaymasını engeller
+            e.preventDefault(); 
             const rect = canvas.getBoundingClientRect();
             ctx.lineTo(e.touches[0].clientX - rect.left, e.touches[0].clientY - rect.top); 
             ctx.strokeStyle = "#f97316"; 
@@ -1327,8 +1379,6 @@ function toggleDarkMode() {
         
         canvas.addEventListener("touchend", () => { isDrawing = false; });
 
-       // --- EKRAN MODU DEĞİŞTİRME VE ÖZET YÜKLEME KODLARI ---
-
 function modDegistir(mod) {
     const ozetEkrani = document.getElementById('ozet-ekrani');
     const testEkrani = document.getElementById('test-ekrani');
@@ -1336,7 +1386,7 @@ function modDegistir(mod) {
     if (mod === 'ozet') {
         ozetEkrani.style.display = 'block';
         testEkrani.style.display = 'none';
-        ozetYukle(); // Butona basılınca özeti okuyan fonksiyonu çağırır
+        ozetYukle();
     } else {
         ozetEkrani.style.display = 'none';
         testEkrani.style.display = 'block';
@@ -1351,8 +1401,6 @@ function ozetYukle() {
         })
         .catch(error => console.error("Özet yüklenirken hata oluştu:", error));
 }
-
-
     </script>
 </body>
 </html>
