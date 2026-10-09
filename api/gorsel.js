@@ -1,6 +1,3 @@
-// api/gorsel.js
-export const maxDuration = 60; // Vercel'in süreyi kesmemesi için limiti 60 saniyeye çıkarıyoruz
-
 export default async function handler(req, res) {
     if (req.method !== 'POST') {
         return res.status(405).json({ error: 'Sadece POST istekleri kabul edilir.' });
@@ -20,10 +17,10 @@ export default async function handler(req, res) {
             body: JSON.stringify({
                 contents: [{
                     parts: [
-                        { text: "Sen uzman bir SMMM (Serbest Muhasebeci Mali Müşavir) eğitmenisin. Ekteki görselde yer alan soruyu dikkatlice oku. Önce soruyu anla, ardından doğru cevabı bul ve neden bu cevabın doğru olduğunu, ilgili mevzuat veya muhasebe kurallarına dayanarak adım adım ve anlaşılır bir dille detaylıca açıkla." },
+                        { text: "Sen uzman bir SMMM Yeterlilik eğitmenisin. Ekteki görselde yer alan soruyu dikkatlice oku. Önce soruyu anla, ardından doğru cevabı bul ve neden bu cevabın doğru olduğunu, ilgili mevzuat veya muhasebe kurallarına dayanarak adım adım ve anlaşılır bir dille detaylıca açıkla." },
                         {
-                            inlineData: {  // Google'ın beklediği doğru format (Büyük D harfi)
-                                mimeType: mimeType, // Google'ın beklediği doğru format (Büyük T harfi)
+                            inlineData: {
+                                mimeType: mimeType || 'image/jpeg',
                                 data: imageBase64
                             }
                         }
@@ -34,9 +31,8 @@ export default async function handler(req, res) {
 
         const data = await response.json();
         
-        // Gemini'den hata gelirse yakala
         if (!response.ok) {
-            throw new Error(data.error?.message || "Google Gemini API yanıt vermedi.");
+            return res.status(500).json({ error: data.error?.message || "Google Gemini API yanıt vermedi." });
         }
 
         res.status(200).json(data);
