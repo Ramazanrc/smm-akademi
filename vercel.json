@@ -2,10 +2,12 @@
   "version": 2,
   "builds": [
     { "src": "api/analiz.js", "use": "@vercel/node" },
+    { "src": "api/gorsel.js", "use": "@vercel/node" },
     { "src": "**", "use": "@vercel/static" }
   ],
   "routes": [
     { "src": "/api/analiz", "dest": "/api/analiz.js" },
+    { "src": "/api/gorsel", "dest": "/api/gorsel.js" },
     { "src": "/(.*)", "dest": "/$1" }
   ]
 }
