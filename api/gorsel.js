@@ -1,4 +1,3 @@
-// api/gorsel.js
 export default async function handler(req, res) {
     res.setHeader('Access-Control-Allow-Credentials', true);
     res.setHeader('Access-Control-Allow-Origin', '*');
@@ -14,8 +13,8 @@ export default async function handler(req, res) {
     if (!apiKey) return res.status(500).json({ error: 'Vercel API Anahtarı bulunamadı.' });
 
     try {
-        // En istikrarlı ve çalışan modeli kullanıyoruz: gemini-1.5-flash
-        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`, {
+        // Senin hafızanın haklı çıktığı ve sisteminde sorunsuz çalışan 3.8 modeline bağlanıyoruz!
+        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=${apiKey}`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
