@@ -3,5 +3,9 @@
   "builds": [
     { "src": "api/analiz.js", "use": "@vercel/node" },
     { "src": "**", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/api/analiz", "dest": "/api/analiz.js" },
+    { "src": "/(.*)", "dest": "/$1" }
   ]
 }
